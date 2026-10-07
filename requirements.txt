@@ -1,0 +1,16 @@
+# Versions du système gelé PHASE_4_FROZEN (lues dans agent_fr/eval/human/PHASE_4_FROZEN.manifest.json). Python 3.14.4, Windows 10.
+# Hors pip : Tesseract 5.5 (OCR du corpus), llama.cpp b11411 + modèle Qwen3-4B-Instruct-2507 Q4_K_M (LLM local), multilingual-e5-small et
+# mmarco-mMiniLMv2-L12-H384 au format ONNX (embeddings et reranker). Voir docs/LOCAL_DEPLOYMENT.md.
+numpy==2.5.2
+onnxruntime==1.30.0
+tokenizers==0.23.2
+requests==2.34.2
+Flask==3.1.3
+psutil==7.2.2
+truststore==0.10.4
+# Construction du corpus (pipeline de collecte et d'OCR) uniquement :
+PyMuPDF==1.28.0
+pytesseract==0.3.13
+Pillow==12.2.0
+python-docx==1.2.0
+openpyxl==3.1.5

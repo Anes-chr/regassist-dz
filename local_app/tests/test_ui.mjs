@@ -1,0 +1,318 @@
+// Tests de l'interface dans un VRAI navigateur (Edge/Chrome sans fenêtre), pilotés par le protocole DevTools : aucune dépendance npm (voir cdp.mjs).
+// Variables : UI_URL (serveur de test normal), UI_URL_LLM_OFF (serveur dont le LLM est « éteint »), BROWSER_PATH (facultatif).
+// Lancement habituel : python local_app/tests/test_ui.py  (démarre les serveurs de test, lance ce fichier, affiche « Tests UI : X/Y »).
+import { test, before, after } from 'node:test';
+import assert from 'node:assert/strict';
+import { startBrowser } from './cdp.mjs';
+
+const URL_MAIN = process.env.UI_URL;
+const URL_OFF = process.env.UI_URL_LLM_OFF;
+const ORIGIN = new URL(URL_MAIN).origin;
+
+let B;
+before(async () => { B = await startBrowser(); });
+after(() => B && B.close());
+const ev = (e) => B.ev(e), waitFor = (...a) => B.waitFor(...a), nav = (u) => B.nav(u), send = (...a) => B.send(...a), fresh = (u = URL_MAIN) => B.fresh(u);
+const text = (s) => B.text(s), count = (s) => B.count(s), exists = (s) => B.exists(s), ask = (q) => B.ask(q);
+const TECH = /qwen|llama|rerank|hybrid|retriev|PHASE_4|NO-GO|FROZEN|127\.0\.0\.1|OCR_UNCERTAIN|chunk|règle [A-Z]|\bLLM\b|\bms\b|modèle local|moteur|Traçabilité|\bACTIVE\b|\bREPLACED\b|\bMODIFIED\b|\bABROGATED\b|\bHISTORICAL\b|\bUNKNOWN\b/i;
+async function assertNoTechnicalDetail(where) {
+  const t = await ev('document.body.innerText'); const m = TECH.exec(t);
+  assert.equal(m, null, 'détail technique visible (' + where + ') : ' + (m && m[0]) + ' … ' + (m ? t.slice(Math.max(0, m.index - 70), m.index + 90) : ''));
+}
+const requests = { get length() { return B.requests.length; }, filter: (f) => B.requests.filter(f) };
+
+test("isolement : le navigateur de test n'a aucun accès Internet (donc l'interface fonctionne hors ligne)", async () => {
+  const r = await send('Page.navigate', { url: 'https://example.com/' });
+  assert.match(r.errorText || '', /ERR_NAME_NOT_RESOLVED/, "l'Internet doit être inaccessible pour ce navigateur : " + JSON.stringify(r));
+  B.requests.length = 0;                    // cette sonde est une requête du TEST, pas de l'application : on repart d'un relevé vide
+});
+
+test('chargement : mention « projet éducatif non officiel », données publiques, aucun détail technique', async () => {
+  await fresh();
+  assert.equal(await ev('document.title'), 'Assistant juridique - projet éducatif non officiel');
+  assert.match(await text('.brand-title'), /ASSISTANT JURIDIQUE/);
+  assert.equal((await text('.badge-edu')).trim(), 'PROJET ÉDUCATIF · NON OFFICIEL');
+  const notice = await text('#notice');
+  for (const x of ['Projet éducatif non officiel', "n'est ni affilié à la Banque d'Algérie ni approuvé par elle", 'textes publics', 'intelligence artificielle', 'pas été validées par un juriste',
+    'ne constituent pas un avis juridique', 'Seul le texte officiel (PDF) fait foi']) assert.ok(notice.includes(x), x + ' absent du bandeau : ' + notice);
+  const footer = await text('.footer');
+  for (const x of ['Projet éducatif non officiel', "Données publiques de la Banque d'Algérie", 'Réponses rédigées par une IA', 'Ne constitue pas un avis juridique']) assert.ok(footer.includes(x), x + ' absent du pied de page : ' + footer);
+  assert.equal(await exists('#chip-local, #footer .led, #status-panel, #btn-status'), false, "plus d'indicateur ni de panneau technique");
+  await assertNoTechnicalDetail('chargement');
+  assert.equal(await ev(`document.getElementById('btn-send').disabled`), true);
+  assert.equal(await count('.placeholder'), 2);
+});
+
+test("« À propos » : projet éducatif non officiel, données publiques, IA non entraînée sur ces textes, limites et vie privée", async () => {
+  await fresh();
+  assert.equal(await ev(`document.getElementById('about-panel').hidden`), true);
+  await ev(`document.getElementById('btn-about').click()`);
+  await waitFor(`!document.getElementById('about-panel').hidden`, 'ouverture du panneau');
+  assert.equal(await ev(`document.getElementById('btn-about').getAttribute('aria-expanded')`), 'true');
+  const t = await text('#about-panel');
+  for (const x of ['projet éducatif non officiel', "n'est affilié ni à la Banque d'Algérie ni à aucune autorité", 'données publiques', "n'a pas été entraînée ni spécialisée sur ces textes",
+    'ne remplace ni un professionnel du droit ni le texte officiel', 'ne conserve pas le texte de vos questions', "n'ont pas été validées par un juriste"]) assert.ok(t.includes(x), x + ' absent : ' + t);
+  await assertNoTechnicalDetail('à propos');
+  await ev(`document.dispatchEvent(new KeyboardEvent('keydown', { key: 'Escape' }))`);
+  await waitFor(`document.getElementById('about-panel').hidden`, 'fermeture du panneau');
+});
+
+test('envoi d\'une question : affichage du traitement, de la réponse et des sources citées, sans détail technique', async () => {
+  await fresh();
+  await ask("Quel est le plafond d'indemnisation par déposant ?");
+  await waitFor(`document.getElementById('answer').getAttribute('aria-busy') === 'true' && document.querySelector('#answer .loading')`, 'affichage du traitement en cours');
+  assert.match(await text('#answer .loading'), /Recherche dans les textes puis rédaction de la réponse/);
+  assert.equal(await ev(`document.getElementById('btn-send').disabled`), true, 'envoi désactivé pendant le traitement');
+  await waitFor(`document.querySelector('#answer .ans-text')`, 'réponse');
+  assert.match(await text('#question-echo .q-text'), /plafond d'indemnisation/);
+  assert.match(await text('#answer .ans-text'), /2\.000\.000 DA/);
+  assert.equal(await count('#answer .cite'), 2, 'citation [S1] cliquable dans le texte et dans la liste des sources citées');
+  assert.equal(await count('#sources .source'), 2);
+  assert.equal(await count('#sources .source.cited'), 1);
+  assert.match(await text('#src-S1 .src-cited'), /Cité dans la réponse/);
+  assert.equal(await exists('#src-S2 .src-cited'), false);
+  assert.match(await text('#answer .tags .tag-warn'), /1 avertissement\(s\)/);
+  assert.match(await text('#answer .callout-after'), /Correspondance partielle/);
+  assert.equal(await exists('#answer .timings'), false, 'plus de durées affichées');
+  assert.match(await text('#answer .ans-label'), /Réponse rédigée par une intelligence artificielle uniquement à partir des sources ci-contre/);
+  await assertNoTechnicalDetail('réponse');
+  assert.match(await text('#answer .disclaimer'), /ne constitue pas un avis juridique/);
+  assert.equal(await ev(`document.getElementById('question').value`), '');
+  assert.equal(await ev(`document.getElementById('answer').hasAttribute('aria-busy')`), false);
+});
+
+test('affichage d\'une source : référence, type, date, article, page, statuts, extrait, liens officiels', async () => {
+  await fresh();
+  await ask('plafond'); await waitFor(`document.querySelector('#answer .ans-text')`, 'réponse');
+  assert.equal((await text('#src-S1 .src-ref')), 'Règlement n° 2020-03 du 15 mars 2020');
+  const meta = await ev(`Object.fromEntries([...document.querySelectorAll('#src-S1 .src-meta dt')].map(d => [d.textContent, d.nextElementSibling.textContent]))`);
+  assert.deepEqual(meta, { 'Type de texte': 'Règlement', Date: '15 mars 2020', Article: 'Article 10', Page: 'p. 3–4 du PDF' });
+  const tags = await text('#src-S1 .tags');
+  assert.ok(tags.includes('Statut juridique : Dernière version connue') && tags.includes('Statut du texte : STATUT À VÉRIFIER'), tags);
+  assert.ok(!/en vigueur/i.test(await text('#src-S1')), "l'interface ne doit jamais écrire « en vigueur »");
+  assert.match(await text('#src-S1 .excerpt'), /plafond d'indemnisation par déposant est fixé à deux millions/);
+  assert.match(await text('#src-S1'), /Abroge : Règlement n° 2004-03 du 4 mars 2004/);
+  const link = await ev(`(() => { const a = document.querySelector('#src-S1 .src-links a'); return { t: a.textContent, h: a.href, target: a.target, rel: a.rel }; })()`);
+  assert.deepEqual(link, { t: 'PDF officiel', h: 'https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement202003.pdf', target: '_blank', rel: 'noopener noreferrer' });
+  assert.equal(await exists('#src-S1 .src-trace'), false); assert.ok(!/REG-20-03|chunk/.test(await text('#sources')), 'identifiant interne affiché');
+  const shown = await text('#sources');
+  assert.ok(!/score|similarit/i.test(shown), 'aucun score interne affiché');
+  await ev(`document.querySelector('#answer .cite').click()`);
+  assert.equal(await ev(`document.getElementById('src-S1').classList.contains('flash')`), true, 'le clic sur [S1] met la source en évidence');
+});
+
+test('refus : présenté comme une absence de réponse, jamais comme une réponse', async () => {
+  await fresh();
+  await ask('REFUS capitale de la France'); await waitFor(`document.querySelector('#answer .callout-info')`, 'refus');
+  assert.match(await text('#answer .callout-info'), /Aucune réponse établie/);
+  assert.match(await text('#answer .callout-info'), /Je ne trouve pas de disposition correspondante/);
+  assert.match(await text('#answer'), /Cela ne prouve pas qu'aucune disposition n'existe/);
+  assert.equal(await exists('#answer .ans-text'), false);
+  assert.equal(await count('#sources .source'), 0);
+  assert.match(await text('#sources'), /Aucune source retenue/);
+});
+
+test('refus du modèle : les passages examinés restent visibles mais ne sont pas présentés comme sources de la réponse', async () => {
+  await fresh();
+  await ask('REFMODELE'); await waitFor(`document.querySelector('#answer .callout-info')`, 'refus du modèle');
+  assert.equal((await text('#answer .callout-info h3')).trim(), 'Je ne peux pas répondre directement, mais voici quelques textes qui pourraient vous aider à trouver la réponse :');
+  assert.equal(await count('#answer .text-item'), 1);
+  assert.match(await text('#answer'), /Pourquoi pas de réponse directe[\s\S]*Je ne trouve pas de disposition correspondante[\s\S]*Des passages ont été examinés, mais aucune réponse sourcée n'a pu en être tirée/);
+  assert.match(await text('#sources .pane-sub'), /examiné\(s\) : aucun n'a permis d'établir une réponse/);
+  assert.equal(await count('#sources .source'), 1); assert.equal(await count('#sources .source.cited'), 0);
+});
+
+test('question ambiguë : demande de précision visible', async () => {
+  await fresh();
+  await ask('AMBIGU règlement'); await waitFor(`document.querySelector('#answer .callout-info')`, 'précision');
+  assert.match(await text('#answer .callout-info'), /Précision nécessaire/);
+  assert.match(await text('#answer .callout-info'), /trop générale/);
+  assert.equal(await exists('#answer .ans-text'), false);
+});
+
+test('erreurs : message clair sans pile d\'erreur ni détail interne, l\'envoi reste possible ensuite', async () => {
+  await fresh();
+  await ask('BUG'); await waitFor(`document.querySelector('#answer .callout-error')`, 'erreur interne');
+  const t = await text('#answer');
+  assert.match(t, /La question n'a pas pu être traitée/); assert.match(t, /Une erreur est survenue\. Réessayez dans un instant/);
+  assert.ok(!/Traceback|ValueError|secret|\.py|C:\\/.test(t), 'détail interne affiché : ' + t);
+  assert.equal(await count('.history .hist-item'), 0, 'une erreur n\'entre pas dans l\'historique');
+  await ask('PLANTAGE'); await waitFor(`document.querySelector('#answer .callout-error')?.textContent.includes('service de recherche')`, 'service de recherche indisponible');
+  assert.ok(!/vec_|D:\\|FileNotFound/.test(await text('#answer')));
+  await ask('plafond'); await waitFor(`document.querySelector('#answer .ans-text')`, 'reprise après erreur');
+});
+
+test('service de rédaction indisponible : message simple, textes affichés sans réponse rédigée, aucun détail technique', async () => {
+  await fresh(URL_OFF);
+  assert.match(await text('#composer-msg'), /Le service de rédaction des réponses est momentanément indisponible\. Les textes pertinents seront affichés sans réponse rédigée\./);
+  await ask('LLMOFF plafond'); await waitFor(`document.querySelector('#answer .callout-warn')`, 'service indisponible');
+  assert.match(await text('#answer .callout-warn'), /Le service de rédaction des réponses est momentanément indisponible\./);
+  assert.equal(await exists('#answer .ans-text'), false);
+  assert.match(await text('#sources .pane-sub'), /Aucune réponse n'a été rédigée/);
+  assert.equal(await count('#sources .source'), 1);
+  await assertNoTechnicalDetail('service indisponible');
+});
+
+test('échec de génération (serveur en ligne) : un seul message clair, passages affichés, jamais présenté comme une réponse', async () => {
+  await fresh();
+  await ask('ILLISIBLE plafond'); await waitFor(`document.querySelector('#answer .callout-warn')`, 'échec de génération');
+  const t = await text('#answer');
+  const msg = "La réponse n'a pas pu être rédigée correctement (question trop large ou réponse trop longue)";
+  assert.equal(t.split(msg).length - 1, 1, 'message affiché ' + (t.split(msg).length - 1) + ' fois : ' + t);
+  assert.equal((await text('#answer .callout-info h3')).trim(), 'Je ne peux pas répondre directement, mais voici quelques textes qui pourraient vous aider à trouver la réponse :');
+  assert.match(await text('#answer .callout-warn'), /Pourquoi pas de réponse directe/);
+  assert.equal(await count('#answer .text-item'), 1);
+  assert.match(t, /essayez une question plus précise/);
+  assert.match(t, /Correspondance partielle/);                       // les autres notes du système restent visibles
+  assert.ok(!/indisponible|illisible|extractive/.test(t), 'message inadapté ou interne : ' + t);
+  await assertNoTechnicalDetail('échec de génération');
+  assert.equal(await exists('#answer .ans-text'), false);
+  assert.match(await text('#sources .pane-sub'), /Aucune réponse n'a été rédigée/);
+  assert.equal(await count('#sources .source'), 1);
+});
+
+test('pas de réponse directe : « Je ne peux pas répondre directement, mais voici quelques textes… » avec la description de chaque texte', async () => {
+  await fresh();
+  await ask('GROUPES'); await waitFor(`document.querySelector('#answer .text-item')`, 'liste des textes');
+  assert.equal((await text('#answer .callout-info h3')).trim(), 'Je ne peux pas répondre directement, mais voici quelques textes qui pourraient vous aider à trouver la réponse :');
+  assert.match(await text('#answer .callout-info'), /ne constituent pas une réponse et ne contiennent pas nécessairement l'information recherchée/);
+  assert.equal(await exists('#answer .ans-text'), false, 'aucun texte de réponse ne doit être affiché');
+  assert.equal(await count('#answer .text-item'), 2, '3 passages de 2 textes : regroupés par texte');
+  // texte 1 : description tirée des métadonnées
+  const t1 = await ev(`(() => { const li = document.querySelectorAll('#answer .text-item')[0];
+    return { ref: li.querySelector('.text-ref').textContent, bold: li.querySelector('.text-ref strong').textContent, hasSeparateTitle: !!li.querySelector('.text-title'),
+      meta: Object.fromEntries([...li.querySelectorAll('.src-meta dt')].map(d => [d.textContent, d.nextElementSibling.textContent])),
+      passages: [...li.querySelectorAll('.src-meta .cite')].map(b => b.textContent), tags: li.querySelector('.tags').textContent,
+      link: li.querySelector('.src-links a').href, rel: li.querySelector('.rel').textContent }; })()`);
+  assert.equal(t1.bold, 'Règlement n°2020-03 du 15 mars 2020', 'la référence est mise en gras au début de l\'intitulé');
+  assert.equal(t1.ref, 'Règlement n°2020-03 du 15 mars 2020 relatif au système de garantie des dépôts bancaires', 'référence et intitulé sur UNE ligne, sans répétition');
+  assert.equal(t1.hasSeparateTitle, false);
+  assert.deepEqual(t1.meta['Type de texte'], 'Règlement'); assert.equal(t1.meta['Date'], '15 mars 2020');
+  assert.deepEqual(t1.passages, ['Article 10 (S1)', 'Article 11 (S2)']);
+  assert.ok(t1.tags.includes('Statut juridique : Dernière version connue') && !/en vigueur/i.test(t1.tags), t1.tags);
+  assert.equal(t1.link, 'https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement202003.pdf');
+  assert.equal(t1.rel, 'Abroge : Règlement n° 2004-03 du 4 mars 2004');
+  // texte 2 : texte abrogé, signalé comme tel
+  const t2 = await ev(`(() => { const li = document.querySelectorAll('#answer .text-item')[1];
+    return { ref: li.querySelector('.text-ref').textContent, tags: li.querySelector('.tags').textContent, alert: li.querySelector('.src-alert').textContent, rel: li.querySelector('.rel').textContent }; })()`);
+  assert.equal(t2.ref, 'Instruction n°05-2025 du 17 juillet 2025 relative au droit de change pour voyage à l’étranger.');
+  assert.ok(t2.tags.includes("Statut juridique : Abrogé d'après les textes"), t2.tags);
+  assert.match(t2.alert, /Ce texte a été abrogé par Instruction n° 07-2026/); assert.match(t2.rel, /Abrogé par : Instruction n° 07-2026 du 13 juillet 2026/);
+  // un passage cliquable renvoie à la carte détaillée dans le volet Sources ; les 3 passages y restent disponibles
+  assert.equal(await count('#sources .source'), 3);
+  await ev(`document.querySelectorAll('#answer .text-item')[1].querySelector('.cite').click()`);
+  assert.equal(await ev(`document.getElementById('src-S3').classList.contains('flash')`), true);
+  // la cause reste visible, une seule fois ; rien d'interne
+  const all = await text('#answer');
+  assert.match(all, /Pourquoi pas de réponse directe/);
+  assert.equal(all.split("La réponse n'a pas pu être rédigée correctement").length - 1, 1);
+  assert.ok(!/score|similarit|chunk|illisible|extractive|llama-server/i.test(all), 'donnée interne affichée : ' + all);
+  await assertNoTechnicalDetail('textes proposés');
+});
+
+test("codes internes de statut recopiés par l'IA : affichés en langage courant, notes sans jargon", async () => {
+  await fresh();
+  await ask('CODES plafond'); await waitFor(`document.querySelector('#answer .ans-text')`, 'réponse');
+  assert.match(await text('#answer .ans-text'), /statut juridique dernière version connue, l'ancien texte est remplacé \(version antérieure\) et un autre est vigueur non déterminée/);
+  const notes = await text('#answer .callout-after');
+  assert.match(notes, /écartée de l'analyse/); assert.match(notes, /À vérifier : valeur numérique de ce passage arabe/); assert.match(notes, /\(2000\.000\)/);   // la valeur douteuse reste visible telle quelle
+  assert.ok(!/règle U-ISOL|LLM|OCR_UNCERTAIN/.test(notes), 'jargon interne dans les avertissements : ' + notes);
+  await assertNoTechnicalDetail('codes internes');
+});
+
+test('pas de réponse directe : intitulé distinct de la référence affiché sur une seconde ligne', async () => {
+  await fresh();
+  await ask('TITRE'); await waitFor(`document.querySelector('#answer .text-item')`, 'liste des textes');
+  assert.equal(await text('#answer .text-ref strong'), 'Note n° 03-92 du 4 août 1992');
+  assert.equal(await text('#answer .text-ref'), 'Note n° 03-92 du 4 août 1992');
+  assert.equal(await text('#answer .text-title'), 'Recueil des dispositions relatives aux opérations de change');
+});
+
+test('pas de réponse directe : aucune liste quand aucun texte n\'a été retrouvé (refus de la recherche)', async () => {
+  await fresh();
+  await ask('REFUS capitale de la France'); await waitFor(`document.querySelector('#answer .callout-info')`, 'refus');
+  assert.equal(await count('#answer .text-item'), 0);
+  assert.ok(!(await text('#answer')).includes('voici quelques textes'));
+  assert.match(await text('#answer .callout-info'), /Aucune réponse établie/);
+});
+
+test('sécurité : le texte du corpus et de la réponse n\'est jamais interprété comme du HTML ou du script', async () => {
+  await fresh();
+  await ask('XSS'); await waitFor(`document.querySelector('#answer .ans-text')`, 'réponse');
+  assert.equal(await ev('window.__xss'), undefined);
+  assert.equal(await count('#sources img, #sources script, #answer i, #answer script'), 0);
+  assert.match(await text('#src-S1 .excerpt'), /<img src=x onerror="window\.__xss=1"><script>window\.__xss=2<\/script> Texte du corpus/);
+  assert.equal(await text('#src-S1 .src-ref'), '<b>Règlement</b> piégé');
+  assert.match(await text('#answer .ans-text'), /Réponse <i>balisée<\/i>/);
+});
+
+test('historique : conservé après rechargement, réponse restituée au clic', async () => {
+  await fresh();
+  await ask('Première question sur le plafond'); await waitFor(`document.querySelector('#answer .ans-text')`, 'réponse 1');
+  await ask('REFUS deuxième question'); await waitFor(`document.querySelector('#answer .callout-info')`, 'réponse 2');
+  assert.equal(await count('#history-list .hist-item'), 2);
+  assert.equal(await count('#history-list .conv-head'), 1);
+  await nav(URL_MAIN);
+  await waitFor(`document.querySelectorAll('#history-list .hist-item').length === 2`, 'historique après rechargement');
+  await ev(`[...document.querySelectorAll('.hist-item')].find(b => b.textContent.startsWith('Première')).click()`);
+  await waitFor(`document.querySelector('#answer .ans-text')`, 'réponse restituée');
+  assert.match(await text('#question-echo .q-text'), /Première question sur le plafond/);
+  assert.match(await text('#question-echo .q-saved'), /Réponse enregistrée le .* \(historique de ce navigateur\) : elle n'est pas recalculée/);
+  assert.equal(await ev(`document.querySelector('.hist-item[aria-current="true"]').textContent`), 'Première question sur le plafond');
+  assert.equal(await count('#sources .source'), 2);
+});
+
+test('nouvelle conversation : espace de travail vidé, nouvelle série dans l\'historique', async () => {
+  await ev(`document.getElementById('btn-new').click()`);
+  await waitFor(`document.getElementById('question-echo').hidden`, 'écran vide');
+  assert.equal(await count('#sources .source'), 0); assert.equal(await count('.placeholder'), 2);
+  await ask('Troisième question'); await waitFor(`document.querySelector('#answer .ans-text')`, 'réponse 3');
+  assert.equal(await count('#history-list .conv-head'), 2);
+  assert.equal(await count('#history-list .hist-item'), 3);
+});
+
+test('effacer l\'historique : confirmation en deux temps, puis liste et stockage vides', async () => {
+  await ev(`document.getElementById('btn-clear').click()`);
+  assert.equal((await text('#btn-clear')).trim(), "Confirmer l'effacement");
+  assert.equal(await count('#history-list .hist-item'), 3, 'rien n\'est effacé au premier clic');
+  await ev(`document.getElementById('btn-clear').click()`);
+  await waitFor(`document.querySelector('.history-empty')`, 'historique vide');
+  assert.equal(await ev(`localStorage.getItem('regassist.history.v1')`), null);
+});
+
+test('limite de longueur : compteur, blocage de l\'envoi au-delà de 500 caractères', async () => {
+  await fresh();
+  await ev(`(() => { const t = document.getElementById('question'); t.value = 'a'.repeat(501); t.dispatchEvent(new Event('input', { bubbles: true })); })()`);
+  assert.equal((await text('#counter')).trim(), '501 / 500');
+  assert.equal(await ev(`document.getElementById('counter').classList.contains('over')`), true);
+  assert.equal(await ev(`document.getElementById('btn-send').disabled`), true);
+  await ev(`(() => { const t = document.getElementById('question'); t.value = 'a'.repeat(500); t.dispatchEvent(new Event('input', { bubbles: true })); })()`);
+  assert.equal(await ev(`document.getElementById('btn-send').disabled`), false);
+});
+
+test('service injoignable : message simple, envoi bloqué', async () => {
+  await fresh();
+  await ev(`window.fetch = () => Promise.reject(new TypeError('Failed to fetch')); window.dispatchEvent(new Event('focus'))`);
+  await waitFor(`document.getElementById('composer-msg').textContent.includes('injoignable')`, 'message de service injoignable');
+  assert.match(await text('#composer-msg'), /Le service est momentanément injoignable\. Réessayez dans un instant\./);
+  assert.equal(await ev(`document.getElementById('btn-send').disabled`), true);
+});
+
+test('affichage étroit (téléphone) : pas de défilement horizontal, volets empilés', async () => {
+  await send('Emulation.setDeviceMetricsOverride', { width: 390, height: 844, deviceScaleFactor: 1, mobile: true });
+  try {
+    await fresh();
+    await ask('plafond'); await waitFor(`document.querySelector('#answer .ans-text')`, 'réponse');
+    const m = await ev(`({ sw: document.documentElement.scrollWidth, iw: window.innerWidth, cols: getComputedStyle(document.querySelector('.panes')).gridTemplateColumns.trim().split(/\\s+/).length })`);
+    assert.ok(m.sw <= m.iw + 1, `défilement horizontal : ${m.sw} > ${m.iw}`);
+    assert.equal(m.cols, 1);
+  } finally { await send('Emulation.clearDeviceMetricsOverride'); }
+});
+
+test('aucune ressource externe : toutes les requêtes du navigateur visent l\'application, aucune violation CSP, aucune exception', async () => {
+  const foreign = requests.filter((u) => !(u.startsWith(ORIGIN + '/') || (URL_OFF && u.startsWith(new URL(URL_OFF).origin + '/')) || u.startsWith('data:') || u === 'about:blank'));
+  assert.deepEqual(foreign, [], 'requêtes hors application : ' + foreign.join(', '));
+  assert.ok(requests.length > 20, 'les requêtes ont bien été observées (' + requests.length + ')');
+  assert.deepEqual(B.violations, [], 'violations de la politique CSP');
+  assert.deepEqual(B.exceptions, [], 'exceptions JavaScript non gérées');
+});

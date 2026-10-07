@@ -1,0 +1,16 @@
+{"id": "D01", "split": "dev_oos", "category": "hors_sujet", "question": "Combien de joueurs y a-t-il dans une équipe de football ?", "expect_refuse": true}
+{"id": "D02", "split": "dev_oos", "category": "hors_sujet", "question": "Quelle est la distance entre la Terre et la Lune ?", "expect_refuse": true}
+{"id": "D03", "split": "dev_oos", "category": "hors_sujet", "question": "Comment préparer une mayonnaise maison ?", "expect_refuse": true}
+{"id": "D04", "split": "dev_oos", "category": "hors_sujet", "question": "Qui a écrit le roman Les Misérables ?", "expect_refuse": true}
+{"id": "D05", "split": "dev_oos", "category": "hors_sujet", "question": "Explique le principe de la photosynthèse.", "expect_refuse": true}
+{"id": "D06", "split": "dev_oos", "category": "hors_sujet", "question": "Quel est le meilleur langage de programmation pour débuter ?", "expect_refuse": true}
+{"id": "D07", "split": "dev_oos", "category": "hors_sujet", "question": "À quelle température l'eau bout-elle ?", "expect_refuse": true}
+{"id": "D08", "split": "dev_oos", "category": "hors_sujet", "question": "Donne-moi un conseil pour mieux dormir.", "expect_refuse": true}
+{"id": "D09", "split": "dev_oos", "category": "hors_corpus", "question": "Quelle est la durée du mandat du président de la République ?", "expect_refuse": true}
+{"id": "D10", "split": "dev_oos", "category": "hors_corpus", "question": "À quel âge atteint-on la majorité civile ?", "expect_refuse": true}
+{"id": "D11", "split": "dev_oos", "category": "hors_corpus", "question": "Comment divorcer en Algérie ?", "expect_refuse": true}
+{"id": "D12", "split": "dev_oos", "category": "hors_corpus", "question": "Quelles sont les peines prévues pour la conduite en état d'ivresse ?", "expect_refuse": true}
+{"id": "D13", "split": "dev_oos", "category": "hors_corpus", "question": "Quel est le prix du baril de pétrole aujourd'hui ?", "expect_refuse": true}
+{"id": "D14", "split": "dev_oos", "category": "hors_corpus", "question": "Quelle est la procédure pour obtenir un passeport biométrique ?", "expect_refuse": true}
+{"id": "D15", "split": "dev_oos", "category": "hors_corpus", "question": "Quel est le montant de l'allocation chômage ?", "expect_refuse": true}
+{"id": "D16", "split": "dev_oos", "category": "hors_corpus", "question": "Quelles sont les règles du baccalauréat en Algérie ?", "expect_refuse": true}

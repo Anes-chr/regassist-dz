@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Assistant juridique - projet éducatif non officiel</title>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <span class="brand-title">ASSISTANT JURIDIQUE</span>
+    <span class="brand-sub">Textes réglementaires publics de la Banque d'Algérie</span>
+  </div>
+  <div class="topbar-right">
+    <span class="badge-edu">PROJET ÉDUCATIF · NON OFFICIEL</span>
+    <button type="button" id="btn-about" class="btn btn-ghost" aria-expanded="false" aria-controls="about-panel">À propos</button>
+  </div>
+</header>
+
+<div id="notice" class="notice" role="note">
+  <strong>Projet éducatif non officiel.</strong> Cet assistant n'est ni affilié à la Banque d'Algérie ni approuvé par elle. Il est construit exclusivement à partir de textes publics publiés sur son site.
+  Ses réponses, rédigées par une intelligence artificielle, peuvent être incomplètes ou erronées, n'ont pas été validées par un juriste et ne constituent pas un avis juridique.
+  Seul le texte officiel (PDF) fait foi.
+</div>
+
+<div class="layout">
+  <aside class="history" aria-label="Historique des questions">
+    <button type="button" id="btn-new" class="btn btn-primary btn-block">Nouvelle conversation</button>
+    <div id="history-list" class="history-list"></div>
+    <div class="history-foot">
+      <button type="button" id="btn-clear" class="btn btn-link">Effacer l'historique</button>
+      <p id="history-hint" class="hint">Votre historique est enregistré uniquement dans ce navigateur. Chaque question est traitée indépendamment des précédentes.</p>
+    </div>
+  </aside>
+
+  <main class="workspace">
+    <div id="question-echo" class="question-echo" hidden></div>
+    <div class="panes">
+      <section class="pane" aria-labelledby="h-sources">
+        <h2 id="h-sources" class="pane-title">Sources</h2>
+        <div id="sources" class="pane-body"></div>
+      </section>
+      <section class="pane" aria-labelledby="h-answer">
+        <h2 id="h-answer" class="pane-title">Réponse</h2>
+        <div id="answer" class="pane-body" aria-live="polite"></div>
+      </section>
+    </div>
+
+    <form id="form" class="composer" autocomplete="off">
+      <label for="question" class="sr-only">Votre question</label>
+      <textarea id="question" rows="2" placeholder="Posez une question sur un texte réglementaire de la Banque d'Algérie…" spellcheck="true"></textarea>
+      <div class="composer-row">
+        <span id="composer-msg" class="composer-msg" aria-live="polite"></span>
+        <span id="counter" class="counter">0 / 500</span>
+        <button type="submit" id="btn-send" class="btn btn-primary">Envoyer</button>
+      </div>
+    </form>
+  </main>
+</div>
+
+<footer class="footer">
+  <span>Projet éducatif non officiel</span><span class="sep">·</span>
+  <span>Données publiques de la Banque d'Algérie</span><span class="sep">·</span>
+  <span>Réponses rédigées par une IA, à vérifier dans le texte officiel</span><span class="sep">·</span>
+  <span>Ne constitue pas un avis juridique</span>
+</footer>
+
+<aside id="about-panel" class="drawer" hidden aria-labelledby="about-title">
+  <div class="drawer-head">
+    <h2 id="about-title">À propos de ce projet</h2>
+    <button type="button" id="btn-about-close" class="btn btn-ghost" aria-label="Fermer le panneau">Fermer</button>
+  </div>
+  <p>Cet assistant est un <strong>projet éducatif non officiel</strong>. Il n'est affilié ni à la Banque d'Algérie ni à aucune autorité, et n'a été approuvé par aucune d'elles.</p>
+  <h3>Les données</h3>
+  <p>Il est construit exclusivement à partir de <strong>données publiques</strong> : les règlements, instructions et notes publiés sur le site de la Banque d'Algérie. Aucun document privé ou confidentiel n'est utilisé.</p>
+  <h3>Comment il répond</h3>
+  <p>Quand vous posez une question, l'assistant retrouve les passages pertinents dans ces textes, puis une intelligence artificielle rédige une réponse à partir de ces seuls passages. Cette intelligence artificielle n'a pas été entraînée ni spécialisée sur ces textes : elle les lit au moment de la question.</p>
+  <h3>Ses limites</h3>
+  <ul>
+    <li>Les réponses peuvent être incomplètes, erronées ou dépassées, et n'ont pas été validées par un juriste.</li>
+    <li>Tous les textes ne sont pas couverts, et la situation actuelle d'un texte (modifié, remplacé, abrogé) n'est pas garantie.</li>
+    <li>Il ne remplace ni un professionnel du droit ni le texte officiel : vérifiez toujours dans le PDF officiel. Ce n'est pas un avis juridique.</li>
+  </ul>
+  <h3>Vos données</h3>
+  <p>L'application ne conserve pas le texte de vos questions. Votre historique est enregistré uniquement dans votre navigateur, et vous pouvez l'effacer à tout moment.</p>
+</aside>
+
+<script src="app.js"></script>
+</body>
+</html>

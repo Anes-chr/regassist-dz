@@ -1,0 +1,7 @@
+PHASE_4_FROZEN
+
+État du système gelé pour la validation juridique (phase 5). Statut de décision : NO-GO PROVISOIRE (validation humaine absente, TEST v2 absent).
+Manifeste : agent_fr/eval/human/PHASE_4_FROZEN.manifest.json (SHA-256 177fbf82f6bfe03fb23c67adf649e87689d07f519377b52b0f55bcef94ee9c36)
+Vérifier : python -m agent_fr.eval.human.freeze_phase4 verify
+Documentation : docs/PHASE_4_FROZEN.md
+Ne plus modifier : embeddings, reranker, poids de fusion, chunking, règles de ranking, logique temporelle, seuils, notation, TEST v1.

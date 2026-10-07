@@ -1,0 +1,385 @@
+/* Interface de l'assistant juridique (projet éducatif non officiel). Aucune dépendance, aucune ressource externe.
+   Tout texte venant de l'API (donc des textes officiels) est inséré avec textContent, jamais interprété comme du HTML.
+   L'interface ne montre aucun détail technique (modèle, moteur de recherche, durées, identifiants internes) : seulement ce qui sert à lire et vérifier une réponse. */
+(() => {
+  'use strict';
+
+  const STORE_KEY = 'regassist.history.v1';
+  const MAX_CONVS = 30;
+  const MAX_ENTRIES = 150;
+  const POLL_MS = 20000;
+  const DEFAULT_MAX_Q = 500;
+  const UNAVAILABLE = 'Le service de rédaction des réponses est momentanément indisponible.';
+
+  const $ = (id) => document.getElementById(id);
+  const el = (tag, cls, text) => {
+    const e = document.createElement(tag);
+    if (cls) e.className = cls;
+    if (text !== undefined && text !== null) e.textContent = text;
+    return e;
+  };
+
+  // Libellés du statut juridique calculé à partir des textes (jamais « en vigueur » : le site officiel ne publie pas de statut de vigueur).
+  const LEGAL = {
+    ACTIVE: ['Dernière version connue', 'neutral'],
+    MODIFIED: ['Modifié ultérieurement', 'warn'],
+    REPLACED: ['Remplacé (version antérieure)', 'danger'],
+    ABROGATED: ["Abrogé d'après les textes", 'danger'],
+    HISTORICAL: ["Valeur d'une période échue", 'warn'],
+    UNKNOWN: ['Vigueur non déterminée', 'warn'],
+  };
+
+  const state = { status: null, reachable: false, checked: false, busy: false, conv: null, convs: [], entry: null, storageOk: true, timer: null, maxQ: DEFAULT_MAX_Q };
+
+  /* ---------- utilitaires ---------- */
+  const safeUrl = (u) => (typeof u === 'string' && /^https?:\/\//i.test(u) ? u : null);
+  const plain = (s) => String(s || '').replace(/\s*\[règle[^\]]*\]/g, '');          // retire la mention de règle interne éventuelle
+  // L'IA recopie parfois les codes internes du statut (« son statut est ACTIVE ») : affichés avec le même libellé que dans les cartes de sources.
+  const humanize = (s) => String(s || '').replace(/\b(ACTIVE|MODIFIED|REPLACED|ABROGATED|HISTORICAL|UNKNOWN)\b/g, (m) => LEGAL[m][0].charAt(0).toLowerCase() + LEGAL[m][0].slice(1));
+  const fmtDate = (iso) => {
+    if (typeof iso !== 'string' || !/^\d{4}-\d{2}-\d{2}$/.test(iso)) return iso || null;
+    const d = new Date(iso + 'T00:00:00Z');
+    return isNaN(d) ? iso : d.toLocaleDateString('fr-FR', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' });
+  };
+  const fmtWhen = (ts) => new Date(ts).toLocaleString('fr-FR', { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' });
+  const cap = (s) => (s ? s.charAt(0).toUpperCase() + s.slice(1) : s);
+  const uid = () => Date.now().toString(36) + Math.random().toString(36).slice(2, 7);
+
+  /* ---------- historique (localStorage : reste dans ce navigateur) ---------- */
+  function loadHistory() {
+    try {
+      const raw = localStorage.getItem(STORE_KEY);
+      const data = raw ? JSON.parse(raw) : null;
+      state.convs = data && Array.isArray(data.convs) ? data.convs : [];
+    } catch (e) { state.convs = []; state.storageOk = false; }
+  }
+  function saveHistory() {
+    const trim = () => {
+      state.convs = state.convs.slice(-MAX_CONVS);
+      let total = state.convs.reduce((n, c) => n + c.entries.length, 0);
+      while (total > MAX_ENTRIES && state.convs.length > 1) { total -= state.convs[0].entries.length; state.convs.shift(); }
+    };
+    trim();
+    for (let attempt = 0; attempt < 3; attempt++) {
+      try { localStorage.setItem(STORE_KEY, JSON.stringify({ v: 1, convs: state.convs })); state.storageOk = true; return; }
+      catch (e) { state.storageOk = false; if (state.convs.length > 1) state.convs.shift(); else break; }
+    }
+    renderHistory();
+  }
+  function clearHistory() {
+    state.convs = []; state.conv = null; state.entry = null;
+    try { localStorage.removeItem(STORE_KEY); } catch (e) { /* stockage indisponible : l'historique en mémoire est vidé */ }
+    renderHistory(); resetWorkspace();
+  }
+
+  function renderHistory() {
+    const box = $('history-list'); box.replaceChildren();
+    const convs = state.convs.filter((c) => c.entries.length);
+    if (!convs.length) box.append(el('p', 'history-empty', 'Aucune question pour le moment.'));
+    for (const c of convs.slice().reverse()) {
+      box.append(el('div', 'conv-head', 'Conversation du ' + fmtWhen(c.at)));
+      for (const en of c.entries.slice().reverse()) {
+        const b = el('button', 'hist-item', en.q);
+        b.type = 'button'; b.title = en.q; b.dataset.entry = en.id;
+        if (state.entry === en.id) b.setAttribute('aria-current', 'true');
+        b.addEventListener('click', () => openEntry(c.id, en.id));
+        box.append(b);
+      }
+    }
+    $('history-hint').textContent = state.storageOk
+      ? 'Votre historique est enregistré uniquement dans ce navigateur. Chaque question est traitée indépendamment des précédentes.'
+      : "Le stockage du navigateur est indisponible : l'historique ne sera pas conservé à la fermeture de la page.";
+  }
+
+  function openEntry(convId, entryId) {
+    if (state.busy) return;                                  // une question est en cours : ne pas écraser l'affichage du traitement
+    const c = state.convs.find((x) => x.id === convId); const en = c && c.entries.find((x) => x.id === entryId);
+    if (!en) return;
+    state.conv = c; state.entry = en.id;
+    showQuestion(en.q, 'Réponse enregistrée le ' + fmtWhen(en.at) + ' (historique de ce navigateur) : elle n\'est pas recalculée. Reposez la question pour obtenir une réponse à jour.');
+    renderResponse(en.r);
+    renderHistory();
+  }
+
+  function newConversation() {
+    if (state.busy) return;
+    state.conv = null; state.entry = null;
+    resetWorkspace(); renderHistory(); $('question').focus();
+  }
+
+  /* ---------- rendu ---------- */
+  function resetWorkspace() {
+    $('question-echo').hidden = true;
+    $('sources').replaceChildren(el('p', 'placeholder', 'Les textes officiels retrouvés apparaîtront ici, avec leurs extraits.'));
+    $('answer').replaceChildren(el('p', 'placeholder', 'Posez une question en bas de page. La réponse n\'est affichée qu\'accompagnée de ses sources.'));
+  }
+
+  function showQuestion(q, savedNote) {
+    const box = $('question-echo'); box.replaceChildren(el('div', 'q-label', 'Question'), el('div', 'q-text', q));
+    if (savedNote) box.append(el('div', 'q-saved', savedNote));
+    box.hidden = false;
+  }
+
+  function tag(text, kind) { return el('span', 'tag' + (kind ? ' tag-' + kind : ''), text); }
+
+  function links(doc) {
+    const l = el('div', 'src-links');
+    for (const [label, u] of [['PDF officiel', doc.document_url], ['Page du site', doc.source_url]]) {
+      const url = safeUrl(u); if (!url) continue;
+      const a = el('a', null, label); a.href = url; a.target = '_blank'; a.rel = 'noopener noreferrer'; l.append(a);
+    }
+    return l;
+  }
+
+  function sourceCard(c, cited) {
+    const card = el('article', 'source' + (cited ? ' cited' : '')); card.id = 'src-' + c.id;
+    const head = el('div', 'src-head', null);
+    head.append(el('span', 'src-id', c.id), el('span', 'src-ref', c.texte || 'Texte sans référence'));
+    if (cited) head.append(el('span', 'src-cited', 'Cité dans la réponse'));
+    card.append(head);
+    if (c.titre) card.append(el('div', 'src-title', c.titre));
+
+    const meta = el('dl', 'src-meta');
+    const add = (k, v) => { if (v) { meta.append(el('dt', null, k), el('dd', null, v)); } };
+    add('Type de texte', cap(c.type));
+    add('Date', fmtDate(c.date));
+    add('Article', c.emplacement);
+    add('Page', c.page ? 'p. ' + c.page + (c.page_fin && c.page_fin !== c.page ? '–' + c.page_fin : '') + ' du PDF' : null);
+    add('Rubrique', [c.chapitre, c.section].filter(Boolean).join(' > '));
+    if (meta.children.length) card.append(meta);
+
+    const tags = el('div', 'tags');
+    const lg = LEGAL[c.statut_juridique];
+    if (lg) { const t = tag('Statut juridique : ' + lg[0], lg[1]); if (c.statut_detail) t.title = plain(c.statut_detail); tags.append(t); }
+    if (c.statut) tags.append(tag('Statut du texte : ' + c.statut));
+    if (c.a_verifier) tags.append(tag('Document signalé à vérifier', 'warn'));
+    if (c.extraction === 'ocr' || c.extraction === 'mixed') tags.append(tag('Texte numérisé (reconnaissance automatique)', 'warn'));
+    if (c.ocr_uncertain) tags.append(tag('Valeur numérique à vérifier dans le PDF', 'danger'));
+    if (tags.children.length) card.append(tags);
+
+    if (c.alerte) card.append(el('div', 'src-alert', c.alerte));
+    if (c.via) card.append(el('div', 'rel', '↳ Texte qui ' + c.via));
+    for (const [k, v] of Object.entries(c.relations || {})) card.append(el('div', 'rel', k + ' : ' + (Array.isArray(v) ? v.join(' ; ') : v)));
+
+    const ex = el('div', 'excerpt', c.extrait || ''); ex.setAttribute('role', 'document');
+    card.append(ex);
+    if ((c.extrait || '').length > 450) {
+      const tg = el('button', 'link-btn', "Afficher tout l'extrait"); tg.type = 'button';
+      tg.addEventListener('click', () => { const on = ex.classList.toggle('expanded'); tg.textContent = on ? "Réduire l'extrait" : "Afficher tout l'extrait"; });
+      card.append(tg);
+    }
+    const l = links(c); if (l.children.length) card.append(l);
+    return card;
+  }
+
+  function focusSource(id) {
+    const n = document.getElementById('src-' + id); if (!n) return;
+    n.scrollIntoView({ block: 'nearest' }); n.classList.add('flash'); setTimeout(() => n.classList.remove('flash'), 1600);
+  }
+
+  function withCitations(parent, text, known) {
+    for (const part of String(text || '').split(/(\[S\d+\])/)) {
+      const m = /^\[(S\d+)\]$/.exec(part);
+      if (m && known.has(m[1])) { const b = el('button', 'cite', part); b.type = 'button'; b.title = 'Aller à la source ' + m[1]; b.addEventListener('click', () => focusSource(m[1])); parent.append(b); }
+      else if (part) parent.append(document.createTextNode(part));
+    }
+  }
+
+  function renderSources(r) {
+    const box = $('sources'); box.replaceChildren();
+    const list = r.sources || [];
+    const cited = new Set(r.status === 'answered' ? (r.citations || []).map((c) => c.id) : []);
+    if (!list.length) { box.append(el('p', 'placeholder', r.status === 'clarification' ? 'Aucune source : la question doit d\'abord être précisée.' : 'Aucune source retenue pour cette question.')); return; }
+    const sub = {
+      answered: list.length + ' passage(s) utilisé(s) pour la réponse ; ceux qu\'elle cite sont signalés. Extraits reproduits tels quels.',
+      refused: list.length + ' passage(s) examiné(s) : aucun n\'a permis d\'établir une réponse. Ils ne constituent pas une réponse.',
+      llm_unavailable: list.length + ' passage(s) retrouvé(s). Aucune réponse n\'a été rédigée : ils ne constituent pas une réponse.',
+    }[r.status] || (list.length + ' passage(s).');
+    box.append(el('p', 'pane-sub', sub));
+    for (const c of list) box.append(sourceCard(c, cited.has(c.id)));
+  }
+
+  function callout(kind, title, text, items) {
+    const d = el('div', 'callout callout-' + kind);
+    if (title) d.append(el('h3', null, title));
+    if (text) d.append(el('p', null, text));
+    if (items && items.length) { const ul = el('ul'); for (const n of items) ul.append(el('li', null, n)); d.append(ul); }
+    return d;
+  }
+
+  // Un texte décrit avec ses seules métadonnées (rien n'est généré) : intitulé officiel, type, date, passages retrouvés, statut juridique, relations, liens.
+  function textItem(t) {
+    const li = el('li', 'text-item');
+    // L'intitulé officiel commence presque toujours par la référence (« Instruction n°07-2026 du 13 juillet 2026 relative au… ») : une seule ligne, référence en gras
+    // (comparaison sans espaces ni casse : « n° 07-2026 » = « n°07-2026 »). Sinon : référence puis intitulé sur deux lignes.
+    const head = el('div', 'text-ref'); const ti = t.titre || ''; const compact = (s) => s.replace(/\s+/g, '').toLowerCase(); const want = compact(t.reference || '');
+    let cut = -1; if (want && ti) { for (let i = 1; i <= ti.length; i++) { if (compact(ti.slice(0, i)) === want) { cut = i; break; } } }
+    if (cut > 0) { head.append(el('strong', null, ti.slice(0, cut)), document.createTextNode(ti.slice(cut))); li.append(head); }
+    else { head.append(el('strong', null, t.reference || 'Texte sans référence')); li.append(head); if (ti) li.append(el('div', 'text-title', ti)); }
+    const meta = el('dl', 'src-meta');
+    if (t.type) meta.append(el('dt', null, 'Type de texte'), el('dd', null, cap(t.type)));
+    if (t.date) meta.append(el('dt', null, 'Date'), el('dd', null, fmtDate(t.date)));
+    if ((t.passages || []).length) {
+      const dd = el('dd');
+      t.passages.forEach((p, i) => {
+        if (i) dd.append(document.createTextNode(' '));
+        const b = el('button', 'cite', (p.emplacement ? p.emplacement + ' ' : 'Passage ') + '(' + p.id + ')');
+        b.type = 'button'; b.title = 'Voir ce passage dans les sources'; b.addEventListener('click', () => focusSource(p.id)); dd.append(b);
+      });
+      meta.append(el('dt', null, 'Passages retrouvés'), dd);
+    }
+    li.append(meta);
+    const tags = el('div', 'tags'); const lg = LEGAL[t.statut_juridique];
+    if (lg) { const g = tag('Statut juridique : ' + lg[0], lg[1]); if (t.statut_detail) g.title = plain(t.statut_detail); tags.append(g); }
+    if (t.statut) tags.append(tag('Statut du texte : ' + t.statut));
+    if (tags.children.length) li.append(tags);
+    if (t.alerte) li.append(el('div', 'src-alert', t.alerte));
+    for (const [k, v] of Object.entries(t.relations || {})) li.append(el('div', 'rel', k + ' : ' + (Array.isArray(v) ? v.join(' ; ') : v)));
+    const l = links(t); if (l.children.length) li.append(l);
+    return li;
+  }
+
+  // « Je ne peux pas répondre directement, mais voici quelques textes… » : phrase fournie par l'API, puis la liste des textes décrits.
+  function textsBlock(r) {
+    const frag = document.createDocumentFragment();
+    frag.append(callout('info', r.texts_intro, 'Ce sont les textes qui se rapprochent le plus de votre question d\'après la recherche. Ils ne constituent pas une réponse et ne contiennent pas nécessairement l\'information recherchée : vérifiez dans le texte officiel.'));
+    const ol = el('ol', 'texts'); for (const t of r.texts) ol.append(textItem(t)); frag.append(ol);
+    return frag;
+  }
+
+  function renderAnswer(r) {
+    const box = $('answer'); box.replaceChildren(); box.removeAttribute('aria-busy');
+    const notes = r.notes || [];
+    const hasTexts = Array.isArray(r.texts) && r.texts.length > 0 && !!r.texts_intro;      // absent des anciennes réponses de l'historique : ancien affichage
+    if (r.status === 'answered') {
+      box.append(el('p', 'ans-label', 'Réponse rédigée par une intelligence artificielle uniquement à partir des sources ci-contre. Elle peut contenir des erreurs : vérifiez chaque citation dans le texte officiel (PDF).'));
+      if (notes.length) { const tg = el('div', 'tags'); tg.append(tag(notes.length + ' avertissement(s) à lire sous la réponse', 'warn')); box.append(tg); }
+      const ids = new Set((r.sources || []).map((s) => s.id));
+      const t = el('div', 'ans-text'); withCitations(t, humanize(r.answer), ids); box.append(t);
+      const cites = (r.citations || []).map((c) => c.id);
+      if (cites.length) { const l = el('div', 'cited-list', 'Sources citées : '); cites.forEach((id, i) => { if (i) l.append(document.createTextNode(' ')); withCitations(l, '[' + id + ']', ids); }); box.append(l); }
+      if (notes.length) { const w = callout('warn', 'À vérifier avant tout usage', null, notes.map(plain)); w.classList.add('callout-after'); box.append(w); }
+    } else if (r.status === 'refused') {
+      const extra = r.reason === 'refus_modele' ? ' Des passages ont été examinés, mais aucune réponse sourcée n\'a pu en être tirée.' : '';
+      if (hasTexts) {
+        box.append(textsBlock(r));
+        box.append(callout('info', 'Pourquoi pas de réponse directe', (r.answer || '') + extra));
+      } else {
+        box.append(callout('info', 'Aucune réponse établie', (r.answer || '') + extra));
+      }
+      box.append(el('p', 'ans-label', 'Cela ne prouve pas qu\'aucune disposition n\'existe : reformulez la question (texte, numéro, article, période) ou consultez directement les textes officiels.'));
+      if (notes.length) box.append(callout('warn', 'Précisions', null, notes.map(plain)));
+    } else if (r.status === 'clarification') {
+      box.append(callout('info', 'Précision nécessaire', r.answer || ''));
+      if (notes.length) box.append(callout('warn', 'Précisions', null, notes.map(plain)));
+    } else if (r.status === 'llm_unavailable') {
+      const why = (r.llm && r.llm.message) || UNAVAILABLE;
+      if (hasTexts) {
+        box.append(textsBlock(r));
+        box.append(callout('warn', 'Pourquoi pas de réponse directe', why));
+      } else {
+        box.append(callout('warn', 'Réponse indisponible', why));
+        box.append(el('p', 'ans-label', 'Les passages retrouvés sont affichés ci-contre. Ils ne constituent pas une réponse.'));
+      }
+      const rest = notes.filter((n) => n !== why);
+      if (rest.length) box.append(callout('warn', 'Précisions', null, rest.map(plain)));
+    } else {
+      box.append(callout('error', 'Réponse inattendue du service', 'Le service a renvoyé un état non reconnu.'));
+    }
+    if (r.disclaimer) box.append(el('p', 'disclaimer', r.disclaimer));
+  }
+
+  function renderResponse(r) { renderSources(r); renderAnswer(r); }
+
+  function renderError(message) {
+    const box = $('answer'); box.replaceChildren(); box.removeAttribute('aria-busy');
+    box.append(callout('error', 'La question n\'a pas pu être traitée', message));
+    $('sources').replaceChildren(el('p', 'placeholder', 'Aucune source : la question n\'a pas abouti.'));
+  }
+
+  function renderLoading() {
+    const box = $('answer'); box.replaceChildren(); box.setAttribute('aria-busy', 'true');
+    const p = el('p', 'loading'); const t0 = Date.now();
+    const msg = el('span', null, 'Recherche dans les textes puis rédaction de la réponse. Cela peut prendre jusqu\'à une minute… ');
+    const sec = el('span', 'elapsed', '0 s'); p.append(msg, sec); box.append(p);
+    $('sources').replaceChildren(el('p', 'placeholder', 'Recherche des sources en cours…'));
+    state.timer = setInterval(() => { sec.textContent = Math.round((Date.now() - t0) / 1000) + ' s'; }, 1000);
+  }
+
+  /* ---------- envoi d'une question ---------- */
+  const starting = () => !!(state.status && state.status.app && state.status.app.state === 'starting');
+
+  function updateComposer() {
+    const q = $('question').value; const n = q.trim().length;
+    const counter = $('counter'); counter.textContent = q.length + ' / ' + state.maxQ; counter.classList.toggle('over', q.length > state.maxQ);
+    let msg = '';
+    if (!state.checked) msg = '';
+    else if (!state.reachable) msg = 'Le service est momentanément injoignable. Réessayez dans un instant.';
+    else if (starting()) msg = 'Le service démarre, veuillez patienter quelques secondes…';
+    else if (state.status && state.status.llm && !state.status.llm.online) msg = UNAVAILABLE + ' Les textes pertinents seront affichés sans réponse rédigée.';
+    $('composer-msg').textContent = msg;
+    $('btn-send').disabled = state.busy || !state.reachable || n < 3 || q.length > state.maxQ || starting();
+  }
+
+  async function sendQuestion() {
+    const q = $('question').value.trim();
+    if (state.busy || q.length < 3 || q.length > state.maxQ) return;
+    state.busy = true; updateComposer(); showQuestion(q); renderLoading();
+    try {
+      const res = await fetch('/api/chat', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ question: q }) });
+      let data = null; try { data = await res.json(); } catch (e) { data = null; }
+      if (!res.ok || !data || data.error) {
+        renderError((data && data.error && data.error.message) || 'Le service a répondu par une erreur (' + res.status + ').');
+      } else {
+        if (!state.conv) { state.conv = { id: uid(), at: Date.now(), entries: [] }; state.convs.push(state.conv); }
+        const entry = { id: uid(), at: Date.now(), q: data.question || q, r: data };
+        state.conv.entries.push(entry); state.entry = entry.id;
+        saveHistory(); renderHistory(); renderResponse(data);
+        $('question').value = '';
+      }
+    } catch (e) {
+      renderError('Le service est momentanément injoignable. Réessayez dans un instant.');
+    } finally {
+      clearInterval(state.timer); state.busy = false; refreshStatus(); updateComposer();
+    }
+  }
+
+  /* ---------- disponibilité du service (aucun détail technique affiché) ---------- */
+  async function refreshStatus() {
+    try {
+      const res = await fetch('/api/status', { cache: 'no-store' });
+      if (!res.ok) throw new Error('status ' + res.status);
+      state.status = await res.json(); state.reachable = true;
+      state.maxQ = (state.status.limits && state.status.limits.max_question_chars) || DEFAULT_MAX_Q;
+    } catch (e) { state.status = null; state.reachable = false; }
+    state.checked = true;
+    updateComposer();
+  }
+
+  function toggleAbout(open) {
+    const p = $('about-panel'); p.hidden = !open; $('btn-about').setAttribute('aria-expanded', String(open));
+    if (open) $('btn-about-close').focus(); else $('btn-about').focus();
+  }
+
+  /* ---------- initialisation ---------- */
+  function init() {
+    loadHistory(); renderHistory(); resetWorkspace(); updateComposer();
+    $('form').addEventListener('submit', (ev) => { ev.preventDefault(); sendQuestion(); });
+    $('question').addEventListener('input', updateComposer);
+    $('question').addEventListener('keydown', (ev) => { if (ev.key === 'Enter' && !ev.shiftKey && !ev.isComposing) { ev.preventDefault(); sendQuestion(); } });
+    $('btn-new').addEventListener('click', newConversation);
+    let armed = null;
+    $('btn-clear').addEventListener('click', () => {
+      const b = $('btn-clear');
+      if (!armed) { b.textContent = "Confirmer l'effacement"; armed = setTimeout(() => { b.textContent = "Effacer l'historique"; armed = null; }, 4000); return; }
+      clearTimeout(armed); armed = null; b.textContent = "Effacer l'historique"; clearHistory();
+    });
+    $('btn-about').addEventListener('click', () => toggleAbout($('about-panel').hidden));
+    $('btn-about-close').addEventListener('click', () => toggleAbout(false));
+    document.addEventListener('keydown', (ev) => { if (ev.key === 'Escape' && !$('about-panel').hidden) toggleAbout(false); });
+    refreshStatus(); setInterval(() => { if (!document.hidden && !state.busy) refreshStatus(); }, POLL_MS);
+    window.addEventListener('focus', refreshStatus);
+    $('question').focus();
+  }
+  init();
+})();

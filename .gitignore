@@ -1,0 +1,29 @@
+# Données : jamais versionnées (corpus officiel, état de collecte, modèles, index, caches, sorties d'exécution, jeux de relecture).
+# Raisons : taille, et règle du projet (le contenu du corpus ne part pas vers une plateforme externe sans autorisation explicite).
+/corpus/
+/state/
+/agent_fr/.cache/
+/agent_fr/eval/results/
+/agent_fr/eval/llm_blind/*.jsonl
+/agent_fr/eval/llm_blind/*.json
+/agent_fr/eval/human/review/
+/agent_fr/eval/human/benchmark_*.jsonl
+/agent_fr/eval/human/benchmark_dev_phase4.remap.json
+/agent_fr/eval/human/ai_adjudication.json
+/llm_local/results/
+/local_app/runtime/
+
+# Fichiers générés
+__pycache__/
+*.py[cod]
+*.log
+*.err
+*.pkl
+*.npy
+*.npz
+
+# Binaires lourds (modèles, documents sources)
+*.gguf
+*.onnx
+*.pdf
+*.zip
