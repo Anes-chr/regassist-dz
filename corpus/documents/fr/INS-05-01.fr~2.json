@@ -1,0 +1,1994 @@
+{
+  "document_id": "INS-05-01.fr~2",
+  "work_id": "INS-05-01",
+  "title": "Instruction n°05-2001 du 04 septembre 2001 modifiant et remplaçant l’instruction n°23-92 du 10 juin 1992 fixant les conditions et les modalités d’émission de titres de transport aérien ou maritime et de transfert des excédents de recettes.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "05-2001",
+  "number_source": "en-tête du document",
+  "date": "2001-09-04",
+  "date_raw": "N°05-2001 DU 04 SEPTEMBRE 2001",
+  "date_source": "en-tête du document",
+  "publication_date": "2023-01-24",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Règlementation des changes",
+  "source_url": "https://www.bank-of-algeria.dz/importations-exportations-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction052001.pdf",
+  "format": "pdf",
+  "file_hash": "03988eaad6ff017cdc1f04366b8e12b5f2ccc32744b6dc22593846ee7bf992f6",
+  "file_size": 94520,
+  "raw_path": "raw/03988eaad6ff__instruction052001.pdf",
+  "retrieved_at": "2026-10-05T13:26:00+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 11,
+  "url_hash": "5eca5d2b152d729eb0ffc6bd054d032b0a546b72394cc15becf8adbf00ba0eef",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/importations-exportations-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document2",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200922104545+01'00'",
+    "modDate": "D:20200922104545+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 11,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2657,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 2734,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 2721,
+        "ocr_confidence": null
+      },
+      {
+        "page": 4,
+        "method": "pdf_text",
+        "chars": 3084,
+        "ocr_confidence": null
+      },
+      {
+        "page": 5,
+        "method": "pdf_text",
+        "chars": 3045,
+        "ocr_confidence": null
+      },
+      {
+        "page": 6,
+        "method": "pdf_text",
+        "chars": 2964,
+        "ocr_confidence": null
+      },
+      {
+        "page": 7,
+        "method": "pdf_text",
+        "chars": 670,
+        "ocr_confidence": null
+      },
+      {
+        "page": 8,
+        "method": "pdf_text",
+        "chars": 739,
+        "ocr_confidence": null
+      },
+      {
+        "page": 9,
+        "method": "pdf_text",
+        "chars": 604,
+        "ocr_confidence": null
+      },
+      {
+        "page": 10,
+        "method": "pdf_text",
+        "chars": 607,
+        "ocr_confidence": null
+      },
+      {
+        "page": 11,
+        "method": "pdf_text",
+        "chars": 694,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 6,
+    "annex_count": 5
+  },
+  "quality_flags": [
+    "meme_texte_plusieurs_fichiers"
+  ],
+  "title_document": "INSTRUCTION N°05-2001 DU 04 SEPTEMBRE 2001 MODIFIANT ET REMPLAÇANT L'INSTRUCTION N°23-92 DU 10 JUIN 1992 FIXANT LES CONDITIONS ET LES MODALITES D'EMISSION DE",
+  "alias_urls": [],
+  "text_hash": "f81e9506ae049fa2654c6ab36145f99d0bad7d401c83c53dab93926506e51145",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "23-92",
+        "date": "1992-06-10",
+        "raw": "instruction n°23-92 du 10 juin 1992"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°05-2001 du 04 septembre 2001 modifiant et remplaçant l’instruction n°23-92 du 10 juin 1992 fixant les conditions et les modalités"
+      },
+      "target_work_id": "INS-23-92"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-23-92",
+      "reference": "instruction n°23-92 du 10 juin 1992",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°05-2001 du 04 septembre 2001 modifiant et remplaçant l’instruction n°23-92 du 10 juin 1992 fixant les conditions et les modalités"
+      }
+    }
+  ],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [
+    {
+      "work_id": "INS-08-01",
+      "document_id": "INS-08-01.fr",
+      "date": "2001-12-30",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°08-2001 du 30 décembre 2001 modifiant et remplaçant les dispositions de l’instruction n°05-2001 du 05 septembre 2001, fixant les conditions et les modalités"
+      }
+    }
+  ],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée. Ce texte a été modifié/complété : consulter aussi les textes listés dans modifié_par / complété_par.",
+  "same_work_documents": [
+    "INS-05-01.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [
+    {
+      "work_id": "INS-08-01",
+      "document_id": "INS-08-01.fr",
+      "date": "2001-12-30",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°08-2001 du 30 décembre 2001 modifiant et remplaçant les dispositions de l’instruction n°05-2001 du 05 septembre 2001, fixant les conditions et les modalités"
+      }
+    }
+  ],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 2,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 3,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 4,
+      "page_end": 5,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 5,
+      "page_end": 6,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 6,
+      "page_end": 6,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 6,
+      "page_end": 6,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 6,
+      "page_end": 6,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 7,
+      "page_end": 7,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 8,
+      "page_end": 8,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 10,
+      "page_end": 10,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 11,
+      "page_end": 11,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "titre",
+      "label": "Titre III",
+      "number": null,
+      "heading": "DISPOSITIONS DIVERSES",
+      "children": [
+        {
+          "type": "section",
+          "label": "Section III",
+          "number": null,
+          "heading": "Les recettes en devises générées par l'utilisation de cartes de crédit ou de tout autre",
+          "children": [
+            {
+              "type": "article",
+              "label": "Article 3",
+              "number": "3",
+              "heading": null,
+              "page_start": 6,
+              "page_end": 6,
+              "children": []
+            },
+            {
+              "type": "article",
+              "label": "Article 4",
+              "number": "4",
+              "heading": null,
+              "page_start": 6,
+              "page_end": 6,
+              "children": []
+            },
+            {
+              "type": "article",
+              "label": "Article 5",
+              "number": "5",
+              "heading": null,
+              "page_start": 6,
+              "page_end": 6,
+              "children": []
+            },
+            {
+              "type": "article",
+              "label": "Article 6",
+              "number": "6",
+              "heading": null,
+              "page_start": 6,
+              "page_end": 6,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe I",
+      "number": "I",
+      "heading": "FEUILLE DE VOL",
+      "page_start": 7,
+      "page_end": 7,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe I",
+      "number": "I",
+      "heading": "Bis",
+      "page_start": 8,
+      "page_end": 8,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe II",
+      "number": "II",
+      "heading": "ETAT RECAPITULATIF DES PRODUITS ET DES CHARGES ENREGISTRES AUX COMPTES DE RESULTAT DURANT LE ............................TRIMESTRE 20.. A PRODUITS (PRESTATIONS FOURNIES)",
+      "page_start": 9,
+      "page_end": 9,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe III",
+      "number": "III",
+      "heading": "BORDEREAU RECAPITULATIF DES FEUILLES DE VOL",
+      "page_start": 10,
+      "page_end": 10,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe III",
+      "number": "III",
+      "heading": "Bis",
+      "page_start": 11,
+      "page_end": 11,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°05-2001 DU 04 SEPTEMBRE 2001 MODIFIANT ET REMPLAÇANT\nL'INSTRUCTION N°23-92 DU 10 JUIN 1992 FIXANT LES CONDITIONS\nET LES MODALITES D'EMISSION DE TITRES DE TRANSPORT AERIEN OU\nMARITIME ET DE TRANSFERT DES EXCEDENTS DE RECETTES",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°05-2001 DU 04 SEPTEMBRE 2001 MODIFIANT ET REMPLAÇANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L'INSTRUCTION N°23-92 DU 10 JUIN 1992 FIXANT LES CONDITIONS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET LES MODALITES D'EMISSION DE TITRES DE TRANSPORT AERIEN OU",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "MARITIME ET DE TRANSFERT DES EXCEDENTS DE RECETTES",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente Instruction a pour objet, conformément à l'article 38 du règlement n°95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes, de fixer les conditions et les modalités d'émission de titres de transport aérien ou maritime et de transfert des excédents de recettes.",
+      "paragraphs": [
+        {
+          "text": "La présente Instruction a pour objet, conformément à l'article 38 du règlement n°95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes, de fixer les conditions et les modalités d'émission de titres de transport aérien ou maritime et de transfert des excédents de recettes.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L'émission de titres de transport aérien ou maritime par les compagnies aériennes et maritimes nationales ou étrangères régulièrement installées en Algérie et par les entreprises et agences de tourisme et de voyage agréées ainsi que le transfert des excédents de recettes s'effectuent selon les conditions et modalités ci-après définies.",
+      "paragraphs": [
+        {
+          "text": "L'émission de titres de transport aérien ou maritime par les compagnies aériennes et maritimes nationales ou étrangères régulièrement installées en Algérie et par les entreprises et agences de tourisme et de voyage agréées ainsi que le transfert des excédents de recettes s'effectuent selon les conditions et modalités ci-après définies.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "I",
+          "heading": "CONDITIONS ET MODALITES D'EMISSION DE TITRES DE TRANSPORT AERIEN OU MARITIME",
+          "label": "Titre I"
+        },
+        "section": {
+          "number": "I",
+          "heading": "Conditions d'émission",
+          "label": "Section I"
+        }
+      },
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "I.1 - Les titres de transport sont émis par les compagnies aériennes et maritimes nationales ou étrangères régulièrement installées en Algérie ayant reçues de l'autorité compétente l'autorisation pour l'exercice de cette activité conformément à un accord aérien ou maritime ainsi que les entreprises et agences de tourisme et de voyage agréées dans le cadre de la loi en vigueur.\nL'activité d'émission de titres de transport aérien ou maritime par les entreprises et les agences citées à l'alinéa I-1 ci-dessus s'exerce à titre exclusif dans le cadre d'une délégation d'émission délivrée à leur profit par les compagnies de transport aérien ou maritime.\nI.2 - Au sens de la présente instruction il est entendu par titres de transport :\n- Aérien : le billet de passage - le billet d'excédent de bagages - la lettre de transport aérien (L.T.A) - le bon pour charges diverses (MCO) ;\n- Maritime : les billets passagers et, le cas échéant, auto - passagers et de bagages.\nI.3 - Les titres de transport aérien ou maritime sont émis au profit des résidents et des non-résidents selon les conditions fixées au paragraphe II ci-dessous.\nI.4 - Parcours - Les parcours aériens ou maritimes sont classés en trois (03) zones A, B, et C, ci-dessous définies :\n- les parcours de la zone A sont ceux constitués par tous trajets vers l'étranger au départ d'Algérie ;\n- les parcours de la zone B sont ceux partant de l'étranger vers l'Algérie ou toute autre destination ;\n- les parcours de la zone C sont ceux constitués par les parcours sur les lignes intérieures nationales.",
+      "paragraphs": [
+        {
+          "text": "I.1 - Les titres de transport sont émis par les compagnies aériennes et maritimes nationales ou étrangères régulièrement installées en Algérie ayant reçues de l'autorité compétente l'autorisation pour l'exercice de cette activité conformément à un accord aérien ou maritime ainsi que les entreprises et agences de tourisme et de voyage agréées dans le cadre de la loi en vigueur.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L'activité d'émission de titres de transport aérien ou maritime par les entreprises et les agences citées à l'alinéa I-1 ci-dessus s'exerce à titre exclusif dans le cadre d'une délégation d'émission délivrée à leur profit par les compagnies de transport aérien ou maritime.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "I.2 - Au sens de la présente instruction il est entendu par titres de transport :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Aérien : le billet de passage - le billet d'excédent de bagages - la lettre de transport aérien (L.T.A) - le bon pour charges diverses (MCO) ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Maritime : les billets passagers et, le cas échéant, auto - passagers et de bagages.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "I.3 - Les titres de transport aérien ou maritime sont émis au profit des résidents et des non-résidents selon les conditions fixées au paragraphe II ci-dessous.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "I.4 - Parcours - Les parcours aériens ou maritimes sont classés en trois (03) zones A, B, et C, ci-dessous définies :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- les parcours de la zone A sont ceux constitués par tous trajets vers l'étranger au départ d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- les parcours de la zone B sont ceux partant de l'étranger vers l'Algérie ou toute autre destination ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- les parcours de la zone C sont ceux constitués par les parcours sur les lignes intérieures nationales.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "I",
+          "heading": "CONDITIONS ET MODALITES D'EMISSION DE TITRES DE TRANSPORT AERIEN OU MARITIME",
+          "label": "Titre I"
+        },
+        "section": {
+          "number": "II",
+          "heading": "Modalités d'émission",
+          "label": "Section II"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 3,
+      "text": "II.1 - L'émission par les compagnies aériennes ou maritimes et les entreprises et agences visées au point I.1 ci-dessus, de titres de transport, est autorisée sur les parcours et selon les modalités de règlement ci-après définies.\nII.1.1 - En Dinars Algériens (D.A) :\n- sur réquisitions ou bons de commande délivrés par les administrations, les institutions de l'Etat et les collectivités locales sur les parcours des Zones A, B et\nC ;\n- au profit des personnes morales et physiques résidentes ou non résidentes, ainsi que les associations régulièrement agréées sur les parcours A et C ;\n- au profit des personnes morales de droit Algérien régulièrement inscrites au registre de commerce sur le parcours B limité au sens étranger/Algérie et ce, exclusivement en faveur de leurs agents et des techniciens étrangers non-résidents appelés à intervenir en Algérie dans le cadre de l'exécution de marchés ou contrats préalablement domiciliés conformément à la réglementation en vigueur.\nUne telle émission est subordonnée à la remise d'un bon de commande, indiquant notamment le numéro de domiciliation du marché ou contrat et le guichet bancaire domiciliataire.\nII.1.2 - En Devises : Sur tous parcours dont le règlement en dinars n'est pas autorisé.\nEst considéré comme paiement en devises tout règlement effectué :\n- en Dinars Algériens provenant d'une cession de devises, sur la base d'une attestation de cession de devises délivrée par une banque ou un établissement financier intermédiaire agréé ;\n- par chèque tiré sur compte CEDAC ;\n- par chèque bancaire encaissable à l'étranger ;\n- par carte de crédit.\nII.2 - Remboursement\nII.2.1 - Les titres de transport aérien ou maritime émis en Algérie ne doivent en aucun cas faire l'objet à l'étranger d'un quelconque remboursement.\nLa mention \"NON REMBOURSABLE A L'ETRANGER\" doit impérativement être portée de manière apparente sur l'ensemble des coupons des titres de transport.\nII.2.2 - Les titres de transport émis en Algérie ne sont remboursables qu'auprès de l'agence émettrice.\nII.2.3 - Les montants des titres de transport payés en dinars convertibles par débit d'un compte CEDAC sont réimputés au crédit de ce compte par la banque ou l'établissement financier intermédiaire agréé après annulation du billet par l'agence émettrice, qui délivrera une attestation d'annulation de ces titres.\nII.2.4 - Les titres de transport payés en dinars par cession de devises régulièrement importées ou prélevées d'un compte devises sont remboursés en dinars par l'agence émettrice qui procédera à l'annulation du titre de transport et annotera l'attestation de cession de devises par la mention \"TITRE DE TRANSPORT ANNULE\".\nL'attestation de cession de devises dûment annotée par l'agence émettrice de la mention \"TITRE DE TRANSPORT ANNULE\", appuyée de la formule de remboursement, ouvre droit à son titulaire au bénéfice de la rétrocession de devises auprès de la banque ou l'établissement financier intermédiaire agréé ayant effectué l'opération de change initiale.",
+      "paragraphs": [
+        {
+          "text": "II.1 - L'émission par les compagnies aériennes ou maritimes et les entreprises et agences visées au point I.1 ci-dessus, de titres de transport, est autorisée sur les parcours et selon les modalités de règlement ci-après définies.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "II.1.1 - En Dinars Algériens (D.A) :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- sur réquisitions ou bons de commande délivrés par les administrations, les institutions de l'Etat et les collectivités locales sur les parcours des Zones A, B et",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "C ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- au profit des personnes morales et physiques résidentes ou non résidentes, ainsi que les associations régulièrement agréées sur les parcours A et C ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- au profit des personnes morales de droit Algérien régulièrement inscrites au registre de commerce sur le parcours B limité au sens étranger/Algérie et ce, exclusivement en faveur de leurs agents et des techniciens étrangers non-résidents appelés à intervenir en Algérie dans le cadre de l'exécution de marchés ou contrats préalablement domiciliés conformément à la réglementation en vigueur.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Une telle émission est subordonnée à la remise d'un bon de commande, indiquant notamment le numéro de domiciliation du marché ou contrat et le guichet bancaire domiciliataire.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "II.1.2 - En Devises : Sur tous parcours dont le règlement en dinars n'est pas autorisé.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Est considéré comme paiement en devises tout règlement effectué :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- en Dinars Algériens provenant d'une cession de devises, sur la base d'une attestation de cession de devises délivrée par une banque ou un établissement financier intermédiaire agréé ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- par chèque tiré sur compte CEDAC ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- par chèque bancaire encaissable à l'étranger ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- par carte de crédit.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "II.2 - Remboursement",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "II.2.1 - Les titres de transport aérien ou maritime émis en Algérie ne doivent en aucun cas faire l'objet à l'étranger d'un quelconque remboursement.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "La mention \"NON REMBOURSABLE A L'ETRANGER\" doit impérativement être portée de manière apparente sur l'ensemble des coupons des titres de transport.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "II.2.2 - Les titres de transport émis en Algérie ne sont remboursables qu'auprès de l'agence émettrice.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "II.2.3 - Les montants des titres de transport payés en dinars convertibles par débit d'un compte CEDAC sont réimputés au crédit de ce compte par la banque ou l'établissement financier intermédiaire agréé après annulation du billet par l'agence émettrice, qui délivrera une attestation d'annulation de ces titres.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "II.2.4 - Les titres de transport payés en dinars par cession de devises régulièrement importées ou prélevées d'un compte devises sont remboursés en dinars par l'agence émettrice qui procédera à l'annulation du titre de transport et annotera l'attestation de cession de devises par la mention \"TITRE DE TRANSPORT ANNULE\".",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "L'attestation de cession de devises dûment annotée par l'agence émettrice de la mention \"TITRE DE TRANSPORT ANNULE\", appuyée de la formule de remboursement, ouvre droit à son titulaire au bénéfice de la rétrocession de devises auprès de la banque ou l'établissement financier intermédiaire agréé ayant effectué l'opération de change initiale.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "II",
+          "heading": "TRANSFERT DES EXCEDENTS DE RECETTES",
+          "label": "Titre II"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Les compagnies étrangères de transport aérien ou maritime régulièrement installées en\nAlgérie et habilitées à émettre des titres de transport aérien ou maritime sont autorisées, après accord préalable de la Banque d'Algérie (Direction du Contrôle des Changes), à transférer le montant des excédents de recettes sur les dépenses dégagés trimestriellement.\nCes excédents doivent apparaître dans leurs comptes de résultats tels que définis par le\nPlan Comptable National.",
+      "paragraphs": [
+        {
+          "text": "Les compagnies étrangères de transport aérien ou maritime régulièrement installées en",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Algérie et habilitées à émettre des titres de transport aérien ou maritime sont autorisées, après accord préalable de la Banque d'Algérie (Direction du Contrôle des Changes), à transférer le montant des excédents de recettes sur les dépenses dégagés trimestriellement.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Ces excédents doivent apparaître dans leurs comptes de résultats tels que définis par le",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Plan Comptable National.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "II",
+          "heading": "TRANSFERT DES EXCEDENTS DE RECETTES",
+          "label": "Titre II"
+        },
+        "section": {
+          "number": "I",
+          "heading": "Comptes de résultats",
+          "label": "Section I"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 4,
+      "text": "I.1 - Les charges : Les charges susceptibles d'imputation doivent se rapporter exclusivement aux dépenses d'exploitation normales et courantes de la représentation et de l'activité d'émission de titres de transport aérien ou maritime.\nA ce titre seront imputées les dépenses de la représentation telles que :\n- salaires et charges s'y rapportant ;\n- loyers des locaux à usage commercial et d'habitation ;\n- frais de fonctionnement courants de la représentation (fournitures, matériel et mobilier, frais de PTT, électricité etc…) ;\n- montant des remboursements de billets payés en Algérie ;\n- commissions et ristournes versées aux entreprises et aux agences de tourisme et de voyage agréées.\nLes dépenses relatives à l'exploitation des aéronefs et cars - ferry ou d'assistance que ce soit au titre de lignes régulières ou d'escales inhabituelles ne peuvent être imputées aux comptes des charges des représentations.\nSont à ce titre exclus notamment :\n- tous les frais induits par les escales des cars - ferry ou communément par les touchers des avions, taxes d'aérodromes, assistance au sol, entretien, réparation etc… ;\n- les dépenses relatives à l'avitaillement tant en carburant qu'en prestations hôtelières ;\n- taxes de survol et autres ;\n- les frais d'hébergement du personnel navigant et des passagers transitant par l'Algérie.\nCes dépenses doivent être acquittées, selon le cas, par débit du compte d'escale ou en devises convertibles régulièrement importées ou par débit du compte CEDAC de la représentation.\nLes ressources du compte CEDAC de la représentation sont constituées par les sommes importées en une devise librement convertible ou provenant du compte devises de la représentation ou encore sur accord préalable de la Banque d'Algérie, de toutes sommes reconnues transférables.\nI.2 - Les produits : Les produits retracent les montants des recettes d'exploitation normale et courante résultant, pour les compagnies étrangères, de leur activité de transporteur aérien ou maritime exercée en Algérie :\n- le produit de la vente de titres de transport tels que définis au titre I - paragraphe\nI alinéa I-2 ;\n- encaissement de fret de marchandises proprement dit, courrier postal etc..., lorsqu'il s'agit seulement du transport aérien.\nLes recettes réalisées par les représentations des compagnies étrangères et ayant une autre origine ne peuvent être prises en considération pour la détermination des excédents transférables (loyers, prestations de service etc…).\nL'ensemble des produits tels que définis par le premier alinéa ci-dessus ne constituent pas des recettes certaines pour la compagnie tant que la prestation n'est pas rendue par la compagnie émettrice ou la compagnie assurant le transport.\nA ce titre ces produits doivent être enregistrés à un compte de la classe 5, le compte 57 \"Avances Commerciales\" conformément au Plan Comptable National.\nConstitue une recette certaine l'ensemble des recettes hors taxes enregistrées au compte 74 \"Prestations Fournies\" telles que définies ci-dessous :\n- montant des billets émis et transportés par la compagnie elle-même tel que enregistré selon le cas sur la feuille de vol ou la feuille d'embarquement prévue au point II ci-dessous ;\n- montant des billets émis par la compagnie et transportés par d'autres compagnies portés sur l'état en double exemplaires adressé mensuellement par ces compagnies à la compagnie émettrice à l'appui des facturations émises à son encontre ;\n- des encaissements au titre du fret lorsqu'il s'agit seulement du transport aérien.\nLe solde du compte 74 \"Prestations Fournies\" exprimé \"hors taxes\" est pris en considération pour la détermination de l'excédent transférable.",
+      "paragraphs": [
+        {
+          "text": "I.1 - Les charges : Les charges susceptibles d'imputation doivent se rapporter exclusivement aux dépenses d'exploitation normales et courantes de la représentation et de l'activité d'émission de titres de transport aérien ou maritime.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "A ce titre seront imputées les dépenses de la représentation telles que :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- salaires et charges s'y rapportant ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- loyers des locaux à usage commercial et d'habitation ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- frais de fonctionnement courants de la représentation (fournitures, matériel et mobilier, frais de PTT, électricité etc…) ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- montant des remboursements de billets payés en Algérie ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- commissions et ristournes versées aux entreprises et aux agences de tourisme et de voyage agréées.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Les dépenses relatives à l'exploitation des aéronefs et cars - ferry ou d'assistance que ce soit au titre de lignes régulières ou d'escales inhabituelles ne peuvent être imputées aux comptes des charges des représentations.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Sont à ce titre exclus notamment :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- tous les frais induits par les escales des cars - ferry ou communément par les touchers des avions, taxes d'aérodromes, assistance au sol, entretien, réparation etc… ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- les dépenses relatives à l'avitaillement tant en carburant qu'en prestations hôtelières ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- taxes de survol et autres ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- les frais d'hébergement du personnel navigant et des passagers transitant par l'Algérie.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Ces dépenses doivent être acquittées, selon le cas, par débit du compte d'escale ou en devises convertibles régulièrement importées ou par débit du compte CEDAC de la représentation.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Les ressources du compte CEDAC de la représentation sont constituées par les sommes importées en une devise librement convertible ou provenant du compte devises de la représentation ou encore sur accord préalable de la Banque d'Algérie, de toutes sommes reconnues transférables.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "I.2 - Les produits : Les produits retracent les montants des recettes d'exploitation normale et courante résultant, pour les compagnies étrangères, de leur activité de transporteur aérien ou maritime exercée en Algérie :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- le produit de la vente de titres de transport tels que définis au titre I - paragraphe",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "I alinéa I-2 ;",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- encaissement de fret de marchandises proprement dit, courrier postal etc..., lorsqu'il s'agit seulement du transport aérien.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Les recettes réalisées par les représentations des compagnies étrangères et ayant une autre origine ne peuvent être prises en considération pour la détermination des excédents transférables (loyers, prestations de service etc…).",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "L'ensemble des produits tels que définis par le premier alinéa ci-dessus ne constituent pas des recettes certaines pour la compagnie tant que la prestation n'est pas rendue par la compagnie émettrice ou la compagnie assurant le transport.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "A ce titre ces produits doivent être enregistrés à un compte de la classe 5, le compte 57 \"Avances Commerciales\" conformément au Plan Comptable National.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Constitue une recette certaine l'ensemble des recettes hors taxes enregistrées au compte 74 \"Prestations Fournies\" telles que définies ci-dessous :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- montant des billets émis et transportés par la compagnie elle-même tel que enregistré selon le cas sur la feuille de vol ou la feuille d'embarquement prévue au point II ci-dessous ;",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- montant des billets émis par la compagnie et transportés par d'autres compagnies portés sur l'état en double exemplaires adressé mensuellement par ces compagnies à la compagnie émettrice à l'appui des facturations émises à son encontre ;",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- des encaissements au titre du fret lorsqu'il s'agit seulement du transport aérien.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Le solde du compte 74 \"Prestations Fournies\" exprimé \"hors taxes\" est pris en considération pour la détermination de l'excédent transférable.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "II",
+          "heading": "TRANSFERT DES EXCEDENTS DE RECETTES",
+          "label": "Titre II"
+        },
+        "section": {
+          "number": "II",
+          "heading": "Titres émis et réellement transportés",
+          "label": "Section II"
+        }
+      },
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 5,
+      "text": "Les compagnies étrangères sont tenues d'établir, sans rature ni surcharge, après chaque vol ou départ du car-ferry selon le cas, une feuille de vol ou d'embarquement en double exemplaires, conformément au modèle joint en annexe I et I bis , sur la base des coupons des titres ayant servi au transport et oblitérés au moment de l'accomplissement des formalités d'enregistrement, avec la mention \"Coupon utilisé le ………\" .\nLes deux (02) exemplaires de la feuille de vol ou d'embarquement sont présentés par la compagnie étrangère au plus tard deux (02) heures après le vol ou le départ du car-ferry au service des douanes de l'aéroport ou du port pour visa, appuyés du manifeste de chargement concerné.\nAprès vérification des éléments portés sur la feuille de vol ou d'embarquement sur la base du manifeste de chargement et des coupons des titres de transport correspondants l'accompagnant et visa de la feuille de vol ou d'embarquement, un (01) exemplaire est restitué à la compagnie étrangère, le deuxième exemplaire est conservé par le service des douanes pour être mis à la disposition des contrôleurs de la Banque d'Algérie.\nLes montants repris dans les rubriques A et B de la ligne 2 de la feuille de vol et A, B et C de la ligne 2 de la feuille d'embarquement constituent les produits des titres, émis et réellement transportés.\nLes billets émis en aller et retour sont comptabilisés pour leur montant.\nSi lors de la vérification, le service des douanes constate que les éléments portés sur la feuille de vol ou d'embarquement ne sont pas conformes aux dispositions édictées par la présente Instruction, il invite le représentant de la compagnie à procéder aux rectifications attendues. En cas de refus de la part de ce dernier, le service des douanes procède aux rectifications, d'office.",
+      "paragraphs": [
+        {
+          "text": "Les compagnies étrangères sont tenues d'établir, sans rature ni surcharge, après chaque vol ou départ du car-ferry selon le cas, une feuille de vol ou d'embarquement en double exemplaires, conformément au modèle joint en annexe I et I bis , sur la base des coupons des titres ayant servi au transport et oblitérés au moment de l'accomplissement des formalités d'enregistrement, avec la mention \"Coupon utilisé le ………\" .",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Les deux (02) exemplaires de la feuille de vol ou d'embarquement sont présentés par la compagnie étrangère au plus tard deux (02) heures après le vol ou le départ du car-ferry au service des douanes de l'aéroport ou du port pour visa, appuyés du manifeste de chargement concerné.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Après vérification des éléments portés sur la feuille de vol ou d'embarquement sur la base du manifeste de chargement et des coupons des titres de transport correspondants l'accompagnant et visa de la feuille de vol ou d'embarquement, un (01) exemplaire est restitué à la compagnie étrangère, le deuxième exemplaire est conservé par le service des douanes pour être mis à la disposition des contrôleurs de la Banque d'Algérie.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Les montants repris dans les rubriques A et B de la ligne 2 de la feuille de vol et A, B et C de la ligne 2 de la feuille d'embarquement constituent les produits des titres, émis et réellement transportés.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Les billets émis en aller et retour sont comptabilisés pour leur montant.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Si lors de la vérification, le service des douanes constate que les éléments portés sur la feuille de vol ou d'embarquement ne sont pas conformes aux dispositions édictées par la présente Instruction, il invite le représentant de la compagnie à procéder aux rectifications attendues. En cas de refus de la part de ce dernier, le service des douanes procède aux rectifications, d'office.",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "II",
+          "heading": "TRANSFERT DES EXCEDENTS DE RECETTES",
+          "label": "Titre II"
+        },
+        "section": {
+          "number": "III",
+          "heading": "Résultats d'exploitation",
+          "label": "Section III"
+        }
+      },
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 6,
+      "text": "Les montants des charges et des produits tels qu'énumérés ci-dessus sont reproduits aux comptes de résultats de la représentation de la compagnie étrangère que cette dernière est tenue d'établir trimestriellement conformément au Plan Comptable National.\nLorsque le solde dégagé est excédentaire, la compagnie est habilitée à prétendre au transfert du montant correspondant, sous réserve que toutes ses autres obligations soient par ailleurs satisfaites (charges d'exploitation, versements des droits et taxes dues etc….).\nLorsqu'il apparaît que l'activité de la représentation au cours de la période concernée est déficitaire, sur la base du compte de résultat établi trimestriellement conformément au\nPlan Comptable National, la compagnie aérienne ou maritime étrangère est tenue de combler dans le mois qui suit, le déficit enregistré, par rapatriement des montants nécessaires à l'équilibre de son compte.\nLa compagnie étrangère de transport aérien ou maritime est tenue d'établir trimestriellement conformément au modèle ci-joint en Annexe II, un état récapitulatif reprenant les montants des charges et des produits effectivement comptabilisés à son compte de \"RESULTAT\" durant le trimestre de référence.\nElle aura en outre à constituer au titre de chaque trimestre d'activité un dossier contenant les documents suivants :\n- un exemplaire de l'état récapitulatif susvisé (Annexe II) ;\n- un bordereau récapitulatif des feuilles de vol ou d'embarquement établi selon modèle en Annexe III ou III bis ;\n- une attestation signée du responsable de la représentation certifiant que les montants figurant sur l'état récapitulatif (Annexe II) sont le résultat de l'activité de la représentation exercée, dans le strict respect des dispositions édictées par la présente Instruction ;\n- un relevé du compte bancaire du trimestre de référence.\nCe dossier est transmis à la Banque d'Algérie (Direction du Contrôle des Changes) par l'intermédiaire de la banque domiciliataire de la compagnie aérienne ou maritime appuyé selon le cas :\n- d'une demande de transfert de l'excédent de recette lorsque le résultat de l'activité durant le trimestre concerné dégage un solde positif ;\n- des justificatifs de rapatriement du ou des montants en devises nécessaires à la couverture du déficit en cas de résultat négatif.\nIV/ - Modalités de transfert\nDès obtention de l'accord de la Banque d'Algérie (Direction du Contrôle des Changes), la banque domiciliataire exécute par débit du compte bancaire de la représentation, le transfert du montant autorisé par versement de sa contre-valeur devises au profit du compte devises ouvert sur ses livres au nom de cette dernière, conformément aux dispositions réglementaires en vigueur en la matière.\nLa contre-valeur devises est déterminée sur la base du cours \"Vente\" ressortant de la cotation devises en comptes de la Banque d'Algérie en vigueur le jour de l'opération de conversion.\nLe transfert effectif des excédents de recettes logés dans les comptes devises des représentations des compagnies étrangères de transport aérien ou maritime est soumis à l'autorisation préalable de la Banque d'Algérie (Direction du Contrôle des Changes).",
+      "paragraphs": [
+        {
+          "text": "Les montants des charges et des produits tels qu'énumérés ci-dessus sont reproduits aux comptes de résultats de la représentation de la compagnie étrangère que cette dernière est tenue d'établir trimestriellement conformément au Plan Comptable National.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Lorsque le solde dégagé est excédentaire, la compagnie est habilitée à prétendre au transfert du montant correspondant, sous réserve que toutes ses autres obligations soient par ailleurs satisfaites (charges d'exploitation, versements des droits et taxes dues etc….).",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Lorsqu'il apparaît que l'activité de la représentation au cours de la période concernée est déficitaire, sur la base du compte de résultat établi trimestriellement conformément au",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Plan Comptable National, la compagnie aérienne ou maritime étrangère est tenue de combler dans le mois qui suit, le déficit enregistré, par rapatriement des montants nécessaires à l'équilibre de son compte.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "La compagnie étrangère de transport aérien ou maritime est tenue d'établir trimestriellement conformément au modèle ci-joint en Annexe II, un état récapitulatif reprenant les montants des charges et des produits effectivement comptabilisés à son compte de \"RESULTAT\" durant le trimestre de référence.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Elle aura en outre à constituer au titre de chaque trimestre d'activité un dossier contenant les documents suivants :",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- un exemplaire de l'état récapitulatif susvisé (Annexe II) ;",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- un bordereau récapitulatif des feuilles de vol ou d'embarquement établi selon modèle en Annexe III ou III bis ;",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- une attestation signée du responsable de la représentation certifiant que les montants figurant sur l'état récapitulatif (Annexe II) sont le résultat de l'activité de la représentation exercée, dans le strict respect des dispositions édictées par la présente Instruction ;",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- un relevé du compte bancaire du trimestre de référence.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Ce dossier est transmis à la Banque d'Algérie (Direction du Contrôle des Changes) par l'intermédiaire de la banque domiciliataire de la compagnie aérienne ou maritime appuyé selon le cas :",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- d'une demande de transfert de l'excédent de recette lorsque le résultat de l'activité durant le trimestre concerné dégage un solde positif ;",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- des justificatifs de rapatriement du ou des montants en devises nécessaires à la couverture du déficit en cas de résultat négatif.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "IV/ - Modalités de transfert",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Dès obtention de l'accord de la Banque d'Algérie (Direction du Contrôle des Changes), la banque domiciliataire exécute par débit du compte bancaire de la représentation, le transfert du montant autorisé par versement de sa contre-valeur devises au profit du compte devises ouvert sur ses livres au nom de cette dernière, conformément aux dispositions réglementaires en vigueur en la matière.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "La contre-valeur devises est déterminée sur la base du cours \"Vente\" ressortant de la cotation devises en comptes de la Banque d'Algérie en vigueur le jour de l'opération de conversion.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Le transfert effectif des excédents de recettes logés dans les comptes devises des représentations des compagnies étrangères de transport aérien ou maritime est soumis à l'autorisation préalable de la Banque d'Algérie (Direction du Contrôle des Changes).",
+          "page_start": 6,
+          "page_end": 6
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "III",
+          "heading": "DISPOSITIONS DIVERSES",
+          "label": "Titre III"
+        },
+        "section": {
+          "number": "I",
+          "heading": "La Banque d'Algérie se réserve le droit de revenir sur les autorisations de transfert",
+          "label": "Section I"
+        }
+      },
+      "annexe": null,
+      "page_start": 6,
+      "page_end": 6,
+      "text": "accordées au cas où les contrôles et vérifications auxquels il sera procédé ultérieurement feraient apparaître des infractions à la réglementation en matière d'émission de titres de transport ou des irrégularités dans la gestion de la représentation .",
+      "paragraphs": [
+        {
+          "text": "accordées au cas où les contrôles et vérifications auxquels il sera procédé ultérieurement feraient apparaître des infractions à la réglementation en matière d'émission de titres de transport ou des irrégularités dans la gestion de la représentation .",
+          "page_start": 6,
+          "page_end": 6
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "III",
+          "heading": "DISPOSITIONS DIVERSES",
+          "label": "Titre III"
+        },
+        "section": {
+          "number": "II",
+          "heading": "Les documents relatifs à l'émission d'un titre de transport, les souches de ces titres,",
+          "label": "Section II"
+        }
+      },
+      "annexe": null,
+      "page_start": 6,
+      "page_end": 6,
+      "text": "les états mensuels établis par les compagnies aériennes ou maritimes prévus au titre II - point 1.2, ainsi que les feuilles de vol ou d'embarquement telles que prévues au titre II - point 2, doivent être conservés et tenus à la disposition des services de la Banque d'Algérie (Direction du Contrôle des Changes) pendant une période de quatre (04)\nannées décomptée à partir de la fin de l'année à laquelle ils se rapportent.",
+      "paragraphs": [
+        {
+          "text": "les états mensuels établis par les compagnies aériennes ou maritimes prévus au titre II - point 1.2, ainsi que les feuilles de vol ou d'embarquement telles que prévues au titre II - point 2, doivent être conservés et tenus à la disposition des services de la Banque d'Algérie (Direction du Contrôle des Changes) pendant une période de quatre (04)",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "années décomptée à partir de la fin de l'année à laquelle ils se rapportent.",
+          "page_start": 6,
+          "page_end": 6
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "III",
+          "heading": "DISPOSITIONS DIVERSES",
+          "label": "Titre III"
+        },
+        "section": {
+          "number": "III",
+          "heading": "Les recettes en devises générées par l'utilisation de cartes de crédit ou de tout autre",
+          "label": "Section III"
+        }
+      },
+      "annexe": null,
+      "page_start": 6,
+      "page_end": 6,
+      "text": "moyen de paiement extérieur encaissable à l'étranger par les compagnies de transport aérien ou maritime doivent faire l'objet d'un rapatriement effectif en Algérie, par l'intermédiaire de la banque domiciliataire de ces dernières.\nLorsqu'elles sont réalisées par les compagnies étrangères de transport aérien ou maritime, ces recettes sont versées au profit des comptes devises de ces dernières.",
+      "paragraphs": [
+        {
+          "text": "moyen de paiement extérieur encaissable à l'étranger par les compagnies de transport aérien ou maritime doivent faire l'objet d'un rapatriement effectif en Algérie, par l'intermédiaire de la banque domiciliataire de ces dernières.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Lorsqu'elles sont réalisées par les compagnies étrangères de transport aérien ou maritime, ces recettes sont versées au profit des comptes devises de ces dernières.",
+          "page_start": 6,
+          "page_end": 6
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "III",
+          "heading": "DISPOSITIONS DIVERSES",
+          "label": "Titre III"
+        },
+        "section": {
+          "number": "III",
+          "heading": "Les recettes en devises générées par l'utilisation de cartes de crédit ou de tout autre",
+          "label": "Section III"
+        }
+      },
+      "annexe": null,
+      "page_start": 6,
+      "page_end": 6,
+      "text": "Le traitement des cas non prévus par les dispositions de la présente\nInstruction relève de la compétence de la Direction Générale des Changes de la Banque d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "Le traitement des cas non prévus par les dispositions de la présente",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Instruction relève de la compétence de la Direction Générale des Changes de la Banque d'Algérie.",
+          "page_start": 6,
+          "page_end": 6
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "III",
+          "heading": "DISPOSITIONS DIVERSES",
+          "label": "Titre III"
+        },
+        "section": {
+          "number": "III",
+          "heading": "Les recettes en devises générées par l'utilisation de cartes de crédit ou de tout autre",
+          "label": "Section III"
+        }
+      },
+      "annexe": null,
+      "page_start": 6,
+      "page_end": 6,
+      "text": "Toute infraction aux dispositions de la présente Instruction expose son ou \"ses\" auteur(s) aux sanctions prévues par la loi.",
+      "paragraphs": [
+        {
+          "text": "Toute infraction aux dispositions de la présente Instruction expose son ou \"ses\" auteur(s) aux sanctions prévues par la loi.",
+          "page_start": 6,
+          "page_end": 6
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "III",
+          "heading": "DISPOSITIONS DIVERSES",
+          "label": "Titre III"
+        },
+        "section": {
+          "number": "III",
+          "heading": "Les recettes en devises générées par l'utilisation de cartes de crédit ou de tout autre",
+          "label": "Section III"
+        }
+      },
+      "annexe": null,
+      "page_start": 6,
+      "page_end": 6,
+      "text": "Les dispositions antérieures relatives à l'émission de titres de transport aérien et au transfert des excédents de recettes des compagnies étrangères de transport aérien installées en Algérie sont abrogées par la présente Instruction.",
+      "paragraphs": [
+        {
+          "text": "Les dispositions antérieures relatives à l'émission de titres de transport aérien et au transfert des excédents de recettes des compagnies étrangères de transport aérien installées en Algérie sont abrogées par la présente Instruction.",
+          "page_start": 6,
+          "page_end": 6
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "III",
+          "heading": "DISPOSITIONS DIVERSES",
+          "label": "Titre III"
+        },
+        "section": {
+          "number": "III",
+          "heading": "Les recettes en devises générées par l'utilisation de cartes de crédit ou de tout autre",
+          "label": "Section III"
+        }
+      },
+      "annexe": null,
+      "page_start": 6,
+      "page_end": 6,
+      "text": "La présente Instruction est applicable à compter du 15 Septembre 2001.\nLe Gouverneur\nAbdelouahab KERAMANE",
+      "paragraphs": [
+        {
+          "text": "La présente Instruction est applicable à compter du 15 Septembre 2001.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 6,
+          "page_end": 6
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe I",
+      "number": "I",
+      "heading": "FEUILLE DE VOL",
+      "context": {},
+      "annexe": {
+        "number": "I",
+        "heading": "FEUILLE DE VOL",
+        "label": "Annexe I"
+      },
+      "page_start": 7,
+      "page_end": 7,
+      "text": "Compagnie aérienne :\nBanque domiciliataire (nom de l’établissement bancaire et adresse complète)\nAéroport : Destination :\nVol n° :\nType d’avion : Nombre de sièges :\n1) Nombre de passagers :\n2) Billets émis en Algérie par la Compagnie aérienne étrangère dont :\nA) Billets tarif plein\nNombre\nMontant hors taxes\nB) Billets tarif spécial",
+      "paragraphs": [
+        {
+          "text": "Compagnie aérienne :",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Banque domiciliataire (nom de l’établissement bancaire et adresse complète)",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Aéroport : Destination :",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Vol n° :",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Type d’avion : Nombre de sièges :",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "1) Nombre de passagers :",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "2) Billets émis en Algérie par la Compagnie aérienne étrangère dont :",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "A) Billets tarif plein",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Nombre",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Montant hors taxes",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "B) Billets tarif spécial",
+          "page_start": 7,
+          "page_end": 7
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "C",
+          "heading": "Billets gratuits",
+          "label": "Section C"
+        }
+      },
+      "annexe": {
+        "number": "I",
+        "heading": "FEUILLE DE VOL",
+        "label": "Annexe I"
+      },
+      "page_start": 7,
+      "page_end": 7,
+      "text": "D) Billet payés par chèques ou cartes de crédit encaissables à l’étranger\n3) Billets émis par d’autres compagnies\n4) Billets émis à l’étranger\n5) Autres billets\nBillets ouvrant droit à transfert (A + B)\nNombre\nMontant hors taxes\nVisa douanes Date",
+      "paragraphs": [
+        {
+          "text": "D) Billet payés par chèques ou cartes de crédit encaissables à l’étranger",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "3) Billets émis par d’autres compagnies",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "4) Billets émis à l’étranger",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "5) Autres billets",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Billets ouvrant droit à transfert (A + B)",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Nombre",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Montant hors taxes",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Visa douanes Date",
+          "page_start": 7,
+          "page_end": 7
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe I",
+      "number": "I",
+      "heading": "Bis",
+      "context": {},
+      "annexe": {
+        "number": "I",
+        "heading": "Bis",
+        "label": "Annexe I"
+      },
+      "page_start": 8,
+      "page_end": 8,
+      "text": "FEUILLE D’EMBARQUEMENT\nCompagnie maritime :\nBanque domiciliataire (nom de l’établissement bancaire et adresse complète)\nPort d’embarquement : Destination :\nCar-ferry : Nombre de sièges :\n1) Nombre de passagers :\n2) Billets émis en Algérie par la Compagnie maritime étrangère dont :\nA) Billets tarif plein (passagers)\nNombre\nMontant hors taxes\nB) Billets tarif plein (auto-passagers et de bagages)",
+      "paragraphs": [
+        {
+          "text": "FEUILLE D’EMBARQUEMENT",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "Compagnie maritime :",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "Banque domiciliataire (nom de l’établissement bancaire et adresse complète)",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "Port d’embarquement : Destination :",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "Car-ferry : Nombre de sièges :",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "1) Nombre de passagers :",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "2) Billets émis en Algérie par la Compagnie maritime étrangère dont :",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "A) Billets tarif plein (passagers)",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "Nombre",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "Montant hors taxes",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "B) Billets tarif plein (auto-passagers et de bagages)",
+          "page_start": 8,
+          "page_end": 8
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "C",
+          "heading": "Billets tarif spécial",
+          "label": "Section C"
+        }
+      },
+      "annexe": {
+        "number": "I",
+        "heading": "Bis",
+        "label": "Annexe I"
+      },
+      "page_start": 8,
+      "page_end": 8,
+      "text": "D) Billets gratuits\nE) Billets payés par chèques ou cartes de crédit encaissables\n3) Billets émis par d’autres compagnies\n4) Billets émis à l’étranger\n5) Autres billets\nBillets ouvrant droit à transfert (A + B+C)\nNombre\nMontant hors taxes\nVisa douanes Date",
+      "paragraphs": [
+        {
+          "text": "D) Billets gratuits",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "E) Billets payés par chèques ou cartes de crédit encaissables",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "3) Billets émis par d’autres compagnies",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "4) Billets émis à l’étranger",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "5) Autres billets",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "Billets ouvrant droit à transfert (A + B+C)",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "Nombre",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "Montant hors taxes",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "Visa douanes Date",
+          "page_start": 8,
+          "page_end": 8
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe II",
+      "number": "II",
+      "heading": "ETAT RECAPITULATIF DES PRODUITS ET DES CHARGES ENREGISTRES AUX COMPTES DE RESULTAT DURANT LE ............................TRIMESTRE 20.. A PRODUITS (PRESTATIONS FOURNIES)",
+      "context": {},
+      "annexe": {
+        "number": "II",
+        "heading": "ETAT RECAPITULATIF DES PRODUITS ET DES CHARGES ENREGISTRES AUX COMPTES DE RESULTAT DURANT LE ............................TRIMESTRE 20.. A PRODUITS (PRESTATIONS FOURNIES)",
+        "label": "Annexe II"
+      },
+      "page_start": 9,
+      "page_end": 9,
+      "text": "RUBRIQUES\nMOIS DE ..........\nMOIS DE ...........\nMOIS DE ...........\nTOTAL\nTOTAUX\n(A)\nB CHARGES\nRUBRIQUES\nMOIS DE ..........\nMOIS DE ............\nMOIS DE .........\nTOTAL\nTOTAUX\n(B)\nMontant à transférer (A-B) ................DA\nMontant à rapatrier (B-A) ................DA\nDate, cachet et signature du représentant (Nom et Prénom) de la Compagnie",
+      "paragraphs": [
+        {
+          "text": "RUBRIQUES",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "MOIS DE ..........",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "MOIS DE ...........",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "MOIS DE ...........",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "TOTAL",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "TOTAUX",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "(A)",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "B CHARGES",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "RUBRIQUES",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "MOIS DE ..........",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "MOIS DE ............",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "MOIS DE .........",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "TOTAL",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "TOTAUX",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "(B)",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "Montant à transférer (A-B) ................DA",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "Montant à rapatrier (B-A) ................DA",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "Date, cachet et signature du représentant (Nom et Prénom) de la Compagnie",
+          "page_start": 9,
+          "page_end": 9
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe III",
+      "number": "III",
+      "heading": "BORDEREAU RECAPITULATIF DES FEUILLES DE VOL",
+      "context": {},
+      "annexe": {
+        "number": "III",
+        "heading": "BORDEREAU RECAPITULATIF DES FEUILLES DE VOL",
+        "label": "Annexe III"
+      },
+      "page_start": 10,
+      "page_end": 10,
+      "text": "Compagnie :\nBanque domiciliataire Mois :\n(Aéroport)\n1) Nombre de passagers :\n2) Billets émis en Algérie par la Compagnie aérienne étrangère dont :\nA) Billets tarif plein\nNombre\nMontant hors taxes\nB) Billets tarif spécial",
+      "paragraphs": [
+        {
+          "text": "Compagnie :",
+          "page_start": 10,
+          "page_end": 10
+        },
+        {
+          "text": "Banque domiciliataire Mois :",
+          "page_start": 10,
+          "page_end": 10
+        },
+        {
+          "text": "(Aéroport)",
+          "page_start": 10,
+          "page_end": 10
+        },
+        {
+          "text": "1) Nombre de passagers :",
+          "page_start": 10,
+          "page_end": 10
+        },
+        {
+          "text": "2) Billets émis en Algérie par la Compagnie aérienne étrangère dont :",
+          "page_start": 10,
+          "page_end": 10
+        },
+        {
+          "text": "A) Billets tarif plein",
+          "page_start": 10,
+          "page_end": 10
+        },
+        {
+          "text": "Nombre",
+          "page_start": 10,
+          "page_end": 10
+        },
+        {
+          "text": "Montant hors taxes",
+          "page_start": 10,
+          "page_end": 10
+        },
+        {
+          "text": "B) Billets tarif spécial",
+          "page_start": 10,
+          "page_end": 10
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "C",
+          "heading": "Billets gratuits",
+          "label": "Section C"
+        }
+      },
+      "annexe": {
+        "number": "III",
+        "heading": "BORDEREAU RECAPITULATIF DES FEUILLES DE VOL",
+        "label": "Annexe III"
+      },
+      "page_start": 10,
+      "page_end": 10,
+      "text": "D) Billet payés par chèques ou cartes de crédit encaissables à l’étranger\n3) Billets émis par d’autres compagnies\n4) Billets émis à l’étranger\n5) Autres billets\nBillets ouvrant droit à transfert (A + B)\nNombre\nMontant hors taxes\nDate, cachet et signature de la Compagnie",
+      "paragraphs": [
+        {
+          "text": "D) Billet payés par chèques ou cartes de crédit encaissables à l’étranger",
+          "page_start": 10,
+          "page_end": 10
+        },
+        {
+          "text": "3) Billets émis par d’autres compagnies",
+          "page_start": 10,
+          "page_end": 10
+        },
+        {
+          "text": "4) Billets émis à l’étranger",
+          "page_start": 10,
+          "page_end": 10
+        },
+        {
+          "text": "5) Autres billets",
+          "page_start": 10,
+          "page_end": 10
+        },
+        {
+          "text": "Billets ouvrant droit à transfert (A + B)",
+          "page_start": 10,
+          "page_end": 10
+        },
+        {
+          "text": "Nombre",
+          "page_start": 10,
+          "page_end": 10
+        },
+        {
+          "text": "Montant hors taxes",
+          "page_start": 10,
+          "page_end": 10
+        },
+        {
+          "text": "Date, cachet et signature de la Compagnie",
+          "page_start": 10,
+          "page_end": 10
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe III",
+      "number": "III",
+      "heading": "Bis",
+      "context": {},
+      "annexe": {
+        "number": "III",
+        "heading": "Bis",
+        "label": "Annexe III"
+      },
+      "page_start": 11,
+      "page_end": 11,
+      "text": "BORDEREAU RECAPITULATIF DES FEUILLES D’EMBARQUEMENT\nCompagnie :\nBanque domiciliataire Mois :\n(Aéroport)\n1) Nombre de passagers :\n2) Billets émis en Algérie par la Compagnie maritime étrangère dont :\nA) Billets tarif plein (passagers)\nNombre\nMontant hors taxes\nB) Billets tarif plein (auto-passagers et de bagages)",
+      "paragraphs": [
+        {
+          "text": "BORDEREAU RECAPITULATIF DES FEUILLES D’EMBARQUEMENT",
+          "page_start": 11,
+          "page_end": 11
+        },
+        {
+          "text": "Compagnie :",
+          "page_start": 11,
+          "page_end": 11
+        },
+        {
+          "text": "Banque domiciliataire Mois :",
+          "page_start": 11,
+          "page_end": 11
+        },
+        {
+          "text": "(Aéroport)",
+          "page_start": 11,
+          "page_end": 11
+        },
+        {
+          "text": "1) Nombre de passagers :",
+          "page_start": 11,
+          "page_end": 11
+        },
+        {
+          "text": "2) Billets émis en Algérie par la Compagnie maritime étrangère dont :",
+          "page_start": 11,
+          "page_end": 11
+        },
+        {
+          "text": "A) Billets tarif plein (passagers)",
+          "page_start": 11,
+          "page_end": 11
+        },
+        {
+          "text": "Nombre",
+          "page_start": 11,
+          "page_end": 11
+        },
+        {
+          "text": "Montant hors taxes",
+          "page_start": 11,
+          "page_end": 11
+        },
+        {
+          "text": "B) Billets tarif plein (auto-passagers et de bagages)",
+          "page_start": 11,
+          "page_end": 11
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "C",
+          "heading": "Billets tarif spécial",
+          "label": "Section C"
+        }
+      },
+      "annexe": {
+        "number": "III",
+        "heading": "Bis",
+        "label": "Annexe III"
+      },
+      "page_start": 11,
+      "page_end": 11,
+      "text": "D) Billets gratuits\nE) Billet payés par chèques ou cartes de crédit encaissables à l’étranger\n3) Billets émis par d’autres compagnies\n4) Billets émis à l’étranger\n5) Autres billets\nBillets ouvrant droit à transfert (A + B)\nNombre\nMontant hors taxes\nDate, cachet et signature de la Compagnie",
+      "paragraphs": [
+        {
+          "text": "D) Billets gratuits",
+          "page_start": 11,
+          "page_end": 11
+        },
+        {
+          "text": "E) Billet payés par chèques ou cartes de crédit encaissables à l’étranger",
+          "page_start": 11,
+          "page_end": 11
+        },
+        {
+          "text": "3) Billets émis par d’autres compagnies",
+          "page_start": 11,
+          "page_end": 11
+        },
+        {
+          "text": "4) Billets émis à l’étranger",
+          "page_start": 11,
+          "page_end": 11
+        },
+        {
+          "text": "5) Autres billets",
+          "page_start": 11,
+          "page_end": 11
+        },
+        {
+          "text": "Billets ouvrant droit à transfert (A + B)",
+          "page_start": 11,
+          "page_end": 11
+        },
+        {
+          "text": "Nombre",
+          "page_start": 11,
+          "page_end": 11
+        },
+        {
+          "text": "Montant hors taxes",
+          "page_start": 11,
+          "page_end": 11
+        },
+        {
+          "text": "Date, cachet et signature de la Compagnie",
+          "page_start": 11,
+          "page_end": 11
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [
+    {
+      "page": 7,
+      "tables": [
+        "|1) Nombre de passagers :|Col2|Col3|\n|---|---|---|\n|2) Billets émis en Algérie par la Compagnie aérienne étrangère dont :|2) Billets émis en Algérie par la Compagnie aérienne étrangère dont :|2) Billets émis en Algérie par la Compagnie aérienne étrangère dont :|\n|A) Billets tarif plein|Nombre|Montant hors taxes|\n|B) Billets tarif spécial|||\n|C) Billets gratuits|||\n|D) Billet payés par chèques ou cartes de crédit encaissables<br>à l’étranger|||\n|3) Billets émis par d’autres compagnies|||\n|4) Billets émis à l’étranger|||\n|5) Autres billets|||\n|Billets ouvrant droit à transfert (A + B)|Nombre|Montant hors taxes|\n\n"
+      ]
+    },
+    {
+      "page": 8,
+      "tables": [
+        "|1) Nombre de passagers :|Col2|Col3|\n|---|---|---|\n|2) Billets émis en Algérie par la Compagnie maritime étrangère dont :|2) Billets émis en Algérie par la Compagnie maritime étrangère dont :|2) Billets émis en Algérie par la Compagnie maritime étrangère dont :|\n|A) Billets tarif plein (passagers)|Nombre|Montant hors taxes|\n|A) Billets tarif plein (passagers)|||\n|B) Billets tarif plein (auto-passagers et de bagages)|||\n|C) Billets tarif spécial|||\n|D) Billets gratuits|||\n|E) Billets payés par chèques ou cartes de crédit encaissables|||\n|3) Billets émis par d’autres compagnies|||\n|4) Billets émis à l’étranger|||\n|5) Autres billets|||\n|Billets ouvrant droit à transfert (A + B+C)|Nombre|Montant hors taxes|\n\n"
+      ]
+    },
+    {
+      "page": 9,
+      "tables": [
+        "|RUBRIQUES|MOIS DE<br>..........|MOIS DE<br>...........|MOIS DE<br>...........|TOTAL|\n|---|---|---|---|---|\n||||||\n|TOTAUX||||(A)|\n\n",
+        "|B CHARGES|Col2|Col3|Col4|Col5|\n|---|---|---|---|---|\n|RUBRIQUES|MOIS DE<br>..........|MOIS DE<br>............|MOIS DE<br>.........|TOTAL|\n||||||\n|TOTAUX||||(B)|\n\n"
+      ]
+    },
+    {
+      "page": 10,
+      "tables": [
+        "|1) Nombre de passagers :|Col2|Col3|\n|---|---|---|\n|2) Billets émis en Algérie par la Compagnie aérienne étrangère dont :|2) Billets émis en Algérie par la Compagnie aérienne étrangère dont :|2) Billets émis en Algérie par la Compagnie aérienne étrangère dont :|\n|A) Billets tarif plein|Nombre|Montant hors taxes|\n|B) Billets tarif spécial|||\n|C) Billets gratuits|||\n|D) Billet payés par chèques ou cartes de crédit encaissables à<br>l’étranger|||\n|3) Billets émis par d’autres compagnies|||\n|4) Billets émis à l’étranger|||\n|5) Autres billets|||\n|Billets ouvrant droit à transfert (A + B)|Nombre|Montant hors taxes|\n\n"
+      ]
+    },
+    {
+      "page": 11,
+      "tables": [
+        "|1) Nombre de passagers :|Col2|Col3|\n|---|---|---|\n|2) Billets émis en Algérie par la Compagnie maritime étrangère dont :|2) Billets émis en Algérie par la Compagnie maritime étrangère dont :|2) Billets émis en Algérie par la Compagnie maritime étrangère dont :|\n|A) Billets tarif plein (passagers)|Nombre|Montant hors taxes|\n|A) Billets tarif plein (passagers)|||\n|B) Billets tarif plein (auto-passagers et de bagages)|||\n|C) Billets tarif spécial|||\n|D) Billets gratuits|||\n|E) Billet payés par chèques ou cartes de crédit encaissables à<br>l’étranger|||\n|3) Billets émis par d’autres compagnies|||\n|4) Billets émis à l’étranger|||\n|5) Autres billets|||\n|Billets ouvrant droit à transfert (A + B)|Nombre|Montant hors taxes|\n\n"
+      ]
+    }
+  ],
+  "quality": {
+    "flags": [
+      "meme_texte_plusieurs_fichiers"
+    ],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.044
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-05-01.fr~2.txt"
+}

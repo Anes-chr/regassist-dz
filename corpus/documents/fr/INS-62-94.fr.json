@@ -1,0 +1,555 @@
+{
+  "document_id": "INS-62-94.fr",
+  "work_id": "INS-62-94",
+  "title": "Instruction n°62-94 du 28 septembre 1994 portant “identification bancaire”.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "62-94",
+  "number_source": "en-tête du document",
+  "date": "1994-09-28",
+  "date_raw": "N°62-94 DU 28 SEPTEMBRE 1994",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Divers",
+  "source_url": "https://www.bank-of-algeria.dz/deplacements-des-groupements-sportifs-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction6294.pdf",
+  "format": "pdf",
+  "file_hash": "6222d8965d771aa8045eeececc8483ed600f87baba662458adc89c39749bb6b3",
+  "file_size": 42352,
+  "raw_path": "raw/6222d8965d77__instruction6294.pdf",
+  "retrieved_at": "2026-10-05T13:22:09+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "97e010a54bc71cd283dc0c64bd32301196516787543fe92499be579978257ee0",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-1994/",
+    "https://www.bank-of-algeria.dz/deplacements-des-groupements-sportifs-instruction/",
+    "https://www.bank-of-algeria.dz/identification-bancaire-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - INSTRUCTION 32-91",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200809130007+01'00'",
+    "modDate": "D:20200809130007+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2602,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 1226,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 7,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°62-94 DU 28 SEPTEMBRE 1994 PORTANT \"IDENTIFICATION BANCAIRE\"",
+  "alias_urls": [],
+  "text_hash": "75ca3046768e6953cc00c43abe00fc7c470682bc2c193cfd71a21360b6f6e30e",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [
+    {
+      "work_id": "INS-06-04",
+      "document_id": "INS-06-04.fr",
+      "date": "2004-08-02",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "La présente instruction annule et remplace l’instruction n°62-94 du 28 septembre 1994 portant « identification bancaire »."
+      }
+    }
+  ],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "INS-06-04",
+      "document_id": "INS-06-04.fr",
+      "date": "2004-08-02",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "La présente instruction annule et remplace l’instruction n°62-94 du 28 septembre 1994 portant « identification bancaire »."
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [
+    {
+      "work_id": "INS-06-04",
+      "document_id": "INS-06-04.fr",
+      "date": "2004-08-02",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "La présente instruction annule et remplace l’instruction n°62-94 du 28 septembre 1994 portant « identification bancaire »."
+      }
+    }
+  ],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°62-94 DU 28 SEPTEMBRE 1994\nPORTANT \"IDENTIFICATION BANCAIRE\"",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°62-94 DU 28 SEPTEMBRE 1994",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "PORTANT \"IDENTIFICATION BANCAIRE\"",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction a pour objet la mise en œuvre des dispositions du règlement N° 94-12 du 02 Juin 1994, relatif aux principes de gestion et d'établissement des normes dans le secteur financier.",
+      "paragraphs": [
+        {
+          "text": "La présente instruction a pour objet la mise en œuvre des dispositions du règlement N° 94-12 du 02 Juin 1994, relatif aux principes de gestion et d'établissement des normes dans le secteur financier.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les normes définies par la présente instruction se rapportent à l'identification bancaire de la clientèle des banques et de toute autre institution émettrice d'instruments de paiement.",
+      "paragraphs": [
+        {
+          "text": "Les normes définies par la présente instruction se rapportent à l'identification bancaire de la clientèle des banques et de toute autre institution émettrice d'instruments de paiement.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Cette instruction couvre la normalisation des éléments ci-après :\n- le numéro de compte bancaire (codes intérieurs de l'établissement émetteur d'instruments de paiement) ;\n- le relevé d'identité bancaire pour lequel est défini un \"Numéro d'Identité\nBancaire\" ;\n- l'identifiant national.",
+      "paragraphs": [
+        {
+          "text": "Cette instruction couvre la normalisation des éléments ci-après :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- le numéro de compte bancaire (codes intérieurs de l'établissement émetteur d'instruments de paiement) ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- le relevé d'identité bancaire pour lequel est défini un \"Numéro d'Identité",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Bancaire\" ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- l'identifiant national.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le numéro de compte bancaire est composé de 15 caractères numériques répartis impérativement dans l'ordre suivant :\n- 03 caractères pour le code agence ;\n- 10 caractères pour le numéro de compte individuel du client ;\n- 02 caractères pour la clé de contrôle du numéro de compte.\nLa clé de contrôle du numéro de compte est générée par l'application de la méthode\nModulo 97 donnée en appendice I-a de cette instruction.",
+      "paragraphs": [
+        {
+          "text": "Le numéro de compte bancaire est composé de 15 caractères numériques répartis impérativement dans l'ordre suivant :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- 03 caractères pour le code agence ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- 10 caractères pour le numéro de compte individuel du client ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- 02 caractères pour la clé de contrôle du numéro de compte.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La clé de contrôle du numéro de compte est générée par l'application de la méthode",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Modulo 97 donnée en appendice I-a de cette instruction.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le relevé d'identité bancaire (RIB) est un document réunissant les principales informations nécessaires à l'identification d'un client. Ce relevé doit être présenté par le client à chaque fois que le banquier veut s'assurer de son identité bancaire.\nLes éléments composant le relevé d'identité bancaire sont :\n- les nom et prénoms ou raison sociale du titulaire du compte ;\n- l'intitulé en clair de l'établissement et de l'agence domiciliataire ;\n- le numéro d'identité bancaire composé de 18 caractères numériques structurés comme suit :\n* le code établissement : 3 caractères numériques, * le numéro de compte bancaire : 15 caractères numériques répartis conformément à l'article 4 ci-dessus.\nLa forme du relevé, ses modes d'attribution et d'utilisation seront précisés ultérieurement par voie réglementaire.",
+      "paragraphs": [
+        {
+          "text": "Le relevé d'identité bancaire (RIB) est un document réunissant les principales informations nécessaires à l'identification d'un client. Ce relevé doit être présenté par le client à chaque fois que le banquier veut s'assurer de son identité bancaire.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les éléments composant le relevé d'identité bancaire sont :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- les nom et prénoms ou raison sociale du titulaire du compte ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- l'intitulé en clair de l'établissement et de l'agence domiciliataire ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- le numéro d'identité bancaire composé de 18 caractères numériques structurés comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "* le code établissement : 3 caractères numériques, * le numéro de compte bancaire : 15 caractères numériques répartis conformément à l'article 4 ci-dessus.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La forme du relevé, ses modes d'attribution et d'utilisation seront précisés ultérieurement par voie réglementaire.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L'identifiant national est un code sur 15 positions numériques permettant d'identifier de manière unique un client dans l'ensemble du système bancaire national en lui associant tous les comptes bancaires qu'il aura ouvert.\nLa structure de cet identifiant de même que ses modes d'attribution et d'utilisation seront précisés par voie réglementaire.",
+      "paragraphs": [
+        {
+          "text": "L'identifiant national est un code sur 15 positions numériques permettant d'identifier de manière unique un client dans l'ensemble du système bancaire national en lui associant tous les comptes bancaires qu'il aura ouvert.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La structure de cet identifiant de même que ses modes d'attribution et d'utilisation seront précisés par voie réglementaire.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "La présente instruction entre en vigueur à compter du 1er Octobre 1994.\nLe Gouverneur\nAbdelouahab KERAMANE\nAPPENDICE I-a\nMéthode modulo 97 de calcul de la clé de contrôle du numéro de compte a - Accoler de gauche à droite\n- les 3 chiffres du code agence ;\n- les 10 chiffres suivants du numéro de compte (si le numéro ainsi obtenu comporte moins de 10 caractères il sera cadré à droite et complété à gauche par des zéros).\nLes caractères alphabétiques éventuels du numéro de compte sont remplacés, mais seulement pour le calcul de la clé, par l'équivalence numérique suivante :\nA B C D E F G H I\nJ K L M N O P Q R\nS T U V W X Y Z —————————— 1 2 3 4 5 6 7 8 9\nL'ensemble forme un nombre \"N\" de 13 chiffres b - Multiplier \"N\" par 100 = N' c - Diviser N' par 97 d - Soustraire le reste de cette division du nombre \"97\"\nLe résultat de cette soustraction représente la clé de contrôle des codes intérieurs.\n(Cette clé ne peut mathématiquement prendre que les valeurs de 01 à 97).\nCette clé peut être vérifiée comme suit :\n- accoler de gauche à droite (comme pour le calcul de la clé exposé précédemment),\n- les 3 chiffres du code agence,\n- les 10 chiffres du numéro de compte,\n- les 2 chiffres de la clé de contrôle.\nL'ensemble forme un nombre \"N\" de 15 chiffres\n- diviser \"N\" par 97,\n- le reste doit être nul.",
+      "paragraphs": [
+        {
+          "text": "La présente instruction entre en vigueur à compter du 1er Octobre 1994.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "APPENDICE I-a",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Méthode modulo 97 de calcul de la clé de contrôle du numéro de compte a - Accoler de gauche à droite",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les 3 chiffres du code agence ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les 10 chiffres suivants du numéro de compte (si le numéro ainsi obtenu comporte moins de 10 caractères il sera cadré à droite et complété à gauche par des zéros).",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Les caractères alphabétiques éventuels du numéro de compte sont remplacés, mais seulement pour le calcul de la clé, par l'équivalence numérique suivante :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "A B C D E F G H I",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "J K L M N O P Q R",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "S T U V W X Y Z —————————— 1 2 3 4 5 6 7 8 9",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "L'ensemble forme un nombre \"N\" de 13 chiffres b - Multiplier \"N\" par 100 = N' c - Diviser N' par 97 d - Soustraire le reste de cette division du nombre \"97\"",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le résultat de cette soustraction représente la clé de contrôle des codes intérieurs.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "(Cette clé ne peut mathématiquement prendre que les valeurs de 01 à 97).",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Cette clé peut être vérifiée comme suit :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- accoler de gauche à droite (comme pour le calcul de la clé exposé précédemment),",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les 3 chiffres du code agence,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les 10 chiffres du numéro de compte,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les 2 chiffres de la clé de contrôle.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "L'ensemble forme un nombre \"N\" de 15 chiffres",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- diviser \"N\" par 97,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- le reste doit être nul.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.048
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-62-94.fr.txt"
+}

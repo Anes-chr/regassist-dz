@@ -1,0 +1,397 @@
+{
+  "document_id": "INS-03-08.ar",
+  "work_id": "INS-03-08",
+  "title": "تعليمة رقم 03-08 المؤرخة في 25 مارس 2008، المتضمنة تأسيس وسير لجنة التحكيم.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "03-08",
+  "number_source": "libelle",
+  "date": "2008-03-25",
+  "date_raw": "المؤرخة في 25 مارس 2008",
+  "date_source": "libelle",
+  "publication_date": "2023-03-02",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "instructions",
+  "subcategory": "أنظمة الدفع",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d9%88%d8%b3%d8%a7%d8%a6%d9%84-%d8%a7%d9%84%d8%af%d9%81%d8%b9/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/03/08-03.pdf",
+  "format": "pdf",
+  "file_hash": "2831b9330feb803e8d013323717b8d6052383a3ebea090a549584ca7c90984df",
+  "file_size": 558651,
+  "raw_path": "raw/2831b9330feb__08-03.pdf",
+  "retrieved_at": "2026-10-05T13:29:51+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 3,
+  "url_hash": "5e7a136092c5af14cd0b3e736a6abe3b0c6a32a4d1ff4b931da4b8e1eccc98b9",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d9%88%d8%b3%d8%a7%d8%a6%d9%84-%d8%a7%d9%84%d8%af%d9%81%d8%b9/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "producer": "Epson Scan 2",
+    "creationDate": "D:20230228155853+01'00'",
+    "modDate": "D:20230228155853+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 3,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 1037,
+        "ocr_confidence": 84.02209944751381
+      },
+      {
+        "page": 2,
+        "method": "ocr",
+        "chars": 1171,
+        "ocr_confidence": 87.03535353535354
+      },
+      {
+        "page": 3,
+        "method": "ocr",
+        "chars": 492,
+        "ocr_confidence": 79.33695652173913
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 8,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine",
+    "numerotation:articles_manquants:[7, 9]"
+  ],
+  "title_document": null,
+  "alias_urls": [],
+  "text_hash": "2b7ecc6e2b054d4db9066687040bc30df791686ff5bc5da7546aa985b0d38f8e",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-03-08.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "ocr_numeric_check": {
+    "units": 9,
+    "units_flagged": 0,
+    "units_compared_with_french": 7,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "المحافظ التعليمة رقم 08-03 المتضمنة تاسيس وسير لجنة التحكيم",
+      "paragraphs": [
+        {
+          "text": "المحافظ التعليمة رقم 08-03 المتضمنة تاسيس وسير لجنة التحكيم",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تهدف هذه التعليمة إلى تحديد تشكيلة وتعريف طرق سير لجنة ai]‏ € المستصاة as 2e Las‏ والمنتصوص عليها في المادة 39 من san‏ رقم 06-05 المؤرخ في 15 ديسمبر 2005 المتعلق بمقاصة الصكوك وادوات",
+      "paragraphs": [
+        {
+          "text": "تهدف هذه التعليمة إلى تحديد تشكيلة وتعريف طرق سير لجنة ai]‏ € المستصاة as 2e Las‏ والمنتصوص عليها في المادة 39 من san‏ رقم 06-05 المؤرخ في 15 ديسمبر 2005 المتعلق بمقاصة الصكوك وادوات",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تتشكل اللجنة المشار إليها في المادة الأولى cel‏ والتي يرأسها نائب ©« المدير العام للشبكة وأنظمة الدفع؛ e‏ المدير العام للمفتشية العامة؛ © المدير العام للقرض والتنظيم المصرفي؛ « مدير أنظمة الدفع لدى بنك الجزائر؛ « المدير العام لمركز المقاصة القبلية بين البنوك؛ jus €‏ قانوني يعينه محافظ بنك الجزائر.",
+      "paragraphs": [
+        {
+          "text": "تتشكل اللجنة المشار إليها في المادة الأولى cel‏ والتي يرأسها نائب ©« المدير العام للشبكة وأنظمة الدفع؛ e‏ المدير العام للمفتشية العامة؛ © المدير العام للقرض والتنظيم المصرفي؛ « مدير أنظمة الدفع لدى بنك الجزائر؛ « المدير العام لمركز المقاصة القبلية بين البنوك؛ jus €‏ قانوني يعينه محافظ بنك الجزائر.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تجتمع اللجنة في حالة العجز عن التسديد في نظام آرتس -ARTS-‏ (نظام التسويات الفورية-الجزائر) من طرف مشارك أو أكثر في نظام أتكي - -ATCI‏ (نظام المقاصة الالكترونية بين البنوك-الجزائر)» وذلك للبحث عن ue‏ |",
+      "paragraphs": [
+        {
+          "text": "تجتمع اللجنة في حالة العجز عن التسديد في نظام آرتس -ARTS-‏ (نظام التسويات الفورية-الجزائر) من طرف مشارك أو أكثر في نظام أتكي - -ATCI‏ (نظام المقاصة الالكترونية بين البنوك-الجزائر)» وذلك للبحث عن ue‏ |",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تثبت AS‏ العجزن عن التسديد بالنسبة لمشارك أو أكثر في نظام أتكي -ATCI-‏ عند التواجد في وضعية تترجم باستحالة إسقاط أرصدة المقفاصة. المتأتية من نظام أتكي -ATCI-‏ في حسابات التسوية لواحد أو أكثر من النظراء في نظام آرتس -41515-.\nBank of Algeria Le يد يلا\"‎ PP",
+      "paragraphs": [
+        {
+          "text": "تثبت AS‏ العجزن عن التسديد بالنسبة لمشارك أو أكثر في نظام أتكي -ATCI-‏ عند التواجد في وضعية تترجم باستحالة إسقاط أرصدة المقفاصة. المتأتية من نظام أتكي -ATCI-‏ في حسابات التسوية لواحد أو أكثر من النظراء في نظام آرتس -41515-.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Bank of Algeria Le يد يلا\"‎ PP",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "تجتمع dll‏ بحضور كل أعضائها بما في ذلك الممثلين المؤهلين للبنك أو البنوك العاجزة عن التسديد» في أجل أقصاه ثلاث )03( ساعات من",
+      "paragraphs": [
+        {
+          "text": "تجتمع dll‏ بحضور كل أعضائها بما في ذلك الممثلين المؤهلين للبنك أو البنوك العاجزة عن التسديد» في أجل أقصاه ثلاث )03( ساعات من",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "بمجرد معاينة عجز أحد المشاركين أو أكثر في نظام -ATCI- Si‏ المسير لنظام آرتس «ARTS-‏ أن تقوم بإرسال تقرير مفصل إلى رئيس اللجنة مع اقتراح الاستدعاء المستعجل لأعضاء اللجنة وممثل البنك أو البنوك حالاتها واقتراح؛ دون cell‏ مخطط للخروج من أزمة السيولة.\nالمشاركين أو أكثر عند يوخ التبادل الخاص بمركز المقاصة القبلية بين البنوك.\nوتقوم» قصد وضع حل مناسب يسمح بتسوية أرصدة المقاصة في نظام آرتس ه إمكانية قيام المشارك أو المشاركين العاجزين عن التسديد بتقديم القروض اللازمة عند نهاية فترة السماح التي منحت لهم؛ € إمكانية قيام المشارك أو المشاركين العاجزين عن التسديد بإيجاد Des‏ في السوق النقدية البينية للبنوك؛ All «‏ استفادة المشارك أو المشاركين العاجزين عن التسديد من Cle‏ القرض als‏ اليوم في نظام آرتس ARTS-‏ e‏ امكانية استجابة المشارك أو المشاركين العاجزين عن التسديد إلى الشروط التي تمكنهم من الاستفادة من عمليات المقرض الأخير لبنك الجزائر (إعادة الخصم» نظام الأمانات ل 24 ساعةء مناقصات القروضء؛ عمليات السوق المفتوحة»...)؛ € قدرة Al‏ الحماية الذاتية» عندما يتم وضعهاء على تسوية رصيد المقاصة المدين لمشارك أو أكثر عاجزين عن التسديد.",
+      "paragraphs": [
+        {
+          "text": "بمجرد معاينة عجز أحد المشاركين أو أكثر في نظام -ATCI- Si‏ المسير لنظام آرتس «ARTS-‏ أن تقوم بإرسال تقرير مفصل إلى رئيس اللجنة مع اقتراح الاستدعاء المستعجل لأعضاء اللجنة وممثل البنك أو البنوك حالاتها واقتراح؛ دون cell‏ مخطط للخروج من أزمة السيولة.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "المشاركين أو أكثر عند يوخ التبادل الخاص بمركز المقاصة القبلية بين البنوك.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "وتقوم» قصد وضع حل مناسب يسمح بتسوية أرصدة المقاصة في نظام آرتس ه إمكانية قيام المشارك أو المشاركين العاجزين عن التسديد بتقديم القروض اللازمة عند نهاية فترة السماح التي منحت لهم؛ € إمكانية قيام المشارك أو المشاركين العاجزين عن التسديد بإيجاد Des‏ في السوق النقدية البينية للبنوك؛ All «‏ استفادة المشارك أو المشاركين العاجزين عن التسديد من Cle‏ القرض als‏ اليوم في نظام آرتس ARTS-‏ e‏ امكانية استجابة المشارك أو المشاركين العاجزين عن التسديد إلى الشروط التي تمكنهم من الاستفادة من عمليات المقرض الأخير لبنك الجزائر (إعادة الخصم» نظام الأمانات ل 24 ساعةء مناقصات القروضء؛ عمليات السوق المفتوحة»...)؛ € قدرة Al‏ الحماية الذاتية» عندما يتم وضعهاء على تسوية رصيد المقاصة المدين لمشارك أو أكثر عاجزين عن التسديد.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "تقوم اللجنة؛ بعد التأكد من أن المشارك أو المشاركين العاجزين عن التسديد قد فحصوا كل السبل والتدابير المنصوص عليها فى المادة 7 أعلاه بغية تغطية أرصدتهم المدينة في المقاصة» بالبحث عن حلول us sf‏ لاسيماء لدى الأسرة المصرفية قصد تسوية المقاصة المعنية. عندما لا يتم إيجاد أي. es‏ المادة_9: يُعلم رئيس اللجنة .محافظ بنك الجزائر واللجنة المصرفية بالقرار",
+      "paragraphs": [
+        {
+          "text": "تقوم اللجنة؛ بعد التأكد من أن المشارك أو المشاركين العاجزين عن التسديد قد فحصوا كل السبل والتدابير المنصوص عليها فى المادة 7 أعلاه بغية تغطية أرصدتهم المدينة في المقاصة» بالبحث عن حلول us sf‏ لاسيماء لدى الأسرة المصرفية قصد تسوية المقاصة المعنية. عندما لا يتم إيجاد أي. es‏ المادة_9: يُعلم رئيس اللجنة .محافظ بنك الجزائر واللجنة المصرفية بالقرار",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "تدخل هذه التعليمة حيز التطبيق اعتبارا من تاريخ التوقيع عليها.\nحرر «sil sil‏ في 25 مارس 2008 0 ار ل 1 À NS -à ) LL D de nr tre",
+      "paragraphs": [
+        {
+          "text": "تدخل هذه التعليمة حيز التطبيق اعتبارا من تاريخ التوقيع عليها.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "حرر «sil sil‏ في 25 مارس 2008 0 ار ل 1 À NS -à ) LL D de nr tre",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine",
+      "numerotation:articles_manquants:[7, 9]"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.05,
+      "ocr_pages": [
+        1,
+        2,
+        3
+      ],
+      "ocr_mean_confidence": 83.5
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/INS-03-08.ar.txt"
+}

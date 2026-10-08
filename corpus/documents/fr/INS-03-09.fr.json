@@ -1,0 +1,300 @@
+{
+  "document_id": "INS-03-09.fr",
+  "work_id": "INS-03-09",
+  "title": "Instruction n°03-2009 du 25 février 2009 modifiant l’instruction n°02-2008 relative au régime des réserves obligatoires.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "03-2009",
+  "number_source": "en-tête du document",
+  "date": "2009-02-25",
+  "date_raw": "N°03-2009 DU 25 FEVRIER 2009",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-02",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction032009.pdf",
+      "uploaded": "2023-01-24T10:39:36"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Année 2009",
+  "source_url": "https://www.bank-of-algeria.dz/annee-2009/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/02/instruction032009.pdf",
+  "format": "pdf",
+  "file_hash": "5ebebd416a24ea447e64ede6cdfc8c68fce155dc1c130b1f10936be731b18b77",
+  "file_size": 43452,
+  "raw_path": "raw/5ebebd416a24__instruction032009.pdf",
+  "retrieved_at": "2026-10-05T13:20:23+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "cccf43d1b16c459c5dcaf4f249e85e92b8f33da840b22c9b5a7802260fe72bd9",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-2009/",
+    "https://www.bank-of-algeria.dz/reserves-instruction-2/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Microsoft Word - instruction032009",
+    "author": "chahra.yahiaoui",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "creationDate": "D:20210211112934+01'00'",
+    "modDate": "D:20210211112934+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 516,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 3,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "meme_texte_plusieurs_fichiers"
+  ],
+  "title_document": "INSTRUCTION N°03-2009 DU 25 FEVRIER 2009 MODIFIANT L’INSTRUCTION N°02-2008 RELATIVE AU REGIME DES RESERVES OBLIGATOIRES",
+  "alias_urls": [],
+  "text_hash": "a6b6b96b3351f0e86b4637fa5c1461cd026c7b27f6700784dcf8ea0ad51aeb00",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-2008",
+        "date": null,
+        "raw": "instruction n°02-2008"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°03-2009 du 25 février 2009 modifiant l’instruction n°02-2008 relative au régime des réserves obligat"
+      },
+      "target_work_id": "INS-02-08"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-08",
+        "date": null,
+        "raw": "instruction n°02-08"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier le taux de rémunération visé à l'article 2 de l’instruction n°02-08 relative au régime des réserves obligat"
+      },
+      "target_work_id": "INS-02-08"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-02-08",
+      "reference": "instruction n°02-2008",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°03-2009 du 25 février 2009 modifiant l’instruction n°02-2008 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-08",
+      "reference": "instruction n°02-08",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier le taux de rémunération visé à l'article 2 de l’instruction n°02-08 relative au régime des réserves obligat"
+      }
+    }
+  ],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-03-09.ar",
+    "INS-03-09.fr~2"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°03-2009 DU 25 FEVRIER 2009 MODIFIANT\nL’INSTRUCTION N°02-2008 RELATIVE AU\nREGIME DES RESERVES OBLIGATOIRES",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°03-2009 DU 25 FEVRIER 2009 MODIFIANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L’INSTRUCTION N°02-2008 RELATIVE AU",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "REGIME DES RESERVES OBLIGATOIRES",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction a pour objet de modifier le taux de rémunération visé à l'article 2 de l’instruction n°02-08 relative au régime des réserves obligatoires.",
+      "paragraphs": [
+        {
+          "text": "La présente instruction a pour objet de modifier le taux de rémunération visé à l'article 2 de l’instruction n°02-08 relative au régime des réserves obligatoires.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le taux de rémunération des réserves obligatoires est fixé à 0,50% par an.",
+      "paragraphs": [
+        {
+          "text": "Le taux de rémunération des réserves obligatoires est fixé à 0,50% par an.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction entre en application à compter du 15 mars 2009.\nLe Gouverneur\nMohammed LAKSACI",
+      "paragraphs": [
+        {
+          "text": "La présente instruction entre en application à compter du 15 mars 2009.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "meme_texte_plusieurs_fichiers"
+    ],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.04
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-03-09.fr.txt"
+}

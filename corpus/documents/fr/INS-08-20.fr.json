@@ -1,0 +1,472 @@
+{
+  "document_id": "INS-08-20.fr",
+  "work_id": "INS-08-20",
+  "title": "Instruction n°08-20 du 29 avril 2020 modifiant l’instruction n°06-2016 du 1 er septembre 2016 relative aux opérations d’open market portant refinancement des banque s",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "08-2020",
+  "number_source": "en-tête du document",
+  "date": "2020-04-29",
+  "date_raw": "N°08-2020 DU 29 AVRIL 2020",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-02",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction082020.pdf",
+      "uploaded": "2023-01-24T10:28:43"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Année 2020",
+  "source_url": "https://www.bank-of-algeria.dz/annee-2020/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/02/instruction082020.pdf",
+  "format": "pdf",
+  "file_hash": "b5579a855794b26a04dae8236eedd1df482d5f57c33e3b6c001863c3dbd2ac0c",
+  "file_size": 70163,
+  "raw_path": "raw/b5579a855794__instruction082020.pdf",
+  "retrieved_at": "2026-10-05T13:20:51+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "e2290a2a9eadd179fef35ced0a7f2e075e02a05f3bc2eb572516bbd9d540d8f7",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-2020/",
+    "https://www.bank-of-algeria.dz/ar/%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84/",
+    "https://www.bank-of-algeria.dz/ar/%d8%a5%d8%b9%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%aa%d9%85%d9%88%d9%8a%d9%84/",
+    "https://www.bank-of-algeria.dz/refinancement-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - instruction082020",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210209133214+01'00'",
+    "modDate": "D:20210209133214+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 944,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 693,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 3,
+    "annex_count": 1
+  },
+  "quality_flags": [
+    "meme_texte_plusieurs_fichiers"
+  ],
+  "title_document": "INSTRUCTION N°08-2020 DU 29 AVRIL 2020 MODIFIANT L’INSTRUCTION N°06-2016 DU 1ER SEPTEMBRE 2016 RELATIVE AUX OPERATIONS D’OPEN MARKET PORTANT REFINANCEMENT DES BANQUES",
+  "label_number": "08-20",
+  "alias_urls": [],
+  "text_hash": "4cd0a2ccdff9b22f3b51715e33950542ba3c937149f0fc06586380ea44308a45",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "06-2016",
+        "date": "2016-09-01",
+        "raw": "instruction n°06-2016 du 1 er septembre 2016"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°08-20 du 29 avril 2020 modifiant l’instruction n°06-2016 du 1 er septembre 2016 relative aux opérations d’open market p"
+      },
+      "target_work_id": "INS-06-16"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "06-2016",
+        "date": "2016-09-01",
+        "raw": "instruction n°06-2016 du 1er septembre 2016"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "L’article 11 de l'instruction n°06-2016 du 1er septembre 2016 relative aux opérations d’open market p"
+      },
+      "target_work_id": "INS-06-16"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-06-16",
+      "reference": "instruction n°06-2016 du 1 er septembre 2016",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°08-20 du 29 avril 2020 modifiant l’instruction n°06-2016 du 1 er septembre 2016 relative aux opérations d’open market p"
+      }
+    },
+    {
+      "work_id": "INS-06-16",
+      "reference": "instruction n°06-2016 du 1er septembre 2016",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "L’article 11 de l'instruction n°06-2016 du 1er septembre 2016 relative aux opérations d’open market p"
+      }
+    }
+  ],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-08-20.ar",
+    "INS-08-20.fr~2"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe VI",
+      "number": "VI",
+      "heading": "à l’instruction n°08-20 du 30 avril 2020 modifiant l’instruction n°06-2016 du 1er septembre 2016 :",
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°08-2020 DU 29 AVRIL 2020 MODIFIANT\nL’INSTRUCTION N°06-2016 DU 1ER SEPTEMBRE 2016 RELATIVE\nAUX OPERATIONS D’OPEN MARKET PORTANT\nREFINANCEMENT DES BANQUES",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°08-2020 DU 29 AVRIL 2020 MODIFIANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L’INSTRUCTION N°06-2016 DU 1ER SEPTEMBRE 2016 RELATIVE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AUX OPERATIONS D’OPEN MARKET PORTANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "REFINANCEMENT DES BANQUES",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction a pour objet de modifier les seuils de refinancement applicables aux titres publics négociables donnés en garantie à la Banque d’Algérie par les contreparties aux opérations de politique monétaire.",
+      "paragraphs": [
+        {
+          "text": "La présente instruction a pour objet de modifier les seuils de refinancement applicables aux titres publics négociables donnés en garantie à la Banque d’Algérie par les contreparties aux opérations de politique monétaire.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L’article 11 de l'instruction n°06-2016 du 1er septembre 2016 relative aux opérations d’open market portant refinancement des banques est modifié et rédigé comme suit :\n« Article 11 : La Banque d’Algérie refinance les banques sur la base des nouveaux seuils fixés conformément à l’annexe VI de la présente instruction ».",
+      "paragraphs": [
+        {
+          "text": "L’article 11 de l'instruction n°06-2016 du 1er septembre 2016 relative aux opérations d’open market portant refinancement des banques est modifié et rédigé comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "« Article 11 : La Banque d’Algérie refinance les banques sur la base des nouveaux seuils fixés conformément à l’annexe VI de la présente instruction ».",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction prend effet à compter de la date de sa signature.\nLe Gouverneur\nAïmene BENABDERRAHMANE\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "La présente instruction prend effet à compter de la date de sa signature.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Aïmene BENABDERRAHMANE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe VI",
+      "number": "VI",
+      "heading": "à l’instruction n°08-20 du 30 avril 2020 modifiant l’instruction n°06-2016 du 1er septembre 2016 :",
+      "context": {},
+      "annexe": {
+        "number": "VI",
+        "heading": "à l’instruction n°08-20 du 30 avril 2020 modifiant l’instruction n°06-2016 du 1er septembre 2016 :",
+        "label": "Annexe VI"
+      },
+      "page_start": 2,
+      "page_end": 2,
+      "text": "SEUILS DE REFINANCEMENT DES TITRES DONNES EN GARANTIE\nNature des Titres\nEchéances résiduelles\nSeuils de refinancement\nTitres publics négociables\n- Inférieures à 1 an\n- De 1 an à inférieures à 5 ans\n- Egales/supérieures à 5 ans\n95 %\n90 %\n85 %\nTitres privés négociables\n- De 0 à inférieures à 1 an\n- De 1 à inférieures à 3 ans\n- Egales/supérieures à 3 ans\n80 %\n70 %\n50 %\nCréances non négociables\n- De 0 à inférieures à 1 an\n- De 1 à 5 ans\n70 %\n50 %",
+      "paragraphs": [
+        {
+          "text": "SEUILS DE REFINANCEMENT DES TITRES DONNES EN GARANTIE",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Nature des Titres",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Echéances résiduelles",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Seuils de refinancement",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Titres publics négociables",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Inférieures à 1 an",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- De 1 an à inférieures à 5 ans",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Egales/supérieures à 5 ans",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "95 %",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "90 %",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "85 %",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Titres privés négociables",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- De 0 à inférieures à 1 an",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- De 1 à inférieures à 3 ans",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Egales/supérieures à 3 ans",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "80 %",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "70 %",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "50 %",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Créances non négociables",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- De 0 à inférieures à 1 an",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- De 1 à 5 ans",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "70 %",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "50 %",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [
+    {
+      "page": 2,
+      "tables": [
+        "|Nature des Titres|Echéances résiduelles|Seuils de<br>refinancement|\n|---|---|---|\n|**Titres publics**<br>**négociables**|- Inférieures à 1 an <br>- De 1 an à inférieures à 5 ans <br>- Egales/supérieures à 5 ans|95 % <br>90 % <br>85 %|\n|**Titres privés négociables**|- De 0 à inférieures à 1 an <br>- De 1 à inférieures à 3 ans <br>- Egales/supérieures à 3 ans|80 % <br>70 % <br>50 %|\n|**Créances non**<br>**négociables**|- De 0 à inférieures à 1 an <br>- De 1 à 5 ans|70 % <br>50 %|\n\n"
+      ]
+    }
+  ],
+  "quality": {
+    "flags": [
+      "meme_texte_plusieurs_fichiers"
+    ],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.041
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-08-20.fr.txt"
+}

@@ -1,0 +1,366 @@
+{
+  "document_id": "REG-91-01.ar",
+  "work_id": "REG-91-01",
+  "title": "نظام رقم 91-01 المؤرخ في 20 فبراير 1991 يحدد حق الصرف بعنوان المكافآت المعوضة للمصاريف المترتبة على المهمات المؤقتة في الخارج.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "91-01",
+  "number_source": "libelle",
+  "date": "1991-02-20",
+  "date_raw": "المؤرخ في 20 فبراير 1991",
+  "date_source": "libelle",
+  "publication_date": "2023-02-28",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "règlements",
+  "subcategory": "تنظيم الصرف",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%aa%d9%86%d8%b8%d9%8a%d9%85-%d8%a7%d9%84%d8%b5%d8%b1%d9%81-2/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/02/01-91.pdf",
+  "format": "pdf",
+  "file_hash": "3de9c0ebe2d6c6feee1d7fe56bf07f19925dc5648ca9f9da1dd1d80ae8ae403e",
+  "file_size": 293706,
+  "raw_path": "raw/3de9c0ebe2d6__01-91.pdf",
+  "retrieved_at": "2026-10-05T13:27:40+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 1,
+  "url_hash": "e3d8ec6ef60506ae1ac1b76f6cb9b1fb86a171312efe287b5b665541c21cdfde",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%aa%d9%86%d8%b8%d9%8a%d9%85-%d8%a7%d9%84%d8%b5%d8%b1%d9%81-2/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "author": "lynda benhaha",
+    "creator": "Microsoft® Word 2016",
+    "producer": "Microsoft® Word 2016",
+    "creationDate": "D:20230226131427+01'00'",
+    "modDate": "D:20230226131427+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 2220,
+        "ocr_confidence": 88.53253012048192
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 3,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_uncertain_numbers:1",
+    "ocr_utilise_verification_humaine"
+  ],
+  "title_document": "نظام رقم 91 - 01 مؤرخ فى 5 شعبان عام 1411 الموافق 20 شراير سنة 1991. يحدد حق الصرف يعئوان المكافآات المعوضة للمصاريف المترتية عن المهمات المؤقنة في الخارج. إن محافظ بنك الجزائرء - بمقتضى القانون رقم 90 -10 المؤرخ في 19 رمضان عام 1410 الموافق 14 ابريل سنة 1990 والمتعلق بالنقد والقرض لاسيما المادة 44 الفقرة ” ك \" منه,.",
+  "alias_urls": [],
+  "text_hash": "fdb931e9baed3aa2111c3b50aa4f45f9be8fcdffe5a92251596311ebe77fdccd",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [
+    {
+      "work_id": "REG-95-02",
+      "document_id": "REG-95-02.fr",
+      "date": "1995-02-28",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°95-02 du 28 février 1995 modifiant et complétant le règlement n°91-01 du 20 février 1991 fixant le droit de change au titre des"
+      }
+    },
+    {
+      "work_id": "REG-95-02",
+      "document_id": "REG-95-02.fr",
+      "date": "1995-02-28",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier les articles 1 et 2 du règlement n°91-01 du 20 février 1991 susvisé."
+      }
+    }
+  ],
+  "complete_par": [
+    {
+      "work_id": "REG-95-02",
+      "document_id": "REG-95-02.fr",
+      "date": "1995-02-28",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°95-02 du 28 février 1995 modifiant et complétant le règlement n°91-01 du 20 février 1991 fixant le droit de change au titre des"
+      }
+    }
+  ],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée. Ce texte a été modifié/complété : consulter aussi les textes listés dans modifié_par / complété_par.",
+  "same_work_documents": [
+    "REG-91-01.fr",
+    "REG-91-01.fr~2"
+  ],
+  "complété_par": [
+    {
+      "work_id": "REG-95-02",
+      "document_id": "REG-95-02.fr",
+      "date": "1995-02-28",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°95-02 du 28 février 1995 modifiant et complétant le règlement n°91-01 du 20 février 1991 fixant le droit de change au titre des"
+      }
+    }
+  ],
+  "modifié_par": [
+    {
+      "work_id": "REG-95-02",
+      "document_id": "REG-95-02.fr",
+      "date": "1995-02-28",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°95-02 du 28 février 1995 modifiant et complétant le règlement n°91-01 du 20 février 1991 fixant le droit de change au titre des"
+      }
+    },
+    {
+      "work_id": "REG-95-02",
+      "document_id": "REG-95-02.fr",
+      "date": "1995-02-28",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier les articles 1 et 2 du règlement n°91-01 du 20 février 1991 susvisé."
+      }
+    }
+  ],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "ocr_numeric_check": {
+    "units": 4,
+    "units_flagged": 1,
+    "units_compared_with_french": 2,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "نظام رقم 91 - 01 مؤرخ فى 5 شعبان عام 1411 الموافق 20 شراير سنة 1991. يحدد حق الصرف يعئوان المكافآات المعوضة للمصاريف المترتية عن المهمات المؤقنة في الخارج.\nإن محافظ بنك الجزائرء\n- بمقتضى القانون رقم 90 -10 المؤرخ في 19 رمضان عام 1410 الموافق 14 ابريل سنة 1990 والمتعلق بالنقد والقرض لاسيما المادة 44 الفقرة ” ك \" منه,.\n- وبمقتضى المرسوم الرئاسي المؤرخ في 20 رمضان عام 1410 الموافق 15 أبريل سنة 1990 والمتضمن ua‏\n- وبمقتضى المرسوم الرئاسي المؤرخ في 19 شوال عام لمحافظ البنك المركزي الجزائري,\n- وبمقتضى المرسوم التنفيذي المؤرخ في 19 شوال عام 0 الموافق 14 مايو سنة 1990 والمتضمن تعيين أعضاء دائمين وأعضاء اضافيين في مجلس التقد والقرض,\n- وبمقضى المرسوم رقم 82 - 217 المؤرخ في 11 رمضان عام 1402 الموافق 3 يوليو سنة 1982 والمتعلق بالمكافآت المعوضة للمصاريف المترتبة عن المهمات المؤقتة في الخارج, في 10 رجب عام 1410 المواقق 6 فبراير سنة 1990 المعدل والمتعلق بالمكافآت المعوضة للمصاريف المترتية عن المهمات\n- وبمقتضى القراز الوزاري المشترك المؤرخ في 13 شعبان عام 1410 الموافق 10 مارس سنة 1990 والمتضمن المعوضة للمصاريف المترتبة عن المهمات المؤقتة في الخارج.\nوبناء على مداولة مجلس النقد والقرض المؤرخة في 20 فبراير سنة 1991 امصدر النظام التالي di‏ :",
+      "paragraphs": [
+        {
+          "text": "نظام رقم 91 - 01 مؤرخ فى 5 شعبان عام 1411 الموافق 20 شراير سنة 1991. يحدد حق الصرف يعئوان المكافآات المعوضة للمصاريف المترتية عن المهمات المؤقنة في الخارج.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "إن محافظ بنك الجزائرء",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- بمقتضى القانون رقم 90 -10 المؤرخ في 19 رمضان عام 1410 الموافق 14 ابريل سنة 1990 والمتعلق بالنقد والقرض لاسيما المادة 44 الفقرة ” ك \" منه,.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى المرسوم الرئاسي المؤرخ في 20 رمضان عام 1410 الموافق 15 أبريل سنة 1990 والمتضمن ua‏",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى المرسوم الرئاسي المؤرخ في 19 شوال عام لمحافظ البنك المركزي الجزائري,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى المرسوم التنفيذي المؤرخ في 19 شوال عام 0 الموافق 14 مايو سنة 1990 والمتضمن تعيين أعضاء دائمين وأعضاء اضافيين في مجلس التقد والقرض,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقضى المرسوم رقم 82 - 217 المؤرخ في 11 رمضان عام 1402 الموافق 3 يوليو سنة 1982 والمتعلق بالمكافآت المعوضة للمصاريف المترتبة عن المهمات المؤقتة في الخارج, في 10 رجب عام 1410 المواقق 6 فبراير سنة 1990 المعدل والمتعلق بالمكافآت المعوضة للمصاريف المترتية عن المهمات",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى القراز الوزاري المشترك المؤرخ في 13 شعبان عام 1410 الموافق 10 مارس سنة 1990 والمتضمن المعوضة للمصاريف المترتبة عن المهمات المؤقتة في الخارج.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبناء على مداولة مجلس النقد والقرض المؤرخة في 20 فبراير سنة 1991 امصدر النظام التالي di‏ :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "بعنوان المكافآت البومية المعوضة للمصاريف المترتبة عن المهمات المؤقتة في الخارجء يمكن ممارسة حق الصرف: حسب الاصتاق والمجموعات المنصوص عليها في المادتين 1 و2 من المرسوم التنفيذي رقم 0 - 53 المؤرخ في 6 فبراير سنة 1990., في الحدود التالية :\n1 - الصنف ” |\" :\n1 ) المجموعة الأرلى - 4.000 د.ج 2 ) المجموعة الثانية - 500, 3 د.ج 3( المجموعة الثالثة = 000. 3 د.ج 2 - الصنف ” ب \" :\n1 ) المجموعة الأرلى = 500. 3 د.ج 2 ) المجموعة الثانية = 000. 3 د.ج 3 ) المجموعة الثالثة - 500. 2 د.ج",
+      "paragraphs": [
+        {
+          "text": "بعنوان المكافآت البومية المعوضة للمصاريف المترتبة عن المهمات المؤقتة في الخارجء يمكن ممارسة حق الصرف: حسب الاصتاق والمجموعات المنصوص عليها في المادتين 1 و2 من المرسوم التنفيذي رقم 0 - 53 المؤرخ في 6 فبراير سنة 1990., في الحدود التالية :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "1 - الصنف ” |\" :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "1 ) المجموعة الأرلى - 4.000 د.ج 2 ) المجموعة الثانية - 500, 3 د.ج 3( المجموعة الثالثة = 000. 3 د.ج 2 - الصنف ” ب \" :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "1 ) المجموعة الأرلى = 500. 3 د.ج 2 ) المجموعة الثانية = 000. 3 د.ج 3 ) المجموعة الثالثة - 500. 2 د.ج",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تخضع شروط منح المكافآت المعيرضة للمصاريف المترتية عن المهمات المؤقتة في الخارجء. لأحكام التنظيم المطبق في هذا المجال. ويحدد مبلغها وفقه, لاسيما أحكام المرسومين رقم 82 - 217 المؤرخ في 30 يوليو سنة 2 :. ورقم 90 - 53 المؤرخ في 6 فبراير سنة 21990 وهكذا فإنها مستبعدة من مجال تطبيق هذا النص.",
+      "paragraphs": [
+        {
+          "text": "تخضع شروط منح المكافآت المعيرضة للمصاريف المترتية عن المهمات المؤقتة في الخارجء. لأحكام التنظيم المطبق في هذا المجال. ويحدد مبلغها وفقه, لاسيما أحكام المرسومين رقم 82 - 217 المؤرخ في 30 يوليو سنة 2 :. ورقم 90 - 53 المؤرخ في 6 فبراير سنة 21990 وهكذا فإنها مستبعدة من مجال تطبيق هذا النص.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "بدخل هذا النظام حيز التطييق ايتداء من تاريخ نشره وفقا للشروط المحددة في المادة 47 من القانون رقم 10-0 المؤرخ في 14 أبريل سنة 1990 والمتعلق بالنقد والقرض.\nللجمهورية الجزائرية الديمقراطية الشعبية.\nحرر بالجزائر في 5 شعبان عام 1411 الموافق 20 فيراير Le‏ 1991, عبد الرحمن الرستمي حاج ناصر",
+      "paragraphs": [
+        {
+          "text": "بدخل هذا النظام حيز التطييق ايتداء من تاريخ نشره وفقا للشروط المحددة في المادة 47 من القانون رقم 10-0 المؤرخ في 14 أبريل سنة 1990 والمتعلق بالنقد والقرض.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "للجمهورية الجزائرية الديمقراطية الشعبية.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "حرر بالجزائر في 5 شعبان عام 1411 الموافق 20 فيراير Le‏ 1991, عبد الرحمن الرستمي حاج ناصر",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_uncertain_numbers:1",
+      "ocr_utilise_verification_humaine"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.042,
+      "ocr_pages": [
+        1
+      ],
+      "ocr_mean_confidence": 88.5
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/REG-91-01.ar.txt"
+}

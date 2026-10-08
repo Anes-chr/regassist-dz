@@ -1,0 +1,215 @@
+{
+  "document_id": "ORD-09-01.ar",
+  "work_id": "ORD-09-01",
+  "title": "أمر رقم 09-01 مؤرخ 29 رجب عام 1430 الموافق 22 يوليو سنة 2009، يتضمن قانون المالية التكميلي لسنة 2009",
+  "document_type": "ordonnance",
+  "type_code": "ORD",
+  "type_source": "label",
+  "number": "09-01",
+  "number_source": "libelle",
+  "date": "2009-07-22",
+  "date_raw": "الموافق 22 يوليو سنة 2009",
+  "date_source": "libelle",
+  "publication_date": "2022-09-01",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": null,
+  "issuer_note": "Émetteur non établi par la source (publié sur le site de la Banque d'Algérie).",
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "ordonnances",
+  "subcategory": "منشورات سابقة",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d9%82%d8%a7%d9%86%d9%88%d9%86-%d8%a7%d9%84%d9%86%d9%82%d8%af-%d9%88-%d8%a7%d9%84%d9%82%d8%b1%d8%b6/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2022/09/ord0901_ar.pdf",
+  "format": "pdf",
+  "file_hash": "ed4a43b560424f72a79b30e022b06fcd701c266f6397117ed7dedfcacd05d55c",
+  "file_size": 38897,
+  "raw_path": "raw/ed4a43b56042__ord0901_ar.pdf",
+  "retrieved_at": "2026-10-05T13:25:14+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 1,
+  "url_hash": "a795ce23eebd7131e3770b7542b3792611768f27d3e0a92a3277161dd23adae4",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D9%86%D9%82%D8%AF-%D9%88-%D8%A7%D9%84%D9%82%D8%B1%D8%B6/",
+    "https://www.bank-of-algeria.dz/ar/%d9%82%d8%a7%d9%86%d9%88%d9%86-%d8%a7%d9%84%d9%86%d9%82%d8%af-%d9%88-%d8%a7%d9%84%d9%82%d8%b1%d8%b6/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "ord0901_ar",
+    "author": "redouane.mouadene",
+    "creator": "PDFCreator Version 0.9.8",
+    "producer": "GPL Ghostscript 8.64",
+    "creationDate": "D:20141216124816+01'00'",
+    "modDate": "D:20141216124816+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 417,
+        "ocr_confidence": 83.4342105263158
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 1,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_uncertain_numbers:1",
+    "ocr_utilise_verification_humaine",
+    "numerotation:premier_article=107"
+  ],
+  "title_document": "أمر رقم 01-09 مؤرخ في 29 رجب عام 1430 الموافق 22 التكميلي لسنة 2009. المادة 107 : تعدل وتتمم المادة 104 من الأمر رقم الموافق 26 غشت Li‏ 2003 والمتعلق بالنقد والقرض وتحرر piles‏ \"ا مادة 104 - يمكن أن pes‏ بنك أو مؤسسة مالية مساهمة فى رأسمالها. pas‏ على البثك أو المؤسسة المالبة أن تمنح",
+  "alias_urls": [],
+  "text_hash": "c29c9e9a226a0834198f058e491338a2d19884af786f3f43766f8acaafa43eac",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "ORD",
+        "number": "03-11",
+        "date": null,
+        "raw": "ordonnance n°03-11"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "L'article 104 de l'ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondan",
+        "copied_from": "ORD-09-01.fr"
+      },
+      "target_work_id": "ORD-03-11"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "ORD-03-11",
+      "reference": "ordonnance n°03-11",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "L'article 104 de l'ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondan",
+        "copied_from": "ORD-09-01.fr"
+      }
+    }
+  ],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "ORD-09-01.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "ocr_numeric_check": {
+    "units": 2,
+    "units_flagged": 1,
+    "units_compared_with_french": 1,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 107",
+      "number": "107",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "أمر رقم 01-09 مؤرخ في 29 رجب عام 1430 الموافق 22 التكميلي لسنة 2009.",
+      "paragraphs": [
+        {
+          "text": "أمر رقم 01-09 مؤرخ في 29 رجب عام 1430 الموافق 22 التكميلي لسنة 2009.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 107",
+      "number": "107",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تعدل وتتمم المادة 104 من الأمر رقم الموافق 26 غشت Li‏ 2003 والمتعلق بالنقد والقرض وتحرر piles‏ \"ا مادة 104 - يمكن أن pes‏ بنك أو مؤسسة مالية مساهمة فى رأسمالها.\npas‏ على البثك أو المؤسسة المالبة أن تمنح الممسسبرون في مفهوم هذه المادة هم المؤسسون وأعضاء مجلس الإدارة والممثلون والأشخاص المخولة لهم والمساهمين وأقاربهم من الدرجة الأولى .",
+      "paragraphs": [
+        {
+          "text": "تعدل وتتمم المادة 104 من الأمر رقم الموافق 26 غشت Li‏ 2003 والمتعلق بالنقد والقرض وتحرر piles‏ \"ا مادة 104 - يمكن أن pes‏ بنك أو مؤسسة مالية مساهمة فى رأسمالها.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "pas‏ على البثك أو المؤسسة المالبة أن تمنح الممسسبرون في مفهوم هذه المادة هم المؤسسون وأعضاء مجلس الإدارة والممثلون والأشخاص المخولة لهم والمساهمين وأقاربهم من الدرجة الأولى .",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_uncertain_numbers:1",
+      "ocr_utilise_verification_humaine",
+      "numerotation:premier_article=107"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.032,
+      "ocr_pages": [
+        1
+      ],
+      "ocr_mean_confidence": 83.4
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/ORD-09-01.ar.txt"
+}

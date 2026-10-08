@@ -1,0 +1,373 @@
+{
+  "document_id": "INS-06-20.fr~2",
+  "work_id": "INS-06-20",
+  "title": "Instruction n°06-2020 modifiant et complétant l’instruction n° 02-2004 du 13 mai 2004 relative au régime des réserves obligatoires.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "06-2020",
+  "number_source": "en-tête du document",
+  "date": "2020-04-29",
+  "date_raw": "N°06-2020 DU 29 AVRIL 2020",
+  "date_source": "en-tête du document",
+  "publication_date": "2023-01-24",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Instruments de la politique monétaire",
+  "source_url": "https://www.bank-of-algeria.dz/marche-monetaire-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction062020.pdf",
+  "format": "pdf",
+  "file_hash": "4718a3bbff8ec2ff29524d6594b01b0f5fb376461e62199df6ab8e721b05c601",
+  "file_size": 40601,
+  "raw_path": "raw/4718a3bbff8e__instruction062020.pdf",
+  "retrieved_at": "2026-10-05T13:26:10+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "e17e5efc86bf2e4378d094c7ec2d87f280273e657b6be86ef451089ab1ca0e87",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/marche-monetaire-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document5",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20201014163615+01'00'",
+    "modDate": "D:20201014163615+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 715,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 3,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "meme_texte_plusieurs_fichiers"
+  ],
+  "title_document": "INSTRUCTION N°06-2020 DU 29 AVRIL 2020 MODIFIANT ET COMPLETANT L’INSTRUCTION N°02-2004 DU 13 MAI 2004 RELATIVE AU REGIME DES RESERVES OBLIGATOIRES",
+  "alias_urls": [],
+  "text_hash": "b18f4630586bffc30e7035a3c9dded731aaf41e2d9eddd2f96e05a45164d1785",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-2004",
+        "date": "2004-05-13",
+        "raw": "instruction n° 02-2004 du 13 mai 2004"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°06-2020 modifiant et complétant l’instruction n° 02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      },
+      "target_work_id": "INS-02-04"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-2004",
+        "date": "2004-05-13",
+        "raw": "instruction n° 02-2004 du 13 mai 2004"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°06-2020 modifiant et complétant l’instruction n° 02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      },
+      "target_work_id": "INS-02-04"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-2004",
+        "date": "2004-05-13",
+        "raw": "instruction n°02-2004 du 13 mai 2004"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      },
+      "target_work_id": "INS-02-04"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-2004",
+        "date": "2004-05-13",
+        "raw": "instruction n°02-2004 du 13 mai 2004"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      },
+      "target_work_id": "INS-02-04"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-02-04",
+      "reference": "instruction n° 02-2004 du 13 mai 2004",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°06-2020 modifiant et complétant l’instruction n° 02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-04",
+      "reference": "instruction n°02-2004 du 13 mai 2004",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "INS-02-04",
+      "reference": "instruction n° 02-2004 du 13 mai 2004",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°06-2020 modifiant et complétant l’instruction n° 02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-04",
+      "reference": "instruction n°02-2004 du 13 mai 2004",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-06-20.ar",
+    "INS-06-20.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "INS-02-04",
+      "reference": "instruction n° 02-2004 du 13 mai 2004",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°06-2020 modifiant et complétant l’instruction n° 02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-04",
+      "reference": "instruction n°02-2004 du 13 mai 2004",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    }
+  ],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°06-2020 DU 29 AVRIL 2020 MODIFIANT ET COMPLETANT\nL’INSTRUCTION N°02-2004 DU 13 MAI 2004\nRELATIVE AU REGIME DES RESERVES OBLIGATOIRES",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°06-2020 DU 29 AVRIL 2020 MODIFIANT ET COMPLETANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L’INSTRUCTION N°02-2004 DU 13 MAI 2004",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "RELATIVE AU REGIME DES RESERVES OBLIGATOIRES",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligatoires.",
+      "paragraphs": [
+        {
+          "text": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligatoires.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L’article 3 de l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligatoires est modifié et rédigé comme suit :\n« Article 3 : Le taux des réserves obligatoires est fixé à 6% de l'assiette des réserves définie dans l'article 2 ci-dessus ».",
+      "paragraphs": [
+        {
+          "text": "L’article 3 de l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligatoires est modifié et rédigé comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "« Article 3 : Le taux des réserves obligatoires est fixé à 6% de l'assiette des réserves définie dans l'article 2 ci-dessus ».",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction prend effet à compter du 15 mai 2020.\nLe Gouverneur\nAïmene BENABDERRAHMANE",
+      "paragraphs": [
+        {
+          "text": "La présente instruction prend effet à compter du 15 mai 2020.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Aïmene BENABDERRAHMANE",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "meme_texte_plusieurs_fichiers"
+    ],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.045
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-06-20.fr~2.txt"
+}

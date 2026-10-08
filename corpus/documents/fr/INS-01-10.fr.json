@@ -1,0 +1,376 @@
+{
+  "document_id": "INS-01-10.fr",
+  "work_id": "INS-01-10",
+  "title": "Instruction n°01-2010 du 10 janvier 2010 modifiant et complétant l’instruction n°06-2009 relative à la mise en place d’un droit de change spécifique pour les nationaux résidents dans le cadre du déplacement pour la phase finale de la CAN 2010.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "01-2010",
+  "number_source": "en-tête du document",
+  "date": "2010-01-10",
+  "date_raw": "N°01-2010 DU 10 JANVIER 2010",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-02",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction012010.pdf",
+      "uploaded": "2023-01-24T13:54:45"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Année 2010",
+  "source_url": "https://www.bank-of-algeria.dz/annee-2010/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/02/instruction012010.pdf",
+  "format": "pdf",
+  "file_hash": "670b67e7cf43aa7f4873f70de774355312a56b2c3076a3232560b22b99e93094",
+  "file_size": 51387,
+  "raw_path": "raw/670b67e7cf43__instruction012010.pdf",
+  "retrieved_at": "2026-10-05T13:20:05+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "a8b311a9a99fcf508c9f53792f0f3438cc669ca1d968230d79d7d07962f91699",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-2010/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Microsoft Word - instruction012010",
+    "author": "chahra.yahiaoui",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "creationDate": "D:20210211104855+01'00'",
+    "modDate": "D:20210211104855+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 1139,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 2,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "meme_texte_plusieurs_fichiers"
+  ],
+  "title_document": "INSTRUCTION N°01-2010 DU 10 JANVIER 2010 MODIFIANT ET COMPLETANT L'INSTRUCTION N° 06-09 RELATIVE A LA MISE EN PLACE D'UN DROIT DE CHANGE SPECIFIQUE POUR LES NATIONAUX RESIDENTS DANS LE CADRE DU DEPLACEMENT POUR LA PHASE FINALE DE LA CAN 2010",
+  "alias_urls": [],
+  "text_hash": "7a79593ea1dfc7a8914875f8c9b83727a886bee06f0fd85fe5139b8cd21282c6",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "06-2009",
+        "date": null,
+        "raw": "instruction n°06-2009"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2010 du 10 janvier 2010 modifiant et complétant l’instruction n°06-2009 relative à la mise en place d’un droit"
+      },
+      "target_work_id": "INS-06-09"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "06-2009",
+        "date": null,
+        "raw": "instruction n°06-2009"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2010 du 10 janvier 2010 modifiant et complétant l’instruction n°06-2009 relative à la mise en place d’un droit"
+      },
+      "target_work_id": "INS-06-09"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "06-09",
+        "date": null,
+        "raw": "INSTRUCTION N° 06-09"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "INSTRUCTION N°01-2010 DU 10 JANVIER 2010 MODIFIANT ET COMPLETANT L'INSTRUCTION N° 06-09 RELATIVE A LA MISE EN PLACE D'UN DROIT"
+      },
+      "target_work_id": "INS-06-09"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "06-09",
+        "date": null,
+        "raw": "INSTRUCTION N° 06-09"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "INSTRUCTION N°01-2010 DU 10 JANVIER 2010 MODIFIANT ET COMPLETANT L'INSTRUCTION N° 06-09 RELATIVE A LA MISE EN PLACE D'UN DROIT"
+      },
+      "target_work_id": "INS-06-09"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-06-09",
+      "reference": "instruction n°06-2009",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2010 du 10 janvier 2010 modifiant et complétant l’instruction n°06-2009 relative à la mise en place d’un droit"
+      }
+    },
+    {
+      "work_id": "INS-06-09",
+      "reference": "INSTRUCTION N° 06-09",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "INSTRUCTION N°01-2010 DU 10 JANVIER 2010 MODIFIANT ET COMPLETANT L'INSTRUCTION N° 06-09 RELATIVE A LA MISE EN PLACE D'UN DROIT"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "INS-06-09",
+      "reference": "instruction n°06-2009",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2010 du 10 janvier 2010 modifiant et complétant l’instruction n°06-2009 relative à la mise en place d’un droit"
+      }
+    },
+    {
+      "work_id": "INS-06-09",
+      "reference": "INSTRUCTION N° 06-09",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "INSTRUCTION N°01-2010 DU 10 JANVIER 2010 MODIFIANT ET COMPLETANT L'INSTRUCTION N° 06-09 RELATIVE A LA MISE EN PLACE D'UN DROIT"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-01-10.ar",
+    "INS-01-10.fr~2"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "INS-06-09",
+      "reference": "instruction n°06-2009",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2010 du 10 janvier 2010 modifiant et complétant l’instruction n°06-2009 relative à la mise en place d’un droit"
+      }
+    },
+    {
+      "work_id": "INS-06-09",
+      "reference": "INSTRUCTION N° 06-09",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "INSTRUCTION N°01-2010 DU 10 JANVIER 2010 MODIFIANT ET COMPLETANT L'INSTRUCTION N° 06-09 RELATIVE A LA MISE EN PLACE D'UN DROIT"
+      }
+    }
+  ],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°01-2010 DU 10 JANVIER 2010\nMODIFIANT ET COMPLETANT L'INSTRUCTION N° 06-09\nRELATIVE A LA MISE EN PLACE D'UN DROIT DE CHANGE SPECIFIQUE\nPOUR LES NATIONAUX RESIDENTS DANS LE CADRE DU DEPLACEMENT\nPOUR LA PHASE FINALE DE LA CAN 2010",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°01-2010 DU 10 JANVIER 2010",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "MODIFIANT ET COMPLETANT L'INSTRUCTION N° 06-09",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "RELATIVE A LA MISE EN PLACE D'UN DROIT DE CHANGE SPECIFIQUE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "POUR LES NATIONAUX RESIDENTS DANS LE CADRE DU DEPLACEMENT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "POUR LA PHASE FINALE DE LA CAN 2010",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les articles 1 (alinéa 2) et 6 (alinéa1) de l'instruction n° 06-09 du 28 décembre 2009 relative à la mise en place d'un droit de change spécifique pour les nationaux résidents dans le cadre du déplacement pour la phase finale de la Coupe d'Afrique des Nations 2010, sont modifiés et rédigés comme suit :\n\"Article 1: ……………………………………………………….…\nCe droit de change spécifique ne peut être exercé que durant la période allant du 03 janvier au 31 janvier 2010\".\n\"Article 6 : Les banques, intermédiaires agréés, sont tenues d'adresser à la Banque d'Algérie, avant le 10 février 2010, un état consolidé des allocations de change spécifique délivrées, en application de la présente instruction, par leurs guichets respectifs.......\".",
+      "paragraphs": [
+        {
+          "text": "Les articles 1 (alinéa 2) et 6 (alinéa1) de l'instruction n° 06-09 du 28 décembre 2009 relative à la mise en place d'un droit de change spécifique pour les nationaux résidents dans le cadre du déplacement pour la phase finale de la Coupe d'Afrique des Nations 2010, sont modifiés et rédigés comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "\"Article 1: ……………………………………………………….…",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Ce droit de change spécifique ne peut être exercé que durant la période allant du 03 janvier au 31 janvier 2010\".",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "\"Article 6 : Les banques, intermédiaires agréés, sont tenues d'adresser à la Banque d'Algérie, avant le 10 février 2010, un état consolidé des allocations de change spécifique délivrées, en application de la présente instruction, par leurs guichets respectifs.......\".",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction prend effet à compter de la date de sa signature.\nLe Gouverneur\nMohammed LAKSACI\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "La présente instruction prend effet à compter de la date de sa signature.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "meme_texte_plusieurs_fichiers"
+    ],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.071
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-01-10.fr.txt"
+}

@@ -1,0 +1,350 @@
+{
+  "document_id": "INS-08-91.fr",
+  "work_id": "INS-08-91",
+  "title": "Instruction n°08-91 du 20 novembre 1991 modifiant l’instruction n°06-90 du 16 décembre 1990 définissant les conditions d’éligibilité aux comptes devises “personnes morales” des recettes réalisées en Algérie.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "08-91",
+  "number_source": "en-tête du document",
+  "date": "1991-11-20",
+  "date_raw": "N°08-91 DU 20 NOVEMBRE 1991",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction0891.pdf",
+      "uploaded": "2023-01-25T14:37:07"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Règlementation des changes",
+  "source_url": "https://www.bank-of-algeria.dz/comptes-devises-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction0891.pdf",
+  "format": "pdf",
+  "file_hash": "9ff9ababcf8e1c220258277b272cb9cadc3546855b446052a2987ae09bb0f737",
+  "file_size": 52963,
+  "raw_path": "raw/9ff9ababcf8e__instruction0891.pdf",
+  "retrieved_at": "2026-10-05T14:17:11+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "23bd6d7a5e5ca6e9614688f101434a4482c94bcedb3f38cb4573dc279f9812eb",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%AC%D9%86%D8%A8%D9%8A%D8%A9/",
+    "https://www.bank-of-algeria.dz/ar/%d8%ad%d8%b3%d8%a7%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%85%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d8%ac%d9%86%d8%a8%d9%8a%d8%a9/",
+    "https://www.bank-of-algeria.dz/comptes-devises-instruction/",
+    "https://www.bank-of-algeria.dz/importations-exportations-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document2",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200802162756+01'00'",
+    "modDate": "D:20200802162756+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2780,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 1129,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 0,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°08-91 DU 20 NOVEMBRE 1991 MODIFIANT L'INSTRUCTION N°06-90 DU 16 DECEMBRE 1990 DEFINISSANT LES CONDITIONS D'ELIGIBILITE AUX COMPTES DEVISES \"PERSONNES MORALES\" DES RECETTES REALISEES EN ALGERIE",
+  "alias_urls": [
+    {
+      "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction0891.pdf",
+      "source_url": "https://www.bank-of-algeria.dz/importations-exportations-instruction/",
+      "title": "Instruction n°08-91 du 20 novembre 1991 modifiant l’instruction n°06-90 du 16 décembre 1990 définissant les conditions d’éligibilité aux comptes devises “personnes morales” des recettes réalisées en Algérie."
+    }
+  ],
+  "text_hash": "a384eb7ac1369103a48c204da22e1266f876d9933f35f9bc8768ae1948c70945",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "06-90",
+        "date": "1990-12-16",
+        "raw": "instruction n°06-90 du 16 décembre 1990"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°08-91 du 20 novembre 1991 modifiant l’instruction n°06-90 du 16 décembre 1990 définissant les conditions d’éligibilit"
+      },
+      "target_work_id": "INS-06-90"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-06-90",
+      "reference": "instruction n°06-90 du 16 décembre 1990",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°08-91 du 20 novembre 1991 modifiant l’instruction n°06-90 du 16 décembre 1990 définissant les conditions d’éligibilit"
+      }
+    }
+  ],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [
+    {
+      "work_id": "INS-62-93",
+      "document_id": "INS-62-93.fr",
+      "date": null,
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°62-93 complétant l’instruction n°08-91 du 20 novembre 1991 modifiant l’instruction n°06-90 du 16 d"
+      }
+    }
+  ],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée. Ce texte a été modifié/complété : consulter aussi les textes listés dans modifié_par / complété_par.",
+  "same_work_documents": [],
+  "complété_par": [
+    {
+      "work_id": "INS-62-93",
+      "document_id": "INS-62-93.fr",
+      "date": null,
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°62-93 complétant l’instruction n°08-91 du 20 novembre 1991 modifiant l’instruction n°06-90 du 16 d"
+      }
+    }
+  ],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°08-91 DU 20 NOVEMBRE 1991 MODIFIANT\nL'INSTRUCTION N°06-90 DU 16 DECEMBRE 1990 DEFINISSANT\nLES CONDITIONS D'ELIGIBILITE AUX COMPTES DEVISES \"PERSONNES\nMORALES\" DES RECETTES REALISEES EN ALGERIE\nLa présente Instruction a pour objet de faire connaître que les dispositions du dernier paragraphe du titre I et du paragraphe (a) du titre II, sont modifiées et remplacées par les dispositions suivantes :",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°08-91 DU 20 NOVEMBRE 1991 MODIFIANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L'INSTRUCTION N°06-90 DU 16 DECEMBRE 1990 DEFINISSANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "LES CONDITIONS D'ELIGIBILITE AUX COMPTES DEVISES \"PERSONNES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "MORALES\" DES RECETTES REALISEES EN ALGERIE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La présente Instruction a pour objet de faire connaître que les dispositions du dernier paragraphe du titre I et du paragraphe (a) du titre II, sont modifiées et remplacées par les dispositions suivantes :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "I",
+          "heading": "CONDITIONS D'ELIGIBILITE",
+          "label": "Section I"
+        }
+      },
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "(Dernier paragraphe).\nLes recettes en devises réalisées en Algérie dans les conditions d'éligibilité ci-dessus fixées, par des personnes morales de droit algérien, sont versées au profit des comptes devises de ces dernières suivant les dispositions telles que ci-dessous définies.",
+      "paragraphs": [
+        {
+          "text": "(Dernier paragraphe).",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les recettes en devises réalisées en Algérie dans les conditions d'éligibilité ci-dessus fixées, par des personnes morales de droit algérien, sont versées au profit des comptes devises de ces dernières suivant les dispositions telles que ci-dessous définies.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "II",
+          "heading": "MODALITES D'INSCRIPTION",
+          "label": "Section II"
+        }
+      },
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "a)- Cas des personnes morales de droit Algérien réalisant des projets d'investissement financés par des institutions financières internationales.\n1 - Le montant des contrats conclus dans ce cadre peuvent être libellés en part payable en devises exprimée en une monnaie étrangère librement convertible et en part payable en dinars. Les situations ou factures relatives aux travaux réalisés peuvent à cet égard être établies en la monnaie de chacune des parts représentant le montant contractuel.\nLe montant du contrat exprimé et payable en devises doit être suffisant pour permettre la couverture des besoins d'importations de biens, notamment les équipements d'infrastructure à intégrer au projet d'investissement, nécessaires à la réalisation de ce dernier.\n2 - Les contrats de cette nature donnent lieu à domiciliation auprès de la banque chargée de la gestion des accords de financement concernés. Cette domiciliation consiste en l'ouverture d'un simple dossier financier ou seront versés les justificatifs concernant l'exécution financière du contrat (factures ou situations de travaux, ordres de paiement du promoteur maître de l'ouvrage, tout document justifiant la mobilisation du crédit extérieur).\n3 - Les personnes morales de droit algérien adjudicataires sont autorisées à inscrire au crédit de leurs comptes devises \"personnes morales\" ouverts en Algérie auprès d'une banque commerciale, les recettes en devises prévues contractuellement dans la limite cependant des montants mobilisés dans le cadre des accords de financement concernés.\n4 - Après réception des situations ou factures représentatives de travaux réalisés, établies en devises et dûment approuvées par le promoteur maître de l'ouvrage, la banque chargée de la gestion des accords de financement procédera au paiement du montant en devises directement au profit du compte devises de l'entreprise algérienne adjudicataire et ce, conformément aux procédures mises en œuvre pour cette nature de financement externe.\n5 - La couverture en devises des importations de biens nécessaires à la réalisation du projet d'investissement ne peut intervenir qu'à partir des propres avoirs en devises des personnes morales de droit algérien adjudicataires et qu'à cet égard elles ne peuvent bénéficier pour les importations de cette nature des dispositions de l'Instruction n° 03-91 du 21 Avril 1991 relative aux conditions et règles de financement des opérations d'importations.\n6 - Dans le cas où les avoirs disponibles en comptes devises ne permettent pas le financement des importations susvisée à l'alinéa 5 ci-dessus, les banques commerciales domiciliataires des personnes morales de droit algérien adjudicataires, peuvent consentir à ces dernières des avances en devises aux fins de réalisation desdites importations.\n7 - Le remboursement de ces avances s'effectuera par prélèvement d'office et ce dès que les disponibilités en comptes devises des personnes morales concernées le permettent.\n8 - Les dispositions de la présente Instruction prennent effet à compter de la date de sa signature.\nLe Directeur Général des Changes\nAli TOUATI",
+      "paragraphs": [
+        {
+          "text": "a)- Cas des personnes morales de droit Algérien réalisant des projets d'investissement financés par des institutions financières internationales.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "1 - Le montant des contrats conclus dans ce cadre peuvent être libellés en part payable en devises exprimée en une monnaie étrangère librement convertible et en part payable en dinars. Les situations ou factures relatives aux travaux réalisés peuvent à cet égard être établies en la monnaie de chacune des parts représentant le montant contractuel.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le montant du contrat exprimé et payable en devises doit être suffisant pour permettre la couverture des besoins d'importations de biens, notamment les équipements d'infrastructure à intégrer au projet d'investissement, nécessaires à la réalisation de ce dernier.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "2 - Les contrats de cette nature donnent lieu à domiciliation auprès de la banque chargée de la gestion des accords de financement concernés. Cette domiciliation consiste en l'ouverture d'un simple dossier financier ou seront versés les justificatifs concernant l'exécution financière du contrat (factures ou situations de travaux, ordres de paiement du promoteur maître de l'ouvrage, tout document justifiant la mobilisation du crédit extérieur).",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "3 - Les personnes morales de droit algérien adjudicataires sont autorisées à inscrire au crédit de leurs comptes devises \"personnes morales\" ouverts en Algérie auprès d'une banque commerciale, les recettes en devises prévues contractuellement dans la limite cependant des montants mobilisés dans le cadre des accords de financement concernés.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "4 - Après réception des situations ou factures représentatives de travaux réalisés, établies en devises et dûment approuvées par le promoteur maître de l'ouvrage, la banque chargée de la gestion des accords de financement procédera au paiement du montant en devises directement au profit du compte devises de l'entreprise algérienne adjudicataire et ce, conformément aux procédures mises en œuvre pour cette nature de financement externe.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "5 - La couverture en devises des importations de biens nécessaires à la réalisation du projet d'investissement ne peut intervenir qu'à partir des propres avoirs en devises des personnes morales de droit algérien adjudicataires et qu'à cet égard elles ne peuvent bénéficier pour les importations de cette nature des dispositions de l'Instruction n° 03-91 du 21 Avril 1991 relative aux conditions et règles de financement des opérations d'importations.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "6 - Dans le cas où les avoirs disponibles en comptes devises ne permettent pas le financement des importations susvisée à l'alinéa 5 ci-dessus, les banques commerciales domiciliataires des personnes morales de droit algérien adjudicataires, peuvent consentir à ces dernières des avances en devises aux fins de réalisation desdites importations.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "7 - Le remboursement de ces avances s'effectuera par prélèvement d'office et ce dès que les disponibilités en comptes devises des personnes morales concernées le permettent.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "8 - Les dispositions de la présente Instruction prennent effet à compter de la date de sa signature.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Directeur Général des Changes",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Ali TOUATI",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.025
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-08-91.fr.txt"
+}

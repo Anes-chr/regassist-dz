@@ -1,0 +1,585 @@
+{
+  "document_id": "INS-02-99.fr",
+  "work_id": "INS-02-99",
+  "title": "Instruction n°02-99 du 07 avril 1999 relative à la déclaration des crédits consentis par les banques et les établissements financiers à leurs dirigeants et actionnaires.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "02-99",
+  "number_source": "en-tête du document",
+  "date": "1999-04-07",
+  "date_raw": "N°02-99 DU 07 AVRIL 1999",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Règles comptables et déclarations statistiques par les banques et établissements financiers",
+  "source_url": "https://www.bank-of-algeria.dz/situations-comptables-mensuelles-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction0299.pdf",
+  "format": "pdf",
+  "file_hash": "29c96bedd8c6a4ee94bb93d3d8f1d53d62f336562200bd5d710d5b8b4e874a2e",
+  "file_size": 22141,
+  "raw_path": "raw/29c96bedd8c6__instruction0299.pdf",
+  "retrieved_at": "2026-10-05T13:21:13+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "84a21a8a8bb6ee7a2cdfcd24371fcaa387c8cfb22511b42e38057c0c50b52789",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-1999/",
+    "https://www.bank-of-algeria.dz/situations-comptables-mensuelles-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Microsoft Word - instruction0299",
+    "author": "chahra.yahiaoui",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "creationDate": "D:20210302101322+01'00'",
+    "modDate": "D:20210302101322+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2788,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 586,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": [
+      {
+        "page": 2,
+        "removed": "16",
+        "why": "numéro de page"
+      },
+      {
+        "page": 2,
+        "removed": "17",
+        "why": "numéro de page"
+      },
+      {
+        "page": 2,
+        "removed": "18",
+        "why": "numéro de page"
+      }
+    ]
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 10,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°02-99 DU 07 AVRIL 1999 RELATIVE A LA DECLARATION DES CREDITS CONSENTIS PAR LES BANQUES ET LES ETABLISSEMENTS FINANCIERS A LEURS DIRIGEANTS ET ACTIONNAIRES",
+  "alias_urls": [],
+  "text_hash": "6cf572af1b27e9d5e557a7d788a91db5d9b9578a3cc101ae0f369d8cb2270c45",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "92-01",
+        "date": "1992-03-22",
+        "raw": "règlement n°92-01 du 22 mars 1992"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "es Risques de la Banque d'Algérie les crédits consentis à ses dirigeants et actionnaires, conformément à l'article 4 du règlement n°92-01 du 22 mars 1992 portant organisation et fonctionnement"
+      },
+      "target_work_id": "REG-92-01"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "REG-92-01",
+      "reference": "règlement n°92-01 du 22 mars 1992",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "es Risques de la Banque d'Algérie les crédits consentis à ses dirigeants et actionnaires, conformément à l'article 4 du règlement n°92-01 du 22 mars 1992 portant organisation et fonctionnement"
+      }
+    }
+  ],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°02-99 DU 07 AVRIL 1999 RELATIVE A LA DECLARATION DES\nCREDITS CONSENTIS PAR LES BANQUES ET LES ETABLISSEMENTS FINANCIERS\nA LEURS DIRIGEANTS ET ACTIONNAIRES",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°02-99 DU 07 AVRIL 1999 RELATIVE A LA DECLARATION DES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "CREDITS CONSENTIS PAR LES BANQUES ET LES ETABLISSEMENTS FINANCIERS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "A LEURS DIRIGEANTS ET ACTIONNAIRES",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction a pour objet de préciser les modalités de déclaration des crédits consentis directement ou indirectement par les banques et les établissements financiers à leurs dirigeants et actionnaires dans le cadre de l'article 168 de la Loi n°90- 10 du 14 avril 1990 relative à la Monnaie et au Crédit.",
+      "paragraphs": [
+        {
+          "text": "La présente instruction a pour objet de préciser les modalités de déclaration des crédits consentis directement ou indirectement par les banques et les établissements financiers à leurs dirigeants et actionnaires dans le cadre de l'article 168 de la Loi n°90- 10 du 14 avril 1990 relative à la Monnaie et au Crédit.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les qualificatifs dirigeants et actionnaires visés par la présente instruction sont compris au sens défini par la réglementation en vigueur en particulier par l'article 2 du règlement n°92-05 du 22 mars 1992 concernant les conditions que doivent remplir les fondateurs, dirigeants et représentants des banques et des établissements financiers.\nLes membres des familles des dirigeants et actionnaires sont assimilés à eux s'ils sont à leur charge.",
+      "paragraphs": [
+        {
+          "text": "Les qualificatifs dirigeants et actionnaires visés par la présente instruction sont compris au sens défini par la réglementation en vigueur en particulier par l'article 2 du règlement n°92-05 du 22 mars 1992 concernant les conditions que doivent remplir les fondateurs, dirigeants et représentants des banques et des établissements financiers.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les membres des familles des dirigeants et actionnaires sont assimilés à eux s'ils sont à leur charge.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Sans préjudice des dispositions de l'article 628 alinéa 1 du Code de\nCommerce modifié, chaque banque et chaque établissement financier est tenu de déclarer à la Centrale des Risques de la Banque d'Algérie les crédits consentis à ses dirigeants et actionnaires, conformément à l'article 4 du règlement n°92-01 du 22 mars 1992 portant organisation et fonctionnement de la Centrale des Risques.",
+      "paragraphs": [
+        {
+          "text": "Sans préjudice des dispositions de l'article 628 alinéa 1 du Code de",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Commerce modifié, chaque banque et chaque établissement financier est tenu de déclarer à la Centrale des Risques de la Banque d'Algérie les crédits consentis à ses dirigeants et actionnaires, conformément à l'article 4 du règlement n°92-01 du 22 mars 1992 portant organisation et fonctionnement de la Centrale des Risques.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Conformément à l'article 168 de la Loi n°90-10 du 14 avril 1990 suscitée, l'ensemble de crédits accordés à l'ensemble des actionnaires et dirigeants, ne doit, à aucun moment, dépasser vingt pour cent (20%) des fonds propres de la banque ou de l'établissement financier.",
+      "paragraphs": [
+        {
+          "text": "Conformément à l'article 168 de la Loi n°90-10 du 14 avril 1990 suscitée, l'ensemble de crédits accordés à l'ensemble des actionnaires et dirigeants, ne doit, à aucun moment, dépasser vingt pour cent (20%) des fonds propres de la banque ou de l'établissement financier.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les fonds propres visés à l'article 4 ci-dessus sont déterminés en référence à l'article 2 du règlement n°95-04 du 20 avril 1995 modifiant et complétant le règlement n°91-09 du 14 août 1991 fixant les règles prudentielles de gestion des banques et des établissements financiers.",
+      "paragraphs": [
+        {
+          "text": "Les fonds propres visés à l'article 4 ci-dessus sont déterminés en référence à l'article 2 du règlement n°95-04 du 20 avril 1995 modifiant et complétant le règlement n°91-09 du 14 août 1991 fixant les règles prudentielles de gestion des banques et des établissements financiers.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les conditions d'octroi de ces crédits sont fixées par le Conseil d'Administration et sont portées à la connaissance du Gouverneur de la Banque d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "Les conditions d'octroi de ces crédits sont fixées par le Conseil d'Administration et sont portées à la connaissance du Gouverneur de la Banque d'Algérie.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les crédits accordés aux dirigeants et actionnaires sont déclarés de façon distincte conformément à l'article 4 de l'instruction n°70-92 du 24 novembre 1992 relative à la Centralisation des Risques Bancaires et des Opérations de Crédit-Bail.\nLes déclarations doivent être établies par référence au modèle joint en annexe.",
+      "paragraphs": [
+        {
+          "text": "Les crédits accordés aux dirigeants et actionnaires sont déclarés de façon distincte conformément à l'article 4 de l'instruction n°70-92 du 24 novembre 1992 relative à la Centralisation des Risques Bancaires et des Opérations de Crédit-Bail.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les déclarations doivent être établies par référence au modèle joint en annexe.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La périodicité des déclarations est trimestrielle.",
+      "paragraphs": [
+        {
+          "text": "La périodicité des déclarations est trimestrielle.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le non-respect des dispositions de la présente Instruction entraîne la saisine de la Commission Bancaire.",
+      "paragraphs": [
+        {
+          "text": "Le non-respect des dispositions de la présente Instruction entraîne la saisine de la Commission Bancaire.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "La présente instruction est applicable à compter de la date de signature.\nLe Gouverneur\nAbdelouahab KERAMANE\nETAT DE DECLARATIONS DES CREDITS CONSENTIS\nAUX DIRIGEANTS ET ACTIONNAIRES\nEtablissement déclarant……………….\nAnnée……………….\nDate de déclaration……./……./……\nFonds propres nets………………………\nSIGNATURE DU PRESIDENT\nN°\nOrdre\nNom & prénom du bénéficiaire\nQualité du bénéficiaire\nNature du crédit\nMontant autorisé\nMontant utilisé\nDate d’autorisation\nDate d’échéance\nDestination du crédit autorisé 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15\nTOTAL",
+      "paragraphs": [
+        {
+          "text": "La présente instruction est applicable à compter de la date de signature.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ETAT DE DECLARATIONS DES CREDITS CONSENTIS",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "AUX DIRIGEANTS ET ACTIONNAIRES",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Etablissement déclarant……………….",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Année……………….",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Date de déclaration……./……./……",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Fonds propres nets………………………",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "SIGNATURE DU PRESIDENT",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "N°",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Ordre",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Nom & prénom du bénéficiaire",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Qualité du bénéficiaire",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Nature du crédit",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Montant autorisé",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Montant utilisé",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Date d’autorisation",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Date d’échéance",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Destination du crédit autorisé 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "TOTAL",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [
+    {
+      "page": 2,
+      "tables": [
+        "|N°<br>Ordre|Nom &<br>prénom du<br>bénéficiaire|Qualité du<br>bénéficiaire|Nature<br>du<br>crédit|Montant<br>autorisé|Montant<br>utilisé|Date<br>d’autorisation|Date<br>d’échéance|Destination<br>du crédit<br>autorisé|\n|---|---|---|---|---|---|---|---|---|\n|**1 **<br>** 2**<br>**3 **<br>** 4**<br>**5 **<br>**6 **<br>**7 **<br>**8 **<br>**9 **<br>**10**<br>**11**<br>**12**<br>**13**<br>**14**<br>**15**<br>**16**<br>**17**<br>**18**|||||||||\n||||**TOTAL**||||||\n\n"
+      ]
+    }
+  ],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.039
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-02-99.fr.txt"
+}

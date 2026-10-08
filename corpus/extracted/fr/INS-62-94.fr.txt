@@ -1,0 +1,87 @@
+[[PAGE 1]]
+INSTRUCTION N°62-94 DU 28 SEPTEMBRE 1994
+PORTANT "IDENTIFICATION BANCAIRE"
+Article 1er : La présente instruction a pour objet la mise en œuvre des dispositions du
+règlement N° 94-12 du 02 Juin 1994, relatif aux principes de gestion et d'établissement
+des normes dans le secteur financier.
+
+Article 2 : Les normes définies par la présente instruction se rapportent à l'identification
+bancaire de la clientèle des banques et de toute autre institution émettrice d'instruments
+de paiement.
+
+Article 3 : Cette instruction couvre la normalisation des éléments ci-après :
+
+- le numéro de compte bancaire (codes intérieurs de l'établissement émetteur
+d'instruments de paiement) ;
+- le relevé d'identité bancaire pour lequel est défini un "Numéro d'Identité
+Bancaire" ;
+- l'identifiant national.
+
+Article 4 : Le numéro de compte bancaire est composé de 15 caractères numériques
+répartis impérativement dans l'ordre suivant :
+
+- 03 caractères pour le code agence ;
+- 10 caractères pour le numéro de compte individuel du client ;
+- 02 caractères pour la clé de contrôle du numéro de compte.
+
+La clé de contrôle du numéro de compte est générée par l'application de la méthode
+Modulo 97 donnée en appendice I-a de cette instruction.
+
+Article 5 : Le relevé d'identité bancaire (RIB) est un document réunissant les principales
+informations nécessaires à l'identification d'un client. Ce relevé doit être présenté par le
+client à chaque fois que le banquier veut s'assurer de son identité bancaire.
+
+Les éléments composant le relevé d'identité bancaire sont :
+
+- les nom et prénoms ou raison sociale du titulaire du compte ;
+- l'intitulé en clair de l'établissement et de l'agence domiciliataire ;
+- le numéro d'identité bancaire composé de 18 caractères numériques structurés
+comme suit :
+* le code établissement : 3 caractères numériques,
+* le numéro de compte bancaire : 15 caractères numériques répartis
+conformément à l'article 4 ci-dessus.
+
+La forme du relevé, ses modes d'attribution et d'utilisation seront précisés ultérieurement
+par voie réglementaire.
+
+Article 6 : L'identifiant national est un code sur 15 positions numériques permettant
+d'identifier de manière unique un client dans l'ensemble du système bancaire national en
+lui associant tous les comptes bancaires qu'il aura ouvert.
+
+La structure de cet identifiant de même que ses modes d'attribution et d'utilisation seront
+précisés par voie réglementaire.
+
+Article 7 : La présente instruction entre en vigueur à compter du 1er Octobre 1994.
+Le Gouverneur
+Abdelouahab KERAMANE
+
+[[PAGE 2]]
+
+APPENDICE I-a
+Méthode modulo 97 de calcul de la clé de contrôle du numéro de compte
+a - Accoler de gauche à droite
+- les 3 chiffres du code agence ;
+- les 10 chiffres suivants du numéro de compte (si le numéro ainsi obtenu comporte moins
+de 10 caractères il sera cadré à droite et complété à gauche par des zéros).
+Les caractères alphabétiques éventuels du numéro de compte sont remplacés, mais seulement
+pour le calcul de la clé, par l'équivalence numérique suivante :
+A B C D E F G H I
+J K L M N O P Q R
+S T U V W X Y Z
+——————————
+1 2 3 4 5 6 7 8 9
+L'ensemble forme un nombre "N" de 13 chiffres
+b - Multiplier "N" par 100 = N'
+c - Diviser N' par 97
+d - Soustraire le reste de cette division du nombre "97"
+Le résultat de cette soustraction représente la clé de contrôle des codes intérieurs.
+(Cette clé ne peut mathématiquement prendre que les valeurs de 01 à 97).
+Cette clé peut être vérifiée comme suit :
+- accoler de gauche à droite (comme pour le calcul de la clé exposé précédemment),
+- les 3 chiffres du code agence,
+- les 10 chiffres du numéro de compte,
+- les 2 chiffres de la clé de contrôle.
+L'ensemble forme un nombre "N" de 15 chiffres
+
+- diviser "N" par 97,
+- le reste doit être nul.

@@ -1,0 +1,681 @@
+{
+  "document_id": "INS-78-95.fr",
+  "work_id": "INS-78-95",
+  "title": "Instruction n°78-95 du 26 décembre 1995 portant règles relatives aux positions de change.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "78-95",
+  "number_source": "en-tête du document",
+  "date": "1995-12-26",
+  "date_raw": "N°78-95 DU 26 DECEMBRE 1995",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2025/12/instruction7895.pdf",
+      "uploaded": "2025-12-11T15:57:54"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Année 1995",
+  "source_url": "https://www.bank-of-algeria.dz/annee-1995/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction7895.pdf",
+  "format": "pdf",
+  "file_hash": "940e1c28591630155d5f7adf6ba8396b7e4496f28895330da9e2ff197eeb6e0b",
+  "file_size": 366085,
+  "raw_path": "raw/940e1c285916__instruction7895.pdf",
+  "retrieved_at": "2026-10-05T14:17:54+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 4,
+  "url_hash": "dca82b7701633784a000a3187544f23c7560516cf90e33895bc137876719959a",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-1995/",
+    "https://www.bank-of-algeria.dz/changes-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document2",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200812135003+01'00'",
+    "modDate": "D:20200812135003+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 4,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 3021,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 2006,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 728,
+        "ocr_confidence": null
+      },
+      {
+        "page": 4,
+        "method": "pdf_text",
+        "chars": 220,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": [
+      {
+        "page": 3,
+        "removed": "SURVEILLANCE DES POSITIONS DE CHANGE",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 4,
+        "removed": "SURVEILLANCE DES POSITIONS DE CHANGE",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 4,
+        "removed": "Surveillance des Positions de Change",
+        "why": "en-tête/pied répété"
+      }
+    ]
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 12,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°78-95 DU 26 DECEMBRE 1995 PORTANT REGLES RELATIVES AUX POSITIONS DE CHANGE",
+  "alias_urls": [
+    {
+      "document_url": "https://www.bank-of-algeria.dz/stoodroa/2025/12/instruction7895.pdf",
+      "source_url": "https://www.bank-of-algeria.dz/changes-instruction/",
+      "title": "Instruction n°78-95 du 26 décembre 1995 portant règles relatives aux positions de change."
+    }
+  ],
+  "text_hash": "08bfe97c82b8cd0db46672d526df419ce2d7ed5ccc007375e714c8b6b7431aa4",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "dead_source_urls": [
+    {
+      "url": "https://www.bank-of-algeria.dz/pdf/instructions1995/instruction7895.pdf",
+      "status": "MOVED_OFFICIAL",
+      "listed_on": [
+        "https://www.bank-of-algeria.dz/organisation-et-fonctionnement-du-marche-interbancaire-des-changes-2/"
+      ]
+    }
+  ],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 4,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°78-95 DU 26 DECEMBRE 1995\nPORTANT REGLES RELATIVES AUX POSITIONS DE CHANGE",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°78-95 DU 26 DECEMBRE 1995",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "PORTANT REGLES RELATIVES AUX POSITIONS DE CHANGE",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "En application de l'article 6 du règlement N° 95/08 du 23 Décembre 1995 relatif au marché des changes, la présente instruction a pour objet de fixer les règles relatives aux positions de change, telles que définies et qualifiées à l'article 4 ci-dessous.",
+      "paragraphs": [
+        {
+          "text": "En application de l'article 6 du règlement N° 95/08 du 23 Décembre 1995 relatif au marché des changes, la présente instruction a pour objet de fixer les règles relatives aux positions de change, telles que définies et qualifiées à l'article 4 ci-dessous.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les banques et établissements financiers, intermédiaires agréés, intervenant sur le marché interbancaire des changes doivent disposer :\n- d'un système permanent de mesure permettant d'enregistrer immédiatement les opérations en devises et de calculer les résultats ainsi que les positions de change globales et les positions de change par devise étrangère,\n- d'un système de surveillance et de gestion des risques encourus faisant apparaître les limites fixées par les responsables autorisés et les conditions dans lesquelles ces limites sont respectées,\n- d'un système de contrôle permanent visant à vérifier le respect des procédures internes nécessaires pour assurer le respect des deux dispositions précédentes.",
+      "paragraphs": [
+        {
+          "text": "Les banques et établissements financiers, intermédiaires agréés, intervenant sur le marché interbancaire des changes doivent disposer :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- d'un système permanent de mesure permettant d'enregistrer immédiatement les opérations en devises et de calculer les résultats ainsi que les positions de change globales et les positions de change par devise étrangère,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- d'un système de surveillance et de gestion des risques encourus faisant apparaître les limites fixées par les responsables autorisés et les conditions dans lesquelles ces limites sont respectées,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- d'un système de contrôle permanent visant à vérifier le respect des procédures internes nécessaires pour assurer le respect des deux dispositions précédentes.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les banques et établissements financiers, intermédiaires agréés au sens du règlement N° 95/07 du 23 Décembre 1995 modifiant et remplaçant le règlement N° 92/04 du 22 Mars 1992 relatif au contrôle des changes, sont tenus de respecter en permanence :\n- un rapport maximum de 10 % entre le montant de leur position longue ou courte dans chaque devise étrangère et le montant de leurs fonds propre,\n- un rapport maximum de 30 % entre la plus élevée des sommes des positions longues ou des positions courtes pour l'ensemble des devises et le montant de leurs fonds propres.",
+      "paragraphs": [
+        {
+          "text": "Les banques et établissements financiers, intermédiaires agréés au sens du règlement N° 95/07 du 23 Décembre 1995 modifiant et remplaçant le règlement N° 92/04 du 22 Mars 1992 relatif au contrôle des changes, sont tenus de respecter en permanence :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- un rapport maximum de 10 % entre le montant de leur position longue ou courte dans chaque devise étrangère et le montant de leurs fonds propre,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- un rapport maximum de 30 % entre la plus élevée des sommes des positions longues ou des positions courtes pour l'ensemble des devises et le montant de leurs fonds propres.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Pour l'application de la présente instruction, la position de change est qualifiée de longue lorsque les avoirs excédent les dettes : elle est qualifiée de courte lorsque les dettes excédent les avoirs.",
+      "paragraphs": [
+        {
+          "text": "Pour l'application de la présente instruction, la position de change est qualifiée de longue lorsque les avoirs excédent les dettes : elle est qualifiée de courte lorsque les dettes excédent les avoirs.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Sont assimilés à des devises étrangères, pour l'application de la présente instruction les métaux précieux tel que l'or et l'argent détenus sous une forme négociable.",
+      "paragraphs": [
+        {
+          "text": "Sont assimilés à des devises étrangères, pour l'application de la présente instruction les métaux précieux tel que l'or et l'argent détenus sous une forme négociable.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les positions de change, longues ou courtes, sont déterminées à partir des éléments suivants :\n- les éléments d'actif et de passif libellés en devises étrangères, y compris les intérêts courus, à payer ou à recevoir, échus ou non échus,\n- les opérations de change au comptant et à terme,\n- les opérations d'achat et de vente de titres ainsi que d'instruments financiers à terme libellés en devises étrangères,\n- les différences d'intérêts courus, à payer ou à recevoir, échus ou non échus, relatifs aux opérations de hors bilans,\n- les intérêts à payer ou à recevoir non courus relatifs à des opérations de bilan et de hors bilan lorsqu'ils ont fait l'objet d'une opération de couverture,\n- les garanties et engagements similaires libellés en devises étrangères lorsqu'ils sont certains d'être appelés ou d'être irrévocable,\n- toute autre opération que la Banque d'Algérie définira par voie d'instruction.",
+      "paragraphs": [
+        {
+          "text": "Les positions de change, longues ou courtes, sont déterminées à partir des éléments suivants :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- les éléments d'actif et de passif libellés en devises étrangères, y compris les intérêts courus, à payer ou à recevoir, échus ou non échus,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- les opérations de change au comptant et à terme,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- les opérations d'achat et de vente de titres ainsi que d'instruments financiers à terme libellés en devises étrangères,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- les différences d'intérêts courus, à payer ou à recevoir, échus ou non échus, relatifs aux opérations de hors bilans,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- les intérêts à payer ou à recevoir non courus relatifs à des opérations de bilan et de hors bilan lorsqu'ils ont fait l'objet d'une opération de couverture,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- les garanties et engagements similaires libellés en devises étrangères lorsqu'ils sont certains d'être appelés ou d'être irrévocable,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- toute autre opération que la Banque d'Algérie définira par voie d'instruction.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Sont exclues des éléments définis à l'article 6 ci-dessus :\n- les opérations dont le risque de change est supporté par l'Etat,\n- les positions structurelles, c'est à dire les immobilisations corporelles et incorporelles, les titres de participation, les titres de filiales ainsi que la dotation des succursales à l'étranger.",
+      "paragraphs": [
+        {
+          "text": "Sont exclues des éléments définis à l'article 6 ci-dessus :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les opérations dont le risque de change est supporté par l'Etat,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les positions structurelles, c'est à dire les immobilisations corporelles et incorporelles, les titres de participation, les titres de filiales ainsi que la dotation des succursales à l'étranger.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les provisions affectées à la couverture d'éléments d'actifs ou de hors bilan et constituées dans des devises autres que celles des actifs ou de hors bilan concernés doivent être :\n- prises en compte dans le calcul de la position de change de la devise dans laquelle est libellée la créance,\n- et exclues de la position de change de la devise dans laquelle la provision est constituée.",
+      "paragraphs": [
+        {
+          "text": "Les provisions affectées à la couverture d'éléments d'actifs ou de hors bilan et constituées dans des devises autres que celles des actifs ou de hors bilan concernés doivent être :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- prises en compte dans le calcul de la position de change de la devise dans laquelle est libellée la créance,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- et exclues de la position de change de la devise dans laquelle la provision est constituée.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les fonds propres au sens de la présente instruction sont ceux définis aux articles 4 à 8 de l'instruction N° 74/94 du 29 Novembre 1994 relative à la fixation des règles prudentielles de gestion des banques et établissements financiers.",
+      "paragraphs": [
+        {
+          "text": "Les fonds propres au sens de la présente instruction sont ceux définis aux articles 4 à 8 de l'instruction N° 74/94 du 29 Novembre 1994 relative à la fixation des règles prudentielles de gestion des banques et établissements financiers.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les éléments de calcul des deux rapports indiqués à l'article 3 ci-dessus sont extraits de la comptabilité des banques et établissements financiers, intermédiaires agréés.",
+      "paragraphs": [
+        {
+          "text": "Les éléments de calcul des deux rapports indiqués à l'article 3 ci-dessus sont extraits de la comptabilité des banques et établissements financiers, intermédiaires agréés.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les banques et établissements financiers, intermédiaires agréés, adressent à la Banque d'Algérie - Direction Générale des Relations Financières Extérieures - une déclaration quotidienne reprenant leurs positions de change par devise étrangère.\nEn outre, ils doivent transmettre mensuellement, et en double exemplaire, à la Direction\nGénérale des Etudes en même temps que les situations mensuelles 10 R, le modèle \"Surveillance des Positions de Change\" joint en annexe. Ce modèle recense, sur une base consolidée :\n- les positions de change par devise et globalement,\n- les fonds propres.",
+      "paragraphs": [
+        {
+          "text": "Les banques et établissements financiers, intermédiaires agréés, adressent à la Banque d'Algérie - Direction Générale des Relations Financières Extérieures - une déclaration quotidienne reprenant leurs positions de change par devise étrangère.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "En outre, ils doivent transmettre mensuellement, et en double exemplaire, à la Direction",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Générale des Etudes en même temps que les situations mensuelles 10 R, le modèle \"Surveillance des Positions de Change\" joint en annexe. Ce modèle recense, sur une base consolidée :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les positions de change par devise et globalement,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les fonds propres.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 4,
+      "text": "La présente instruction entre en application à compter de la date d'entrée en vigueur du règlement N° 95/08 du 23 Décembre 1995 relatif au marché des changes.\nLe Gouverneur\nAbdelouahab KERAMANE\nANNEX E I\nIntermédiaire agréé :…………………………………………..\n(1) Devises exprimées en monnaie nationale au taux de change de la date d’arrêté des comptes\n(2) Ajustement concernant les provisions constituées dans une devise autre que celle de la créance\n(3) Autres devises significatives pour l’intermédiaire agréé déclarant\n(4) Position longue sur les devises non individualisées\n(5) Position courte sur les devises non individualisées\n(6) Somme algébrique des éléments des quatre rubriques\n(7) Telle que fixée par les responsables autorisés conformément à l’article 2 de l’Instruction\nANNEX E I\nIntermédiaire agréé :…………………………………………..",
+      "paragraphs": [
+        {
+          "text": "La présente instruction entre en application à compter de la date d'entrée en vigueur du règlement N° 95/08 du 23 Décembre 1995 relatif au marché des changes.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "ANNEX E I",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Intermédiaire agréé :…………………………………………..",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "(1) Devises exprimées en monnaie nationale au taux de change de la date d’arrêté des comptes",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "(2) Ajustement concernant les provisions constituées dans une devise autre que celle de la créance",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "(3) Autres devises significatives pour l’intermédiaire agréé déclarant",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "(4) Position longue sur les devises non individualisées",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "(5) Position courte sur les devises non individualisées",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "(6) Somme algébrique des éléments des quatre rubriques",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "(7) Telle que fixée par les responsables autorisés conformément à l’article 2 de l’Instruction",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "ANNEX E I",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Intermédiaire agréé :…………………………………………..",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.043
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-78-95.fr.txt"
+}

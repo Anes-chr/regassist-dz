@@ -1,0 +1,366 @@
+{
+  "document_id": "INS-22-94.fr",
+  "work_id": "INS-22-94",
+  "title": "Instruction n°22-94 du 12 avril 1994 fixant le pourcentage des recettes d’exportation hors hydrocarbures et produits miniers ouvrant droit a l’inscription au(x) compte(s) devises des personnes morales.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "22-94",
+  "number_source": "en-tête du document",
+  "date": "1994-04-12",
+  "date_raw": "N°22-94 DU 12 AVRIL 1994",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Règlementation des changes",
+  "source_url": "https://www.bank-of-algeria.dz/importations-exportations-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction2294.pdf",
+  "format": "pdf",
+  "file_hash": "81a99fcaeffb94a4c27f18faa9dcb7b83349a891adfbabcea634369942605cc9",
+  "file_size": 28902,
+  "raw_path": "raw/81a99fcaeffb__instruction2294.pdf",
+  "retrieved_at": "2026-10-05T13:22:02+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "9ecdb5cd26de04daec90553132efc6f78608d27ca0442b101d310b9c42d4972b",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-1994/",
+    "https://www.bank-of-algeria.dz/ar/%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%AC%D9%86%D8%A8%D9%8A%D8%A9/",
+    "https://www.bank-of-algeria.dz/ar/%d8%ad%d8%b3%d8%a7%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%85%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d8%ac%d9%86%d8%a8%d9%8a%d8%a9/",
+    "https://www.bank-of-algeria.dz/comptes-devises-instruction/",
+    "https://www.bank-of-algeria.dz/importations-exportations-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - INSTRUCTION 32-91",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200809104434+01'00'",
+    "modDate": "D:20200809104434+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 1493,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 4,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°22-94 DU 12 AVRIL 1994 FIXANT LE POURCENTAGE DES RECETTES D’EXPORTATION HORS-HYDROCARBURES ET PRODUITS MINIERS OUVRANT DROIT A L’INSCRIPTION AU(X) COMPTE(S) DEVISES DES PERSONNES MORALES",
+  "alias_urls": [],
+  "text_hash": "061c156ce6ea3db6b1299896ba914350f892b79099a811a1c22b256741ffe648",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [
+    {
+      "work_id": "INS-05-11",
+      "document_id": "INS-05-11.fr",
+      "date": "2011-10-19",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°05-2011 du 19 octobre 2011 modifiant les dispositions de l’instruction n°22-94 du 12 avril 1994 modifiée et complétée fixant le pourcen"
+      }
+    },
+    {
+      "work_id": "INS-07-02",
+      "document_id": "INS-07-02.fr",
+      "date": "2002-12-26",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°07-2002 du 26 décembre 2002 modifiant les dispositions de l’instruction n°22-94 du 12 avril 1994 modifiée fixant le pourcentage des rece"
+      }
+    }
+  ],
+  "complete_par": [
+    {
+      "work_id": "INS-03-98",
+      "document_id": "INS-03-98.fr",
+      "date": "1998-05-21",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°03-98 du 21 mai 1998 complétant l’instruction n°22-94 fixant le pourcentage des recettes d’ex"
+      }
+    },
+    {
+      "work_id": "INS-03-98",
+      "document_id": "INS-03-98.fr",
+      "date": "1998-05-21",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet, de compléter l'instruction n°22-94 du 12 avril 1994 fixant le pourcentage des recettes d'ex"
+      }
+    }
+  ],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée. Ce texte a été modifié/complété : consulter aussi les textes listés dans modifié_par / complété_par.",
+  "same_work_documents": [],
+  "complété_par": [
+    {
+      "work_id": "INS-03-98",
+      "document_id": "INS-03-98.fr",
+      "date": "1998-05-21",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°03-98 du 21 mai 1998 complétant l’instruction n°22-94 fixant le pourcentage des recettes d’ex"
+      }
+    },
+    {
+      "work_id": "INS-03-98",
+      "document_id": "INS-03-98.fr",
+      "date": "1998-05-21",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet, de compléter l'instruction n°22-94 du 12 avril 1994 fixant le pourcentage des recettes d'ex"
+      }
+    }
+  ],
+  "modifié_par": [
+    {
+      "work_id": "INS-05-11",
+      "document_id": "INS-05-11.fr",
+      "date": "2011-10-19",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°05-2011 du 19 octobre 2011 modifiant les dispositions de l’instruction n°22-94 du 12 avril 1994 modifiée et complétée fixant le pourcen"
+      }
+    },
+    {
+      "work_id": "INS-07-02",
+      "document_id": "INS-07-02.fr",
+      "date": "2002-12-26",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°07-2002 du 26 décembre 2002 modifiant les dispositions de l’instruction n°22-94 du 12 avril 1994 modifiée fixant le pourcentage des rece"
+      }
+    }
+  ],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°22-94 DU 12 AVRIL 1994 FIXANT\nLE POURCENTAGE DES RECETTES D’EXPORTATION HORS-HYDROCARBURES\nET PRODUITS MINIERS OUVRANT DROIT A L’INSCRIPTION\nAU(X) COMPTE(S) DEVISES DES PERSONNES MORALES",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°22-94 DU 12 AVRIL 1994 FIXANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "LE POURCENTAGE DES RECETTES D’EXPORTATION HORS-HYDROCARBURES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET PRODUITS MINIERS OUVRANT DROIT A L’INSCRIPTION",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AU(X) COMPTE(S) DEVISES DES PERSONNES MORALES",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "En application des dispositions des règlements relatifs aux conditions d’ouverture et de fonctionnement des comptes devises des personnes morales, la présente instruction a pour objet de fixer le pourcentage des recettes d’exportation hors hydrocarbures et produits miniers que les exportateurs ont le droit de faire inscrire à leurs comptes devises \"personnes morales\".",
+      "paragraphs": [
+        {
+          "text": "En application des dispositions des règlements relatifs aux conditions d’ouverture et de fonctionnement des comptes devises des personnes morales, la présente instruction a pour objet de fixer le pourcentage des recettes d’exportation hors hydrocarbures et produits miniers que les exportateurs ont le droit de faire inscrire à leurs comptes devises \"personnes morales\".",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les recettes en devises réalisées dans le cadre d’exportation de produits, de marchandises ou de services, ouvrent droit, conformément à la réglementation en vigueur, à inscription aux comptes devises \"personnes morales\" de l’exportateur d’un pourcentage fixé à cinquante pour cent (50%) du montant rapatrié.\nCette inscription intervient au moment du rapatriement en Algérie de la recette d’exportation considérée.",
+      "paragraphs": [
+        {
+          "text": "Les recettes en devises réalisées dans le cadre d’exportation de produits, de marchandises ou de services, ouvrent droit, conformément à la réglementation en vigueur, à inscription aux comptes devises \"personnes morales\" de l’exportateur d’un pourcentage fixé à cinquante pour cent (50%) du montant rapatrié.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Cette inscription intervient au moment du rapatriement en Algérie de la recette d’exportation considérée.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction entre en vigueur à compter de la date de sa signature et s’applique aux exportations, aux travaux et aux prestations réalisés à compter de cette date.",
+      "paragraphs": [
+        {
+          "text": "La présente instruction entre en vigueur à compter de la date de sa signature et s’applique aux exportations, aux travaux et aux prestations réalisés à compter de cette date.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Toutes les dispositions antérieures contraires à la présente, notamment celles fixant des pourcentages des recettes d’exportation pouvant être inscrits aux comptes devises \"personnes morales\" des exportateurs, sont abrogées.\nLe Gouverneur\nAbdelouahab KERAMANE",
+      "paragraphs": [
+        {
+          "text": "Toutes les dispositions antérieures contraires à la présente, notamment celles fixant des pourcentages des recettes d’exportation pouvant être inscrits aux comptes devises \"personnes morales\" des exportateurs, sont abrogées.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.034
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-22-94.fr.txt"
+}

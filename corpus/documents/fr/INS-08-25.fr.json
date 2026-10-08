@@ -1,0 +1,338 @@
+{
+  "document_id": "INS-08-25.fr",
+  "work_id": "INS-08-25",
+  "title": "Instruction n°08-2025 du 31 août 2025 modifiant et complétant l’instruction n°07-2020 du 29 avril 2020 relative au taux d’intérêt directeur applicable aux opérations principales de refinancement.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "08-2025",
+  "number_source": "en-tête du document",
+  "date": "2025-08-31",
+  "date_raw": "N°08-2025 DU 31 AOÛT 2025",
+  "date_source": "en-tête du document",
+  "publication_date": "2025-09-01",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Instruments de la politique monétaire",
+  "source_url": "https://www.bank-of-algeria.dz/marche-monetaire-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2025/09/INSTRUCTION-N-08-25-Fr.pdf",
+  "format": "pdf",
+  "file_hash": "acbe16e67a648797ff7f5dd3fccdf6aa6f9d4cf53f1e966fbb21faa41c217105",
+  "file_size": 143322,
+  "raw_path": "raw/acbe16e67a64__INSTRUCTION-N-08-25-Fr.pdf",
+  "retrieved_at": "2026-10-05T13:31:24+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "e039ba40bdd93160a47723c2788ed9b9f64843aab34c3e4aeecc687727547c34",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/",
+    "https://www.bank-of-algeria.dz/marche-monetaire-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Projet d'Instruction taux directeur",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20250901113108+01'00'",
+    "modDate": "D:20250901113108+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 848,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 3,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°08-2025 DU 31 AOÛT 2025 MODIFIANT ET COMPLETANT L’INSTRUCTION N°07-2020 DU 29 AVRIL 2020 RELATIVE AU TAUX D’INTERET DIRECTEUR APPLICABLE AUX OPERATIONS PRINCIPALES DE REFINANCEMENT",
+  "alias_urls": [],
+  "text_hash": "641d53218bed1030484fdf72a2ee20b33237c1cb9670974e630fa8e7ffc041ad",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "07-2020",
+        "date": "2020-04-29",
+        "raw": "instruction n°07-2020 du 29 avril 2020"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°08-2025 du 31 août 2025 modifiant et complétant l’instruction n°07-2020 du 29 avril 2020 relative au taux d’intérêt directeur ap"
+      },
+      "target_work_id": "INS-07-20"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "07-2020",
+        "date": "2020-04-29",
+        "raw": "instruction n°07-2020 du 29 avril 2020"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°08-2025 du 31 août 2025 modifiant et complétant l’instruction n°07-2020 du 29 avril 2020 relative au taux d’intérêt directeur ap"
+      },
+      "target_work_id": "INS-07-20"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "07-2020",
+        "date": "2020-04-29",
+        "raw": "instruction n°07-2020 du 29 avril 2020"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier l’instruction n°07-2020 du 29 avril 2020 relative au taux d’intérêt directeur ap"
+      },
+      "target_work_id": "INS-07-20"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-07-20",
+      "reference": "instruction n°07-2020 du 29 avril 2020",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°08-2025 du 31 août 2025 modifiant et complétant l’instruction n°07-2020 du 29 avril 2020 relative au taux d’intérêt directeur ap"
+      }
+    },
+    {
+      "work_id": "INS-07-20",
+      "reference": "instruction n°07-2020 du 29 avril 2020",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier l’instruction n°07-2020 du 29 avril 2020 relative au taux d’intérêt directeur ap"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "INS-07-20",
+      "reference": "instruction n°07-2020 du 29 avril 2020",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°08-2025 du 31 août 2025 modifiant et complétant l’instruction n°07-2020 du 29 avril 2020 relative au taux d’intérêt directeur ap"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-08-25.ar"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "INS-07-20",
+      "reference": "instruction n°07-2020 du 29 avril 2020",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°08-2025 du 31 août 2025 modifiant et complétant l’instruction n°07-2020 du 29 avril 2020 relative au taux d’intérêt directeur ap"
+      }
+    }
+  ],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°08-2025 DU 31 AOÛT 2025 MODIFIANT ET\nCOMPLETANT L’INSTRUCTION N°07-2020 DU 29 AVRIL 2020\nRELATIVE AU TAUX D’INTERET DIRECTEUR APPLICABLE AUX\nOPERATIONS PRINCIPALES DE REFINANCEMENT",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°08-2025 DU 31 AOÛT 2025 MODIFIANT ET",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "COMPLETANT L’INSTRUCTION N°07-2020 DU 29 AVRIL 2020",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "RELATIVE AU TAUX D’INTERET DIRECTEUR APPLICABLE AUX",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "OPERATIONS PRINCIPALES DE REFINANCEMENT",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction a pour objet de modifier l’instruction n°07-2020 du 29 avril 2020 relative au taux d’intérêt directeur applicable aux opérations principales de refinancement.",
+      "paragraphs": [
+        {
+          "text": "La présente instruction a pour objet de modifier l’instruction n°07-2020 du 29 avril 2020 relative au taux d’intérêt directeur applicable aux opérations principales de refinancement.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L’article 2 de l'instruction n°07-2020 du 29 avril 2020 relative au taux d’intérêt directeur applicable aux opérations principales de refinancement est modifié et rédigé comme suit :\n« Article 2 : Le taux d’intérêt directeur applicable aux opérations principales de refinancement est fixé à 2,75% ».",
+      "paragraphs": [
+        {
+          "text": "L’article 2 de l'instruction n°07-2020 du 29 avril 2020 relative au taux d’intérêt directeur applicable aux opérations principales de refinancement est modifié et rédigé comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "« Article 2 : Le taux d’intérêt directeur applicable aux opérations principales de refinancement est fixé à 2,75% ».",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction prend effet à compter de la date de sa signature.\nLe Gouverneur\nSalah-Eddine TALEB",
+      "paragraphs": [
+        {
+          "text": "La présente instruction prend effet à compter de la date de sa signature.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Salah-Eddine TALEB",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.041
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-08-25.fr.txt"
+}

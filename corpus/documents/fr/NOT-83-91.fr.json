@@ -1,0 +1,334 @@
+{
+  "document_id": "NOT-83-91.fr",
+  "work_id": "NOT-83-91",
+  "title": "Note n°83-91 du 22 août 1991 relative à l’attestation de cession de devises.",
+  "document_type": "note",
+  "type_code": "NOT",
+  "type_source": "label",
+  "number": "83-91",
+  "number_source": "en-tête du document",
+  "date": "1991-08-22",
+  "date_raw": "N°83-91 DU 22 AOUT 1991",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-05",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "notes_aux_banques",
+  "subcategory": "Année 1991",
+  "source_url": "https://www.bank-of-algeria.dz/les-notes-aux-banques-1991/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/05/note8391.pdf",
+  "format": "pdf",
+  "file_hash": "8e1e009c6a319bf7e3f5471edf9683b5a186e54136d51e09d5573eb1d6e71161",
+  "file_size": 67834,
+  "raw_path": "raw/8e1e009c6a31__note8391.pdf",
+  "retrieved_at": "2026-10-05T13:24:47+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "159128501a733c1fa5bc9fcdcd244b4f1afdc49a11f069a218073653b32f9c52",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/les-notes-aux-banques-1991/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document1",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210302140831+01'00'",
+    "modDate": "D:20210302140831+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2317,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 1958,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": false,
+    "article_count": 0,
+    "annex_count": 1
+  },
+  "quality_flags": [],
+  "title_document": "NOTE N°83-91 DU 22 AOUT 1991 RELATIVE A L'ATTESTATION DE CESSION DE DEVISES Aux termes de la réglementation en vigueur, certaines dépenses exposées en Algérie telles que notamment l'acquisition de titre de transport aérien ou maritime, les frais d'hôtels, les redevances douanières, sont soumises au paiement en devises par les personnes résidentes ou non résidentes qui y sont assujetties. Dans la pratique, le règlement de ces dépenses intervient en dinars auprès du fournisseur ou du prestataire sous réserve de présentation à ce dernier d'une attestation",
+  "alias_urls": [],
+  "text_hash": "7f55865346d49aa1e52342070cff58ca537b4545438b8f74eef0bf654d38b62a",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe I",
+      "number": "I",
+      "heading": "A LA NOTE B.A. N°83-91 DU 22 AOUT 1991",
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "NOTE N°83-91 DU 22 AOUT 1991\nRELATIVE A L'ATTESTATION DE CESSION DE DEVISES\nAux termes de la réglementation en vigueur, certaines dépenses exposées en Algérie telles que notamment l'acquisition de titre de transport aérien ou maritime, les frais d'hôtels, les redevances douanières, sont soumises au paiement en devises par les personnes résidentes ou non résidentes qui y sont assujetties.\nDans la pratique, le règlement de ces dépenses intervient en dinars auprès du fournisseur ou du prestataire sous réserve de présentation à ce dernier d'une attestation délivrée par une institution financière justifiant le change du montant en devises convertibles correspondant.\nLa présente note a pour objet de faire connaître que suite à des opérations de contrôle initiées par les services de la Banque d'Algérie, il a été relevé que de nombreuses attestations de cessions de devises délivrées par des institutions financières laissent apparaître un sérieux doute sur leur authenticité et pour lesquelles des investigations sont actuellement menées pour déterminer les conditions de leur délivrance.\nEn conséquence de ce qui précède, les institutions financières concernées voudront bien prendre les dispositions nécessaires en vue de prévenir toute délivrance indue de ces attestations de cessions de devises lesquelles désormais doivent être établies selon le modèle en annexe.\nIl demeure entendu que lesdites attestations seront à délivrer en un unique exemplaire original et ce, à l'exclusion de tout autre document notamment le bulletin de change.\nCe dernier dûment annoté de la mention \"C.F. ATTESTATION N°......... du ..........\ninscrite en lettres capitales est à conserver avec le double de l'attestation délivrée dont l'enregistrement dans un ordre chronologique dans un registre spécialement ouvert à cet effet est obligatoire.\nLes destinataires de ces attestations (service des douanes, compagnies de transport aérien ou maritime, hôtels etc..) doivent impérativement veiller à n'accepter que des attestations établies selon le modèle en annexe et reprenant l'ensemble des indications y figurant et ce, pour permettre leur authentification ultérieure par les services du Contrôle des Changes.\nLe Directeur du Contrôle des Changes\nD. SAIDI\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "NOTE N°83-91 DU 22 AOUT 1991",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "RELATIVE A L'ATTESTATION DE CESSION DE DEVISES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Aux termes de la réglementation en vigueur, certaines dépenses exposées en Algérie telles que notamment l'acquisition de titre de transport aérien ou maritime, les frais d'hôtels, les redevances douanières, sont soumises au paiement en devises par les personnes résidentes ou non résidentes qui y sont assujetties.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Dans la pratique, le règlement de ces dépenses intervient en dinars auprès du fournisseur ou du prestataire sous réserve de présentation à ce dernier d'une attestation délivrée par une institution financière justifiant le change du montant en devises convertibles correspondant.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La présente note a pour objet de faire connaître que suite à des opérations de contrôle initiées par les services de la Banque d'Algérie, il a été relevé que de nombreuses attestations de cessions de devises délivrées par des institutions financières laissent apparaître un sérieux doute sur leur authenticité et pour lesquelles des investigations sont actuellement menées pour déterminer les conditions de leur délivrance.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "En conséquence de ce qui précède, les institutions financières concernées voudront bien prendre les dispositions nécessaires en vue de prévenir toute délivrance indue de ces attestations de cessions de devises lesquelles désormais doivent être établies selon le modèle en annexe.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Il demeure entendu que lesdites attestations seront à délivrer en un unique exemplaire original et ce, à l'exclusion de tout autre document notamment le bulletin de change.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Ce dernier dûment annoté de la mention \"C.F. ATTESTATION N°......... du ..........",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "inscrite en lettres capitales est à conserver avec le double de l'attestation délivrée dont l'enregistrement dans un ordre chronologique dans un registre spécialement ouvert à cet effet est obligatoire.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les destinataires de ces attestations (service des douanes, compagnies de transport aérien ou maritime, hôtels etc..) doivent impérativement veiller à n'accepter que des attestations établies selon le modèle en annexe et reprenant l'ensemble des indications y figurant et ce, pour permettre leur authentification ultérieure par les services du Contrôle des Changes.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Directeur du Contrôle des Changes",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "D. SAIDI",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe I",
+      "number": "I",
+      "heading": "A LA NOTE B.A. N°83-91 DU 22 AOUT 1991",
+      "context": {},
+      "annexe": {
+        "number": "I",
+        "heading": "A LA NOTE B.A. N°83-91 DU 22 AOUT 1991",
+        "label": "Annexe I"
+      },
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Institution Financière.................................\nAdresse ..................................................\nN° d’enregistrement..................................\nATTESTATION DE CESSION DE DEVISES\nNous soussignés (Institution Financière) : .........................................\nAgence (ou bureau) de....................................................................\nAdresse ........................................................................................\nAttestons que M ............................................................................\nPasseport N° .................................. du ..........................................\nDélivré par ....................................................................................\nDemeurant à..................................................................................\nNationalité......................................................................................\nA cédé à nos guichets la somme de : (montant en chiffres et en lettre avec indication de la devise cédée).....................................................................................................\nSoit une contre-valeur de DA : (montant en chiffres et en lettres)\n..........................................................................................................................................\ncalculée au cours de ....................................du .....................................\nn° et date du bulletin de cession de devises\nL’intéressé (e) déclare que cette cession est effectuée pour le motif suivant :\n.........................................................................................................\n................. le ................\n(Cachet et signature (s) accréditée (s)\nsuivie(s) de l’identité et de la fonction du (ou des) signataire (s)",
+      "paragraphs": [
+        {
+          "text": "Institution Financière.................................",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Adresse ..................................................",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "N° d’enregistrement..................................",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "ATTESTATION DE CESSION DE DEVISES",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Nous soussignés (Institution Financière) : .........................................",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Agence (ou bureau) de....................................................................",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Adresse ........................................................................................",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Attestons que M ............................................................................",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Passeport N° .................................. du ..........................................",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Délivré par ....................................................................................",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Demeurant à..................................................................................",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Nationalité......................................................................................",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "A cédé à nos guichets la somme de : (montant en chiffres et en lettre avec indication de la devise cédée).....................................................................................................",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Soit une contre-valeur de DA : (montant en chiffres et en lettres)",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "..........................................................................................................................................",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "calculée au cours de ....................................du .....................................",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "n° et date du bulletin de cession de devises",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "L’intéressé (e) déclare que cette cession est effectuée pour le motif suivant :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": ".........................................................................................................",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "................. le ................",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "(Cachet et signature (s) accréditée (s)",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "suivie(s) de l’identité et de la fonction du (ou des) signataire (s)",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.343
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/NOT-83-91.fr.txt"
+}

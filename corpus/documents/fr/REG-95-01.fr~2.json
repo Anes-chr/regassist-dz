@@ -1,0 +1,591 @@
+{
+  "document_id": "REG-95-01.fr~2",
+  "work_id": "REG-95-01",
+  "title": "Règlement n°95-01 du 28 février 1995 portant dérogation en faveur de la Caisse nationale de Mutualité agricole “CNMA” pour effectuer des opérations de banque.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "95-01",
+  "number_source": "en-tête du document",
+  "date": "1995-02-28",
+  "date_raw": "N°95-01 DU 28 FEVRIER 1995",
+  "date_source": "en-tête du document",
+  "publication_date": "2023-01-25",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Divers",
+  "source_url": "https://www.bank-of-algeria.dz/risques-reglement/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/reglement9501.pdf",
+  "format": "pdf",
+  "file_hash": "df19ffdc398e7b6aa5146f063c604d0fe1fba2da0cd8bde8d9bfb4488db81965",
+  "file_size": 48777,
+  "raw_path": "raw/df19ffdc398e__reglement9501.pdf",
+  "retrieved_at": "2026-10-05T13:27:18+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "04fd16ee1d2f2ebd9ee3d4e389b853141f0b0bdadef8fd4315708965a6148ab1",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/risques-reglement/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document4",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200712112730+01'00'",
+    "modDate": "D:20200712112730+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 3110,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 2086,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 5,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "meme_texte_plusieurs_fichiers"
+  ],
+  "title_document": "REGLEMENT N°95-01 DU 28 FEVRIER 1995 PORTANT DEROGATION EN FAVEUR DE LA CAISSE NATIONALE DE MUTUALITE AGRICOLE \"CNMA\" POUR EFFECTUER DES OPERATIONS DE BANQUE",
+  "alias_urls": [],
+  "text_hash": "0b9dae008330fa6456e8701cb2dd0d728423a9fbe37bfa71aa0de25b1ef61bf0",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [
+    {
+      "work_id": "REG-05-02",
+      "document_id": "REG-05-02.fr",
+      "date": "2005-03-05",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2005-02 du 5 mars 2005 modifiant et complétant le règlement n°95-01 du 28 février 1995 portant dérogation en faveur de la cais"
+      }
+    },
+    {
+      "work_id": "REG-05-02",
+      "document_id": "REG-05-02.fr",
+      "date": "2005-03-05",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°95-01 du 28 février 1995 susvisé."
+      }
+    },
+    {
+      "work_id": "REG-09-07",
+      "document_id": "REG-09-07.fr",
+      "date": "2009-12-10",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2009-07 du 10 décembre 2009 modifiant le règlement n°95-01 du 28 février 1995 modifie portant dérogation en faveur de"
+      }
+    },
+    {
+      "work_id": "REG-09-07",
+      "document_id": "REG-09-07.fr",
+      "date": "2009-12-10",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier le Règlement n°95-01 du 28 Février 1995 modifié susvisé."
+      }
+    }
+  ],
+  "complete_par": [
+    {
+      "work_id": "REG-05-02",
+      "document_id": "REG-05-02.fr",
+      "date": "2005-03-05",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2005-02 du 5 mars 2005 modifiant et complétant le règlement n°95-01 du 28 février 1995 portant dérogation en faveur de la cais"
+      }
+    },
+    {
+      "work_id": "REG-05-02",
+      "document_id": "REG-05-02.fr",
+      "date": "2005-03-05",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°95-01 du 28 février 1995 susvisé."
+      }
+    }
+  ],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée. Ce texte a été modifié/complété : consulter aussi les textes listés dans modifié_par / complété_par.",
+  "same_work_documents": [
+    "REG-95-01.ar",
+    "REG-95-01.fr"
+  ],
+  "complété_par": [
+    {
+      "work_id": "REG-05-02",
+      "document_id": "REG-05-02.fr",
+      "date": "2005-03-05",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2005-02 du 5 mars 2005 modifiant et complétant le règlement n°95-01 du 28 février 1995 portant dérogation en faveur de la cais"
+      }
+    },
+    {
+      "work_id": "REG-05-02",
+      "document_id": "REG-05-02.fr",
+      "date": "2005-03-05",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°95-01 du 28 février 1995 susvisé."
+      }
+    }
+  ],
+  "modifié_par": [
+    {
+      "work_id": "REG-05-02",
+      "document_id": "REG-05-02.fr",
+      "date": "2005-03-05",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2005-02 du 5 mars 2005 modifiant et complétant le règlement n°95-01 du 28 février 1995 portant dérogation en faveur de la cais"
+      }
+    },
+    {
+      "work_id": "REG-05-02",
+      "document_id": "REG-05-02.fr",
+      "date": "2005-03-05",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°95-01 du 28 février 1995 susvisé."
+      }
+    },
+    {
+      "work_id": "REG-09-07",
+      "document_id": "REG-09-07.fr",
+      "date": "2009-12-10",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2009-07 du 10 décembre 2009 modifiant le règlement n°95-01 du 28 février 1995 modifie portant dérogation en faveur de"
+      }
+    },
+    {
+      "work_id": "REG-09-07",
+      "document_id": "REG-09-07.fr",
+      "date": "2009-12-10",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier le Règlement n°95-01 du 28 Février 1995 modifié susvisé."
+      }
+    }
+  ],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°95-01 DU 28 FEVRIER 1995 PORTANT\nDEROGATION EN FAVEUR DE LA CAISSE NATIONALE DE MUTUALITE\nAGRICOLE \"CNMA\" POUR EFFECTUER DES OPERATIONS DE BANQUE\nLe Gouverneur de la Banque d'Algérie,\n- Vu la Loi n° 90-10 du 14 avril 1990, relative à la Monnaie et au Crédit, notamment ses articles 44, 45, 47, 91, 95, 110, 114, 115, 123, 126, 129, 130, 136, 137, 139 , 140 et 162 ;\n- Vu le Décret Présidentiel du 21 juillet 1992 portant nomination du Gouverneur de la Banque d'Algérie ;\n- Vu les Décrets Présidentiels du 14 mai 1990 portant nomination de Vice\nGouverneurs de la Banque d'Algérie ;\n- Vu le Décret Exécutif du 1er juillet 1991 portant désignation de Membres\nTitulaires et Suppléants au Conseil de la Monnaie et du Crédit ;\n- Vu le Règlement n° 90-01 du 04 juillet 1990 relatif au capital minimum des banques et des établissements financiers exerçant en Algérie ;\n- Vu le Règlement n° 91-09 du 14 Août 1991 fixant les règles prudentielles de gestion des banques et établissements financiers ;\n- Vu le Règlement n° 92-04 du 22 Mars 1992 relatif au Contrôle des Changes ;\n- Vu le Règlement n° 92-05 du 22 Mars 1992 concernant les conditions que doivent remplir les Fondateurs, dirigeants et Représentants des banques et établissements financiers ;\n- Vu le Règlement n° 92-08 du 17 Novembre 1992 portant Plan de Comptes\nBancaire et Règles Comptables applicables aux banques et aux établissements financiers ;\n- Vu le Règlement n° 92-09 du 17 Novembre 1992 relatif à l'établissement et à la\nPublication des Comptes Individuels Annuels des banques et des établissements financiers ;\n- Vu le Règlement n° 93-01 du 3 janvier 1993 fixant les conditions de constitution de banque et d'établissement financier et d'installation de succursale de banque et d'établissement financier étranger ;\n- Vu le Règlement n° 93-03 du 4 juillet 1993 modifiant et complétant le\nRèglement n° 90-01 du 4 juillet 1990 relatif au capital minimum des banques et des établissements financiers exerçant en Algérie ;\n- Vu la demande formulée par la Caisse Nationale de Mutualité Agricole (CNMA) en date du 4 janvier 1995 ;\n- Après délibération du Conseil de la Monnaie et du Crédit en date du 28 Février 1995 ;\nPromulgue le règlement dont la teneur suit ;",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°95-01 DU 28 FEVRIER 1995 PORTANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DEROGATION EN FAVEUR DE LA CAISSE NATIONALE DE MUTUALITE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AGRICOLE \"CNMA\" POUR EFFECTUER DES OPERATIONS DE BANQUE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d'Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la Loi n° 90-10 du 14 avril 1990, relative à la Monnaie et au Crédit, notamment ses articles 44, 45, 47, 91, 95, 110, 114, 115, 123, 126, 129, 130, 136, 137, 139 , 140 et 162 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 21 juillet 1992 portant nomination du Gouverneur de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu les Décrets Présidentiels du 14 mai 1990 portant nomination de Vice",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Gouverneurs de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Exécutif du 1er juillet 1991 portant désignation de Membres",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Titulaires et Suppléants au Conseil de la Monnaie et du Crédit ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Règlement n° 90-01 du 04 juillet 1990 relatif au capital minimum des banques et des établissements financiers exerçant en Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Règlement n° 91-09 du 14 Août 1991 fixant les règles prudentielles de gestion des banques et établissements financiers ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Règlement n° 92-04 du 22 Mars 1992 relatif au Contrôle des Changes ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Règlement n° 92-05 du 22 Mars 1992 concernant les conditions que doivent remplir les Fondateurs, dirigeants et Représentants des banques et établissements financiers ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Règlement n° 92-08 du 17 Novembre 1992 portant Plan de Comptes",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Bancaire et Règles Comptables applicables aux banques et aux établissements financiers ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Règlement n° 92-09 du 17 Novembre 1992 relatif à l'établissement et à la",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Publication des Comptes Individuels Annuels des banques et des établissements financiers ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Règlement n° 93-01 du 3 janvier 1993 fixant les conditions de constitution de banque et d'établissement financier et d'installation de succursale de banque et d'établissement financier étranger ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Règlement n° 93-03 du 4 juillet 1993 modifiant et complétant le",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Règlement n° 90-01 du 4 juillet 1990 relatif au capital minimum des banques et des établissements financiers exerçant en Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la demande formulée par la Caisse Nationale de Mutualité Agricole (CNMA) en date du 4 janvier 1995 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Après délibération du Conseil de la Monnaie et du Crédit en date du 28 Février 1995 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le règlement dont la teneur suit ;",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le présent Règlement a pour objet, en application de l'article 123 de la Loi n°90-10 du 14 Avril 1990 susvisée, de consentir une dérogation à la Caisse Nationale de\nMutualité Agricole (CNMA), pour exercer les activités de banque en faveur de la clientèle des secteurs agricoles productifs, de l'élevage, des forêts et de la pêche.",
+      "paragraphs": [
+        {
+          "text": "Le présent Règlement a pour objet, en application de l'article 123 de la Loi n°90-10 du 14 Avril 1990 susvisée, de consentir une dérogation à la Caisse Nationale de",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Mutualité Agricole (CNMA), pour exercer les activités de banque en faveur de la clientèle des secteurs agricoles productifs, de l'élevage, des forêts et de la pêche.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Au sens du présent Règlement, il faut entendre par \"activités de banque\", les opérations de banque définies aux articles 110 à 113 ainsi que les activités connexes décrites aux articles 117 et 118 de la Loi n°90-10 du 14 Avril 1990 susvisée.",
+      "paragraphs": [
+        {
+          "text": "Au sens du présent Règlement, il faut entendre par \"activités de banque\", les opérations de banque définies aux articles 110 à 113 ainsi que les activités connexes décrites aux articles 117 et 118 de la Loi n°90-10 du 14 Avril 1990 susvisée.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "La Caisse Nationale de Mutualité Agricole (CNMA) peut, sous son contrôle, faire effectuer, par les structures mutuelles (Caisses Locales et Régionales), certaines des opérations de banque visées à l'article 2 ci-dessus.\nLa Caisse Nationale de Mutualité Agricole (CNMA) demeure seule responsable, devant les autorités monétaires, de l'application et du strict respect de la réglementation bancaire en vigueur.",
+      "paragraphs": [
+        {
+          "text": "La Caisse Nationale de Mutualité Agricole (CNMA) peut, sous son contrôle, faire effectuer, par les structures mutuelles (Caisses Locales et Régionales), certaines des opérations de banque visées à l'article 2 ci-dessus.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La Caisse Nationale de Mutualité Agricole (CNMA) demeure seule responsable, devant les autorités monétaires, de l'application et du strict respect de la réglementation bancaire en vigueur.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Pour la mise en œuvre des dispositions ci-dessus, la Caisse Nationale de\nMutualité Agricole (CNMA) est tenue de :\n- mettre en conformité son capital social qui doit, au terme de la cinquième année, représenter le capital minimum fixé par le Règlement n° 90-01 du 4 juillet 1990, modifié et complété, relatif au capital minimum des banques et des établissements financiers exerçant en Algérie ;\n- procéder, dès promulgation du présent Règlement, aux formalités légales et réglementaires pour porter son capital à hauteur de DA 125 Millions représentant le quart (1/4) du capital minimum exigé à cet effet ;\n- désigner deux (02) Commissaires aux Comptes en application de l'article 162 de la Loi n° 90-10 du 14 Avril 1990 susvisée ;\n- veiller à l'application et au respect des dispositions du Règlement n° 92-05 du 22 mars 1992 concernant les conditions que doivent remplir les Fondateurs,\nDirigeants et Représentants des banques et établissements financiers et plus particulièrement celles relatives aux conditions requises pour les cadres responsables ;\n- établir les états comptables et financiers spécifiques à l'activité de banque. Il sera à cet effet, fait application du Règlement n°92-08 du 17 Novembre 1992 portant Plan de Comptes et Règles Comptables Applicables aux banques et établissements Financiers ainsi que du Règlement n°92-09 du 17 Novembre 1992 relatif à l'établissement et à la publication des Comptes Individuels Annuels des banques et des établissements financiers ;\n- Veiller à l'application et au respect des règles prudentielles de gestion des banques et établissements financiers telles que fixées par la réglementation en vigueur.",
+      "paragraphs": [
+        {
+          "text": "Pour la mise en œuvre des dispositions ci-dessus, la Caisse Nationale de",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Mutualité Agricole (CNMA) est tenue de :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- mettre en conformité son capital social qui doit, au terme de la cinquième année, représenter le capital minimum fixé par le Règlement n° 90-01 du 4 juillet 1990, modifié et complété, relatif au capital minimum des banques et des établissements financiers exerçant en Algérie ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- procéder, dès promulgation du présent Règlement, aux formalités légales et réglementaires pour porter son capital à hauteur de DA 125 Millions représentant le quart (1/4) du capital minimum exigé à cet effet ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- désigner deux (02) Commissaires aux Comptes en application de l'article 162 de la Loi n° 90-10 du 14 Avril 1990 susvisée ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- veiller à l'application et au respect des dispositions du Règlement n° 92-05 du 22 mars 1992 concernant les conditions que doivent remplir les Fondateurs,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Dirigeants et Représentants des banques et établissements financiers et plus particulièrement celles relatives aux conditions requises pour les cadres responsables ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- établir les états comptables et financiers spécifiques à l'activité de banque. Il sera à cet effet, fait application du Règlement n°92-08 du 17 Novembre 1992 portant Plan de Comptes et Règles Comptables Applicables aux banques et établissements Financiers ainsi que du Règlement n°92-09 du 17 Novembre 1992 relatif à l'établissement et à la publication des Comptes Individuels Annuels des banques et des établissements financiers ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Veiller à l'application et au respect des règles prudentielles de gestion des banques et établissements financiers telles que fixées par la réglementation en vigueur.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le présent Règlement entre en vigueur, dès sa publication, dans les conditions fixées par l'article 47 de la Loi n° 90-10 du 14 Avril 1990 susvisée.\nLe Gouverneur\nAbdelouahab KERAMANE",
+      "paragraphs": [
+        {
+          "text": "Le présent Règlement entre en vigueur, dès sa publication, dans les conditions fixées par l'article 47 de la Loi n° 90-10 du 14 Avril 1990 susvisée.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "meme_texte_plusieurs_fichiers"
+    ],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.041
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-95-01.fr~2.txt"
+}

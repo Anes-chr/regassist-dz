@@ -1,0 +1,491 @@
+{
+  "document_id": "REG-26-02.fr",
+  "work_id": "REG-26-02",
+  "title": "Règlement n° 26-02 du 23 juillet 2026 modifiant et complétant le règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007 relatif aux règles applicables aux transactions courantes avec l’étranger et aux comptes devises",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "26-02",
+  "number_source": "en-tête du document",
+  "date": "2026-07-23",
+  "date_raw": "CORRESPONDANT AU 23 JUILLET 2026",
+  "date_source": "en-tête du document",
+  "publication_date": "2026-09-13",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Règlementation des changes",
+  "source_url": "https://www.bank-of-algeria.dz/devises-reglement/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2026/09/Reglement-n°26-02.pdf",
+  "format": "pdf",
+  "file_hash": "07c8480f1cdd4afc3f59d4def8b2ecb4c13278f6b705367fba1d4839737c6cec",
+  "file_size": 113384,
+  "raw_path": "raw/07c8480f1cdd__Reglement-n_26-02.pdf",
+  "retrieved_at": "2026-10-05T13:32:25+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "cff885703aa05082b4e84b4c75f0a472e678e5160133c3c3ea054e35ae453f99",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/devises-reglement/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "producer": "Foxit Reader PDF Printer Version 9.5.0.1620",
+    "creationDate": "D:20260913155148+01'00'",
+    "modDate": "D:20260913155148+01'00'"
+  },
+  "hijri_date_raw": "3 Dhou El Hidja 1444",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2364,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 1738,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 4,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "REGLEMENT N° 26-02 DU 8 SAFAR 1448 CORRESPONDANT AU 23 JUILLET 2026 MODIFIANT ET COMPLETANT LE REGLEMENT N°07-01 DU 15 MOHARRAM 1428 CORRESPONDANT AU 3 FEVRIER 2007 RELATIF AUX REGLES APPLICABLES AUX TRANSACTIONS COURANTES AVEC L’ETRANGER ET AUX COMPTES DEVISES",
+  "alias_urls": [],
+  "text_hash": "75cdd605e5d4e9ae5703d175cbe2d3fcb1cf41d22ae5a1344e30efa2a67552f3",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "07-01",
+        "date": null,
+        "raw": "règlement n° 07-01 du 15 Moharram 1428"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n° 26-02 du 23 juillet 2026 modifiant et complétant le règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007 relatif"
+      },
+      "target_work_id": "REG-07-01"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "07-01",
+        "date": null,
+        "raw": "règlement n° 07-01 du 15 Moharram 1428"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n° 26-02 du 23 juillet 2026 modifiant et complétant le règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007 relatif"
+      },
+      "target_work_id": "REG-07-01"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "07-01",
+        "date": null,
+        "raw": "règlement n° 07-01 du 15 Moharram 1428"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007, modifi"
+      },
+      "target_work_id": "REG-07-01"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "07-01",
+        "date": null,
+        "raw": "règlement n° 07-01 du 15 Moharram 1428"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007, modifi"
+      },
+      "target_work_id": "REG-07-01"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n° 07-01 du 15 Moharram 1428",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n° 26-02 du 23 juillet 2026 modifiant et complétant le règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007 relatif"
+      }
+    },
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n° 07-01 du 15 Moharram 1428",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007, modifi"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n° 07-01 du 15 Moharram 1428",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n° 26-02 du 23 juillet 2026 modifiant et complétant le règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007 relatif"
+      }
+    },
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n° 07-01 du 15 Moharram 1428",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007, modifi"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n° 07-01 du 15 Moharram 1428",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n° 26-02 du 23 juillet 2026 modifiant et complétant le règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007 relatif"
+      }
+    },
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n° 07-01 du 15 Moharram 1428",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007, modifi"
+      }
+    }
+  ],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N° 26-02 DU 8 SAFAR 1448 CORRESPONDANT AU 23\nJUILLET 2026 MODIFIANT ET COMPLETANT LE REGLEMENT\nN°07-01 DU 15 MOHARRAM 1428 CORRESPONDANT AU 3 FEVRIER 2007 RELATIF AUX REGLES APPLICABLES AUX TRANSACTIONS\nCOURANTES AVEC L’ETRANGER ET AUX COMPTES DEVISES\nLe Gouverneur de la Banque d'Algérie,\n- Vu la loi n° 23-09 du 3 Dhou El Hidja 1444 correspondant au 21 juin 2023, modifiée, portant loi monétaire et bancaire ;\n- Vu l’ordonnance n° 03-04 du 19 Joumada El Oula 1424 correspondant au 19 juillet 2003, modifiée et complétée, relative aux règles générales applicables aux opérations d’importation et d’exportation de marchandises ;\n- Vu le décret présidentiel du 5 Ramadhan 1447 correspondant au 23 février 2026 portant nomination du Gouverneur de la Banque d'Algérie ;\n- Vu le décret présidentiel du 5 Safar 1437 correspondant au 17 novembre 2015 portant nomination de membres du conseil d’administration de la Banque d’Algérie ;\n- Vu le décret présidentiel du 18 Rabie Ethani 1441 correspondant au 15 décembre 2019 portant nomination de vice-gouverneurs de la Banque d’Algérie ;\n- Vu le décret présidentiel du 6 Ramadhan 1443 correspondant au 7 avril 2022 portant nomination de membres du conseil d’administration de la Banque d’Algérie ;\n- Vu le décret présidentiel du 12 Joumada El Oula 1444 correspondant au 6 décembre 2022 portant nomination d’un membre du conseil de la monnaie et du crédit ;\n- Vu le décret présidentiel du 18 Joumada Ethania 1445 correspondant au 31 décembre 2023 portant nomination de vice-gouverneurs de la Banque d’Algérie ;\n- Vu le décret présidentiel du 4 Chaâbane 1445 correspondant au 14 février 2024 portant nomination d’un membre du conseil d’administration de la Banque d’Algérie ;\n- Vu le règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007, modifié et complété, relatif aux règles applicables aux transactions courantes avec l'étranger et aux comptes devises ;\n- Vu le règlement n° 24-03 du 18 Moharram 1446 correspondant au 24 juillet 2024, modifié et complété, relatif à la prévention et à la lutte contre le blanchiment d'argent, le financement du terrorisme et le financement de la prolifération des armes de destruction massive ;\nAprès délibération du Conseil monétaire et bancaire en date du 23 juillet 2026 ;\nPromulgue le règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N° 26-02 DU 8 SAFAR 1448 CORRESPONDANT AU 23",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "JUILLET 2026 MODIFIANT ET COMPLETANT LE REGLEMENT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "N°07-01 DU 15 MOHARRAM 1428 CORRESPONDANT AU 3 FEVRIER 2007 RELATIF AUX REGLES APPLICABLES AUX TRANSACTIONS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "COURANTES AVEC L’ETRANGER ET AUX COMPTES DEVISES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d'Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la loi n° 23-09 du 3 Dhou El Hidja 1444 correspondant au 21 juin 2023, modifiée, portant loi monétaire et bancaire ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’ordonnance n° 03-04 du 19 Joumada El Oula 1424 correspondant au 19 juillet 2003, modifiée et complétée, relative aux règles générales applicables aux opérations d’importation et d’exportation de marchandises ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 5 Ramadhan 1447 correspondant au 23 février 2026 portant nomination du Gouverneur de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 5 Safar 1437 correspondant au 17 novembre 2015 portant nomination de membres du conseil d’administration de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 18 Rabie Ethani 1441 correspondant au 15 décembre 2019 portant nomination de vice-gouverneurs de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 6 Ramadhan 1443 correspondant au 7 avril 2022 portant nomination de membres du conseil d’administration de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 12 Joumada El Oula 1444 correspondant au 6 décembre 2022 portant nomination d’un membre du conseil de la monnaie et du crédit ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 18 Joumada Ethania 1445 correspondant au 31 décembre 2023 portant nomination de vice-gouverneurs de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 4 Chaâbane 1445 correspondant au 14 février 2024 portant nomination d’un membre du conseil d’administration de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007, modifié et complété, relatif aux règles applicables aux transactions courantes avec l'étranger et aux comptes devises ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n° 24-03 du 18 Moharram 1446 correspondant au 24 juillet 2024, modifié et complété, relatif à la prévention et à la lutte contre le blanchiment d'argent, le financement du terrorisme et le financement de la prolifération des armes de destruction massive ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Après délibération du Conseil monétaire et bancaire en date du 23 juillet 2026 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le présent règlement a pour objet de modifier et de compléter le règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007, modifié et complété, relatif aux règles applicables aux transactions courantes avec l’étranger et aux comptes devises.",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement a pour objet de modifier et de compléter le règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007, modifié et complété, relatif aux règles applicables aux transactions courantes avec l’étranger et aux comptes devises.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les dispositions de l’article 61 du règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007 susvisé, sont modifiées, complétées et rédigées comme suit :\n« Art. 61. — Le contrat d'exportation hors hydrocarbures peut être établi au comptant ou à crédit.\nL’exportateur doit rapatrier la recette provenant de l'exportation dans un délai n'excédant pas cent vingt (120) jours, à compter de la date d'expédition pour les biens ou de la date de réalisation pour les services.\nNéanmoins, lorsque le délai de règlement accordé par l’exportateur au client non résident est supérieur à cent vingt (120) jours et dans la limite maximale de cent quatre-vingts (180) jours, l’opération d’exportation doit être adossée, au préalable, à une assurance-crédit à l’exportation, souscrite auprès de l’organisme national habilité en la matière.\nLe délai de cent quatre-vingts (180) jours constitue le maximum que peut accorder un exportateur à son client non résident. Le délai de paiement doit expressément être transcrit dans le contrat commercial.\nEn tout état de cause, le rapatriement du produit de l’exportation doit intervenir le jour de son paiement par le client non résident ».",
+      "paragraphs": [
+        {
+          "text": "Les dispositions de l’article 61 du règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007 susvisé, sont modifiées, complétées et rédigées comme suit :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "« Art. 61. — Le contrat d'exportation hors hydrocarbures peut être établi au comptant ou à crédit.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "L’exportateur doit rapatrier la recette provenant de l'exportation dans un délai n'excédant pas cent vingt (120) jours, à compter de la date d'expédition pour les biens ou de la date de réalisation pour les services.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Néanmoins, lorsque le délai de règlement accordé par l’exportateur au client non résident est supérieur à cent vingt (120) jours et dans la limite maximale de cent quatre-vingts (180) jours, l’opération d’exportation doit être adossée, au préalable, à une assurance-crédit à l’exportation, souscrite auprès de l’organisme national habilité en la matière.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le délai de cent quatre-vingts (180) jours constitue le maximum que peut accorder un exportateur à son client non résident. Le délai de paiement doit expressément être transcrit dans le contrat commercial.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "En tout état de cause, le rapatriement du produit de l’exportation doit intervenir le jour de son paiement par le client non résident ».",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Toutes dispositions contraires au présent règlement sont abrogées.",
+      "paragraphs": [
+        {
+          "text": "Toutes dispositions contraires au présent règlement sont abrogées.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le présent règlement sera publié au Journal officiel de la République algérienne démocratique et populaire.\nLe Gouverneur\nMohammed Lamine LEBBOU",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement sera publié au Journal officiel de la République algérienne démocratique et populaire.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Mohammed Lamine LEBBOU",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.039
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-26-02.fr.txt"
+}

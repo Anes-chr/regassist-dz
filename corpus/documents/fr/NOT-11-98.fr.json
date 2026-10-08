@@ -1,0 +1,181 @@
+{
+  "document_id": "NOT-11-98.fr",
+  "work_id": "NOT-11-98",
+  "title": "Note n°11-98 du 27 avril 1998 r",
+  "document_type": "note",
+  "type_code": "NOT",
+  "type_source": "label",
+  "number": "11-98",
+  "number_source": "en-tête du document",
+  "date": "1998-04-27",
+  "date_raw": "N°11-98 DU 27 AVRIL 1998",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-05",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "notes_aux_banques",
+  "subcategory": "Année 1998",
+  "source_url": "https://www.bank-of-algeria.dz/les-notes-aux-banques-1998/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/05/note1198.pdf",
+  "format": "pdf",
+  "file_hash": "20fbcbd463d4d1f946b5871db57fca91ad3d838e8ccc8c50d5a585eb8e7ab91b",
+  "file_size": 42495,
+  "raw_path": "raw/20fbcbd463d4__note1198.pdf",
+  "retrieved_at": "2026-10-05T13:24:11+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "c5686d75bc41ee8a8118645306a10f724e802a55d40585bcc94ab52ec584fd98",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/les-notes-aux-banques-1998/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document1",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210228152220+01'00'",
+    "modDate": "D:20210228152220+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 907,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": false,
+    "article_count": 0,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "NOTE N°11-98 DU 27 AVRIL 1998 AUX BANQUES INTERMEDIAIRES AGREES",
+  "alias_urls": [],
+  "text_hash": "c9c23b6dd3432aff61ebc054f6093aff6095ce756d7bcaed615ff9180fefc83d",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "dead_source_urls": [
+    {
+      "url": "https://www.bank-of-algeria.dz/pdf/nb1998/note1198.pdf",
+      "status": "MOVED_OFFICIAL",
+      "listed_on": [
+        "https://www.bank-of-algeria.dz/les-notes-aux-banques-1998/"
+      ]
+    }
+  ],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "NOTE N°11-98 DU 27 AVRIL 1998\nAUX BANQUES INTERMEDIAIRES AGREES\nDirection Générale des Changes\nDirection du Contrôle des Changes\nAux termes de notre note n°08-97 du 10 juillet 1997, les coopératives agricoles légalement constituées sont autorisées à procéder à la domiciliation de contrats d'importation pour l'acquisition à l'étranger de petits équipements et/ou autres marchandises pour besoin propre, à l'exclusion de toute revente en l'état qui nécessite impérativement la présentation d'un registre de commerce.\nAinsi, par la présente, les banques intermédiaires agréés voudront bien noter que les dispositions de la note sus évoquée, sont dans les limites prévues par cette dernière, étendues au bénéficie des agriculteurs détenteurs d'une carte d'agriculteurs et/ou de membres d'une chambre de l'agriculture.\nLe Directeur du Contrôle des Changes\nD. SAIDI\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "NOTE N°11-98 DU 27 AVRIL 1998",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AUX BANQUES INTERMEDIAIRES AGREES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Direction Générale des Changes",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Direction du Contrôle des Changes",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Aux termes de notre note n°08-97 du 10 juillet 1997, les coopératives agricoles légalement constituées sont autorisées à procéder à la domiciliation de contrats d'importation pour l'acquisition à l'étranger de petits équipements et/ou autres marchandises pour besoin propre, à l'exclusion de toute revente en l'état qui nécessite impérativement la présentation d'un registre de commerce.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Ainsi, par la présente, les banques intermédiaires agréés voudront bien noter que les dispositions de la note sus évoquée, sont dans les limites prévues par cette dernière, étendues au bénéficie des agriculteurs détenteurs d'une carte d'agriculteurs et/ou de membres d'une chambre de l'agriculture.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Directeur du Contrôle des Changes",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "D. SAIDI",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.033
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/NOT-11-98.fr.txt"
+}

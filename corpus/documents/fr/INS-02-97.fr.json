@@ -1,0 +1,287 @@
+{
+  "document_id": "INS-02-97.fr",
+  "work_id": "INS-02-97",
+  "title": "Instruction n°02-97 du 30 mars 1997 relative a l’exportation de devises.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "02-97",
+  "number_source": "en-tête du document",
+  "date": "1997-03-30",
+  "date_raw": "N°02-97 DU 30 MARS 1997",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction0297.pdf",
+      "uploaded": "2023-01-24T14:47:48"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Année 1997",
+  "source_url": "https://www.bank-of-algeria.dz/annee-1997/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction0297.pdf",
+  "format": "pdf",
+  "file_hash": "09e3ff3766b46694a028606a32753885d4097b85272cc25ecd8d6304eaac708f",
+  "file_size": 36934,
+  "raw_path": "raw/09e3ff3766b4__instruction0297.pdf",
+  "retrieved_at": "2026-10-05T13:21:12+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "c4b1581d7d40ab002c83e694b56e8d55e07271daeeeded865136deb1c8471d5c",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-1997/",
+    "https://www.bank-of-algeria.dz/devisesinstruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Microsoft Word - instruction0297",
+    "author": "chahra.yahiaoui",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "creationDate": "D:20210304104624+01'00'",
+    "modDate": "D:20210304104624+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 1401,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 4,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "meme_texte_plusieurs_fichiers"
+  ],
+  "title_document": "INSTRUCTION N°02-97 DU 30 MARS 1997 RELATIVE A L'EXPORTATION DE DEVISES",
+  "alias_urls": [],
+  "text_hash": "6a65113ca4f14273527cd071e5a4d918c97e24ea10dc3e97c9b4c1c23e06619e",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-02-97.fr~2"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°02-97 DU 30 MARS 1997\nRELATIVE A L'EXPORTATION DE DEVISES",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°02-97 DU 30 MARS 1997",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "RELATIVE A L'EXPORTATION DE DEVISES",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Aux termes de l'article 20 du règlement n°95-07 du 23 décembre 1995 modifiant et complétant le règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes, tout voyageur résident ou non résident sortant du territoire national est autorisé à exporter des billets de banque étrangers ou des chèques de voyage dans les conditions fixées ci-après.",
+      "paragraphs": [
+        {
+          "text": "Aux termes de l'article 20 du règlement n°95-07 du 23 décembre 1995 modifiant et complétant le règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes, tout voyageur résident ou non résident sortant du territoire national est autorisé à exporter des billets de banque étrangers ou des chèques de voyage dans les conditions fixées ci-après.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L'exportation de devises sous forme de billets de banque est autorisée, selon le cas, à concurrence :\n- du montant déclaré par le voyageur, non-résident, au moment de son entrée sur le territoire national, diminué des sommes régulièrement cédées aux intermédiaires agréés ;\n- du montant maximum de 50.000 (cinquante mille) Francs Français ou équivalent dans une autre monnaie étrangère librement convertible, prélevé d'un compte devises pour tout détenteur d'un compte devises et par voyage ;\n- du montant couvert par une autorisation de change délivrée au profit du voyageur par la Banque d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "L'exportation de devises sous forme de billets de banque est autorisée, selon le cas, à concurrence :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- du montant déclaré par le voyageur, non-résident, au moment de son entrée sur le territoire national, diminué des sommes régulièrement cédées aux intermédiaires agréés ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- du montant maximum de 50.000 (cinquante mille) Francs Français ou équivalent dans une autre monnaie étrangère librement convertible, prélevé d'un compte devises pour tout détenteur d'un compte devises et par voyage ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- du montant couvert par une autorisation de change délivrée au profit du voyageur par la Banque d'Algérie.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les autres moyens de paiement visés par l'article 18 du règlement n°95-07 du 22 mars 1995 suscité, et notamment les chèques de voyage, sont à la libre disposition du titulaire.",
+      "paragraphs": [
+        {
+          "text": "Les autres moyens de paiement visés par l'article 18 du règlement n°95-07 du 22 mars 1995 suscité, et notamment les chèques de voyage, sont à la libre disposition du titulaire.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction est applicable à compter du 1er Avril 1997.\nLe Gouverneur\nAbdelouahab KERAMANE\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "La présente instruction est applicable à compter du 1er Avril 1997.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "meme_texte_plusieurs_fichiers"
+    ],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.037
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-02-97.fr.txt"
+}

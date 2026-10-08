@@ -1,0 +1,663 @@
+{
+  "document_id": "INS-03-91-19910421.fr",
+  "work_id": "INS-03-91-19910421",
+  "title": "Instruction n°03-91 du 21 avril 1991 relative aux conditions et règles de financement des opérations d’importation.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "03-91",
+  "number_source": "en-tête du document",
+  "date": "1991-04-21",
+  "date_raw": "N°03-91 DU 21 AVRIL 1991",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Règlementation des changes",
+  "source_url": "https://www.bank-of-algeria.dz/importations-exportations-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction0391.pdf",
+  "format": "pdf",
+  "file_hash": "a169c01b5f8bd5fb85f27bc13b39c723015deb03a8e239c4bd41f5aa7179096a",
+  "file_size": 66400,
+  "raw_path": "raw/a169c01b5f8b__instruction0391.pdf",
+  "retrieved_at": "2026-10-05T13:21:19+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 3,
+  "url_hash": "889a19b683200cda94b3dc5c7db22bd654e31cd1a7761e5b47173ea15f7515ca",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/devisesinstruction/",
+    "https://www.bank-of-algeria.dz/importations-exportations-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document2",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200802131629+01'00'",
+    "modDate": "D:20200802131629+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 3,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 3114,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 3045,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 3049,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 11,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°03-91 DU 21 AVRIL 1991 RELATIVE AUX CONDITIONS ET REGLES DE FINANCEMENT DES OPERATIONS D’IMPORTATION La présente instruction a pour objet de préciser les conditions et règles de financement des opérations d’importation dans le cadre du libre accès au commerce extérieur par les opérateurs algériens publics et privés.",
+  "alias_urls": [],
+  "text_hash": "2af83a455c88c20419dcbd4ce667afa8eeb227831005d323ffde812beafd20c0",
+  "relations_out": [
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "90-04",
+        "date": null,
+        "raw": "règlement n°90-04"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "amment celles relatives aux budgets devises et aux plans de financement, ainsi que les articles 2, 5, 6, 7, 10 et 11 du règlement n°90-04, sont abrogés."
+      },
+      "target_work_id": "REG-90-04"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "REG-90-04",
+      "reference": "règlement n°90-04",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "amment celles relatives aux budgets devises et aux plans de financement, ainsi que les articles 2, 5, 6, 7, 10 et 11 du règlement n°90-04, sont abrogés."
+      }
+    }
+  ],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [
+    {
+      "work_id": "INS-58-92",
+      "document_id": "INS-58-92.fr",
+      "date": "1992-10-27",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "objet de modifier et compléter certaines conditions et règles de financement des opérations d'importation fixées par l'Instruction n°03-91 du 21 Avril 1991."
+      }
+    }
+  ],
+  "complete_par": [
+    {
+      "work_id": "INS-58-92",
+      "document_id": "INS-58-92.fr",
+      "date": "1992-10-27",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "objet de modifier et compléter certaines conditions et règles de financement des opérations d'importation fixées par l'Instruction n°03-91 du 21 Avril 1991."
+      }
+    }
+  ],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée. Ce texte a été modifié/complété : consulter aussi les textes listés dans modifié_par / complété_par.",
+  "same_work_documents": [],
+  "complété_par": [
+    {
+      "work_id": "INS-58-92",
+      "document_id": "INS-58-92.fr",
+      "date": "1992-10-27",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "objet de modifier et compléter certaines conditions et règles de financement des opérations d'importation fixées par l'Instruction n°03-91 du 21 Avril 1991."
+      }
+    }
+  ],
+  "modifié_par": [
+    {
+      "work_id": "INS-58-92",
+      "document_id": "INS-58-92.fr",
+      "date": "1992-10-27",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "objet de modifier et compléter certaines conditions et règles de financement des opérations d'importation fixées par l'Instruction n°03-91 du 21 Avril 1991."
+      }
+    }
+  ],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°03-91 DU 21 AVRIL 1991 RELATIVE\nAUX CONDITIONS ET REGLES DE FINANCEMENT\nDES OPERATIONS D’IMPORTATION\nLa présente instruction a pour objet de préciser les conditions et règles de financement des opérations d’importation dans le cadre du libre accès au commerce extérieur par les opérateurs algériens publics et privés.",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°03-91 DU 21 AVRIL 1991 RELATIVE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AUX CONDITIONS ET REGLES DE FINANCEMENT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DES OPERATIONS D’IMPORTATION",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La présente instruction a pour objet de préciser les conditions et règles de financement des opérations d’importation dans le cadre du libre accès au commerce extérieur par les opérateurs algériens publics et privés.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "A compter du 1er avril 1991, toute personne physique ou morale, régulièrement immatriculée au registre de commerce peut, sans aucun accord ni autorisation préalable, procéder par l’intermédiaire exclusif d’une banque intermédiaire agréé, à l’importation de toutes marchandises qui ne font pas l’objet de prohibition ou de restriction conformément à la législation et à la réglementation en vigueur.\nLes importations ainsi libérées sont soumises à une domiciliation préalable auprès d’une banque intermédiaire agréé, sur la base d’un contrat commercial et/ou d’une facture proforma, conformément à l’article 8 ci-après.\nEn fonction de son appréciation de la surface financière de l’importateur, la banque domiciliataire peut exiger de ce dernier qu’une provision totale ou partielle en dinars soit constituée préalablement à l’engagement d’importation.\nLes importations de services ne sont pas concernées par les dispositions de la présente instruction et demeurent par conséquent régies par les textes réglementaires en cours de validité.",
+      "paragraphs": [
+        {
+          "text": "A compter du 1er avril 1991, toute personne physique ou morale, régulièrement immatriculée au registre de commerce peut, sans aucun accord ni autorisation préalable, procéder par l’intermédiaire exclusif d’une banque intermédiaire agréé, à l’importation de toutes marchandises qui ne font pas l’objet de prohibition ou de restriction conformément à la législation et à la réglementation en vigueur.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les importations ainsi libérées sont soumises à une domiciliation préalable auprès d’une banque intermédiaire agréé, sur la base d’un contrat commercial et/ou d’une facture proforma, conformément à l’article 8 ci-après.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "En fonction de son appréciation de la surface financière de l’importateur, la banque domiciliataire peut exiger de ce dernier qu’une provision totale ou partielle en dinars soit constituée préalablement à l’engagement d’importation.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les importations de services ne sont pas concernées par les dispositions de la présente instruction et demeurent par conséquent régies par les textes réglementaires en cours de validité.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les concessionnaires et grossistes agréés par le Conseil de la Monnaie et du\nCrédit sont admis, en tant qu’entreprises de droit algérien, aux règles d’importation et de financement édictées par la présente instruction.\nLes articles 2, 5, 6, 10 et 11 du règlement n°90-04 sont par conséquent abrogés.",
+      "paragraphs": [
+        {
+          "text": "Les concessionnaires et grossistes agréés par le Conseil de la Monnaie et du",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Crédit sont admis, en tant qu’entreprises de droit algérien, aux règles d’importation et de financement édictées par la présente instruction.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les articles 2, 5, 6, 10 et 11 du règlement n°90-04 sont par conséquent abrogés.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le paiement des importations s’opère exclusivement par l’intermédiaire de la banque intermédiaire agréé domiciliataire de l’opération, qui transférera les devises nécessaires au paiement au moment de l’exigibilité. La banque prélève sur le compte de l’importateur les dinars algériens correspondant à la contre-valeur des devises transférées.\nLe cours de change de la devise de paiement à appliquer à l’importateur sera le cours officiel des devises (cours vente) quotidiennement coté par la Banque d’Algérie.",
+      "paragraphs": [
+        {
+          "text": "Le paiement des importations s’opère exclusivement par l’intermédiaire de la banque intermédiaire agréé domiciliataire de l’opération, qui transférera les devises nécessaires au paiement au moment de l’exigibilité. La banque prélève sur le compte de l’importateur les dinars algériens correspondant à la contre-valeur des devises transférées.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le cours de change de la devise de paiement à appliquer à l’importateur sera le cours officiel des devises (cours vente) quotidiennement coté par la Banque d’Algérie.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Nonobstant, l’article 3 ci-dessus, il est laissé aux importateurs qui disposent de ressources en devises logés dans des comptes auprès des banques intermédiaires agréés, la possibilité de procéder au paiement de leurs importations par prélèvement sur leurs comptes devises précités.\nLes opérations réalisées par le débit des comptes devises ne sont pas soumises aux conditions de financement fixées dans les articles 5, 6 et 7 ci-après. Aussi, les transferts pour paiement au comptant sont exécutés par les banques sur instruction des importateurs titulaires des dits comptes sans nécessiter aucun examen ou accord préalable du sous-comité des emprunts extérieurs.\nPar contre, les importations payées sur comptes devises demeurent, au même titre que les importations couvertes en dinars, soumises à l’obligation de la domiciliation préalable.",
+      "paragraphs": [
+        {
+          "text": "Nonobstant, l’article 3 ci-dessus, il est laissé aux importateurs qui disposent de ressources en devises logés dans des comptes auprès des banques intermédiaires agréés, la possibilité de procéder au paiement de leurs importations par prélèvement sur leurs comptes devises précités.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les opérations réalisées par le débit des comptes devises ne sont pas soumises aux conditions de financement fixées dans les articles 5, 6 et 7 ci-après. Aussi, les transferts pour paiement au comptant sont exécutés par les banques sur instruction des importateurs titulaires des dits comptes sans nécessiter aucun examen ou accord préalable du sous-comité des emprunts extérieurs.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Par contre, les importations payées sur comptes devises demeurent, au même titre que les importations couvertes en dinars, soumises à l’obligation de la domiciliation préalable.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les importateurs devront s’astreindre, en accord avec la banque domiciliataire, à trouver et mobiliser les financements extérieurs adaptés à la nature et au volume des biens à importer, selon la ligne indicative précisée aux articles 6 et 7 ci-après.\nLes financements sont arrangés et montés par l’intermédiaire des banques intermédiaires agréés.",
+      "paragraphs": [
+        {
+          "text": "Les importateurs devront s’astreindre, en accord avec la banque domiciliataire, à trouver et mobiliser les financements extérieurs adaptés à la nature et au volume des biens à importer, selon la ligne indicative précisée aux articles 6 et 7 ci-après.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Les financements sont arrangés et montés par l’intermédiaire des banques intermédiaires agréés.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "6.1 - Dans le souci d’éviter les surcoûts induits par un recours trop fréquent aux crédits extérieurs, pour des montants modiques, il est décidé que sauf cas d’imputation sur des lignes gouvernementales ou multilatérales existantes, et sauf cas particulier sanctionné par une décision du sous-comité des emprunts extérieurs, les importations d’un montant inférieur ou égal à 2 millions de dollars US ne doivent pas faire l’objet d’une recherche de financement spécifique.\n6.2 - De telles opérations, pour être éligibles au financement commercial ou contractuel courant autre que ceux décrits aux points 6.1 et 6.3 (C.A.D. crédits fournisseurs ou crédits financiers) doivent autant que faire se peut, faire l’objet d’un regroupement ou groupage de commandes de sorte que le montant servant d’assiette au crédit soit supérieur au montant plancher précité.\n6.3 - Ces dispositions ne s’appliquent pas aux importations de biens d’équipements d’une valeur inférieure ou égale à 2 millions de dollars US et bénéficiant des crédits officiels à l’exportation des pays fournisseurs.\n6.4 - La solvabilité des importateurs opérant dans le cadre de cette instruction est, avec la compétence technique en matière de commerce, la principale condition d’exercice tant pour compte propre que pour l’approvisionnement du marché. Aussi les banques sont tenues de s’assurer que la situation financière ou la forme et le niveau d’activité des importateurs sont suffisantes ou adéquates pour leur permettre de couvrir ou de garantir les engagements de ces derniers. Par conséquent et conformément à l’article 1, les banques peuvent exiger, selon leur appréciation propre du risque, que des provisions partielles ou totales soient constituées en dinars préalablement à l’engagement d’opérations d’importation.\nAucun importateur ne peut se prévaloir, par conséquent, de la liberté d’accès au commerce extérieur d’importation, pour exiger ou prétendre obtenir indûment de la part d’une ou plusieurs banques un financement ou une couverture ou une garantie de solvabilité ou de bonne fin.",
+      "paragraphs": [
+        {
+          "text": "6.1 - Dans le souci d’éviter les surcoûts induits par un recours trop fréquent aux crédits extérieurs, pour des montants modiques, il est décidé que sauf cas d’imputation sur des lignes gouvernementales ou multilatérales existantes, et sauf cas particulier sanctionné par une décision du sous-comité des emprunts extérieurs, les importations d’un montant inférieur ou égal à 2 millions de dollars US ne doivent pas faire l’objet d’une recherche de financement spécifique.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "6.2 - De telles opérations, pour être éligibles au financement commercial ou contractuel courant autre que ceux décrits aux points 6.1 et 6.3 (C.A.D. crédits fournisseurs ou crédits financiers) doivent autant que faire se peut, faire l’objet d’un regroupement ou groupage de commandes de sorte que le montant servant d’assiette au crédit soit supérieur au montant plancher précité.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "6.3 - Ces dispositions ne s’appliquent pas aux importations de biens d’équipements d’une valeur inférieure ou égale à 2 millions de dollars US et bénéficiant des crédits officiels à l’exportation des pays fournisseurs.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "6.4 - La solvabilité des importateurs opérant dans le cadre de cette instruction est, avec la compétence technique en matière de commerce, la principale condition d’exercice tant pour compte propre que pour l’approvisionnement du marché. Aussi les banques sont tenues de s’assurer que la situation financière ou la forme et le niveau d’activité des importateurs sont suffisantes ou adéquates pour leur permettre de couvrir ou de garantir les engagements de ces derniers. Par conséquent et conformément à l’article 1, les banques peuvent exiger, selon leur appréciation propre du risque, que des provisions partielles ou totales soient constituées en dinars préalablement à l’engagement d’opérations d’importation.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Aucun importateur ne peut se prévaloir, par conséquent, de la liberté d’accès au commerce extérieur d’importation, pour exiger ou prétendre obtenir indûment de la part d’une ou plusieurs banques un financement ou une couverture ou une garantie de solvabilité ou de bonne fin.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 3,
+      "text": "7.1 - Les importations (biens courants, biens alimentaires et industriels de consommation, matières premières et semi produits, biens d’équipement) seront financées obligatoirement, et en priorité par imputation sur les lignes de crédits gouvernementales et multilatérales.\n7.2 - Au cas où une telle imputation s’avérerait impossible pour cause d’inéligibilité du produit concerné ou pour manque de disponibilité sur la ligne de crédit sollicitée, les crédits les plus appropriés seront mis en place par les banques et seront assortis des durées suivantes :\n- supérieure à 18 mois pour les biens industriels de consommation, les matières premières et les semi-produits,\n- supérieure à trois ans pour les matériels et biens d’équipement.\nLes banques intermédiaires agréés s’attacheront, dans toute la mesure du possible, à en améliorer les termes.\nLes importations qui ne seront pas couvertes par un financement seront, dans la limite du montant planché fixé au point 6.1 ci-dessus, soumises aux conditions du règlement n°90-07 relatives à l’application d’une commission bancaire et aux textes subséquents.\nEn ce qui concerne les biens de consommation courante non éligibles de par leur nature à un financement classique, les banques et leurs clients importateurs doivent en tout état de cause rechercher et négocier des différés de paiement commerciaux à court terme.\n7.3 - Toute opération d’importation présentant des caractéristiques de financement différentes de celles fixées par la présente instruction doit faire l’objet de présentation au sous-comité des emprunts extérieurs pour examen et sanction, à l’exclusion des opérations imputées sur comptes devises.",
+      "paragraphs": [
+        {
+          "text": "7.1 - Les importations (biens courants, biens alimentaires et industriels de consommation, matières premières et semi produits, biens d’équipement) seront financées obligatoirement, et en priorité par imputation sur les lignes de crédits gouvernementales et multilatérales.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "7.2 - Au cas où une telle imputation s’avérerait impossible pour cause d’inéligibilité du produit concerné ou pour manque de disponibilité sur la ligne de crédit sollicitée, les crédits les plus appropriés seront mis en place par les banques et seront assortis des durées suivantes :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- supérieure à 18 mois pour les biens industriels de consommation, les matières premières et les semi-produits,",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- supérieure à trois ans pour les matériels et biens d’équipement.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Les banques intermédiaires agréés s’attacheront, dans toute la mesure du possible, à en améliorer les termes.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Les importations qui ne seront pas couvertes par un financement seront, dans la limite du montant planché fixé au point 6.1 ci-dessus, soumises aux conditions du règlement n°90-07 relatives à l’application d’une commission bancaire et aux textes subséquents.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "En ce qui concerne les biens de consommation courante non éligibles de par leur nature à un financement classique, les banques et leurs clients importateurs doivent en tout état de cause rechercher et négocier des différés de paiement commerciaux à court terme.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "7.3 - Toute opération d’importation présentant des caractéristiques de financement différentes de celles fixées par la présente instruction doit faire l’objet de présentation au sous-comité des emprunts extérieurs pour examen et sanction, à l’exclusion des opérations imputées sur comptes devises.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "A compter de la date d’entrée en vigueur de la présente instruction, toute les importations doivent répondre aux conditions de transfert pour paiement indiquées aux articles 3 et 4 ci-dessus, à l’exclusion de toute autre forme de paiement.\nEn conséquent, la domiciliation bancaire préalable est obligatoire. Elle servira aux formalités de dédouanement pour toute importation, à l’exception des importations sous-régime douanier suspensif, des échantillons et dons, des colis postaux et des importations en contre remboursement éventuellement, des marchandises reçues dans le cadre de la garantie, des importations soumises à taxation forfaitaire, des importations d’une valeur inférieure à 30.000 (trente mille dinars).\nConcernant les importations en cours et réalisées sans domiciliation, la Direction\nGénérale des Douanes est seule habilitée à fixer la période transitoire pouvant permettre aux achats déjà effectués ou engagés, d’être admis à l’importation et à la mise à la consommation en Algérie.",
+      "paragraphs": [
+        {
+          "text": "A compter de la date d’entrée en vigueur de la présente instruction, toute les importations doivent répondre aux conditions de transfert pour paiement indiquées aux articles 3 et 4 ci-dessus, à l’exclusion de toute autre forme de paiement.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "En conséquent, la domiciliation bancaire préalable est obligatoire. Elle servira aux formalités de dédouanement pour toute importation, à l’exception des importations sous-régime douanier suspensif, des échantillons et dons, des colis postaux et des importations en contre remboursement éventuellement, des marchandises reçues dans le cadre de la garantie, des importations soumises à taxation forfaitaire, des importations d’une valeur inférieure à 30.000 (trente mille dinars).",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Concernant les importations en cours et réalisées sans domiciliation, la Direction",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Générale des Douanes est seule habilitée à fixer la période transitoire pouvant permettre aux achats déjà effectués ou engagés, d’être admis à l’importation et à la mise à la consommation en Algérie.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Les importations d’or et de métaux précieux ainsi que de pierres précieuses ne bénéficient pas des dispositions de l’article 3 ci-dessus.\nLes importateurs de ces matières, à l’exception de la Banque d’Algérie, et l’AGENOR agissant pour le compte direct et exclusif de l’Etat, doivent payer leurs importations par prélèvements sur leurs comptes devises ouverts auprès des banques algériennes.",
+      "paragraphs": [
+        {
+          "text": "Les importations d’or et de métaux précieux ainsi que de pierres précieuses ne bénéficient pas des dispositions de l’article 3 ci-dessus.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Les importateurs de ces matières, à l’exception de la Banque d’Algérie, et l’AGENOR agissant pour le compte direct et exclusif de l’Etat, doivent payer leurs importations par prélèvements sur leurs comptes devises ouverts auprès des banques algériennes.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Toutes les instructions et dispositions précédentes en matière d’autorisation préalable d’importation et de contrôle de change à priori relatifs aux opérations de commerce extérieur, notamment celles relatives aux budgets devises et aux plans de financement, ainsi que les articles 2, 5, 6, 7, 10 et 11 du règlement n°90-04, sont abrogés.",
+      "paragraphs": [
+        {
+          "text": "Toutes les instructions et dispositions précédentes en matière d’autorisation préalable d’importation et de contrôle de change à priori relatifs aux opérations de commerce extérieur, notamment celles relatives aux budgets devises et aux plans de financement, ainsi que les articles 2, 5, 6, 7, 10 et 11 du règlement n°90-04, sont abrogés.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "La présente instruction est applicable à compter du 1er avril 1991.\nLe Gouverneur\nAbderrahmane Roustoumi HADJ NACER",
+      "paragraphs": [
+        {
+          "text": "La présente instruction est applicable à compter du 1er avril 1991.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Abderrahmane Roustoumi HADJ NACER",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.032
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-03-91-19910421.fr.txt"
+}

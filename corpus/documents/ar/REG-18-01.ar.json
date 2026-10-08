@@ -1,0 +1,690 @@
+{
+  "document_id": "REG-18-01.ar",
+  "work_id": "REG-18-01",
+  "title": "النظام رقم 18-01 المؤرخ في 30 ابريل 2018، يعدل ويتمم النظام رقم 04-03 المؤرخ في 4 مارس 2004 والمتعلق بنظام ضمان الودائع المصرفية",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "18-01",
+  "number_source": "libelle",
+  "date": "2018-04-30",
+  "date_raw": "المؤرخ في 30 ابريل 2018",
+  "date_source": "libelle",
+  "publication_date": "2023-02-28",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "règlements",
+  "subcategory": "الاستقرار المالي",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d9%82%d8%b1%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/02/الاستقرار-المالي-01-2018.pdf",
+  "format": "pdf",
+  "file_hash": "d2bb9f4ae345dc9482d309ea53e5a816962b05b64d259ab0f803342b89e04a20",
+  "file_size": 1038940,
+  "raw_path": "raw/d2bb9f4ae345__الاستقرار-المالي-01-2018.pdf",
+  "retrieved_at": "2026-10-05T13:29:10+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 2,
+  "url_hash": "d915dcd34116a01b45d9c1157fc4fc97351351f6f9a1dceafa63c289c7cf2c02",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d9%82%d8%b1%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - reglements2018arabe",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20230227091429+01'00'",
+    "modDate": "D:20230227091429+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 1686,
+        "ocr_confidence": 83.88926174496645
+      },
+      {
+        "page": 2,
+        "method": "ocr",
+        "chars": 2421,
+        "ocr_confidence": 79.03636363636363
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 8,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_uncertain_numbers:1",
+    "ocr_utilise_verification_humaine",
+    "numerotation:articles_manquants:[2]"
+  ],
+  "title_document": "نظام رقم 01-18 مؤْرَخ في 14 شعبان عام 1439 الموافق 30 أبريل Lu‏ 42018 يعدل ويتمم النظام رقم 03-4 المؤرّخ في 12 مسحرّم عام 1425 الموافق 4 مار س سنة 2004 والمتعلق بنظام ضمان الودائع - بمقتضى الأمر رقم 59-75 المؤرّخ في 20 رمضان عام 5 الموافق 26 سيتمير سنة 1975 والمتضقن القانون التّجاري: المعدّل والمتمّم, - وبمقتضى الأمر رقم 11-03 المؤرّخ في 27 جمادى",
+  "alias_urls": [],
+  "text_hash": "e6e02102ae290b8c0ff001d95f393f7cccd2a5d847cd97ae0b19f14dfb8be8d0",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "2004-03",
+        "date": "2004-03-04",
+        "raw": "règlement n°2004-03 du 4 mars 2004"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2018-01 du 30 avril 2018 modifiant et complétant le règlement n°2004-03 du 4 mars 2004 relatif au système de garantie des dépô",
+        "copied_from": "REG-18-01.fr"
+      },
+      "target_work_id": "REG-04-03"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "2004-03",
+        "date": "2004-03-04",
+        "raw": "règlement n°2004-03 du 4 mars 2004"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2018-01 du 30 avril 2018 modifiant et complétant le règlement n°2004-03 du 4 mars 2004 relatif au système de garantie des dépô",
+        "copied_from": "REG-18-01.fr"
+      },
+      "target_work_id": "REG-04-03"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "04-03",
+        "date": "2004-03-04",
+        "raw": "Règlement n°04-03 du 4 mars 2004"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le Règlement n°04-03 du 4 mars 2004 relatif au système de garantie des dépô",
+        "copied_from": "REG-18-01.fr"
+      },
+      "target_work_id": "REG-04-03"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "04-03",
+        "date": "2004-03-04",
+        "raw": "Règlement n°04-03 du 4 mars 2004"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le Règlement n°04-03 du 4 mars 2004 relatif au système de garantie des dépô",
+        "copied_from": "REG-18-01.fr"
+      },
+      "target_work_id": "REG-04-03"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "ORD",
+        "number": "03-11",
+        "date": null,
+        "raw": "Ordonnance n°03-11"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "st modifié et complété comme suit : « Article 6 : Le fonds de garantie des dépôts bancaires, prévu à l’article 118 de l’Ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondan",
+        "copied_from": "REG-18-01.fr"
+      },
+      "target_work_id": "ORD-03-11"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "ORD",
+        "number": "03-11",
+        "date": null,
+        "raw": "Ordonnance n°03-11"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "st modifié et complété comme suit : « Article 6 : Le fonds de garantie des dépôts bancaires, prévu à l’article 118 de l’Ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondan",
+        "copied_from": "REG-18-01.fr"
+      },
+      "target_work_id": "ORD-03-11"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "REG-04-03",
+      "reference": "règlement n°2004-03 du 4 mars 2004",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2018-01 du 30 avril 2018 modifiant et complétant le règlement n°2004-03 du 4 mars 2004 relatif au système de garantie des dépô",
+        "copied_from": "REG-18-01.fr"
+      }
+    },
+    {
+      "work_id": "REG-04-03",
+      "reference": "Règlement n°04-03 du 4 mars 2004",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le Règlement n°04-03 du 4 mars 2004 relatif au système de garantie des dépô",
+        "copied_from": "REG-18-01.fr"
+      }
+    },
+    {
+      "work_id": "ORD-03-11",
+      "reference": "Ordonnance n°03-11",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "st modifié et complété comme suit : « Article 6 : Le fonds de garantie des dépôts bancaires, prévu à l’article 118 de l’Ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondan",
+        "copied_from": "REG-18-01.fr"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "REG-04-03",
+      "reference": "règlement n°2004-03 du 4 mars 2004",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2018-01 du 30 avril 2018 modifiant et complétant le règlement n°2004-03 du 4 mars 2004 relatif au système de garantie des dépô",
+        "copied_from": "REG-18-01.fr"
+      }
+    },
+    {
+      "work_id": "REG-04-03",
+      "reference": "Règlement n°04-03 du 4 mars 2004",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le Règlement n°04-03 du 4 mars 2004 relatif au système de garantie des dépô",
+        "copied_from": "REG-18-01.fr"
+      }
+    },
+    {
+      "work_id": "ORD-03-11",
+      "reference": "Ordonnance n°03-11",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "st modifié et complété comme suit : « Article 6 : Le fonds de garantie des dépôts bancaires, prévu à l’article 118 de l’Ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondan",
+        "copied_from": "REG-18-01.fr"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-18-01.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "REG-04-03",
+      "reference": "règlement n°2004-03 du 4 mars 2004",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2018-01 du 30 avril 2018 modifiant et complétant le règlement n°2004-03 du 4 mars 2004 relatif au système de garantie des dépô",
+        "copied_from": "REG-18-01.fr"
+      }
+    },
+    {
+      "work_id": "REG-04-03",
+      "reference": "Règlement n°04-03 du 4 mars 2004",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le Règlement n°04-03 du 4 mars 2004 relatif au système de garantie des dépô",
+        "copied_from": "REG-18-01.fr"
+      }
+    },
+    {
+      "work_id": "ORD-03-11",
+      "reference": "Ordonnance n°03-11",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "st modifié et complété comme suit : « Article 6 : Le fonds de garantie des dépôts bancaires, prévu à l’article 118 de l’Ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondan",
+        "copied_from": "REG-18-01.fr"
+      }
+    }
+  ],
+  "ocr_numeric_check": {
+    "units": 9,
+    "units_flagged": 1,
+    "units_compared_with_french": 8,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "نظام رقم 01-18 مؤْرَخ في 14 شعبان عام 1439 الموافق 30 أبريل Lu‏ 42018 يعدل ويتمم النظام رقم 03-4 المؤرّخ في 12 مسحرّم عام 1425 الموافق 4 مار س سنة 2004 والمتعلق بنظام ضمان الودائع\n- بمقتضى الأمر رقم 59-75 المؤرّخ في 20 رمضان عام 5 الموافق 26 سيتمير سنة 1975 والمتضقن القانون التّجاري: المعدّل والمتمّم,\n- وبمقتضى الأمر رقم 11-03 المؤرّخ في 27 جمادى الثانية عام 1424 الموافق 26 غشت سنة 2003 والمتعلق بالتقد والقرضء المعدل والمتمم: لا سيّما pall‏ ]3 62 و64 و66 و68 و70 و85 و95 و114 و115و118 dis‏ عام 1424 الموافق 14 يناير سنة 2004 والمتضمن تعيين\n- وبمقتضى المرسوم الرئاسي المؤرّخ في 5 جمادى\n— وبمقتضى المرسوم الرئاسي المؤرّخ في 5 صفر عام أعضاء في مجلس إدارة بنك الجزائر:\n- وبمقتضى المرسوم الرئاسي المؤوخ في 17 صفر عام 1438 الموافق 17 نوفمبر سنة 2016 والمتضمن تعيين عام 1425 الموافق 4 مارس سنة 2004 والمتعلق بنظام\n- وبمقتضى النظام رقم 04-11 المؤرّخ فى 21 جمادى الثانية عام 1432 الموافق 24 مايو سنة 2011 والمتضمن تعريف وقياس وتسيير ورقابة خطر السيولة:\n- وبمقتضى النظام رقم 08-11 المؤّرّخ في 3 محرم عام 3 الموافق 28 نوفمير din‏ 2011 والمتعلق بالرقابة\n- وبعد الاطلاع على مداولة مجلس النقد والقرض بتاربخ 0 أبريل سنة 2018,",
+      "paragraphs": [
+        {
+          "text": "نظام رقم 01-18 مؤْرَخ في 14 شعبان عام 1439 الموافق 30 أبريل Lu‏ 42018 يعدل ويتمم النظام رقم 03-4 المؤرّخ في 12 مسحرّم عام 1425 الموافق 4 مار س سنة 2004 والمتعلق بنظام ضمان الودائع",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- بمقتضى الأمر رقم 59-75 المؤرّخ في 20 رمضان عام 5 الموافق 26 سيتمير سنة 1975 والمتضقن القانون التّجاري: المعدّل والمتمّم,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى الأمر رقم 11-03 المؤرّخ في 27 جمادى الثانية عام 1424 الموافق 26 غشت سنة 2003 والمتعلق بالتقد والقرضء المعدل والمتمم: لا سيّما pall‏ ]3 62 و64 و66 و68 و70 و85 و95 و114 و115و118 dis‏ عام 1424 الموافق 14 يناير سنة 2004 والمتضمن تعيين",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى المرسوم الرئاسي المؤرّخ في 5 جمادى",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "— وبمقتضى المرسوم الرئاسي المؤرّخ في 5 صفر عام أعضاء في مجلس إدارة بنك الجزائر:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى المرسوم الرئاسي المؤوخ في 17 صفر عام 1438 الموافق 17 نوفمبر سنة 2016 والمتضمن تعيين عام 1425 الموافق 4 مارس سنة 2004 والمتعلق بنظام",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى النظام رقم 04-11 المؤرّخ فى 21 جمادى الثانية عام 1432 الموافق 24 مايو سنة 2011 والمتضمن تعريف وقياس وتسيير ورقابة خطر السيولة:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى النظام رقم 08-11 المؤّرّخ في 3 محرم عام 3 الموافق 28 نوفمير din‏ 2011 والمتعلق بالرقابة",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبعد الاطلاع على مداولة مجلس النقد والقرض بتاربخ 0 أبريل سنة 2018,",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "يِعدّل هذا النظام ويتقم النظام رقم 03-4 المؤرّخ في 12 محرّم عام 1425 الموافق 4 مارس سنة \"المادة 5 : لا تعتبر ودائع ومبالغ أخرى شبيهة بودائع\n- الودائع المتلقاة من الينوك والمؤسسات المالية الأخرى:\n— الأموال المتكلقاة أو المتروكة فى الحساب من طرف المساهمين الذين يملكون, على الأقل. خمسة à‏ المائة )965( الحسايات, -وداشع الإدارة المركزية والمحلية وصناديق التأمينات للقيم الننقولة.\n- الوذاكع بالعملة السعبة المعاد بيعها لبتك الجواق:\nالممثلة لوسائل الدفع المصدرة من طرف الينوك:\n- الوفاقع الاستثمارية للبتوك المورغص لها يممارسة علد العمقيات, نهائي في حق المودع:\nplus -‏ شركة ضمان الودائع المصرفية\".",
+      "paragraphs": [
+        {
+          "text": "يِعدّل هذا النظام ويتقم النظام رقم 03-4 المؤرّخ في 12 محرّم عام 1425 الموافق 4 مارس سنة \"المادة 5 : لا تعتبر ودائع ومبالغ أخرى شبيهة بودائع",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- الودائع المتلقاة من الينوك والمؤسسات المالية الأخرى:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "— الأموال المتكلقاة أو المتروكة فى الحساب من طرف المساهمين الذين يملكون, على الأقل. خمسة à‏ المائة )965( الحسايات, -وداشع الإدارة المركزية والمحلية وصناديق التأمينات للقيم الننقولة.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- الوذاكع بالعملة السعبة المعاد بيعها لبتك الجواق:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الممثلة لوسائل الدفع المصدرة من طرف الينوك:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- الوفاقع الاستثمارية للبتوك المورغص لها يممارسة علد العمقيات, نهائي في حق المودع:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "plus -‏ شركة ضمان الودائع المصرفية\".",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "تعدل وتتمم المادة 6 من النظام رقم 03-04 المؤوّح في 4 مفارس à‏ 2004 والمزكور ET TS FA‏ كمايأتي :\n\"المائة 6 : يسيكر صندوق ضمان الودائع المصرفيّة, المنصوص عليه في المادّة 118 من الأمر رقم 11-03 المؤدخ فى 27 جمادى الثانية عام 1424 الموافق 26 غشت سنة 2003 المعدل والمتمم والمذكونى أعلاه: من طرف شركة مساهمة تسمى”\"صندوق ضمان الودائع المصرفية - ص. ض. و. م \".\nde as‏ البخوك ان à ss‏ رأسمال شبركة همان الودائ مع المصرفيّة الذي يبوزع بينها بحصص متساوية.\nتسهر البنوك المساهمة على المحافظة على هذه المساواة حتى في حالة تعديل الرأسمال الذي تقرّره قانونا الجمعية العامة للمساهمين وفقا للشروط والكيفيات المنصوص عليها في التشريع المعمول به.\nينجرء بحكم القاثون. عن الشروع فى تصفية بنك 0 عملية تخفيض المودعين. تخفيض رأسمال شركة ن الودائع المصر did‏ بالنسية لحصّة رأسمال البنك eur‏ بالاحراء. وتخول حقوقه في رأسمال الشركة إلى صندوق ضمان الودائع المصرفييّة وتدفع لحساب هذا الأخير\".",
+      "paragraphs": [
+        {
+          "text": "تعدل وتتمم المادة 6 من النظام رقم 03-04 المؤوّح في 4 مفارس à‏ 2004 والمزكور ET TS FA‏ كمايأتي :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "\"المائة 6 : يسيكر صندوق ضمان الودائع المصرفيّة, المنصوص عليه في المادّة 118 من الأمر رقم 11-03 المؤدخ فى 27 جمادى الثانية عام 1424 الموافق 26 غشت سنة 2003 المعدل والمتمم والمذكونى أعلاه: من طرف شركة مساهمة تسمى”\"صندوق ضمان الودائع المصرفية - ص. ض. و. م \".",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "de as‏ البخوك ان à ss‏ رأسمال شبركة همان الودائ مع المصرفيّة الذي يبوزع بينها بحصص متساوية.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "تسهر البنوك المساهمة على المحافظة على هذه المساواة حتى في حالة تعديل الرأسمال الذي تقرّره قانونا الجمعية العامة للمساهمين وفقا للشروط والكيفيات المنصوص عليها في التشريع المعمول به.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "ينجرء بحكم القاثون. عن الشروع فى تصفية بنك 0 عملية تخفيض المودعين. تخفيض رأسمال شركة ن الودائع المصر did‏ بالنسية لحصّة رأسمال البنك eur‏ بالاحراء. وتخول حقوقه في رأسمال الشركة إلى صندوق ضمان الودائع المصرفييّة وتدفع لحساب هذا الأخير\".",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "تعدل وتتمم المادة 7 من النظام رقم 03-04 المؤرّخ في 4 مارس سنة 2004 والمذكور أعلاه.» وتحرر كمايأتي :\n\"المادة 7 : تلزم البنوك بالدفع إلى شركة ضمان الودائع السسوقتة: Blé‏ سنوي تسب على اسلى السياع الإجسالى للودائع بالعملة الوطتكّة: العسكلة بقاريخ 31 نيسعين من يحدّد مجلس الثقد والقرض سنويا واستنادا إلى مؤشرات il à‏ تنسية هذد العلاوة فى حدول وأخن بالمائة )1 ). كما تنص على ذلك الفقرة 2 من المادّة 118 من الأمر رقم 11-03 co‏ في 7 جمادى الثانية عام 1424 الموافق 26 غشت سنة 2003, المعدل والمثمم والمذكور أعلاة.\nيجب أن تسهر شركة ضمان ن الودائع المصرفية:.\nالمكلفة بتسيير الصندوقء, على تحصيل العلاوات المستحقة لصندوق ضمان UE‏ شع المصرفيّة, وعلى إيداعها كما بتعيّن عليها التحقق من توظيف هذه الموارد المتاحة في أصول أمنة. ولا يمكن تحقيق قيق بق هنا التوطيقف !إلا الدولة. وذلك عبر مختصين في قيم الخزينة\"",
+      "paragraphs": [
+        {
+          "text": "تعدل وتتمم المادة 7 من النظام رقم 03-04 المؤرّخ في 4 مارس سنة 2004 والمذكور أعلاه.» وتحرر كمايأتي :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "\"المادة 7 : تلزم البنوك بالدفع إلى شركة ضمان الودائع السسوقتة: Blé‏ سنوي تسب على اسلى السياع الإجسالى للودائع بالعملة الوطتكّة: العسكلة بقاريخ 31 نيسعين من يحدّد مجلس الثقد والقرض سنويا واستنادا إلى مؤشرات il à‏ تنسية هذد العلاوة فى حدول وأخن بالمائة )1 ). كما تنص على ذلك الفقرة 2 من المادّة 118 من الأمر رقم 11-03 co‏ في 7 جمادى الثانية عام 1424 الموافق 26 غشت سنة 2003, المعدل والمثمم والمذكور أعلاة.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "يجب أن تسهر شركة ضمان ن الودائع المصرفية:.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "المكلفة بتسيير الصندوقء, على تحصيل العلاوات المستحقة لصندوق ضمان UE‏ شع المصرفيّة, وعلى إيداعها كما بتعيّن عليها التحقق من توظيف هذه الموارد المتاحة في أصول أمنة. ولا يمكن تحقيق قيق بق هنا التوطيقف !إلا الدولة. وذلك عبر مختصين في قيم الخزينة\"",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "تعدل وتتمم المادة 8 من النظام رقم 03-04 \"المائّة 8 : بحدّد ail‏ الأقصى للتعويض الممنوح لكل مودع يمليو نى دبثار )2000.000 دج).\nيطبق هذا السقف على مجموع ودائع نفس المودعغ لدى طبقا لمفهوم الوديعة الوحيدة المنصوص عليها في الماذة 8 من الأمر رقم 11-03 xl‏ في 27 جمادى الثانية عام ele‏",
+      "paragraphs": [
+        {
+          "text": "تعدل وتتمم المادة 8 من النظام رقم 03-04 \"المائّة 8 : بحدّد ail‏ الأقصى للتعويض الممنوح لكل مودع يمليو نى دبثار )2000.000 دج).",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "يطبق هذا السقف على مجموع ودائع نفس المودعغ لدى طبقا لمفهوم الوديعة الوحيدة المنصوص عليها في الماذة 8 من الأمر رقم 11-03 xl‏ في 27 جمادى الثانية عام ele‏",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "يتمم النظام رقم 03-04 المؤرخ في 4 مار س \"المادة 15 مكرر : تحل شركة ضمان الودائع المصرفية في الحقوق والدعاوى محل المودعين المعوضين: في حدود",
+      "paragraphs": [
+        {
+          "text": "يتمم النظام رقم 03-04 المؤرخ في 4 مار س \"المادة 15 مكرر : تحل شركة ضمان الودائع المصرفية في الحقوق والدعاوى محل المودعين المعوضين: في حدود",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "يتمّم النظام رقم 03-04 المؤرّخ في 4 مار س لهذا \"ob ya‏",
+      "paragraphs": [
+        {
+          "text": "يتمّم النظام رقم 03-04 المؤرّخ في 4 مار س لهذا \"ob ya‏",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "تلغى كل الأحكام المخالفة لهذا النظام.",
+      "paragraphs": [
+        {
+          "text": "تلغى كل الأحكام المخالفة لهذا النظام.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": ": يبنشر هذا النظام في الجريدة dise II‏ للجمهوربّة الجزائريّة الدُيمقراطيّة لحب حرر بالجزائر في 14 شعيان عام 1439 الموافق 30 بوعل 253855 محمد لوكال",
+      "paragraphs": [
+        {
+          "text": ": يبنشر هذا النظام في الجريدة dise II‏ للجمهوربّة الجزائريّة الدُيمقراطيّة لحب حرر بالجزائر في 14 شعيان عام 1439 الموافق 30 بوعل 253855 محمد لوكال",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_uncertain_numbers:1",
+      "ocr_utilise_verification_humaine",
+      "numerotation:articles_manquants:[2]"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.051,
+      "ocr_pages": [
+        1,
+        2
+      ],
+      "ocr_mean_confidence": 81.5
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/REG-18-01.ar.txt"
+}

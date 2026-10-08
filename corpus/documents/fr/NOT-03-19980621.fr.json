@@ -1,0 +1,718 @@
+{
+  "document_id": "NOT-03-19980621.fr",
+  "work_id": "NOT-03-19980621",
+  "title": "Note d’orientation n°03 du 21 juin 1998 relative aux modalités",
+  "document_type": "note",
+  "type_code": "NOT",
+  "type_source": "label",
+  "number": "03",
+  "number_source": "libelle",
+  "date": "1998-06-21",
+  "date_raw": "N°03 DU 21 JUIN 1998",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-05",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "notes_aux_banques",
+  "subcategory": "Année 1998",
+  "source_url": "https://www.bank-of-algeria.dz/les-notes-aux-banques-1998/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/05/noteorientation0398.pdf",
+  "format": "pdf",
+  "file_hash": "dfa5871d0cbfc92062a59eefcfcd24f3f82616be00dee94706a1a209fbb44c3d",
+  "file_size": 77080,
+  "raw_path": "raw/dfa5871d0cbf__noteorientation0398.pdf",
+  "retrieved_at": "2026-10-05T13:24:51+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 3,
+  "url_hash": "f2c219bc4d32582cf69d32a4977949b9385c0fb563e987fa6ea1be012597decd",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/les-notes-aux-banques-1998/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document1",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210228161236+01'00'",
+    "modDate": "D:20210228161236+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 3,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2193,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 696,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 887,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": [
+      {
+        "page": 2,
+        "removed": "1,1/16",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 2,
+        "removed": "11/16",
+        "why": "numéro de page"
+      },
+      {
+        "page": 2,
+        "removed": "1,1/4",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 3,
+        "removed": "1,3/8",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 3,
+        "removed": "1,3/8",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 3,
+        "removed": "1,7/8",
+        "why": "en-tête/pied répété"
+      }
+    ]
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 0,
+    "annex_count": 2
+  },
+  "quality_flags": [],
+  "title_document": "NOTE D'ORIENTATION N°03 DU 21 JUIN 1998 AUX BANQUES ET ETABLISSEMENTS FINANCIERS INTERMEDIAIRES AGREES Direction Générale Des Relations Financières Extérieures Direction des Marchés et Financements Extérieurs Réf. : DGRFE/DMFE/028/97 Objet : Modalités d'application de l'Instruction n°07-98 du 17 août 1997 et de la note DGRFESCT/054 du 17 août 1997",
+  "alias_urls": [],
+  "text_hash": "108779bc840c642ff5369c5c13a503bf4353ef348f865f83afa62a34ffb2c105",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "dead_source_urls": [
+    {
+      "url": "https://www.bank-of-algeria.dz/pdf/nb1998/noteorientation0398.pdf",
+      "status": "MOVED_OFFICIAL",
+      "listed_on": [
+        "https://www.bank-of-algeria.dz/les-notes-aux-banques-1998/"
+      ]
+    }
+  ],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe I",
+      "number": "I",
+      "heading": "A LA NOTE D'ORIENTATION N°03 DU 21 JUIN 1998",
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe II",
+      "number": "II",
+      "heading": "A LA NOTE D'ORIENTATION N°03 DU 21 JUIN 1998",
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "NOTE D'ORIENTATION N°03 DU 21 JUIN 1998 AUX BANQUES\nET ETABLISSEMENTS FINANCIERS INTERMEDIAIRES AGREES\nDirection Générale Des Relations Financières Extérieures\nDirection des Marchés et Financements Extérieurs\nRéf. : DGRFE/DMFE/028/97\nObjet : Modalités d'application de l'Instruction n°07-98 du 17 août 1997 et de la note\nDGRFESCT/054 du 17 août 1997\nAprès une nette amélioration de la position extérieure en 1997, le niveau des réserves a enregistré une relative augmentation au cours des cinq premiers mois de 1998 par rapport à 8,05 milliards de dollars EU à fin 1997.\nPar ailleurs, le rythme d'inflation des prix à la consommation s'est stabilisé au cours de cette période à un niveau légèrement en dessous du rythme annuel (6,1 %) de 1997.\nConjugués, ces deux facteurs renforcent le dinar dont le cours par rapport aux autres monnaies est resté stable au cours des deux dernières années, et créent les conditions favorables pour un rétrécissement du différentiel des taux d'intérêt par rapport à nos partenaires commerciaux.\nL'engouement des opérateurs étrangers pour l'Algérie est un indice précurseur d'apports potentiels de capitaux, notamment, sous la forme de financements diversifiés.\nLa conjoncture actuelle pourrait avoir un impact positif sur l'appréciation du risque « Algérie » déjà perceptible à travers la réouverture et, dans certains cas, l'augmentation des plafonds des lignes de crédit mises en place par les banques et les organismes de garantie étrangers.\nL'amélioration du risque « Algérie » serait d'autant renforcée, si les opérateurs algériens évitent de recourir systématiquement aux crédits à court terme.\nEn annexe, les banques et établissements financiers trouveront, à titre indicatif, les marges applicables aux taux d'intérêts de référence.\nIl est enfin rappelé aux banques et établissements financiers que la Banque d'Algérie attache la plus haute importance au respect scrupuleux de leur obligation à lui transmettre, dans les formes et délais requis, toutes les déclarations statistiques prévues par les annexes de la note d'orientation n°2 du 25 Janvier 1998.\nK. AIB\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "NOTE D'ORIENTATION N°03 DU 21 JUIN 1998 AUX BANQUES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET ETABLISSEMENTS FINANCIERS INTERMEDIAIRES AGREES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Direction Générale Des Relations Financières Extérieures",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Direction des Marchés et Financements Extérieurs",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Réf. : DGRFE/DMFE/028/97",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Objet : Modalités d'application de l'Instruction n°07-98 du 17 août 1997 et de la note",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DGRFESCT/054 du 17 août 1997",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Après une nette amélioration de la position extérieure en 1997, le niveau des réserves a enregistré une relative augmentation au cours des cinq premiers mois de 1998 par rapport à 8,05 milliards de dollars EU à fin 1997.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Par ailleurs, le rythme d'inflation des prix à la consommation s'est stabilisé au cours de cette période à un niveau légèrement en dessous du rythme annuel (6,1 %) de 1997.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Conjugués, ces deux facteurs renforcent le dinar dont le cours par rapport aux autres monnaies est resté stable au cours des deux dernières années, et créent les conditions favorables pour un rétrécissement du différentiel des taux d'intérêt par rapport à nos partenaires commerciaux.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L'engouement des opérateurs étrangers pour l'Algérie est un indice précurseur d'apports potentiels de capitaux, notamment, sous la forme de financements diversifiés.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La conjoncture actuelle pourrait avoir un impact positif sur l'appréciation du risque « Algérie » déjà perceptible à travers la réouverture et, dans certains cas, l'augmentation des plafonds des lignes de crédit mises en place par les banques et les organismes de garantie étrangers.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L'amélioration du risque « Algérie » serait d'autant renforcée, si les opérateurs algériens évitent de recourir systématiquement aux crédits à court terme.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "En annexe, les banques et établissements financiers trouveront, à titre indicatif, les marges applicables aux taux d'intérêts de référence.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Il est enfin rappelé aux banques et établissements financiers que la Banque d'Algérie attache la plus haute importance au respect scrupuleux de leur obligation à lui transmettre, dans les formes et délais requis, toutes les déclarations statistiques prévues par les annexes de la note d'orientation n°2 du 25 Janvier 1998.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "K. AIB",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe I",
+      "number": "I",
+      "heading": "A LA NOTE D'ORIENTATION N°03 DU 21 JUIN 1998",
+      "context": {},
+      "annexe": {
+        "number": "I",
+        "heading": "A LA NOTE D'ORIENTATION N°03 DU 21 JUIN 1998",
+        "label": "Annexe I"
+      },
+      "page_start": 2,
+      "page_end": 2,
+      "text": "BANQUE D’ALGERIE DGRFE/DMFE\nMARGES APPLICABLES AUX TAUX D’INTERET FIXES DE REFERENCE\nEn %\nType de crédit\nDeux ans\nTrois ans\nQuatre ans\nCinq à sept ans\nSept ans et plus\n< 1moi* >1mio < 1moi >1mio < 1moi >1mio < 1moi >1mio < 1moi >1mio\nCrédits bancaires\nGarantis\nNon Garantis\n1/6\n4/16\n2/16\n6/16\n1/16\n5/16\n3/16\n7/16\n1/16\n6/16\n4/16\n8/16\n4/16\n1\n6/16\n1,1/16\n9/16\n(*) 1 million US.",
+      "paragraphs": [
+        {
+          "text": "BANQUE D’ALGERIE DGRFE/DMFE",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "MARGES APPLICABLES AUX TAUX D’INTERET FIXES DE REFERENCE",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "En %",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Type de crédit",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Deux ans",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Trois ans",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Quatre ans",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Cinq à sept ans",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Sept ans et plus",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "< 1moi* >1mio < 1moi >1mio < 1moi >1mio < 1moi >1mio < 1moi >1mio",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Crédits bancaires",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Garantis",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Non Garantis",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "1/6",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "4/16",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "2/16",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "6/16",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "1/16",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "5/16",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "3/16",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "7/16",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "1/16",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "6/16",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "4/16",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "8/16",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "4/16",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "1",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "6/16",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "1,1/16",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "9/16",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "(*) 1 million US.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe II",
+      "number": "II",
+      "heading": "A LA NOTE D'ORIENTATION N°03 DU 21 JUIN 1998",
+      "context": {},
+      "annexe": {
+        "number": "II",
+        "heading": "A LA NOTE D'ORIENTATION N°03 DU 21 JUIN 1998",
+        "label": "Annexe II"
+      },
+      "page_start": 3,
+      "page_end": 3,
+      "text": "BANQUE D’ALGERIE DGRFE/DMFE\nMARGES APPLICABLES AUX TAUX D’INTERET VARIABLES DE REFERENCE\nEn %\nType de crédit\n3 à 6 mois 6 à 12 mois 12 à 24 mois 2 à 3 ans 3 à 5 ans\nPlus de 5 ans < 1moi* >1mio < 1moi >1mio < 1moi >1mio < 1moi >1mio < 1moi >1mio < 1moi >1mio",
+      "paragraphs": [
+        {
+          "text": "BANQUE D’ALGERIE DGRFE/DMFE",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "MARGES APPLICABLES AUX TAUX D’INTERET VARIABLES DE REFERENCE",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "En %",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Type de crédit",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "3 à 6 mois 6 à 12 mois 12 à 24 mois 2 à 3 ans 3 à 5 ans",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Plus de 5 ans < 1moi* >1mio < 1moi >1mio < 1moi >1mio < 1moi >1mio < 1moi >1mio < 1moi >1mio",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "I",
+          "heading": "Crédits bancaires",
+          "label": "Section I"
+        }
+      },
+      "annexe": {
+        "number": "II",
+        "heading": "A LA NOTE D'ORIENTATION N°03 DU 21 JUIN 1998",
+        "label": "Annexe II"
+      },
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Garantis\nNon Garantis\n1/16 1/8\n1/16 1/4\n1/16 1/8\n1/8 3/8\n1/8 3/8\n1/4 1/2\n1/4 1/2\n3/8 5/8\n1/2 7/8\n5/8 1,1/4\n7/8 1,1/4\n1,00 1,1/2",
+      "paragraphs": [
+        {
+          "text": "Garantis",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Non Garantis",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "1/16 1/8",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "1/16 1/4",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "1/16 1/8",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "1/8 3/8",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "1/8 3/8",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "1/4 1/2",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "1/4 1/2",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "3/8 5/8",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "1/2 7/8",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "5/8 1,1/4",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "7/8 1,1/4",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "1,00 1,1/2",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "II",
+          "heading": "Crédits bancaires",
+          "label": "Section II"
+        }
+      },
+      "annexe": {
+        "number": "II",
+        "heading": "A LA NOTE D'ORIENTATION N°03 DU 21 JUIN 1998",
+        "label": "Annexe II"
+      },
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Garantis\nNon Garantis\n- -\n- 1/16\n1/8 1/16\n1/4 3/6\n1/8 3/8\n1/4 1/2\n1/2 3/4\n5/8 1\n3/4 1,1/8\n1,1/8 1,3/8\n1,00\n(*) 1 million US",
+      "paragraphs": [
+        {
+          "text": "Garantis",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Non Garantis",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- -",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- 1/16",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "1/8 1/16",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "1/4 3/6",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "1/8 3/8",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "1/4 1/2",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "1/2 3/4",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "5/8 1",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "3/4 1,1/8",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "1,1/8 1,3/8",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "1,00",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "(*) 1 million US",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [
+    {
+      "page": 2,
+      "tables": [
+        "|Col1|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|En %|Col11|\n|---|---|---|---|---|---|---|---|---|---|---|\n|**Type de crédit**|**Deux ans**|**Deux ans**|**Trois ans**|**Trois ans**|**Quatre ans**|**Quatre ans**|**Cinq à sept ans**|**Cinq à sept ans**|**Sept ans et plus**|**Sept ans et plus**|\n|**Type de crédit**|**< 1moi***|**>1mio**|**< 1moi**|**>1mio**|**< 1moi**|**>1mio**|**< 1moi**|**>1mio**|**< 1moi**|**>1mio**|\n|**Crédits bancaires** <br>**Garantis** <br>**Non Garantis**|<br>1/6<br>4/16|2/16<br>6/16|1/16<br>5/16|3/16<br>7/16|1/16<br>6/16|4/16<br>8/16|4/16<br>1|6/16<br>1,1/16|9/16<br>1,1/16|11/16<br>1,1/4|\n\n"
+      ]
+    },
+    {
+      "page": 3,
+      "tables": [
+        "|Col1|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|En %|Col13|\n|---|---|---|---|---|---|---|---|---|---|---|---|---|\n|**Type de crédit**|**3 à 6 mois**|**3 à 6 mois**|**6 à 12 mois**|**6 à 12 mois**|**12 à 24 mois**|**12 à 24 mois**|**2 à 3 ans**|**2 à 3 ans**|**3 à 5 ans**|**3 à 5 ans**|**Plus de 5 ans**|**Plus de 5 ans**|\n|**Type de crédit**|**< **<br>**1moi***|**>1mio**|**< 1moi**|**>1mio**|**< 1moi**|**>1mio**|**< 1moi**|**>1mio**|**< 1moi**|**>1mio**|**< 1moi**|**>1mio**|\n|**I - Crédits bancaires** <br>**Garantis** <br>**Non Garantis**|1/16<br>1/8|1/16<br>1/4|1/16<br>1/8|1/8<br>3/8|1/8<br>3/8|1/4<br>1/2|1/4<br>1/2|3/8<br>5/8|1/2<br>7/8|5/8<br>1,1/4|7/8<br>1,1/4|1,00<br>1,1/2|\n|**II - Crédits bancaires** <br>**Garantis** <br>**Non Garantis**|-<br>-|-<br>1/16|1/8<br>1/16|1/4<br>3/6|1/8<br>3/8|1/4<br>1/2|1/2<br>3/4|5/8<br>1|3/4<br>1,1/8|1,1/8<br>1,3/8|1,00<br>1,3/8|1,3/8<br>1,7/8|\n\n"
+      ]
+    }
+  ],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.065
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/NOT-03-19980621.fr.txt"
+}

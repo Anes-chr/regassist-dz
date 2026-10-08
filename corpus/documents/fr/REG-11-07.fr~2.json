@@ -1,0 +1,1085 @@
+{
+  "document_id": "REG-11-07.fr~2",
+  "work_id": "REG-11-07",
+  "title": "Règlement n°2011-07 du 19 octobre 2011 modifiant et complétant e règlement n°08-01 du 20 janvier 2008 relatif au dispositif de prévention et de lutte contre l’émission de chèques sans provision.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "2011-07",
+  "number_source": "en-tête du document",
+  "date": "2011-10-19",
+  "date_raw": "N°2011-07 DU 19 OCTOBRE 2011",
+  "date_source": "en-tête du document",
+  "publication_date": "2023-01-25",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Centrales des Risques, des Impayés et des Bilans et chèques sans provision",
+  "source_url": "https://www.bank-of-algeria.dz/centrale-reglement/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/reglement201107.pdf",
+  "format": "pdf",
+  "file_hash": "51a5c9663684ec19eb2ff87d045d23df9b440e456614d76ee7399feb642be68b",
+  "file_size": 81958,
+  "raw_path": "raw/51a5c9663684__reglement201107.pdf",
+  "retrieved_at": "2026-10-05T13:26:51+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 6,
+  "url_hash": "2e767c714c008088e398056ea24d6956f5c64befcbf349b080ac87436b24c7ea",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/centrale-reglement/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - 2",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200723141916+01'00'",
+    "modDate": "D:20200723141916+01'00'"
+  },
+  "hijri_date_raw": "27 Joumada Ethania 1424",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 6,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 3506,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 2140,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 1250,
+        "ocr_confidence": null
+      },
+      {
+        "page": 4,
+        "method": "pdf_text",
+        "chars": 2274,
+        "ocr_confidence": null
+      },
+      {
+        "page": 5,
+        "method": "pdf_text",
+        "chars": 2298,
+        "ocr_confidence": null
+      },
+      {
+        "page": 6,
+        "method": "pdf_text",
+        "chars": 2075,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 7,
+    "annex_count": 4
+  },
+  "quality_flags": [
+    "meme_texte_plusieurs_fichiers"
+  ],
+  "title_document": "REGLEMENT N°2011-07 DU 19 OCTOBRE 2011 MODIFIANT ET COMPLETANTE REGLEMENT N°08-01 DU 20 JANVIER 2008 RELATIF AU DISPOSITIF DE PREVENTION ET DE LUTTE CONTRE L’EMISSION DE CHEQUES SANS PROVISION",
+  "alias_urls": [],
+  "text_hash": "b025d31e56c78d90f99b6b1665542801c6f5af831e484ea3d7a5e45b1e5f7ef3",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "08-01",
+        "date": "2008-01-20",
+        "raw": "règlement n°08-01 du 20 janvier 2008"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2011-07 du 19 octobre 2011 modifiant et complétant e règlement n°08-01 du 20 janvier 2008 relatif au dispositif de prévention et"
+      },
+      "target_work_id": "REG-08-01"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "08-01",
+        "date": "2008-01-20",
+        "raw": "règlement n°08-01 du 20 janvier 2008"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2011-07 du 19 octobre 2011 modifiant et complétant e règlement n°08-01 du 20 janvier 2008 relatif au dispositif de prévention et"
+      },
+      "target_work_id": "REG-08-01"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "08-01",
+        "date": "2008-01-20",
+        "raw": "Règlement n° 08-01 du 20 janvier 2008"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le Règlement n° 08-01 du 20 janvier 2008 susvisé."
+      },
+      "target_work_id": "REG-08-01"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "08-01",
+        "date": "2008-01-20",
+        "raw": "Règlement n° 08-01 du 20 janvier 2008"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le Règlement n° 08-01 du 20 janvier 2008 susvisé."
+      },
+      "target_work_id": "REG-08-01"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "REG-08-01",
+      "reference": "règlement n°08-01 du 20 janvier 2008",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2011-07 du 19 octobre 2011 modifiant et complétant e règlement n°08-01 du 20 janvier 2008 relatif au dispositif de prévention et"
+      }
+    },
+    {
+      "work_id": "REG-08-01",
+      "reference": "Règlement n° 08-01 du 20 janvier 2008",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le Règlement n° 08-01 du 20 janvier 2008 susvisé."
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "REG-08-01",
+      "reference": "règlement n°08-01 du 20 janvier 2008",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2011-07 du 19 octobre 2011 modifiant et complétant e règlement n°08-01 du 20 janvier 2008 relatif au dispositif de prévention et"
+      }
+    },
+    {
+      "work_id": "REG-08-01",
+      "reference": "Règlement n° 08-01 du 20 janvier 2008",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le Règlement n° 08-01 du 20 janvier 2008 susvisé."
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-11-07.ar",
+    "REG-11-07.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "REG-08-01",
+      "reference": "règlement n°08-01 du 20 janvier 2008",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2011-07 du 19 octobre 2011 modifiant et complétant e règlement n°08-01 du 20 janvier 2008 relatif au dispositif de prévention et"
+      }
+    },
+    {
+      "work_id": "REG-08-01",
+      "reference": "Règlement n° 08-01 du 20 janvier 2008",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le Règlement n° 08-01 du 20 janvier 2008 susvisé."
+      }
+    }
+  ],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe 1",
+      "number": "1",
+      "heading": "AU REGLEMENT N°2011-07 DU 19 OCTOBRE 2011",
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe 2",
+      "number": "2",
+      "heading": "AU REGLEMENT N°2011-07 DU 19 OCTOBRE 2011",
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe 3",
+      "number": "3",
+      "heading": "AU REGLEMENT N°2011-07 DU 19 OCTOBRE 2011",
+      "page_start": 5,
+      "page_end": 5,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe 4",
+      "number": "4",
+      "heading": "AU REGLEMENT N°2011- 07 DU 19 OCTOBRE 2011",
+      "page_start": 6,
+      "page_end": 6,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°2011-07 DU 19 OCTOBRE 2011 MODIFIANT ET COMPLETANTE\nREGLEMENT N°08-01 DU 20 JANVIER 2008 RELATIF AU DISPOSITIF DE\nPREVENTION ET DE LUTTE CONTRE L’EMISSION DE CHEQUES SANS PROVISION\nLe Gouverneur de la Banque d’Algérie,\n- Vu l'Ordonnance n°75-59 du 26 septembre 1975 modifiée et complétée portant Code de commerce, notamment ses articles 526 bis à 526 bis16 ;\n- Vu l'Ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003 relative à la monnaie et au crédit modifiée et complétée, notamment son article 98 ;\n- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 02 juin 2001 portant nomination du Gouverneur et Vice Gouverneurs de la Banque d'Algérie ;\n- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 02 juin 2001 portant nomination des membres du Conseil d'administration de la Banque d'Algérie ;\n- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 02 juin 2001 portant nomination des membres du Conseil de la Monnaie et du Crédit de la Banque d'Algérie ;\n- Vu le décret présidentiel du 26 Chaâbane 1423 correspondant au 02 novembre 2002 portant nomination d'un membre du Conseil d'administration de la Banque d'Algérie ;\n- Vu le décret présidentiel du 05 Djoumada El Aouel 1427 correspondant au 1er juin 2006 portant nomination d'un Vice-Gouverneur de la Banque d'Algérie ;\n- Vu le Règlement n°92-02 du 22 mars 1992 portant organisation et fonctionnement de la\nCentrale des Impayés ;\n- Vu le Règlement n° 94-12 du 2 juin 1994 relatif aux principes de gestion et d’établissement de normes dans le secteur financier ;\n- Vu le Règlement n° 08-01 du 20 janvier 2008 relatif au dispositif de prévention et de lutte contre l’émission de chèques sans provision ;\n- Après délibération du Conseil de la Monnaie et du Crédit en date du 19 octobre 2011 ;\nPromulgue le Règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°2011-07 DU 19 OCTOBRE 2011 MODIFIANT ET COMPLETANTE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "REGLEMENT N°08-01 DU 20 JANVIER 2008 RELATIF AU DISPOSITIF DE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "PREVENTION ET DE LUTTE CONTRE L’EMISSION DE CHEQUES SANS PROVISION",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d’Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l'Ordonnance n°75-59 du 26 septembre 1975 modifiée et complétée portant Code de commerce, notamment ses articles 526 bis à 526 bis16 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l'Ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003 relative à la monnaie et au crédit modifiée et complétée, notamment son article 98 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 02 juin 2001 portant nomination du Gouverneur et Vice Gouverneurs de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 02 juin 2001 portant nomination des membres du Conseil d'administration de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 02 juin 2001 portant nomination des membres du Conseil de la Monnaie et du Crédit de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 26 Chaâbane 1423 correspondant au 02 novembre 2002 portant nomination d'un membre du Conseil d'administration de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 05 Djoumada El Aouel 1427 correspondant au 1er juin 2006 portant nomination d'un Vice-Gouverneur de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Règlement n°92-02 du 22 mars 1992 portant organisation et fonctionnement de la",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Centrale des Impayés ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Règlement n° 94-12 du 2 juin 1994 relatif aux principes de gestion et d’établissement de normes dans le secteur financier ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Règlement n° 08-01 du 20 janvier 2008 relatif au dispositif de prévention et de lutte contre l’émission de chèques sans provision ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Après délibération du Conseil de la Monnaie et du Crédit en date du 19 octobre 2011 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le Règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le présent Règlement a pour objet de modifier et de compléter le\nRèglement n° 08-01 du 20 janvier 2008 susvisé.",
+      "paragraphs": [
+        {
+          "text": "Le présent Règlement a pour objet de modifier et de compléter le",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Règlement n° 08-01 du 20 janvier 2008 susvisé.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L’article 4 du Règlement n° 08-01 du 20 janvier 2008 relatif au dispositif de prévention et de lutte contre l’émission de chèques sans provision est modifié et complété comme suit :\n« Article 4 : Dès la survenance d'un incident de paiement pour absence ou insuffisance de provision, le tiré est tenu, conformément aux dispositions du code de commerce, d'en faire la déclaration à la centrale des impayés de la Banque d'Algérie dans les quatre (4)\njours ouvrables suivant la date de présentation du chèque. Dans ce cadre, un certificat de non-paiement, dont le modèle normalisé est annexé au présent règlement (annexe 1), est établi et remis au bénéficiaire du chèque impayé :\n- par la banque tirée, lors de la présentation du chèque au règlement au guichet de domiciliation du compte ou, le cas échéant, en compensation manuelle ;\n- par la banque présentatrice du chèque, lors du rejet du chèque à la télé compensation conformément au mode opératoire du système de compensation électronique dit Algérie–Télécompensation Interbancaire (ATCI) et aux normes d’échanges interbancaires des instruments de paiement.\nSans préjudice des dispositions relatives au délai de quatre (4) jours prévu à l’alinéa premier, une copie du certificat de non-paiement doit être adressée sans délai par l’établissement remettant à l’établissement tiré. »",
+      "paragraphs": [
+        {
+          "text": "L’article 4 du Règlement n° 08-01 du 20 janvier 2008 relatif au dispositif de prévention et de lutte contre l’émission de chèques sans provision est modifié et complété comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "« Article 4 : Dès la survenance d'un incident de paiement pour absence ou insuffisance de provision, le tiré est tenu, conformément aux dispositions du code de commerce, d'en faire la déclaration à la centrale des impayés de la Banque d'Algérie dans les quatre (4)",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "jours ouvrables suivant la date de présentation du chèque. Dans ce cadre, un certificat de non-paiement, dont le modèle normalisé est annexé au présent règlement (annexe 1), est établi et remis au bénéficiaire du chèque impayé :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- par la banque tirée, lors de la présentation du chèque au règlement au guichet de domiciliation du compte ou, le cas échéant, en compensation manuelle ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- par la banque présentatrice du chèque, lors du rejet du chèque à la télé compensation conformément au mode opératoire du système de compensation électronique dit Algérie–Télécompensation Interbancaire (ATCI) et aux normes d’échanges interbancaires des instruments de paiement.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Sans préjudice des dispositions relatives au délai de quatre (4) jours prévu à l’alinéa premier, une copie du certificat de non-paiement doit être adressée sans délai par l’établissement remettant à l’établissement tiré. »",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "L’article 5 du Règlement n° 08-01 du 20 janvier 2008 est modifié et complété comme suit :\n« Article 5 : Dès la survenance d'un premier incident de paiement pour absence ou insuffisance de provision, dûment constaté, le tiré doit adresser à l'émetteur du chèque, dans le délai prévu par la législation en vigueur, une lettre d'injonction dont le modèle est annexé au présent règlement (annexe 2).»",
+      "paragraphs": [
+        {
+          "text": "L’article 5 du Règlement n° 08-01 du 20 janvier 2008 est modifié et complété comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "« Article 5 : Dès la survenance d'un premier incident de paiement pour absence ou insuffisance de provision, dûment constaté, le tiré doit adresser à l'émetteur du chèque, dans le délai prévu par la législation en vigueur, une lettre d'injonction dont le modèle est annexé au présent règlement (annexe 2).»",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "L’article 9 du Règlement n° 08-01 du 20 janvier 2008 est modifié et complété comme suit :\n« Article 9 : La lettre d'injonction prévue à l'article 8 ci-dessus doit préciser le montant et le délai de paiement de la pénalité libératoire.\nLe modèle de la lettre d’injonction est annexé au présent règlement (annexe 3).\nFaute de régularisation de l'incident de paiement dans les délais cumulés prévus par le code de commerce, des poursuites pénales sont engagées conformément aux dispositions du code pénal.»",
+      "paragraphs": [
+        {
+          "text": "L’article 9 du Règlement n° 08-01 du 20 janvier 2008 est modifié et complété comme suit :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "« Article 9 : La lettre d'injonction prévue à l'article 8 ci-dessus doit préciser le montant et le délai de paiement de la pénalité libératoire.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le modèle de la lettre d’injonction est annexé au présent règlement (annexe 3).",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Faute de régularisation de l'incident de paiement dans les délais cumulés prévus par le code de commerce, des poursuites pénales sont engagées conformément aux dispositions du code pénal.»",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le Règlement n° 08-01 du 20 janvier 2008 est complété par l’article 9 bis rédigé comme suit :\n« Article 9 bis : Il y a récidive, conformément aux articles 526 bis 3 et 526 bis 5 du\nCode de Commerce, en cas de survenance d’un incident de paiement consécutif à l’émission d’un chèque sans provision dans les douze (12) mois suivant le premier incident de paiement, même si celui-ci a fait l’objet d’une régularisation. »",
+      "paragraphs": [
+        {
+          "text": "Le Règlement n° 08-01 du 20 janvier 2008 est complété par l’article 9 bis rédigé comme suit :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "« Article 9 bis : Il y a récidive, conformément aux articles 526 bis 3 et 526 bis 5 du",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Code de Commerce, en cas de survenance d’un incident de paiement consécutif à l’émission d’un chèque sans provision dans les douze (12) mois suivant le premier incident de paiement, même si celui-ci a fait l’objet d’une régularisation. »",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "L’article 10 du Règlement n° 08-01 du 20 janvier 2008 est modifié comme suit :\n« Article 10 : En cas de récidive dans les douze (12) mois suivant le premier incident de paiement, le tiré prononce systématiquement à l’encontre du tireur une interdiction d’émettre des chèques pour une durée de cinq (5) ans. Cette interdiction prend effet à compter de la date d’envoi de la notification pour régularisation du chèque impayé.\nCette notification, dont le modèle est annexé au présent règlement (annexe 4), doit indiquer qu’il est mis à la charge de l’émetteur du chèque impayé une pénalité égale au double de la pénalité libératoire prévue à l’article 526 bis 5 du code de commerce. »",
+      "paragraphs": [
+        {
+          "text": "L’article 10 du Règlement n° 08-01 du 20 janvier 2008 est modifié comme suit :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "« Article 10 : En cas de récidive dans les douze (12) mois suivant le premier incident de paiement, le tiré prononce systématiquement à l’encontre du tireur une interdiction d’émettre des chèques pour une durée de cinq (5) ans. Cette interdiction prend effet à compter de la date d’envoi de la notification pour régularisation du chèque impayé.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Cette notification, dont le modèle est annexé au présent règlement (annexe 4), doit indiquer qu’il est mis à la charge de l’émetteur du chèque impayé une pénalité égale au double de la pénalité libératoire prévue à l’article 526 bis 5 du code de commerce. »",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le présent Règlement sera publié au Journal officiel de la République algérienne démocratique et populaire.\nLe Gouverneur\nMohammed LAKSACI",
+      "paragraphs": [
+        {
+          "text": "Le présent Règlement sera publié au Journal officiel de la République algérienne démocratique et populaire.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe 1",
+      "number": "1",
+      "heading": "AU REGLEMENT N°2011-07 DU 19 OCTOBRE 2011",
+      "context": {},
+      "annexe": {
+        "number": "1",
+        "heading": "AU REGLEMENT N°2011-07 DU 19 OCTOBRE 2011",
+        "label": "Annexe 1"
+      },
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Certificat de Non-Paiement\nNous soussignés,………………………………… code agence ……............ (1) certifions que le chèque dont tous les éléments d’identification sont indiqués ci-dessous, a été rejeté par…………………..code agence …..…..…(2)\nPour le motif : Provision insuffisante, Code rejet : 007.\nNom et Prénom ou raison sociale du tireur……………………………………..…………..\nRIB du tireur………………………………………………………………………………............……\nNom et prénom ou raison sociale du bénéficiaire…………………………….…………..\nRIB du bénéficiaire………………………………………..........….…………………………………\nNuméro du chèque ……………………………………….........………………….………………..\nMontant du chèque…………………………………………………………………………….........\nDate d’émission du chèque………………………………………………………………….........\nDate de présentation au paiement………………...………………........................\nDate de rejet par la banque tirée…………………………………………………....………….\nN° de la RIO………………………….………………………........................................\nCe certificat est délivré pour valoir acte de protêt en vertu de la réglementation et de la législation actuellement en vigueur.\nFait à …………..le…………..\nCachet et signature accréditée\n(1) Nom et agence de la banque remettante\n(2) Nom et agence de la banque tirée.",
+      "paragraphs": [
+        {
+          "text": "Certificat de Non-Paiement",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Nous soussignés,………………………………… code agence ……............ (1) certifions que le chèque dont tous les éléments d’identification sont indiqués ci-dessous, a été rejeté par…………………..code agence …..…..…(2)",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Pour le motif : Provision insuffisante, Code rejet : 007.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Nom et Prénom ou raison sociale du tireur……………………………………..…………..",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "RIB du tireur………………………………………………………………………………............……",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Nom et prénom ou raison sociale du bénéficiaire…………………………….…………..",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "RIB du bénéficiaire………………………………………..........….…………………………………",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Numéro du chèque ……………………………………….........………………….………………..",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Montant du chèque…………………………………………………………………………….........",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Date d’émission du chèque………………………………………………………………….........",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Date de présentation au paiement………………...………………........................",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Date de rejet par la banque tirée…………………………………………………....………….",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "N° de la RIO………………………….………………………........................................",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Ce certificat est délivré pour valoir acte de protêt en vertu de la réglementation et de la législation actuellement en vigueur.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Fait à …………..le…………..",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Cachet et signature accréditée",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "(1) Nom et agence de la banque remettante",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "(2) Nom et agence de la banque tirée.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe 2",
+      "number": "2",
+      "heading": "AU REGLEMENT N°2011-07 DU 19 OCTOBRE 2011",
+      "context": {},
+      "annexe": {
+        "number": "2",
+        "heading": "AU REGLEMENT N°2011-07 DU 19 OCTOBRE 2011",
+        "label": "Annexe 2"
+      },
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Etablissement : ……………………………….\nAgence de : …………………………………..\nNom, Prénom ou raison sociale ou dénomination commerciale :\nAdresse :\nObjet : Injonction de régularisation suite au premier incident de paiement\nMadame, Mademoiselle, Monsieur\nNous avons le regret de porter à votre connaissance que le chèque n° ………….., d’un montant de ………………………émis le ……………………, tiré sur votre compte n°………………………….à l’ordre de ………………………………et présenté au paiement le ……………………………a été rejeté par nos soins pour absence (ou insuffisance) de provision.\nConformément à la réglementation en vigueur, un certificat de non-paiement a été délivré au bénéficiaire qui équivaut à acte de protêt en application des dispositions de l’article 531 du code de commerce et il a été fait déclaration de l’incident de paiement à la Centrale des Impayés de la\nBanque d’Algérie.\nAussi, pour éviter l’interdiction bancaire dont vous vous êtes rendu passible, nous vous invitons à régulariser l’incident de paiement susvisé dans le délai de dix (10) jours à compter de la date d’envoi de la présente lettre, par la constitution d’une provision suffisante et disponible pour le règlement du chèque par nos soins et ce, au cours du délai précité.\nEn cas de non régularisation dans le délai imparti conformément aux dispositions légales, vous serez déclaré interdit d’émettre des chèques pendant une durée de cinq (05) ans à compter de la date d’envoi de la lettre d’injonction et, à ce titre :\n- sur tous vos comptes, il vous sera interdit d’émettre des chèques, autres que ceux de retrait (chèque guichet) auprès du tiré ;\n- vous serez tenu de restituer les formules de chèques en votre possession et en celles de vos mandataires ;\n- afin de recouvrer la possibilité d’émettre des chèques, vous serez soumis au paiement de la pénalité libératoire au profit du Trésor avec le montant du chèque impayé.\nA l’avenir, nous vous invitons à bien vous assurer de la disponibilité d’une provision suffisante avant toute émission de chèque. En cas de récidive durant les douze (12) mois à partir de ce délai d’injonction vous serez interdit de chéquier pour une durée de cinq (05) ans sans possibilité de régularisation.\nFait à ……………. le…………………….",
+      "paragraphs": [
+        {
+          "text": "Etablissement : ……………………………….",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Agence de : …………………………………..",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Nom, Prénom ou raison sociale ou dénomination commerciale :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Adresse :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Objet : Injonction de régularisation suite au premier incident de paiement",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Madame, Mademoiselle, Monsieur",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Nous avons le regret de porter à votre connaissance que le chèque n° ………….., d’un montant de ………………………émis le ……………………, tiré sur votre compte n°………………………….à l’ordre de ………………………………et présenté au paiement le ……………………………a été rejeté par nos soins pour absence (ou insuffisance) de provision.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Conformément à la réglementation en vigueur, un certificat de non-paiement a été délivré au bénéficiaire qui équivaut à acte de protêt en application des dispositions de l’article 531 du code de commerce et il a été fait déclaration de l’incident de paiement à la Centrale des Impayés de la",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Banque d’Algérie.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Aussi, pour éviter l’interdiction bancaire dont vous vous êtes rendu passible, nous vous invitons à régulariser l’incident de paiement susvisé dans le délai de dix (10) jours à compter de la date d’envoi de la présente lettre, par la constitution d’une provision suffisante et disponible pour le règlement du chèque par nos soins et ce, au cours du délai précité.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "En cas de non régularisation dans le délai imparti conformément aux dispositions légales, vous serez déclaré interdit d’émettre des chèques pendant une durée de cinq (05) ans à compter de la date d’envoi de la lettre d’injonction et, à ce titre :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- sur tous vos comptes, il vous sera interdit d’émettre des chèques, autres que ceux de retrait (chèque guichet) auprès du tiré ;",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- vous serez tenu de restituer les formules de chèques en votre possession et en celles de vos mandataires ;",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- afin de recouvrer la possibilité d’émettre des chèques, vous serez soumis au paiement de la pénalité libératoire au profit du Trésor avec le montant du chèque impayé.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "A l’avenir, nous vous invitons à bien vous assurer de la disponibilité d’une provision suffisante avant toute émission de chèque. En cas de récidive durant les douze (12) mois à partir de ce délai d’injonction vous serez interdit de chéquier pour une durée de cinq (05) ans sans possibilité de régularisation.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Fait à ……………. le…………………….",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe 3",
+      "number": "3",
+      "heading": "AU REGLEMENT N°2011-07 DU 19 OCTOBRE 2011",
+      "context": {},
+      "annexe": {
+        "number": "3",
+        "heading": "AU REGLEMENT N°2011-07 DU 19 OCTOBRE 2011",
+        "label": "Annexe 3"
+      },
+      "page_start": 5,
+      "page_end": 5,
+      "text": "Etablissement : ……………………………….\nAgence de : …………………………………..\nNom, Prénom ou raison sociale ou dénomination commerciale :\nAdresse :\nObjet : Injonction de régularisation dans le deuxième délai de régularisation\nMadame, Mademoiselle, Monsieur\nNous avons le regret de porter à votre connaissance que le chèque n° ………….., d’un montant de ………………………émis le ……………………, tiré sur votre compte n°………………………….à l’ordre de ………………………………et présenté au paiement le ……………………………a été rejeté par nos soins pour absence (ou insuffisance) de provision.\nConformément à la réglementation en vigueur, un certificat de non-paiement a été délivré au bénéficiaire qui équivaut à l’acte de protêt en application des dispositions de l’article 531 du code de commerce et il a été fait déclaration de l’incident de paiement à la Centrale des Impayés de la\nBanque d’Algérie.\nNous vous rappelons que cet incident de paiement faisant l’objet de notre lettre d’injonction recommandée avec accusé de réception du ………………………n’a pas été régularisé durant le premier délai de dix (10) jours.\nPar conséquent nous vous informons que vous êtes interdit de chéquier pour une durée de cinq (5)\nans à compter du ……………………….et ce, en application des dispositions légales et réglementaires en vigueur. A ce titre :\n- sur tous vos comptes, il vous est interdit d’émettre des chèques autres que ceux de retrait (chèque guichet) auprès du tiré ;\n- vous êtes tenu de restituer les formules de chèques en votre possession et en celles de vos mandataires.\nCependant, pour recouvrer la possibilité d’émettre des chèques, vous êtes soumis au paiement de la pénalité libératoire au profit du Trésor dont le montant est de …………………dinars ainsi que le montant du chèque moyennant une provision suffisante et disponible auprès de notre banque et ce, dans un délai de vingt (20) jours à compter de l’expiration du premier délai d’injonction.\nA l’avenir, nous vous invitons à bien vous assurer de la disponibilité d’une provision suffisante avant toute émission de chèque. En cas de récidive durant les douze (12) mois à partir de ce délai d’injonction vous serez interdit de chéquier pour une durée de cinq (05) ans sans possibilité de régularisation.\nFait à ……………. le……………………",
+      "paragraphs": [
+        {
+          "text": "Etablissement : ……………………………….",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Agence de : …………………………………..",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Nom, Prénom ou raison sociale ou dénomination commerciale :",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Adresse :",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Objet : Injonction de régularisation dans le deuxième délai de régularisation",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Madame, Mademoiselle, Monsieur",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Nous avons le regret de porter à votre connaissance que le chèque n° ………….., d’un montant de ………………………émis le ……………………, tiré sur votre compte n°………………………….à l’ordre de ………………………………et présenté au paiement le ……………………………a été rejeté par nos soins pour absence (ou insuffisance) de provision.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Conformément à la réglementation en vigueur, un certificat de non-paiement a été délivré au bénéficiaire qui équivaut à l’acte de protêt en application des dispositions de l’article 531 du code de commerce et il a été fait déclaration de l’incident de paiement à la Centrale des Impayés de la",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Banque d’Algérie.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Nous vous rappelons que cet incident de paiement faisant l’objet de notre lettre d’injonction recommandée avec accusé de réception du ………………………n’a pas été régularisé durant le premier délai de dix (10) jours.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Par conséquent nous vous informons que vous êtes interdit de chéquier pour une durée de cinq (5)",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "ans à compter du ……………………….et ce, en application des dispositions légales et réglementaires en vigueur. A ce titre :",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- sur tous vos comptes, il vous est interdit d’émettre des chèques autres que ceux de retrait (chèque guichet) auprès du tiré ;",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- vous êtes tenu de restituer les formules de chèques en votre possession et en celles de vos mandataires.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Cependant, pour recouvrer la possibilité d’émettre des chèques, vous êtes soumis au paiement de la pénalité libératoire au profit du Trésor dont le montant est de …………………dinars ainsi que le montant du chèque moyennant une provision suffisante et disponible auprès de notre banque et ce, dans un délai de vingt (20) jours à compter de l’expiration du premier délai d’injonction.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "A l’avenir, nous vous invitons à bien vous assurer de la disponibilité d’une provision suffisante avant toute émission de chèque. En cas de récidive durant les douze (12) mois à partir de ce délai d’injonction vous serez interdit de chéquier pour une durée de cinq (05) ans sans possibilité de régularisation.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Fait à ……………. le……………………",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe 4",
+      "number": "4",
+      "heading": "AU REGLEMENT N°2011- 07 DU 19 OCTOBRE 2011",
+      "context": {},
+      "annexe": {
+        "number": "4",
+        "heading": "AU REGLEMENT N°2011- 07 DU 19 OCTOBRE 2011",
+        "label": "Annexe 4"
+      },
+      "page_start": 6,
+      "page_end": 6,
+      "text": "Etablissement : ……………………………….\nAgence de : …………………………………..\nNom, Prénom ou raison sociale ou dénomination commerciale\nAdresse\nObjet : Notification d’interdiction en cas de récidive\nMadame, Mademoiselle, Monsieur\nNous avons le regret de porter à votre connaissance que le chèque n° ………….., d’un montant de ………………………émis le ……………………, tiré sur votre compte n°………………………….à l’ordre de ………………………………et présenté au paiement le ……………………………a été rejeté par nos soins pour absence (ou insuffisance) de provision.\nConformément à la réglementation en vigueur, un certificat de non-paiement a été délivré au bénéficiaire qui équivaut à l’acte de protêt en application des dispositions de l’article 531 du code de commerce et il a été fait une déclaration de l’incident de paiement à la Centrale des Impayés de la Banque d’Algérie.\nNous vous rappelons que cet incident de paiement survient durant les (12) douze mois après le premier incident de paiement.\nPar conséquent, nous vous informons que vous êtes interdit de chéquier pour une durée de cinq\n(5) ans à compter du ……………………….et ce, en application des dispositions légales et réglementaires en vigueur. A ce titre :\n- sur tous vos comptes, il vous est interdit d’émettre des chèques autres que ceux de retrait (chèque guichet) auprès du tiré ;\n- vous êtes tenu de restituer les formules de chèques en votre possession et en celles de vos mandataires ;\n- vous êtes tenu de payer une pénalité égale au double de la pénalité libératoire au profit du Trésor, d’un montant de…………………..dinars ainsi que le montant du chèque moyennant une provision suffisante et disponible auprès de notre banque. Nous vous rappelons qu’en cas de non régularisation de cette situation, des poursuites pénales pourraient être engagées contre vous par le bénéficiaire.\nConformément aux dispositions légales et réglementaires en vigueur, toute contestation de cette mesure d’interdiction ainsi que de la pénalité est déférée à la juridiction compétente.\nFait à ……………. le…………………….",
+      "paragraphs": [
+        {
+          "text": "Etablissement : ……………………………….",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Agence de : …………………………………..",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Nom, Prénom ou raison sociale ou dénomination commerciale",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Adresse",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Objet : Notification d’interdiction en cas de récidive",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Madame, Mademoiselle, Monsieur",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Nous avons le regret de porter à votre connaissance que le chèque n° ………….., d’un montant de ………………………émis le ……………………, tiré sur votre compte n°………………………….à l’ordre de ………………………………et présenté au paiement le ……………………………a été rejeté par nos soins pour absence (ou insuffisance) de provision.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Conformément à la réglementation en vigueur, un certificat de non-paiement a été délivré au bénéficiaire qui équivaut à l’acte de protêt en application des dispositions de l’article 531 du code de commerce et il a été fait une déclaration de l’incident de paiement à la Centrale des Impayés de la Banque d’Algérie.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Nous vous rappelons que cet incident de paiement survient durant les (12) douze mois après le premier incident de paiement.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Par conséquent, nous vous informons que vous êtes interdit de chéquier pour une durée de cinq",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "(5) ans à compter du ……………………….et ce, en application des dispositions légales et réglementaires en vigueur. A ce titre :",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "- sur tous vos comptes, il vous est interdit d’émettre des chèques autres que ceux de retrait (chèque guichet) auprès du tiré ;",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "- vous êtes tenu de restituer les formules de chèques en votre possession et en celles de vos mandataires ;",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "- vous êtes tenu de payer une pénalité égale au double de la pénalité libératoire au profit du Trésor, d’un montant de…………………..dinars ainsi que le montant du chèque moyennant une provision suffisante et disponible auprès de notre banque. Nous vous rappelons qu’en cas de non régularisation de cette situation, des poursuites pénales pourraient être engagées contre vous par le bénéficiaire.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Conformément aux dispositions légales et réglementaires en vigueur, toute contestation de cette mesure d’interdiction ainsi que de la pénalité est déférée à la juridiction compétente.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Fait à ……………. le…………………….",
+          "page_start": 6,
+          "page_end": 6
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "meme_texte_plusieurs_fichiers"
+    ],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.103
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-11-07.fr~2.txt"
+}

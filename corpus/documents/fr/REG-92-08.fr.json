@@ -1,0 +1,1100 @@
+{
+  "document_id": "REG-92-08.fr",
+  "work_id": "REG-92-08",
+  "title": "Règlement n°92-08 du 17 novembre 1992 portant plan de comptes bancaire et règles comptables applicables aux banques et établissements financiers.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "92-08",
+  "number_source": "en-tête du document",
+  "date": "1992-11-17",
+  "date_raw": "N° 92-08 DU 17 NOVEMBRE 1992",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Règles comptables et déclarations statistiques par les banques et établissements financiers",
+  "source_url": "https://www.bank-of-algeria.dz/regles-comptables-et-declarations-statistiques-par-banques-etablissements-financiers-reglement/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement9208.pdf",
+  "format": "pdf",
+  "file_hash": "edcdc79ae876e4ca563c1ae28fcb4ee10affb55832e2835443c56aa7d27a760f",
+  "file_size": 69300,
+  "raw_path": "raw/edcdc79ae876__reglement9208.pdf",
+  "retrieved_at": "2026-10-05T13:23:11+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 5,
+  "url_hash": "9cc4a408632b8d3f8fe8bd02988bbbb7b8e5b430bc8930489e988fbf7fb8226f",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%D8%A7%D9%84%D8%A8%D9%86%D9%83/",
+    "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d8%a8%d9%86%d9%83/",
+    "https://www.bank-of-algeria.dz/banques-3/",
+    "https://www.bank-of-algeria.dz/banques-reglement/",
+    "https://www.bank-of-algeria.dz/reglement-1992/",
+    "https://www.bank-of-algeria.dz/regles-comptables-et-declarations-statistiques-par-banques-etablissements-financiers-reglement/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document3",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200708151238+01'00'",
+    "modDate": "D:20200708151238+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 5,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2517,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 1968,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 2368,
+        "ocr_confidence": null
+      },
+      {
+        "page": 4,
+        "method": "pdf_text",
+        "chars": 3297,
+        "ocr_confidence": null
+      },
+      {
+        "page": 5,
+        "method": "pdf_text",
+        "chars": 3525,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 13,
+    "annex_count": 1
+  },
+  "quality_flags": [],
+  "title_document": "REGLEMENT N° 92-08 DU 17 NOVEMBRE 1992 PORTANT PLAN DE COMPTES BANCAIRE ET REGLES COMPTABLES APPLICABLES AUX BANQUES ET AUX ETABLISSEMENTS FINANCIERS",
+  "alias_urls": [],
+  "text_hash": "e2058a9aa2c6d08ed1e0483a6f72a881e218fd8e41c85d4a99a86a41395ffb60",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [
+    {
+      "work_id": "REG-09-04",
+      "document_id": "REG-09-04.fr",
+      "date": "2009-07-23",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Sont abrogées toutes dispositions contraires notamment le règlement n°92-08 du 17 novembre 1992 portant plan de comptes bancaire et règ"
+      }
+    }
+  ],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "REG-09-04",
+      "document_id": "REG-09-04.fr",
+      "date": "2009-07-23",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Sont abrogées toutes dispositions contraires notamment le règlement n°92-08 du 17 novembre 1992 portant plan de comptes bancaire et règ"
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [
+    "REG-92-08.ar"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [
+    {
+      "work_id": "REG-09-04",
+      "document_id": "REG-09-04.fr",
+      "date": "2009-07-23",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Sont abrogées toutes dispositions contraires notamment le règlement n°92-08 du 17 novembre 1992 portant plan de comptes bancaire et règ"
+      }
+    }
+  ],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "section",
+      "label": "Section 1",
+      "number": null,
+      "heading": "PLAN DE COMPTES BANCAIRE",
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 2",
+          "number": "2",
+          "heading": null,
+          "page_start": 1,
+          "page_end": 1,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "label": "Section 2",
+      "number": null,
+      "heading": "PRINCIPES COMPTABLES GENERAUX",
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 3",
+          "number": "3",
+          "heading": null,
+          "page_start": 1,
+          "page_end": 1,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 4",
+          "number": "4",
+          "heading": null,
+          "page_start": 1,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 5",
+          "number": "5",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 6",
+          "number": "6",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 7",
+          "number": "7",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 8",
+          "number": "8",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 9",
+          "number": "9",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 10",
+          "number": "10",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "label": "Section 3",
+      "number": null,
+      "heading": "REGLES D'EVALUATION PARTICULIERES",
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 11",
+          "number": "11",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "label": "Section 4",
+      "number": null,
+      "heading": "DISPOSITIONS FINALES",
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 12",
+          "number": "12",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 13",
+          "number": "13",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe",
+      "number": "",
+      "heading": "AU REGLEMENT N° 92-08 DU 17 NOVEMBRE 1992 NOMENCLATURE DES COMPTES",
+      "page_start": 3,
+      "page_end": 5,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N° 92-08 DU 17 NOVEMBRE 1992 PORTANT PLAN DE COMPTES\nBANCAIRE ET REGLES COMPTABLES APPLICABLES AUX BANQUES ET AUX\nETABLISSEMENTS FINANCIERS\nLe Gouverneur de la Banque d’Algérie,\n- Vu la Loi n° 88-01 du 12 Janvier 1988 portant Loi d'orientation sur les entreprises publiques économiques ;\n- Vu la Loi n° 90-10 du 14 Avril 1990 relative à la monnaie et au crédit notamment ses articles 44, 47, 114 à 117 ;\n- Vu la Loi n° 91-08 du 27 Avril 1991 relative à la profession d'expert-comptable, de commissaire aux comptes et de comptable agrée ;\n- Vu l'Ordonnance n° 75-35 du 29 Avril 1975 portant Plan Comptable National ;\n- Vu l 'Ordonnance n° 75-59 du 26 Septembre 1975 modifiée et complétée portant Code de Commerce ;\n- Vu le Décret Présidentiel du 21 Juillet 1992 portant nomination du Gouverneur de la Banque d’Algérie ;\n- Vu les Décrets Présidentiels du 14 Mai 1990 portant nomination de Vice\nGouverneurs de la Banque d’Algérie ;\n- Vu le Décret Exécutif du 1er Juillet 1991 portant désignation de membres titulaires et suppléants au Conseil de la Monnaie et du Crédit ;\n- Vu la délibération du Conseil de la Monnaie et du Crédit en date du 17 novembre 1992 ;\nPromulgue le Règlement dont la teneur suit :\nDISPOSITION PRELIMINAIRE",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N° 92-08 DU 17 NOVEMBRE 1992 PORTANT PLAN DE COMPTES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANCAIRE ET REGLES COMPTABLES APPLICABLES AUX BANQUES ET AUX",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ETABLISSEMENTS FINANCIERS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d’Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la Loi n° 88-01 du 12 Janvier 1988 portant Loi d'orientation sur les entreprises publiques économiques ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la Loi n° 90-10 du 14 Avril 1990 relative à la monnaie et au crédit notamment ses articles 44, 47, 114 à 117 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la Loi n° 91-08 du 27 Avril 1991 relative à la profession d'expert-comptable, de commissaire aux comptes et de comptable agrée ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l'Ordonnance n° 75-35 du 29 Avril 1975 portant Plan Comptable National ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l 'Ordonnance n° 75-59 du 26 Septembre 1975 modifiée et complétée portant Code de Commerce ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 21 Juillet 1992 portant nomination du Gouverneur de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu les Décrets Présidentiels du 14 Mai 1990 portant nomination de Vice",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Gouverneurs de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Exécutif du 1er Juillet 1991 portant désignation de membres titulaires et suppléants au Conseil de la Monnaie et du Crédit ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la délibération du Conseil de la Monnaie et du Crédit en date du 17 novembre 1992 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le Règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DISPOSITION PRELIMINAIRE",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le présent Règlement a pour objet de fixer le plan de comptes bancaire et les règles comptables applicables aux banques et aux établissements financiers ci-après dénommés \"Établissements assujettis\".\nPar \"règles comptables\", il faut entendre, au sens du Présent Règlement, les principes comptables généraux et les règles d'évaluation particulières.",
+      "paragraphs": [
+        {
+          "text": "Le présent Règlement a pour objet de fixer le plan de comptes bancaire et les règles comptables applicables aux banques et aux établissements financiers ci-après dénommés \"Établissements assujettis\".",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Par \"règles comptables\", il faut entendre, au sens du Présent Règlement, les principes comptables généraux et les règles d'évaluation particulières.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "1",
+          "heading": "PLAN DE COMPTES BANCAIRE",
+          "label": "Section 1"
+        }
+      },
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les Établissements assujettis sont tenus d'enregistrer leurs opérations en comptabilité conformément au plan de comptes bancaire dont la nomenclature est annexée au Présent Règlement.\nL'obligation de conformité concerne la codification, l’intitulé et le contenu des comptes d’opérations.\nLes Établissements assujettis ne peuvent y déroger temporairement que sur autorisation spéciale de la Banque d’Algérie.",
+      "paragraphs": [
+        {
+          "text": "Les Établissements assujettis sont tenus d'enregistrer leurs opérations en comptabilité conformément au plan de comptes bancaire dont la nomenclature est annexée au Présent Règlement.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L'obligation de conformité concerne la codification, l’intitulé et le contenu des comptes d’opérations.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les Établissements assujettis ne peuvent y déroger temporairement que sur autorisation spéciale de la Banque d’Algérie.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "2",
+          "heading": "PRINCIPES COMPTABLES GENERAUX",
+          "label": "Section 2"
+        }
+      },
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Sauf les cas particuliers de certains types d’opérations expressément prévus par voie de règlements, les Établissements assujettis doivent enregistrer leurs opérations selon les principes comptables généraux définis ci-après.",
+      "paragraphs": [
+        {
+          "text": "Sauf les cas particuliers de certains types d’opérations expressément prévus par voie de règlements, les Établissements assujettis doivent enregistrer leurs opérations selon les principes comptables généraux définis ci-après.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "2",
+          "heading": "PRINCIPES COMPTABLES GENERAUX",
+          "label": "Section 2"
+        }
+      },
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "Les méthodes d’évaluation et de présentation des comptes utilisés doivent être identiques d'une période comptable sur l'autre.\nDans le cas d'une modification de méthodes d’évaluation, motivée par des circonstances exceptionnelles, le contenu et la portée de cette modification doivent être consignés dans un document annexé aux états de synthèse publiables.",
+      "paragraphs": [
+        {
+          "text": "Les méthodes d’évaluation et de présentation des comptes utilisés doivent être identiques d'une période comptable sur l'autre.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Dans le cas d'une modification de méthodes d’évaluation, motivée par des circonstances exceptionnelles, le contenu et la portée de cette modification doivent être consignés dans un document annexé aux états de synthèse publiables.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "2",
+          "heading": "PRINCIPES COMPTABLES GENERAUX",
+          "label": "Section 2"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le patrimoine de l'établissement assujetti est évalué dans une perspective de continuité de l’activité.\nL'estimation de l'actif, du passif et du hors bilan, sur la base de la valeur liquidative, n'intervient que dans le cas où la continuité de l'exploitation n'est plus assurée.",
+      "paragraphs": [
+        {
+          "text": "Le patrimoine de l'établissement assujetti est évalué dans une perspective de continuité de l’activité.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "L'estimation de l'actif, du passif et du hors bilan, sur la base de la valeur liquidative, n'intervient que dans le cas où la continuité de l'exploitation n'est plus assurée.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "2",
+          "heading": "PRINCIPES COMPTABLES GENERAUX",
+          "label": "Section 2"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les charges et les produits qui trouvent leur origine dans des opérations réalisées durant un exercice, doivent lui être rattachés.",
+      "paragraphs": [
+        {
+          "text": "Les charges et les produits qui trouvent leur origine dans des opérations réalisées durant un exercice, doivent lui être rattachés.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "2",
+          "heading": "PRINCIPES COMPTABLES GENERAUX",
+          "label": "Section 2"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les biens sont comptabilisés en unité monétaire.\nLes biens acquis à titre onéreux sont enregistrés à leur coût d'acquisition et maintenus à ce coût, sauf cas de réévaluation prévus par la réglementation en vigueur.",
+      "paragraphs": [
+        {
+          "text": "Les biens sont comptabilisés en unité monétaire.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Les biens acquis à titre onéreux sont enregistrés à leur coût d'acquisition et maintenus à ce coût, sauf cas de réévaluation prévus par la réglementation en vigueur.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "2",
+          "heading": "PRINCIPES COMPTABLES GENERAUX",
+          "label": "Section 2"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les opérations sont enregistrées sans compensation ni entre les postes du bilan ou ceux du hors bilan ni entre les postes de charges et de produits.",
+      "paragraphs": [
+        {
+          "text": "Les opérations sont enregistrées sans compensation ni entre les postes du bilan ou ceux du hors bilan ni entre les postes de charges et de produits.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "2",
+          "heading": "PRINCIPES COMPTABLES GENERAUX",
+          "label": "Section 2"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Sauf dispositions particulières prévues par la législation et la réglementation en vigueur, toute charge est comptabilisée même lorsqu'elle n'est que probable.\nA l'inverse, un produit ne doit pas être pris en compte tant qu'il n'est pas réalisé.",
+      "paragraphs": [
+        {
+          "text": "Sauf dispositions particulières prévues par la législation et la réglementation en vigueur, toute charge est comptabilisée même lorsqu'elle n'est que probable.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "A l'inverse, un produit ne doit pas être pris en compte tant qu'il n'est pas réalisé.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "2",
+          "heading": "PRINCIPES COMPTABLES GENERAUX",
+          "label": "Section 2"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le bilan d'ouverture d'un exercice doit correspondre au bilan de clôture de l'exercice précédent.",
+      "paragraphs": [
+        {
+          "text": "Le bilan d'ouverture d'un exercice doit correspondre au bilan de clôture de l'exercice précédent.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "3",
+          "heading": "REGLES D'EVALUATION PARTICULIERES",
+          "label": "Section 3"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Certains types d’opérations, notamment sur devises et sur titres, sont soumis à des règles d’évaluation particulières fixées par voie de règlements.",
+      "paragraphs": [
+        {
+          "text": "Certains types d’opérations, notamment sur devises et sur titres, sont soumis à des règles d’évaluation particulières fixées par voie de règlements.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "4",
+          "heading": "DISPOSITIONS FINALES",
+          "label": "Section 4"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les dispositions du présent Règlement sont applicables à compter du 1er janvier 1993.",
+      "paragraphs": [
+        {
+          "text": "Les dispositions du présent Règlement sont applicables à compter du 1er janvier 1993.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "4",
+          "heading": "DISPOSITIONS FINALES",
+          "label": "Section 4"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Des instructions de la Banque d’Algérie fixeront, en tant que de besoin, les modalités d'application du présent Règlement.\nLe Vice-Gouverneur\nMohamed Cherif ILMANE",
+      "paragraphs": [
+        {
+          "text": "Des instructions de la Banque d’Algérie fixeront, en tant que de besoin, les modalités d'application du présent Règlement.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Vice-Gouverneur",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Mohamed Cherif ILMANE",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe",
+      "number": "",
+      "heading": "AU REGLEMENT N° 92-08 DU 17 NOVEMBRE 1992 NOMENCLATURE DES COMPTES",
+      "context": {},
+      "annexe": {
+        "number": null,
+        "heading": "AU REGLEMENT N° 92-08 DU 17 NOVEMBRE 1992 NOMENCLATURE DES COMPTES",
+        "label": "Annexe"
+      },
+      "page_start": 3,
+      "page_end": 5,
+      "text": "CLASSE 1 : COMPTES D'OPERATIONS DE TRESORERIE ET D'OPERATIONS INTERBANCAIRES 10 - CAISSE 11 - BANQUES CENTRALES - CENTRES DES CHEQUES POSTAUX 12 - COMPTES ORDINAIRES 13 - COMPTES, PRETS ET EMPRUNTS 14 - VALEURS RECUES EN PENSION 15 - VALEURS DONNEES EN PENSION 16 - VALEURS NON IMPUTEES ET AUTRES SOMMES DUES 17 - OPERATIONS INTERNES AU RESEAU 18 - CREANCES DOUTEUSES 19 - PROVISIONS POUR CREANCES DOUTEUSES.\nCLASSE 2 : COMPTES D'OPERATIONS AVEC LA CLIENTELE 20 - CREDITS A LA CLIENTELE 22 - COMPTES DE LA CLIENTELE 23 - PRETS ET EMPRUNTS 24 - VALEURS RECUES EN PENSION 25 - VALEURS DONNEES EN PENSION 26 - VALEURS NON IMPUTEES ET AUTRES SOMMES DUES 28 - CREANCES DOUTEUSES 29 - PROVISIONS POUR CREANCES DOUTEUSES.\nCLASSE 3 : COMPTES DU PORTEFEUILLE - TITRES ET COMPTES DE REGULARISATIONS 30 - OPERATIONS SUR TITRES 31 - INSTRUMENTS CONDITIONNELS 32 - VALEURS EN RECOUVREMENT ET COMPTES EXIGIBLES APRES ENCAISSEMENT 33 - DETTES CONSTITUEES PAR DES TITRES 34 - DEBITEURS ET CREDITEURS DIVERS 35 - EMPLOIS DIVERS 36 - COMPTES TRANSITOIRES ET DE REGULARISATION 37 - COMPTES DE LIAISON 38 - CREANCES DOUTEUSES 39 - PROVISIONS POUR CREANCES DOUTEUSES\nCLASSE 4 : COMPTES DES VALEURS IMMOBILISEES 40 - PRETS SUBORDONNES 41 - PARTS DANS LES ENTREPRISES LIEES, TITRES DE PARTICIPATION ET TITRES DE L'ACTIVITE DE PORTEFEUILLE 42 - IMMOBILISATIONS 43 - CREDIT-BAIL ET OPERATIONS ASSIMILEES 44 - LOCATION SIMPLE 45 - DOTATIONS DES SUCCURSALES A L'ETRANGER 46 - PROVISIONS POUR DEPRECIATION DES IMMOBILISATIONS 47 - AMORTISSEMENTS 48 - CREANCES DOUTEUSES 49 - PROVISIONS POUR CREANCES DOUTEUSES\nCLASSE 5 : FONDS PROPRES ET ASSIMILES 50 - SUBVENTIONS ET FONDS PUBLICS AFFECTES 51 - PROVISIONS POUR RISQUES ET CHARGES 52 - PROVISIONS REGLEMENTEES 53 - DETTES SUBORDONNEES 54 - FONDS POUR RISQUES BANCAIRES GENERAUX 55 - PRIMES LIEES AU CAPITAL ET RESERVES 56 - CAPITAL 58 - REPORT A NOUVEAU\nCLASSE 6 : COMPTES DE CHARGES 60 - CHARGES D'EXPLOITATION BANCAIRE 62 - SERVICES 63 - FRAIS DE PERSONNEL 64 - IMPOTS ET TAXES 66 - CHARGES DIVERSES 67 - DOTATIONS AUX PROVISIONS ET PERTES SUR CREANCES IRRECUPERABLES 68 - DOTATIONS AUX AMORTISSEMENTS ET AUX PROVISIONS SUR IMMOBILISATIONS CORPORELLES ET\nINCORPORELLES 69 - CHARGES EXCEPTIONNELLES\nCLASSE 7 : COMPTES DE PRODUITS 70 - PRODUITS D'EXPLOITATION BANCAIRE 76 - PRODUITS DIVERS 77 - REPRISES DE PROVISIONS ET RECUPERATIONS SUR CREANCES AMORTIES 79 - PRODUITS EXCEPTIONNELS\nCLASSE 8 : COMPTES DE RESULTATS 80 - PRODUIT NET BANCAIRE 83 - RESULTAT D'EXPLOITATION 84 - RESULTAT EXCEPTIONNEL 88 - RESULTAT DE L'EXERCICE\nCLASSE 9 : COMPTES DE HORS BILAN 90 - ENGAGEMENTS DE FINANCEMENT 91 - ENGAGEMENTS DE GARANTIE 92 - ENGAGEMENTS SUR TITRES 93 - OPERATIONS EN DEVISES 94 - COMPTES D'AJUSTEMENT DEVISES HORS-BILAN 96 - AUTRES ENGAGEMENTS 98 - ENGAGEMENTS DOUTEUX\nCLASSE 1 - OPERATIONS DE TRESORERIE ET OPERATIONS INTERBANCAIRES\nLes comptes de cette classe enregistrent les espèces et les valeurs en caisse, les opérations de trésorerie et les opérations interbancaires.\nLes opérations de trésorerie englobent notamment les prêts, les emprunts et les pensions effectués sur le marché monétaire.\nLes opérations interbancaires sont celles effectuées avec les Banques Centrales, le Trésor Public, les Centres de\nChèques Postaux, les banques et les établissements financiers y compris les correspondants étrangers, ainsi que les\nInstitutions Financières internationales et régionales.\nCLASSE 2 - OPERATIONS AVEC LA CLIENTELE\nLes comptes de cette classe comprennent l'ensemble des crédits distribués à la clientèle ainsi que les dépôts effectués par cette dernière.\nLes crédits à la clientèle (compte 20) englobent tous les crédits octroyés à la clientèle indépendamment de leurs termes.\nLes comptes de la clientèle (compte 22) incluent l'ensemble des ressources apportées par la clientèle (dépôts à vue, dépôts à terme, bons de caisse...).\nFigurent également à cette classe, les prêts et emprunts réalisés avec la clientèle financière, les sociétés d'investissement, les compagnies d'assurances et de retraite, ainsi que les autres entreprises admises comme intervenantes sur un marché organisé.\nSont exclus de cette classe, les emplois et les ressources matérialisés par des titres.\nCLASSE 3 : PORTEFEUILLE-TITRES ET COMPTES DE REGULARISATIONS\nOutre les opérations relatives au portefeuille-titres, les comptes de cette classe enregistrent également les dettes matérialisées par des titres.\nLe portefeuille-titres comprend les titres de transaction, les titres de placement et les titres d'investissement.\nCes titres sont acquis avec l'intention d'en tirer un profit financier.\nLes dettes matérialisées par des titres, englobent l'ensemble des dettes de l'établissement assujetti, matérialisées par des titres : Titres de créances négociables et obligations, notamment celles coupons convertibles, ...\nFigurent également à cette classe, les opérations de recouvrement, les opérations avec les tiers, les autres emplois ainsi que les comptes transitoires et de régularisation relatifs à l'ensemble des opérations de l'établissement assujetti.\nCLASSE 4 : LES VALEURS IMMOBILISEES\nLes comptes de cette classe enregistrent les emplois destinés à servir de façon durable à l'activité de l'établissement assujetti.\nFigurent à cette classe, les prêts subordonnés et les immobilisations qu'elles soient financières, corporelles ou incorporelles, y compris celles données en crédit-bail ou en location simple.\nCLASSE 5 : FONDS PROPRES ET ASSIMILES\nSont regroupés dans les comptes de cette classe, l'ensemble des moyens de financement apports ou laissés à la disposition de l'établissement assujetti de façon permanente ou durable.\nCLASSE 6 : LES CHARGES\nLes comptes de cette classe enregistrent l'ensemble des charges supportées pendant l'exercice par l'établissement assujetti.\nOutre les charges d'exploitation bancaire relatives à l'activité proprement bancaire, les rubriques de cette classe incluent les frais généraux ainsi que les dotations aux amortissements et aux provisions.\nFigurent également à cette classe, les dotations du fonds pour risques bancaires généraux.\nLes charges d'exploitation bancaire sont distinguées selon le type d’opérations et selon qu'il s'agisse d’intérêts ou de commissions.\nCLASSE 7 : LES PRODUITS\nLes comptes de cette classe englobent l'ensemble des produits réalisés durant l'exercice par l'établissement assujetti.\nOutre les produits d'exploitation bancaire relatifs à l'activité proprement bancaire, les rubriques de cette classe comprennent les reprises de provisions et les produits exceptionnels.\nLes reprises du fonds pour risques bancaires généraux sont enregistrées dans cette classe.\nAu même titre que les charges, les produits d'exploitation bancaire sont distingués selon le type d’opérations et selon qu'il s'agisse d’intérêts ou de commissions.\nCLASSE 8 : LES RESULTATS\nLes comptes de cette classe abritent les soldes intermédiaires de gestion : le produit net bancaire, le résultat d'exploitation, le résultat exceptionnel et le résultat de l'exercice.\nLe produit net bancaire est un indicateur spécifique à l'activité bancaire. Il met en valeur l’excédent dégagé par l'exploitation du fait de l'évolution du niveau de l'activité et des taux.\nFigure également à cette classe, l’impôt sur les bénéfices des sociétés.\nCLASSE 9 : LE HORS-BILAN\nLes rubriques de cette classe enregistrent l'ensemble des engagements de l'établissement assujetti qu'ils soient donnés ou reçus.\nLes différents engagements sont distingués selon la nature de l'engagement et de l'agent contrepartie.\nA cet égard, des comptes appropriés sont prévus pour les engagements de financement, les engagements de garantie, les engagements sur titres et les engagements en devises.\nLes engagements de financement correspondent ˆ des promesses de concours faites en faveur d'un bénéficiaire.\nLes engagements de garantie, effectués notamment sous forme de cautions, sont des opérations pour lesquelles l'établissement assujetti s'engage en faveur d'un tiers assurer la charge souscrite par ce dernier, s'il n'y satisfait pas lui-même.\nFigurent notamment à la rubrique \"engagements de garantie\", les obligations cautionnés et les engagements par acceptation.\nLa rubrique \"engagements sur titres\" inclue les opérations d'achat et de vente pour le propre compte de l'établissement assujetti.\nFigurent également à cette rubrique, les engagements de prise ferme dans les opérations d’intermédiation.\nLes engagements sur opérations en devises incluent :\n- les opérations de change au comptant tant que le délai d'usance n'est pas écoulé,\n- les opérations de change à terme : opérations d'achat et de vente de devises dont les parties décident de différer le dénouement pour des motifs autres que le délai d'usance,\n- les opérations de prêts et d'emprunts en devises, tant que le délai de mise à disposition des fonds n'est pas écoulé.",
+      "paragraphs": [
+        {
+          "text": "CLASSE 1 : COMPTES D'OPERATIONS DE TRESORERIE ET D'OPERATIONS INTERBANCAIRES 10 - CAISSE 11 - BANQUES CENTRALES - CENTRES DES CHEQUES POSTAUX 12 - COMPTES ORDINAIRES 13 - COMPTES, PRETS ET EMPRUNTS 14 - VALEURS RECUES EN PENSION 15 - VALEURS DONNEES EN PENSION 16 - VALEURS NON IMPUTEES ET AUTRES SOMMES DUES 17 - OPERATIONS INTERNES AU RESEAU 18 - CREANCES DOUTEUSES 19 - PROVISIONS POUR CREANCES DOUTEUSES.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "CLASSE 2 : COMPTES D'OPERATIONS AVEC LA CLIENTELE 20 - CREDITS A LA CLIENTELE 22 - COMPTES DE LA CLIENTELE 23 - PRETS ET EMPRUNTS 24 - VALEURS RECUES EN PENSION 25 - VALEURS DONNEES EN PENSION 26 - VALEURS NON IMPUTEES ET AUTRES SOMMES DUES 28 - CREANCES DOUTEUSES 29 - PROVISIONS POUR CREANCES DOUTEUSES.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "CLASSE 3 : COMPTES DU PORTEFEUILLE - TITRES ET COMPTES DE REGULARISATIONS 30 - OPERATIONS SUR TITRES 31 - INSTRUMENTS CONDITIONNELS 32 - VALEURS EN RECOUVREMENT ET COMPTES EXIGIBLES APRES ENCAISSEMENT 33 - DETTES CONSTITUEES PAR DES TITRES 34 - DEBITEURS ET CREDITEURS DIVERS 35 - EMPLOIS DIVERS 36 - COMPTES TRANSITOIRES ET DE REGULARISATION 37 - COMPTES DE LIAISON 38 - CREANCES DOUTEUSES 39 - PROVISIONS POUR CREANCES DOUTEUSES",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "CLASSE 4 : COMPTES DES VALEURS IMMOBILISEES 40 - PRETS SUBORDONNES 41 - PARTS DANS LES ENTREPRISES LIEES, TITRES DE PARTICIPATION ET TITRES DE L'ACTIVITE DE PORTEFEUILLE 42 - IMMOBILISATIONS 43 - CREDIT-BAIL ET OPERATIONS ASSIMILEES 44 - LOCATION SIMPLE 45 - DOTATIONS DES SUCCURSALES A L'ETRANGER 46 - PROVISIONS POUR DEPRECIATION DES IMMOBILISATIONS 47 - AMORTISSEMENTS 48 - CREANCES DOUTEUSES 49 - PROVISIONS POUR CREANCES DOUTEUSES",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "CLASSE 5 : FONDS PROPRES ET ASSIMILES 50 - SUBVENTIONS ET FONDS PUBLICS AFFECTES 51 - PROVISIONS POUR RISQUES ET CHARGES 52 - PROVISIONS REGLEMENTEES 53 - DETTES SUBORDONNEES 54 - FONDS POUR RISQUES BANCAIRES GENERAUX 55 - PRIMES LIEES AU CAPITAL ET RESERVES 56 - CAPITAL 58 - REPORT A NOUVEAU",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "CLASSE 6 : COMPTES DE CHARGES 60 - CHARGES D'EXPLOITATION BANCAIRE 62 - SERVICES 63 - FRAIS DE PERSONNEL 64 - IMPOTS ET TAXES 66 - CHARGES DIVERSES 67 - DOTATIONS AUX PROVISIONS ET PERTES SUR CREANCES IRRECUPERABLES 68 - DOTATIONS AUX AMORTISSEMENTS ET AUX PROVISIONS SUR IMMOBILISATIONS CORPORELLES ET",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "INCORPORELLES 69 - CHARGES EXCEPTIONNELLES",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "CLASSE 7 : COMPTES DE PRODUITS 70 - PRODUITS D'EXPLOITATION BANCAIRE 76 - PRODUITS DIVERS 77 - REPRISES DE PROVISIONS ET RECUPERATIONS SUR CREANCES AMORTIES 79 - PRODUITS EXCEPTIONNELS",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "CLASSE 8 : COMPTES DE RESULTATS 80 - PRODUIT NET BANCAIRE 83 - RESULTAT D'EXPLOITATION 84 - RESULTAT EXCEPTIONNEL 88 - RESULTAT DE L'EXERCICE",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "CLASSE 9 : COMPTES DE HORS BILAN 90 - ENGAGEMENTS DE FINANCEMENT 91 - ENGAGEMENTS DE GARANTIE 92 - ENGAGEMENTS SUR TITRES 93 - OPERATIONS EN DEVISES 94 - COMPTES D'AJUSTEMENT DEVISES HORS-BILAN 96 - AUTRES ENGAGEMENTS 98 - ENGAGEMENTS DOUTEUX",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "CLASSE 1 - OPERATIONS DE TRESORERIE ET OPERATIONS INTERBANCAIRES",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Les comptes de cette classe enregistrent les espèces et les valeurs en caisse, les opérations de trésorerie et les opérations interbancaires.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Les opérations de trésorerie englobent notamment les prêts, les emprunts et les pensions effectués sur le marché monétaire.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Les opérations interbancaires sont celles effectuées avec les Banques Centrales, le Trésor Public, les Centres de",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Chèques Postaux, les banques et les établissements financiers y compris les correspondants étrangers, ainsi que les",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Institutions Financières internationales et régionales.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "CLASSE 2 - OPERATIONS AVEC LA CLIENTELE",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Les comptes de cette classe comprennent l'ensemble des crédits distribués à la clientèle ainsi que les dépôts effectués par cette dernière.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Les crédits à la clientèle (compte 20) englobent tous les crédits octroyés à la clientèle indépendamment de leurs termes.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Les comptes de la clientèle (compte 22) incluent l'ensemble des ressources apportées par la clientèle (dépôts à vue, dépôts à terme, bons de caisse...).",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Figurent également à cette classe, les prêts et emprunts réalisés avec la clientèle financière, les sociétés d'investissement, les compagnies d'assurances et de retraite, ainsi que les autres entreprises admises comme intervenantes sur un marché organisé.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Sont exclus de cette classe, les emplois et les ressources matérialisés par des titres.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "CLASSE 3 : PORTEFEUILLE-TITRES ET COMPTES DE REGULARISATIONS",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Outre les opérations relatives au portefeuille-titres, les comptes de cette classe enregistrent également les dettes matérialisées par des titres.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Le portefeuille-titres comprend les titres de transaction, les titres de placement et les titres d'investissement.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Ces titres sont acquis avec l'intention d'en tirer un profit financier.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Les dettes matérialisées par des titres, englobent l'ensemble des dettes de l'établissement assujetti, matérialisées par des titres : Titres de créances négociables et obligations, notamment celles coupons convertibles, ...",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Figurent également à cette classe, les opérations de recouvrement, les opérations avec les tiers, les autres emplois ainsi que les comptes transitoires et de régularisation relatifs à l'ensemble des opérations de l'établissement assujetti.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "CLASSE 4 : LES VALEURS IMMOBILISEES",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Les comptes de cette classe enregistrent les emplois destinés à servir de façon durable à l'activité de l'établissement assujetti.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Figurent à cette classe, les prêts subordonnés et les immobilisations qu'elles soient financières, corporelles ou incorporelles, y compris celles données en crédit-bail ou en location simple.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "CLASSE 5 : FONDS PROPRES ET ASSIMILES",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Sont regroupés dans les comptes de cette classe, l'ensemble des moyens de financement apports ou laissés à la disposition de l'établissement assujetti de façon permanente ou durable.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "CLASSE 6 : LES CHARGES",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Les comptes de cette classe enregistrent l'ensemble des charges supportées pendant l'exercice par l'établissement assujetti.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Outre les charges d'exploitation bancaire relatives à l'activité proprement bancaire, les rubriques de cette classe incluent les frais généraux ainsi que les dotations aux amortissements et aux provisions.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Figurent également à cette classe, les dotations du fonds pour risques bancaires généraux.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Les charges d'exploitation bancaire sont distinguées selon le type d’opérations et selon qu'il s'agisse d’intérêts ou de commissions.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "CLASSE 7 : LES PRODUITS",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Les comptes de cette classe englobent l'ensemble des produits réalisés durant l'exercice par l'établissement assujetti.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Outre les produits d'exploitation bancaire relatifs à l'activité proprement bancaire, les rubriques de cette classe comprennent les reprises de provisions et les produits exceptionnels.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Les reprises du fonds pour risques bancaires généraux sont enregistrées dans cette classe.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Au même titre que les charges, les produits d'exploitation bancaire sont distingués selon le type d’opérations et selon qu'il s'agisse d’intérêts ou de commissions.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "CLASSE 8 : LES RESULTATS",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Les comptes de cette classe abritent les soldes intermédiaires de gestion : le produit net bancaire, le résultat d'exploitation, le résultat exceptionnel et le résultat de l'exercice.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Le produit net bancaire est un indicateur spécifique à l'activité bancaire. Il met en valeur l’excédent dégagé par l'exploitation du fait de l'évolution du niveau de l'activité et des taux.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Figure également à cette classe, l’impôt sur les bénéfices des sociétés.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "CLASSE 9 : LE HORS-BILAN",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Les rubriques de cette classe enregistrent l'ensemble des engagements de l'établissement assujetti qu'ils soient donnés ou reçus.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Les différents engagements sont distingués selon la nature de l'engagement et de l'agent contrepartie.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "A cet égard, des comptes appropriés sont prévus pour les engagements de financement, les engagements de garantie, les engagements sur titres et les engagements en devises.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Les engagements de financement correspondent ˆ des promesses de concours faites en faveur d'un bénéficiaire.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Les engagements de garantie, effectués notamment sous forme de cautions, sont des opérations pour lesquelles l'établissement assujetti s'engage en faveur d'un tiers assurer la charge souscrite par ce dernier, s'il n'y satisfait pas lui-même.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Figurent notamment à la rubrique \"engagements de garantie\", les obligations cautionnés et les engagements par acceptation.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "La rubrique \"engagements sur titres\" inclue les opérations d'achat et de vente pour le propre compte de l'établissement assujetti.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Figurent également à cette rubrique, les engagements de prise ferme dans les opérations d’intermédiation.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Les engagements sur opérations en devises incluent :",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- les opérations de change au comptant tant que le délai d'usance n'est pas écoulé,",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- les opérations de change à terme : opérations d'achat et de vente de devises dont les parties décident de différer le dénouement pour des motifs autres que le délai d'usance,",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- les opérations de prêts et d'emprunts en devises, tant que le délai de mise à disposition des fonds n'est pas écoulé.",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.037
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-92-08.fr.txt"
+}

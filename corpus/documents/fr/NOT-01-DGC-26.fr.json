@@ -1,0 +1,292 @@
+{
+  "document_id": "NOT-01-DGC-26.fr",
+  "work_id": "NOT-01-DGC-26",
+  "title": "Note aux banques N° 01/DGC/2026 du 14 Mai 2026",
+  "document_type": "note",
+  "type_code": "NOT",
+  "type_source": "label",
+  "number": "01-DGC-2026",
+  "number_source": "libelle",
+  "date": "2026-05-14",
+  "date_raw": "N° 01/DGC/2026 du 14 Mai 2026",
+  "date_source": "libelle",
+  "publication_date": "2026-05-15",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "notes",
+  "subcategory": "Année 2026",
+  "source_url": "https://www.bank-of-algeria.dz/notes-2026/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2026/05/note-01-DGC-2026.pdf",
+  "format": "pdf",
+  "file_hash": "5b286e78a0e39bc5dc65d1c13867d6fc4f50166e247d252ec294557b6d63764f",
+  "file_size": 110882,
+  "raw_path": "raw/5b286e78a0e3__note-01-DGC-2026.pdf",
+  "retrieved_at": "2026-10-05T13:32:12+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "c19da3ed459f3d23b20e23a50c240d54960e700b3c834f1bf9e986479df4cfa8",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/notes-2026/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "author": "anfel nina",
+    "creator": "Microsoft Word",
+    "creationDate": "D:20260515092858+00'00'",
+    "modDate": "D:20260515092858+00'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 1927,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 724,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": false,
+    "article_count": 0,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": null,
+  "alias_urls": [],
+  "text_hash": "85c5a874b33fb2a1a2a2a94b9120acf8f0dfe2b82703e9b5c16651378f62e60a",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "07-01",
+        "date": "2007-02-03",
+        "raw": "règlement n°07-01 du 03 février 2007"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "banques intermédiaires agréés qu'en application des dispositions de l'alinéa 3 de l'article 29, modifié et complété, du règlement n°07-01 du 03 février 2007 modifié et complété relatif aux règles"
+      },
+      "target_work_id": "REG-07-01"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "07-01",
+        "date": "2007-02-03",
+        "raw": "règlement n°07-01 du 03 février 2007"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "banques intermédiaires agréés qu'en application des dispositions de l'alinéa 3 de l'article 29, modifié et complété, du règlement n°07-01 du 03 février 2007 modifié et complété relatif aux règles"
+      },
+      "target_work_id": "REG-07-01"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n°07-01 du 03 février 2007",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "banques intermédiaires agréés qu'en application des dispositions de l'alinéa 3 de l'article 29, modifié et complété, du règlement n°07-01 du 03 février 2007 modifié et complété relatif aux règles"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n°07-01 du 03 février 2007",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "banques intermédiaires agréés qu'en application des dispositions de l'alinéa 3 de l'article 29, modifié et complété, du règlement n°07-01 du 03 février 2007 modifié et complété relatif aux règles"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n°07-01 du 03 février 2007",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "banques intermédiaires agréés qu'en application des dispositions de l'alinéa 3 de l'article 29, modifié et complété, du règlement n°07-01 du 03 février 2007 modifié et complété relatif aux règles"
+      }
+    }
+  ],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "DIRECTION GENERALE DES CHANGES\nNote aux banques\nN°01/DGC/2026 du 14 mai 2026\nDans le cadre du renforcement du dispositif de contrôle des opérations de commerce extérieur, de la traçabilité des flux financiers internationaux ainsi que de la maîtrise des risques liés aux opérations d'importation, il est porté à la connaissance des banques intermédiaires agréés qu'en application des dispositions de l'alinéa 3 de l'article 29, modifié et complété, du règlement n°07-01 du 03 février 2007 modifié et complété relatif aux règles applicables aux transactions courantes avec l'étranger et aux comptes devises, toute opération d'importation de biens est désormais subordonnée à une domiciliation bancaire préalable, et ce avant toute expédition des marchandises par le fournisseur étranger.\nA cet égard, les banques intermédiaires agréés sont tenus de veiller strictement au respect de cette nouvelle exigence réglementaire et de s'assurer que la date figurant sur les documents de transport et/ou d'expédition des marchandises est postérieure à la date de domiciliation bancaire.\nAucune domiciliation bancaire ne pourra être acceptée lorsque l'expédition effective des marchandises est intervenue antérieurement à la date de domiciliation, sauf cas exceptionnels dûment justifiés et expressément autorisés conformément à la réglementation en vigueur.\nCette mesure vise notamment à:\n-renforcer le dispositif de lutte contre les pratiques frauduleuses et les transferts irréguliers de capitaux;\n-assurer un suivi préalable des engagements extérieurs liés aux importations;\n-améliorer la maîtrise statistique et prudentielle des opérations d'importation.\nLes banques intermédiaires agréés sont invités à mettre en place les diligences nécessaires afin de contrôler systématiquement:\n-les dates figurant sur les factures commerciales;\n-les titres de transport (Bill of Lading, Airway Bill, CMR, etc.);\n-les certificats d'expédition et tout document attestant de la date effective d'expédition des marchandises.\nLes banques intermédiaires agréés sont tenus d'informer leur clientèle des nouvelles dispositions de la présente note, et que tout non-respect constitue une infraction à la législation et à la réglementation des changes.\nLes dispositions de la présente note ne s’appliquent pas aux opérations d’importation de biens ayant déjà fait l'objet d'une expédition effective vers le territoire douanier national avant la publication de la présente, date du titre de transport faisant foi.\nLa présente note prend effet à compter de la date de sa signature.\nLa Directrice Générale des Changes\nFatma Zohra LOULOU",
+      "paragraphs": [
+        {
+          "text": "DIRECTION GENERALE DES CHANGES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Note aux banques",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "N°01/DGC/2026 du 14 mai 2026",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Dans le cadre du renforcement du dispositif de contrôle des opérations de commerce extérieur, de la traçabilité des flux financiers internationaux ainsi que de la maîtrise des risques liés aux opérations d'importation, il est porté à la connaissance des banques intermédiaires agréés qu'en application des dispositions de l'alinéa 3 de l'article 29, modifié et complété, du règlement n°07-01 du 03 février 2007 modifié et complété relatif aux règles applicables aux transactions courantes avec l'étranger et aux comptes devises, toute opération d'importation de biens est désormais subordonnée à une domiciliation bancaire préalable, et ce avant toute expédition des marchandises par le fournisseur étranger.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "A cet égard, les banques intermédiaires agréés sont tenus de veiller strictement au respect de cette nouvelle exigence réglementaire et de s'assurer que la date figurant sur les documents de transport et/ou d'expédition des marchandises est postérieure à la date de domiciliation bancaire.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Aucune domiciliation bancaire ne pourra être acceptée lorsque l'expédition effective des marchandises est intervenue antérieurement à la date de domiciliation, sauf cas exceptionnels dûment justifiés et expressément autorisés conformément à la réglementation en vigueur.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Cette mesure vise notamment à:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-renforcer le dispositif de lutte contre les pratiques frauduleuses et les transferts irréguliers de capitaux;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-assurer un suivi préalable des engagements extérieurs liés aux importations;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-améliorer la maîtrise statistique et prudentielle des opérations d'importation.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les banques intermédiaires agréés sont invités à mettre en place les diligences nécessaires afin de contrôler systématiquement:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-les dates figurant sur les factures commerciales;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-les titres de transport (Bill of Lading, Airway Bill, CMR, etc.);",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-les certificats d'expédition et tout document attestant de la date effective d'expédition des marchandises.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Les banques intermédiaires agréés sont tenus d'informer leur clientèle des nouvelles dispositions de la présente note, et que tout non-respect constitue une infraction à la législation et à la réglementation des changes.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Les dispositions de la présente note ne s’appliquent pas aux opérations d’importation de biens ayant déjà fait l'objet d'une expédition effective vers le territoire douanier national avant la publication de la présente, date du titre de transport faisant foi.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "La présente note prend effet à compter de la date de sa signature.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "La Directrice Générale des Changes",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Fatma Zohra LOULOU",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.027
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/NOT-01-DGC-26.fr.txt"
+}

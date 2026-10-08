@@ -1,0 +1,306 @@
+{
+  "document_id": "REG-94-10.fr~2",
+  "work_id": "REG-94-10",
+  "title": "Règlement n°94-10 du 12 avril 1994 modifiant le règlement n°92-02 du 8 septembre 1990 fixant les conditions d’ouverture et de fonctionnement des comptes devises des personnes morales.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "94-10",
+  "number_source": "en-tête du document",
+  "date": "1994-04-12",
+  "date_raw": "N°94-10 DU 12 AVRIL 1994",
+  "date_source": "en-tête du document",
+  "publication_date": "2023-01-25",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Règlementation des changes",
+  "source_url": "https://www.bank-of-algeria.dz/devises-reglement/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/reglement9410.pdf",
+  "format": "pdf",
+  "file_hash": "f3f22b62b17a13b46715eb520738d102a9d044c015b45877222dba01a0678d25",
+  "file_size": 40745,
+  "raw_path": "raw/f3f22b62b17a__reglement9410.pdf",
+  "retrieved_at": "2026-10-05T13:27:15+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "0552810e4bc8c47a83c3937e2215b2fcade1f98c61a772942a508612b6065f69",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/devises-reglement/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document4",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200712102730+01'00'",
+    "modDate": "D:20200712102730+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 1651,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": false,
+    "article_count": 0,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "meme_texte_plusieurs_fichiers",
+    "aucun_article_detecte"
+  ],
+  "title_document": "REGLEMENT N°94-10 DU 12 AVRIL 1994 MODIFIANT LE REGLEMENT N°90-02 DU 08 SEPTEMBRE 1990 FIXANT LES CONDITIONS D'OUVERTURE ET DE FONCTIONNEMENT DES COMPTES DEVISES DES PERSONNES MORALES",
+  "alias_urls": [],
+  "text_hash": "12dd99f1c5469127a12c4d7d716aa7e17b02e50acf63c9b19a267731bf572807",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "92-02",
+        "date": "1990-09-08",
+        "raw": "règlement n°92-02 du 8 septembre 1990"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°94-10 du 12 avril 1994 modifiant le règlement n°92-02 du 8 septembre 1990 fixant les conditions d’ouverture et de"
+      },
+      "target_work_id": "REG-92-02"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "90-02",
+        "date": "1990-09-08",
+        "raw": "REGLEMENT N°90-02 DU 08 SEPTEMBRE 1990"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "REGLEMENT N°94-10 DU 12 AVRIL 1994 MODIFIANT LE REGLEMENT N°90-02 DU 08 SEPTEMBRE 1990 FIXANT LES CONDITIONS D'OUVERTURE ET DE"
+      },
+      "target_work_id": "REG-90-02"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "90-02",
+        "date": "1990-09-08",
+        "raw": "Règlement n°90-02 du 08 Septembre 1990"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "ie et du Crédit en date du 12 Avril 1994 ; Promulgue le Règlement dont la teneur suit : Article unique : L'article 7 du Règlement n°90-02 du 08 Septembre 1990 fixant les conditions d'ouverture et de"
+      },
+      "target_work_id": "REG-90-02"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "REG-92-02",
+      "reference": "règlement n°92-02 du 8 septembre 1990",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°94-10 du 12 avril 1994 modifiant le règlement n°92-02 du 8 septembre 1990 fixant les conditions d’ouverture et de"
+      }
+    },
+    {
+      "work_id": "REG-90-02",
+      "reference": "REGLEMENT N°90-02 DU 08 SEPTEMBRE 1990",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "REGLEMENT N°94-10 DU 12 AVRIL 1994 MODIFIANT LE REGLEMENT N°90-02 DU 08 SEPTEMBRE 1990 FIXANT LES CONDITIONS D'OUVERTURE ET DE"
+      }
+    },
+    {
+      "work_id": "REG-90-02",
+      "reference": "Règlement n°90-02 du 08 Septembre 1990",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "ie et du Crédit en date du 12 Avril 1994 ; Promulgue le Règlement dont la teneur suit : Article unique : L'article 7 du Règlement n°90-02 du 08 Septembre 1990 fixant les conditions d'ouverture et de"
+      }
+    }
+  ],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-94-10.ar",
+    "REG-94-10.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°94-10 DU 12 AVRIL 1994 MODIFIANT LE REGLEMENT N°90-02\nDU 08 SEPTEMBRE 1990 FIXANT LES CONDITIONS D'OUVERTURE ET DE\nFONCTIONNEMENT DES COMPTES DEVISES DES PERSONNES MORALES\nLe Gouverneur de la Banque d'Algérie,\n- Vu la Loi n°90-10 du 14 Avril 1990 relative à la Monnaie et au Crédit notamment ses articles 32 à 41, 44 \"K\" et 193 à 199 ;\n- Vu le Décret Présidentiel du 21 Juillet 1992 portant nomination du Gouverneur de la Banque d'Algérie ;\n- Vu les Décrets Présidentiels du 14 Mai 1990 portant nomination de Vice\nGouverneurs de la Banque d'Algérie;\n- Vu le Décret Exécutif du 1er Juillet 1991 portant désignation de Membres\nTitulaires et Suppléants au Conseil de la Monnaie et du Crédit ;\n- Vu le Règlement n° 90-02 du 08 Septembre 1990 fixant les conditions d'ouverture et de fonctionnement des comptes devises des personnes morales ;\n- Vu le Règlement n° 92-04 du 22 Mars 1992 relatif au contrôle des changes ;\n- Après délibération du Conseil de la Monnaie et du Crédit en date du 12 Avril 1994 ;\nPromulgue le Règlement dont la teneur suit :\nArticle unique : L'article 7 du Règlement n°90-02 du 08 Septembre 1990 fixant les conditions d'ouverture et de fonctionnement des comptes devises des personnes morales est modifié et rédigé comme suit :\n\"Art.7 : Les exportations de produits, de marchandises et de services autres que ceux visés à l'article 6 ci-dessus, donnent droit à inscription aux comptes devises \"personnes morales\" de l'exportateur de tout ou partie des montants rapatriés et ce, à concurrence du pourcentage fixé par une Instruction de la Banque d'Algérie\".\nLe Gouverneur\nAbdelouahab KERAMANE",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°94-10 DU 12 AVRIL 1994 MODIFIANT LE REGLEMENT N°90-02",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DU 08 SEPTEMBRE 1990 FIXANT LES CONDITIONS D'OUVERTURE ET DE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "FONCTIONNEMENT DES COMPTES DEVISES DES PERSONNES MORALES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d'Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la Loi n°90-10 du 14 Avril 1990 relative à la Monnaie et au Crédit notamment ses articles 32 à 41, 44 \"K\" et 193 à 199 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 21 Juillet 1992 portant nomination du Gouverneur de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu les Décrets Présidentiels du 14 Mai 1990 portant nomination de Vice",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Gouverneurs de la Banque d'Algérie;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Exécutif du 1er Juillet 1991 portant désignation de Membres",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Titulaires et Suppléants au Conseil de la Monnaie et du Crédit ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Règlement n° 90-02 du 08 Septembre 1990 fixant les conditions d'ouverture et de fonctionnement des comptes devises des personnes morales ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Règlement n° 92-04 du 22 Mars 1992 relatif au contrôle des changes ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Après délibération du Conseil de la Monnaie et du Crédit en date du 12 Avril 1994 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le Règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Article unique : L'article 7 du Règlement n°90-02 du 08 Septembre 1990 fixant les conditions d'ouverture et de fonctionnement des comptes devises des personnes morales est modifié et rédigé comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "\"Art.7 : Les exportations de produits, de marchandises et de services autres que ceux visés à l'article 6 ci-dessus, donnent droit à inscription aux comptes devises \"personnes morales\" de l'exportateur de tout ou partie des montants rapatriés et ce, à concurrence du pourcentage fixé par une Instruction de la Banque d'Algérie\".",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "meme_texte_plusieurs_fichiers",
+      "aucun_article_detecte"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.04
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-94-10.fr~2.txt"
+}

@@ -1,0 +1,844 @@
+{
+  "document_id": "REG-20-01-20200315.fr",
+  "work_id": "REG-20-01-20200315",
+  "title": "Règlement n°2020-01 du 15 mars 2020 fixant les règles générales en matière de conditions de banque applicables aux opérations de banque.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "2020-01",
+  "number_source": "en-tête du document",
+  "date": "2020-03-15",
+  "date_raw": "N°2020-01 DU 15 MARS 2020",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Règles générales en matière de conditions de banque applicables aux opérations de banque",
+  "source_url": "https://www.bank-of-algeria.dz/convertibilite-reglement/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement202001.pdf",
+  "format": "pdf",
+  "file_hash": "8f570a33a0c2c0b6ce4ae03ab4727372d99b8ed1f7e2b9535916065ff7441b5e",
+  "file_size": 83192,
+  "raw_path": "raw/8f570a33a0c2__reglement202001.pdf",
+  "retrieved_at": "2026-10-05T13:22:57+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 3,
+  "url_hash": "197cb8369e86b43c9f009a3f62fd124690d1c1181ef9d3bb6d4e6fa9ba4bb357",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/convertibilite-reglement/",
+    "https://www.bank-of-algeria.dz/reglement-2020/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - reglement202001",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210207105012+01'00'",
+    "modDate": "D:20210207105012+01'00'"
+  },
+  "hijri_date_raw": "27 Joumada Ethania 1424",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 3,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2673,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 2467,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 1602,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 19,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "REGLEMENT N°2020-01 DU 15 MARS 2020 FIXANT LES REGLES GENERALES EN MATIERE DE CONDITIONS DE BANQUE APPLICABLES AUX OPERATIONS DE BANQUE",
+  "alias_urls": [],
+  "text_hash": "efedc3d73845bb2e6452c770f8957f5669851adc7b68a041b834241d7173fc39",
+  "relations_out": [
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "13-01",
+        "date": "2013-04-08",
+        "raw": "règlement n°13-01 du 8 avril 2013"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "Le présent règlement abroge les dispositions du règlement n°13-01 du 8 avril 2013 fixant les règles générales en matière"
+      },
+      "target_work_id": "REG-13-01"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "REG-13-01",
+      "reference": "règlement n°13-01 du 8 avril 2013",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "Le présent règlement abroge les dispositions du règlement n°13-01 du 8 avril 2013 fixant les règles générales en matière"
+      }
+    }
+  ],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-20-01-20200315.ar",
+    "REG-20-01-20200315.ar~2"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 16",
+      "number": "16",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 17",
+      "number": "17",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 18",
+      "number": "18",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 19",
+      "number": "19",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°2020-01 DU 15 MARS 2020 FIXANT\nLES REGLES GENERALES EN MATIERE DE CONDITIONS\nDE BANQUE APPLICABLES AUX OPERATIONS DE BANQUE\nLe Gouverneur de la Banque d’Algérie,\n- Vu l’Ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003 relative à la monnaie et au crédit modifiée et complétée, notamment ses articles 62, 64, 66 à 73, 119 bis et 119 ter ;\n- Vu le Décret Présidentiel du 17 Rabie El Aouel 1441 correspondant au 14 novembre 2019 portant nomination du Gouverneur de la Banque d’Algérie ;\n- Vu le Décret Présidentiel du 18 Rabie Ethani 1441 correspondant au 15 décembre 2019, portant nomination de Vice-Gouverneurs de la Banque d’Algérie ;\n- Vu le Décret Présidentiel du 17 Safar 1438 correspondant au 17 novembre 2016 portant nomination de Vice-Gouverneurs ;\n- Vu le Décret Présidentiel du 05 Safar 1437 correspondant au 17 novembre 2015 portant nomination de membres du conseil d’administration de la Banque d’Algérie ;\n- Vu le Règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007 relatif aux règles applicables aux transactions courantes avec l’étranger et aux comptes devises, modifié et complété ;\n- Vu le Règlement n°13-01 du 26 Joumada El Oula 1434 correspondant au 8 avril 2013 fixant les règles générales en matière de conditions de banque applicables aux opérations de banque ;\n- Après délibération du Conseil de la Monnaie et du Crédit en date du 15 mars 2020 ;\nPromulgue le Règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°2020-01 DU 15 MARS 2020 FIXANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "LES REGLES GENERALES EN MATIERE DE CONDITIONS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DE BANQUE APPLICABLES AUX OPERATIONS DE BANQUE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d’Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’Ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003 relative à la monnaie et au crédit modifiée et complétée, notamment ses articles 62, 64, 66 à 73, 119 bis et 119 ter ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 17 Rabie El Aouel 1441 correspondant au 14 novembre 2019 portant nomination du Gouverneur de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 18 Rabie Ethani 1441 correspondant au 15 décembre 2019, portant nomination de Vice-Gouverneurs de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 17 Safar 1438 correspondant au 17 novembre 2016 portant nomination de Vice-Gouverneurs ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 05 Safar 1437 correspondant au 17 novembre 2015 portant nomination de membres du conseil d’administration de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007 relatif aux règles applicables aux transactions courantes avec l’étranger et aux comptes devises, modifié et complété ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Règlement n°13-01 du 26 Joumada El Oula 1434 correspondant au 8 avril 2013 fixant les règles générales en matière de conditions de banque applicables aux opérations de banque ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Après délibération du Conseil de la Monnaie et du Crédit en date du 15 mars 2020 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le Règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le présent Règlement a pour objet de fixer les règles générales en matière de conditions de banque applicables aux opérations des banques et des établissements financiers.",
+      "paragraphs": [
+        {
+          "text": "Le présent Règlement a pour objet de fixer les règles générales en matière de conditions de banque applicables aux opérations des banques et des établissements financiers.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Par conditions de banque, il faut entendre la rémunération, les tarifs et les commissions appliqués aux opérations de banque réalisées par les banques et les établissements financiers.",
+      "paragraphs": [
+        {
+          "text": "Par conditions de banque, il faut entendre la rémunération, les tarifs et les commissions appliqués aux opérations de banque réalisées par les banques et les établissements financiers.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Sont considérées comme opérations de banque, les opérations effectuées par les banques et établissements financiers dans leurs relations avec la clientèle, telles que définies par les articles 66 à 69 de l’Ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003 modifiée et complétée, susvisée.",
+      "paragraphs": [
+        {
+          "text": "Sont considérées comme opérations de banque, les opérations effectuées par les banques et établissements financiers dans leurs relations avec la clientèle, telles que définies par les articles 66 à 69 de l’Ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003 modifiée et complétée, susvisée.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La commercialisation par les banques et les établissements financiers, de tout nouveau produit ou service bancaire, doit faire l’objet d’une autorisation préalable délivrée par la Banque d’Algérie.",
+      "paragraphs": [
+        {
+          "text": "La commercialisation par les banques et les établissements financiers, de tout nouveau produit ou service bancaire, doit faire l’objet d’une autorisation préalable délivrée par la Banque d’Algérie.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Au sens du présent Règlement, il est entendu par nouveau produit ou service bancaire, tout produit d’épargne, de crédit ou service bancaire n’ayant été ni autorisé, ni déjà mis sur le marché.\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "Au sens du présent Règlement, il est entendu par nouveau produit ou service bancaire, tout produit d’épargne, de crédit ou service bancaire n’ayant été ni autorisé, ni déjà mis sur le marché.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les éléments du dossier à fournir à l’appui de la demande d’autorisation de commercialisation d’un nouveau produit ou service bancaire, seront précisés par une instruction de la Banque d’Algérie.",
+      "paragraphs": [
+        {
+          "text": "Les éléments du dossier à fournir à l’appui de la demande d’autorisation de commercialisation d’un nouveau produit ou service bancaire, seront précisés par une instruction de la Banque d’Algérie.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Un recueil répertoriant les produits et services bancaires ayant été autorisés, est tenu par les services de la Banque d’Algérie et régulièrement mis à jour. Ce recueil fera l'objet de diffusion par la Banque d'Algérie, à l'adresse des banques et des établissements financiers.\nLes banques et établissements financiers désirant mettre sur le marché les produits ou services bancaires figurant sur le recueil sus visé, doivent en faire déclaration à la\nBanque d’Algérie.",
+      "paragraphs": [
+        {
+          "text": "Un recueil répertoriant les produits et services bancaires ayant été autorisés, est tenu par les services de la Banque d’Algérie et régulièrement mis à jour. Ce recueil fera l'objet de diffusion par la Banque d'Algérie, à l'adresse des banques et des établissements financiers.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Les banques et établissements financiers désirant mettre sur le marché les produits ou services bancaires figurant sur le recueil sus visé, doivent en faire déclaration à la",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Banque d’Algérie.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "La forme et le contenu de cette déclaration seront précisés par note des services de la Banque d’Algérie.",
+      "paragraphs": [
+        {
+          "text": "La forme et le contenu de cette déclaration seront précisés par note des services de la Banque d’Algérie.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les banques et établissements financiers, sont tenus de porter à la connaissance de leur clientèle et du public, par tous moyens, les conditions de banque qu’ils pratiquent pour les opérations qu’ils effectuent.\nA ce titre, les banques et les établissements financiers sont tenus d’informer leurs clients, sur les conditions d’utilisation des comptes ouverts, sur les prix des différents services auxquels ils donnent accès ainsi que sur les engagements réciproques de la banque et du client.\nCes conditions doivent être précisées dans la convention d’ouverture de compte ou sur les documents transmis à cet effet.",
+      "paragraphs": [
+        {
+          "text": "Les banques et établissements financiers, sont tenus de porter à la connaissance de leur clientèle et du public, par tous moyens, les conditions de banque qu’ils pratiquent pour les opérations qu’ils effectuent.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "A ce titre, les banques et les établissements financiers sont tenus d’informer leurs clients, sur les conditions d’utilisation des comptes ouverts, sur les prix des différents services auxquels ils donnent accès ainsi que sur les engagements réciproques de la banque et du client.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Ces conditions doivent être précisées dans la convention d’ouverture de compte ou sur les documents transmis à cet effet.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Pour toutes les opérations de crédit en compte, les banques doivent obligatoirement créditer le compte du client à l’intérieur des délais correspondant à la date de valeur réglementaire.",
+      "paragraphs": [
+        {
+          "text": "Pour toutes les opérations de crédit en compte, les banques doivent obligatoirement créditer le compte du client à l’intérieur des délais correspondant à la date de valeur réglementaire.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les dates de valeur sur les opérations de banque sont réglementées et précisées par instruction de la Banque d’Algérie",
+      "paragraphs": [
+        {
+          "text": "Les dates de valeur sur les opérations de banque sont réglementées et précisées par instruction de la Banque d’Algérie",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Tout retard dans l’exécution d’une opération de banque, au-delà de la date de valeur réglementaire susvisée, donnera lieu à une rémunération versée au client par la banque ou l’établissement financier concerné.",
+      "paragraphs": [
+        {
+          "text": "Tout retard dans l’exécution d’une opération de banque, au-delà de la date de valeur réglementaire susvisée, donnera lieu à une rémunération versée au client par la banque ou l’établissement financier concerné.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les taux d'intérêt créditeurs et débiteurs sont librement fixés par les banques et établissements financiers.\nLes taux d'intérêt effectifs globaux sur les crédits distribués par les banques et établissements financiers ne doivent, en aucun cas, dépasser le taux d’intérêt excessif fixé par la Banque d’Algérie.",
+      "paragraphs": [
+        {
+          "text": "Les taux d'intérêt créditeurs et débiteurs sont librement fixés par les banques et établissements financiers.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Les taux d'intérêt effectifs globaux sur les crédits distribués par les banques et établissements financiers ne doivent, en aucun cas, dépasser le taux d’intérêt excessif fixé par la Banque d’Algérie.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 3,
+      "text": "Les banques sont tenues de délivrer gratuitement les services bancaires de base suivants :\n- ouverture et clôture de comptes en dinars ;\n- délivrance de chéquier ;\n- délivrance d’un livret d’épargne ;\n- délivrance des cartes bancaires (domestiques) ;\n- versements d'espèces auprès de la banque domiciliataire ;\n- établissement et remise ou envoi le cas échéant d’un relevé de compte annuel au client ;\n- consultation en ligne du compte ;\n- émission de virement, entre particuliers, au sein de la même banque.",
+      "paragraphs": [
+        {
+          "text": "Les banques sont tenues de délivrer gratuitement les services bancaires de base suivants :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- ouverture et clôture de comptes en dinars ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- délivrance de chéquier ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- délivrance d’un livret d’épargne ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- délivrance des cartes bancaires (domestiques) ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- versements d'espèces auprès de la banque domiciliataire ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- établissement et remise ou envoi le cas échéant d’un relevé de compte annuel au client ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- consultation en ligne du compte ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- émission de virement, entre particuliers, au sein de la même banque.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Les tarifs des commissions prélevées par les banques, au titre des opérations de commerce extérieur à l’import et de transferts de revenus, seront fixés par voie d’instruction.",
+      "paragraphs": [
+        {
+          "text": "Les tarifs des commissions prélevées par les banques, au titre des opérations de commerce extérieur à l’import et de transferts de revenus, seront fixés par voie d’instruction.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 16",
+      "number": "16",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "A l’exception des services bancaires gratuits prévus à l’article 14 ci-dessus, et les commissions visés à l’article 15 du présent Règlement, les taux et les niveaux des autres commissions sont fixés librement par les banques et les établissements financiers.\nCes derniers sont tenus de respecter scrupuleusement les conditions applicables aux opérations de banque qu’ils ont déterminées",
+      "paragraphs": [
+        {
+          "text": "A l’exception des services bancaires gratuits prévus à l’article 14 ci-dessus, et les commissions visés à l’article 15 du présent Règlement, les taux et les niveaux des autres commissions sont fixés librement par les banques et les établissements financiers.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Ces derniers sont tenus de respecter scrupuleusement les conditions applicables aux opérations de banque qu’ils ont déterminées",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 17",
+      "number": "17",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Les modalités d’application des dispositions du présent Règlement, y compris celles relatives au taux d'intérêt excessif, sont fixées par instruction de la\nBanque d’Algérie.",
+      "paragraphs": [
+        {
+          "text": "Les modalités d’application des dispositions du présent Règlement, y compris celles relatives au taux d'intérêt excessif, sont fixées par instruction de la",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Banque d’Algérie.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 18",
+      "number": "18",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Le présent règlement abroge les dispositions du règlement n°13-01 du 8 avril 2013 fixant les règles générales en matière de conditions de banque applicables aux opérations de banque.",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement abroge les dispositions du règlement n°13-01 du 8 avril 2013 fixant les règles générales en matière de conditions de banque applicables aux opérations de banque.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 19",
+      "number": "19",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Le présent Règlement sera publié au Journal officiel de la République\nAlgérienne Démocratique et Populaire.\nLe Gouverneur\nAïmene BENABDERRAHMANE",
+      "paragraphs": [
+        {
+          "text": "Le présent Règlement sera publié au Journal officiel de la République",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Algérienne Démocratique et Populaire.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Aïmene BENABDERRAHMANE",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.033
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-20-01-20200315.fr.txt"
+}

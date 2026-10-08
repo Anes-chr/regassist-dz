@@ -1,0 +1,196 @@
+{
+  "document_id": "INS-03-06.fr~2",
+  "work_id": "INS-03-06",
+  "title": "Instruction n°03-2006 du 18 mai 2006 fixant la date d’entrée en vigueur de l’instruction n°02-2006 du 17 mai 2006 modifiant l’instruction n°01-2006 du 29 avril 2006 définissant les modalités de la compensation manuelle a titre transitoire.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "03-2006",
+  "number_source": "en-tête du document",
+  "date": "2006-05-18",
+  "date_raw": "N°03-2006 DU 18 MAI 2006",
+  "date_source": "en-tête du document",
+  "publication_date": "2023-01-24",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Divers",
+  "source_url": "https://www.bank-of-algeria.dz/deplacements-des-groupements-sportifs-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction032006.pdf",
+  "format": "pdf",
+  "file_hash": "77036d219e28387c79bf4f560d2da745935f3ec6585998f866a64cff64c28fc2",
+  "file_size": 39303,
+  "raw_path": "raw/77036d219e28__instruction032006.pdf",
+  "retrieved_at": "2026-10-05T13:25:49+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "162927e84c045d7d25e06c3ba910d740b4ef3269b148f92d59136b17f135ade2",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/deplacements-des-groupements-sportifs-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document2",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200928135756+01'00'",
+    "modDate": "D:20200928135756+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 494,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": false,
+    "article_count": 0,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "meme_texte_plusieurs_fichiers"
+  ],
+  "title_document": "INSTRUCTION N°03-2006 DU 18 MAI 2006 FIXANT LA DATE D'ENTRÉE EN VIGUEUR DE L'INSTRUCTION N°02-2006 DU 17 MAI 2006 MODIFIANT L'INSTRUCTION N°01-2006 DU 29 AVRIL 2006 DÉFINISSANT LES MODALITÉS DE LA COMPENSATION MANUELLE A",
+  "alias_urls": [],
+  "text_hash": "e5ccc0a4817b6dacbc7d8c40df8a802d690746962616ef7a8f20f2cb1d17564f",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "01-2006",
+        "date": "2006-04-29",
+        "raw": "instruction n°01-2006 du 29 avril 2006"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "ction n°03-2006 du 18 mai 2006 fixant la date d’entrée en vigueur de l’instruction n°02-2006 du 17 mai 2006 modifiant l’instruction n°01-2006 du 29 avril 2006 définissant les modalités de la compens"
+      },
+      "target_work_id": "INS-01-06"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-01-06",
+      "reference": "instruction n°01-2006 du 29 avril 2006",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "ction n°03-2006 du 18 mai 2006 fixant la date d’entrée en vigueur de l’instruction n°02-2006 du 17 mai 2006 modifiant l’instruction n°01-2006 du 29 avril 2006 définissant les modalités de la compens"
+      }
+    }
+  ],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-03-06.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°03-2006 DU 18 MAI 2006 FIXANT LA DATE D'ENTRÉE\nEN VIGUEUR DE L'INSTRUCTION N°02-2006 DU 17 MAI 2006 MODIFIANT\nL'INSTRUCTION N°01-2006 DU 29 AVRIL 2006 DÉFINISSANT LES MODALITÉS\nDE LA COMPENSATION MANUELLE A TITRE TRANSITOIRE\nArticle unique : L'instruction n°02-06 du 17 mai 2006 modifiant l'instruction n°01-06 du 29 avril 2006 définissant les modalités de la compensation manuelle à titre transitoire prend effet à compter du 28 mai 2006.\nLe Gouverneur\nMohammed LAKSACI",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°03-2006 DU 18 MAI 2006 FIXANT LA DATE D'ENTRÉE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "EN VIGUEUR DE L'INSTRUCTION N°02-2006 DU 17 MAI 2006 MODIFIANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L'INSTRUCTION N°01-2006 DU 29 AVRIL 2006 DÉFINISSANT LES MODALITÉS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DE LA COMPENSATION MANUELLE A TITRE TRANSITOIRE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Article unique : L'instruction n°02-06 du 17 mai 2006 modifiant l'instruction n°01-06 du 29 avril 2006 définissant les modalités de la compensation manuelle à titre transitoire prend effet à compter du 28 mai 2006.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "meme_texte_plusieurs_fichiers"
+    ],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.041
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-03-06.fr~2.txt"
+}

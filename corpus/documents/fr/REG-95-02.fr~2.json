@@ -1,0 +1,427 @@
+{
+  "document_id": "REG-95-02.fr~2",
+  "work_id": "REG-95-02",
+  "title": "Règlement n°95-02 du 28 février 1995 modifiant et complétant le règlement n°91-01 du 20 février 1991 fixant le droit de change au titre des indemnités compensatrices des frais engagés à l’occasion de missions temporaires à l’étranger.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "95-02",
+  "number_source": "en-tête du document",
+  "date": "1995-02-28",
+  "date_raw": "N°95-02 DU 28 FEVRIER 1995",
+  "date_source": "en-tête du document",
+  "publication_date": "2023-01-25",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Règlementation des changes",
+  "source_url": "https://www.bank-of-algeria.dz/devises-reglement/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/reglement9502.pdf",
+  "format": "pdf",
+  "file_hash": "fe9694b8abb6bfce0d8c99f7c941358427f73a85c03a5b69cbeed2629d9ad9cb",
+  "file_size": 43127,
+  "raw_path": "raw/fe9694b8abb6__reglement9502.pdf",
+  "retrieved_at": "2026-10-05T13:27:19+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "e1f2518d679158d6ece9ab117431df05bc48b5962c656da80eaba8b4d7317050",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/devises-reglement/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document4",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200712113111+01'00'",
+    "modDate": "D:20200712113111+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2850,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 3,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "meme_texte_plusieurs_fichiers"
+  ],
+  "title_document": "REGLEMENT N°95-02 DU 28 FEVRIER 1995 MODIFIANT ET COMPLETANT LE REGLEMENT N°91-01 DU 20 FEVRIER 1991 FIXANT LE DROIT DE CHANGE AU",
+  "alias_urls": [],
+  "text_hash": "216c61e956b3c0047e0ad796da1170220f13dd928c2c0a342f10dc449c86cd2a",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "91-01",
+        "date": "1991-02-20",
+        "raw": "règlement n°91-01 du 20 février 1991"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°95-02 du 28 février 1995 modifiant et complétant le règlement n°91-01 du 20 février 1991 fixant le droit de change au titre des"
+      },
+      "target_work_id": "REG-91-01"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "91-01",
+        "date": "1991-02-20",
+        "raw": "règlement n°91-01 du 20 février 1991"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°95-02 du 28 février 1995 modifiant et complétant le règlement n°91-01 du 20 février 1991 fixant le droit de change au titre des"
+      },
+      "target_work_id": "REG-91-01"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "91-01",
+        "date": "1991-02-20",
+        "raw": "Règlement n°91-01 du 20 Février 1991"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier les articles 1 et 2 du Règlement n°91-01 du 20 Février 1991 susvisé."
+      },
+      "target_work_id": "REG-91-01"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "REG-91-01",
+      "reference": "règlement n°91-01 du 20 février 1991",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°95-02 du 28 février 1995 modifiant et complétant le règlement n°91-01 du 20 février 1991 fixant le droit de change au titre des"
+      }
+    },
+    {
+      "work_id": "REG-91-01",
+      "reference": "Règlement n°91-01 du 20 Février 1991",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier les articles 1 et 2 du Règlement n°91-01 du 20 Février 1991 susvisé."
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "REG-91-01",
+      "reference": "règlement n°91-01 du 20 février 1991",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°95-02 du 28 février 1995 modifiant et complétant le règlement n°91-01 du 20 février 1991 fixant le droit de change au titre des"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-95-02.ar",
+    "REG-95-02.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "REG-91-01",
+      "reference": "règlement n°91-01 du 20 février 1991",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°95-02 du 28 février 1995 modifiant et complétant le règlement n°91-01 du 20 février 1991 fixant le droit de change au titre des"
+      }
+    }
+  ],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°95-02 DU 28 FEVRIER 1995 MODIFIANT\nET COMPLETANT LE REGLEMENT N°91-01 DU 20 FEVRIER 1991 FIXANT\nLE DROIT DE CHANGE AU TITRE DES INDEMNITES COMPENSATRICES DES FRAIS\nENGAGES A L'OCCASION DE MISSIONS TEMPORAIRES A L'ETRANGER\nLe Gouverneur de la Banque d'Algérie,\n- Vu la Loi n° 90-10 du 14 Avril 1990 relative à la Monnaie et au Crédit, notamment ses articles 44 alinéa \"K\" et 47 ;\n- Vu le Décret Présidentiel du 21 Juillet 1992 portant nomination du Gouverneur de la Banque d'Algérie ;\n- Vu les Décrets Présidentiels du 14 Mai 1990 portant nomination de Vice\nGouverneurs de la Banque d'Algérie ;\n- Vu le Décret Exécutif du 1er Juillet 1991 portant désignation de Membres\nTitulaires et Suppléants au Conseil de la Monnaie et du Crédit ;\n- Vu le Décret n° 82-217 du 3 Juillet 1982 relatif aux indemnités compensatrices de frais engagés à l'occasion de missions temporaires à l'étranger ;\n- Vu le Décret Exécutif n° 90-53 du 6 Février 1990 modifiant le Décret n°82.217 du 3 Juillet 1982 relatif aux indemnités compensatrices de frais engagés à l'occasion de missions temporaires à l'étranger ;\n- Vu le Décret Exécutif n° 91-188 du 1er Juin 1991 modifiant le Décret n°82.217 du 3 Juillet 1982 relatif aux indemnités compensatrices de frais engagés à l'occasion de missions temporaires à l'étranger ;\n- Vu le Règlement n°91-01 du 20 Février 1991 fixant le droit de change au titre des indemnités compensatrices des frais engagés à l'occasion de missions temporaires à l'étranger ;\n- Vu le Règlement n°92-04 du 22 Mars 1992 relatif aux contrôle des changes ;\n- Vu l'Arrêté interministériel du 10 Mars 1990 portant liste des pays classés par catégories, en vue du calcul des indemnités compensatrices des frais engagés à l'occasion de missions temporaires à l'étranger ;\n- Après délibération du Conseil de la Monnaie et du Crédit en date du 28 Février 1995 ;\nPromulgue le règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°95-02 DU 28 FEVRIER 1995 MODIFIANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET COMPLETANT LE REGLEMENT N°91-01 DU 20 FEVRIER 1991 FIXANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "LE DROIT DE CHANGE AU TITRE DES INDEMNITES COMPENSATRICES DES FRAIS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ENGAGES A L'OCCASION DE MISSIONS TEMPORAIRES A L'ETRANGER",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d'Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la Loi n° 90-10 du 14 Avril 1990 relative à la Monnaie et au Crédit, notamment ses articles 44 alinéa \"K\" et 47 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 21 Juillet 1992 portant nomination du Gouverneur de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu les Décrets Présidentiels du 14 Mai 1990 portant nomination de Vice",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Gouverneurs de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Exécutif du 1er Juillet 1991 portant désignation de Membres",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Titulaires et Suppléants au Conseil de la Monnaie et du Crédit ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret n° 82-217 du 3 Juillet 1982 relatif aux indemnités compensatrices de frais engagés à l'occasion de missions temporaires à l'étranger ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Exécutif n° 90-53 du 6 Février 1990 modifiant le Décret n°82.217 du 3 Juillet 1982 relatif aux indemnités compensatrices de frais engagés à l'occasion de missions temporaires à l'étranger ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Exécutif n° 91-188 du 1er Juin 1991 modifiant le Décret n°82.217 du 3 Juillet 1982 relatif aux indemnités compensatrices de frais engagés à l'occasion de missions temporaires à l'étranger ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Règlement n°91-01 du 20 Février 1991 fixant le droit de change au titre des indemnités compensatrices des frais engagés à l'occasion de missions temporaires à l'étranger ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Règlement n°92-04 du 22 Mars 1992 relatif aux contrôle des changes ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l'Arrêté interministériel du 10 Mars 1990 portant liste des pays classés par catégories, en vue du calcul des indemnités compensatrices des frais engagés à l'occasion de missions temporaires à l'étranger ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Après délibération du Conseil de la Monnaie et du Crédit en date du 28 Février 1995 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le présent Règlement a pour objet de modifier les articles 1 et 2 du\nRèglement n°91-01 du 20 Février 1991 susvisé.",
+      "paragraphs": [
+        {
+          "text": "Le présent Règlement a pour objet de modifier les articles 1 et 2 du",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Règlement n°91-01 du 20 Février 1991 susvisé.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L'article 1er du Règlement n°91-01 du 20 Février 1991 susvisé est modifié et rédigé comme suit :\n\"Art.1 : Au titre des indemnités journalières compensatrices des frais engagés à l'occasion de missions temporaires à l'étranger, un droit de change peut être exercé dans les limites de montant fixées par une instruction de la Banque d'Algérie qui précisera également les conditions d'exercice de ce droit.\"",
+      "paragraphs": [
+        {
+          "text": "L'article 1er du Règlement n°91-01 du 20 Février 1991 susvisé est modifié et rédigé comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "\"Art.1 : Au titre des indemnités journalières compensatrices des frais engagés à l'occasion de missions temporaires à l'étranger, un droit de change peut être exercé dans les limites de montant fixées par une instruction de la Banque d'Algérie qui précisera également les conditions d'exercice de ce droit.\"",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L'article 2 du Règlement n°91-01 du 20 Février 1991 susvisé est modifié et rédigé comme suit :\n\"Art.2 : Les conditions d'octroi et de fixation du montant des indemnités journalières de frais engagés à l'occasion de missions temporaires à l'étranger relèvent de la réglementation applicable en la matière.\"\nLe Gouverneur\nAbdelouahab KERAMANE",
+      "paragraphs": [
+        {
+          "text": "L'article 2 du Règlement n°91-01 du 20 Février 1991 susvisé est modifié et rédigé comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "\"Art.2 : Les conditions d'octroi et de fixation du montant des indemnités journalières de frais engagés à l'occasion de missions temporaires à l'étranger relèvent de la réglementation applicable en la matière.\"",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "meme_texte_plusieurs_fichiers"
+    ],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.041
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-95-02.fr~2.txt"
+}

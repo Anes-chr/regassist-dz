@@ -1,0 +1,1569 @@
+{
+  "document_id": "REG-17-01.ar",
+  "work_id": "REG-17-01",
+  "title": "نظام رقم 17-01 المؤرخ في 10 يوليو 2017 يتعلق بسوق الصرف ما بين المصارف وبأدوات تغطية خطر الصرف.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "17-01",
+  "number_source": "libelle",
+  "date": "2017-07-10",
+  "date_raw": "المؤرخ في 10 يوليو 2017",
+  "date_source": "libelle",
+  "publication_date": "2023-02-28",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "règlements",
+  "subcategory": "تنظيم و تسيير سوق الصرف ما بين المصارف",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d8%b5%d8%b1%d9%81/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/02/01-2017.pdf",
+  "format": "pdf",
+  "file_hash": "9142bfa2b7a84c647b2bf87795d70cad9eb71f6f7ce2f768ff74e8593d80150f",
+  "file_size": 4159025,
+  "raw_path": "raw/9142bfa2b7a8__01-2017.pdf",
+  "retrieved_at": "2026-10-05T13:27:37+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 5,
+  "url_hash": "331ec0dc60a486481c6b7a70fa890ea209de1bd70a8d0f89b0998ca19b5b1827",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d8%b5%d8%b1%d9%81/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - reg2017arabe",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20230226140513+01'00'",
+    "modDate": "D:20230226140513+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 5,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 1936,
+        "ocr_confidence": 84.03468208092485
+      },
+      {
+        "page": 2,
+        "method": "ocr",
+        "chars": 2336,
+        "ocr_confidence": 82.71867007672634
+      },
+      {
+        "page": 3,
+        "method": "ocr",
+        "chars": 2386,
+        "ocr_confidence": 81.06812652068126
+      },
+      {
+        "page": 4,
+        "method": "ocr",
+        "chars": 1550,
+        "ocr_confidence": 82.21754385964913
+      },
+      {
+        "page": 5,
+        "method": "ocr",
+        "chars": 2146,
+        "ocr_confidence": 83.18105849582173
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 28,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine",
+    "numerotation:articles_manquants:[3, 10, 13, 18, 19, 20, 26, 27, 31, 34, 36]",
+    "numerotation:premier_article=2"
+  ],
+  "title_document": "نظام رقم 01-17 مؤرخ في 16 شوال عام 1438 الموافق 0 يوليو سنة 2017, يتعلق بسوق الصرف مابين المصارف وبادوات تفطية خطر الصرف. ١‏ بمقتضي الأمر رق 0296 المؤرخ في 23 صفر عام 1417 اموافق 2 as‏ سن 1506 والمتعلق بقوع - وبمقتضى الأمر رقم 04-03 المؤرخ فى 19 جمادى الأولى عام 1424 الموافق 19 يولبو سنة 2003 والمتعلق بالقواعد العامة المطبقة على عمليات",
+  "alias_urls": [],
+  "text_hash": "763f8cd59423d3c5550d07bece853967fba613248aef08ceea0720358c51efd9",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [
+    {
+      "work_id": "REG-20-04",
+      "document_id": "REG-20-04.fr",
+      "date": "2020-03-15",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "Le présent règlement abroge les dispositions du règlement n°17-01 du 10 juillet 2017 relatif au marché interbancaire des cha"
+      }
+    }
+  ],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "REG-20-04",
+      "document_id": "REG-20-04.fr",
+      "date": "2020-03-15",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "Le présent règlement abroge les dispositions du règlement n°17-01 du 10 juillet 2017 relatif au marché interbancaire des cha"
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [
+    "REG-17-01.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [
+    {
+      "work_id": "REG-20-04",
+      "document_id": "REG-20-04.fr",
+      "date": "2020-03-15",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "Le présent règlement abroge les dispositions du règlement n°17-01 du 10 juillet 2017 relatif au marché interbancaire des cha"
+      }
+    }
+  ],
+  "remplacé_par": [],
+  "complète": [],
+  "ocr_numeric_check": {
+    "units": 33,
+    "units_flagged": 0,
+    "units_compared_with_french": 28,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 5,
+      "page_end": 5,
+      "children": []
+    },
+    {
+      "type": "titre",
+      "label": "Titre الأول",
+      "number": null,
+      "heading": "سوق الصرف ما بين الصارف",
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 2",
+          "number": "2",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 4",
+          "number": "4",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 5",
+          "number": "5",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 6",
+          "number": "6",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 7",
+          "number": "7",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 8",
+          "number": "8",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 9",
+          "number": "9",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 11",
+          "number": "11",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 12",
+          "number": "12",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 14",
+          "number": "14",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 15",
+          "number": "15",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 16",
+          "number": "16",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 17",
+          "number": "17",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "titre",
+      "label": "Titre الثاني",
+      "number": null,
+      "heading": "آدوات تفطية خطر الصرف",
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 21",
+          "number": "21",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 22",
+          "number": "22",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 23",
+          "number": "23",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 4,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 24",
+          "number": "24",
+          "heading": null,
+          "page_start": 4,
+          "page_end": 4,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 25",
+          "number": "25",
+          "heading": null,
+          "page_start": 4,
+          "page_end": 4,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "titre",
+      "label": "Titre الثالث",
+      "number": null,
+      "heading": "القواعد الأخلاقية وقواعد حسسن السلوك",
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 28",
+          "number": "28",
+          "heading": null,
+          "page_start": 4,
+          "page_end": 4,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 29",
+          "number": "29",
+          "heading": null,
+          "page_start": 5,
+          "page_end": 5,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 30",
+          "number": "30",
+          "heading": null,
+          "page_start": 5,
+          "page_end": 5,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 32",
+          "number": "32",
+          "heading": null,
+          "page_start": 5,
+          "page_end": 5,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 33",
+          "number": "33",
+          "heading": null,
+          "page_start": 5,
+          "page_end": 5,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "titre",
+      "label": "Titre الرابع",
+      "number": null,
+      "heading": "أحكام مشتركة",
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 35",
+          "number": "35",
+          "heading": null,
+          "page_start": 5,
+          "page_end": 5,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 37",
+          "number": "37",
+          "heading": null,
+          "page_start": 5,
+          "page_end": 5,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 38",
+          "number": "38",
+          "heading": null,
+          "page_start": 5,
+          "page_end": 5,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 39",
+          "number": "39",
+          "heading": null,
+          "page_start": 5,
+          "page_end": 5,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 40",
+          "number": "40",
+          "heading": null,
+          "page_start": 5,
+          "page_end": 5,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "نظام رقم 01-17 مؤرخ في 16 شوال عام 1438 الموافق 0 يوليو سنة 2017, يتعلق بسوق الصرف مابين المصارف وبادوات تفطية خطر الصرف.\n١‏ بمقتضي الأمر رق 0296 المؤرخ في 23 صفر عام 1417 اموافق 2 as‏ سن 1506 والمتعلق بقوع\n- وبمقتضى الأمر رقم 04-03 المؤرخ فى 19 جمادى الأولى عام 1424 الموافق 19 يولبو سنة 2003 والمتعلق بالقواعد العامة المطبقة على عمليات وتصديرها. المعدل والمتهم,\n- وبمقتضى الأمر رقم 11-03 المؤرخ في 27 جمادى الثانية عام 1424 الموافق 26 غشت سنة 2003 والمتعلق\n- وبمقتضى القانون رقم 01-05 المؤرخ في 27 ذي الحجة عام 1425 الموافق 6 فبراير سنة 2005 والمتعلق بالوقاية من تبييض الأموال وتمويل الإرهصاب ومكافحتهما. المعدل والمتمم:\n- وبمقتضى المرسوم الرئاسي El‏ في 24 ذى القعدة سام 1424 al‏ 14 بتابر سستة 2004 لقتنن تميين أمضاء في مجلس النقد والقرض استبيراد البضا' الأولى عام 427! a‏ ق Jai‏ ونيو سنة 2006 والتضمّن\n- وبمقتضى المرسوم الرئاسي المؤرخ في 3 صفر عام 1437 الموافق 17 نوفمبير سنة 2015 واللتضمن تعبين أعضاء في مجلس إدارة بنك الجزائر\n- وبمقتضى المرسوم الرئاسي المؤرخ في 24 شعبان عام 1437 الموافق 31 مايو سنة 2016 والمتضمن\n- وبمقتضى المرسوم الرئاسي المؤرخ في 17 صفر عام 1438 الموافق 17 نوفمبر سنة 2016 والملتضمن\n- وبمقتضى النظام رقم 07-91 المؤرخ في 4 صفر عام 1412 الموافق 14 غشت سنة 1991 والمتعلق بقواعد الصرف وشروطة:\n- وبمقتضى النظام رقم 08-95 المؤرخ في 30 رجب عام 1416 الموافق 23 ديسمبر سنة 1995 والمتعلق بسوق ci all‏\n- وبم قا تاض النظام رقم 01-07 المؤرخ ضي 15 محرم عام 1428 الموافق 3 فبرابر سنة 2007 والمتعلق بالقواعد المطبقة على المعاملات الجارية مع الخارج والحسابات بالعملة الصعبة:. المعدل والمتمم:\n- وبمقتضى النظام رقم 08-11 المؤرخ فى 3 محرم عام 1433 الموافق 28 نوفمبر سنة 2011 والمتعلق بالرقابة الداخلية للبنوك والمؤسسات JU‏ وبمقتضى النظام رقم 03-12 المؤرخ في 14 pe‏ عام 1434 الموافق 28 نوفمبر سنة 2012 والمتعلق بالوقاية من تبييض الأموال وتمهويل الإرهاب ومكافحتهما.\n- وبمقتضى النظام رقم 01-13 المؤرخ في 26 جمادى الأولى عام 1434 الموافق 8 أبريل سنة 2013 الذي بحدن القواعد العامة المتعلقة بالشروط البنكية المطبقة على العمليات المصرفية, وبمقتضى النظام رقم 01-14 المؤرخ في 16 ربيع الشاني عام 1435 الموافق 16 فبراير سنة 2014 والمتضمن نسب الملاءة المطبقة على البنوك والمؤسسات JU‏ وبعد الاطلاع على مداولات مجلس النقد والقرضص بتاريخ 10 يوليو سنة 2017, بصدر النظام ?= نصة :",
+      "paragraphs": [
+        {
+          "text": "نظام رقم 01-17 مؤرخ في 16 شوال عام 1438 الموافق 0 يوليو سنة 2017, يتعلق بسوق الصرف مابين المصارف وبادوات تفطية خطر الصرف.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "١‏ بمقتضي الأمر رق 0296 المؤرخ في 23 صفر عام 1417 اموافق 2 as‏ سن 1506 والمتعلق بقوع",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى الأمر رقم 04-03 المؤرخ فى 19 جمادى الأولى عام 1424 الموافق 19 يولبو سنة 2003 والمتعلق بالقواعد العامة المطبقة على عمليات وتصديرها. المعدل والمتهم,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى الأمر رقم 11-03 المؤرخ في 27 جمادى الثانية عام 1424 الموافق 26 غشت سنة 2003 والمتعلق",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى القانون رقم 01-05 المؤرخ في 27 ذي الحجة عام 1425 الموافق 6 فبراير سنة 2005 والمتعلق بالوقاية من تبييض الأموال وتمويل الإرهصاب ومكافحتهما. المعدل والمتمم:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى المرسوم الرئاسي El‏ في 24 ذى القعدة سام 1424 al‏ 14 بتابر سستة 2004 لقتنن تميين أمضاء في مجلس النقد والقرض استبيراد البضا' الأولى عام 427! a‏ ق Jai‏ ونيو سنة 2006 والتضمّن",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى المرسوم الرئاسي المؤرخ في 3 صفر عام 1437 الموافق 17 نوفمبير سنة 2015 واللتضمن تعبين أعضاء في مجلس إدارة بنك الجزائر",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى المرسوم الرئاسي المؤرخ في 24 شعبان عام 1437 الموافق 31 مايو سنة 2016 والمتضمن",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى المرسوم الرئاسي المؤرخ في 17 صفر عام 1438 الموافق 17 نوفمبر سنة 2016 والملتضمن",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى النظام رقم 07-91 المؤرخ في 4 صفر عام 1412 الموافق 14 غشت سنة 1991 والمتعلق بقواعد الصرف وشروطة:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى النظام رقم 08-95 المؤرخ في 30 رجب عام 1416 الموافق 23 ديسمبر سنة 1995 والمتعلق بسوق ci all‏",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبم قا تاض النظام رقم 01-07 المؤرخ ضي 15 محرم عام 1428 الموافق 3 فبرابر سنة 2007 والمتعلق بالقواعد المطبقة على المعاملات الجارية مع الخارج والحسابات بالعملة الصعبة:. المعدل والمتمم:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى النظام رقم 08-11 المؤرخ فى 3 محرم عام 1433 الموافق 28 نوفمبر سنة 2011 والمتعلق بالرقابة الداخلية للبنوك والمؤسسات JU‏ وبمقتضى النظام رقم 03-12 المؤرخ في 14 pe‏ عام 1434 الموافق 28 نوفمبر سنة 2012 والمتعلق بالوقاية من تبييض الأموال وتمهويل الإرهاب ومكافحتهما.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى النظام رقم 01-13 المؤرخ في 26 جمادى الأولى عام 1434 الموافق 8 أبريل سنة 2013 الذي بحدن القواعد العامة المتعلقة بالشروط البنكية المطبقة على العمليات المصرفية, وبمقتضى النظام رقم 01-14 المؤرخ في 16 ربيع الشاني عام 1435 الموافق 16 فبراير سنة 2014 والمتضمن نسب الملاءة المطبقة على البنوك والمؤسسات JU‏ وبعد الاطلاع على مداولات مجلس النقد والقرضص بتاريخ 10 يوليو سنة 2017, بصدر النظام ?= نصة :",
+          "page_start": 1,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "الأول",
+          "heading": "سوق الصرف ما بين الصارف",
+          "label": "Titre الأول"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "المالية في هذه السوق في إطار جهاز لا مركزي يُحدد تنظيمه وقواعد عمله بتعليمة من بنك الجزائر.",
+      "paragraphs": [
+        {
+          "text": "المالية في هذه السوق في إطار جهاز لا مركزي يُحدد تنظيمه وقواعد عمله بتعليمة من بنك الجزائر.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "الأول",
+          "heading": "سوق الصرف ما بين الصارف",
+          "label": "Titre الأول"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "بسرخص للمصار ف والمؤسسات المالبة:\nالوسطاء المعتمدين. بالقيام فيما بينها ومع زبائئها بالعملة الصعبة من الزبائن ومنحهم قروضا بالعملة",
+      "paragraphs": [
+        {
+          "text": "بسرخص للمصار ف والمؤسسات المالبة:",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "الوسطاء المعتمدين. بالقيام فيما بينها ومع زبائئها بالعملة الصعبة من الزبائن ومنحهم قروضا بالعملة",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "الأول",
+          "heading": "سوق الصرف ما بين الصارف",
+          "label": "Titre الأول"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "بمكن الوسطاء المعتمدين القبام فبما لحسابهم الخاص و/أو لحساب زبائتهم؛ بمعاملات الصرف",
+      "paragraphs": [
+        {
+          "text": "بمكن الوسطاء المعتمدين القبام فبما لحسابهم الخاص و/أو لحساب زبائتهم؛ بمعاملات الصرف",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "الأول",
+          "heading": "سوق الصرف ما بين الصارف",
+          "label": "Titre الأول"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "يمكن بنك الجزاشر أن يتدخل في سوق",
+      "paragraphs": [
+        {
+          "text": "يمكن بنك الجزاشر أن يتدخل في سوق",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "الأول",
+          "heading": "سوق الصرف ما بين الصارف",
+          "label": "Titre الأول"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "يترك بنك الجزائر تحت تصرف الوسطاء الملعتمدين بعض أصناف الموارد بالعملات الصعية:\nوالنصوص عليها في المادة 7 أدناه.\nوبالقابل بجحب على الوسطاء العتمدين أن بستعملوا هذه الموارد لضمان سيولة سوق الصرف qu Le‏ المصارف أو لتغطية الالتزامات تجاه الخار ج: التى تم التعاقد قانوئاً lité‏ من طرفهم أو من طرف زبائنهم, لا سيما بعنوان العمليات المذكورة في المادة 8 أدناد.",
+      "paragraphs": [
+        {
+          "text": "يترك بنك الجزائر تحت تصرف الوسطاء الملعتمدين بعض أصناف الموارد بالعملات الصعية:",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "والنصوص عليها في المادة 7 أدناه.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "وبالقابل بجحب على الوسطاء العتمدين أن بستعملوا هذه الموارد لضمان سيولة سوق الصرف qu Le‏ المصارف أو لتغطية الالتزامات تجاه الخار ج: التى تم التعاقد قانوئاً lité‏ من طرفهم أو من طرف زبائنهم, لا سيما بعنوان العمليات المذكورة في المادة 8 أدناد.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "الأول",
+          "heading": "سوق الصرف ما بين الصارف",
+          "label": "Titre الأول"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "تتشكل الموارد بالعملات الصعبة المتروكة تحت تصرّف الوسطاء المعتمدين: من :\n- الإبرادات المحصلة الناجمة عن الصادرات من السلع والخدمات خارج المحروقات والمنتوجات المنجمية,\n- المبالغ الناجمة عن كل قرض مالي أو اقتراض بالعملات الصعبة بعقده الوسطاء المعتمدون لاحتياجاتهم الخاصة أو لاحتياجات زبائنهم:\n- المبالغ الناجمة عن عمليات شراء على مستوى سوق الصرف ما بسن المصار «à‏ أرصدة الحصسابات بالعملات الصعبة لمجمل الزبائن:\n- كل الموارد الأخرى التي يُحددها بنك الجزائر, عند الحاجة.",
+      "paragraphs": [
+        {
+          "text": "تتشكل الموارد بالعملات الصعبة المتروكة تحت تصرّف الوسطاء المعتمدين: من :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- الإبرادات المحصلة الناجمة عن الصادرات من السلع والخدمات خارج المحروقات والمنتوجات المنجمية,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- المبالغ الناجمة عن كل قرض مالي أو اقتراض بالعملات الصعبة بعقده الوسطاء المعتمدون لاحتياجاتهم الخاصة أو لاحتياجات زبائنهم:",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- المبالغ الناجمة عن عمليات شراء على مستوى سوق الصرف ما بسن المصار «à‏ أرصدة الحصسابات بالعملات الصعبة لمجمل الزبائن:",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- كل الموارد الأخرى التي يُحددها بنك الجزائر, عند الحاجة.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "الأول",
+          "heading": "سوق الصرف ما بين الصارف",
+          "label": "Titre الأول"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "تتمثل الالتزامات تجاه الخار ج المذكورة في المادة 6 أعلاه. فيما يآتي :\n- التسبيقات على الإيرادات الناجمة عن الصادرات خارج المحروقات والمنتوجات المنجمية,\n- أقساط مسبقة تتعلق بعقود الاستيراد.\n— الواردات من السلع والخد le‏\n- خدمة الدين الخار جى,",
+      "paragraphs": [
+        {
+          "text": "تتمثل الالتزامات تجاه الخار ج المذكورة في المادة 6 أعلاه. فيما يآتي :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- التسبيقات على الإيرادات الناجمة عن الصادرات خارج المحروقات والمنتوجات المنجمية,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- أقساط مسبقة تتعلق بعقود الاستيراد.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "— الواردات من السلع والخد le‏",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- خدمة الدين الخار جى,",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "الأول",
+          "heading": "سوق الصرف ما بين الصارف",
+          "label": "Titre الأول"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "رخص للموسطاء المعتمدين بتشكيل وضعيات صرف حسب الشروط المحددة بموجب تعليمة من بنك الجزائر .\nالادة 10 : بلزم الوسطاء المعتمدون بمراقبة وتسيير المخاطر المترتبة على تشكيل وضعيات الصرف بحذر كبيرء مع الاحترام الصارم للقواعد الاحترازية.\nje‏ حساب صافي وضعيات الصرف nus‏ العملة الصعبة وعلى وجه الخصوص: ويجب على الوسطاء المعتمدين SANT‏ بعين الاعتبار مايوافق صافي فارق الفردية والمبالغ المضمونة بهذه الخيارات.",
+      "paragraphs": [
+        {
+          "text": "رخص للموسطاء المعتمدين بتشكيل وضعيات صرف حسب الشروط المحددة بموجب تعليمة من بنك الجزائر .",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "الادة 10 : بلزم الوسطاء المعتمدون بمراقبة وتسيير المخاطر المترتبة على تشكيل وضعيات الصرف بحذر كبيرء مع الاحترام الصارم للقواعد الاحترازية.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "je‏ حساب صافي وضعيات الصرف nus‏ العملة الصعبة وعلى وجه الخصوص: ويجب على الوسطاء المعتمدين SANT‏ بعين الاعتبار مايوافق صافي فارق الفردية والمبالغ المضمونة بهذه الخيارات.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "الأول",
+          "heading": "سوق الصرف ما بين الصارف",
+          "label": "Titre الأول"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "يتم التفاوض بصفة حرة: بين المتدخلين على مستوى سوق الصرف Le‏ بين المصارف: بسشان أسعار الصرف ومعدلات الفائدة المطبقة على عمليات الصرف les‏ عمليات الخزينة بالعملة الصعبة: على التوالي.",
+      "paragraphs": [
+        {
+          "text": "يتم التفاوض بصفة حرة: بين المتدخلين على مستوى سوق الصرف Le‏ بين المصارف: بسشان أسعار الصرف ومعدلات الفائدة المطبقة على عمليات الصرف les‏ عمليات الخزينة بالعملة الصعبة: على التوالي.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "الأول",
+          "heading": "سوق الصرف ما بين الصارف",
+          "label": "Titre الأول"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "يُلزم الوسطاء المعتمدون المتدخلون في الدلالة وباستمرار. عن أسعار الصرف نقدا للشراء وللبيع وكذا عن معدلات الفائدة المطبقة على العملات Gel ١ : 13 341‏ أحكام هذا النظام على bles‏ تعاريف :",
+      "paragraphs": [
+        {
+          "text": "يُلزم الوسطاء المعتمدون المتدخلون في الدلالة وباستمرار. عن أسعار الصرف نقدا للشراء وللبيع وكذا عن معدلات الفائدة المطبقة على العملات Gel ١ : 13 341‏ أحكام هذا النظام على bles‏ تعاريف :",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "الأول",
+          "heading": "سوق الصرف ما بين الصارف",
+          "label": "Titre الأول"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "+ سوق الصرف ما بين المصارف هي سوق يمكن للمتدخلين على مستواها القيام بعمليات الصرف JAN las‏ وكذا القيام بعمليات الخزينة",
+      "paragraphs": [
+        {
+          "text": "+ سوق الصرف ما بين المصارف هي سوق يمكن للمتدخلين على مستواها القيام بعمليات الصرف JAN las‏ وكذا القيام بعمليات الخزينة",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "الأول",
+          "heading": "سوق الصرف ما بين الصارف",
+          "label": "Titre الأول"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "بُفهم من عملية صرف كل معاملة بين الأطراف بشترى من خلالها أحد الأطراف. مبلغا متفقا عليه مُحرّرا بعملة Le‏ مقابل بيع لطرف آخر مبلفا عند نفس تاريخ تحديد القيمة. وعند تحقيق كل عملية oi pe‏ يُحدّد كل طرف (شفاهياء أو كتابيا أو إلكترونيا)\nالعملة المشتراة والعملة المباعة والمبلغ المشترى والمبلخ ا باع وسعر الصرف وتاريخ المعاملة وتاريخ تحديد القيمة وتاريخالاستحقاق (بالنسبة لعمليات الصرف لأجل) وكذا مكان تسليم العملة الصعبة المنتظر استلامها.",
+      "paragraphs": [
+        {
+          "text": "بُفهم من عملية صرف كل معاملة بين الأطراف بشترى من خلالها أحد الأطراف. مبلغا متفقا عليه مُحرّرا بعملة Le‏ مقابل بيع لطرف آخر مبلفا عند نفس تاريخ تحديد القيمة. وعند تحقيق كل عملية oi pe‏ يُحدّد كل طرف (شفاهياء أو كتابيا أو إلكترونيا)",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "العملة المشتراة والعملة المباعة والمبلغ المشترى والمبلخ ا باع وسعر الصرف وتاريخ المعاملة وتاريخ تحديد القيمة وتاريخالاستحقاق (بالنسبة لعمليات الصرف لأجل) وكذا مكان تسليم العملة الصعبة المنتظر استلامها.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 16",
+      "number": "16",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "الأول",
+          "heading": "سوق الصرف ما بين الصارف",
+          "label": "Titre الأول"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "عملية الصرف نقدا هي معاملة يتفق من المعاملة. أو في اليوم الذي يليه.",
+      "paragraphs": [
+        {
+          "text": "عملية الصرف نقدا هي معاملة يتفق من المعاملة. أو في اليوم الذي يليه.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 17",
+      "number": "17",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "الأول",
+          "heading": "سوق الصرف ما بين الصارف",
+          "label": "Titre الأول"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "عملية الخزينة بالعملة الصعبة هي معاملة يقرض من خلالها طرف « ال مقرض » لطرف آخر وبمعدل فائدة متفقاً عليهما عند تحقيق المعاملة . وعثد تاريخ الاستحقاق ؛ يُسدد المقترض opel‏ الأصل والفوائد.",
+      "paragraphs": [
+        {
+          "text": "عملية الخزينة بالعملة الصعبة هي معاملة يقرض من خلالها طرف « ال مقرض » لطرف آخر وبمعدل فائدة متفقاً عليهما عند تحقيق المعاملة . وعثد تاريخ الاستحقاق ؛ يُسدد المقترض opel‏ الأصل والفوائد.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "الثاني",
+          "heading": "آدوات تفطية خطر الصرف",
+          "label": "Titre الثاني"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "المساىة 8 يرخص الللوسطاء العتمدين القيام.\nالمسادة 19 : يمكن الوسطاء المعتمدين في إطار الآتبة :\n- عمليبات الصرف لأجل»:\n- خسارات الصر ف vamile‏ « من ال ص تف الأوروبي ».\n— عقود التبادلء « عقون المبازلة ce‏ بسن العملة الصعبة والدينارء\n— عمليات الشراء نقدا للعملة الصعبة. موضوع na بتم التفاوض ببن الأطراف‎ + 20 SU حول الشروط الأنظمة لعمليات الصرف‎ ts yes وعمليات الخزينة بالعملة الصعبة: وكذا عقود المبادلة‎ هزه الشروط مطابقة لاتفاق إطاري ثنائي مستوحى‎ من الاتفاق الصادر عن الجمعية الدولية للمبادلات‎ International Swaps and Derivatives Association- والمشتقات‎ .(ISDA Master Agreement)",
+      "paragraphs": [
+        {
+          "text": "المساىة 8 يرخص الللوسطاء العتمدين القيام.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "المسادة 19 : يمكن الوسطاء المعتمدين في إطار الآتبة :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- عمليبات الصرف لأجل»:",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- خسارات الصر ف vamile‏ « من ال ص تف الأوروبي ».",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "— عقود التبادلء « عقون المبازلة ce‏ بسن العملة الصعبة والدينارء",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "— عمليات الشراء نقدا للعملة الصعبة. موضوع na بتم التفاوض ببن الأطراف‎ + 20 SU حول الشروط الأنظمة لعمليات الصرف‎ ts yes وعمليات الخزينة بالعملة الصعبة: وكذا عقود المبادلة‎ هزه الشروط مطابقة لاتفاق إطاري ثنائي مستوحى‎ من الاتفاق الصادر عن الجمعية الدولية للمبادلات‎ International Swaps and Derivatives Association- والمشتقات‎ .(ISDA Master Agreement)",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 21",
+      "number": "21",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "الثاني",
+          "heading": "آدوات تفطية خطر الصرف",
+          "label": "Titre الثاني"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "+ تؤدي عمليات الشراء نقدا للعملة bin |‏ موضوع التسليم لأجل: والمخنصوص عليهافي المادة 15 أعلاه. إلى تسليم المبلغ بالدينار عند تاريخ تحديد القيمة نقداء وإلى تسليم الميلغ بالعملة الصعبة عند تاريخ الاستحقاق محل العقد. تخصص هذه العمليات حصريا للزبائن الذين بحوزتهم خزينة بالدينار. ويمكن لهذه ll‏ من العمليات أن تبرم مع بنك الجزائر بالعملات الصعبة الرسعية",
+      "paragraphs": [
+        {
+          "text": "+ تؤدي عمليات الشراء نقدا للعملة bin |‏ موضوع التسليم لأجل: والمخنصوص عليهافي المادة 15 أعلاه. إلى تسليم المبلغ بالدينار عند تاريخ تحديد القيمة نقداء وإلى تسليم الميلغ بالعملة الصعبة عند تاريخ الاستحقاق محل العقد. تخصص هذه العمليات حصريا للزبائن الذين بحوزتهم خزينة بالدينار. ويمكن لهذه ll‏ من العمليات أن تبرم مع بنك الجزائر بالعملات الصعبة الرسعية",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 22",
+      "number": "22",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "الثاني",
+          "heading": "آدوات تفطية خطر الصرف",
+          "label": "Titre الثاني"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "عملية الصرف لأجل هي معاملة يتفق بسعر يُدعى « سعر لأجل » أو » forward‏ »أو «outright»‏ ويتم استلام العملات المتبادلة عند تاريخ استحقاق",
+      "paragraphs": [
+        {
+          "text": "عملية الصرف لأجل هي معاملة يتفق بسعر يُدعى « سعر لأجل » أو » forward‏ »أو «outright»‏ ويتم استلام العملات المتبادلة عند تاريخ استحقاق",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 23",
+      "number": "23",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "الثاني",
+          "heading": "آدوات تفطية خطر الصرف",
+          "label": "Titre الثاني"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 4,
+      "text": "خبار الصرف من الصنف الأوروبي شو حق. وليس التزاما, لشراء أو بيع مبلغ محدد ومحرر بعملة صعبة ما مقابل الدينار : وبسسعر ses‏ بعر التنفيذ prix d'exercice‏ » أو« strike price‏ «« وعند تاريخ استحقاق محدد مسبقا.\n.« option call .< option put",
+      "paragraphs": [
+        {
+          "text": "خبار الصرف من الصنف الأوروبي شو حق. وليس التزاما, لشراء أو بيع مبلغ محدد ومحرر بعملة صعبة ما مقابل الدينار : وبسسعر ses‏ بعر التنفيذ prix d'exercice‏ » أو« strike price‏ «« وعند تاريخ استحقاق محدد مسبقا.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": ".« option call .< option put",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 24",
+      "number": "24",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "الثاني",
+          "heading": "آدوات تفطية خطر الصرف",
+          "label": "Titre الثاني"
+        }
+      },
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "يلزم المشترون مقابل Gall‏ الذي تمنحه إباشم حيازة خبار الصرف: ain‏ علاوة للبائعين تسمى « سعر الخبار pux de l'option‏ ».",
+      "paragraphs": [
+        {
+          "text": "يلزم المشترون مقابل Gall‏ الذي تمنحه إباشم حيازة خبار الصرف: ain‏ علاوة للبائعين تسمى « سعر الخبار pux de l'option‏ ».",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 25",
+      "number": "25",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "الثاني",
+          "heading": "آدوات تفطية خطر الصرف",
+          "label": "Titre الثاني"
+        }
+      },
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "تتشكّل عملية المبادلة swap»‏ » للعملات نقدا والأخرى لأجل.",
+      "paragraphs": [
+        {
+          "text": "تتشكّل عملية المبادلة swap»‏ » للعملات نقدا والأخرى لأجل.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "الثالث",
+          "heading": "القواعد الأخلاقية وقواعد حسسن السلوك",
+          "label": "Titre الثالث"
+        }
+      },
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "مباشرة أو غير مباشرة:. في العمليات على مستوى لحسابهم: التحلي Less‏ بالنزاهة والاستقامة الأخلاقية والولاء. ويجب عليهمح خصوصا مراعاة | el il‏ الأخلاقبة الآأتبة :\n- الامتناع عن المشاركة أو المساهمة. من خلال أى فعل: في كل عملية من شأنها أن تؤدي إلى تشويه أو\n— تفادي تسريب أو ترويج إشاعات على مستوى السوق من شأنها المساس بسمعة متدخلين آخرين في هذه السوقء. أو إخلال آلبات تش كيل الأسعار أو المعدلات:\nإبلاغ الزبائن بجميع المخاطر المُمكن التعرض لها قواعد التسيير الجبد لخطر الطرف المقابل,\n- تجنب الاستفادة من أي خطأ واضح في التسعير",
+      "paragraphs": [
+        {
+          "text": "مباشرة أو غير مباشرة:. في العمليات على مستوى لحسابهم: التحلي Less‏ بالنزاهة والاستقامة الأخلاقية والولاء. ويجب عليهمح خصوصا مراعاة | el il‏ الأخلاقبة الآأتبة :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- الامتناع عن المشاركة أو المساهمة. من خلال أى فعل: في كل عملية من شأنها أن تؤدي إلى تشويه أو",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "— تفادي تسريب أو ترويج إشاعات على مستوى السوق من شأنها المساس بسمعة متدخلين آخرين في هذه السوقء. أو إخلال آلبات تش كيل الأسعار أو المعدلات:",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "إبلاغ الزبائن بجميع المخاطر المُمكن التعرض لها قواعد التسيير الجبد لخطر الطرف المقابل,",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- تجنب الاستفادة من أي خطأ واضح في التسعير",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 28",
+      "number": "28",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "الثالث",
+          "heading": "القواعد الأخلاقية وقواعد حسسن السلوك",
+          "label": "Titre الثالث"
+        }
+      },
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "ينبغي على الوسطاء مراعاة قواعد\n- بيجب أن تشكّل الأسعار أو المعدلات المسعرة.\nالتزاما صار Le‏ من طرف المتدخل الذي gens‏ إلا إذا cel‏ بوضوح أن هذا التسعير صُعطى على سبيل Yi‏\n- كل طرف مقابل يتآخر في اتخاذ القرار بعد إمكانية تغيير أو الغاء هذا التسعبيرء اللمتوخاة بمبالغ جد صغيرة أو جد كبيرة:\nمقارنة بالمعابسر الع حدنة من طرف بنك الجزائر: يجب على الطرف المقابل الذي mit‏ التسعير أن يعلن عن مبلغ واتجاه (مشتري/بائع) هذه «La La] |‏ لا ينبغي أن تتجاوز الأسعار المفوترة LU‏ في أي حال من الأحوالء أكثر من واحد في المائة (T1)‏ من متوسط السعر ma pli‏ المُسدّد من طرف الوسيط\n— بحب أن تكون كل امعاملات المصققة بين أجل لاا يتعدى يوم العمل الذي يلي تاريخ بالمعاملة. وفي حالة اعتراض عن أية معلومة واردة أجل لا يتعدى يوم العمل الذي يلي تاريخ استلام هذا",
+      "paragraphs": [
+        {
+          "text": "ينبغي على الوسطاء مراعاة قواعد",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- بيجب أن تشكّل الأسعار أو المعدلات المسعرة.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "التزاما صار Le‏ من طرف المتدخل الذي gens‏ إلا إذا cel‏ بوضوح أن هذا التسعير صُعطى على سبيل Yi‏",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- كل طرف مقابل يتآخر في اتخاذ القرار بعد إمكانية تغيير أو الغاء هذا التسعبيرء اللمتوخاة بمبالغ جد صغيرة أو جد كبيرة:",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "مقارنة بالمعابسر الع حدنة من طرف بنك الجزائر: يجب على الطرف المقابل الذي mit‏ التسعير أن يعلن عن مبلغ واتجاه (مشتري/بائع) هذه «La La] |‏ لا ينبغي أن تتجاوز الأسعار المفوترة LU‏ في أي حال من الأحوالء أكثر من واحد في المائة (T1)‏ من متوسط السعر ma pli‏ المُسدّد من طرف الوسيط",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "— بحب أن تكون كل امعاملات المصققة بين أجل لاا يتعدى يوم العمل الذي يلي تاريخ بالمعاملة. وفي حالة اعتراض عن أية معلومة واردة أجل لا يتعدى يوم العمل الذي يلي تاريخ استلام هذا",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 29",
+      "number": "29",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "الثالث",
+          "heading": "القواعد الأخلاقية وقواعد حسسن السلوك",
+          "label": "Titre الثالث"
+        }
+      },
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 5,
+      "text": "ينبغي على الوسطاء المعتمدين أن يبتزودوا باللوارد البشرية والمادية الملائمة. ووضع نظام عن عمليات السوق التي يقومون lé‏ وفي هذا الإطار:\nالتفاوض (المكتب الأمامي (front office‏ ومهام الرقابة back office‏ ) المتعلقة بهذه العملبات.",
+      "paragraphs": [
+        {
+          "text": "ينبغي على الوسطاء المعتمدين أن يبتزودوا باللوارد البشرية والمادية الملائمة. ووضع نظام عن عمليات السوق التي يقومون lé‏ وفي هذا الإطار:",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "التفاوض (المكتب الأمامي (front office‏ ومهام الرقابة back office‏ ) المتعلقة بهذه العملبات.",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 30",
+      "number": "30",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "الثالث",
+          "heading": "القواعد الأخلاقية وقواعد حسسن السلوك",
+          "label": "Titre الثالث"
+        }
+      },
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 5,
+      "text": "ينبغي على الوسطاء المعتمدين وضع التعرض لها.\nالمعتمدين. تحت طائلة عقوبات إدارية و/رأو متابعات غرف التداول للوسطاء المعتمدين الآخرين.\nوتبقى مسؤولية الوسطاء العتمدين قائمة كلبا بالنسبة لجميع المعاملات المتفاوض بشأنها من طرف مستخدميهم فى غرفة التداول.",
+      "paragraphs": [
+        {
+          "text": "ينبغي على الوسطاء المعتمدين وضع التعرض لها.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "المعتمدين. تحت طائلة عقوبات إدارية و/رأو متابعات غرف التداول للوسطاء المعتمدين الآخرين.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "وتبقى مسؤولية الوسطاء العتمدين قائمة كلبا بالنسبة لجميع المعاملات المتفاوض بشأنها من طرف مستخدميهم فى غرفة التداول.",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 32",
+      "number": "32",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "الثالث",
+          "heading": "القواعد الأخلاقية وقواعد حسسن السلوك",
+          "label": "Titre الثالث"
+        }
+      },
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 5,
+      "text": "يجب أن تكون غرف التداول مُؤمنة بشكل كاف وأن يكون الدخول إليها منظما.\nوبمكن تزويد غرف التداول هذه بمعدات تسجيل المكالات الهاتفية. ويُلزم الوسطاء المعتمدون الحائزون معدات كهذه: أن بُعلموا sql pli‏ المقابلين بذلك.",
+      "paragraphs": [
+        {
+          "text": "يجب أن تكون غرف التداول مُؤمنة بشكل كاف وأن يكون الدخول إليها منظما.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "وبمكن تزويد غرف التداول هذه بمعدات تسجيل المكالات الهاتفية. ويُلزم الوسطاء المعتمدون الحائزون معدات كهذه: أن بُعلموا sql pli‏ المقابلين بذلك.",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 33",
+      "number": "33",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "الثالث",
+          "heading": "القواعد الأخلاقية وقواعد حسسن السلوك",
+          "label": "Titre الثالث"
+        }
+      },
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 5,
+      "text": "بمكن استعمال التسجيلات الهاتفية Lai‏ إلبها في المادة 32 أعلاه. كسند لتسوية أي حسبي الحالة. لمدة ثلاثة )3( أشهرء على الآقل أو إلى غابة تسوية النزاع المتعلق بالمعاملة المعتبة.\nحصرياء على الأشخاص المرخص لهم قانونا من طرف المديرية العامة للوسيط المعتمد.",
+      "paragraphs": [
+        {
+          "text": "بمكن استعمال التسجيلات الهاتفية Lai‏ إلبها في المادة 32 أعلاه. كسند لتسوية أي حسبي الحالة. لمدة ثلاثة )3( أشهرء على الآقل أو إلى غابة تسوية النزاع المتعلق بالمعاملة المعتبة.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "حصرياء على الأشخاص المرخص لهم قانونا من طرف المديرية العامة للوسيط المعتمد.",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "الرابع",
+          "heading": "أحكام مشتركة",
+          "label": "Titre الرابع"
+        }
+      },
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 5,
+      "text": "- أنه مشكل شرعاً وأنّه يمارس أنشطته طبقا للقوانين والأنظمة التى تَطبّق عليه:\n- أنه يتمتع بجميع الصلاحيات والقدرة على تحقيق المعاملات على مستوى السوق: وأن القيام بمثل هزه المعاملات مرخص من طرف هيئاته الاجتماعية, المعاملات «ail‏ قوة الزامية تجاهه.\n- أن لبس لأى خلل أو إمكانية وقوع خلل تأثير\n- أنه لا يوجد ضده أي إجراء قضائي أو مطالبات مطالبات: قد يترتب عنها تدهور معتبر في ملاءته أو قد تؤثر على التنفيذ الحيد لمعاملاته على مستوى السوق.",
+      "paragraphs": [
+        {
+          "text": "- أنه مشكل شرعاً وأنّه يمارس أنشطته طبقا للقوانين والأنظمة التى تَطبّق عليه:",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- أنه يتمتع بجميع الصلاحيات والقدرة على تحقيق المعاملات على مستوى السوق: وأن القيام بمثل هزه المعاملات مرخص من طرف هيئاته الاجتماعية, المعاملات «ail‏ قوة الزامية تجاهه.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- أن لبس لأى خلل أو إمكانية وقوع خلل تأثير",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- أنه لا يوجد ضده أي إجراء قضائي أو مطالبات مطالبات: قد يترتب عنها تدهور معتبر في ملاءته أو قد تؤثر على التنفيذ الحيد لمعاملاته على مستوى السوق.",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 35",
+      "number": "35",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "الرابع",
+          "heading": "أحكام مشتركة",
+          "label": "Titre الرابع"
+        }
+      },
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 5,
+      "text": "يتم التفاوض. بالتراضيء على جميع المعاملات المنصوص عليها في هذا النظام. بين الوسطاء المعتمدين فيما بيبنهم. وبين الوسطاء المعتمدين وزبائنهم: مع الامتثال الصارع للقواعد الدولية.\nut)‏ 36 : يلتزم الوسطاء المعتمدون: في حالة وقوع نزاع حول معاملة تمت فيما بينهم. باتضاذ كل الإاجراءات الضرورية لتسويته وديا. وإذا استحال ذلك:\nيمكن أن تلج الأطراف الى تحكيم بنك الجزائر. بيشرط التخلي عن كل طرق طعن أخرى.",
+      "paragraphs": [
+        {
+          "text": "يتم التفاوض. بالتراضيء على جميع المعاملات المنصوص عليها في هذا النظام. بين الوسطاء المعتمدين فيما بيبنهم. وبين الوسطاء المعتمدين وزبائنهم: مع الامتثال الصارع للقواعد الدولية.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "ut)‏ 36 : يلتزم الوسطاء المعتمدون: في حالة وقوع نزاع حول معاملة تمت فيما بينهم. باتضاذ كل الإاجراءات الضرورية لتسويته وديا. وإذا استحال ذلك:",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "يمكن أن تلج الأطراف الى تحكيم بنك الجزائر. بيشرط التخلي عن كل طرق طعن أخرى.",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 37",
+      "number": "37",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "الرابع",
+          "heading": "أحكام مشتركة",
+          "label": "Titre الرابع"
+        }
+      },
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 5,
+      "text": "يجب أن تكون جميع معاملات الصرف وتغطية خطر الصرف المحققة بين الوسطاء المعتمدين للتجارة الخارجية وللصرف.",
+      "paragraphs": [
+        {
+          "text": "يجب أن تكون جميع معاملات الصرف وتغطية خطر الصرف المحققة بين الوسطاء المعتمدين للتجارة الخارجية وللصرف.",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 38",
+      "number": "38",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "الرابع",
+          "heading": "أحكام مشتركة",
+          "label": "Titre الرابع"
+        }
+      },
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 5,
+      "text": "sus‏ كيفيات تطبيق أحكام هذا النظام",
+      "paragraphs": [
+        {
+          "text": "sus‏ كيفيات تطبيق أحكام هذا النظام",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 39",
+      "number": "39",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "الرابع",
+          "heading": "أحكام مشتركة",
+          "label": "Titre الرابع"
+        }
+      },
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 5,
+      "text": "تلغى كل الأحكام السابقة المخالفة لأحكام هذا النظام.",
+      "paragraphs": [
+        {
+          "text": "تلغى كل الأحكام السابقة المخالفة لأحكام هذا النظام.",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 40",
+      "number": "40",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "الرابع",
+          "heading": "أحكام مشتركة",
+          "label": "Titre الرابع"
+        }
+      },
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 5,
+      "text": "ينشر هذا النظام فى الجريدة الرسمية يوليو سنة 2017.\nمحمد لوكال",
+      "paragraphs": [
+        {
+          "text": "ينشر هذا النظام فى الجريدة الرسمية يوليو سنة 2017.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "محمد لوكال",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine",
+      "numerotation:articles_manquants:[3, 10, 13, 18, 19, 20, 26, 27, 31, 34, 36]",
+      "numerotation:premier_article=2"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.04,
+      "ocr_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "ocr_mean_confidence": 82.6
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/REG-17-01.ar.txt"
+}

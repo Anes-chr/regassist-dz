@@ -1,0 +1,1256 @@
+{
+  "document_id": "REG-20-04.ar",
+  "work_id": "REG-20-04",
+  "title": "نظام رقم 2020-04 المؤرخ في 15 مارس 2020، المتعلق بسوق الصرف ما بين المصارف وبعمليات الخزينة بالعملة الصعبة وبأدوات تغطية خطر الصرف.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "2020-04",
+  "number_source": "libelle",
+  "date": "2020-03-15",
+  "date_raw": "المؤرخ في 15 مارس 2020",
+  "date_source": "libelle",
+  "publication_date": "2023-02-28",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "règlements",
+  "subcategory": "تنظيم و تسيير سوق الصرف ما بين المصارف",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d8%b5%d8%b1%d9%81/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/02/04-2020.pdf",
+  "format": "pdf",
+  "file_hash": "a86c516e038daf5db037afb0ee463fe2a65fc16d2cdfda6305bd5ff88ccb94c4",
+  "file_size": 90413,
+  "raw_path": "raw/a86c516e038d__04-2020.pdf",
+  "retrieved_at": "2026-10-05T13:28:23+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 3,
+  "url_hash": "e53b8fdf6ac3b6f1351dd6598fed3197e87cf2ca153d98f8ab8e64813522343a",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d8%b5%d8%b1%d9%81/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - reglements2020arabe",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20230226122921+01'00'",
+    "modDate": "D:20230226122921+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 3,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 3037,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 2610,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 550,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": [
+      {
+        "page": 1,
+        "removed": "04",
+        "why": "numéro de page"
+      }
+    ]
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 14,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": null,
+  "alias_urls": [],
+  "text_hash": "f47ff9224b4bcb587bd9848899c4739228da2679d775988ffd2204bf8d11caac",
+  "relations_out": [
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "17-01",
+        "date": "2017-07-10",
+        "raw": "règlement n°17-01 du 10 juillet 2017"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "Le présent règlement abroge les dispositions du règlement n°17-01 du 10 juillet 2017 relatif au marché interbancaire des cha",
+        "copied_from": "REG-20-04.fr"
+      },
+      "target_work_id": "REG-17-01"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "REG-17-01",
+      "reference": "règlement n°17-01 du 10 juillet 2017",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "Le présent règlement abroge les dispositions du règlement n°17-01 du 10 juillet 2017 relatif au marché interbancaire des cha",
+        "copied_from": "REG-20-04.fr"
+      }
+    }
+  ],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-20-04.fr",
+    "REG-20-04.fr~2"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 02",
+      "number": "02",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 03",
+      "number": "03",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 04",
+      "number": "04",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 05",
+      "number": "05",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 06",
+      "number": "06",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 07",
+      "number": "07",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 08",
+      "number": "08",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 09",
+      "number": "09",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "النظام رقم2020 -\nالمؤرخ في20\nرجب عام1441\nالموافق15\nمارس سنة2020 ،\nالمتعلق بسوق الصرف ما بين المصارف وبعمليات الخزينة بالعملة الصعبة وبأدوات تغطية خطر الصرف\nإنّ محافظ بنك الجزائر؛\n-\nبمقتضى الأمر رقم96 - 22\nالمؤرّخ في23\nصفر عام1417\nالموافق9\nيوليو سنة1996\nوالمتعلق بقمع مخالفة التشريع والتنظيم الخاصين بالصرف وحركة رؤوس الأموال من وإلى الخارج، المعدّل والمتمّم،\n-\nوبمقتضى الأمر رقم03 - 04\nالمؤرّخ في19\nجمادى الأولى عام1424\nالموافق19 ي وليو سنة 2003\nوالمتعلّق بالقواعد العامة المطبقة على عمليات استيراد البضائع وتصديرها، المعدّل والمتمّم،\n-\nوبمقتضى الأمر رقم03 - 11\nالمؤرّخ في27\nجمادى الثانية عام1424\nالموافق26\nغشت سنة2003\nوالمتعلّق بالنقد والقرض، المعدّل والمتمم،\n-\nوبمقتضى القانون رقم05 - 01\nالمؤرّخ في27\nذي الحجة عام1425\nالموافق6\nفبراير سنة2005\nوالمتعلق بالوقاية من تبييض الأموال وتمويل الإرهاب ومكافحتهما، المعدّل والمتمّم،\n-\nوبمقتضى المرسوم الرئاسي المؤرّخ في17\nربيع الأول عام1441\nالموافق14\nنوفمبر سنة2019\nوالمتضمّن تعيين محافظ بنك الجزا ئر،\n-\nوبمقتضى المرسوم الرئاسي المؤرّخ في18\nربيع الثاني عام1441\nالموافق15\nديسمبر سنة2019\nوالمتضمّن تعيين نائبين لمحافظ بنك الجزائر،\n-\nوبمقتضى المرسوم الرئاسي المؤرّخ في17\nصفر عام1438\nالموافق17\nنوفمبر سنة2016\nوالمتضمن تعيين نائبين لمحافظ بنك الجزائر،\n- وبم قتضى المرسوم الرئاسي المؤرّخ في 5\nصفر عام1437\nالموافق17\nنوفمبر سنة2015\nوالمتضمّن تعيين أعضاء في مجلس إدارة بنك الجزائر،\n-\nوبمقتضى النظام رقم07 - 01\nالمؤرّخ في15\nمحرم عام1428\nالموافق3\nفبراير سنة2007\nوالمتعلق بالقواعد المطبقة على المعاملات الجارية مع الخ ارج والحسابات بالعملة الصعبة، المعدّل والمتمّم،\n-\nوبمقتضى النظام رقم11 - 08\nالمؤرّخ في3\nمحرّم عام1433\nالموافق28\nنوفمبر سنة2011\nوالمتعلق بالرقابة الداخلية للبنوك والمؤسسات المالية،\n-\nوبمقتضى النظام رقم12 - 03\nالمؤرّخ في14\nمحرّم عام1434\nالموافق28 نوفمبر سنة 2012\nوالمتعلق بالوقاية من تبييض الأموال وتمويل الإرهاب ومكافحتهما،\n-\nوبمقتضى النظام رقم14 - 01\nالمؤرخ في16\nربيع الثاني عام1435\nالموافق16\nفبراير سنة2014\nوالمتضمن نسب الملاءة المطبقة على البنوك والمؤسسات المالية،\n-\nوبمقتضى النظام رقم17 - 01\nالمؤرخ في16\nشوال عام 1438\nالموافق10\nيوليو سنة2017\nوالمتعلق بسوق الصرف ما بين المصارف وبأدوات تغطية خطر الصرف،\n-\nوبعد الاطلاع على مداولات مجلس النقد والقرض بتاريخ15\nمارس2020 ،\nيص در النظام الآتي نصه:",
+      "paragraphs": [
+        {
+          "text": "النظام رقم2020 -",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرخ في20",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "رجب عام1441",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق15",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "مارس سنة2020 ،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المتعلق بسوق الصرف ما بين المصارف وبعمليات الخزينة بالعملة الصعبة وبأدوات تغطية خطر الصرف",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "إنّ محافظ بنك الجزائر؛",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "بمقتضى الأمر رقم96 - 22",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرّخ في23",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "صفر عام1417",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق9",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "يوليو سنة1996",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتعلق بقمع مخالفة التشريع والتنظيم الخاصين بالصرف وحركة رؤوس الأموال من وإلى الخارج، المعدّل والمتمّم،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى الأمر رقم03 - 04",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرّخ في19",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "جمادى الأولى عام1424",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق19 ي وليو سنة 2003",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتعلّق بالقواعد العامة المطبقة على عمليات استيراد البضائع وتصديرها، المعدّل والمتمّم،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى الأمر رقم03 - 11",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرّخ في27",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "جمادى الثانية عام1424",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق26",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "غشت سنة2003",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتعلّق بالنقد والقرض، المعدّل والمتمم،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى القانون رقم05 - 01",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرّخ في27",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ذي الحجة عام1425",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق6",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "فبراير سنة2005",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتعلق بالوقاية من تبييض الأموال وتمويل الإرهاب ومكافحتهما، المعدّل والمتمّم،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى المرسوم الرئاسي المؤرّخ في17",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ربيع الأول عام1441",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق14",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "نوفمبر سنة2019",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتضمّن تعيين محافظ بنك الجزا ئر،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى المرسوم الرئاسي المؤرّخ في18",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ربيع الثاني عام1441",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق15",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ديسمبر سنة2019",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتضمّن تعيين نائبين لمحافظ بنك الجزائر،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى المرسوم الرئاسي المؤرّخ في17",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "صفر عام1438",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق17",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "نوفمبر سنة2016",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتضمن تعيين نائبين لمحافظ بنك الجزائر،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبم قتضى المرسوم الرئاسي المؤرّخ في 5",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "صفر عام1437",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق17",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "نوفمبر سنة2015",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتضمّن تعيين أعضاء في مجلس إدارة بنك الجزائر،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى النظام رقم07 - 01",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرّخ في15",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "محرم عام1428",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق3",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "فبراير سنة2007",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتعلق بالقواعد المطبقة على المعاملات الجارية مع الخ ارج والحسابات بالعملة الصعبة، المعدّل والمتمّم،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى النظام رقم11 - 08",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرّخ في3",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "محرّم عام1433",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق28",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "نوفمبر سنة2011",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتعلق بالرقابة الداخلية للبنوك والمؤسسات المالية،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى النظام رقم12 - 03",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرّخ في14",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "محرّم عام1434",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق28 نوفمبر سنة 2012",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتعلق بالوقاية من تبييض الأموال وتمويل الإرهاب ومكافحتهما،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى النظام رقم14 - 01",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرخ في16",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ربيع الثاني عام1435",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق16",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "فبراير سنة2014",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتضمن نسب الملاءة المطبقة على البنوك والمؤسسات المالية،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى النظام رقم17 - 01",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرخ في16",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "شوال عام 1438",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق10",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "يوليو سنة2017",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتعلق بسوق الصرف ما بين المصارف وبأدوات تغطية خطر الصرف،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبعد الاطلاع على مداولات مجلس النقد والقرض بتاريخ15",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "مارس2020 ،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "يص در النظام الآتي نصه:",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يُؤسس بنك الجزائر سوق صرف ما بين المصارف. تتدخّل المصارف والمؤسسات المالية في هذه السوق في إطار جهاز لامركزي سيُحدّد تنظيمه وقواعد عمله بتعليمة من بنك الجزائر.",
+      "paragraphs": [
+        {
+          "text": "يُؤسس بنك الجزائر سوق صرف ما بين المصارف. تتدخّل المصارف والمؤسسات المالية في هذه السوق في إطار جهاز لامركزي سيُحدّد تنظيمه وقواعد عمله بتعليمة من بنك الجزائر.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 02",
+      "number": "02",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": ":\nسوق الصرف ما بين المصارف هي سوق بين البنوك والمؤسسات المالية، أي الوسطاء المعتمدين. تشمل هذه السوق كل عمليات الصرف نقدا ولأجل بالعملة الوطنية وبالعملات الأجنبية القابلة للتحويل بحرية.",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "سوق الصرف ما بين المصارف هي سوق بين البنوك والمؤسسات المالية، أي الوسطاء المعتمدين. تشمل هذه السوق كل عمليات الصرف نقدا ولأجل بالعملة الوطنية وبالعملات الأجنبية القابلة للتحويل بحرية.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 03",
+      "number": "03",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": ":\n.يمكن للوسطاء المعتمدين القيام بعمليات الصرف نقدا مع بنوك غير مقيمة",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": ".يمكن للوسطاء المعتمدين القيام بعمليات الصرف نقدا مع بنوك غير مقيمة",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 04",
+      "number": "04",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": ":\n.يمكن للوسطاء المعتمدين القيام فيما بينهم، لحسابهم الخاص أو لحساب زبائنهم، بعمليات الخزينة بالعملة الصعبة\nBANK OF ALGERIA\nفي إطار هذه الع مليات، يمكن للوسطاء المعتمدين استعمال خزينتهم الخاصة بالعملة الصعبة )الأموال الخاصة(، ويجب عليها احترام نفس قواعد التسيير والأهلية لتلك المنظمة للخزينة بالدينار.\nكما يُرخص لهم بجمع الودائع بالعملة الصعبة من الزبائن ومنحهم قروضا بالعملة الصعبة، مع احترام أح كام المادتين 09\nو10\n.أدناه",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": ".يمكن للوسطاء المعتمدين القيام فيما بينهم، لحسابهم الخاص أو لحساب زبائنهم، بعمليات الخزينة بالعملة الصعبة",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "في إطار هذه الع مليات، يمكن للوسطاء المعتمدين استعمال خزينتهم الخاصة بالعملة الصعبة )الأموال الخاصة(، ويجب عليها احترام نفس قواعد التسيير والأهلية لتلك المنظمة للخزينة بالدينار.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "كما يُرخص لهم بجمع الودائع بالعملة الصعبة من الزبائن ومنحهم قروضا بالعملة الصعبة، مع احترام أح كام المادتين 09",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "و10",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": ".أدناه",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 05",
+      "number": "05",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": ": يمكن توسيع سوق الصرف ما بين المصارف وعمليات الخزينة بالعملة الصعبة لتشمل مؤسسات مالية غير بنكية، وذلك من خلال تعليمة من بنك الجزائر.\nيمكن لبنك الجزائر أن يعتمد كل مؤسسة أو متعامل بالصرف للقيام بعمليات الصرف بالعملة ال وطنية وبالعملات ا لأجنبية القابلة للتحويل بحرية.\nيحدّد هذا الاعتماد فئة )أو فئات( العمليات المرخّصة.",
+      "paragraphs": [
+        {
+          "text": ": يمكن توسيع سوق الصرف ما بين المصارف وعمليات الخزينة بالعملة الصعبة لتشمل مؤسسات مالية غير بنكية، وذلك من خلال تعليمة من بنك الجزائر.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "يمكن لبنك الجزائر أن يعتمد كل مؤسسة أو متعامل بالصرف للقيام بعمليات الصرف بالعملة ال وطنية وبالعملات ا لأجنبية القابلة للتحويل بحرية.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "يحدّد هذا الاعتماد فئة )أو فئات( العمليات المرخّصة.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 06",
+      "number": "06",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": ".: يمكن لبنك الجزائر أن يتدخل في سوق الصرف ما بين المصارف وفي عمليات الخزينة بالعملة الصعبة",
+      "paragraphs": [
+        {
+          "text": ".: يمكن لبنك الجزائر أن يتدخل في سوق الصرف ما بين المصارف وفي عمليات الخزينة بالعملة الصعبة",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 07",
+      "number": "07",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "يتم التفاوض بصفة حرّة، بين المتدخلين على مس توى السوق، بشأن أسعار الصرف ومعدلات الفائدة المطبقة على عمليات الصرف وعلى عمليات الخزينة بالعملة الصعبة، على التوالي.\nغير أنّه، في حالة إجراء الوسيط المعتمد معاملة صرف لحساب زبائنه، ويكون بنك الجزائر الطرف المقابل، لا ينبغي أن تتجاوز الأسعار المفوترة للزبا ئن، في أي حال من الأحوال، واحد من الألف ‰)\n1 ( من متوسط السعر المرجّح المسدّد من طرف الوسيط المعتمد عند شراء كل عملة صعبة بتاريخ تحديد القيمة المعنية.",
+      "paragraphs": [
+        {
+          "text": "يتم التفاوض بصفة حرّة، بين المتدخلين على مس توى السوق، بشأن أسعار الصرف ومعدلات الفائدة المطبقة على عمليات الصرف وعلى عمليات الخزينة بالعملة الصعبة، على التوالي.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "غير أنّه، في حالة إجراء الوسيط المعتمد معاملة صرف لحساب زبائنه، ويكون بنك الجزائر الطرف المقابل، لا ينبغي أن تتجاوز الأسعار المفوترة للزبا ئن، في أي حال من الأحوال، واحد من الألف ‰)",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "1 ( من متوسط السعر المرجّح المسدّد من طرف الوسيط المعتمد عند شراء كل عملة صعبة بتاريخ تحديد القيمة المعنية.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 08",
+      "number": "08",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": ": يترك بنك الجزائر تحت تصرّف الوسطاء المعتمدين موارد بالعملات الصعبة، التي يتعيّن عليهم استعمالها\nلتغطية الالتزامات تجاه الخارج، التي تمّ التعاقد بشأنها قانونياً، لصالحهم أو لصالح زبائنهم، وكذا الموارد الموجهة لضمان سيولة سوق الصرف.",
+      "paragraphs": [
+        {
+          "text": ": يترك بنك الجزائر تحت تصرّف الوسطاء المعتمدين موارد بالعملات الصعبة، التي يتعيّن عليهم استعمالها",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "لتغطية الالتزامات تجاه الخارج، التي تمّ التعاقد بشأنها قانونياً، لصالحهم أو لصالح زبائنهم، وكذا الموارد الموجهة لضمان سيولة سوق الصرف.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 09",
+      "number": "09",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": ":\n:تتشكّل الموارد بالعملات الصعبة المتروكة تحت تصرّف الوسطاء المعتمدين، من\n-\nالمبالغ الناجمة عن عمليات شراء على مستوى سوق الصرف ما بين المصارف؛\n- الايرادات الناجمة عن الصادرات من السلع خارج المحروقات وكذا الايرادات والمنتوجات المنجميّة والخدمات؛\n- أرصدة الحسابات بالعملات الصعبة لمجمل الزبائن؛\n- المبالغ الناجمة عن كل قرض مالي أو اقتراض بالعملات الصعبة يعقده الوسطاء المعتمد ون لاحتياجاتهم الخاصة أو لاحتياجات زبائنهم؛\n-\n.كل الموارد الأخرى التي يُحدّدها بنك الجزائر\nيجب أن تخضع الموارد المتروكة\nتحت تصرّف الوسطاء المعتمدين لتسيير حذر.",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": ":تتشكّل الموارد بالعملات الصعبة المتروكة تحت تصرّف الوسطاء المعتمدين، من",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "-",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "المبالغ الناجمة عن عمليات شراء على مستوى سوق الصرف ما بين المصارف؛",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- الايرادات الناجمة عن الصادرات من السلع خارج المحروقات وكذا الايرادات والمنتوجات المنجميّة والخدمات؛",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- أرصدة الحسابات بالعملات الصعبة لمجمل الزبائن؛",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- المبالغ الناجمة عن كل قرض مالي أو اقتراض بالعملات الصعبة يعقده الوسطاء المعتمد ون لاحتياجاتهم الخاصة أو لاحتياجات زبائنهم؛",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "-",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": ".كل الموارد الأخرى التي يُحدّدها بنك الجزائر",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "يجب أن تخضع الموارد المتروكة",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "تحت تصرّف الوسطاء المعتمدين لتسيير حذر.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": ":\nيجب أن تكون الالتزامات تجاه الخارج، المذكورة في المادة4\nأعلاه، والمتعلقة بكل التزامات الدفع، مطابقة للقوانين والتنظيمات المعمول بها.",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "يجب أن تكون الالتزامات تجاه الخارج، المذكورة في المادة4",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "أعلاه، والمتعلقة بكل التزامات الدفع، مطابقة للقوانين والتنظيمات المعمول بها.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": ":\nيُرخص للوسطاء المعتمدين القيام، لحسابهم الخاص أو لحساب زبائنهم، بعمليات تغطية خطر الصرف المرتبط بالعملات الصعب ة مقابل الدينار.",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "يُرخص للوسطاء المعتمدين القيام، لحسابهم الخاص أو لحساب زبائنهم، بعمليات تغطية خطر الصرف المرتبط بالعملات الصعب ة مقابل الدينار.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 3,
+      "text": ":\n:يمكن للوسطاء المعتمدين في إطار تغطية خطر الصرف، القيام فيما بينهم، بالعمليات الآتية\n- عمليات الصرف لأجل؛\n-\nخيارات الصرفvanille\n»من الصنف الأوروبي «؛ - عقود المبادلة؛\n-\n.عمليات شراء العملة الصعبة نقداً، موضوع التسليم لأجل\nتُخصّص عمليات\nشراء العملة الصعبة نقداً موضوع التسليم لأجل، حصرياً، للزبائن الذين بحوزتهم موجودات بالدينار.\nويمكن لهذه الفئة من العمليات أن تُبرم مع بنك الجزائر بالعملات الصعبة المتواجدة في احتياطياته للصرف.",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": ":يمكن للوسطاء المعتمدين في إطار تغطية خطر الصرف، القيام فيما بينهم، بالعمليات الآتية",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- عمليات الصرف لأجل؛",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "-",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "خيارات الصرفvanille",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "»من الصنف الأوروبي «؛ - عقود المبادلة؛",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "-",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": ".عمليات شراء العملة الصعبة نقداً، موضوع التسليم لأجل",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "تُخصّص عمليات",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "شراء العملة الصعبة نقداً موضوع التسليم لأجل، حصرياً، للزبائن الذين بحوزتهم موجودات بالدينار.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "ويمكن لهذه الفئة من العمليات أن تُبرم مع بنك الجزائر بالعملات الصعبة المتواجدة في احتياطياته للصرف.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": ":\nيُلغي هذا النظام أحكام النظام رقم17 - 01\nالمؤرخ في16\nشوال عام1438\nالموافق10\nيوليو سنة2017\n.والمتعلق بسوق الصرف ما بين المصارف وبأدوات تغطية خطر الصرف",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "يُلغي هذا النظام أحكام النظام رقم17 - 01",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "المؤرخ في16",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "شوال عام1438",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "الموافق10",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "يوليو سنة2017",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": ".والمتعلق بسوق الصرف ما بين المصارف وبأدوات تغطية خطر الصرف",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": ":\n.ينشر هذا النظام في الجريدة الرسمية للجمهورية الجزائرية الديمقراطية الشعبية\nالمحافــــــــظ\nأيمن بن عبد الرحمان",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": ".ينشر هذا النظام في الجريدة الرسمية للجمهورية الجزائرية الديمقراطية الشعبية",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "المحافــــــــظ",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "أيمن بن عبد الرحمان",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.041
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/REG-20-04.ar.txt"
+}

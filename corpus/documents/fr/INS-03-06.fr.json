@@ -1,0 +1,206 @@
+{
+  "document_id": "INS-03-06.fr",
+  "work_id": "INS-03-06",
+  "title": "Instruction n°03-2006 du 18 mai 2006 fixant la date d’entrée en vigueur de l’instruction n°02-2006 du 17 mai 2006 modifiant l’instruction n°01-2006 du 29 avril 2006 définissant les modalités de la compensation manuelle a titre transitoire.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "03-2006",
+  "number_source": "en-tête du document",
+  "date": "2006-05-18",
+  "date_raw": "N°03-2006 DU 18 MAI 2006",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction032006.pdf",
+      "uploaded": "2023-01-24T10:03:34"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Année 2006",
+  "source_url": "https://www.bank-of-algeria.dz/annee-2006/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction032006.pdf",
+  "format": "pdf",
+  "file_hash": "6e5a427f27b7da02c97f5436d0554dd289f3271f22f24343ee186fabbbc18eec",
+  "file_size": 50633,
+  "raw_path": "raw/6e5a427f27b7__instruction032006.pdf",
+  "retrieved_at": "2026-10-05T13:21:18+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "4a33abd7b88f18823672d02c5078da1b59d3d77df4265fb1cd3f08b4cf89cdc2",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-2006/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Microsoft Word - instruction032006",
+    "author": "chahra.yahiaoui",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "creationDate": "D:20210225105640+01'00'",
+    "modDate": "D:20210225105640+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 522,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": false,
+    "article_count": 0,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "meme_texte_plusieurs_fichiers"
+  ],
+  "title_document": "INSTRUCTION N°03-2006 DU 18 MAI 2006 FIXANT LA DATE D'ENTRÉE EN VIGUEUR DE L'INSTRUCTION N°02-2006 DU 17 MAI 2006 MODIFIANT L'INSTRUCTION N°01-2006 DU 29 AVRIL 2006 DÉFINISSANT LES MODALITÉS DE LA COMPENSATION MANUELLE A",
+  "alias_urls": [],
+  "text_hash": "06e13d8bf4c8b7a52d4c444d349d1ed1ea17b73f2a12624ccda026bcf66cc042",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "01-2006",
+        "date": "2006-04-29",
+        "raw": "instruction n°01-2006 du 29 avril 2006"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "ction n°03-2006 du 18 mai 2006 fixant la date d’entrée en vigueur de l’instruction n°02-2006 du 17 mai 2006 modifiant l’instruction n°01-2006 du 29 avril 2006 définissant les modalités de la compens"
+      },
+      "target_work_id": "INS-01-06"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-01-06",
+      "reference": "instruction n°01-2006 du 29 avril 2006",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "ction n°03-2006 du 18 mai 2006 fixant la date d’entrée en vigueur de l’instruction n°02-2006 du 17 mai 2006 modifiant l’instruction n°01-2006 du 29 avril 2006 définissant les modalités de la compens"
+      }
+    }
+  ],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-03-06.fr~2"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°03-2006 DU 18 MAI 2006 FIXANT LA DATE D'ENTRÉE\nEN VIGUEUR DE L'INSTRUCTION N°02-2006 DU 17 MAI 2006 MODIFIANT\nL'INSTRUCTION N°01-2006 DU 29 AVRIL 2006 DÉFINISSANT LES MODALITÉS\nDE LA COMPENSATION MANUELLE A TITRE TRANSITOIRE\nArticle unique : L'instruction n°02-06 du 17 mai 2006 modifiant l'instruction n°01-06 du 29 avril 2006 définissant les modalités de la compensation manuelle à titre transitoire prend effet à compter du 28 mai 2006.\nLe Gouverneur\nMohammed LAKSACI\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°03-2006 DU 18 MAI 2006 FIXANT LA DATE D'ENTRÉE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "EN VIGUEUR DE L'INSTRUCTION N°02-2006 DU 17 MAI 2006 MODIFIANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L'INSTRUCTION N°01-2006 DU 29 AVRIL 2006 DÉFINISSANT LES MODALITÉS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DE LA COMPENSATION MANUELLE A TITRE TRANSITOIRE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Article unique : L'instruction n°02-06 du 17 mai 2006 modifiant l'instruction n°01-06 du 29 avril 2006 définissant les modalités de la compensation manuelle à titre transitoire prend effet à compter du 28 mai 2006.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "meme_texte_plusieurs_fichiers"
+    ],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.04
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-03-06.fr.txt"
+}

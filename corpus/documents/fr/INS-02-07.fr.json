@@ -1,0 +1,456 @@
+{
+  "document_id": "INS-02-07.fr",
+  "work_id": "INS-02-07",
+  "title": "Instruction n°02-2007 du 31 mai 2007 relative aux opérations liées aux transactions courantes avec l’étranger.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "02-2007",
+  "number_source": "en-tête du document",
+  "date": "2007-05-31",
+  "date_raw": "N°02-2007 DU 31 MAI 2007",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Règlementation des changes",
+  "source_url": "https://www.bank-of-algeria.dz/importations-exportations-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction022007.pdf",
+  "format": "pdf",
+  "file_hash": "83614f1643c938ffde21944c3758775bbac3769c37e708fe9028454adca2000a",
+  "file_size": 70945,
+  "raw_path": "raw/83614f1643c9__instruction022007.pdf",
+  "retrieved_at": "2026-10-05T13:21:10+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "02ccc8b09fcef3396224a3fbd91a6c042f1c446602b5a3b4c757918984519c8a",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-2007/",
+    "https://www.bank-of-algeria.dz/importations-exportations-instruction/",
+    "https://www.bank-of-algeria.dz/transactions-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Microsoft Word - instruction022007",
+    "author": "chahra.yahiaoui",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "creationDate": "D:20210224153853+01'00'",
+    "modDate": "D:20210224153853+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2902,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 1985,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 2,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°02-2007 DU 31 MAI 2007 RELATIVE AUX OPERATIONS LIEES AUX TRANSACTIONS COURANTES AVEC L’ETRANGER",
+  "alias_urls": [],
+  "text_hash": "9ab694575d8db45b59970e3343d11d881224031fe8598d174e2da9ed4b4c28ed",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [
+    {
+      "work_id": "INS-05-07",
+      "document_id": "INS-05-07.fr",
+      "date": "2007-06-11",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°05-2007 11 juin 2007 modifiant et complétant l’instruction n°02-07 relative aux opérations liées aux trans"
+      }
+    },
+    {
+      "work_id": "INS-05-07",
+      "document_id": "INS-05-07.fr",
+      "date": "2007-06-11",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le dernier alinéa de l’article 1er de l’instruction n°02-07 du 31 mai 2007 relative aux opérations liées aux trans"
+      }
+    }
+  ],
+  "complete_par": [
+    {
+      "work_id": "INS-05-07",
+      "document_id": "INS-05-07.fr",
+      "date": "2007-06-11",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°05-2007 11 juin 2007 modifiant et complétant l’instruction n°02-07 relative aux opérations liées aux trans"
+      }
+    }
+  ],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée. Ce texte a été modifié/complété : consulter aussi les textes listés dans modifié_par / complété_par.",
+  "same_work_documents": [
+    "INS-02-07.ar"
+  ],
+  "complété_par": [
+    {
+      "work_id": "INS-05-07",
+      "document_id": "INS-05-07.fr",
+      "date": "2007-06-11",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°05-2007 11 juin 2007 modifiant et complétant l’instruction n°02-07 relative aux opérations liées aux trans"
+      }
+    }
+  ],
+  "modifié_par": [
+    {
+      "work_id": "INS-05-07",
+      "document_id": "INS-05-07.fr",
+      "date": "2007-06-11",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°05-2007 11 juin 2007 modifiant et complétant l’instruction n°02-07 relative aux opérations liées aux trans"
+      }
+    },
+    {
+      "work_id": "INS-05-07",
+      "document_id": "INS-05-07.fr",
+      "date": "2007-06-11",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le dernier alinéa de l’article 1er de l’instruction n°02-07 du 31 mai 2007 relative aux opérations liées aux trans"
+      }
+    }
+  ],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°02-2007 DU 31 MAI 2007 RELATIVE AUX OPERATIONS\nLIEES AUX TRANSACTIONS COURANTES AVEC L’ETRANGER",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°02-2007 DU 31 MAI 2007 RELATIVE AUX OPERATIONS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "LIEES AUX TRANSACTIONS COURANTES AVEC L’ETRANGER",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "En application de l’article 4 du règlement n°2007-01 du 03 février 2007 relatif aux transactions courantes avec l’étranger et aux comptes devises, sont considérées comme transactions courantes avec l’étranger :\n- les opérations de commerce extérieur sur les biens, admis à l’importation et à l’exportation, dûment déclarées ;\n- les opérations liées aux transports :\n* transport aérien : affrètements, excédents de recettes, assistance et redevances et taxes aéronautiques, ravitaillement en carburant, lubrifiant et catering,\n- les opérations d’affrètement obéissent aux dispositions législatives y afférentes ;\n- les opérations inhérentes aux excédents de recettes sont exécutées dans le respect des dispositions réglementaires applicables en la matière :\n* transport maritime : affrètements, approvisionnement et soldes des comptes d’escale, réparation et maintenance des navires, surestaries de navires et de conteneurs. Ces opérations s’effectuent selon les conditions et les modalités prévues par la réglementation spécifique au trafic maritime, * transport routier : tous les frais occasionnés par le déplacement à l’étranger des moyens de transport appartenant à des opérateurs de droit algérien pour la réalisation de leurs opérations de commerce international, * assurances et réassurances : Toutes les opérations et engagements contractés par les compagnies d’assurances de droit algérien, * services financiers : commissions liées aux opérations de commerce extérieur, d’emprunts et autres opérations financières, voyages : frais de mission, allocation de voyage, soins à l’étranger, frais de scolarité et pèlerinage, conformément à la réglementation en vigueur applicable à chaque opération.\n* assistance technique et opérations liées à la production :\n* montage, réparation, mise en route, transformation, usinages et assimilés ;\n* location et maintenance des équipements et du matériel ;\n* bâtiment et travaux publics, terrassement, architecture, forage ;\n* assistance technique liée à l’activité de l’entreprise de droit algérien, comprenant, notamment, les déplacements et interventions d’experts et techniciens, contrôle de fabrication, études, formation professionnelle et stages ;\n* droits de propriété industrielle (brevets et licences de production) ;\n*contrat de gestion ;\n*analyse et expertise technique et scientifique, audit et certification aux normes internationales (telles que normes ISO) ;\n*location de logiciels informatiques et abonnement à des banques de données y compris la formation en informatique et maintenance des équipements ;\n*salaires et traitements du personnel étranger contractuel, conformément aux dispositions particulières y afférentes ;\nBANK OF ALGERIA\n*locations de stands et aires d’exposition lors des foires et manifestations économiques à l’étranger.\n- Opérations liées à la communication :\n- droit d’exploitation des satellites, services postaux, services de communication et de télécommunication (roaming, appels internationaux, Internet) et entretien des installations y afférentes.\n- Revenus :\n*intérêts sur emprunts, dividendes, bénéfices, tantièmes et jetons de présence.\nAutres opérations courantes :\n*redevances d’exploitation cinématographiques et audio visuelles, ces opérations sont soumises à la présentation, à l’appui du dossier de domiciliation correspondant, du visa d’exploitation délivré par l’administration chargée de la culture ;\n*droits de retransmission ;\n* frais afférents à la participation à des concours, droits d’inscription dans des établissements d’enseignement supérieur à l’étranger ;\n*participations à des appels d’offre internationaux ;\n*cotisations d’affiliation à des organisations scientifiques et professionnelles ;\n*frais de justice et honoraires d’avocats ;\n*frais de participation à des congrès, séminaires et colloques ;\n*droits d’enregistrement à l’étranger de brevets d’inventions, de procédés de fabrication et marques de fabrique ;\n*dépenses des représentations à l’étranger des opérateurs de droit algérien, selon les dispositions légales et réglementaires y afférentes ;\n*abonnements à des revues périodiques à caractère scientifique et technique ;\n*recettes et dépenses des représentations diplomatiques et consulaires étrangères en Algérie.\nLes autres opérations d’importation de services initiées par des opérateurs de droit algérien destinés à la revente en l’état et qui ne sont pas liés aux activités de production en Algérie n’entrent pas dans le champ d’application de la présente instruction.",
+      "paragraphs": [
+        {
+          "text": "En application de l’article 4 du règlement n°2007-01 du 03 février 2007 relatif aux transactions courantes avec l’étranger et aux comptes devises, sont considérées comme transactions courantes avec l’étranger :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- les opérations de commerce extérieur sur les biens, admis à l’importation et à l’exportation, dûment déclarées ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- les opérations liées aux transports :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "* transport aérien : affrètements, excédents de recettes, assistance et redevances et taxes aéronautiques, ravitaillement en carburant, lubrifiant et catering,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- les opérations d’affrètement obéissent aux dispositions législatives y afférentes ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- les opérations inhérentes aux excédents de recettes sont exécutées dans le respect des dispositions réglementaires applicables en la matière :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "* transport maritime : affrètements, approvisionnement et soldes des comptes d’escale, réparation et maintenance des navires, surestaries de navires et de conteneurs. Ces opérations s’effectuent selon les conditions et les modalités prévues par la réglementation spécifique au trafic maritime, * transport routier : tous les frais occasionnés par le déplacement à l’étranger des moyens de transport appartenant à des opérateurs de droit algérien pour la réalisation de leurs opérations de commerce international, * assurances et réassurances : Toutes les opérations et engagements contractés par les compagnies d’assurances de droit algérien, * services financiers : commissions liées aux opérations de commerce extérieur, d’emprunts et autres opérations financières, voyages : frais de mission, allocation de voyage, soins à l’étranger, frais de scolarité et pèlerinage, conformément à la réglementation en vigueur applicable à chaque opération.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "* assistance technique et opérations liées à la production :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "* montage, réparation, mise en route, transformation, usinages et assimilés ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "* location et maintenance des équipements et du matériel ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "* bâtiment et travaux publics, terrassement, architecture, forage ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "* assistance technique liée à l’activité de l’entreprise de droit algérien, comprenant, notamment, les déplacements et interventions d’experts et techniciens, contrôle de fabrication, études, formation professionnelle et stages ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "* droits de propriété industrielle (brevets et licences de production) ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "*contrat de gestion ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "*analyse et expertise technique et scientifique, audit et certification aux normes internationales (telles que normes ISO) ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "*location de logiciels informatiques et abonnement à des banques de données y compris la formation en informatique et maintenance des équipements ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "*salaires et traitements du personnel étranger contractuel, conformément aux dispositions particulières y afférentes ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "*locations de stands et aires d’exposition lors des foires et manifestations économiques à l’étranger.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Opérations liées à la communication :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- droit d’exploitation des satellites, services postaux, services de communication et de télécommunication (roaming, appels internationaux, Internet) et entretien des installations y afférentes.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Revenus :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "*intérêts sur emprunts, dividendes, bénéfices, tantièmes et jetons de présence.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Autres opérations courantes :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "*redevances d’exploitation cinématographiques et audio visuelles, ces opérations sont soumises à la présentation, à l’appui du dossier de domiciliation correspondant, du visa d’exploitation délivré par l’administration chargée de la culture ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "*droits de retransmission ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "* frais afférents à la participation à des concours, droits d’inscription dans des établissements d’enseignement supérieur à l’étranger ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "*participations à des appels d’offre internationaux ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "*cotisations d’affiliation à des organisations scientifiques et professionnelles ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "*frais de justice et honoraires d’avocats ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "*frais de participation à des congrès, séminaires et colloques ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "*droits d’enregistrement à l’étranger de brevets d’inventions, de procédés de fabrication et marques de fabrique ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "*dépenses des représentations à l’étranger des opérateurs de droit algérien, selon les dispositions légales et réglementaires y afférentes ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "*abonnements à des revues périodiques à caractère scientifique et technique ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "*recettes et dépenses des représentations diplomatiques et consulaires étrangères en Algérie.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Les autres opérations d’importation de services initiées par des opérateurs de droit algérien destinés à la revente en l’état et qui ne sont pas liés aux activités de production en Algérie n’entrent pas dans le champ d’application de la présente instruction.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "La présente instruction prend effet à compter de la date de sa signature.\nLe Gouverneur\nMohammed LAKSACI",
+      "paragraphs": [
+        {
+          "text": "La présente instruction prend effet à compter de la date de sa signature.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.043
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-02-07.fr.txt"
+}

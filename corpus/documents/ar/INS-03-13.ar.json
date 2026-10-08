@@ -1,0 +1,260 @@
+{
+  "document_id": "INS-03-13.ar",
+  "work_id": "INS-03-13",
+  "title": "تعليمة رقم 03-2013 المؤرخة في 19 نوفمبر 2013، المتضمنة تحديد نسب العلاوة المستحقة بموجب المساهمة في صندوق ضمان الودائع المصرفية.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "03-2013",
+  "number_source": "libelle",
+  "date": "2013-11-19",
+  "date_raw": "المؤرخة في 19 نوفمبر 2013",
+  "date_source": "libelle",
+  "publication_date": "2023-03-02",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "instructions",
+  "subcategory": "الاستقرار المالي و ضمان الودائع",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d8%a5%d8%b3%d8%aa%d9%82%d8%b1%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a-%d9%88-%d8%b6%d9%85%d8%a7%d9%86-%d8%a7%d9%84%d9%88%d8%af%d8%a7%d8%a6%d8%b9/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/03/13-03.pdf",
+  "format": "pdf",
+  "file_hash": "132b7d6d5b53eff89fa86976b4d5a09ed299a51fb305bf33fcda456462e7235f",
+  "file_size": 178928,
+  "raw_path": "raw/132b7d6d5b53__13-03.pdf",
+  "retrieved_at": "2026-10-05T13:30:20+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 1,
+  "url_hash": "3b35c2cef7af6bf0ebeb2bd8a29341b9ac7a56a5bc1163d435a384d61ff97ffd",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d8%a5%d8%b3%d8%aa%d9%82%d8%b1%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a-%d9%88-%d8%b6%d9%85%d8%a7%d9%86-%d8%a7%d9%84%d9%88%d8%af%d8%a7%d8%a6%d8%b9/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "producer": "Epson Scan 2",
+    "creationDate": "D:20230301101041+01'00'",
+    "modDate": "D:20230301101041+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 839,
+        "ocr_confidence": 89.822695035461
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 4,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_uncertain_numbers:1",
+    "ocr_utilise_verification_humaine"
+  ],
+  "title_document": null,
+  "alias_urls": [],
+  "text_hash": "990e20d5175d4a705bf87cdeba522fe679f900e9534bfa5a89edd3c5e8ecef22",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-03-13.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "ocr_numeric_check": {
+    "units": 5,
+    "units_flagged": 1,
+    "units_compared_with_french": 4,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "المحافظ التعليمة رقم 13-03 المتضمنة تحديد نسبة العلاوة المستحقة",
+      "paragraphs": [
+        {
+          "text": "المحافظ التعليمة رقم 13-03 المتضمنة تحديد نسبة العلاوة المستحقة",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تهدف هذه التعليمة» تطبيقا لأحكام Ai‏ رقم 03-04 المؤرخ في 12 محرم 1425 الموافق À‏ 04 مارس 2004 و المتعلق بنظام ضمان الودائع المصرفية؛ إلى تحديد نسبة العلاوة التي يجب أن تدفعها البنوك و فروع البنوك الأجنبية العاملة بالجزائر.",
+      "paragraphs": [
+        {
+          "text": "تهدف هذه التعليمة» تطبيقا لأحكام Ai‏ رقم 03-04 المؤرخ في 12 محرم 1425 الموافق À‏ 04 مارس 2004 و المتعلق بنظام ضمان الودائع المصرفية؛ إلى تحديد نسبة العلاوة التي يجب أن تدفعها البنوك و فروع البنوك الأجنبية العاملة بالجزائر.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تم تحديد نسبة العلاوة المستحقة على البنوك و فروع البنوك الأجنبية العاملة بالجزائرء تطبيقا للنظام المذكور في المادة الأولى أعلاه» بموجب ضمان الودائع المصرفية؛ خلال السنة المالية 62012 و هذا وفقا لمداولة مجلس النقد و القرض المنعقد بتاريخ 19 نوفمبر 2013« ب 900,25 من مجموع الودائع المصرفية المسجلة بتاريخ 1 ديسمبر 2012.",
+      "paragraphs": [
+        {
+          "text": "تم تحديد نسبة العلاوة المستحقة على البنوك و فروع البنوك الأجنبية العاملة بالجزائرء تطبيقا للنظام المذكور في المادة الأولى أعلاه» بموجب ضمان الودائع المصرفية؛ خلال السنة المالية 62012 و هذا وفقا لمداولة مجلس النقد و القرض المنعقد بتاريخ 19 نوفمبر 2013« ب 900,25 من مجموع الودائع المصرفية المسجلة بتاريخ 1 ديسمبر 2012.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يجب أن تدفع العلاوات لحساب صندوق ضمان الودائع المصرفية في أجل أقصاه 15 ديسمير 2013.",
+      "paragraphs": [
+        {
+          "text": "يجب أن تدفع العلاوات لحساب صندوق ضمان الودائع المصرفية في أجل أقصاه 15 ديسمير 2013.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تدخل هذه التعليمة حيز التطبيق اعتبارا من تاريخ التوقيع عليها.\nلاد محمد لكصاسي Bank of Algeria The Governor",
+      "paragraphs": [
+        {
+          "text": "تدخل هذه التعليمة حيز التطبيق اعتبارا من تاريخ التوقيع عليها.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "لاد محمد لكصاسي Bank of Algeria The Governor",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_uncertain_numbers:1",
+      "ocr_utilise_verification_humaine"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.026,
+      "ocr_pages": [
+        1
+      ],
+      "ocr_mean_confidence": 89.8
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/INS-03-13.ar.txt"
+}

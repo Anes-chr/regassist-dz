@@ -1,0 +1,590 @@
+{
+  "document_id": "REG-96-01.fr",
+  "work_id": "REG-96-01",
+  "title": "Règlement n°96-01 du 13 mars 1996 portant émission et mise en circulation d’un billet de banque de cinq cents (500) dinars algériens.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "96-01",
+  "number_source": "en-tête du document",
+  "date": "1996-03-13",
+  "date_raw": "N°96-01 DU 13 MARS 1996",
+  "date_source": "en-tête du document",
+  "publication_date": "2023-01-25",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "règlements",
+  "subcategory": "Billets: Émission et mise en circulation de billets de banque",
+  "source_url": "https://www.bank-of-algeria.dz/billets-emission-et-mise-en-circulation-de-billets-de-banque/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/reglement9601.pdf",
+  "format": "pdf",
+  "file_hash": "27fda6cec8b33220fee80cb81c239932d81a71d49644abc5635a59c67f55a422",
+  "file_size": 47063,
+  "raw_path": "raw/27fda6cec8b3__reglement9601.pdf",
+  "retrieved_at": "2026-10-05T13:27:22+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "73c64eb7b8b18f8353bfc07b4097338e11b3ebd8a8a2a4b623f255d52820fc5e",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/billets-emission-et-mise-en-circulation-de-billets-de-banque/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document4",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200712135029+01'00'",
+    "modDate": "D:20200712135029+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2356,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 1454,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 3,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "REGLEMENT N°96-01 DU 13 MARS 1996 PORTANT EMISSION ET MISE EN CIRCULATION D'UN BILLET DE BANQUE DE CINQ CENTS (500) DINARS ALGERIENS",
+  "alias_urls": [],
+  "text_hash": "07bd18d85409e963ab1012c7c6c533fa64613b494284626c04278c486839c55c",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [
+    {
+      "work_id": "REG-98-03",
+      "document_id": "REG-98-03.fr",
+      "date": "1998-06-10",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°98-03 du 10 juin 1998 modifiant et complétant le règlement n°96-01 du 13 mars 1996 portant émission et mise en circulation"
+      }
+    },
+    {
+      "work_id": "REG-98-03",
+      "document_id": "REG-98-03.fr",
+      "date": "1998-06-10",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter l'article 2 du Règlement n°96-01 du 13 Mars 1996 susvisé."
+      }
+    }
+  ],
+  "complete_par": [
+    {
+      "work_id": "REG-98-03",
+      "document_id": "REG-98-03.fr",
+      "date": "1998-06-10",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°98-03 du 10 juin 1998 modifiant et complétant le règlement n°96-01 du 13 mars 1996 portant émission et mise en circulation"
+      }
+    },
+    {
+      "work_id": "REG-98-03",
+      "document_id": "REG-98-03.fr",
+      "date": "1998-06-10",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter l'article 2 du Règlement n°96-01 du 13 Mars 1996 susvisé."
+      }
+    }
+  ],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée. Ce texte a été modifié/complété : consulter aussi les textes listés dans modifié_par / complété_par.",
+  "same_work_documents": [
+    "REG-96-01.ar"
+  ],
+  "complété_par": [
+    {
+      "work_id": "REG-98-03",
+      "document_id": "REG-98-03.fr",
+      "date": "1998-06-10",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°98-03 du 10 juin 1998 modifiant et complétant le règlement n°96-01 du 13 mars 1996 portant émission et mise en circulation"
+      }
+    },
+    {
+      "work_id": "REG-98-03",
+      "document_id": "REG-98-03.fr",
+      "date": "1998-06-10",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter l'article 2 du Règlement n°96-01 du 13 Mars 1996 susvisé."
+      }
+    }
+  ],
+  "modifié_par": [
+    {
+      "work_id": "REG-98-03",
+      "document_id": "REG-98-03.fr",
+      "date": "1998-06-10",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°98-03 du 10 juin 1998 modifiant et complétant le règlement n°96-01 du 13 mars 1996 portant émission et mise en circulation"
+      }
+    },
+    {
+      "work_id": "REG-98-03",
+      "document_id": "REG-98-03.fr",
+      "date": "1998-06-10",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter l'article 2 du Règlement n°96-01 du 13 Mars 1996 susvisé."
+      }
+    }
+  ],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "section",
+      "label": "Section C",
+      "number": null,
+      "heading": "Verso : en trois (3) couleurs juxtaposées :",
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 3",
+          "number": "3",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°96-01 DU 13 MARS 1996 PORTANT EMISSION\nET MISE EN CIRCULATION D'UN BILLET DE BANQUE\nDE CINQ CENTS (500) DINARS ALGERIENS\nLe Gouverneur de la Banque d'Algérie,\n- Vu la Loi n°90-10 du 14 Avril 1990 relative à la monnaie et au crédit notamment les dispositions de son livre I et de ses articles 44 alinéa a, 47 et 107 ;\n- Vu le Décret Présidentiel du 21 Juillet 1992 portant nomination du Gouverneur de la Banque d'Algérie ;\n- Vu les Décrets Présidentiels du 14 Mai 1990 portant nomination de Vice\nGouverneurs de la Banque d'Algérie ;\n- Vu le Décret Exécutif du 1er Juillet 1991 portant désignation de Membres\nTitulaires et Suppléants au Conseil de la Monnaie et du Crédit ;\n- Vu le Règlement n°92-06 du 21 Mai 1992 portant création d'une série de billets de banque de mille (1000), cinq cents (500), deux cents (200), cent (100) et cinquante (50) dinars algériens ;\n- Après Délibération du Conseil de la Monnaie et du Crédit en date du 13 Mars 1996 ;\nPromulgue le Règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°96-01 DU 13 MARS 1996 PORTANT EMISSION",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET MISE EN CIRCULATION D'UN BILLET DE BANQUE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DE CINQ CENTS (500) DINARS ALGERIENS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d'Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la Loi n°90-10 du 14 Avril 1990 relative à la monnaie et au crédit notamment les dispositions de son livre I et de ses articles 44 alinéa a, 47 et 107 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 21 Juillet 1992 portant nomination du Gouverneur de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu les Décrets Présidentiels du 14 Mai 1990 portant nomination de Vice",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Gouverneurs de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Exécutif du 1er Juillet 1991 portant désignation de Membres",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Titulaires et Suppléants au Conseil de la Monnaie et du Crédit ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Règlement n°92-06 du 21 Mai 1992 portant création d'une série de billets de banque de mille (1000), cinq cents (500), deux cents (200), cent (100) et cinquante (50) dinars algériens ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Après Délibération du Conseil de la Monnaie et du Crédit en date du 13 Mars 1996 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le Règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Dans le cadre du Règlement n°92.06 du 21 Mai 1992 portant création d'une série de billets de banque de mille (1000), cinq cents (500, deux cents (200), cent (100)\net cinquante (50) dinars algériens, la Banque d'Algérie émet un billet de Cinq cents (500)\ndinars algériens.\nCe billet sera mis en circulation après la promulgation du présent Règlement.",
+      "paragraphs": [
+        {
+          "text": "Dans le cadre du Règlement n°92.06 du 21 Mai 1992 portant création d'une série de billets de banque de mille (1000), cinq cents (500, deux cents (200), cent (100)",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "et cinquante (50) dinars algériens, la Banque d'Algérie émet un billet de Cinq cents (500)",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "dinars algériens.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Ce billet sera mis en circulation après la promulgation du présent Règlement.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "Les signes récognitifs notamment les caractéristiques techniques détaillées de ce billet sont fixés ainsi qu'il suit :\n1- Dimensions :\n- hors tout : 150 mm X 71,7 mm,\n- vignette : 110 mm X 61,7 mm.\n2 - Tonalité : violet rougeâtre.\n3 - Papier : filigrané, de type billet de banque, teint dans la masse en rose pâle.\n4 - Description :\nA - Thème général : Histoire de l'Algérie, période numide.\nB - Recto : en trois (3) couleurs juxtaposées :\n1/ fonds de sécurité : composé de figures géométriques, guilloches, micro impressions et, en numismatique graphique, textes et motifs décoratifs de la période considérée.\nLe fonds de sécurité couvre la zone de la vignette et la bande filigranée.\n2/ vignette : elle reproduit une scène d'une bataille opposant l'armée Numide à l'armée\nRomaine d'invasion.\n3/ textes en langue nationale :\n\"Banque d'Algérie\", \"Cinq cents dinars\".\n4/ chiffres \"500\" positionnés horizontalement sur les deux angles - supérieur droit et inférieur gauche - de la vignette.\n5/ signatures.\n6/ numéros.\n7/ date.",
+      "paragraphs": [
+        {
+          "text": "Les signes récognitifs notamment les caractéristiques techniques détaillées de ce billet sont fixés ainsi qu'il suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "1- Dimensions :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- hors tout : 150 mm X 71,7 mm,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- vignette : 110 mm X 61,7 mm.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "2 - Tonalité : violet rougeâtre.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "3 - Papier : filigrané, de type billet de banque, teint dans la masse en rose pâle.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "4 - Description :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "A - Thème général : Histoire de l'Algérie, période numide.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "B - Recto : en trois (3) couleurs juxtaposées :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "1/ fonds de sécurité : composé de figures géométriques, guilloches, micro impressions et, en numismatique graphique, textes et motifs décoratifs de la période considérée.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le fonds de sécurité couvre la zone de la vignette et la bande filigranée.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "2/ vignette : elle reproduit une scène d'une bataille opposant l'armée Numide à l'armée",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Romaine d'invasion.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "3/ textes en langue nationale :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "\"Banque d'Algérie\", \"Cinq cents dinars\".",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "4/ chiffres \"500\" positionnés horizontalement sur les deux angles - supérieur droit et inférieur gauche - de la vignette.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "5/ signatures.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "6/ numéros.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "7/ date.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "C",
+          "heading": "Verso : en trois (3) couleurs juxtaposées :",
+          "label": "Section C"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "1/ fonds de sécurité : composé de figures géométriques, guilloches, micro impressions et, en numismatique graphique, textes et motifs décoratifs de la période considérée.\nLe fonds de sécurité couvre la zone de la vignette et de la bande filigranée.\n2/ vignette : elle reproduit des scènes et paysages de l'Algérie Numide.\n3/ textes en langue nationale :\n\"Banque d'Algérie\", \"Cinq cents dinars\".\n4/ chiffres \"500\" positionnés horizontalement sur les deux angles supérieur droit et inférieur gauche de la vignette.\n5/ mention en langue nationale : \"l'article 197 du Code Pénal punit les contrefacteurs\".\n6/ Filigrane : en continu, à l'intérieur d'une bande verticale située à gauche du billet au recto et à droite au verso.\nLe filigrane reproduit des têtes d'éléphant.\n7/ Fil de sécurité : de type \"WINDOW-THREAD\", micro imprimé, apparaissant dans la partie centrale gauche du recto, en zones alternativement argentées brillantes et sombres.\nLe fil est visible par transparence, tant au recto qu'au verso.",
+      "paragraphs": [
+        {
+          "text": "1/ fonds de sécurité : composé de figures géométriques, guilloches, micro impressions et, en numismatique graphique, textes et motifs décoratifs de la période considérée.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le fonds de sécurité couvre la zone de la vignette et de la bande filigranée.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "2/ vignette : elle reproduit des scènes et paysages de l'Algérie Numide.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "3/ textes en langue nationale :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "\"Banque d'Algérie\", \"Cinq cents dinars\".",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "4/ chiffres \"500\" positionnés horizontalement sur les deux angles supérieur droit et inférieur gauche de la vignette.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "5/ mention en langue nationale : \"l'article 197 du Code Pénal punit les contrefacteurs\".",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "6/ Filigrane : en continu, à l'intérieur d'une bande verticale située à gauche du billet au recto et à droite au verso.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le filigrane reproduit des têtes d'éléphant.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "7/ Fil de sécurité : de type \"WINDOW-THREAD\", micro imprimé, apparaissant dans la partie centrale gauche du recto, en zones alternativement argentées brillantes et sombres.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le fil est visible par transparence, tant au recto qu'au verso.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "C",
+          "heading": "Verso : en trois (3) couleurs juxtaposées :",
+          "label": "Section C"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le présent Règlement sera publié au Journal Officiel de la République\nAlgérienne Démocratique et Populaire.\nLe Gouverneur\nAbdelouahab KERAMANE",
+      "paragraphs": [
+        {
+          "text": "Le présent Règlement sera publié au Journal Officiel de la République",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Algérienne Démocratique et Populaire.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.063
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-96-01.fr.txt"
+}

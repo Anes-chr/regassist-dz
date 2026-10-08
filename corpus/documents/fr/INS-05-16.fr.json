@@ -1,0 +1,283 @@
+{
+  "document_id": "INS-05-16.fr",
+  "work_id": "INS-05-16",
+  "title": "Instruction n°05-2016 du 1er septembre 2016 fixant le taux de réescompte.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "05-2016",
+  "number_source": "en-tête du document",
+  "date": "2016-09-01",
+  "date_raw": "N°05-2016 DU 1er SEPTEMBRE 2016",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-02",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction052016.pdf",
+      "uploaded": "2023-01-24T10:36:16"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Année 2016",
+  "source_url": "https://www.bank-of-algeria.dz/annee-2016/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/02/instruction052016.pdf",
+  "format": "pdf",
+  "file_hash": "1fb45a1d18415ca521616d5e9cb7cd19bb63958093ce7c98e60bfa586bd86cc7",
+  "file_size": 49215,
+  "raw_path": "raw/1fb45a1d1841__instruction052016.pdf",
+  "retrieved_at": "2026-10-05T13:20:41+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "731ce970bd5b1d93839d84a75605e084093d07489a635be329ef30b20b7c2351",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-2016/",
+    "https://www.bank-of-algeria.dz/reescompte-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document20",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210210151134+01'00'",
+    "modDate": "D:20210210151134+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 445,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 2,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "meme_texte_plusieurs_fichiers"
+  ],
+  "title_document": "INSTRUCTION N°05-2016 DU 1er SEPTEMBRE 2016 FIXANT LE TAUX DE REESCOMPTE",
+  "alias_urls": [],
+  "text_hash": "8254918a461569940ff61ad2cece9d2d3c2c766458b49b9bcb94fc650d8dc667",
+  "relations_out": [
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "01-2004",
+        "date": "2004-03-04",
+        "raw": "instruction n°01-2004 du 4 mars 2004"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge les dispositions de l’instruction n°01-2004 du 4 mars 2004 et entre en vigueur à compter du 02 oct"
+      },
+      "target_work_id": "INS-01-04"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "INS-01-04",
+      "reference": "instruction n°01-2004 du 4 mars 2004",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge les dispositions de l’instruction n°01-2004 du 4 mars 2004 et entre en vigueur à compter du 02 oct"
+      }
+    }
+  ],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [
+    {
+      "work_id": "INS-03-17",
+      "document_id": "INS-03-17.fr",
+      "date": "2017-04-12",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "en date du 30 mars 2017, le taux de réescompte est fixé à 3,75 %. La présente Instruction abroge les dispositions de l’instruction n°05-2016 du 01 septembre 2016 et entre en vigueur à compter du 02 mai"
+      }
+    }
+  ],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "INS-03-17",
+      "document_id": "INS-03-17.fr",
+      "date": "2017-04-12",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "en date du 30 mars 2017, le taux de réescompte est fixé à 3,75 %. La présente Instruction abroge les dispositions de l’instruction n°05-2016 du 01 septembre 2016 et entre en vigueur à compter du 02 mai"
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [
+    "INS-05-16.ar",
+    "INS-05-16.fr~2"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [
+    {
+      "work_id": "INS-03-17",
+      "document_id": "INS-03-17.fr",
+      "date": "2017-04-12",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "en date du 30 mars 2017, le taux de réescompte est fixé à 3,75 %. La présente Instruction abroge les dispositions de l’instruction n°05-2016 du 01 septembre 2016 et entre en vigueur à compter du 02 mai"
+      }
+    }
+  ],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°05-2016 DU 1er SEPTEMBRE 2016\nFIXANT LE TAUX DE REESCOMPTE",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°05-2016 DU 1er SEPTEMBRE 2016",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "FIXANT LE TAUX DE REESCOMPTE",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "En application de la délibération du Conseil de la Monnaie et du Crédit en date du 28 Juillet 2016, le taux de réescompte est fixé à 3,5 %.",
+      "paragraphs": [
+        {
+          "text": "En application de la délibération du Conseil de la Monnaie et du Crédit en date du 28 Juillet 2016, le taux de réescompte est fixé à 3,5 %.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction abroge les dispositions de l’instruction n°01-2004 du 4 mars 2004 et entre en vigueur à compter du 02 octobre 2016.\nLe Gouverneur\nMohamed LOUKAL\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "La présente instruction abroge les dispositions de l’instruction n°01-2004 du 4 mars 2004 et entre en vigueur à compter du 02 octobre 2016.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Mohamed LOUKAL",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "meme_texte_plusieurs_fichiers"
+    ],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.034
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-05-16.fr.txt"
+}

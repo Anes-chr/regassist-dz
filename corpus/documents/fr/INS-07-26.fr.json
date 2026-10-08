@@ -1,0 +1,1008 @@
+{
+  "document_id": "INS-07-26.fr",
+  "work_id": "INS-07-26",
+  "title": "Instruction n° 07-2026 du 13 juillet 2026 relative au droit de change pour voyage a l’étranger par carte de paiement internationale ou carte de paiement internationale dédiée au droit de change",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "07-2026",
+  "number_source": "en-tête du document",
+  "date": "2026-07-13",
+  "date_raw": "N° 07-2026 DU 13 JUILLET 2026",
+  "date_source": "en-tête du document",
+  "publication_date": "2026-07-13",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Règlementation des changes",
+  "source_url": "https://www.bank-of-algeria.dz/importations-exportations-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2026/07/Instruction-N°07-2026-droit-de-change-du-13-07-2026.pdf",
+  "format": "pdf",
+  "file_hash": "03c2560cd2352c17df9d335507b6e849cea6917fc0529ba0e9e3cba59fc7a93e",
+  "file_size": 125845,
+  "raw_path": "raw/03c2560cd235__Instruction-N_07-2026-droit-de-change-du-13-07-2026.pdf",
+  "retrieved_at": "2026-10-05T13:32:17+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 4,
+  "url_hash": "c0a6f5b781d86680b76a771479efaaf3228fd6d41772bbd32d671fab8620fa3a",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/importations-exportations-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Instruction droit de change du 13 07 2026",
+    "author": "imene.khemici",
+    "creator": "Microsoft Word - Instruction droit de change du 13 07 2026",
+    "producer": "ScanSoft PDF Create! 7",
+    "creationDate": "D:20260713181510+01'00'",
+    "modDate": "D:20260713181510+01'00'"
+  },
+  "hijri_date_raw": "15\nMoharram 1428",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 4,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2182,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 2669,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 3061,
+        "ocr_confidence": null
+      },
+      {
+        "page": 4,
+        "method": "pdf_text",
+        "chars": 2198,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": [
+      {
+        "page": 1,
+        "removed": "Page 1 sur 4",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 2,
+        "removed": "Page 2 sur 4",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 3,
+        "removed": "Page 3 sur 4",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 4,
+        "removed": "Page 4 sur 4",
+        "why": "en-tête/pied répété"
+      }
+    ]
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 22,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N° 07-2026 DU 13 JUILLET 2026 RELATIVE AU DROIT DE CHANGE POUR VOYAGE A L’ETRANGER PAR CARTE DE PAIEMENT INTERNATIONALE OU CARTE DE PAIEMENT INTERNATIONALE DEDIEE AU DROIT DE CHANGE",
+  "alias_urls": [],
+  "text_hash": "966772badbbc2f413c2210998d195b102c97b8a0e6257bc03924bb8048d1de5f",
+  "relations_out": [
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "05-2025",
+        "date": "2025-07-17",
+        "raw": "instruction N°05-2025 du 17 juillet 2025"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 4,
+        "quote": "Les dispositions de l’instruction N°05-2025 du 17 juillet 2025 relative au droit de change pour voyage"
+      },
+      "target_work_id": "INS-05-25"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "INS-05-25",
+      "reference": "instruction N°05-2025 du 17 juillet 2025",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 4,
+        "quote": "Les dispositions de l’instruction N°05-2025 du 17 juillet 2025 relative au droit de change pour voyage"
+      }
+    }
+  ],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 16",
+      "number": "16",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 17",
+      "number": "17",
+      "heading": null,
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 18",
+      "number": "18",
+      "heading": null,
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 19",
+      "number": "19",
+      "heading": null,
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 20",
+      "number": "20",
+      "heading": null,
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 21",
+      "number": "21",
+      "heading": null,
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 22",
+      "number": "22",
+      "heading": null,
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N° 07-2026 DU 13 JUILLET 2026 RELATIVE AU DROIT DE\nCHANGE POUR VOYAGE A L’ETRANGER PAR CARTE DE PAIEMENT\nINTERNATIONALE OU CARTE DE PAIEMENT INTERNATIONALE\nDEDIEE AU DROIT DE CHANGE",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N° 07-2026 DU 13 JUILLET 2026 RELATIVE AU DROIT DE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "CHANGE POUR VOYAGE A L’ETRANGER PAR CARTE DE PAIEMENT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "INTERNATIONALE OU CARTE DE PAIEMENT INTERNATIONALE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DEDIEE AU DROIT DE CHANGE",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "En application des articles 21 et 77 du règlement n° 07-01 du 15\nMoharram 1428 correspondant au 3 février 2007, modifié et complété, relatif aux règles applicables aux transactions courantes avec l’étranger et aux comptes devises, la présente instruction a pour objet de définir le montant et les modalités d'attribution du droit de change pour voyage à l’étranger au profit des nationaux résidents.",
+      "paragraphs": [
+        {
+          "text": "En application des articles 21 et 77 du règlement n° 07-01 du 15",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Moharram 1428 correspondant au 3 février 2007, modifié et complété, relatif aux règles applicables aux transactions courantes avec l’étranger et aux comptes devises, la présente instruction a pour objet de définir le montant et les modalités d'attribution du droit de change pour voyage à l’étranger au profit des nationaux résidents.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le montant annuel maximum du droit de change pour voyage à l'étranger, servi une fois au titre de chaque année civile, est fixé à la contrevaleur en dinars algériens de :\n- sept cent cinquante euros (750,00 EUR) ou son équivalent dans une autre devise librement convertible, pour les personnes visées à l’article 1er ci-dessus, âgées de dix-neuf (19) ans et plus ;\n- trois cent euros (300,00 EUR) ou son équivalent dans une autre devise librement convertible, pour les personnes âgées entre douze (12) ans et moins de dix-neuf (19)\nans, dans la limite de deux (2) enfants par famille.\nLe montant annuel visé aux alinéas précédents demeure à usage exclusif du voyageur auquel il a été servi.\nLes dispositions de la présente instruction ne s’appliquent pas aux voyages pour l’accomplissement du Hadj.\nCe montant n’est pas cumulable d'une année sur l'autre.",
+      "paragraphs": [
+        {
+          "text": "Le montant annuel maximum du droit de change pour voyage à l'étranger, servi une fois au titre de chaque année civile, est fixé à la contrevaleur en dinars algériens de :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- sept cent cinquante euros (750,00 EUR) ou son équivalent dans une autre devise librement convertible, pour les personnes visées à l’article 1er ci-dessus, âgées de dix-neuf (19) ans et plus ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- trois cent euros (300,00 EUR) ou son équivalent dans une autre devise librement convertible, pour les personnes âgées entre douze (12) ans et moins de dix-neuf (19)",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ans, dans la limite de deux (2) enfants par famille.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le montant annuel visé aux alinéas précédents demeure à usage exclusif du voyageur auquel il a été servi.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les dispositions de la présente instruction ne s’appliquent pas aux voyages pour l’accomplissement du Hadj.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Ce montant n’est pas cumulable d'une année sur l'autre.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le montant maximum du droit de change pour voyage à l’étranger visé à l’article 2 ci-dessus est attribué pour une durée de séjour égale ou supérieure à sept (7)\njours.",
+      "paragraphs": [
+        {
+          "text": "Le montant maximum du droit de change pour voyage à l’étranger visé à l’article 2 ci-dessus est attribué pour une durée de séjour égale ou supérieure à sept (7)",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "jours.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le droit de change pour voyage à l’étranger au profit des nationaux résidents est mis à la disposition du bénéficiaire au moyen d’une carte de paiement internationale ou d’une carte de paiement internationale dédiée au droit de change émise par les banques intermédiaires agréés conformément à la réglementation en vigueur.",
+      "paragraphs": [
+        {
+          "text": "Le droit de change pour voyage à l’étranger au profit des nationaux résidents est mis à la disposition du bénéficiaire au moyen d’une carte de paiement internationale ou d’une carte de paiement internationale dédiée au droit de change émise par les banques intermédiaires agréés conformément à la réglementation en vigueur.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "La carte de paiement internationale ou dédiée servant à la mobilisation du droit de change pour voyage à l’étranger est émise à titre strictement nominatif par la\nbanque intermédiaire agréé. Elle ne peut être utilisée que par son titulaire et ne peut faire l’objet d’aucune cession, mise à disposition ou utilisation par un tiers.",
+      "paragraphs": [
+        {
+          "text": "La carte de paiement internationale ou dédiée servant à la mobilisation du droit de change pour voyage à l’étranger est émise à titre strictement nominatif par la",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "banque intermédiaire agréé. Elle ne peut être utilisée que par son titulaire et ne peut faire l’objet d’aucune cession, mise à disposition ou utilisation par un tiers.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le demandeur du droit de change au moyen d’une carte de paiement internationale ou dédiée est tenu d’introduire, auprès d’une banque intermédiaire agréé, une demande de délivrance de ladite carte suffisamment à l’avance en prévision de son voyage à l’étranger. La durée de validité de la carte émise est de trois (3) ans au minimum.",
+      "paragraphs": [
+        {
+          "text": "Le demandeur du droit de change au moyen d’une carte de paiement internationale ou dédiée est tenu d’introduire, auprès d’une banque intermédiaire agréé, une demande de délivrance de ladite carte suffisamment à l’avance en prévision de son voyage à l’étranger. La durée de validité de la carte émise est de trois (3) ans au minimum.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "L’émission de la carte de paiement internationale ou dédiée servant de support à l’octroi du droit de change doit être adossée au compte devises ouvert par le bénéficiaire auprès de la banque intermédiaire agréé.\nL’octroi de ce droit de change est subordonné à la détention d’un compte bancaire en monnaie nationale.",
+      "paragraphs": [
+        {
+          "text": "L’émission de la carte de paiement internationale ou dédiée servant de support à l’octroi du droit de change doit être adossée au compte devises ouvert par le bénéficiaire auprès de la banque intermédiaire agréé.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "L’octroi de ce droit de change est subordonné à la détention d’un compte bancaire en monnaie nationale.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les banques intermédiaires agréés procèdent à l’émission et à la remise de la carte de paiement internationale ou dédiée au profit de leurs clients indépendamment de l’introduction de la demande de bénéfice du droit de change pour voyage à l’étranger ; laquelle peut intervenir à une date ultérieure.",
+      "paragraphs": [
+        {
+          "text": "Les banques intermédiaires agréés procèdent à l’émission et à la remise de la carte de paiement internationale ou dédiée au profit de leurs clients indépendamment de l’introduction de la demande de bénéfice du droit de change pour voyage à l’étranger ; laquelle peut intervenir à une date ultérieure.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le règlement de la contre-valeur en dinars algériens du montant du droit de change pour voyage à l’étranger y compris la commission y afférente, doit s’effectuer exclusivement au moyen d’un instrument de paiement scriptural, au plus tard, sept (7)\njours ouvrés avant la date du voyage, auprès des banques intermédiaires agrées, sur présentation du dossier visé à l’article 10 ci-dessous.",
+      "paragraphs": [
+        {
+          "text": "Le règlement de la contre-valeur en dinars algériens du montant du droit de change pour voyage à l’étranger y compris la commission y afférente, doit s’effectuer exclusivement au moyen d’un instrument de paiement scriptural, au plus tard, sept (7)",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "jours ouvrés avant la date du voyage, auprès des banques intermédiaires agrées, sur présentation du dossier visé à l’article 10 ci-dessous.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le bénéficiaire de ce droit doit présenter à cet effet :\n- un titre de transport aller/retour, ou une quittance fiscale de voyage terrestre, conformément à la réglementation en vigueur ;\n- un passeport en cours de validité du bénéficiaire ;\n- une copie de la 1ère page du passeport du bénéficiaire ;\n- une copie du visa en cours de validité le cas échéant ;\n- un justificatif de revenus.\nUn document justifiant l’acquittement de la contrevaleur dinars est délivré aux bénéficiaires.\nLe client, titulaire d’une carte de paiement internationale ou dédiée, peut accomplir les formalités susvisées, sur présentation d’une fiche familiale ou tout autre justificatif, au bénéfice de ses enfants mineurs. Il peut percevoir sur ladite carte le droit de change pour le compte de ses enfants mineurs.",
+      "paragraphs": [
+        {
+          "text": "Le bénéficiaire de ce droit doit présenter à cet effet :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- un titre de transport aller/retour, ou une quittance fiscale de voyage terrestre, conformément à la réglementation en vigueur ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- un passeport en cours de validité du bénéficiaire ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- une copie de la 1ère page du passeport du bénéficiaire ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- une copie du visa en cours de validité le cas échéant ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- un justificatif de revenus.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Un document justifiant l’acquittement de la contrevaleur dinars est délivré aux bénéficiaires.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le client, titulaire d’une carte de paiement internationale ou dédiée, peut accomplir les formalités susvisées, sur présentation d’une fiche familiale ou tout autre justificatif, au bénéfice de ses enfants mineurs. Il peut percevoir sur ladite carte le droit de change pour le compte de ses enfants mineurs.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 3,
+      "text": "En sus de la vérification des documents visés à l’article 10 ci-dessus, les banques intermédiaires agrées doivent s’assurer avant le règlement de la contre-valeur dinars de ce droit de change :\n- que le demandeur n’a pas bénéficié d’un droit de change durant l’année civile en cours ;\n- de l’obtention par le demandeur d’un visa au préalable en fonction de la destination mentionnée dans le titre de voyage, le cas échéant ;\n- que le demandeur qui a bénéficié du droit de change durant l’année civile précédente a effectivement effectué un voyage à l’étranger selon la durée définie à l’article 3 ci-dessus, le cachet de la police aux frontières faisant foi.\nLe taux de change appliqué pour le calcul de la contre-valeur en dinars du droit de change est le cours de change commercial d’ouverture, de vente de la devise en question le jour de l’opération.",
+      "paragraphs": [
+        {
+          "text": "En sus de la vérification des documents visés à l’article 10 ci-dessus, les banques intermédiaires agrées doivent s’assurer avant le règlement de la contre-valeur dinars de ce droit de change :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- que le demandeur n’a pas bénéficié d’un droit de change durant l’année civile en cours ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- de l’obtention par le demandeur d’un visa au préalable en fonction de la destination mentionnée dans le titre de voyage, le cas échéant ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- que le demandeur qui a bénéficié du droit de change durant l’année civile précédente a effectivement effectué un voyage à l’étranger selon la durée définie à l’article 3 ci-dessus, le cachet de la police aux frontières faisant foi.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Le taux de change appliqué pour le calcul de la contre-valeur en dinars du droit de change est le cours de change commercial d’ouverture, de vente de la devise en question le jour de l’opération.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "L’attribution du droit de change pour voyage à l’étranger au moyen d’une carte de paiement internationale ou dédiée donne obligatoirement lieu à l’inscription, par la banque intermédiaire agréé, sur le passeport du bénéficiaire, du montant attribué, de la devise correspondante et de la date de l’opération.\nElle fait également l’objet d’une déclaration sur la plateforme de la Banque d’Algérie dédiée au droit de change.",
+      "paragraphs": [
+        {
+          "text": "L’attribution du droit de change pour voyage à l’étranger au moyen d’une carte de paiement internationale ou dédiée donne obligatoirement lieu à l’inscription, par la banque intermédiaire agréé, sur le passeport du bénéficiaire, du montant attribué, de la devise correspondante et de la date de l’opération.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Elle fait également l’objet d’une déclaration sur la plateforme de la Banque d’Algérie dédiée au droit de change.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Le droit de change accordé au titre des voyages à l’étranger, porté sur une carte de paiement internationale ou dédiée ne peut être utilisé que pour des opérations effectuées à l’étranger se rapportant au motif pour lequel il a été attribué.",
+      "paragraphs": [
+        {
+          "text": "Le droit de change accordé au titre des voyages à l’étranger, porté sur une carte de paiement internationale ou dédiée ne peut être utilisé que pour des opérations effectuées à l’étranger se rapportant au motif pour lequel il a été attribué.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Les banques émettrices de cartes sont tenues de mettre en place des dispositifs d’assistance dédiés aux porteurs, comprenant notamment des centres d’appels et des canaux d’interaction digitaux, accessibles depuis l’étranger et disponibles 24h/24 et 7j/7, afin de traiter en temps quai-réel, les incidents et requêtes susceptibles de survenir lors de l’utilisation des cartes à l’étranger.\nElles doivent en outre communiquer aux porteurs, de manière claire et lisible, les modalités d’accès à ces dispositifs.",
+      "paragraphs": [
+        {
+          "text": "Les banques émettrices de cartes sont tenues de mettre en place des dispositifs d’assistance dédiés aux porteurs, comprenant notamment des centres d’appels et des canaux d’interaction digitaux, accessibles depuis l’étranger et disponibles 24h/24 et 7j/7, afin de traiter en temps quai-réel, les incidents et requêtes susceptibles de survenir lors de l’utilisation des cartes à l’étranger.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Elles doivent en outre communiquer aux porteurs, de manière claire et lisible, les modalités d’accès à ces dispositifs.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Le bénéficiaire du droit de change est tenu, en cas d’annulation du voyage ou lorsque la durée effective de son séjour à l’étranger est inférieure à sept (7) jours, de restituer à la banque intermédiaire agréé, domiciliataire de son compte devises, l’intégralité du droit de change dont il a bénéficié, dans un délai de cinq (5) jours ouvrés à compter de la date de son retour et sur présentation de son passeport.\nSans préjudice de poursuites judiciaires prévues par la législation en vigueur, le non-respect des dispositions des alinéas ci-dessus expose son auteur à la perte de ce droit de change pendant cinq (5) ans.\nCette suspension de cinq (5) ans, cesse de produire son effet pour les mineurs qui en seraient frappés du fait de leur tuteur légal, dès qu’ils auront atteint l’âge de dix-neuf\n(19) ans révolus.",
+      "paragraphs": [
+        {
+          "text": "Le bénéficiaire du droit de change est tenu, en cas d’annulation du voyage ou lorsque la durée effective de son séjour à l’étranger est inférieure à sept (7) jours, de restituer à la banque intermédiaire agréé, domiciliataire de son compte devises, l’intégralité du droit de change dont il a bénéficié, dans un délai de cinq (5) jours ouvrés à compter de la date de son retour et sur présentation de son passeport.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Sans préjudice de poursuites judiciaires prévues par la législation en vigueur, le non-respect des dispositions des alinéas ci-dessus expose son auteur à la perte de ce droit de change pendant cinq (5) ans.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Cette suspension de cinq (5) ans, cesse de produire son effet pour les mineurs qui en seraient frappés du fait de leur tuteur légal, dès qu’ils auront atteint l’âge de dix-neuf",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "(19) ans révolus.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 16",
+      "number": "16",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "La restitution des montants servis au titre du droit de change donne lieu à la délivrance, par la banque intermédiaire agréé, d’un avis d’opération ou d’un reçu d’annulation au bénéficiaire concerné ainsi qu’à l’apposition, sur son passeport, d’une mention attestant l’annulation de l’opération.\nCette restitution fait également l’objet d’une déclaration sur la plateforme de la Banque d’Algérie dédiée au droit de change.",
+      "paragraphs": [
+        {
+          "text": "La restitution des montants servis au titre du droit de change donne lieu à la délivrance, par la banque intermédiaire agréé, d’un avis d’opération ou d’un reçu d’annulation au bénéficiaire concerné ainsi qu’à l’apposition, sur son passeport, d’une mention attestant l’annulation de l’opération.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Cette restitution fait également l’objet d’une déclaration sur la plateforme de la Banque d’Algérie dédiée au droit de change.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 17",
+      "number": "17",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "La banque intermédiaire agrée adresse à la Banque d’Algérie, au moyen d’un message sécurisé les demandes de couverture en devises correspondant aux montants servis en devises à sa clientèle au titre du droit de change, pour les opérations effectivement réalisées durant chaque journée.\nLa banque intermédiaire agrée doit préciser sur le message :\n-\nLe compte en devises à créditer ;\n-\nLe montant global en devises correspondant aux opérations d’attribution de droit de change réalisées durant la journée concernée ainsi que la contre-valeur en dinars correspondante ;\n-\nLe taux de change appliqué aux clients ;\n-\nLa journée au titre de laquelle lesdites opérations ont été réalisées.\nLa Banque d’Algérie crédite le compte en devises concerné de la banque intermédiaire agrée par le débit de son compte en dinars ouvert dans ses livres.",
+      "paragraphs": [
+        {
+          "text": "La banque intermédiaire agrée adresse à la Banque d’Algérie, au moyen d’un message sécurisé les demandes de couverture en devises correspondant aux montants servis en devises à sa clientèle au titre du droit de change, pour les opérations effectivement réalisées durant chaque journée.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "La banque intermédiaire agrée doit préciser sur le message :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "-",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Le compte en devises à créditer ;",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "-",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Le montant global en devises correspondant aux opérations d’attribution de droit de change réalisées durant la journée concernée ainsi que la contre-valeur en dinars correspondante ;",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "-",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Le taux de change appliqué aux clients ;",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "-",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "La journée au titre de laquelle lesdites opérations ont été réalisées.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "La Banque d’Algérie crédite le compte en devises concerné de la banque intermédiaire agrée par le débit de son compte en dinars ouvert dans ses livres.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 18",
+      "number": "18",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "La banque intermédiaire agrée émet, de sa propre initiative, à destination de la Banque d’Algérie, des ordres de transferts en devises, en vue de couvrir son compte ouvert auprès de son correspondant à l’étranger par le débit de son compte en devises ouvert dans les livres de la Banque d’Algérie ; en fonction de ses propres besoins de gestion.",
+      "paragraphs": [
+        {
+          "text": "La banque intermédiaire agrée émet, de sa propre initiative, à destination de la Banque d’Algérie, des ordres de transferts en devises, en vue de couvrir son compte ouvert auprès de son correspondant à l’étranger par le débit de son compte en devises ouvert dans les livres de la Banque d’Algérie ; en fonction de ses propres besoins de gestion.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 19",
+      "number": "19",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Le non-respect des dispositions de la présente instruction, notamment le recours à toute manœuvre visant à dévier l’usage du montant du droit de change visé à l’article 2 ci-dessus de son objet, impliquant sa mise à disposition entre les mains d’une tierce personne qui ne saurait en être le bénéficiaire effectif, constitue une infraction à la législation et à la réglementation des changes qui expose ses auteurs à des poursuites pénales conformément à la législation en vigueur.",
+      "paragraphs": [
+        {
+          "text": "Le non-respect des dispositions de la présente instruction, notamment le recours à toute manœuvre visant à dévier l’usage du montant du droit de change visé à l’article 2 ci-dessus de son objet, impliquant sa mise à disposition entre les mains d’une tierce personne qui ne saurait en être le bénéficiaire effectif, constitue une infraction à la législation et à la réglementation des changes qui expose ses auteurs à des poursuites pénales conformément à la législation en vigueur.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 20",
+      "number": "20",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Le montant de ce droit de change et les conditions de son octroi, peuvent être ajustés, dans les mêmes formes dans lesquelles ils ont été décidés, et ce compte tenu de la viabilité de la balance des paiements.",
+      "paragraphs": [
+        {
+          "text": "Le montant de ce droit de change et les conditions de son octroi, peuvent être ajustés, dans les mêmes formes dans lesquelles ils ont été décidés, et ce compte tenu de la viabilité de la balance des paiements.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 21",
+      "number": "21",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Les dispositions de l’instruction N°05-2025 du 17 juillet 2025 relative au droit de change pour voyage à l’étranger sont abrogées.",
+      "paragraphs": [
+        {
+          "text": "Les dispositions de l’instruction N°05-2025 du 17 juillet 2025 relative au droit de change pour voyage à l’étranger sont abrogées.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 22",
+      "number": "22",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "La présente instruction prend effet à compter du 19 juillet 2026.\nLe Gouverneur\nMohammed Lamine LEBBOU",
+      "paragraphs": [
+        {
+          "text": "La présente instruction prend effet à compter du 19 juillet 2026.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Mohammed Lamine LEBBOU",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.036
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-07-26.fr.txt"
+}

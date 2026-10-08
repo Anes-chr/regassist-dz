@@ -1,0 +1,1024 @@
+{
+  "document_id": "REG-20-01-20200315.ar",
+  "work_id": "REG-20-01-20200315",
+  "title": "النظام رقم 2020-01 المؤرخ في 20 رجب عام 1441 الموافق 15 مارس سنة 2020، المحدد للقواعد العامة المتعلقة بالشروط البنكية المطبقة على العمليات المصرفية",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "2020-01",
+  "number_source": "libelle",
+  "date": "2020-03-15",
+  "date_raw": "الموافق 15 مارس سنة 2020",
+  "date_source": "libelle",
+  "publication_date": "2022-09-01",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "règlements",
+  "subcategory": "البنك",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d8%a8%d9%86%d9%83/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2022/09/النظام-رقم-2020-01.pdf",
+  "format": "pdf",
+  "file_hash": "5e30d66c1094af80239801a4561ea3ed46d66312e0565bc12b41ee12a607b51d",
+  "file_size": 526139,
+  "raw_path": "raw/5e30d66c1094__النظام-رقم-2020-01.pdf",
+  "retrieved_at": "2026-10-06T20:56:33+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "4926531c3fed0c24b72d0f3970ab9e19505f6f5b3e1a70585dc984e29b82bc02",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%D8%A7%D9%84%D8%A8%D9%86%D9%83/",
+    "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d8%a8%d9%86%d9%83/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "author": "AMINE MERBAH",
+    "creator": "Microsoft® Word 2016",
+    "producer": "Microsoft® Word 2016",
+    "creationDate": "D:20220901140911+01'00'",
+    "modDate": "D:20220901140911+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 3284,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 2003,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": [
+      {
+        "page": 1,
+        "removed": "20",
+        "why": "numéro de page"
+      },
+      {
+        "page": 1,
+        "removed": "01",
+        "why": "numéro de page"
+      }
+    ]
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 18,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "meme_texte_plusieurs_fichiers",
+    "numerotation:premier_article=2"
+  ],
+  "title_document": null,
+  "alias_urls": [],
+  "text_hash": "dec3385377298085f943b609f4e51059ef6682e251e89e08197926e72d7d8af5",
+  "relations_out": [
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "13-01",
+        "date": "2013-04-08",
+        "raw": "règlement n°13-01 du 8 avril 2013"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "Le présent règlement abroge les dispositions du règlement n°13-01 du 8 avril 2013 fixant les règles générales en matière",
+        "copied_from": "REG-20-01-20200315.fr"
+      },
+      "target_work_id": "REG-13-01"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "REG-13-01",
+      "reference": "règlement n°13-01 du 8 avril 2013",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "Le présent règlement abroge les dispositions du règlement n°13-01 du 8 avril 2013 fixant les règles générales en matière",
+        "copied_from": "REG-20-01-20200315.fr"
+      }
+    }
+  ],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-20-01-20200315.ar~2",
+    "REG-20-01-20200315.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 16",
+      "number": "16",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 17",
+      "number": "17",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 18",
+      "number": "18",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 19",
+      "number": "19",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "النظام رقم20 -\nالمؤرخ في20\nرجب عام1441\nالموافق15\nمارس سنة2020، المحدد للقواعد العامة المتعلقة بالشروط البنكية المطبقة على العمليات المصرفية\nإن محافظ بنك الجزائر،\n-\nبمقتضى األمر رقم03\n–\n11\nالمؤرخ في27\nجمادى الثانية عام1424\nالموافق26\nغشت سنة2003\nوالمتعلق بالنقد والقرض، المعدل والمتمم، السيما المواد62 ، 64 ، 66\nإلى73 منه و119 مكرر و119 مكرر2؛ -\nوبمقتضى المرسوم الرئاسي المؤرّخ في17\nربيع األول عام1441\nالموافق14\nنوفمبر سنة2019 والمتضمّن تعيين محافظ بنك الجزائ،ر -\nوبمقتضى المرسوم الرئاسي المؤرّخ في18\nربيع الثاني عام1441\nالموافق15\nديسمبر سنة2019\nوالمتضمّن تعيين نائبين لمحافظ بنك ،الجزائر -\nوبمقتضى المرسوم الرئاسي المؤرّخ في17\nصفر عام1438\nالموافق17\nنوفمبر سنة2016\nوالمتضمن تعيين نائبين لمحافظ بنك ،الجزائر -\nوبمقتضى المرسوم الرئاسي المؤرّخ في5\nصفر عام1437\nالموافق17\nنوفمبر سنة2015\nوالمتضمّن تعيين أعضاء في مجلس إدارة بنك ،الجزائر -\nوبمقتضى النظام رقم07 - 01\nالمؤرخ في15\nمحرم عام1428\nالموافق3\nفبراير سنة2007\nوالمتعلق بالقواعد المطبقة على المعامالت الجارية مع ا لخارج والحسابات بالعملة الصعبة، المعدل والمتمم؛ -\nوبمقتضى النظام رقم13 - 01\nالمؤرخ في26\nجمادى األولى عام1434\nالموافق8\nأبريل سنة2013 ، والمحدد للقواعد العامة المتعلقة بالشروط البنكية المطبقة على العمليات المصرفية؛ - وبناء على مداوالت مجلس النقد والقرض بتاريخ 15\nمارس2020 .\nيصدر النظام اآلتي:نصه :المادة األولى .يهدف هذا النظام إلى تحديد القواعد العامة المتعلقة بالشروط البنكية المطبقة على العمليات المصرفية للبنوك والمؤسسات المالية",
+      "paragraphs": [
+        {
+          "text": "النظام رقم20 -",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرخ في20",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "رجب عام1441",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق15",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "مارس سنة2020، المحدد للقواعد العامة المتعلقة بالشروط البنكية المطبقة على العمليات المصرفية",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "إن محافظ بنك الجزائر،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "بمقتضى األمر رقم03",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "–",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "11",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرخ في27",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "جمادى الثانية عام1424",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق26",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "غشت سنة2003",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتعلق بالنقد والقرض، المعدل والمتمم، السيما المواد62 ، 64 ، 66",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "إلى73 منه و119 مكرر و119 مكرر2؛ -",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى المرسوم الرئاسي المؤرّخ في17",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ربيع األول عام1441",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق14",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "نوفمبر سنة2019 والمتضمّن تعيين محافظ بنك الجزائ،ر -",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى المرسوم الرئاسي المؤرّخ في18",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ربيع الثاني عام1441",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق15",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ديسمبر سنة2019",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتضمّن تعيين نائبين لمحافظ بنك ،الجزائر -",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى المرسوم الرئاسي المؤرّخ في17",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "صفر عام1438",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق17",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "نوفمبر سنة2016",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتضمن تعيين نائبين لمحافظ بنك ،الجزائر -",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى المرسوم الرئاسي المؤرّخ في5",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "صفر عام1437",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق17",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "نوفمبر سنة2015",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتضمّن تعيين أعضاء في مجلس إدارة بنك ،الجزائر -",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى النظام رقم07 - 01",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرخ في15",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "محرم عام1428",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق3",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "فبراير سنة2007",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتعلق بالقواعد المطبقة على المعامالت الجارية مع ا لخارج والحسابات بالعملة الصعبة، المعدل والمتمم؛ -",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى النظام رقم13 - 01",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرخ في26",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "جمادى األولى عام1434",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق8",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "أبريل سنة2013 ، والمحدد للقواعد العامة المتعلقة بالشروط البنكية المطبقة على العمليات المصرفية؛ - وبناء على مداوالت مجلس النقد والقرض بتاريخ 15",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "مارس2020 .",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "يصدر النظام اآلتي:نصه :المادة األولى .يهدف هذا النظام إلى تحديد القواعد العامة المتعلقة بالشروط البنكية المطبقة على العمليات المصرفية للبنوك والمؤسسات المالية",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": ": يقصد بالشروط البنكية، المكافآت والتعريفات والعموالت المطبقة على.العمليات المصرفية التي تقوم بها البنوك والمؤسسات المالية",
+      "paragraphs": [
+        {
+          "text": ": يقصد بالشروط البنكية، المكافآت والتعريفات والعموالت المطبقة على.العمليات المصرفية التي تقوم بها البنوك والمؤسسات المالية",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": ":\nتعتبر عمليات مصرفية كل العمليات التي تقوم بها البنوك والمؤسسات المالية في معاملتها مع الزبائن، كما هي محددة في المواد66\nإلى 69\nمن األمر رقم03 - 11\nالمؤرخ في27\nجمادى الثانية عام1424 المو افق لـ26\nغشت سنة2003 .، المعدل والمتمم والمذكور أعاله",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "تعتبر عمليات مصرفية كل العمليات التي تقوم بها البنوك والمؤسسات المالية في معاملتها مع الزبائن، كما هي محددة في المواد66",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "إلى 69",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "من األمر رقم03 - 11",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرخ في27",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "جمادى الثانية عام1424 المو افق لـ26",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "غشت سنة2003 .، المعدل والمتمم والمذكور أعاله",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": ": يجب أن يخضع تسويق أي منتوج جديد أو خدمة بنكية من طرف البنوك أو المؤسسات المالية، لترخيص مسبق صادر عن بنك .الجزائر",
+      "paragraphs": [
+        {
+          "text": ": يجب أن يخضع تسويق أي منتوج جديد أو خدمة بنكية من طرف البنوك أو المؤسسات المالية، لترخيص مسبق صادر عن بنك .الجزائر",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": ": في مفهوم هذا النظام، يُقصد بمنتوج أو خدمة جديدة، كل منتوج ادخار، من توج قرض أو خدمة بنكية لم يكن محل ترخيص ولم يكن محل .طرح في السوق",
+      "paragraphs": [
+        {
+          "text": ": في مفهوم هذا النظام، يُقصد بمنتوج أو خدمة جديدة، كل منتوج ادخار، من توج قرض أو خدمة بنكية لم يكن محل ترخيص ولم يكن محل .طرح في السوق",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": ": سيتم تحديد العناصر المكونة للملف الواجب تقديمها دعماً لطلب الترخيص لتسويق المنتوج الجديد أو الخدمة البنكية الجديدة، بتعليمة م ن .بنك الجزائر",
+      "paragraphs": [
+        {
+          "text": ": سيتم تحديد العناصر المكونة للملف الواجب تقديمها دعماً لطلب الترخيص لتسويق المنتوج الجديد أو الخدمة البنكية الجديدة، بتعليمة م ن .بنك الجزائر",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": ": تقوم مصالح بنك الجزائر بمسك مُد وّنة يُوثَّقُ فيها المنتجات والخدمات البنكية المرخصة، ويتم تحيينها بصفة دورية. تكون هذه المدوّنة .محل نشر من طرف بنك الجزائر وتُرسل إلى البنوك والمؤسسات المالية يجب على البنوك والمؤسسات المالية الراغبة في تسويق المنتجات أو الخدمات البنكية المُدرجة في المد وّنة المشار إليها أعاله، أن تقوم بتصريح .لدى بنك الجزائر",
+      "paragraphs": [
+        {
+          "text": ": تقوم مصالح بنك الجزائر بمسك مُد وّنة يُوثَّقُ فيها المنتجات والخدمات البنكية المرخصة، ويتم تحيينها بصفة دورية. تكون هذه المدوّنة .محل نشر من طرف بنك الجزائر وتُرسل إلى البنوك والمؤسسات المالية يجب على البنوك والمؤسسات المالية الراغبة في تسويق المنتجات أو الخدمات البنكية المُدرجة في المد وّنة المشار إليها أعاله، أن تقوم بتصريح .لدى بنك الجزائر",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": ":\nسيتم تحديد صيغة ومضمون هذا التصريح بموجب مذكرة من مصالح بنك الجزائر.",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "سيتم تحديد صيغة ومضمون هذا التصريح بموجب مذكرة من مصالح بنك الجزائر.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": ":\nيتعين على البنوك والمؤسسات المالية، أن تبلغ زبائنها والجمهور، عن طريق كل الوسائل، بالشروط البنكية التي تطبقها على العمليات .المصرفية التي تقوم بها وبهذه الصفة، يتعين على البنوك والمؤسسات المالية، أن تُطلع زبائنها على شروط استعمال الحسابات المفتوحة وأسعار الخدمات المختلفة التي تسمح بها وكذا االلتزامات المتبادلة بين .البنك والزبون يجب أن يتم تحديد هذه الشروط في.عقد فتح الحساب أو في المستندات المرسلة لهذا الغرض BANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "يتعين على البنوك والمؤسسات المالية، أن تبلغ زبائنها والجمهور، عن طريق كل الوسائل، بالشروط البنكية التي تطبقها على العمليات .المصرفية التي تقوم بها وبهذه الصفة، يتعين على البنوك والمؤسسات المالية، أن تُطلع زبائنها على شروط استعمال الحسابات المفتوحة وأسعار الخدمات المختلفة التي تسمح بها وكذا االلتزامات المتبادلة بين .البنك والزبون يجب أن يتم تحديد هذه الشروط في.عقد فتح الحساب أو في المستندات المرسلة لهذا الغرض BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": ":\nيجب على البنوك، بالنسبة لكل العمليات المسجلة في الجانب الدائن من الحساب، أن تقوم إجباريا بالقيد في الجانب الدائن للزبون في .اآلجال الموافقة لتاريخ تحديد القيمة",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "يجب على البنوك، بالنسبة لكل العمليات المسجلة في الجانب الدائن من الحساب، أن تقوم إجباريا بالقيد في الجانب الدائن للزبون في .اآلجال الموافقة لتاريخ تحديد القيمة",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": ": يتم تنظيم وتحديد توار.يخ تحديد القيمة الخاصة بالعمليات المصرفية بتعليمة من بنك الجزائر",
+      "paragraphs": [
+        {
+          "text": ": يتم تنظيم وتحديد توار.يخ تحديد القيمة الخاصة بالعمليات المصرفية بتعليمة من بنك الجزائر",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": ":\nيترتب على كل تأخّر يحدث في تنفيذ عملية مصرفية، بعد مضي تاريخ تحديد القيمة المذكورة أعاله، تقديم تعويض يدفع للزبون من .قبل البنك أو المؤسسة المالية المعنية",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "يترتب على كل تأخّر يحدث في تنفيذ عملية مصرفية، بعد مضي تاريخ تحديد القيمة المذكورة أعاله، تقديم تعويض يدفع للزبون من .قبل البنك أو المؤسسة المالية المعنية",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": ":\nيتم تحديد نسب الفائدة الدائنة والمدينة، من قبل البنوك والمؤسسات المالية، بكل حرية. وال يمكن، في كل الحاالت، أن تتعدّى نسب .الفائدة الفعلية اإلجمالية على القروض الموزعة من طرف البنوك والمؤسسات المالية معدل الفائدة الزائد الذي حدده بنك الجزائر",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "يتم تحديد نسب الفائدة الدائنة والمدينة، من قبل البنوك والمؤسسات المالية، بكل حرية. وال يمكن، في كل الحاالت، أن تتعدّى نسب .الفائدة الفعلية اإلجمالية على القروض الموزعة من طرف البنوك والمؤسسات المالية معدل الفائدة الزائد الذي حدده بنك الجزائر",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": ": يت:عين على البنوك أن تقدّم مجانا الخدمات المصرفية القاعدية اآلتية - فتح وإقفال الحسابات بالدينار؛ - منح دفتر الشيكات؛ - منح دفتر االدخار؛ - منح بطاقات بنكية (داخلية)؛ - عمليات الدفع نقدا لدى البنك الموطِّّن؛ - إعداد وتسليم أو إرسال، عند االقتضاء، كشف حساب سنوي للزبون؛ - االطالع على الحساب عن بعد؛ -\n.عملية تحويل ما بين الخواص على مستوى نفس البنك",
+      "paragraphs": [
+        {
+          "text": ": يت:عين على البنوك أن تقدّم مجانا الخدمات المصرفية القاعدية اآلتية - فتح وإقفال الحسابات بالدينار؛ - منح دفتر الشيكات؛ - منح دفتر االدخار؛ - منح بطاقات بنكية (داخلية)؛ - عمليات الدفع نقدا لدى البنك الموطِّّن؛ - إعداد وتسليم أو إرسال، عند االقتضاء، كشف حساب سنوي للزبون؛ - االطالع على الحساب عن بعد؛ -",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": ".عملية تحويل ما بين الخواص على مستوى نفس البنك",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": ":\n،سيتم تحديد تعريفات العموالت المقتطعة من طرف البنوك، بموجب عمليات التجارة الخارجية عند االستيراد وتحويل المداخيل .بتعليمة من بنك الجزائر",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "،سيتم تحديد تعريفات العموالت المقتطعة من طرف البنوك، بموجب عمليات التجارة الخارجية عند االستيراد وتحويل المداخيل .بتعليمة من بنك الجزائر",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 16",
+      "number": "16",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": ": تحدد البنوك والمؤسسات ا لمالية، باستثناء الخدمات المصرفية المجانية، المنصوص عليها في المادة14\nأعاله، والعموالت المشار إليها في المادة15\n.من هذا النظام، بكل حرية، المعدالت ومستويات العموالت األخرى يتعين على البنوك والمؤسسات المالية االحترام الصارم للشروط المطبقة على العمليات الم .صرفية التي حددتها",
+      "paragraphs": [
+        {
+          "text": ": تحدد البنوك والمؤسسات ا لمالية، باستثناء الخدمات المصرفية المجانية، المنصوص عليها في المادة14",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "أعاله، والعموالت المشار إليها في المادة15",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": ".من هذا النظام، بكل حرية، المعدالت ومستويات العموالت األخرى يتعين على البنوك والمؤسسات المالية االحترام الصارم للشروط المطبقة على العمليات الم .صرفية التي حددتها",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 17",
+      "number": "17",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": ":\n.تحدد كيفيات تطبيق أحكام هذا النظام، بما فيها تلك المتعلقة بمعدل الفائدة الزائد، بتعليمة من بنك الجزائر",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": ".تحدد كيفيات تطبيق أحكام هذا النظام، بما فيها تلك المتعلقة بمعدل الفائدة الزائد، بتعليمة من بنك الجزائر",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 18",
+      "number": "18",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": ":\nيُلغي هذا النظام أحكام النظام رقم13 - 01\nالمؤرخ في26\nجمادى األولى عام1434\nالموافق8\nأبريل سنة2013، والمحدد ل لقواعد العامة المتعلقة بالشروط البنكية المطبقة على العمليات المصرفية؛",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "يُلغي هذا النظام أحكام النظام رقم13 - 01",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "المؤرخ في26",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "جمادى األولى عام1434",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "الموافق8",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "أبريل سنة2013، والمحدد ل لقواعد العامة المتعلقة بالشروط البنكية المطبقة على العمليات المصرفية؛",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 19",
+      "number": "19",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": ":\n.ينشر هذا النظام في الجريدة الرسمية للجمهورية الجزائرية الديمقراطية الشعبية\nالمحافــــــــظ أيمن بن عبد الرحمان",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": ".ينشر هذا النظام في الجريدة الرسمية للجمهورية الجزائرية الديمقراطية الشعبية",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "المحافــــــــظ أيمن بن عبد الرحمان",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "meme_texte_plusieurs_fichiers",
+      "numerotation:premier_article=2"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.037
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/REG-20-01-20200315.ar.txt"
+}

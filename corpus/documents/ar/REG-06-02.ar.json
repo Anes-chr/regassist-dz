@@ -1,0 +1,566 @@
+{
+  "document_id": "REG-06-02.ar",
+  "work_id": "REG-06-02",
+  "title": "نظام رقم 06-02 المؤرخ في 24 سبتمبر2006، يحدد شروط تأسيس بنك ومؤسسة مالية وشروط إقامة فرع البنك ومؤسسة مالية أجنبية.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "06-02",
+  "number_source": "libelle",
+  "date": "2006-09-24",
+  "date_raw": "المؤرخ في 24 سبتمبر2006",
+  "date_source": "libelle",
+  "publication_date": "2023-02-28",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "règlements",
+  "subcategory": "شروط تأسيس و إنشاء البنوك و المؤسسات المالية و الحد الادنى لرأس المال",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%b4%d8%b1%d9%88%d8%b7-%d8%aa%d8%a3%d8%b3%d9%8a%d8%b3-%d9%88-%d8%a5%d9%86%d8%b4%d8%a7%d8%a1-%d8%a7%d9%84%d8%a8%d9%86%d9%88%d9%83-%d9%88-%d8%a7%d9%84%d9%85%d8%a4%d8%b3%d8%b3%d8%a7%d8%aa-%d8%a7%d9%84/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/02/02-06.pdf",
+  "format": "pdf",
+  "file_hash": "6f0bcd9d7f18ce92ee31c028db96189627355ff0a68e6b7afec1615c2061e838",
+  "file_size": 654934,
+  "raw_path": "raw/6f0bcd9d7f18__02-06.pdf",
+  "retrieved_at": "2026-10-05T13:27:47+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 2,
+  "url_hash": "124ea747801e4ff173d8ed99780c59a83cc1ec5014fe45c824e1865961d4d32d",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%b4%d8%b1%d9%88%d8%b7-%d8%aa%d8%a3%d8%b3%d9%8a%d8%b3-%d9%88-%d8%a5%d9%86%d8%b4%d8%a7%d8%a1-%d8%a7%d9%84%d8%a8%d9%86%d9%88%d9%83-%d9%88-%d8%a7%d9%84%d9%85%d8%a4%d8%b3%d8%b3%d8%a7%d8%aa-%d8%a7%d9%84/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "author": "lynda benhaha",
+    "creator": "Microsoft® Word 2016",
+    "producer": "Microsoft® Word 2016",
+    "creationDate": "D:20230228095549+01'00'",
+    "modDate": "D:20230228095549+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 2919,
+        "ocr_confidence": 63.19926873857404
+      },
+      {
+        "page": 2,
+        "method": "ocr",
+        "chars": 2854,
+        "ocr_confidence": 81.28514851485149
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 7,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine",
+    "ocr_faible_confiance",
+    "numerotation:articles_manquants:[8, 9, 10, 14, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]",
+    "numerotation:premier_article=7",
+    "numerotation:ordre_non_croissant"
+  ],
+  "title_document": null,
+  "alias_urls": [],
+  "text_hash": "3c86c4ea637c0d485c96745388c2242d56df38f51d96dae2bed013a5bac4b577",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "ORD",
+        "number": "03-11",
+        "date": null,
+        "raw": "Ordonnance n°03-11"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "l'obtention de la décision d'agrément, la banque ou l'établissement financier doit, en application de l'article 94 de l'Ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondan",
+        "copied_from": "REG-06-02.fr"
+      },
+      "target_work_id": "ORD-03-11"
+    },
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "93-01",
+        "date": "1993-01-03",
+        "raw": "règlement n°93-01 du 3 janvier 1993"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 4,
+        "quote": "Toutes les dispositions contraires au présent règlement sont abrogées, notamment le règlement n°93-01 du 3 janvier 1993, modifié et complété, fixant les condit",
+        "copied_from": "REG-06-02.fr"
+      },
+      "target_work_id": "REG-93-01"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "REG-93-01",
+      "reference": "règlement n°93-01 du 3 janvier 1993",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 4,
+        "quote": "Toutes les dispositions contraires au présent règlement sont abrogées, notamment le règlement n°93-01 du 3 janvier 1993, modifié et complété, fixant les condit",
+        "copied_from": "REG-06-02.fr"
+      }
+    }
+  ],
+  "modifie": [
+    {
+      "work_id": "ORD-03-11",
+      "reference": "Ordonnance n°03-11",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "l'obtention de la décision d'agrément, la banque ou l'établissement financier doit, en application de l'article 94 de l'Ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondan",
+        "copied_from": "REG-06-02.fr"
+      }
+    }
+  ],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [
+    {
+      "work_id": "REG-24-01",
+      "document_id": "REG-24-01.fr",
+      "date": "2024-02-06",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 5,
+        "quote": "Toutes les dispositions contraires au présent règlement sont abrogées, notamment celle du règlement n°06-02 du Aouel Ramadhan 1427 correspondant au"
+      }
+    }
+  ],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "REG-24-01",
+      "document_id": "REG-24-01.fr",
+      "date": "2024-02-06",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 5,
+        "quote": "Toutes les dispositions contraires au présent règlement sont abrogées, notamment celle du règlement n°06-02 du Aouel Ramadhan 1427 correspondant au"
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [
+    "REG-06-02.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [
+    {
+      "work_id": "REG-24-01",
+      "document_id": "REG-24-01.fr",
+      "date": "2024-02-06",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 5,
+        "quote": "Toutes les dispositions contraires au présent règlement sont abrogées, notamment celle du règlement n°06-02 du Aouel Ramadhan 1427 correspondant au"
+      }
+    }
+  ],
+  "remplacé_par": [],
+  "complète": [],
+  "ocr_numeric_check": {
+    "units": 8,
+    "units_flagged": 0,
+    "units_compared_with_french": 6,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 92",
+      "number": "92",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 16",
+      "number": "16",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تلام رقم 02-06 مور خ فقي آول رمصضاتن عام 1427 الواضشق 24 سيتميسر سرمتة 22006 يحدد شروملدل يتك وموؤسسة مالية Lane)‏ pl‏ 2352\" ادو الى 236 propane‏ لس 1995 اللا سور القانون التجارييء المعدّل و المتممء a. t5s!‏ عام 24 المواقق 26 عشت ,4 2003 و الملتعلق Slot Lans Y so AIT à ail,‏ ع 82 95,11 «tn‏\n— ويمقتصى المرسوح الرتاسي الموّرخ فقي 10 ربيع الآول ele‏ 2 اللمواقق 2 يو تيو سمتة 2001 والملتصضمنت\n— وبيمقتصضى المرسوح الرتاسي الموّر خ قي 10 es‏ JsY!t‏ عام 1422 المواقق 2 يوتيو سرتة 2001 و الملتصمتنت تعييت أآعصاء في مجلس إدارة بتك eat‏ das el —‏ اليحك وااللوسسنه اللاليلة وشترخاليتك اا EE BE‏ 1 ا 12 ل 07 - المذكور قي المادة 2 آعلاه المقدمع من طرف الطالبين. على ستو el‏ Sat Sas Giant st —‏ > الويساكل الستجوع test —‏ لالس جحصن وها ى الوم فشكل data‏ التي يتتظر استعمالهاء Lalastt SAN ER salt مين‎ alt الماليةو تجريتهم و كقاءتهم غي الميدان المصرقي والماليء على العموم. و بالتزامهم بتقديم الملساعدة يكون محسبيدا في شكل اتقاق يبسن المساهمين.\n— وضع الموؤسنسة التي تمثل المساهم المرجعي:\nلاسيما في يلدها الآصلي يما قي ذلك الملؤشرات حول بدن فتهي at‏\n— قائمة المسيرين الرئيسيين بمعتى SSI‏ 90 منت الآمر رقم11-03الموّرخ في 27 جمادى الثانية عام1424 oeil les كيس على الوق‎ PAST 2 RL AT لافار كلم الى‎ TT ENST — Against ke Soit وى عدن الى هكين‎ ELU ile الخولة لكل‎ el.‏ 1413 المواقق 3 يتاير سنتة 1993 الذى يحدد شرورط وموسسة مالية آجتبية:. المعدّل والمتمم.\n- ويمقتضى التنظام رقم 01-04 الموّر خ في 12 محرح عام 1425 المؤواقق 4 صار س ستة 2004 و المتعلق بالحد الآدكى فر انسمال اليتوقكيوى المؤسنسات المالية العاملة في الجزامّرء والقرخى يتار يخ 24 سيتمير 4 2006« ا لملكة الآولئ: يهدف هذا التظام إلى تحديد الشروط المتعلّقة يمايآتي :\n— الخر خيص يتآسيس يتك و موسيسة مالية.\ndun | 11-03 المؤرخ في27 جمادى الثانية عام 1424 المواقق 26 SIL 1720039 LEE‏ 5 لو مر حلة الاعتماد.\nو due‏ مالية و إقامة قرع يتك 55 قرع موّسسة مالية آجتبية على مجلسن الشقد وا لقرض قصد دراسكه بعد أن يتم تقديم كل العتنلصر والمعلؤمات المشار إليها في المادتين 2 و3 آعلاه واللشكلة للملف التتسيسي وكذلك JS‏ معلومة إضاقية تطالب يها مصالح ينك الجزائر لتقييم الملقف.\nالملدة 6 : يدخل الترخيصس. الممتوح و المتعلق فرع ينك و موّسسة مالية آحجنبية. حيز التتقيذ اعتبارا من تار يِخ تيليقه.",
+      "paragraphs": [
+        {
+          "text": "تلام رقم 02-06 مور خ فقي آول رمصضاتن عام 1427 الواضشق 24 سيتميسر سرمتة 22006 يحدد شروملدل يتك وموؤسسة مالية Lane)‏ pl‏ 2352\" ادو الى 236 propane‏ لس 1995 اللا سور القانون التجارييء المعدّل و المتممء a. t5s!‏ عام 24 المواقق 26 عشت ,4 2003 و الملتعلق Slot Lans Y so AIT à ail,‏ ع 82 95,11 «tn‏",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "— ويمقتصى المرسوح الرتاسي الموّرخ فقي 10 ربيع الآول ele‏ 2 اللمواقق 2 يو تيو سمتة 2001 والملتصضمنت",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "— وبيمقتصضى المرسوح الرتاسي الموّر خ قي 10 es‏ JsY!t‏ عام 1422 المواقق 2 يوتيو سرتة 2001 و الملتصمتنت تعييت أآعصاء في مجلس إدارة بتك eat‏ das el —‏ اليحك وااللوسسنه اللاليلة وشترخاليتك اا EE BE‏ 1 ا 12 ل 07 - المذكور قي المادة 2 آعلاه المقدمع من طرف الطالبين. على ستو el‏ Sat Sas Giant st —‏ > الويساكل الستجوع test —‏ لالس جحصن وها ى الوم فشكل data‏ التي يتتظر استعمالهاء Lalastt SAN ER salt مين‎ alt الماليةو تجريتهم و كقاءتهم غي الميدان المصرقي والماليء على العموم. و بالتزامهم بتقديم الملساعدة يكون محسبيدا في شكل اتقاق يبسن المساهمين.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "— وضع الموؤسنسة التي تمثل المساهم المرجعي:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "لاسيما في يلدها الآصلي يما قي ذلك الملؤشرات حول بدن فتهي at‏",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "— قائمة المسيرين الرئيسيين بمعتى SSI‏ 90 منت الآمر رقم11-03الموّرخ في 27 جمادى الثانية عام1424 oeil les كيس على الوق‎ PAST 2 RL AT لافار كلم الى‎ TT ENST — Against ke Soit وى عدن الى هكين‎ ELU ile الخولة لكل‎ el.‏ 1413 المواقق 3 يتاير سنتة 1993 الذى يحدد شرورط وموسسة مالية آجتبية:. المعدّل والمتمم.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- ويمقتضى التنظام رقم 01-04 الموّر خ في 12 محرح عام 1425 المؤواقق 4 صار س ستة 2004 و المتعلق بالحد الآدكى فر انسمال اليتوقكيوى المؤسنسات المالية العاملة في الجزامّرء والقرخى يتار يخ 24 سيتمير 4 2006« ا لملكة الآولئ: يهدف هذا التظام إلى تحديد الشروط المتعلّقة يمايآتي :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "— الخر خيص يتآسيس يتك و موسيسة مالية.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "dun | 11-03 المؤرخ في27 جمادى الثانية عام 1424 المواقق 26 SIL 1720039 LEE‏ 5 لو مر حلة الاعتماد.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "و due‏ مالية و إقامة قرع يتك 55 قرع موّسسة مالية آجتبية على مجلسن الشقد وا لقرض قصد دراسكه بعد أن يتم تقديم كل العتنلصر والمعلؤمات المشار إليها في المادتين 2 و3 آعلاه واللشكلة للملف التتسيسي وكذلك JS‏ معلومة إضاقية تطالب يها مصالح ينك الجزائر لتقييم الملقف.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الملدة 6 : يدخل الترخيصس. الممتوح و المتعلق فرع ينك و موّسسة مالية آحجنبية. حيز التتقيذ اعتبارا من تار يِخ تيليقه.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يمكن أن يكون رفص منتح الترخيص موضو ع طعن: وققا للشرورط المحددة في المادة 7 الأمر رقم 11-03 الموّرخ في27 جمادى الثاتية عام 1424 المواقق 26 LE‏ ,= سنة 2003 و المذكور آعلاة.\nالقافة 8 : um‏ على البنتك أو D SU‏ المالية أو الفر ع التايع لبتك أو لموّسسسة مالية آجنبية. الذي تحصل على الكترخيص المنصوص عليه قى المادة 5 أعلاه»\nأن يلتمسى من محافظ بنك الجزامر الاعتماك المدذكور في",
+      "paragraphs": [
+        {
+          "text": "يمكن أن يكون رفص منتح الترخيص موضو ع طعن: وققا للشرورط المحددة في المادة 7 الأمر رقم 11-03 الموّرخ في27 جمادى الثاتية عام 1424 المواقق 26 LE‏ ,= سنة 2003 و المذكور آعلاة.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "القافة 8 : um‏ على البنتك أو D SU‏ المالية أو الفر ع التايع لبتك أو لموّسسسة مالية آجنبية. الذي تحصل على الكترخيص المنصوص عليه قى المادة 5 أعلاه»",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "أن يلتمسى من محافظ بنك الجزامر الاعتماك المدذكور في",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 92",
+      "number": "92",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "مق الآمسر رقم 11-03 المورخ في27 جمنائى الثانية عام 1424 المواقق 26 غشت سنة 2003 والمذكور أآعلاة .\nمتك الأو lle‏ امامت االو كت نه اس يك ا و المعلومات المطالب يها وققا للقاتون و التتظيم و كذا الوثائق التي تثيدت استيقاء الشروط الخاصة المحتملة Lai lin si‏ سكعتو( 12 ( las gt‏ هخ bte foot‏ الترخيص المذكور أعلاه.\nيتم تحديد طبيعة المستئندات و محتوى المعلومات المشار إليهافي الفقرةالسايقة من خلال تعليمة يصدرها ينك الجزامّر .\nيُمنعالبنك أو المؤسسةالمالية أو فرع البنك أو المؤسسة المالية الأجنبية من القيام بآية عملية مصرفية قبل الحصول على الاعتماد المشار إليه في الفقرة الأولى أعلاه.\nELU‏ 9: يمنح الاعتماد بمقرر من Bilans‏ بثك الجزائر إذا استوفى الطالب كل شروط التأسيس أو الإقامة. حسب الحالة؛ مثلما حددها التشريع والتنظيم الممعمول بهما وكذا الشروط الخاصة المحتملة التي يمكن أن يقتصر الاعتماد وهذاء. طبقا للترخيص الصادر عن مجلس النقد والقرضء على القيام ببعض العمليات المصرفية.\nذلك المستقيد من Lire Lane Yi‏ الوسيط coma!‏ يتعين على هذا الأخير وهذاء قصد القيام بعمليات الصرف والتجارة الخار جية: الحصول على تسجيل JS‏ شباك من طرف بنك الجزامئر وفقا للشروط التي ينص عليها التنظيم المعمول به.\nSAS ملسن‎ La أن يمرشن‎ coms: 10 MES تعديل يتم في القوانين الأساسية قبل أو‎ JS والقرض‎ الاعتماد: لاسيما تلك المتضسمنة‎ Le بعد الحصول‎ لموضوع أو رأس مال البنك أو المؤسسة المالية. يخضع‎ هذا التعديل لنفس الشروط المحددة في المادتين 2 و3‎ أعلاه.‎ مال لفر ع بنك أو مؤسسة مالية أجنبية و التي‎ ui, تطرأ قبل أو بعد الحصول على الاعتماد على مجلس‎ النقد والقرض. كسا يجب أن تخضع لنفس الشروط‎ ls الواردة فى المادتين 2 و 3 أعلاه. وبالإضاففة إلى‎ فإن التعديلات:في القوائين الأساسية المتهفمتة لموسبوع‎ المؤسسة الأم لا تصبح قابلة التنفيذ في الجزائر إلا بعد‎ المصادقة عليها من طرف مجلس النقد و القرض.‎",
+      "paragraphs": [
+        {
+          "text": "مق الآمسر رقم 11-03 المورخ في27 جمنائى الثانية عام 1424 المواقق 26 غشت سنة 2003 والمذكور أآعلاة .",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "متك الأو lle‏ امامت االو كت نه اس يك ا و المعلومات المطالب يها وققا للقاتون و التتظيم و كذا الوثائق التي تثيدت استيقاء الشروط الخاصة المحتملة Lai lin si‏ سكعتو( 12 ( las gt‏ هخ bte foot‏ الترخيص المذكور أعلاه.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "يتم تحديد طبيعة المستئندات و محتوى المعلومات المشار إليهافي الفقرةالسايقة من خلال تعليمة يصدرها ينك الجزامّر .",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "يُمنعالبنك أو المؤسسةالمالية أو فرع البنك أو المؤسسة المالية الأجنبية من القيام بآية عملية مصرفية قبل الحصول على الاعتماد المشار إليه في الفقرة الأولى أعلاه.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "ELU‏ 9: يمنح الاعتماد بمقرر من Bilans‏ بثك الجزائر إذا استوفى الطالب كل شروط التأسيس أو الإقامة. حسب الحالة؛ مثلما حددها التشريع والتنظيم الممعمول بهما وكذا الشروط الخاصة المحتملة التي يمكن أن يقتصر الاعتماد وهذاء. طبقا للترخيص الصادر عن مجلس النقد والقرضء على القيام ببعض العمليات المصرفية.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "ذلك المستقيد من Lire Lane Yi‏ الوسيط coma!‏ يتعين على هذا الأخير وهذاء قصد القيام بعمليات الصرف والتجارة الخار جية: الحصول على تسجيل JS‏ شباك من طرف بنك الجزامئر وفقا للشروط التي ينص عليها التنظيم المعمول به.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "SAS ملسن‎ La أن يمرشن‎ coms: 10 MES تعديل يتم في القوانين الأساسية قبل أو‎ JS والقرض‎ الاعتماد: لاسيما تلك المتضسمنة‎ Le بعد الحصول‎ لموضوع أو رأس مال البنك أو المؤسسة المالية. يخضع‎ هذا التعديل لنفس الشروط المحددة في المادتين 2 و3‎ أعلاه.‎ مال لفر ع بنك أو مؤسسة مالية أجنبية و التي‎ ui, تطرأ قبل أو بعد الحصول على الاعتماد على مجلس‎ النقد والقرض. كسا يجب أن تخضع لنفس الشروط‎ ls الواردة فى المادتين 2 و 3 أعلاه. وبالإضاففة إلى‎ فإن التعديلات:في القوائين الأساسية المتهفمتة لموسبوع‎ المؤسسة الأم لا تصبح قابلة التنفيذ في الجزائر إلا بعد‎ المصادقة عليها من طرف مجلس النقد و القرض.‎",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "تخضع التغديلات: غير تلك المنصوص عليها في المادة 10 coke‏ إلى ترخيص مسبق يصدر عن",
+      "paragraphs": [
+        {
+          "text": "تخضع التغديلات: غير تلك المنصوص عليها في المادة 10 coke‏ إلى ترخيص مسبق يصدر عن",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "يجب إرسال قائمة أعضاء مجلس الإدارة أو مجلس المراقبة: الذين تم تعيينهم من طرف المالية.المرفقة بسيرتهم المهنية و بملفهم الإداري؛ إلى محافظ بنك الجزائر قصد اعتمادهم.\nعضو في مجلس الإدارة أو مجلس المراقبة عند تسليم في حالة ما أدخلت تعديلات على هذه القائمة قبل أو بعد الحصول على مقرر الاعتماد, يجب على البنك أو المؤسسة المالية وهذاء تطبيقا للملدة 94 من الأمر رقم 11-03 المؤرخ في27 جمادى الثانية عام 1424 الموافق 26 فقت Line‏ 2003 والمتكور املاه..ان dat Las‏ Bac Sn nl!‏ رتك الم 55 فروعالبنوك أو المؤفسسات المالية الأجنبية العاملة في الجزائر.",
+      "paragraphs": [
+        {
+          "text": "يجب إرسال قائمة أعضاء مجلس الإدارة أو مجلس المراقبة: الذين تم تعيينهم من طرف المالية.المرفقة بسيرتهم المهنية و بملفهم الإداري؛ إلى محافظ بنك الجزائر قصد اعتمادهم.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "عضو في مجلس الإدارة أو مجلس المراقبة عند تسليم في حالة ما أدخلت تعديلات على هذه القائمة قبل أو بعد الحصول على مقرر الاعتماد, يجب على البنك أو المؤسسة المالية وهذاء تطبيقا للملدة 94 من الأمر رقم 11-03 المؤرخ في27 جمادى الثانية عام 1424 الموافق 26 فقت Line‏ 2003 والمتكور املاه..ان dat Las‏ Bac Sn nl!‏ رتك الم 55 فروعالبنوك أو المؤفسسات المالية الأجنبية العاملة في الجزائر.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "يُطبق الإجراء الوارد في الفقرة الأولى سن المادة 12 أعلاه على المديرين العامين و المديرين العامين المساعدين غير الأعضاء في مجلس الإدارة كما يطبق على الأعضاء في مجلس المديرين.\nHU‏ هنا يهب أن يكون كل JS‏ عن سه م يثك أو مؤسسة مالية موضوع طلب ترخيص بالتنازل يوجه لسر ئيس مجلس النقد والقرض و يبرز هذا الطلب أسباب هذه العملية و كذا كل عنصر آخر للتقييم يفيد المساهمين: يجب أن يعرض الطلب وفقا لنفس الشروط الواردة في المادتين 2 و3 أعلاه.",
+      "paragraphs": [
+        {
+          "text": "يُطبق الإجراء الوارد في الفقرة الأولى سن المادة 12 أعلاه على المديرين العامين و المديرين العامين المساعدين غير الأعضاء في مجلس الإدارة كما يطبق على الأعضاء في مجلس المديرين.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "HU‏ هنا يهب أن يكون كل JS‏ عن سه م يثك أو مؤسسة مالية موضوع طلب ترخيص بالتنازل يوجه لسر ئيس مجلس النقد والقرض و يبرز هذا الطلب أسباب هذه العملية و كذا كل عنصر آخر للتقييم يفيد المساهمين: يجب أن يعرض الطلب وفقا لنفس الشروط الواردة في المادتين 2 و3 أعلاه.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "يجب على البنوك و المؤسسات المالية, العاملة في الجزائرء تحيين سنويا كل المعلومات المالية الخاصة بالمساهمين الذين يحوزونء على الأقل؛ 5 6؟ من رأسمال مؤسستهم.",
+      "paragraphs": [
+        {
+          "text": "يجب على البنوك و المؤسسات المالية, العاملة في الجزائرء تحيين سنويا كل المعلومات المالية الخاصة بالمساهمين الذين يحوزونء على الأقل؛ 5 6؟ من رأسمال مؤسستهم.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 16",
+      "number": "16",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "تلغى كل الأحكام المخالفة لهذا النظام.\nلاسيّما النظام رقم 01-93 المؤرخ في 3 يناير سنة 993!\nالذي يحدد شسروط تآسيس بنك و مسؤسسة مالية وشروط إقامة فرع بنك ومؤسسة مالية Linie‏ المعدل و المتمم.\nالملدة 17 : ينشر هذا النظام في الجريدة الرسمية للجمهورية الجزائرية الديمقراطية الشعبية.\nحرر بالجزائر في أول رمضضان عام 1427 الموافق 4 سَِيْت هبر Lis‏ 2006 محمد لكصلسي",
+      "paragraphs": [
+        {
+          "text": "تلغى كل الأحكام المخالفة لهذا النظام.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "لاسيّما النظام رقم 01-93 المؤرخ في 3 يناير سنة 993!",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "الذي يحدد شسروط تآسيس بنك و مسؤسسة مالية وشروط إقامة فرع بنك ومؤسسة مالية Linie‏ المعدل و المتمم.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "الملدة 17 : ينشر هذا النظام في الجريدة الرسمية للجمهورية الجزائرية الديمقراطية الشعبية.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "حرر بالجزائر في أول رمضضان عام 1427 الموافق 4 سَِيْت هبر Lis‏ 2006 محمد لكصلسي",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine",
+      "ocr_faible_confiance",
+      "numerotation:articles_manquants:[8, 9, 10, 14, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]",
+      "numerotation:premier_article=7",
+      "numerotation:ordre_non_croissant"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.04,
+      "ocr_pages": [
+        1,
+        2
+      ],
+      "ocr_mean_confidence": 72.2
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/REG-06-02.ar.txt"
+}

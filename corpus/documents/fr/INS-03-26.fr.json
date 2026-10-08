@@ -1,0 +1,332 @@
+{
+  "document_id": "INS-03-26.fr",
+  "work_id": "INS-03-26",
+  "title": "Instruction n° 03-26 du 26 avril 2026 modifiant l’instruction n° 02-2015 du 22 juillet 2015 fixant le niveau des engagements extérieurs des banques et établissements financiers",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "03-26",
+  "number_source": "en-tête du document",
+  "date": "2026-04-26",
+  "date_raw": "N° 03-26 DU 26 AVRIL 2026",
+  "date_source": "en-tête du document",
+  "publication_date": "2026-04-27",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Normes prudentielles",
+  "source_url": "https://www.bank-of-algeria.dz/banque-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2026/04/Instruction-03-26-Fr.pdf",
+  "format": "pdf",
+  "file_hash": "38f24fdcca19ceb36b5f3741bd19fa13198b22cf09b427fe9085271d03d64234",
+  "file_size": 83674,
+  "raw_path": "raw/38f24fdcca19__Instruction-03-26-Fr.pdf",
+  "retrieved_at": "2026-10-05T13:32:10+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "2175241f5eabf67ef5bc5d9710500b883733f52a383c5e41adaffa727c2f36a4",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/banque-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Instruction 03-26 Fr",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20260426150256+01'00'",
+    "modDate": "D:20260426150256+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 888,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 3,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N° 03-26 DU 26 AVRIL 2026 MODIIFANT L’INTRUCTION N° 02-2015 DU 22 JUILLET 2015 FIXANT LE NIVEAU DES ENGAGEMENTS EXTERIEURS DES BANQUES ET ETABLISSEMENTS FINANCIERS",
+  "alias_urls": [],
+  "text_hash": "fd98f36546bc0f9a2390d66cdc269b8f48fa79a9b0d59be239773a682148080d",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-2015",
+        "date": "2015-07-22",
+        "raw": "instruction n° 02-2015 du 22 juillet 2015"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n° 03-26 du 26 avril 2026 modifiant l’instruction n° 02-2015 du 22 juillet 2015 fixant le niveau des engagements extéri"
+      },
+      "target_work_id": "INS-02-15"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-2015",
+        "date": "2015-07-22",
+        "raw": "instruction n°02-2015 du 22 juillet 2015"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et compléter l’instruction n°02-2015 du 22 juillet 2015, fixant le niveau des engagements extér"
+      },
+      "target_work_id": "INS-02-15"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-2015",
+        "date": "2015-07-22",
+        "raw": "instruction n°02-2015 du 22 juillet 2015"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et compléter l’instruction n°02-2015 du 22 juillet 2015, fixant le niveau des engagements extér"
+      },
+      "target_work_id": "INS-02-15"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-02-15",
+      "reference": "instruction n° 02-2015 du 22 juillet 2015",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n° 03-26 du 26 avril 2026 modifiant l’instruction n° 02-2015 du 22 juillet 2015 fixant le niveau des engagements extéri"
+      }
+    },
+    {
+      "work_id": "INS-02-15",
+      "reference": "instruction n°02-2015 du 22 juillet 2015",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et compléter l’instruction n°02-2015 du 22 juillet 2015, fixant le niveau des engagements extér"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "INS-02-15",
+      "reference": "instruction n°02-2015 du 22 juillet 2015",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et compléter l’instruction n°02-2015 du 22 juillet 2015, fixant le niveau des engagements extér"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-03-26.ar"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "INS-02-15",
+      "reference": "instruction n°02-2015 du 22 juillet 2015",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et compléter l’instruction n°02-2015 du 22 juillet 2015, fixant le niveau des engagements extér"
+      }
+    }
+  ],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N° 03-26 DU 26 AVRIL 2026 MODIIFANT\nL’INTRUCTION N° 02-2015 DU 22 JUILLET 2015 FIXANT\nLE NIVEAU DES ENGAGEMENTS EXTERIEURS\nDES BANQUES ET ETABLISSEMENTS FINANCIERS",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N° 03-26 DU 26 AVRIL 2026 MODIIFANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L’INTRUCTION N° 02-2015 DU 22 JUILLET 2015 FIXANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "LE NIVEAU DES ENGAGEMENTS EXTERIEURS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DES BANQUES ET ETABLISSEMENTS FINANCIERS",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction a pour objet de modifier et compléter l’instruction n°02-2015 du 22 juillet 2015, fixant le niveau des engagements extérieurs des banques et établissements financiers.",
+      "paragraphs": [
+        {
+          "text": "La présente instruction a pour objet de modifier et compléter l’instruction n°02-2015 du 22 juillet 2015, fixant le niveau des engagements extérieurs des banques et établissements financiers.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "le niveau des engagements extérieurs par signature des banques et établissements financiers ne doit dépasser cinquante pourcent (50%) de leurs fonds propres règlementaires tels que définis par la réglementation prudentielle en vigueur.",
+      "paragraphs": [
+        {
+          "text": "le niveau des engagements extérieurs par signature des banques et établissements financiers ne doit dépasser cinquante pourcent (50%) de leurs fonds propres règlementaires tels que définis par la réglementation prudentielle en vigueur.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction prend effet à compter du 1er mai 2026, les dispositions de l’instruction n°02-2015 susvisée non modifiées par la présente demeurent inchangées.\nLE GOUVERNEUR\nMohammed Lamine LEBBOU",
+      "paragraphs": [
+        {
+          "text": "La présente instruction prend effet à compter du 1er mai 2026, les dispositions de l’instruction n°02-2015 susvisée non modifiées par la présente demeurent inchangées.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "LE GOUVERNEUR",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Mohammed Lamine LEBBOU",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.03
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-03-26.fr.txt"
+}

@@ -1,0 +1,752 @@
+{
+  "document_id": "REG-18-02.fr",
+  "work_id": "REG-18-02",
+  "title": "Règlement n°2018-02 du 4 novembre 2018 portant conditions d’exercice des opérations de banque relevant de la finance participative par les banques et établissements financiers.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "2018-02",
+  "number_source": "en-tête du document",
+  "date": "2018-11-04",
+  "date_raw": "N°2018-02 DU 04 NOVEMBRE 2018",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Finance islamique",
+  "source_url": "https://www.bank-of-algeria.dz/finance-islamique-reglement-2/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement201802-1.pdf",
+  "format": "pdf",
+  "file_hash": "d83236bbef684ce8da622c453ff581be42325aeb6e27e3d12ae502fe12269dd6",
+  "file_size": 91992,
+  "raw_path": "raw/d83236bbef68__reglement201802-1.pdf",
+  "retrieved_at": "2026-10-05T13:22:54+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 4,
+  "url_hash": "5bd530fac4702c746e476114e25e7d63dc10db6bf476c346c641330bd9d3ea00",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%D8%A7%D9%84%D8%A8%D9%86%D9%83/",
+    "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d8%a8%d9%86%d9%83/",
+    "https://www.bank-of-algeria.dz/banques-reglement/",
+    "https://www.bank-of-algeria.dz/finance-islamique-reglement-2/",
+    "https://www.bank-of-algeria.dz/reglement-2018/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - reglement201802",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210208102126+01'00'",
+    "modDate": "D:20210208102126+01'00'"
+  },
+  "hijri_date_raw": "27 Joumada Ethania 1424",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 4,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2834,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 2461,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 3109,
+        "ocr_confidence": null
+      },
+      {
+        "page": 4,
+        "method": "pdf_text",
+        "chars": 404,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 12,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "REGLEMENT N°2018-02 DU 04 NOVEMBRE 2018 PORTANT CONDITIONS D’EXERCICE DES OPERATIONS DE BANQUE RELEVANT DE LA FINANCE PARTICIPATIVE PAR LES BANQUES ET ETABLISSEMENTS FINANCIERS",
+  "alias_urls": [
+    {
+      "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement201802.pdf",
+      "source_url": "https://www.bank-of-algeria.dz/reglement-2018/",
+      "title": "Règlement n°2018-02 du 4 novembre 2018 portant conditions d’exercice des opérations de banque relevant de la finance participative par les banques et établissements financiers."
+    }
+  ],
+  "text_hash": "1cfda4cb19fdfe580455a0d28cee975e4f69f0e49b620dc6736744c68f3dc455",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [
+    {
+      "work_id": "REG-20-02",
+      "document_id": "REG-20-02.fr",
+      "date": "2020-03-15",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 5,
+        "quote": "Le présent règlement abroge les dispositions du règlement n°18-02 du 26 Safar 1440 correspondant au 4 novembre 2018, porta"
+      }
+    }
+  ],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "REG-20-02",
+      "document_id": "REG-20-02.fr",
+      "date": "2020-03-15",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 5,
+        "quote": "Le présent règlement abroge les dispositions du règlement n°18-02 du 26 Safar 1440 correspondant au 4 novembre 2018, porta"
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [
+    "REG-18-02.ar"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [
+    {
+      "work_id": "REG-20-02",
+      "document_id": "REG-20-02.fr",
+      "date": "2020-03-15",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 5,
+        "quote": "Le présent règlement abroge les dispositions du règlement n°18-02 du 26 Safar 1440 correspondant au 4 novembre 2018, porta"
+      }
+    }
+  ],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "REGLEMENT N°2018-02 DU 04 NOVEMBRE 2018 PORTANT CONDITIONS\nD’EXERCICE DES OPERATIONS DE BANQUE RELEVANT DE LA FINANCE\nPARTICIPATIVE PAR LES BANQUES ET ETABLISSEMENTS FINANCIERS\nLe Gouverneur de la Banque d'Algérie ;\n- Vu l’Ordonnance n°75-58 du 20 ramadhan 1395 correspondant au 26 septembre 1975, modifiée et complété, portant code civil :\n- Vu l’Ordonnance n°75-59 du 20 ramadhan 1395 correspondant au 26 septembre 1975, modifiée et complétée, portant Code de Commerce ;\n- Vu l’Ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, modifiée et complétée, relative à la monnaie et au crédit et notamment les articles 66 à 69 ;\n- Vu la Loi n°05-01 du 27 Dhou El Hidja 1425 correspondant au 6 février 2005, modifiée et complétée, relative à la prévention et à la lutte contre le blanchiment d’argent et le financement du terrorisme ;\n- Vu l’Ordonnance n°96-09 du 10 juillet 1996 relative au crédit-bail, modifiée et complétée ;\n- Vu la Loi n°18-07 du 25 ramadhan 1439 correspondant au 10 juin 2018, relative à la protection des personnes physiques dans le traitement des données à caractère personnel ;\n- Vu le Décret Présidentiel du 24 Dhou El Kaâda 1424 correspondant au 14 janvier 2004 portant nomination des membres du conseil de la monnaie et du crédit de la Banque d’Algérie ;\n- Vu le Décret Présidentiel du 5 Joumada El Oula 1427 correspondant au 1er juin 2006 portant nomination d’un vice-gouverneur de la Banque d’Algérie ;\n- Vu le Décret Présidentiel du 24 Chaâbane 1437 correspondant au 31 mai 2016 portant nomination du Gouverneur de la Banque d’Algérie ;\n- Vu le Décret Présidentiel du 17 Safar 1438 correspondant au 17 novembre 2016 portant nomination de Vice-Gouverneurs de la Banque d’Algérie ;\n- Vu le Règlement n°04-03 du 4 mars 2004 relatif au système de garantie des dépôts bancaires modifié et complété par le règlement n°18-01 du 30 avril 2018 ;\n- Vu le Règlement n° 06-02 du 24 septembre 2006 fixant les conditions de constitution de banque et établissement financier et d’installation de succursale de banque et d’établissement financier étranger ;\n- Vu le Règlement n°09-04 du 23 juillet 2009 portant plan de comptes bancaire et règles comptables applicables aux banques et établissements financiers ;\n- Vu le Règlement n°11-08 du 28 novembre 2011 relatif au contrôle interne des banques et établissements financiers ;\n- Vu le Règlement n°12-03 du 28 novembre 2012 relatif à la prévention et à la lutte contre blanchiment d’argent et le financement du terrorisme ;\n- Vu le Règlement n°13-01 du 8 avril 2013 fixant les règles générales en matière de conditions de banque applicables aux opérations de banque ;\n- Après délibération du Conseil de la monnaie et du crédit en date du 04 novembre 2018 ;\nBANK OF ALGERIA\nPromulgue le règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°2018-02 DU 04 NOVEMBRE 2018 PORTANT CONDITIONS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "D’EXERCICE DES OPERATIONS DE BANQUE RELEVANT DE LA FINANCE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "PARTICIPATIVE PAR LES BANQUES ET ETABLISSEMENTS FINANCIERS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’Ordonnance n°75-58 du 20 ramadhan 1395 correspondant au 26 septembre 1975, modifiée et complété, portant code civil :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’Ordonnance n°75-59 du 20 ramadhan 1395 correspondant au 26 septembre 1975, modifiée et complétée, portant Code de Commerce ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’Ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, modifiée et complétée, relative à la monnaie et au crédit et notamment les articles 66 à 69 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la Loi n°05-01 du 27 Dhou El Hidja 1425 correspondant au 6 février 2005, modifiée et complétée, relative à la prévention et à la lutte contre le blanchiment d’argent et le financement du terrorisme ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’Ordonnance n°96-09 du 10 juillet 1996 relative au crédit-bail, modifiée et complétée ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la Loi n°18-07 du 25 ramadhan 1439 correspondant au 10 juin 2018, relative à la protection des personnes physiques dans le traitement des données à caractère personnel ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 24 Dhou El Kaâda 1424 correspondant au 14 janvier 2004 portant nomination des membres du conseil de la monnaie et du crédit de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 5 Joumada El Oula 1427 correspondant au 1er juin 2006 portant nomination d’un vice-gouverneur de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 24 Chaâbane 1437 correspondant au 31 mai 2016 portant nomination du Gouverneur de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 17 Safar 1438 correspondant au 17 novembre 2016 portant nomination de Vice-Gouverneurs de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Règlement n°04-03 du 4 mars 2004 relatif au système de garantie des dépôts bancaires modifié et complété par le règlement n°18-01 du 30 avril 2018 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Règlement n° 06-02 du 24 septembre 2006 fixant les conditions de constitution de banque et établissement financier et d’installation de succursale de banque et d’établissement financier étranger ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Règlement n°09-04 du 23 juillet 2009 portant plan de comptes bancaire et règles comptables applicables aux banques et établissements financiers ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Règlement n°11-08 du 28 novembre 2011 relatif au contrôle interne des banques et établissements financiers ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Règlement n°12-03 du 28 novembre 2012 relatif à la prévention et à la lutte contre blanchiment d’argent et le financement du terrorisme ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Règlement n°13-01 du 8 avril 2013 fixant les règles générales en matière de conditions de banque applicables aux opérations de banque ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Après délibération du Conseil de la monnaie et du crédit en date du 04 novembre 2018 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le règlement dont la teneur suit :",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le présent règlement a pour objet de définir les règles applicables aux produits dits «participatifs» ne donnant pas lieu à perception ou versement d'intérêt.\nIl a pour objet, également, de définir les conditions d’autorisation préalable, par la\nBanque d’Algérie, des opérations de banque relevant de la finance participative, des banques et établissements financiers agréés.",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement a pour objet de définir les règles applicables aux produits dits «participatifs» ne donnant pas lieu à perception ou versement d'intérêt.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Il a pour objet, également, de définir les conditions d’autorisation préalable, par la",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Banque d’Algérie, des opérations de banque relevant de la finance participative, des banques et établissements financiers agréés.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Au sens du présent règlement, sont considérées des opérations de banque relevant de la finance participative, toutes opérations des banques et établissements financiers s’inscrivant dans les catégories d’opérations visées par les articles 66 à 69 de l’Ordonnance n°03-11, modifiée et complétée, relative à la monnaie et au crédit, à savoir, les opérations de réception des fonds, de placement, de financement et d’investissement, qui ne donnent pas lieu à la perception ou au versement d’intérêts. Ces opérations concernent, notamment, les catégories de produits ci-après :\n- la Mourabaha,\n- la Moucharaka,\n- la Moudaraba,\n- l'Ijara,\n- l'Istisna’a,\n- le Salam,\nAinsi que les dépôts en comptes d’investissement.\nCes produits de finance participative sont soumis aux dispositions de l’article 3 du règlement n°13-01 du 8 avril 2013 fixant les règles générales applicables aux opérations de banque.",
+      "paragraphs": [
+        {
+          "text": "Au sens du présent règlement, sont considérées des opérations de banque relevant de la finance participative, toutes opérations des banques et établissements financiers s’inscrivant dans les catégories d’opérations visées par les articles 66 à 69 de l’Ordonnance n°03-11, modifiée et complétée, relative à la monnaie et au crédit, à savoir, les opérations de réception des fonds, de placement, de financement et d’investissement, qui ne donnent pas lieu à la perception ou au versement d’intérêts. Ces opérations concernent, notamment, les catégories de produits ci-après :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- la Mourabaha,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- la Moucharaka,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- la Moudaraba,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- l'Ijara,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- l'Istisna’a,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- le Salam,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Ainsi que les dépôts en comptes d’investissement.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Ces produits de finance participative sont soumis aux dispositions de l’article 3 du règlement n°13-01 du 8 avril 2013 fixant les règles générales applicables aux opérations de banque.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "La banque ou l’établissement financier agréé en activité, désirant mettre en place des produits de finance participative, doit produire, à l’appui de la demande d’autorisation préalable adressée à la Banque d’Algérie, les éléments d’information ci-après :\n- la fiche descriptive du produit ;\n- l’avis du responsable du contrôle de la conformité de la banque ou l’établissement financier, conformément aux dispositions de l’article 25 du règlement n°11-08 sus visé ;\n- la procédure à suivre pour assurer l’indépendance administrative et financière du « Guichet finance participative » par rapport au reste des activités de la banque ou de l’établissement financier, conformément aux dispositions des articles 5, 6 et 7 ci-dessous.",
+      "paragraphs": [
+        {
+          "text": "La banque ou l’établissement financier agréé en activité, désirant mettre en place des produits de finance participative, doit produire, à l’appui de la demande d’autorisation préalable adressée à la Banque d’Algérie, les éléments d’information ci-après :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- la fiche descriptive du produit ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- l’avis du responsable du contrôle de la conformité de la banque ou l’établissement financier, conformément aux dispositions de l’article 25 du règlement n°11-08 sus visé ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- la procédure à suivre pour assurer l’indépendance administrative et financière du « Guichet finance participative » par rapport au reste des activités de la banque ou de l’établissement financier, conformément aux dispositions des articles 5, 6 et 7 ci-dessous.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Après obtention de l’autorisation préalable de la banque d’Algérie, les banques et établissements financiers agréés, désireux d’obtenir pour leurs produits, une certification de conformité aux préceptes de la charia, doivent soumettre lesdits produits à l’appréciation de l’organe national dûment habilité.",
+      "paragraphs": [
+        {
+          "text": "Après obtention de l’autorisation préalable de la banque d’Algérie, les banques et établissements financiers agréés, désireux d’obtenir pour leurs produits, une certification de conformité aux préceptes de la charia, doivent soumettre lesdits produits à l’appréciation de l’organe national dûment habilité.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Il est entendu par « Guichet finance participative », un département au sein d’une banque ou d’un établissement financier agréée, qui fournit exclusivement des services et des produits de finance participative, objet de ce règlement.\nLe « Guichet finance participative » doit être financièrement indépendant par rapport aux autres départements et branches de la banque et de l'établissement financier.\nLa séparation comptable entre le « Guichet finance participative » et les autres activités de la banque ou de l’établissement financier, est concrétisée par l’indépendance des comptes clients du «Guichet finance participative» par rapport au reste des comptes de leur clientèle.\nL’existence d’une section comptable ou d’un département financier propre au « Guichet finance participative » a pour principal objectif, l’établissement des états financiers dédiés, y compris l’établissement d’un bilan faisant apparaître l’actif et le passif du «\nGuichet finance participative » ainsi qu’un état détaillé des revenus et des dépenses y afférents.",
+      "paragraphs": [
+        {
+          "text": "Il est entendu par « Guichet finance participative », un département au sein d’une banque ou d’un établissement financier agréée, qui fournit exclusivement des services et des produits de finance participative, objet de ce règlement.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Le « Guichet finance participative » doit être financièrement indépendant par rapport aux autres départements et branches de la banque et de l'établissement financier.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "La séparation comptable entre le « Guichet finance participative » et les autres activités de la banque ou de l’établissement financier, est concrétisée par l’indépendance des comptes clients du «Guichet finance participative» par rapport au reste des comptes de leur clientèle.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "L’existence d’une section comptable ou d’un département financier propre au « Guichet finance participative » a pour principal objectif, l’établissement des états financiers dédiés, y compris l’établissement d’un bilan faisant apparaître l’actif et le passif du «",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Guichet finance participative » ainsi qu’un état détaillé des revenus et des dépenses y afférents.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "L’indépendance du «Guichet finance participative» par rapport à l’organisation de la banque ou de l’établissement financier est assurée par une organisation et un personnel exclusivement dédié.",
+      "paragraphs": [
+        {
+          "text": "L’indépendance du «Guichet finance participative» par rapport à l’organisation de la banque ou de l’établissement financier est assurée par une organisation et un personnel exclusivement dédié.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "En cas de pluralité de «Guichet finance participative» au sein d’une même banque ou d’un même établissement financier agréé, ces «Guichets finance participative»\ndoivent être traités comme étant une seule entité.\nUn état financier consolidé sera établi et figurera en annexe des états financiers publiables de la banque ou de l’établissement financier concerné.",
+      "paragraphs": [
+        {
+          "text": "En cas de pluralité de «Guichet finance participative» au sein d’une même banque ou d’un même établissement financier agréé, ces «Guichets finance participative»",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "doivent être traités comme étant une seule entité.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Un état financier consolidé sera établi et figurera en annexe des états financiers publiables de la banque ou de l’établissement financier concerné.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Les banques et établissements financiers ayant reçu l’autorisation préalable pour commercialiser ces produits, doivent informer leur clientèle des barèmes et des conditions minimales et maximales qui leur sont applicables.\nLes banques doivent également informer les déposants, en particulier ceux titulaires des comptes d’investissement, sur la nature de leurs comptes.",
+      "paragraphs": [
+        {
+          "text": "Les banques et établissements financiers ayant reçu l’autorisation préalable pour commercialiser ces produits, doivent informer leur clientèle des barèmes et des conditions minimales et maximales qui leur sont applicables.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Les banques doivent également informer les déposants, en particulier ceux titulaires des comptes d’investissement, sur la nature de leurs comptes.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Les dépôts de fonds reçus par les «Guichet finance participative» sont régis par les dispositions de l’Ordonnance n°03-11 sus visée, à l’exclusion des dépôts en compte d’investissement qui sont soumis à un accord écrit conclu avec le client, autorisant la banque à fructifier ses dépôts dans le portefeuille des projets et opérations du «Guichet finance participative» que la banque accepte de financer.\nLe déposant ouvre droit à une part des bénéfices dégagés par le «Guichet finance participative» et supporte une part des pertes éventuelles enregistrées par le «Guichet finance participative» dans les financements engagés par la banque.",
+      "paragraphs": [
+        {
+          "text": "Les dépôts de fonds reçus par les «Guichet finance participative» sont régis par les dispositions de l’Ordonnance n°03-11 sus visée, à l’exclusion des dépôts en compte d’investissement qui sont soumis à un accord écrit conclu avec le client, autorisant la banque à fructifier ses dépôts dans le portefeuille des projets et opérations du «Guichet finance participative» que la banque accepte de financer.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Le déposant ouvre droit à une part des bénéfices dégagés par le «Guichet finance participative» et supporte une part des pertes éventuelles enregistrées par le «Guichet finance participative» dans les financements engagés par la banque.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Les dépôts et autres sommes assimilables aux dépôts remboursables collectés par les «Guichets finance participative» des banques, à l’exclusion des dépôts en comptes d’investissement, sont couverts par les dispositions du règlement n°04-03 du 4 mars 2004 modifié et complété par le règlement n°18-01 du 30 avril 2018 relatif au système de garantie des dépôts bancaires.",
+      "paragraphs": [
+        {
+          "text": "Les dépôts et autres sommes assimilables aux dépôts remboursables collectés par les «Guichets finance participative» des banques, à l’exclusion des dépôts en comptes d’investissement, sont couverts par les dispositions du règlement n°04-03 du 4 mars 2004 modifié et complété par le règlement n°18-01 du 30 avril 2018 relatif au système de garantie des dépôts bancaires.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "En sus des dispositions du présent règlement et sauf stipulations contraires, les produits de finance participative sont régis par toutes les dispositions légales et réglementaires relatives aux banques et établissements financiers.",
+      "paragraphs": [
+        {
+          "text": "En sus des dispositions du présent règlement et sauf stipulations contraires, les produits de finance participative sont régis par toutes les dispositions légales et réglementaires relatives aux banques et établissements financiers.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Le présent règlement sera publié au Journal officiel de la République\nAlgérienne Démocratique et Populaire.\nLe Gouverneur\nMohamed LOUKAL",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement sera publié au Journal officiel de la République",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Algérienne Démocratique et Populaire.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Mohamed LOUKAL",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.039
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-18-02.fr.txt"
+}

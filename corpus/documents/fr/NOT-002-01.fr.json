@@ -1,0 +1,326 @@
+{
+  "document_id": "NOT-002-01.fr",
+  "work_id": "NOT-002-01",
+  "title": "Note DGRFE n°02-2001 du 29 août 2001 relative à l’utilisation de l’euro.",
+  "document_type": "note",
+  "type_code": "NOT",
+  "type_source": "label",
+  "number": "002-2001",
+  "number_source": "en-tête du document",
+  "date": "2001-08-29",
+  "date_raw": "N°002-2001 DU 29 AOUT 2001",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-05",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "notes_aux_banques",
+  "subcategory": "Année 2001",
+  "source_url": "https://www.bank-of-algeria.dz/les-notes-aux-banques-2001/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/05/note022001_dgrfe.pdf",
+  "format": "pdf",
+  "file_hash": "cde8ffe419f4f09e20de8bb0f1e2071e70e9e4c23d5b384646774cde590ca6e2",
+  "file_size": 66934,
+  "raw_path": "raw/cde8ffe419f4__note022001_dgrfe.pdf",
+  "retrieved_at": "2026-10-05T13:23:46+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "8785436055bb8e851964b6ed62ade56888638f20a7c89addac76025b26d2b654",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/les-notes-aux-banques-2001/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document1",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210228114121+01'00'",
+    "modDate": "D:20210228114121+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2505,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 1893,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 0,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "incoherence_libelle_vs_document:numero"
+  ],
+  "title_document": "NOTE DGRFE N°002-2001 DU 29 AOUT 2001 AUX BANQUES ET ETABLISSEMENTS FINANCIERS L'utilisation de l'euro sera généralisée dès le début de janvier 2002. Il en découlera deux conséquences majeures :",
+  "label_number": "02-2001",
+  "alias_urls": [],
+  "text_hash": "cc52a0700b802fa646c6f4a693017fc6d5742f324173cf36fc207d6f118f6bbd",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "NOTE DGRFE N°002-2001 DU 29 AOUT 2001\nAUX BANQUES ET ETABLISSEMENTS FINANCIERS\nL'utilisation de l'euro sera généralisée dès le début de janvier 2002. Il en découlera deux conséquences majeures :\n- les monnaies nationales actuelles des douze pays ayant adopté l'euro (cf. annexe)\nne seront plus utilisées dans les transactions commerciales et financières internationales dès le début de l'année prochaine,\n- l'euro fiduciaire (billet de banque et pièces de monnaie) remplacera progressivement les monnaies sus mentionnées. Ces dernières seront retirées définitivement de la circulation au plus tard le 30 juin 2002.\nDans cette optique, les comptes devises tenus aux noms des banques et établissements financiers sur les livres de la Banque d'Algérie, dans les monnaies appelées à être retirées de la circulation seront convertis en euro, sans avis préalable, au cours du mois d'octobre.\nEn ce qui les concerne, les banques et les établissements financiers sont invités à prendre les mesures suivantes :\nA - Contrats Commerciaux et Financiers\n- Eviter de libeller, à compter du mois de septembre 2001, toute nouvelle transaction commerciale ou financière dans les monnaies qui devront être retirées de la circulation et sensibiliser leur clientèle d'en faire autant.\n- Entamer dès septembre 2001, un processus de conversion en euro de tous les contrats commerciaux et financiers existants, et inciter leur clientèle à en faire autant. Ce processus doit s'achever, au plus tard, le 30 novembre prochain.\nB - Comptes Devises\n- Convertir en euro les comptes des personnes morales libellés dans les monnaies sus citées au plus tard fin octobre. La conversion des comptes des personnes physiques libellés dans les mêmes monnaies, doit s'effectuer au cours du dernier trimestre de l'année en cours.\nToutes les opérations de conversion en euro doivent s'effectuer impérativement sur la base des taux fixes arrêtés par la Commission européenne.\nToute opération de conversion en euro, d'un compte devise doit être suivie par l'envoi à son titulaire d'une correspondance faisant ressortir le solde dans la monnaie originelle, le taux de conversion utilisé et le nouveau solde en euro.\n- Satisfaire toutes les demandes d'ouverture de nouveaux comptes devises en euro.\n- Continuer à accepter l'alimentation par les monnaies devant être remplacées par l'euro des comptes tenus dans ces mêmes monnaies, jusqu'à la date de leur conversion en\nBANK OF ALGERIA\nEuro. Lorsque cette alimentation s'effectue dans une monnaie différente de celle dans laquelle le compte est tenu, la conversion doit se faire au taux fixe arrêté par la\nCommission européenne en passant obligatoirement par l'euro.\nExemple : un compte devise en francs français est alimenté par 1000 deutschemark.\nLe montant à inscrire au crédit du compte en franc français sera calculé comme suit :\na)- Conversion en euro du montant en deutschemark : 1000/1.95583 = euro 511,29 b)- Conversion en francs français du montant en euro : 511,29 * 6,55957 = 3.353,84\n- Continuer à accepter les retraits de monnaies appelées à être remplacées par l'euro dans les mêmes conditions que pour l'alimentation des comptes devises décrite cidessus.\n- Continuer à accepter les opérations de retrait et d'alimentation dans les monnaies appelées à être retirées de la circulation, sur les comptes en euro jusqu'au 30 janvier 2002.",
+      "paragraphs": [
+        {
+          "text": "NOTE DGRFE N°002-2001 DU 29 AOUT 2001",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AUX BANQUES ET ETABLISSEMENTS FINANCIERS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L'utilisation de l'euro sera généralisée dès le début de janvier 2002. Il en découlera deux conséquences majeures :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- les monnaies nationales actuelles des douze pays ayant adopté l'euro (cf. annexe)",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ne seront plus utilisées dans les transactions commerciales et financières internationales dès le début de l'année prochaine,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- l'euro fiduciaire (billet de banque et pièces de monnaie) remplacera progressivement les monnaies sus mentionnées. Ces dernières seront retirées définitivement de la circulation au plus tard le 30 juin 2002.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Dans cette optique, les comptes devises tenus aux noms des banques et établissements financiers sur les livres de la Banque d'Algérie, dans les monnaies appelées à être retirées de la circulation seront convertis en euro, sans avis préalable, au cours du mois d'octobre.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "En ce qui les concerne, les banques et les établissements financiers sont invités à prendre les mesures suivantes :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "A - Contrats Commerciaux et Financiers",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Eviter de libeller, à compter du mois de septembre 2001, toute nouvelle transaction commerciale ou financière dans les monnaies qui devront être retirées de la circulation et sensibiliser leur clientèle d'en faire autant.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Entamer dès septembre 2001, un processus de conversion en euro de tous les contrats commerciaux et financiers existants, et inciter leur clientèle à en faire autant. Ce processus doit s'achever, au plus tard, le 30 novembre prochain.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "B - Comptes Devises",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Convertir en euro les comptes des personnes morales libellés dans les monnaies sus citées au plus tard fin octobre. La conversion des comptes des personnes physiques libellés dans les mêmes monnaies, doit s'effectuer au cours du dernier trimestre de l'année en cours.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Toutes les opérations de conversion en euro doivent s'effectuer impérativement sur la base des taux fixes arrêtés par la Commission européenne.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Toute opération de conversion en euro, d'un compte devise doit être suivie par l'envoi à son titulaire d'une correspondance faisant ressortir le solde dans la monnaie originelle, le taux de conversion utilisé et le nouveau solde en euro.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Satisfaire toutes les demandes d'ouverture de nouveaux comptes devises en euro.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Continuer à accepter l'alimentation par les monnaies devant être remplacées par l'euro des comptes tenus dans ces mêmes monnaies, jusqu'à la date de leur conversion en",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Euro. Lorsque cette alimentation s'effectue dans une monnaie différente de celle dans laquelle le compte est tenu, la conversion doit se faire au taux fixe arrêté par la",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Commission européenne en passant obligatoirement par l'euro.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Exemple : un compte devise en francs français est alimenté par 1000 deutschemark.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le montant à inscrire au crédit du compte en franc français sera calculé comme suit :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "a)- Conversion en euro du montant en deutschemark : 1000/1.95583 = euro 511,29 b)- Conversion en francs français du montant en euro : 511,29 * 6,55957 = 3.353,84",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Continuer à accepter les retraits de monnaies appelées à être remplacées par l'euro dans les mêmes conditions que pour l'alimentation des comptes devises décrite cidessus.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Continuer à accepter les opérations de retrait et d'alimentation dans les monnaies appelées à être retirées de la circulation, sur les comptes en euro jusqu'au 30 janvier 2002.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "C",
+          "heading": "Opérations de transfert et rapatriement",
+          "label": "Section C"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "- Faire apparaître à compter du 15 octobre 2001, sur tous les dossiers de transfert et de rapatriement libellés dans les monnaies devant être retirées de la circulation, le montant initial, la contre-valeur en euro et le taux fixe de conversion utilisé.\nD - Opérations interbancaires sur le marché des changes\n- Se préparer à réaliser à compter du 15 octobre 2001, toutes les opérations interbancaires de change impliquant l'une des monnaies devant être retirées de la circulation, sur la base de la contre-valeur en euro.\nExemple : La Banque Extérieure d'Algérie désire acheter FRF 1000 chez la Banque d'Algérie contre des dinars. Cette transaction doit se dérouler comme suit :\na)- Conversion au niveau de la BEA des francs en euro : 1000/6,55957 = euro 152,45 b)- Achat d'euros auprès de la Banque d'Algérie : 152,45* (cours vente euro/DA).\nLe Directeur Général\nAmmar HIOUANI",
+      "paragraphs": [
+        {
+          "text": "- Faire apparaître à compter du 15 octobre 2001, sur tous les dossiers de transfert et de rapatriement libellés dans les monnaies devant être retirées de la circulation, le montant initial, la contre-valeur en euro et le taux fixe de conversion utilisé.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "D - Opérations interbancaires sur le marché des changes",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Se préparer à réaliser à compter du 15 octobre 2001, toutes les opérations interbancaires de change impliquant l'une des monnaies devant être retirées de la circulation, sur la base de la contre-valeur en euro.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Exemple : La Banque Extérieure d'Algérie désire acheter FRF 1000 chez la Banque d'Algérie contre des dinars. Cette transaction doit se dérouler comme suit :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "a)- Conversion au niveau de la BEA des francs en euro : 1000/6,55957 = euro 152,45 b)- Achat d'euros auprès de la Banque d'Algérie : 152,45* (cours vente euro/DA).",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Directeur Général",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Ammar HIOUANI",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "incoherence_libelle_vs_document:numero"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.037
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/NOT-002-01.fr.txt"
+}

@@ -1,0 +1,548 @@
+{
+  "document_id": "REG-16-01.ar",
+  "work_id": "REG-16-01",
+  "title": "نظام رقم 16-01 المؤرخ في 06 مارس 2016، يعدل ويتمم النظام رقم 07-01 المؤرخ في 3 فبراير سنة 2007 والمتعلق بالقواعد المطبقة على المعاملات الجارية مع الخارج والحسابات بالعملة الصعبة.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "16-01",
+  "number_source": "libelle",
+  "date": "2016-03-06",
+  "date_raw": "المؤرخ في 06 مارس 2016",
+  "date_source": "libelle",
+  "publication_date": "2023-02-28",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "règlements",
+  "subcategory": "تنظيم الصرف",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%aa%d9%86%d8%b8%d9%8a%d9%85-%d8%a7%d9%84%d8%b5%d8%b1%d9%81-2/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/02/01-2016.pdf",
+  "format": "pdf",
+  "file_hash": "72933b53b6782a18c1529a351ba14e4727c989c876f14460433c8a138a252b6a",
+  "file_size": 227859,
+  "raw_path": "raw/72933b53b678__01-2016.pdf",
+  "retrieved_at": "2026-10-05T13:27:36+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 2,
+  "url_hash": "f86103a5adac4f34a8a01baaebb199f681ef33c7bd17ff15ecb014ba343b5871",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%aa%d9%86%d8%b8%d9%8a%d9%85-%d8%a7%d9%84%d8%b5%d8%b1%d9%81-2/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document2",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20230228092012+01'00'",
+    "modDate": "D:20230228092012+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 2360,
+        "ocr_confidence": 79.77427184466019
+      },
+      {
+        "page": 2,
+        "method": "ocr",
+        "chars": 1105,
+        "ocr_confidence": 84.94554455445545
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 3,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine",
+    "numerotation:articles_manquants:[2]"
+  ],
+  "title_document": "نظام رم 01-16 مؤْرخ في 26 جمادى الآولى عام 1437 الموافق 6 مارس سنة 2016: Jus‏ ويتمم النظام رقم 01-07 المؤرخ في 15 مهرم عام 1428 الموافق 3 فبراير سنة 2007 والمتعلق بالقواعد المطبقة على المعاملات الجارية مع الشارج والحسابات بالمملة الصعية. 5 محافظ بنك الجزائر: -بعمقتضى الأمر رقم59-735 المؤرخ في 20",
+  "alias_urls": [],
+  "text_hash": "504598640f931badd9b9c9f4bb481ca5315cbbd83ab1040d74fbc25e08b3468f",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "2007-01",
+        "date": "2007-02-03",
+        "raw": "règlement n°2007-01 du 3 février 2007"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2016-01 du 6 mars 2016 modifiant et complétant le règlement n°2007-01 du 3 février 2007 relatif aux règles applicables aux tran",
+        "copied_from": "REG-16-01.fr"
+      },
+      "target_work_id": "REG-07-01"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "2007-01",
+        "date": "2007-02-03",
+        "raw": "règlement n°2007-01 du 3 février 2007"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2016-01 du 6 mars 2016 modifiant et complétant le règlement n°2007-01 du 3 février 2007 relatif aux règles applicables aux tran",
+        "copied_from": "REG-16-01.fr"
+      },
+      "target_work_id": "REG-07-01"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "07-01",
+        "date": "2007-02-03",
+        "raw": "REGLEMENT N°07-01 DU 3 FEVRIER 2007"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "REGLEMENT N°2016-01 DU 6 MARS 2016 MODIFIANT ET COMPLETANT LE REGLEMENT N°07-01 DU 3 FEVRIER 2007 RELATIF AUX REGLES APPLICABLES AUX TRAN",
+        "copied_from": "REG-16-01.fr"
+      },
+      "target_work_id": "REG-07-01"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "07-01",
+        "date": "2007-02-03",
+        "raw": "REGLEMENT N°07-01 DU 3 FEVRIER 2007"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "REGLEMENT N°2016-01 DU 6 MARS 2016 MODIFIANT ET COMPLETANT LE REGLEMENT N°07-01 DU 3 FEVRIER 2007 RELATIF AUX REGLES APPLICABLES AUX TRAN",
+        "copied_from": "REG-16-01.fr"
+      },
+      "target_work_id": "REG-07-01"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "07-01",
+        "date": null,
+        "raw": "règlement n° 07-01 du 15 Moharram 1428"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007, modifi",
+        "copied_from": "REG-16-01.fr"
+      },
+      "target_work_id": "REG-07-01"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "07-01",
+        "date": null,
+        "raw": "règlement n° 07-01 du 15 Moharram 1428"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007, modifi",
+        "copied_from": "REG-16-01.fr"
+      },
+      "target_work_id": "REG-07-01"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n°2007-01 du 3 février 2007",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2016-01 du 6 mars 2016 modifiant et complétant le règlement n°2007-01 du 3 février 2007 relatif aux règles applicables aux tran",
+        "copied_from": "REG-16-01.fr"
+      }
+    },
+    {
+      "work_id": "REG-07-01",
+      "reference": "REGLEMENT N°07-01 DU 3 FEVRIER 2007",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "REGLEMENT N°2016-01 DU 6 MARS 2016 MODIFIANT ET COMPLETANT LE REGLEMENT N°07-01 DU 3 FEVRIER 2007 RELATIF AUX REGLES APPLICABLES AUX TRAN",
+        "copied_from": "REG-16-01.fr"
+      }
+    },
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n° 07-01 du 15 Moharram 1428",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007, modifi",
+        "copied_from": "REG-16-01.fr"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n°2007-01 du 3 février 2007",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2016-01 du 6 mars 2016 modifiant et complétant le règlement n°2007-01 du 3 février 2007 relatif aux règles applicables aux tran",
+        "copied_from": "REG-16-01.fr"
+      }
+    },
+    {
+      "work_id": "REG-07-01",
+      "reference": "REGLEMENT N°07-01 DU 3 FEVRIER 2007",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "REGLEMENT N°2016-01 DU 6 MARS 2016 MODIFIANT ET COMPLETANT LE REGLEMENT N°07-01 DU 3 FEVRIER 2007 RELATIF AUX REGLES APPLICABLES AUX TRAN",
+        "copied_from": "REG-16-01.fr"
+      }
+    },
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n° 07-01 du 15 Moharram 1428",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007, modifi",
+        "copied_from": "REG-16-01.fr"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-16-01.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n°2007-01 du 3 février 2007",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2016-01 du 6 mars 2016 modifiant et complétant le règlement n°2007-01 du 3 février 2007 relatif aux règles applicables aux tran",
+        "copied_from": "REG-16-01.fr"
+      }
+    },
+    {
+      "work_id": "REG-07-01",
+      "reference": "REGLEMENT N°07-01 DU 3 FEVRIER 2007",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "REGLEMENT N°2016-01 DU 6 MARS 2016 MODIFIANT ET COMPLETANT LE REGLEMENT N°07-01 DU 3 FEVRIER 2007 RELATIF AUX REGLES APPLICABLES AUX TRAN",
+        "copied_from": "REG-16-01.fr"
+      }
+    },
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n° 07-01 du 15 Moharram 1428",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007, modifi",
+        "copied_from": "REG-16-01.fr"
+      }
+    }
+  ],
+  "ocr_numeric_check": {
+    "units": 4,
+    "units_flagged": 0,
+    "units_compared_with_french": 3,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "نظام رم 01-16 مؤْرخ في 26 جمادى الآولى عام 1437 الموافق 6 مارس سنة 2016: Jus‏ ويتمم النظام رقم 01-07 المؤرخ في 15 مهرم عام 1428 الموافق 3 فبراير سنة 2007 والمتعلق بالقواعد المطبقة على المعاملات الجارية مع الشارج والحسابات بالمملة الصعية.\n5 محافظ بنك الجزائر:\n-بعمقتضى الأمر رقم59-735 المؤرخ في 20 رمضان عام 1395 الموافق 26 سبتهبر سسنة 1975 ويمقتضى القانون رفم 79 -/0 المؤرخ في 26 شعبان عام 1399 الموافق 21 gel gui‏ سئة 1979 والمتضمن قانون الجمارك. المعدل والمتمم.\nواللتضمن قانون المالية لسنة 1985 المعدل والمتهم, لاسيما SSL‏ 85 مثة:\n19 ضى الأمر رقم 96 -09 المؤرح فى‎ 5 à ns شعبان عام 1416 الموافق 10 يناير سنة 1996 والمتعلق‎ بالاعتماد الإيجاري,‎ وبمقتضى الأمر رقم 22-96 المؤرخ في 23 صفر عام 1417 الموافق 9 يوليو 1996 والمتعلق بقمع مخالفة التشريع والتنظيم الخاصين بالصرف وحركة رؤوس الأموال من وإلى الخار cg‏ المعدل والمتمم, وبعقتضى الأمر رقم 03-01 المؤرخ في أول جمادى الثائية عام 1422 الموافق 20 غشت سنة 2001 والمتعلق بتنمية الاستثمار , المعدل والمتصم.\nوبمقتضى الأمر رقم 04-03 المؤرخ في 19 جمادى الأولى عام 1424 الموافق 19 يوليو سنة 2003 والمتعلق وتصديرهاء المعدل والتمم:\nالثانية عاع 1424 الموافق 26 غشت سنة 2003 والمتعلق بالنقد والقرض:المعدل والمتهدم. لا سيماالموار 35و62 [(النقطة ع) و 127 منة:\nوبمقتضى القانون رقم 05 01 المؤرخ في 327 الحجة عام 1425 الموافق 6 فبراير سنة 2005 والمتعلق بالوقاية من تببيض الأموال Lans‏ الإر هاب ومكافحتهما. المعدل والمتمم, ويمة ت ضى الأمر رقم 05 5 المؤرخ في 18 والتضمن قائون المالية التكميلي لسنة 2005 ويمقفتضى القانون رهم 05 07 المؤرخ في 19 والمتعلق بالحروقات: المعدل والمتمم.\nوبمقتضى المرسوم الرئاسي المؤرخ في 10 رببع الأول عام 1422 الموافق 2 بونبو سستة 2001 والمتضمن تعيس المحافظ وئواب المحافظ لبنك الحزائر:\nالقعدة عام 1424 الموافق 14 يناير سنة 2004 والملتضمن الأولى عام 1427 الموافق أول يونيو سنة 2006 والملتضمن وبمقتضى المرسوم الرئاسي المؤرخ في 5 صفر تعبين أعضاء في مجلس إدارة بنك الجزائر:\nعام 1416 الموافق 23 ديسمبر سنة 1995 والمتعلق بسوق الصرف. لا سسما المانة 8 ds‏\n- وبمقمتضى النظام رقم 01-07 اللمؤرخ في 15 محرم عام 1428 الموافق 3 فبراير سنة 2007 والمتعلق بالقواعد المطبقة على المعاملات الجارية مع الخارج والحسابات بالعملة الصعبة:. المعدل والمتمم.\n.- وبمقتضى النظام رقم 03-12 المؤرخ في 14 ts ste‏ من تبييض الأموال وتهويل الإرضاب im y‏ الاطلاع على مداولات مجلس النقد والقرض بتاريخ 6 مارس Liu‏ 2016, يصدر النظام الآتي نصه :",
+      "paragraphs": [
+        {
+          "text": "نظام رم 01-16 مؤْرخ في 26 جمادى الآولى عام 1437 الموافق 6 مارس سنة 2016: Jus‏ ويتمم النظام رقم 01-07 المؤرخ في 15 مهرم عام 1428 الموافق 3 فبراير سنة 2007 والمتعلق بالقواعد المطبقة على المعاملات الجارية مع الشارج والحسابات بالمملة الصعية.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "5 محافظ بنك الجزائر:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-بعمقتضى الأمر رقم59-735 المؤرخ في 20 رمضان عام 1395 الموافق 26 سبتهبر سسنة 1975 ويمقتضى القانون رفم 79 -/0 المؤرخ في 26 شعبان عام 1399 الموافق 21 gel gui‏ سئة 1979 والمتضمن قانون الجمارك. المعدل والمتمم.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "واللتضمن قانون المالية لسنة 1985 المعدل والمتهم, لاسيما SSL‏ 85 مثة:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "19 ضى الأمر رقم 96 -09 المؤرح فى‎ 5 à ns شعبان عام 1416 الموافق 10 يناير سنة 1996 والمتعلق‎ بالاعتماد الإيجاري,‎ وبمقتضى الأمر رقم 22-96 المؤرخ في 23 صفر عام 1417 الموافق 9 يوليو 1996 والمتعلق بقمع مخالفة التشريع والتنظيم الخاصين بالصرف وحركة رؤوس الأموال من وإلى الخار cg‏ المعدل والمتمم, وبعقتضى الأمر رقم 03-01 المؤرخ في أول جمادى الثائية عام 1422 الموافق 20 غشت سنة 2001 والمتعلق بتنمية الاستثمار , المعدل والمتصم.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى الأمر رقم 04-03 المؤرخ في 19 جمادى الأولى عام 1424 الموافق 19 يوليو سنة 2003 والمتعلق وتصديرهاء المعدل والتمم:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الثانية عاع 1424 الموافق 26 غشت سنة 2003 والمتعلق بالنقد والقرض:المعدل والمتهدم. لا سيماالموار 35و62 [(النقطة ع) و 127 منة:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى القانون رقم 05 01 المؤرخ في 327 الحجة عام 1425 الموافق 6 فبراير سنة 2005 والمتعلق بالوقاية من تببيض الأموال Lans‏ الإر هاب ومكافحتهما. المعدل والمتمم, ويمة ت ضى الأمر رقم 05 5 المؤرخ في 18 والتضمن قائون المالية التكميلي لسنة 2005 ويمقفتضى القانون رهم 05 07 المؤرخ في 19 والمتعلق بالحروقات: المعدل والمتمم.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى المرسوم الرئاسي المؤرخ في 10 رببع الأول عام 1422 الموافق 2 بونبو سستة 2001 والمتضمن تعيس المحافظ وئواب المحافظ لبنك الحزائر:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "القعدة عام 1424 الموافق 14 يناير سنة 2004 والملتضمن الأولى عام 1427 الموافق أول يونيو سنة 2006 والملتضمن وبمقتضى المرسوم الرئاسي المؤرخ في 5 صفر تعبين أعضاء في مجلس إدارة بنك الجزائر:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "عام 1416 الموافق 23 ديسمبر سنة 1995 والمتعلق بسوق الصرف. لا سسما المانة 8 ds‏",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقمتضى النظام رقم 01-07 اللمؤرخ في 15 محرم عام 1428 الموافق 3 فبراير سنة 2007 والمتعلق بالقواعد المطبقة على المعاملات الجارية مع الخارج والحسابات بالعملة الصعبة:. المعدل والمتمم.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": ".- وبمقتضى النظام رقم 03-12 المؤرخ في 14 ts ste‏ من تبييض الأموال وتهويل الإرضاب im y‏ الاطلاع على مداولات مجلس النقد والقرض بتاريخ 6 مارس Liu‏ 2016, يصدر النظام الآتي نصه :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "يعدل هذا النظام ويتمم التظاءم رقم 01-7 المؤرخ في 15 محرعم عام 1428 الموافق 3 فبراير سنة 2007 والمتعلق بالقواعد المطبقة على المعاملات الجارية مع الخارج والحسابات بالعملة الصعبة. المعدل والمتمم.\nاللسادة 2 : تعدل المادة 21 من النظام رقم 01-07 المؤرخ في 15 محرع عام 1428 الموافق 3 فبراير سنة 7 والمذكور sole‏ وتحرر كما يأتي :\nحرة لدى الوسطاء المعتمدين و/أو لدى بنك الجزائر.\n— شراء مقابل العملة الوطنية للأوراق النقدية مقيمة بمفهوع المادة 2 من النظام رقم 01-07 المؤرخ في 5 محرع عام 1428 الموافق 3 فبراير سنة 2007 والمذكور أعاذة :\nالمحررة بالعملات الأجنبية القابلة للتحويل بصفة حرة لأشهخاص طبيعية غير مقيمة:؛ في حدود ما تبقى في حوزتهم من دنائير في نهاية إقامتهم في الجزائر",
+      "paragraphs": [
+        {
+          "text": "يعدل هذا النظام ويتمم التظاءم رقم 01-7 المؤرخ في 15 محرعم عام 1428 الموافق 3 فبراير سنة 2007 والمتعلق بالقواعد المطبقة على المعاملات الجارية مع الخارج والحسابات بالعملة الصعبة. المعدل والمتمم.",
+          "page_start": 1,
+          "page_end": 2
+        },
+        {
+          "text": "اللسادة 2 : تعدل المادة 21 من النظام رقم 01-07 المؤرخ في 15 محرع عام 1428 الموافق 3 فبراير سنة 7 والمذكور sole‏ وتحرر كما يأتي :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "حرة لدى الوسطاء المعتمدين و/أو لدى بنك الجزائر.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "— شراء مقابل العملة الوطنية للأوراق النقدية مقيمة بمفهوع المادة 2 من النظام رقم 01-07 المؤرخ في 5 محرع عام 1428 الموافق 3 فبراير سنة 2007 والمذكور أعاذة :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "المحررة بالعملات الأجنبية القابلة للتحويل بصفة حرة لأشهخاص طبيعية غير مقيمة:؛ في حدود ما تبقى في حوزتهم من دنائير في نهاية إقامتهم في الجزائر",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "يتممالنظام رقم 01-07 المؤرخ في 15 ههرم عام 1428 الموافق 3 فبراير سنة 2007 والمذكور أعلاه. بمادة 21 مكرر ومادة 21 مكرر 2 تحرران كما ياتي :\nأنشاه شخص طبيعي أو شخص معنوى مقيم وفقا للأشكال المنصوص علديها في القانون التجاري.\nومرخص به من طرف بنك الجزائر للقيام بالعمليات المذكورة في الفقرة 2 من المادة 21 أعلاه .\nالادة 21 مكرر 2 : تحدد تعليمة تصدر عن بنك",
+      "paragraphs": [
+        {
+          "text": "يتممالنظام رقم 01-07 المؤرخ في 15 ههرم عام 1428 الموافق 3 فبراير سنة 2007 والمذكور أعلاه. بمادة 21 مكرر ومادة 21 مكرر 2 تحرران كما ياتي :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "أنشاه شخص طبيعي أو شخص معنوى مقيم وفقا للأشكال المنصوص علديها في القانون التجاري.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "ومرخص به من طرف بنك الجزائر للقيام بالعمليات المذكورة في الفقرة 2 من المادة 21 أعلاه .",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "الادة 21 مكرر 2 : تحدد تعليمة تصدر عن بنك",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "ينشر هذا النظام في الجريدة الرسمية للجمهورية الجزائرية الديمقراطية الشعبية.\nحرر بالجزاشر في 26 جمادى الأولى عام 1437 الموافق 6 مار س ستة 2016.\neat محمد‎",
+      "paragraphs": [
+        {
+          "text": "ينشر هذا النظام في الجريدة الرسمية للجمهورية الجزائرية الديمقراطية الشعبية.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "حرر بالجزاشر في 26 جمادى الأولى عام 1437 الموافق 6 مار س ستة 2016.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "eat محمد‎",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine",
+      "numerotation:articles_manquants:[2]"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.029,
+      "ocr_pages": [
+        1,
+        2
+      ],
+      "ocr_mean_confidence": 82.4
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/REG-16-01.ar.txt"
+}

@@ -1,0 +1,468 @@
+{
+  "document_id": "INS-04-11.ar",
+  "work_id": "INS-04-11",
+  "title": "تعليمة رقم 04-2011 المؤرخة في 19 أكتوبر 2011، تعدل وتتمم التعليمة رقم 79-95 المؤرخة في 27 ديسمبر 1995، المتضمنة تنظيم وسير سوق الصرف ما بين المصارف.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "04-2011",
+  "number_source": "libelle",
+  "date": "2011-10-19",
+  "date_raw": "المؤرخة في 19 أكتوبر 2011",
+  "date_source": "libelle",
+  "publication_date": "2023-03-02",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "instructions",
+  "subcategory": "تنظيم و تسيير سوق الصرف ما بين المصارف",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%8a%d8%a7%d8%b7%d9%8a-%d8%a7%d9%84%d8%a5%d9%84%d8%b2%d8%a7%d9%85%d9%8a/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/03/11-04.pdf",
+  "format": "pdf",
+  "file_hash": "de1ad01c117201bda451421a6895bb856011b19a4791d629f9e8976ef0c6f1a4",
+  "file_size": 331140,
+  "raw_path": "raw/de1ad01c1172__11-04.pdf",
+  "retrieved_at": "2026-10-05T13:30:10+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 2,
+  "url_hash": "1db7c1833f86ae1252eafc0596fdcd085477252111a0d7c95145794cded258aa",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%8a%d8%a7%d8%b7%d9%8a-%d8%a7%d9%84%d8%a5%d9%84%d8%b2%d8%a7%d9%85%d9%8a/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "producer": "Epson Scan 2",
+    "creationDate": "D:20230301095353+01'00'",
+    "modDate": "D:20230301095353+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 1025,
+        "ocr_confidence": 88.80113636363636
+      },
+      {
+        "page": 2,
+        "method": "ocr",
+        "chars": 338,
+        "ocr_confidence": 87.4920634920635
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 7,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine",
+    "numerotation:articles_manquants:[5, 7]"
+  ],
+  "title_document": null,
+  "alias_urls": [],
+  "text_hash": "6f386455cf2b9d02024bcad2a386e63e0b5e0c7f6c9f8db491e4d1bebcf16c75",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "79-95",
+        "date": "1995-12-27",
+        "raw": "instruction n°79-95 du 27 décembre 1995"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°04-2011 du 19 octobre 2011 modifiant et complétant l’instruction n°79-95 du 27 décembre 1995 portant organisation et fonctionnement",
+        "copied_from": "INS-04-11.fr"
+      },
+      "target_work_id": "INS-79-95"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "79-95",
+        "date": "1995-12-27",
+        "raw": "instruction n°79-95 du 27 décembre 1995"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°04-2011 du 19 octobre 2011 modifiant et complétant l’instruction n°79-95 du 27 décembre 1995 portant organisation et fonctionnement",
+        "copied_from": "INS-04-11.fr"
+      },
+      "target_work_id": "INS-79-95"
+    },
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "79-95",
+        "date": "1995-12-27",
+        "raw": "instruction n°79-95 du 27 décembre 1995"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Les dispositions de l'article 42 de l'instruction n°79-95 du 27 décembre 1995 ainsi que toute autre disposition contr",
+        "copied_from": "INS-04-11.fr"
+      },
+      "target_work_id": "INS-79-95"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "INS-79-95",
+      "reference": "instruction n°79-95 du 27 décembre 1995",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Les dispositions de l'article 42 de l'instruction n°79-95 du 27 décembre 1995 ainsi que toute autre disposition contr",
+        "copied_from": "INS-04-11.fr"
+      }
+    }
+  ],
+  "modifie": [
+    {
+      "work_id": "INS-79-95",
+      "reference": "instruction n°79-95 du 27 décembre 1995",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°04-2011 du 19 octobre 2011 modifiant et complétant l’instruction n°79-95 du 27 décembre 1995 portant organisation et fonctionnement",
+        "copied_from": "INS-04-11.fr"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "INS-79-95",
+      "reference": "instruction n°79-95 du 27 décembre 1995",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°04-2011 du 19 octobre 2011 modifiant et complétant l’instruction n°79-95 du 27 décembre 1995 portant organisation et fonctionnement",
+        "copied_from": "INS-04-11.fr"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-04-11.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "INS-79-95",
+      "reference": "instruction n°79-95 du 27 décembre 1995",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°04-2011 du 19 octobre 2011 modifiant et complétant l’instruction n°79-95 du 27 décembre 1995 portant organisation et fonctionnement",
+        "copied_from": "INS-04-11.fr"
+      }
+    }
+  ],
+  "ocr_numeric_check": {
+    "units": 8,
+    "units_flagged": 0,
+    "units_compared_with_french": 7,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "المحافظ التعليمة رقم 11-04 تعدل و تتمّم التعليمة رقم 79-95 المؤرخة في 27 ديسمبر 1995 المتضمنة تنظيم وسير سوق الصرف ما بين البنوك",
+      "paragraphs": [
+        {
+          "text": "المحافظ التعليمة رقم 11-04 تعدل و تتمّم التعليمة رقم 79-95 المؤرخة في 27 ديسمبر 1995 المتضمنة تنظيم وسير سوق الصرف ما بين البنوك",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يرخص للبنوك القيام» بينهاء بعمليات قرض/اقتراض بالعملات AL‏ للتحويل. يمكن للبنوك» أيضاء توظيف الودائع بالعملات القابلة للتحويل؛",
+      "paragraphs": [
+        {
+          "text": "يرخص للبنوك القيام» بينهاء بعمليات قرض/اقتراض بالعملات AL‏ للتحويل. يمكن للبنوك» أيضاء توظيف الودائع بالعملات القابلة للتحويل؛",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يمكن لعمليات قرض/اقتراضء المشار إليها في المادة الأولى أعلاه.\nأن تخص فترات من يوم واحد إلى مائة و ثمانين )180( يوما.\nيمكن لتوظيفات الودائع بالعملات القابلة للتحويلء المشار إليها في المادة الأولى اعلا ان تخص فترات من يوم واحد إلى سنتين.",
+      "paragraphs": [
+        {
+          "text": "يمكن لعمليات قرض/اقتراضء المشار إليها في المادة الأولى أعلاه.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "أن تخص فترات من يوم واحد إلى مائة و ثمانين )180( يوما.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "يمكن لتوظيفات الودائع بالعملات القابلة للتحويلء المشار إليها في المادة الأولى اعلا ان تخص فترات من يوم واحد إلى سنتين.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تطبيقا للفقرة 4 من المادة 4 من النظام رقم 95-8 المؤرخ في 23 بالعملة القابلة للتحويل \"أشخاص معنوية\" تحت تصرف البنوك.",
+      "paragraphs": [
+        {
+          "text": "تطبيقا للفقرة 4 من المادة 4 من النظام رقم 95-8 المؤرخ في 23 بالعملة القابلة للتحويل \"أشخاص معنوية\" تحت تصرف البنوك.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يجب أن تخص عمليات الصرف لأجل المشار إليها في المادة 13 من التعليمة رقم 79-95 المؤرخة في 27 ديسمبر 1995 نفس الفترات لعمليات قرض/اقتراض المشار إليها في المادة 2 أعلاه.\nالمشار إليها في المادة الأولى cool‏ حصرياء لعمليات الصرف لأجل.",
+      "paragraphs": [
+        {
+          "text": "يجب أن تخص عمليات الصرف لأجل المشار إليها في المادة 13 من التعليمة رقم 79-95 المؤرخة في 27 ديسمبر 1995 نفس الفترات لعمليات قرض/اقتراض المشار إليها في المادة 2 أعلاه.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المشار إليها في المادة الأولى cool‏ حصرياء لعمليات الصرف لأجل.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "بلجب أن تخصص عمليات الصرف لأحل»: المشار اليها في المادة 13 مخاطر الصرف على عمليات استيراد و تصدير السلع.\nBank of Algeria The Governor بنك الجزائرء على الأقل على ما يعادل نسبة 30 مإمن إجمالي قائم حسابات تتم مكافأة هذه الحسابات وفق شروط بنك الجزائر.",
+      "paragraphs": [
+        {
+          "text": "بلجب أن تخصص عمليات الصرف لأحل»: المشار اليها في المادة 13 مخاطر الصرف على عمليات استيراد و تصدير السلع.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Bank of Algeria The Governor بنك الجزائرء على الأقل على ما يعادل نسبة 30 مإمن إجمالي قائم حسابات تتم مكافأة هذه الحسابات وفق شروط بنك الجزائر.",
+          "page_start": 1,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "تلغى أحكام المادة 42 من التعليمة رقم 79-95 المؤرخة في 7 ديسمبر 1995 و كذا كل الأحكام المخالفة.",
+      "paragraphs": [
+        {
+          "text": "تلغى أحكام المادة 42 من التعليمة رقم 79-95 المؤرخة في 7 ديسمبر 1995 و كذا كل الأحكام المخالفة.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "تدخل هذه التعليمة حيز التنفيذ اعتبارا من تاريخ التوقيع عليها.\nحرر Lie Mal‏ 19 أكتوبر 2011 PV) مر‎ محمد لكصاسي",
+      "paragraphs": [
+        {
+          "text": "تدخل هذه التعليمة حيز التنفيذ اعتبارا من تاريخ التوقيع عليها.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "حرر Lie Mal‏ 19 أكتوبر 2011 PV) مر‎ محمد لكصاسي",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine",
+      "numerotation:articles_manquants:[5, 7]"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.036,
+      "ocr_pages": [
+        1,
+        2
+      ],
+      "ocr_mean_confidence": 88.1
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/INS-04-11.ar.txt"
+}

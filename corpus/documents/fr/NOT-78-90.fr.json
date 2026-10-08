@@ -1,0 +1,487 @@
+{
+  "document_id": "NOT-78-90.fr",
+  "work_id": "NOT-78-90",
+  "title": "Note n°78-90 du 08 octobre 1990 relative a la clôture des comptes EDAC.",
+  "document_type": "note",
+  "type_code": "NOT",
+  "type_source": "label",
+  "number": "78-90",
+  "number_source": "en-tête du document",
+  "date": "1990-10-08",
+  "date_raw": "N°78-90 DU 08 OCTOBRE 1990",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-05",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "notes_aux_banques",
+  "subcategory": "Année 1990",
+  "source_url": "https://www.bank-of-algeria.dz/les-notes-aux-banques-1990/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/05/note78-90.pdf",
+  "format": "pdf",
+  "file_hash": "5d3cae7fe500dc1d45613b5ebcf24d2bdc65a328703ec334c44baa8d7412451b",
+  "file_size": 70171,
+  "raw_path": "raw/5d3cae7fe500__note78-90.pdf",
+  "retrieved_at": "2026-10-05T13:24:44+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 4,
+  "url_hash": "a40a22b7f9627f1e3a167c77af09cbeac39f42cbff303bd8779d38ffa492f771",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/les-notes-aux-banques-1990/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document1",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210302144450+01'00'",
+    "modDate": "D:20210302144450+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 4,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2454,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 1263,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 1771,
+        "ocr_confidence": null
+      },
+      {
+        "page": 4,
+        "method": "pdf_text",
+        "chars": 1046,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": false,
+    "article_count": 0,
+    "annex_count": 2
+  },
+  "quality_flags": [],
+  "title_document": "NOTE N°78-90 DU 08 OCTOBRE 1990 AUX BANQUES INTERMEDIAIRES AGREES RELATIVE A LA CLOTURE DES COMPTES EDAC",
+  "alias_urls": [],
+  "text_hash": "be1a33e327d3270e25258bc81584e98ef0d83b84e84093c1ba4f83548c77a9c6",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe I",
+      "number": "I",
+      "heading": "A LA NOTE AUX BANQUES NTERMEDIAIRES AGREES N°78 DU 8 OCTOBRE 1990",
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe II",
+      "number": "II",
+      "heading": "A LA NOTE AUX BANQUES NTERMEDIAIRES AGREES N°78 DU 8 OCTOBRE 1990",
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "NOTE N°78-90 DU 08 OCTOBRE 1990 AUX BANQUES INTERMEDIAIRES\nAGREES RELATIVE A LA CLOTURE DES COMPTES EDAC\nEn application des dispositions du paragraphe VI-5 de l'Instruction n°05-90 du 8 octobre 1990 relatives aux comptes Exportateurs Dinars Convertibles (EDAC) la présente note a pour objet de fixer les modalités de clôture de ces comptes et d'inscription aux comptes devises « personnes morales » de la contrepartie devises des soldes disponibles.\n- Comptes EDAC ouverts auprès des Banques\nLes comptes EDAC ouverts auprès des Banques sont clôturés sur demande de leurs titulaires et les soldes disponibles dans ces comptes sont inscrits après leur conversion en devises convertibles aux comptes devises « personnes » concernées.\nLa demande de clôture doit à cet effet préciser la devise en laquelle les soldes disponibles en compte EDAC seront convertis.\nLe cours de conversion applicable aux soldes disponibles est le cours « achat » en dinars de la devise concernée ressortant de la cotation « devises en compte » de la Banque d'Algérie en vigueur le jour de l'exécution de l'opération.\nLes opérations d'inscription enregistrées dans ce cadre par les comptes devises « personnes morales » sont transcrites aux comptes devises des banques tenus auprès de la Banque d'Algérie.\nCette transcription s'effectue au moyen de l'attestation en double exemplaire établie selon modèle ci-joint intitulé « annexe I à la note aux B.I.A. n°78 du 8 octobre 1990 ».\nL'attestation sus évoquée qui est à présenter tous les Lundis à notre « Direction des\nCorrespondants bancaires étrangers et de la Trésorerie Devises » regroupera les opérations de versement enregistrées durant la semaine écoulée par les comptes devises « personnes morales » tenus auprès des banques.\n- Comptes EDAC des Banques\nLes comptes EDAC ouverts auprès de la Banque d'Algérie seront clôturés sur demandes des banques à établir selon le modèle ci-joint intitulé « annexe II à la note aux B.I.A.\nn°78 du 8 octobre 1990 ».\nLe cours de conversion à appliquer aux soldes disponibles dans ces comptes en vue de l'inscription de leur contrepartie devise aux comptes devises des banques, est le cours « achat » en dinars de la devise de tenue de compte ressortant de la cotation « devises en compte » en vigueur le jour de l'exécution de l'opération par la structure concernée de la Banque d'Algérie.\nBANK OF ALGERIA\n- Autres dispositions\n- Les engagements de paiement sur comptes EDAC non encore réalisés à la clôture de ces comptes, seront au moment de leur exécution débités aux comptes devises « personnes morales ».\n- Les allocations en devises pour voyages d'affaires accordées par la Banque d'Algérie aux opérateurs du secteur privé dans le cadre de l'Avis n°33 du 25 avril 1988 du\nMinistère de l'Economie qui n'auraient pas encore fait l'objet d'une imputation aux comptes EDAC des opérateurs concernés, seront débitées aux comptes devises de ces derniers dès que les disponibilités en leurs comptes devises le permettent. Il est rappelé que les allocations en devises ainsi accordées ont été notifiées aux banques domiciliataires aux fins d'imputation le moment venu de leurs montants aux comptes\nEDAC des opérateurs.\n- Les dispositions relatives à la transcription des opérations sur les comptes devises des banques ouverts auprès de la Banque d'Algérie demeurent en vigueur jusqu'au 31 décembre 1990.\n- Pour toute éventuelle difficulté d'interprétation et/ou d'application, il y a lieu de saisir notre Direction du Contrôle et de la Réglementation des Changes.\nLe Directeur du Contrôle et de la\nRéglementation des Changes\nD. SAIDI",
+      "paragraphs": [
+        {
+          "text": "NOTE N°78-90 DU 08 OCTOBRE 1990 AUX BANQUES INTERMEDIAIRES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AGREES RELATIVE A LA CLOTURE DES COMPTES EDAC",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "En application des dispositions du paragraphe VI-5 de l'Instruction n°05-90 du 8 octobre 1990 relatives aux comptes Exportateurs Dinars Convertibles (EDAC) la présente note a pour objet de fixer les modalités de clôture de ces comptes et d'inscription aux comptes devises « personnes morales » de la contrepartie devises des soldes disponibles.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Comptes EDAC ouverts auprès des Banques",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les comptes EDAC ouverts auprès des Banques sont clôturés sur demande de leurs titulaires et les soldes disponibles dans ces comptes sont inscrits après leur conversion en devises convertibles aux comptes devises « personnes » concernées.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La demande de clôture doit à cet effet préciser la devise en laquelle les soldes disponibles en compte EDAC seront convertis.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le cours de conversion applicable aux soldes disponibles est le cours « achat » en dinars de la devise concernée ressortant de la cotation « devises en compte » de la Banque d'Algérie en vigueur le jour de l'exécution de l'opération.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les opérations d'inscription enregistrées dans ce cadre par les comptes devises « personnes morales » sont transcrites aux comptes devises des banques tenus auprès de la Banque d'Algérie.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Cette transcription s'effectue au moyen de l'attestation en double exemplaire établie selon modèle ci-joint intitulé « annexe I à la note aux B.I.A. n°78 du 8 octobre 1990 ».",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L'attestation sus évoquée qui est à présenter tous les Lundis à notre « Direction des",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Correspondants bancaires étrangers et de la Trésorerie Devises » regroupera les opérations de versement enregistrées durant la semaine écoulée par les comptes devises « personnes morales » tenus auprès des banques.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Comptes EDAC des Banques",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les comptes EDAC ouverts auprès de la Banque d'Algérie seront clôturés sur demandes des banques à établir selon le modèle ci-joint intitulé « annexe II à la note aux B.I.A.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "n°78 du 8 octobre 1990 ».",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le cours de conversion à appliquer aux soldes disponibles dans ces comptes en vue de l'inscription de leur contrepartie devise aux comptes devises des banques, est le cours « achat » en dinars de la devise de tenue de compte ressortant de la cotation « devises en compte » en vigueur le jour de l'exécution de l'opération par la structure concernée de la Banque d'Algérie.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Autres dispositions",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Les engagements de paiement sur comptes EDAC non encore réalisés à la clôture de ces comptes, seront au moment de leur exécution débités aux comptes devises « personnes morales ».",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Les allocations en devises pour voyages d'affaires accordées par la Banque d'Algérie aux opérateurs du secteur privé dans le cadre de l'Avis n°33 du 25 avril 1988 du",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Ministère de l'Economie qui n'auraient pas encore fait l'objet d'une imputation aux comptes EDAC des opérateurs concernés, seront débitées aux comptes devises de ces derniers dès que les disponibilités en leurs comptes devises le permettent. Il est rappelé que les allocations en devises ainsi accordées ont été notifiées aux banques domiciliataires aux fins d'imputation le moment venu de leurs montants aux comptes",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "EDAC des opérateurs.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Les dispositions relatives à la transcription des opérations sur les comptes devises des banques ouverts auprès de la Banque d'Algérie demeurent en vigueur jusqu'au 31 décembre 1990.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Pour toute éventuelle difficulté d'interprétation et/ou d'application, il y a lieu de saisir notre Direction du Contrôle et de la Réglementation des Changes.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Directeur du Contrôle et de la",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Réglementation des Changes",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "D. SAIDI",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe I",
+      "number": "I",
+      "heading": "A LA NOTE AUX BANQUES NTERMEDIAIRES AGREES N°78 DU 8 OCTOBRE 1990",
+      "context": {},
+      "annexe": {
+        "number": "I",
+        "heading": "A LA NOTE AUX BANQUES NTERMEDIAIRES AGREES N°78 DU 8 OCTOBRE 1990",
+        "label": "Annexe I"
+      },
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Nom et adresse de la Banque Intermédiaire Agréé\nDestinataire\nBanque d'Algérie —\nDirection des Correspondants Bancaires\nEtrangers et de la Trésorerie Devises — Alger —\nAlger, le...............................\nObjet : Comptes devises des personnes morales de droit algérien (Instruction BA n°05-90 du 8 octobre 1990\nClôture compte EDAC et versement contrepartie devises des soldes disponibles\nMessieurs,\nNous vous prions de bien vouloir débiter notre compte interne en dinars N° 10.400 ........ de la somme de (en chiffres et en lettres) et créditer nos comptes devises ci-après :\n- n° ... libellé en ... pour un montant de (en chiffres et en lettres + indication de la monnaie)\n- n° ... libellé en.... pour un montant de (en chiffres et en lettres + indication de la monnaie) - n° ... libellé en ... pour un montant de (en chiffres et en lettres + indication de la monnaie) - n° ... libellé en ...pour un montant de (en chiffres et en lettres + indication de la monnaie).\nNous certifions que les montants ci-dessus libellés en Dinars Algériens et en devises représentent bien le résultat des opérations de conversion en devises effectuées sur les avoirs disponibles en comptes EDAC conformément aux dispositions de l'Instruction B.A sus-évoquée.\nIl en découle ainsi que :\n- le montant en dinars ci-dessus constitue le total des montants portés au débit des comptes\nEDAC aux fins de clôture de ces derniers ;\n- le montant en devises ci-dessus sont ceux enregistrés au crédit des comptes devises personnes morales sur nos livres.\n....... le ......\n(cachet et signature (s) accrédité (s)",
+      "paragraphs": [
+        {
+          "text": "Nom et adresse de la Banque Intermédiaire Agréé",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Destinataire",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Banque d'Algérie —",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Direction des Correspondants Bancaires",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Etrangers et de la Trésorerie Devises — Alger —",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Alger, le...............................",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Objet : Comptes devises des personnes morales de droit algérien (Instruction BA n°05-90 du 8 octobre 1990",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Clôture compte EDAC et versement contrepartie devises des soldes disponibles",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Messieurs,",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Nous vous prions de bien vouloir débiter notre compte interne en dinars N° 10.400 ........ de la somme de (en chiffres et en lettres) et créditer nos comptes devises ci-après :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- n° ... libellé en ... pour un montant de (en chiffres et en lettres + indication de la monnaie)",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- n° ... libellé en.... pour un montant de (en chiffres et en lettres + indication de la monnaie) - n° ... libellé en ... pour un montant de (en chiffres et en lettres + indication de la monnaie) - n° ... libellé en ...pour un montant de (en chiffres et en lettres + indication de la monnaie).",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Nous certifions que les montants ci-dessus libellés en Dinars Algériens et en devises représentent bien le résultat des opérations de conversion en devises effectuées sur les avoirs disponibles en comptes EDAC conformément aux dispositions de l'Instruction B.A sus-évoquée.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Il en découle ainsi que :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- le montant en dinars ci-dessus constitue le total des montants portés au débit des comptes",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "EDAC aux fins de clôture de ces derniers ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- le montant en devises ci-dessus sont ceux enregistrés au crédit des comptes devises personnes morales sur nos livres.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "....... le ......",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "(cachet et signature (s) accrédité (s)",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe II",
+      "number": "II",
+      "heading": "A LA NOTE AUX BANQUES NTERMEDIAIRES AGREES N°78 DU 8 OCTOBRE 1990",
+      "context": {},
+      "annexe": {
+        "number": "II",
+        "heading": "A LA NOTE AUX BANQUES NTERMEDIAIRES AGREES N°78 DU 8 OCTOBRE 1990",
+        "label": "Annexe II"
+      },
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Nom et adresse de la Banque Intermédiaire Agréé\nDestinataire :\nBanque d'Algérie\nDirection des Correspondants Bancaires\nEtrangers et de la Trésorerie Devises — Alger —\nAlger, le...............................\nObjet : Demande de clôture de notre compte EDAC et de versement contrepartie devises du solde disponible au crédit de notre compte devises\nMessieurs,\nNous vous prions de bien vouloir procéder à la clôture de notre compte EDAC sur vos livres n° ..............................\nLa contre-valeur en (indication de la devises) (1) du solde de ce compte lequel est à ce jour s'élève à un montant de (en lettres et en chiffres) de dinars algériens, est à porter au crédit de notre compte devises sur vos livres n° ............... libellé en (indication de la devise) (1).\n................ le ...................\n(cachet et signature (s) accréditée(s)\nIndication de la même devise.",
+      "paragraphs": [
+        {
+          "text": "Nom et adresse de la Banque Intermédiaire Agréé",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Destinataire :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Banque d'Algérie",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Direction des Correspondants Bancaires",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Etrangers et de la Trésorerie Devises — Alger —",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Alger, le...............................",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Objet : Demande de clôture de notre compte EDAC et de versement contrepartie devises du solde disponible au crédit de notre compte devises",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Messieurs,",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Nous vous prions de bien vouloir procéder à la clôture de notre compte EDAC sur vos livres n° ..............................",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "La contre-valeur en (indication de la devises) (1) du solde de ce compte lequel est à ce jour s'élève à un montant de (en lettres et en chiffres) de dinars algériens, est à porter au crédit de notre compte devises sur vos livres n° ............... libellé en (indication de la devise) (1).",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "................ le ...................",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "(cachet et signature (s) accréditée(s)",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Indication de la même devise.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.071
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/NOT-78-90.fr.txt"
+}

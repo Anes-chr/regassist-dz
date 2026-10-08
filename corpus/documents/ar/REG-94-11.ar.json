@@ -1,0 +1,248 @@
+{
+  "document_id": "REG-94-11.ar",
+  "work_id": "REG-94-11",
+  "title": "نظام رقم 94-11 المؤرخ في 12 أبريل 1994 يعدل النظام رقم 91-03 المؤرخ في 20 فبراير 1991 والمتعلق بشروط القيام بعمليات استيراد سلع إلى الجزائر وتمويلها.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "94-11",
+  "number_source": "libelle",
+  "date": "1994-04-12",
+  "date_raw": "المؤرخ في 12 أبريل 1994",
+  "date_source": "libelle",
+  "publication_date": "2023-02-28",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "règlements",
+  "subcategory": "تنظيم الصرف",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%aa%d9%86%d8%b8%d9%8a%d9%85-%d8%a7%d9%84%d8%b5%d8%b1%d9%81-2/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/02/11-94.pdf",
+  "format": "pdf",
+  "file_hash": "a9f8c9bfdb8ebfeafb48957eee9c1579b9c78146fe3104814dc04900b4a7f237",
+  "file_size": 359839,
+  "raw_path": "raw/a9f8c9bfdb8e__11-94.pdf",
+  "retrieved_at": "2026-10-05T13:29:03+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 1,
+  "url_hash": "3da51c0b733179e3fabeb20720abf5371e47ca0ba90356c9f9b8a7692a581e91",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%aa%d9%86%d8%b8%d9%8a%d9%85-%d8%a7%d9%84%d8%b5%d8%b1%d9%81-2/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "author": "lynda benhaha",
+    "creator": "Microsoft® Word 2016",
+    "producer": "Microsoft® Word 2016",
+    "creationDate": "D:20230227095430+01'00'",
+    "modDate": "D:20230227095430+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 1352,
+        "ocr_confidence": 86.10546875
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": false,
+    "article_count": 0,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine",
+    "aucun_article_detecte"
+  ],
+  "title_document": "نظام رقم 11-94 مؤرخ في أول ذي القعدة عام 1414 الموافق 12 أبريل سنة 4994 يعدل النظام رقم 91- 03 المؤرخ في 20 فبراير Lu‏ 1991 ولمتعلق بشروط القيام بعملبات استيراد سلع إلى الجزائر وتمويلها. إن محافظ بنك الجزائر, - بمقتضى القانون رقم 10-0 المؤرخ في 19",
+  "alias_urls": [],
+  "text_hash": "744c2b69688af3117283f0302e0f5eccbe981494060fb78500276031a6270782",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "91-03",
+        "date": "1991-02-20",
+        "raw": "règlement n° 91-03 du 20 février 1991"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°94-11 du 13 avril 1994 modifiant le règlement n° 91-03 du 20 février 1991 relatif aux conditions d’exercice des o",
+        "copied_from": "REG-94-11.fr"
+      },
+      "target_work_id": "REG-91-03"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "91-03",
+        "date": "1991-02-20",
+        "raw": "Règlement n°91-03 du 20 Février 1991"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "ie et du Crédit en date du 12 avril 1994 : Promulgue le Règlement dont la teneur suit : Article unique : L'article 5 du Règlement n°91-03 du 20 Février 1991 relatif aux conditions d'exercice des o",
+        "copied_from": "REG-94-11.fr"
+      },
+      "target_work_id": "REG-91-03"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "REG-91-03",
+      "reference": "règlement n° 91-03 du 20 février 1991",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°94-11 du 13 avril 1994 modifiant le règlement n° 91-03 du 20 février 1991 relatif aux conditions d’exercice des o",
+        "copied_from": "REG-94-11.fr"
+      }
+    },
+    {
+      "work_id": "REG-91-03",
+      "reference": "Règlement n°91-03 du 20 Février 1991",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "ie et du Crédit en date du 12 avril 1994 : Promulgue le Règlement dont la teneur suit : Article unique : L'article 5 du Règlement n°91-03 du 20 Février 1991 relatif aux conditions d'exercice des o",
+        "copied_from": "REG-94-11.fr"
+      }
+    }
+  ],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-94-11.fr",
+    "REG-94-11.fr~2"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "ocr_numeric_check": {
+    "units": 1,
+    "units_flagged": 0,
+    "units_compared_with_french": 0,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "نظام رقم 11-94 مؤرخ في أول ذي القعدة عام 1414 الموافق 12 أبريل سنة 4994 يعدل النظام رقم 91- 03 المؤرخ في 20 فبراير Lu‏ 1991 ولمتعلق بشروط القيام بعملبات استيراد سلع إلى الجزائر وتمويلها.\nإن محافظ بنك الجزائر,\n- بمقتضى القانون رقم 10-0 المؤرخ في 19 رمضان عام 1410 الموافق 14 أبريل سنة 1990 والمتعلق بالنقد والقرض؛ لا سيما المواد 32 إلى 41 is 44 و‎\n- وبمقتضى المرسوم الرئاسي اللؤرخ في 20 محرم عام 1413 الموافق 21 يوليو سنة 1992 والمنضمن تعيين محافظ بنك الجزائر,\n- وبمقتضى المراسيم الرئاسية المؤرخة في 19 شوال عام 1410 الموافق 14 ماب سنة 1990\n- وبمقتضى المرسوم التنفيذي المؤرخ في 18 ذي La a‏ عام 1411 الموافق أول يوليو سنة 1991 والتضمن تعيين أعضاء دائمين وأعضاء اضافيين في مجلس النقد والقرض؛ المؤرخ في 28 رجب عام 1411 الموافق 13 فبراير سنة 1981 والمتعلق بشروط التدخل في مجال التجارة Aa al\n- وبمقتضى النظام رقم 91 - 03 المؤرخ في 5 شهبان عام 1411 الموافق 20 فبراير سنة 1991 والمتعلق بشروط القيام بعمليات استيراد سلع إلى الجزائر وتمويلها.\n- وبعد مداولة مجلس النقد والقرض المؤرخة في أول ذي القعدة عام 1414 الموافق 12 أبريل سنة 1994 يصدر النظام الانتي نصه ؛ هادة وحيدة : تعدل المادة 5 من النظام رقم 31 - 03 المؤرخ في 20 فبراير سنئة 1991 والمتعلق بشروط القبام بعمليات استيراد سلع إلى الجزائر su)”‏ 5 : تحدد؛ كلما اقتضى الأمر؛ طرق تسديد قروض خارجية ملائمة بتعليمة من بنك الجزائر'.\nحرر بالجزائر في أول ذي القعدة عام 1414 الموافق 12 أبريل سنة 1994 عبد الوفاب كرمان",
+      "paragraphs": [
+        {
+          "text": "نظام رقم 11-94 مؤرخ في أول ذي القعدة عام 1414 الموافق 12 أبريل سنة 4994 يعدل النظام رقم 91- 03 المؤرخ في 20 فبراير Lu‏ 1991 ولمتعلق بشروط القيام بعملبات استيراد سلع إلى الجزائر وتمويلها.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "إن محافظ بنك الجزائر,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- بمقتضى القانون رقم 10-0 المؤرخ في 19 رمضان عام 1410 الموافق 14 أبريل سنة 1990 والمتعلق بالنقد والقرض؛ لا سيما المواد 32 إلى 41 is 44 و‎",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى المرسوم الرئاسي اللؤرخ في 20 محرم عام 1413 الموافق 21 يوليو سنة 1992 والمنضمن تعيين محافظ بنك الجزائر,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى المراسيم الرئاسية المؤرخة في 19 شوال عام 1410 الموافق 14 ماب سنة 1990",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى المرسوم التنفيذي المؤرخ في 18 ذي La a‏ عام 1411 الموافق أول يوليو سنة 1991 والتضمن تعيين أعضاء دائمين وأعضاء اضافيين في مجلس النقد والقرض؛ المؤرخ في 28 رجب عام 1411 الموافق 13 فبراير سنة 1981 والمتعلق بشروط التدخل في مجال التجارة Aa al",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى النظام رقم 91 - 03 المؤرخ في 5 شهبان عام 1411 الموافق 20 فبراير سنة 1991 والمتعلق بشروط القيام بعمليات استيراد سلع إلى الجزائر وتمويلها.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبعد مداولة مجلس النقد والقرض المؤرخة في أول ذي القعدة عام 1414 الموافق 12 أبريل سنة 1994 يصدر النظام الانتي نصه ؛ هادة وحيدة : تعدل المادة 5 من النظام رقم 31 - 03 المؤرخ في 20 فبراير سنئة 1991 والمتعلق بشروط القبام بعمليات استيراد سلع إلى الجزائر su)”‏ 5 : تحدد؛ كلما اقتضى الأمر؛ طرق تسديد قروض خارجية ملائمة بتعليمة من بنك الجزائر'.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "حرر بالجزائر في أول ذي القعدة عام 1414 الموافق 12 أبريل سنة 1994 عبد الوفاب كرمان",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine",
+      "aucun_article_detecte"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.027,
+      "ocr_pages": [
+        1
+      ],
+      "ocr_mean_confidence": 86.1
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/REG-94-11.ar.txt"
+}

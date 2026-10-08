@@ -1,0 +1,384 @@
+{
+  "document_id": "INS-03-16.fr",
+  "work_id": "INS-03-16",
+  "title": "Instruction n°03-2016 du 25 avril 2016 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligatoires.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "03-2016",
+  "number_source": "en-tête du document",
+  "date": "2016-04-25",
+  "date_raw": "N°03-2016 DU 25 AVRIL 2016",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-02",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction032016.pdf",
+      "uploaded": "2023-01-24T10:36:04"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Année 2016",
+  "source_url": "https://www.bank-of-algeria.dz/annee-2016/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/02/instruction032016.pdf",
+  "format": "pdf",
+  "file_hash": "ed4f20e3b23669700670375fe11b690613f36de9e7ac0bf4a7e99d5d4c40002d",
+  "file_size": 43612,
+  "raw_path": "raw/ed4f20e3b236__instruction032016.pdf",
+  "retrieved_at": "2026-10-05T13:20:27+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "8d0f0201b9255176a97f747a342cd270fee572a4ecb2e0cf3cb62db60aa0147c",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-2016/",
+    "https://www.bank-of-algeria.dz/reserves-instruction-2/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document20",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210210150754+01'00'",
+    "modDate": "D:20210210150754+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 814,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 3,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "meme_texte_plusieurs_fichiers"
+  ],
+  "title_document": "INSTRUCTION N°03-2016 DU 25 AVRIL 2016 MODIFIANT ET COMPLETANT L’INSTRUCTION N°02-2004 DU 13 MAI 2004 RELATIVE AU REGIME DES RESERVES OBLIGATOIRES",
+  "alias_urls": [],
+  "text_hash": "8f15481de7aea5f58672ff990bb3f3a0bed84f0c0f9fa5975607d2640afc286f",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-2004",
+        "date": "2004-05-13",
+        "raw": "instruction n°02-2004 du 13 mai 2004"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°03-2016 du 25 avril 2016 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      },
+      "target_work_id": "INS-02-04"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-2004",
+        "date": "2004-05-13",
+        "raw": "instruction n°02-2004 du 13 mai 2004"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°03-2016 du 25 avril 2016 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      },
+      "target_work_id": "INS-02-04"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-2004",
+        "date": "2004-05-13",
+        "raw": "instruction n°02-2004 du 13 mai 2004"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      },
+      "target_work_id": "INS-02-04"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-2004",
+        "date": "2004-05-13",
+        "raw": "instruction n°02-2004 du 13 mai 2004"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      },
+      "target_work_id": "INS-02-04"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-02-04",
+      "reference": "instruction n°02-2004 du 13 mai 2004",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°03-2016 du 25 avril 2016 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-04",
+      "reference": "instruction n°02-2004 du 13 mai 2004",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "INS-02-04",
+      "reference": "instruction n°02-2004 du 13 mai 2004",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°03-2016 du 25 avril 2016 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-04",
+      "reference": "instruction n°02-2004 du 13 mai 2004",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-03-16.ar",
+    "INS-03-16.fr~2"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "INS-02-04",
+      "reference": "instruction n°02-2004 du 13 mai 2004",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°03-2016 du 25 avril 2016 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-04",
+      "reference": "instruction n°02-2004 du 13 mai 2004",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    }
+  ],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°03-2016 DU 25 AVRIL 2016 MODIFIANT\nET COMPLETANT L’INSTRUCTION N°02-2004 DU 13 MAI 2004\nRELATIVE AU REGIME DES RESERVES OBLIGATOIRES",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°03-2016 DU 25 AVRIL 2016 MODIFIANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET COMPLETANT L’INSTRUCTION N°02-2004 DU 13 MAI 2004",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "RELATIVE AU REGIME DES RESERVES OBLIGATOIRES",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligatoires.",
+      "paragraphs": [
+        {
+          "text": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligatoires.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L’article 3 de l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligatoires est modifié et rédigé comme suit :\n« Article 3 : Le taux des réserves obligatoires est fixé à 8 % de l'assiette des réserves définie dans l'article 2 ci-dessus ».",
+      "paragraphs": [
+        {
+          "text": "L’article 3 de l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligatoires est modifié et rédigé comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "« Article 3 : Le taux des réserves obligatoires est fixé à 8 % de l'assiette des réserves définie dans l'article 2 ci-dessus ».",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction prend effet à compter du 15 mai 2016.\nLe Gouverneur\nMohammed LAKSACI\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "La présente instruction prend effet à compter du 15 mai 2016.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "meme_texte_plusieurs_fichiers"
+    ],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.044
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-03-16.fr.txt"
+}

@@ -1,0 +1,328 @@
+{
+  "document_id": "INS-08-20.ar",
+  "work_id": "INS-08-20",
+  "title": "تعليمة رقم 08-2020 المؤرخة في 29 افريل 2020، المعدلة للتعليمة رقم 06-2016 المؤرخة في 1 سبتمبر 2016، والمتعلقة بعمليات السوق المفتوحة الخاصة بإعادة تمويل البنوك.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "08-2020",
+  "number_source": "libelle",
+  "date": "2020-04-29",
+  "date_raw": "المؤرخة في 29 افريل 2020",
+  "date_source": "libelle",
+  "publication_date": "2023-03-02",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "instructions",
+  "subcategory": "أدوات السياسة النقدية",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a3%d8%af%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d9%86%d9%82%d8%af%d9%8a%d8%a9/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/03/08-20.pdf",
+  "format": "pdf",
+  "file_hash": "4fdf256b61356fe49ef5ea961108a39c81145673468a55fcaebbef02e8c81dfa",
+  "file_size": 257343,
+  "raw_path": "raw/4fdf256b6135__08-20.pdf",
+  "retrieved_at": "2026-10-05T13:29:55+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 1,
+  "url_hash": "bcdfd5eb7b7f90607a12360e3a676c584ce176ee3e519d2da5b8390986b454ab",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%a3%d8%af%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d9%86%d9%82%d8%af%d9%8a%d8%a9/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "author": "lynda benhaha",
+    "creator": "Microsoft® Word 2016",
+    "producer": "Microsoft® Word 2016",
+    "creationDate": "D:20230301103622+01'00'",
+    "modDate": "D:20230301103622+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 1072,
+        "ocr_confidence": 89.3954802259887
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 3,
+    "annex_count": 1
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine"
+  ],
+  "title_document": null,
+  "alias_urls": [],
+  "text_hash": "0d537120fb63e45bc45b68516b07476f40ea04c624ef6bafebf78ad048cc02ab",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "06-2016",
+        "date": "2016-09-01",
+        "raw": "instruction n°06-2016 du 1 er septembre 2016"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°08-20 du 29 avril 2020 modifiant l’instruction n°06-2016 du 1 er septembre 2016 relative aux opérations d’open market p",
+        "copied_from": "INS-08-20.fr"
+      },
+      "target_work_id": "INS-06-16"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "06-2016",
+        "date": "2016-09-01",
+        "raw": "instruction n°06-2016 du 1er septembre 2016"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "L’article 11 de l'instruction n°06-2016 du 1er septembre 2016 relative aux opérations d’open market p",
+        "copied_from": "INS-08-20.fr"
+      },
+      "target_work_id": "INS-06-16"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-06-16",
+      "reference": "instruction n°06-2016 du 1 er septembre 2016",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°08-20 du 29 avril 2020 modifiant l’instruction n°06-2016 du 1 er septembre 2016 relative aux opérations d’open market p",
+        "copied_from": "INS-08-20.fr"
+      }
+    },
+    {
+      "work_id": "INS-06-16",
+      "reference": "instruction n°06-2016 du 1er septembre 2016",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "L’article 11 de l'instruction n°06-2016 du 1er septembre 2016 relative aux opérations d’open market p",
+        "copied_from": "INS-08-20.fr"
+      }
+    }
+  ],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-08-20.fr",
+    "INS-08-20.fr~2"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "ocr_numeric_check": {
+    "units": 5,
+    "units_flagged": 0,
+    "units_compared_with_french": 1,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 02",
+      "number": "02",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 03",
+      "number": "03",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe 6",
+      "number": "6",
+      "heading": "من التعليمة رقم 20-08 المؤرخة في 29 أفريل 2020 المعدلة للتعليمة رقم 2016-06",
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "التعليمة رقم 20-08 المؤرخة في 29 أفريل 2020 المعدلة للتعليمة رقم 2016-06 المؤرخة في 1 سبتمبر 2016 والمتعلقة بعمليات السوق المفتوحة الخاصة باعادة تمويل البنوك",
+      "paragraphs": [
+        {
+          "text": "التعليمة رقم 20-08 المؤرخة في 29 أفريل 2020 المعدلة للتعليمة رقم 2016-06 المؤرخة في 1 سبتمبر 2016 والمتعلقة بعمليات السوق المفتوحة الخاصة باعادة تمويل البنوك",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تهدف هذه التعليمة إلى تعديل عتبات إعادة التمويل المطبقة على الأوراق العمومية القابلة للتفاوض والمقدمة على سبيل الضمان لبنك الجزائر من طرف الجيات المقابلة لعمليات السياسة النقدية.",
+      "paragraphs": [
+        {
+          "text": "تهدف هذه التعليمة إلى تعديل عتبات إعادة التمويل المطبقة على الأوراق العمومية القابلة للتفاوض والمقدمة على سبيل الضمان لبنك الجزائر من طرف الجيات المقابلة لعمليات السياسة النقدية.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 02",
+      "number": "02",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يتم تعديل وصياغة المادة 11 من التعليمة رقم 2016-06 المؤرخة في 1 سبتمبر 2016 المتعلقة بعمليات السوق المفتوحة الخاصة بإعادة تمويل البنوك على النحو التالي:\n» المادة 11: يقوم بنك الجزائر بإعادة تمويل البنوك على أساس العتبات الجديدة المحددة تطبيقا للملحق6",
+      "paragraphs": [
+        {
+          "text": "يتم تعديل وصياغة المادة 11 من التعليمة رقم 2016-06 المؤرخة في 1 سبتمبر 2016 المتعلقة بعمليات السوق المفتوحة الخاصة بإعادة تمويل البنوك على النحو التالي:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "» المادة 11: يقوم بنك الجزائر بإعادة تمويل البنوك على أساس العتبات الجديدة المحددة تطبيقا للملحق6",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 03",
+      "number": "03",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تدخل هذه التعليمة حيز التطبيق ابتداءا من تاريخ الإمضاء عليها.\nالمحافظ أيمن بن عبد الرحمان",
+      "paragraphs": [
+        {
+          "text": "تدخل هذه التعليمة حيز التطبيق ابتداءا من تاريخ الإمضاء عليها.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المحافظ أيمن بن عبد الرحمان",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe 6",
+      "number": "6",
+      "heading": "من التعليمة رقم 20-08 المؤرخة في 29 أفريل 2020 المعدلة للتعليمة رقم 2016-06",
+      "context": {},
+      "annexe": {
+        "number": "6",
+        "heading": "من التعليمة رقم 20-08 المؤرخة في 29 أفريل 2020 المعدلة للتعليمة رقم 2016-06",
+        "label": "Annexe 6"
+      },
+      "page_start": 1,
+      "page_end": 1,
+      "text": "المؤرخة في 1 سبتمبر :2016‏ عتبات إعادة تمويل الأوراق المقدمة على سبيل الضمان طبيعة السندات مدة الاستحقاقات المتبقية عتبات إعادة التمويل اكير من او تساوي 5 سنوات السندات العمومية القابلة للتفاوض من 0 إلى أقل من 1 سنة اكير من أو تساوي 3 سنوات السئدات الخاصة القابلة للتفاوض",
+      "paragraphs": [
+        {
+          "text": "المؤرخة في 1 سبتمبر :2016‏ عتبات إعادة تمويل الأوراق المقدمة على سبيل الضمان طبيعة السندات مدة الاستحقاقات المتبقية عتبات إعادة التمويل اكير من او تساوي 5 سنوات السندات العمومية القابلة للتفاوض من 0 إلى أقل من 1 سنة اكير من أو تساوي 3 سنوات السئدات الخاصة القابلة للتفاوض",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.017,
+      "ocr_pages": [
+        1
+      ],
+      "ocr_mean_confidence": 89.4
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/INS-08-20.ar.txt"
+}

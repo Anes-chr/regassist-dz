@@ -1,0 +1,553 @@
+{
+  "navigation": {
+    "documents": [
+      147,
+      150
+    ],
+    "articles": [
+      150,
+      150
+    ],
+    "echecs": [
+      {
+        "q": "instruction n° 03",
+        "work_id": "INS-03",
+        "reason": "ok"
+      },
+      {
+        "q": "instruction n° 02",
+        "work_id": "INS-02",
+        "reason": "ok"
+      },
+      {
+        "q": "règlement n° 2020-01",
+        "work_id": "REG-20-01-20220131",
+        "reason": "ok"
+      }
+    ]
+  },
+  "gold_seed": {
+    "ok": 11,
+    "total": 11,
+    "echecs": []
+  },
+  "out_of_scope": {
+    "refuses": 4,
+    "total": 9,
+    "echecs": [
+      {
+        "q": "Quelle est la capitale de la France ?",
+        "top": [
+          "note 002-2001",
+          "instruction 79-95"
+        ],
+        "note": ""
+      },
+      {
+        "q": "Quel est le taux d'imposition des sociétés en France ?",
+        "top": [
+          "note 002-2001",
+          "instruction 79-95"
+        ],
+        "note": ""
+      },
+      {
+        "q": "Quel est le meilleur restaurant d'Alger ?",
+        "top": [
+          "règlement 25-04",
+          "instruction 02-2024"
+        ],
+        "note": ""
+      },
+      {
+        "q": "Comment déclarer mes revenus aux impôts ?",
+        "top": [
+          "instruction 92-94",
+          "règlement 25-11"
+        ],
+        "note": ""
+      },
+      {
+        "q": "Qui est le gouverneur de la Banque d'Algérie ?",
+        "top": [
+          "loi 23-09",
+          "règlement 2008-03"
+        ],
+        "note": "LIMITE CONNUE : question hors réglementation formulée avec des mots du corpus ; le mode extractif ne peut pas la rejeter, le mode LLM le doit"
+      }
+    ]
+  },
+  "gold_v2": {
+    "table": {
+      "dev": {
+        "fond": {
+          "present": "9/13",
+          "top1": "7/13",
+          "fait_cle": "9/13"
+        },
+        "TOUT": {
+          "present": "14/18",
+          "top1": "9/18",
+          "fait_cle": "14/18",
+          "anciens_textes_signales": "3/3"
+        },
+        "relation": {
+          "present": "1/1",
+          "top1": "0/1",
+          "fait_cle": "1/1"
+        },
+        "reference": {
+          "present": "1/1",
+          "top1": "1/1",
+          "fait_cle": "1/1"
+        },
+        "evolutif": {
+          "present": "3/3",
+          "top1": "1/3",
+          "fait_cle": "3/3",
+          "anciens_textes_signales": "3/3"
+        }
+      },
+      "test": {
+        "fond": {
+          "present": "13/15",
+          "top1": "7/15",
+          "fait_cle": "13/15"
+        },
+        "TOUT": {
+          "present": "18/21",
+          "top1": "11/21",
+          "fait_cle": "17/20",
+          "anciens_textes_signales": "2/2",
+          "refus": "7/8",
+          "avertissement_vigueur": "1/1"
+        },
+        "relation": {
+          "present": "1/1",
+          "top1": "1/1",
+          "fait_cle": "1/1"
+        },
+        "reference": {
+          "present": "2/2",
+          "top1": "2/2",
+          "fait_cle": "2/2"
+        },
+        "evolutif": {
+          "present": "1/2",
+          "top1": "0/2",
+          "fait_cle": "1/2",
+          "anciens_textes_signales": "2/2"
+        },
+        "trap_texte_inexistant": {
+          "refus": "2/2"
+        },
+        "trap_article_inexistant": {
+          "refus": "1/1"
+        },
+        "hors_sujet": {
+          "refus": "4/5"
+        },
+        "temporel": {
+          "present": "1/1",
+          "top1": "1/1",
+          "avertissement_vigueur": "1/1"
+        }
+      },
+      "holdout": {
+        "fond": {
+          "present": "12/12",
+          "top1": "9/12",
+          "fait_cle": "12/12"
+        },
+        "TOUT": {
+          "present": "13/13",
+          "top1": "10/13",
+          "fait_cle": "13/13",
+          "refus": "1/2"
+        },
+        "reference": {
+          "present": "1/1",
+          "top1": "1/1",
+          "fait_cle": "1/1"
+        },
+        "hors_sujet": {
+          "refus": "0/1"
+        },
+        "trap_texte_inexistant": {
+          "refus": "1/1"
+        }
+      }
+    },
+    "echecs": [
+      {
+        "id": "G001",
+        "split": "dev",
+        "category": "fond",
+        "question": "Quelle part de ses fonds propres une banque peut-elle consacrer à une seule participation ?",
+        "ko": [
+          "top1"
+        ],
+        "affiche": [
+          "Instruction n° 04-99 du 12 août 1999 Annexe",
+          "Règlement n° 2014-02 du 16 février 2014 Article 21",
+          "Règlement n° 90-01 du 4 juillet 1990 Article 3",
+          "Règlement n° 96-06 du 3 juillet 1996 Article 8"
+        ]
+      },
+      {
+        "id": "G002",
+        "split": "dev",
+        "category": "fond",
+        "question": "Quelle commission les banques perçoivent-elles pour la tenue des comptes en devises ?",
+        "ko": [
+          "present",
+          "top1",
+          "fait_cle"
+        ],
+        "affiche": [
+          "Instruction n° 30-91 du 27 octobre 1991",
+          "Instruction n° 02-91 du 21 mars 1991",
+          "Instruction n° 28-93 du 1er avril 1993",
+          "Instruction n° 05-90 du 8 octobre 1990"
+        ]
+      },
+      {
+        "id": "G004",
+        "split": "dev",
+        "category": "fond",
+        "question": "Le crédit intra-journalier de la Banque d'Algérie est-il payant ?",
+        "ko": [
+          "present",
+          "top1",
+          "fait_cle"
+        ],
+        "affiche": []
+      },
+      {
+        "id": "G005",
+        "split": "dev",
+        "category": "fond",
+        "question": "Dans quel cas la régularisation d'un chèque sans provision est-elle refusée au titulaire du compte ?",
+        "ko": [
+          "present",
+          "top1",
+          "fait_cle"
+        ],
+        "affiche": [
+          "Instruction n° 01-2011 du 9 mars 2011 Article 20",
+          "Règlement n° 92-03 du 22 mars 1992 Article 8",
+          "Instruction n° 01-2011 du 9 mars 2011 Article 23",
+          "Règlement n° 2008-01 du 20 janvier 2008 Article 8"
+        ]
+      },
+      {
+        "id": "G010",
+        "split": "dev",
+        "category": "fond",
+        "question": "Peut-on échanger sans limite de montant les billets retirés de la circulation ?",
+        "ko": [
+          "top1"
+        ],
+        "affiche": [
+          "Règlement n° 2013-02 du 19 novembre 2013 Article 2",
+          "Règlement n° 98-01 du 10 juin 1998 Article 2",
+          "Règlement n° 92-06 du 21 mai 1992 Article 3",
+          "Règlement n° 2013-02 du 19 novembre 2013 Article 3"
+        ]
+      },
+      {
+        "id": "G012",
+        "split": "dev",
+        "category": "relation",
+        "question": "Quelle instruction a modifié l'article 2 de l'instruction n° 09-96 sur le droit de change des étudiants à l'étranger ?",
+        "ko": [
+          "top1"
+        ],
+        "affiche": [
+          "Instruction n° 07-2000 du 26 juillet 2000",
+          "Instruction n° 07-2000 du 26 juillet 2000 Article 1",
+          "Instruction n° 07-2000 du 26 juillet 2000 Article 3",
+          "Instruction n° 07-2000 du 26 juillet 2000 Article 2"
+        ]
+      },
+      {
+        "id": "G013",
+        "split": "dev",
+        "category": "fond",
+        "question": "Quelles qualités du dirigeant sont examinées pour son agrément ?",
+        "ko": [
+          "present",
+          "top1",
+          "fait_cle"
+        ],
+        "affiche": [
+          "Instruction n° 04-25 du 29 juin 2025 Article 13",
+          "Instruction n° 04-25 du 29 juin 2025 Article 5",
+          "Instruction n° 04-25 du 29 juin 2025 Annexe",
+          "Règlement n° 25-01 du 12 mars 2025 Article 4"
+        ]
+      },
+      {
+        "id": "G016",
+        "split": "dev",
+        "category": "evolutif",
+        "question": "Quel est le plafond d'indemnisation par déposant ?",
+        "ko": [
+          "top1"
+        ],
+        "affiche": [
+          "Règlement n° 2020-03 du 15 mars 2020 Article 11",
+          "Règlement n° 2004-03 du 4 mars 2004 Article 9",
+          "Règlement n° 97-04 du 31 décembre 1997 Article 10",
+          "Règlement n° 97-04 du 31 décembre 1997 Article 9"
+        ]
+      },
+      {
+        "id": "G018",
+        "split": "dev",
+        "category": "evolutif",
+        "question": "Quelle indemnité journalière de mission à l'étranger pour un cadre dirigeant d'entreprise ?",
+        "ko": [
+          "top1"
+        ],
+        "affiche": [
+          "Instruction n° 02-2024 du 25 avril 2024 Article 2",
+          "Instruction n° 02-2024 du 25 avril 2024 Article 6",
+          "Instruction n° 02-2024 du 25 avril 2024 Article 11",
+          "Instruction n° 22-92 du 10 juin 1992"
+        ]
+      },
+      {
+        "id": "G020",
+        "split": "test",
+        "category": "fond",
+        "question": "Quels cours s'appliquent aux achats à terme de devises avec décaissement immédiat de dinars ?",
+        "ko": [
+          "top1"
+        ],
+        "affiche": [
+          "Instruction n° 28-93 du 1er avril 1993",
+          "Instruction n° 28-93 du 1er avril 1993",
+          "Instruction n° 28-93 du 1er avril 1993 Annexe",
+          "Règlement n° 91-07 du 14 août 1991 Article 28"
+        ]
+      },
+      {
+        "id": "G021",
+        "split": "test",
+        "category": "fond",
+        "question": "Qui a droit à l'ouverture d'un compte de dépôt en dinars ?",
+        "ko": [
+          "top1"
+        ],
+        "affiche": [
+          "Instruction n° 03-2012 du 26 décembre 2012 Article 6",
+          "Instruction n° 03-2012 du 26 décembre 2012 Article 2",
+          "Instruction n° 03-2012 du 26 décembre 2012 Annexe",
+          "Instruction n° 03-2012 du 26 décembre 2012 Article 9"
+        ]
+      },
+      {
+        "id": "G022",
+        "split": "test",
+        "category": "fond",
+        "question": "Comment la banque prévient-elle les déposants que leurs dépôts sont indisponibles ?",
+        "ko": [
+          "top1"
+        ],
+        "affiche": [
+          "Règlement n° 2020-03 du 15 mars 2020 Article 17",
+          "Règlement n° 97-04 du 31 décembre 1997 Article 16",
+          "Règlement n° 2004-03 du 4 mars 2004 Article 15",
+          "Règlement n° 97-04 du 31 décembre 1997 Article 15"
+        ]
+      },
+      {
+        "id": "G024",
+        "split": "test",
+        "category": "fond",
+        "question": "Dans quelle monnaie les crédits sont-ils déclarés à la centrale des risques ?",
+        "ko": [
+          "present",
+          "top1",
+          "fait_cle"
+        ],
+        "affiche": [
+          "Règlement n° 2012-01 du 20 février 2012 Article 12",
+          "Instruction n° 04-2019 du 31 décembre 2019 Article 02",
+          "Règlement n° 2012-01 du 20 février 2012 Article 2",
+          "Règlement n° 2012-01 du 20 février 2012 Article 6"
+        ]
+      },
+      {
+        "id": "G027",
+        "split": "test",
+        "category": "fond",
+        "question": "Quel cours de change s'applique aux éléments en devises à la date d'arrêté des comptes ?",
+        "ko": [
+          "top1"
+        ],
+        "affiche": [
+          "Règlement n° 94-18 du 25 décembre 1994 Article 8",
+          "Règlement n° 25-06 du 24 juillet 2025 Article 8",
+          "Règlement n° 94-18 du 25 décembre 1994 Article 11",
+          "Règlement n° 25-06 du 24 juillet 2025 Article 11"
+        ]
+      },
+      {
+        "id": "G028",
+        "split": "test",
+        "category": "fond",
+        "question": "Les exportateurs reçoivent-ils toujours la totalité du produit de leurs exportations en devises ?",
+        "ko": [
+          "present",
+          "top1",
+          "fait_cle"
+        ],
+        "affiche": [
+          "Instruction n° 06-2021 du 29 juin 2021 Article 4",
+          "Note n° 086-DGC-2021 du 3 février 2007",
+          "Instruction n° 22-94 du 12 avril 1994 Article 1",
+          "Note n° 06-94 du 5 avril 1994"
+        ]
+      },
+      {
+        "id": "G029",
+        "split": "test",
+        "category": "fond",
+        "question": "Où sont versées les allocations médicales en devises ?",
+        "ko": [
+          "top1"
+        ],
+        "affiche": [
+          "Instruction n° 83-92 du 27 décembre 1992 Article 2",
+          "Instruction n° 83-92 du 27 décembre 1992 Article 6",
+          "Instruction n° 03-91 du 15 juillet 1991",
+          "Instruction n° 83-92 du 27 décembre 1992 Article 9"
+        ]
+      },
+      {
+        "id": "G033",
+        "split": "test",
+        "category": "fond",
+        "question": "Quels comptes les banques utilisent-elles pour enregistrer les opérations de change ?",
+        "ko": [
+          "top1"
+        ],
+        "affiche": [
+          "Règlement n° 25-06 du 24 juillet 2025 Article 14",
+          "Règlement n° 94-18 du 25 décembre 1994 Article 5",
+          "Règlement n° 2011-08 du 28 novembre 2011 Article 53",
+          "Règlement n° 25-06 du 24 juillet 2025 Article 5"
+        ]
+      },
+      {
+        "id": "G037",
+        "split": "test",
+        "category": "evolutif",
+        "question": "À combien s'élève la garantie maximale des dépôts d'un client ?",
+        "ko": [
+          "present",
+          "top1",
+          "fait_cle"
+        ],
+        "affiche": [
+          "Instruction n° 03-2020 du 2 avril 2020 Article 34",
+          "Instruction n° 01-2022 du 5 janvier 2022 Article 5",
+          "Instruction n° 04-2026 du 30 avril 2026",
+          "Lignes_directrices n° 03-25 du 8 juillet 2025"
+        ]
+      },
+      {
+        "id": "G038",
+        "split": "test",
+        "category": "evolutif",
+        "question": "Combien d'euros un résident peut-il emporter à l'étranger par an ?",
+        "ko": [
+          "top1"
+        ],
+        "affiche": [
+          "Instruction n° 07-2026 du 13 juillet 2026 Article 2",
+          "Instruction n° 05-2025 du 17 juillet 2025 Article 2",
+          "Règlement n° 2016-02 du 21 avril 2016 Article 5",
+          "Instruction n° 83-92 du 27 décembre 1992 Article 2"
+        ]
+      },
+      {
+        "id": "G042",
+        "split": "holdout",
+        "category": "fond",
+        "question": "Que doivent obtenir les banques avant d'entrer en relation avec une personne politiquement exposée ?",
+        "ko": [
+          "top1"
+        ],
+        "affiche": [
+          "Instruction n° 02 du 4 décembre 2023 Article 17",
+          "Instruction n° 03 du 5 décembre 2023 Article 4",
+          "Lignes_directrices n° 02-2025 du 26 mai 2025",
+          "Instruction n° 03 du 5 décembre 2023 Article 1"
+        ]
+      },
+      {
+        "id": "G045",
+        "split": "holdout",
+        "category": "fond",
+        "question": "Vers où les revenus autorisés par la Banque d'Algérie peuvent-ils être transférés ?",
+        "ko": [
+          "top1"
+        ],
+        "affiche": [
+          "Instruction n° 92-94 du 29 décembre 1994 Article 3",
+          "Instruction n° 92-94 du 29 décembre 1994 Article 6",
+          "Instruction n° 02-98 du 21 mai 1998 Article 2",
+          "Ordonnance n° 03-11 du 26 août 2003 Article 126"
+        ]
+      },
+      {
+        "id": "G049",
+        "split": "holdout",
+        "category": "fond",
+        "question": "Qu'appelle-t-on actifs financiers détenus jusqu'à leur échéance ?",
+        "ko": [
+          "top1"
+        ],
+        "affiche": [
+          "Règlement n° 2009-08 du 29 décembre 2009 Article 20",
+          "Règlement n° 2009-08 du 29 décembre 2009 Article 9",
+          "Règlement n° 2009-08 du 29 décembre 2009 Article 8",
+          "Règlement n° 25-08 du 24 juillet 2025 Annexe"
+        ]
+      },
+      {
+        "id": "T008",
+        "split": "test",
+        "category": "hors_sujet",
+        "question": "Quel est le taux d'imposition des sociétés en France ?",
+        "ko": [
+          "refus"
+        ],
+        "affiche": [
+          "Note n° 002-2001 du 29 août 2001",
+          "Instruction n° 79-95 du 27 décembre 1995 Article 10",
+          "Instruction n° 03-2003 du 1er juin 2003",
+          "Instruction n° 05-2002 du 23 septembre 2002"
+        ]
+      },
+      {
+        "id": "T009",
+        "split": "holdout",
+        "category": "hors_sujet",
+        "question": "Combien coûte un billet d'avion Alger-Paris ?",
+        "ko": [
+          "refus"
+        ],
+        "affiche": [
+          "Instruction n° 23-92 du 10 juin 1992 Annexe",
+          "Instruction n° 05-2001 du 4 septembre 2001 Annexe",
+          "Instruction n° 08-2001 du 30 décembre 2001 Annexe",
+          "Instruction n° 40-95 du 28 mai 1995 Article 2"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,877 @@
+{
+  "document_id": "INS-08-16.ar",
+  "work_id": "INS-08-16",
+  "title": "تعليمة رقم 08-16 المؤرخة في 1 سبتمبر 2016، المتعلقة بكيفيات تحديد معدلات الفائدة المفرطة.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "08-16",
+  "number_source": "libelle",
+  "date": "2016-09-01",
+  "date_raw": "المؤرخة في 1 سبتمبر 2016",
+  "date_source": "libelle",
+  "publication_date": "2023-03-02",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "instructions",
+  "subcategory": "القواعد العامة المتعلقة بالشروط البنكية المطبقة على العمليات المصرفية",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d9%85%d8%b9%d8%af%d9%84%d8%a7%d8%aa-%d9%85%d9%81%d8%b1%d8%b7%d8%a9/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/03/08-16.pdf",
+  "format": "pdf",
+  "file_hash": "043a11733761d3ba8dd022fb56c774baf078c4848bd262c7bac51c171731d454",
+  "file_size": 484711,
+  "raw_path": "raw/043a11733761__08-16.pdf",
+  "retrieved_at": "2026-10-05T13:29:55+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 4,
+  "url_hash": "7a88470d21bbd001347132a12f5ee66e856ebdee321a0e7d2cc8db63bab2b0b4",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d9%85%d8%b9%d8%af%d9%84%d8%a7%d8%aa-%d9%85%d9%81%d8%b1%d8%b7%d8%a9/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "author": "lynda benhaha",
+    "creator": "Microsoft® Word 2016",
+    "producer": "Microsoft® Word 2016",
+    "creationDate": "D:20230228160326+01'00'",
+    "modDate": "D:20230228160326+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 4,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 1471,
+        "ocr_confidence": 87.76016260162602
+      },
+      {
+        "page": 2,
+        "method": "ocr",
+        "chars": 1347,
+        "ocr_confidence": 85.54893617021277
+      },
+      {
+        "page": 3,
+        "method": "ocr",
+        "chars": 1500,
+        "ocr_confidence": 87.97560975609755
+      },
+      {
+        "page": 4,
+        "method": "ocr",
+        "chars": 126,
+        "ocr_confidence": 85.36363636363636
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 18,
+    "annex_count": 1
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine",
+    "numerotation:articles_manquants:[10]",
+    "numerotation:premier_article=0",
+    "numerotation:ordre_non_croissant"
+  ],
+  "title_document": null,
+  "alias_urls": [],
+  "text_hash": "e28889b7bffcf6c723c100d5725d39e4642a0eddccb4c341a82d32a7caed7edf",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [
+    {
+      "work_id": "INS-06-26",
+      "document_id": "INS-06-26.fr",
+      "date": "2026-06-29",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°06-2026 du 29 juin 2026 modifiant l’instruction n°08-2016 du premier septembre 2016 relative aux"
+      }
+    },
+    {
+      "work_id": "INS-06-26",
+      "document_id": "INS-06-26.fr",
+      "date": "2026-06-29",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier l’instruction N°08-2016 du premier septembre 2016 relative aux"
+      }
+    },
+    {
+      "work_id": "INS-10-21",
+      "document_id": "INS-10-21.fr",
+      "date": "2021-11-21",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°10-2021 du 21 novembre 2021 modifiant et complétant l’instruction n°08-2016 du 1er septembre 2016 relative aux modalités de fixation des"
+      }
+    },
+    {
+      "work_id": "INS-10-21",
+      "document_id": "INS-10-21.fr",
+      "date": "2021-11-21",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l’instruction n°8-2016 du 1er septembre 2016 relative aux modalités de fixation des"
+      }
+    }
+  ],
+  "complete_par": [
+    {
+      "work_id": "INS-10-21",
+      "document_id": "INS-10-21.fr",
+      "date": "2021-11-21",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°10-2021 du 21 novembre 2021 modifiant et complétant l’instruction n°08-2016 du 1er septembre 2016 relative aux modalités de fixation des"
+      }
+    },
+    {
+      "work_id": "INS-10-21",
+      "document_id": "INS-10-21.fr",
+      "date": "2021-11-21",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l’instruction n°8-2016 du 1er septembre 2016 relative aux modalités de fixation des"
+      }
+    }
+  ],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée. Ce texte a été modifié/complété : consulter aussi les textes listés dans modifié_par / complété_par.",
+  "same_work_documents": [
+    "INS-08-16.fr"
+  ],
+  "complété_par": [
+    {
+      "work_id": "INS-10-21",
+      "document_id": "INS-10-21.fr",
+      "date": "2021-11-21",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°10-2021 du 21 novembre 2021 modifiant et complétant l’instruction n°08-2016 du 1er septembre 2016 relative aux modalités de fixation des"
+      }
+    },
+    {
+      "work_id": "INS-10-21",
+      "document_id": "INS-10-21.fr",
+      "date": "2021-11-21",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l’instruction n°8-2016 du 1er septembre 2016 relative aux modalités de fixation des"
+      }
+    }
+  ],
+  "modifié_par": [
+    {
+      "work_id": "INS-06-26",
+      "document_id": "INS-06-26.fr",
+      "date": "2026-06-29",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°06-2026 du 29 juin 2026 modifiant l’instruction n°08-2016 du premier septembre 2016 relative aux"
+      }
+    },
+    {
+      "work_id": "INS-06-26",
+      "document_id": "INS-06-26.fr",
+      "date": "2026-06-29",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier l’instruction N°08-2016 du premier septembre 2016 relative aux"
+      }
+    },
+    {
+      "work_id": "INS-10-21",
+      "document_id": "INS-10-21.fr",
+      "date": "2021-11-21",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°10-2021 du 21 novembre 2021 modifiant et complétant l’instruction n°08-2016 du 1er septembre 2016 relative aux modalités de fixation des"
+      }
+    },
+    {
+      "work_id": "INS-10-21",
+      "document_id": "INS-10-21.fr",
+      "date": "2021-11-21",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l’instruction n°8-2016 du 1er septembre 2016 relative aux modalités de fixation des"
+      }
+    }
+  ],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "ocr_numeric_check": {
+    "units": 20,
+    "units_flagged": 0,
+    "units_compared_with_french": 9,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 02",
+      "number": "02",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 03",
+      "number": "03",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 04",
+      "number": "04",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 05",
+      "number": "05",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 06",
+      "number": "06",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 07",
+      "number": "07",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 08",
+      "number": "08",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 09",
+      "number": "09",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 0",
+      "number": "0",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 16",
+      "number": "16",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 17",
+      "number": "17",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 18",
+      "number": "18",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe للتعليمة",
+      "number": "للتعليمة",
+      "heading": "رقم 16-08 المؤرخة في 1 سبتمبر 2016",
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "التعليمة رقم 16-08 المؤرخة في 1 سبتمبر 2016 المتعلقة بكيفيات تحديد معدلات الفائدة الزائدة",
+      "paragraphs": [
+        {
+          "text": "التعليمة رقم 16-08 المؤرخة في 1 سبتمبر 2016 المتعلقة بكيفيات تحديد معدلات الفائدة الزائدة",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تهدف هذه التعليمة إلى تحديد كيفيات تطبيق المادة 9 من النظام رقم 01-13 المؤرخ في 08 أبريل سنة 2013 المُحدد للقواعد العامة المتعلقة بالشروط البنكية المطبقة على العمليات المصرفية. وتحديد كيفيات حساب معدلات الفائدة الز par‏",
+      "paragraphs": [
+        {
+          "text": "تهدف هذه التعليمة إلى تحديد كيفيات تطبيق المادة 9 من النظام رقم 01-13 المؤرخ في 08 أبريل سنة 2013 المُحدد للقواعد العامة المتعلقة بالشروط البنكية المطبقة على العمليات المصرفية. وتحديد كيفيات حساب معدلات الفائدة الز par‏",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 02",
+      "number": "02",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يعتبر قرض بمعدل فائدة زائد» كل دعم مالي ممنوح بمعدل فائدة فعلي إجمالي يفوق» عندما يتم منحه» خمس )220( متوسط المعدل الفعلي المطبق في العمليات من نفس الطبيعة من طرف البنوك والمؤسسات المالية خلال السداسي السابق.",
+      "paragraphs": [
+        {
+          "text": "يعتبر قرض بمعدل فائدة زائد» كل دعم مالي ممنوح بمعدل فائدة فعلي إجمالي يفوق» عندما يتم منحه» خمس )220( متوسط المعدل الفعلي المطبق في العمليات من نفس الطبيعة من طرف البنوك والمؤسسات المالية خلال السداسي السابق.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 03",
+      "number": "03",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "كل مجموعة عمليات من نفس الطبيعة تخضع إلى معدل فائدة زائد. تتمثل ile gone‏ العمليات «oi‏ في فئات الدعم المالي Ai‏ أ- المكشوفات؛ ب- القروض الاستهلاكية؛ ج - القروض قصيرة الأجل؛ د - القروض متوسطة الأجل؛ ه - القروض طويلة الأجل؛ و- القروض لتمويل للسكن؛ ز- التمويل الإيجاري.",
+      "paragraphs": [
+        {
+          "text": "كل مجموعة عمليات من نفس الطبيعة تخضع إلى معدل فائدة زائد. تتمثل ile gone‏ العمليات «oi‏ في فئات الدعم المالي Ai‏ أ- المكشوفات؛ ب- القروض الاستهلاكية؛ ج - القروض قصيرة الأجل؛ د - القروض متوسطة الأجل؛ ه - القروض طويلة الأجل؛ و- القروض لتمويل للسكن؛ ز- التمويل الإيجاري.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 04",
+      "number": "04",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "إن معدل الفائدة الفعلي الإجمالي هو معدل سنوي يمائل معدل الفترة محسوباً عند بلوغ أجل الاستحقاق والمُعبر عنه بنسبة مئوية برقمين بعد الفاصلة.\nكما يشمل» إضافة إلى معدل الفائدة الإسمي» = التكاليف والعموللات والتعويضات الأخرى المّفوترة من طرف البنك أو المؤسسة المالية عند منحهم للقرض.",
+      "paragraphs": [
+        {
+          "text": "إن معدل الفائدة الفعلي الإجمالي هو معدل سنوي يمائل معدل الفترة محسوباً عند بلوغ أجل الاستحقاق والمُعبر عنه بنسبة مئوية برقمين بعد الفاصلة.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "كما يشمل» إضافة إلى معدل الفائدة الإسمي» = التكاليف والعموللات والتعويضات الأخرى المّفوترة من طرف البنك أو المؤسسة المالية عند منحهم للقرض.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 05",
+      "number": "05",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "إن معدل الفترة هو المعدل حتى تاريخ الاستحقاق الذي des‏ مبلغ Lun‏ صاف من العمولات والتكاليف والتعويضات المقتطعة من طرف Le ji‏ عند منحه للقرض مساويا للمبالغ المحينة المطلوبة من المقترض بموجب تسديد إجمالي لكل من دفع الفوائد والعمولات والتكاليف والتعويضات الأخرى بكل أنواعها.\nلا تدرج في حساب هذا المعدل الحقوق والرسوم المقتطعة من طرف البنوك والمؤسسات",
+      "paragraphs": [
+        {
+          "text": "إن معدل الفترة هو المعدل حتى تاريخ الاستحقاق الذي des‏ مبلغ Lun‏ صاف من العمولات والتكاليف والتعويضات المقتطعة من طرف Le ji‏ عند منحه للقرض مساويا للمبالغ المحينة المطلوبة من المقترض بموجب تسديد إجمالي لكل من دفع الفوائد والعمولات والتكاليف والتعويضات الأخرى بكل أنواعها.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "لا تدرج في حساب هذا المعدل الحقوق والرسوم المقتطعة من طرف البنوك والمؤسسات",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 06",
+      "number": "06",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "يتم تحديد معدل الفترة على أساس المعدل حتى تاريخ الاستحقاق» حسب المعادلة الرياضية التالية:\n*( + 1)/ و\" ,نلق دم دم + كنا :C‏ إجمالي العمولات والتكاليف والتعويضات المقتطعة من طرف المقرض عند منحه القرض.\nالأخرى).\n:t‏ تواتر التسديدات.\n1: معدل الفترة.\nLi jé de :n‏ التسديد.\nفي حالة عدم انتظام تواتر eclanall‏ إن الفترة الوحدوية الواجب أخذها هي تلك التي توافق أقل فترة زمنية تفصل بين تسديدين. يجب ألا تقل هذه الفترة gas gli‏ في أي حال من الأحوال» عن شهرا واحدا.\nفي AS‏ التسديدات غير السنوية» يتم احتساب معدل الفائدة الفعلي الإجمالي بأخذ معدل الفترة مضروبا في عدد فترات التسديدات السنوية.",
+      "paragraphs": [
+        {
+          "text": "يتم تحديد معدل الفترة على أساس المعدل حتى تاريخ الاستحقاق» حسب المعادلة الرياضية التالية:",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "*( + 1)/ و\" ,نلق دم دم + كنا :C‏ إجمالي العمولات والتكاليف والتعويضات المقتطعة من طرف المقرض عند منحه القرض.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "الأخرى).",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": ":t‏ تواتر التسديدات.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "1: معدل الفترة.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Li jé de :n‏ التسديد.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "في حالة عدم انتظام تواتر eclanall‏ إن الفترة الوحدوية الواجب أخذها هي تلك التي توافق أقل فترة زمنية تفصل بين تسديدين. يجب ألا تقل هذه الفترة gas gli‏ في أي حال من الأحوال» عن شهرا واحدا.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "في AS‏ التسديدات غير السنوية» يتم احتساب معدل الفائدة الفعلي الإجمالي بأخذ معدل الفترة مضروبا في عدد فترات التسديدات السنوية.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 07",
+      "number": "07",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "عندما يتعلق الأمر بقرض ممنوح في شكل مكشوف على الحسابء. يجب أن يُحسب معدل الفائدة الفعلي الإجمالي بتطبيق طريقة الأعدادء التي من خلالها يضرب كل رصيد من الأرصدة المدينة» المسجلة في الحساب بصفة متتالية خلال الفترة الزمنية التي تفصل بين اقفالين للحسابات» في الفترة الخاصة به.",
+      "paragraphs": [
+        {
+          "text": "عندما يتعلق الأمر بقرض ممنوح في شكل مكشوف على الحسابء. يجب أن يُحسب معدل الفائدة الفعلي الإجمالي بتطبيق طريقة الأعدادء التي من خلالها يضرب كل رصيد من الأرصدة المدينة» المسجلة في الحساب بصفة متتالية خلال الفترة الزمنية التي تفصل بين اقفالين للحسابات» في الفترة الخاصة به.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 08",
+      "number": "08",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "El‏ حساب معدل الفترة لعمليات الخصم ينجم عن كل تكلفة مالية التي يتحملها",
+      "paragraphs": [
+        {
+          "text": "El‏ حساب معدل الفترة لعمليات الخصم ينجم عن كل تكلفة مالية التي يتحملها",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 09",
+      "number": "09",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "لكل is‏ من فئنات الدعم «Li‏ المشار إليها في المادة 3 المذكورة sci‏ يحب على البنوك والمؤسسات المالية أن تحسب معدل فائدة فعلي إجمالي يعادل متوسط معدلات الفائدة الفعلية الإجمالية للقروض المشكلة للفئة» مرجّحة بقائم هذه القروض.",
+      "paragraphs": [
+        {
+          "text": "لكل is‏ من فئنات الدعم «Li‏ المشار إليها في المادة 3 المذكورة sci‏ يحب على البنوك والمؤسسات المالية أن تحسب معدل فائدة فعلي إجمالي يعادل متوسط معدلات الفائدة الفعلية الإجمالية للقروض المشكلة للفئة» مرجّحة بقائم هذه القروض.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 0",
+      "number": "0",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 3,
+      "text": "لا تؤخذ بعين الاعتبار سوى القروض المنتجة للفوائد في حساب معدل الفائدة الفعلي الإجمالي. لا درج في حساب معدل الفائدة الفعلي الإجماليء كل القروض التي هي محل نزاع والقروض المجمّدة والقروض ذات معدلات الفائدة المَنظمة أو المّيسّترة من طرف الدولة.",
+      "paragraphs": [
+        {
+          "text": "لا تؤخذ بعين الاعتبار سوى القروض المنتجة للفوائد في حساب معدل الفائدة الفعلي الإجمالي. لا درج في حساب معدل الفائدة الفعلي الإجماليء كل القروض التي هي محل نزاع والقروض المجمّدة والقروض ذات معدلات الفائدة المَنظمة أو المّيسّترة من طرف الدولة.",
+          "page_start": 2,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "يجب الإشارة إلى معدل الفائدة الفعلي الإجمالي في كل عرض لقرض وفي كل وثيقة تعتبر كعقد للقرضء وهذا عند بداية العلاقة وعند تجديد الدعم المالي أو عند طلب",
+      "paragraphs": [
+        {
+          "text": "يجب الإشارة إلى معدل الفائدة الفعلي الإجمالي في كل عرض لقرض وفي كل وثيقة تعتبر كعقد للقرضء وهذا عند بداية العلاقة وعند تجديد الدعم المالي أو عند طلب",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "ثرميل البنوك والمؤسسات المالية إلى بنك الجزائرء بعد خمسة (5) أيام» كأقصى cas‏ من انقضاء الخمسة أشهر الأولى من السداسي الأول والثاني من كل lis‏ تصريحا عن معدل الفائدة الفعلي الإجمالي المطبّق خلال الخمسة أشهر الأولى من السداسي المأخوذ بعين",
+      "paragraphs": [
+        {
+          "text": "ثرميل البنوك والمؤسسات المالية إلى بنك الجزائرء بعد خمسة (5) أيام» كأقصى cas‏ من انقضاء الخمسة أشهر الأولى من السداسي الأول والثاني من كل lis‏ تصريحا عن معدل الفائدة الفعلي الإجمالي المطبّق خلال الخمسة أشهر الأولى من السداسي المأخوذ بعين",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "يقوم بنك الجزائرء خلال الشهر الأخير من كل سداسيء بحساب متوسطات معدلات الفائدة الفعلية» لمختلف Gi‏ الدعم المالي وعتبات معدلات الفائدة الزائدة» التي تُطبق في السداسي الموالي.",
+      "paragraphs": [
+        {
+          "text": "يقوم بنك الجزائرء خلال الشهر الأخير من كل سداسيء بحساب متوسطات معدلات الفائدة الفعلية» لمختلف Gi‏ الدعم المالي وعتبات معدلات الفائدة الزائدة» التي تُطبق في السداسي الموالي.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "يرسل بنك الجزائر إلى البنوك والمؤسسات المالية» متوسطات معدلات الفائدة الفعلية وكذا عتبات معدلات الفائدة الزائدة المتعلقة بها. يتم نشر هذه المعدلات.",
+      "paragraphs": [
+        {
+          "text": "يرسل بنك الجزائر إلى البنوك والمؤسسات المالية» متوسطات معدلات الفائدة الفعلية وكذا عتبات معدلات الفائدة الزائدة المتعلقة بها. يتم نشر هذه المعدلات.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "في الحالة التي تُطبّق فيها معدلات فائدة تفوق معدلات الفائدة الزائدة» للمقترض الحق في طلب استرجاع المبالغ المُحصلة من طرف البنك أو المؤسسة المالية المعنية بلا مبررء بإضافة الفوائد المحسوبة لمتوسط معدل الفائدة الفعلي لفئة القرض المعنية؛ المحدد من طرف بنك الجزائر.",
+      "paragraphs": [
+        {
+          "text": "في الحالة التي تُطبّق فيها معدلات فائدة تفوق معدلات الفائدة الزائدة» للمقترض الحق في طلب استرجاع المبالغ المُحصلة من طرف البنك أو المؤسسة المالية المعنية بلا مبررء بإضافة الفوائد المحسوبة لمتوسط معدل الفائدة الفعلي لفئة القرض المعنية؛ المحدد من طرف بنك الجزائر.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 16",
+      "number": "16",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "في حالات استثناتية» يمكن لبنك الجزائر أن يقوم بالتعديلات المناسبة في معدلات الفائدة الزائدة المحددة حسب الكيفيات المشار إليه سايقا.",
+      "paragraphs": [
+        {
+          "text": "في حالات استثناتية» يمكن لبنك الجزائر أن يقوم بالتعديلات المناسبة في معدلات الفائدة الزائدة المحددة حسب الكيفيات المشار إليه سايقا.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 17",
+      "number": "17",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "كل مخالفة لتدابير هذه التعليمة» لا سيما لتلك المنصوص عليها في المادة 2 والمادة «II‏ تعرض صاحبها لعقويات من اللجنة المصرفية.",
+      "paragraphs": [
+        {
+          "text": "كل مخالفة لتدابير هذه التعليمة» لا سيما لتلك المنصوص عليها في المادة 2 والمادة «II‏ تعرض صاحبها لعقويات من اللجنة المصرفية.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 18",
+      "number": "18",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "تدخل هذه التعليمة حيز التطبيق ابتداءا من تاريخ الإمضاء عليها.\nالجزائر» في 1 سبتمبر 2016 المحافظ",
+      "paragraphs": [
+        {
+          "text": "تدخل هذه التعليمة حيز التطبيق ابتداءا من تاريخ الإمضاء عليها.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "الجزائر» في 1 سبتمبر 2016 المحافظ",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe للتعليمة",
+      "number": "للتعليمة",
+      "heading": "رقم 16-08 المؤرخة في 1 سبتمبر 2016",
+      "context": {},
+      "annexe": {
+        "number": "للتعليمة",
+        "heading": "رقم 16-08 المؤرخة في 1 سبتمبر 2016",
+        "label": "Annexe للتعليمة"
+      },
+      "page_start": 4,
+      "page_end": 4,
+      "text": "تصريح بمعدل الفائدة الفعلي الإجمالي حسب فئة الدعم المالي الخاص بالسداسي مت كه",
+      "paragraphs": [
+        {
+          "text": "تصريح بمعدل الفائدة الفعلي الإجمالي حسب فئة الدعم المالي الخاص بالسداسي مت كه",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine",
+      "numerotation:articles_manquants:[10]",
+      "numerotation:premier_article=0",
+      "numerotation:ordre_non_croissant"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.037,
+      "ocr_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "ocr_mean_confidence": 86.7
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/INS-08-16.ar.txt"
+}

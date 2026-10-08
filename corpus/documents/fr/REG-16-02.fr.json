@@ -1,0 +1,569 @@
+{
+  "document_id": "REG-16-02.fr",
+  "work_id": "REG-16-02",
+  "title": "Règlement n°2016-02 du 21 avril 2016 fixant le seuil de déclaration d’importation et d’exportation de billets de banque et/ou d’instruments négociables libellés en monnaies étrangères librement convertibles, par les résidents et les non-résidents.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "2016-02",
+  "number_source": "en-tête du document",
+  "date": "2016-04-21",
+  "date_raw": "N°2016-02 DU 21 AVRIL 2016",
+  "date_source": "en-tête du document",
+  "publication_date": "2023-01-25",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Règlementation des changes",
+  "source_url": "https://www.bank-of-algeria.dz/devises-reglement/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/reglement201602.pdf",
+  "format": "pdf",
+  "file_hash": "ed79f2c91ca3c539375bb9d12772dbf4df5f00e3af85c0297c70db92b3eb6b65",
+  "file_size": 47982,
+  "raw_path": "raw/ed79f2c91ca3__reglement201602.pdf",
+  "retrieved_at": "2026-10-05T13:26:54+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "5a557585118901740f917943222204aef55e4d6c8999c9e56275a34c9bce5654",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/devises-reglement/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document1",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200727143858+01'00'",
+    "modDate": "D:20200727143858+01'00'"
+  },
+  "hijri_date_raw": "23 Safar 1417",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 3670,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 1253,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 7,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "REGLEMENT N°2016-02 DU 21 AVRIL 2016 FIXANT LE SEUIL DE DECLARATION D’IMPORTATION ET D’EXPORTATION DE BILLETS DE BANQUE ET/OU D’INSTRUMENTS NEGOCIABLES LIBELLES EN MONNAIES ETRANGERES LIBREMENT CONVERTIBLES, PAR LES RESIDENTS ET LES NON-RESIDENTS",
+  "alias_urls": [],
+  "text_hash": "576d579348895f9817e42e71eb122d491612d0f360a04ec1fec6bca8e23c5a1d",
+  "relations_out": [
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "07-01",
+        "date": null,
+        "raw": "règlement n° 07-01"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Toutes dispositions contraires au présent règlement, notamment les articles 19 et 20 du règlement n° 07-01 février 2007 susvisé, sont abrogées."
+      },
+      "target_work_id": "REG-07-01"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n° 07-01",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Toutes dispositions contraires au présent règlement, notamment les articles 19 et 20 du règlement n° 07-01 février 2007 susvisé, sont abrogées."
+      }
+    }
+  ],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [
+    {
+      "work_id": "REG-24-05",
+      "document_id": "REG-24-05.fr",
+      "date": "2024-10-13",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°24-05 du 13 octobre 2024 modifiant et complétant le règlement n°16-02 du 21 avril 2016 fixant le seuil de déclaration d’import"
+      }
+    },
+    {
+      "work_id": "REG-24-05",
+      "document_id": "REG-24-05.fr",
+      "date": "2024-10-13",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter les dispositions du règlement n°16-02 du 13 Rajab 1437 correspondant au 21 avril 2016 fixant l"
+      }
+    }
+  ],
+  "complete_par": [
+    {
+      "work_id": "REG-24-05",
+      "document_id": "REG-24-05.fr",
+      "date": "2024-10-13",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°24-05 du 13 octobre 2024 modifiant et complétant le règlement n°16-02 du 21 avril 2016 fixant le seuil de déclaration d’import"
+      }
+    },
+    {
+      "work_id": "REG-24-05",
+      "document_id": "REG-24-05.fr",
+      "date": "2024-10-13",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter les dispositions du règlement n°16-02 du 13 Rajab 1437 correspondant au 21 avril 2016 fixant l"
+      }
+    }
+  ],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée. Ce texte a été modifié/complété : consulter aussi les textes listés dans modifié_par / complété_par.",
+  "same_work_documents": [
+    "REG-16-02.ar"
+  ],
+  "complété_par": [
+    {
+      "work_id": "REG-24-05",
+      "document_id": "REG-24-05.fr",
+      "date": "2024-10-13",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°24-05 du 13 octobre 2024 modifiant et complétant le règlement n°16-02 du 21 avril 2016 fixant le seuil de déclaration d’import"
+      }
+    },
+    {
+      "work_id": "REG-24-05",
+      "document_id": "REG-24-05.fr",
+      "date": "2024-10-13",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter les dispositions du règlement n°16-02 du 13 Rajab 1437 correspondant au 21 avril 2016 fixant l"
+      }
+    }
+  ],
+  "modifié_par": [
+    {
+      "work_id": "REG-24-05",
+      "document_id": "REG-24-05.fr",
+      "date": "2024-10-13",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°24-05 du 13 octobre 2024 modifiant et complétant le règlement n°16-02 du 21 avril 2016 fixant le seuil de déclaration d’import"
+      }
+    },
+    {
+      "work_id": "REG-24-05",
+      "document_id": "REG-24-05.fr",
+      "date": "2024-10-13",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter les dispositions du règlement n°16-02 du 13 Rajab 1437 correspondant au 21 avril 2016 fixant l"
+      }
+    }
+  ],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°2016-02 DU 21 AVRIL 2016 FIXANT LE SEUIL DE DECLARATION\nD’IMPORTATION ET D’EXPORTATION DE BILLETS DE BANQUE ET/OU\nD’INSTRUMENTS NEGOCIABLES LIBELLES EN MONNAIES ETRANGERES\nLIBREMENT CONVERTIBLES, PAR LES RESIDENTS ET LES NON-RESIDENTS\nLe Gouverneur de la Banque d’Algérie,\n- Vu la loi n°79-07 du 21 juillet 1979, modifiée et complétée, portant code des douanes ;\n- Vu l’ordonnance n°96-22 du 23 Safar 1417 correspondant au 09 juillet 1996, modifiée et complétée, relative à la répression de l’infraction à la législation et à la réglementation des changes et des mouvements de capitaux de et vers l’étranger ;\n- Vu l’ordonnance n°03-11 du 27 Joumada Ethani 1424 correspondant au 26 août 2003, modifiée et complétée, relative à la monnaie et au crédit, notamment ses articles 35, 62 point m et 127;\n- Vu la loi n°05-01 du 27 Dhou El Hidja 1425 correspondant au 06 février 2005, modifiée et complétée, relative à la prévention et à la lutte contre le blanchiment d’argent et le financement du terrorisme ;\n- Vu la loi n°15-18 du 18 Rabie El Aouel 1437 correspondant au 30 décembre 2015 portant loi de finances pour 2016, notamment son article 72 ;\n- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 02 juin 2001 portant nomination du Gouverneur et Vice-Gouverneurs de la Banque d’Algérie ;\n- Vu le décret présidentiel du 24 Dhou El Kaâda 1424 correspondant au 14 janvier 2004 portant nomination des membres du conseil de la monnaie et du crédit de la Banque d’Algérie ;\n- Vu le décret présidentiel du 05 Joumada El Oula 1427 correspondant au 1er juin 2006, portant nomination d’un vice-gouverneur de la Banque d’Algérie ;\n- Vu le décret présidentiel du 05 Safar 1437 correspondant au 17 novembre 2015 portant nomination de membres du conseil d’administration de la Banque d’Algérie;\n- Vu le règlement n° 95-08 du 30 Rajab 1416 correspondant au 23 décembre 1995 relatif au marché des changes, notamment son article 8 ;\n- Vu le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modifié et complété, relatif aux règles applicables aux transactions courantes avec l’étranger et aux comptes devises ;\n- Vu le règlement n°12-03 du 14 Moharam 1434 correspondant au 28 novembre 2012 relatif à la prévention et à la lutte contre le blanchiment d’argent et le financement du terrorisme ;\n- Vu les délibérations du Conseil de la Monnaie et du Crédit en date du 21 avril 2016 ;\nPromulgue le règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°2016-02 DU 21 AVRIL 2016 FIXANT LE SEUIL DE DECLARATION",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "D’IMPORTATION ET D’EXPORTATION DE BILLETS DE BANQUE ET/OU",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "D’INSTRUMENTS NEGOCIABLES LIBELLES EN MONNAIES ETRANGERES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "LIBREMENT CONVERTIBLES, PAR LES RESIDENTS ET LES NON-RESIDENTS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d’Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la loi n°79-07 du 21 juillet 1979, modifiée et complétée, portant code des douanes ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’ordonnance n°96-22 du 23 Safar 1417 correspondant au 09 juillet 1996, modifiée et complétée, relative à la répression de l’infraction à la législation et à la réglementation des changes et des mouvements de capitaux de et vers l’étranger ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’ordonnance n°03-11 du 27 Joumada Ethani 1424 correspondant au 26 août 2003, modifiée et complétée, relative à la monnaie et au crédit, notamment ses articles 35, 62 point m et 127;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la loi n°05-01 du 27 Dhou El Hidja 1425 correspondant au 06 février 2005, modifiée et complétée, relative à la prévention et à la lutte contre le blanchiment d’argent et le financement du terrorisme ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la loi n°15-18 du 18 Rabie El Aouel 1437 correspondant au 30 décembre 2015 portant loi de finances pour 2016, notamment son article 72 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 02 juin 2001 portant nomination du Gouverneur et Vice-Gouverneurs de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 24 Dhou El Kaâda 1424 correspondant au 14 janvier 2004 portant nomination des membres du conseil de la monnaie et du crédit de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 05 Joumada El Oula 1427 correspondant au 1er juin 2006, portant nomination d’un vice-gouverneur de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 05 Safar 1437 correspondant au 17 novembre 2015 portant nomination de membres du conseil d’administration de la Banque d’Algérie;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n° 95-08 du 30 Rajab 1416 correspondant au 23 décembre 1995 relatif au marché des changes, notamment son article 8 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modifié et complété, relatif aux règles applicables aux transactions courantes avec l’étranger et aux comptes devises ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n°12-03 du 14 Moharam 1434 correspondant au 28 novembre 2012 relatif à la prévention et à la lutte contre le blanchiment d’argent et le financement du terrorisme ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu les délibérations du Conseil de la Monnaie et du Crédit en date du 21 avril 2016 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le présent règlement a pour objet de fixer le seuil et les modalités de déclaration à l’importation et à l’exportation par les voyageurs résidents et non-résidents en provenance ou à destination de l’étranger, de billets de banque et/ou d’instruments négociables libellés en monnaies étrangères librement convertibles.",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement a pour objet de fixer le seuil et les modalités de déclaration à l’importation et à l’exportation par les voyageurs résidents et non-résidents en provenance ou à destination de l’étranger, de billets de banque et/ou d’instruments négociables libellés en monnaies étrangères librement convertibles.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L’importation de billets de banque et/ou de tout autre instrument négociable libellés en monnaies étrangères librement convertibles est autorisée sans limitation de montant, sous réserve de satisfaire à l’obligation de déclaration pour tout montant égal ou supérieur au seuil fixé à l’article 3 ci-dessous.",
+      "paragraphs": [
+        {
+          "text": "L’importation de billets de banque et/ou de tout autre instrument négociable libellés en monnaies étrangères librement convertibles est autorisée sans limitation de montant, sous réserve de satisfaire à l’obligation de déclaration pour tout montant égal ou supérieur au seuil fixé à l’article 3 ci-dessous.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les voyageurs visés à l’article 1erci-dessus, sont soumis à l’obligation de déclarer auprès du bureau des douanes, à l’entrée et à la sortie du territoire national, les billets de banque et/ou tout instrument négociable libellés en monnaies étrangères librement convertibles, qu’ils importent ou exportent et dont le montant est égal ou supérieur à l’équivalent de mille (1000)Euros.\nUn exemplaire du formulaire de déclaration visé par le bureau des douanes est conservé par les voyageurs.",
+      "paragraphs": [
+        {
+          "text": "Les voyageurs visés à l’article 1erci-dessus, sont soumis à l’obligation de déclarer auprès du bureau des douanes, à l’entrée et à la sortie du territoire national, les billets de banque et/ou tout instrument négociable libellés en monnaies étrangères librement convertibles, qu’ils importent ou exportent et dont le montant est égal ou supérieur à l’équivalent de mille (1000)Euros.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Un exemplaire du formulaire de déclaration visé par le bureau des douanes est conservé par les voyageurs.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les voyageurs non-résidents peuvent exporter les billets de banques et/ou les instruments négociables libellés en monnaies étrangères librement convertibles, importés et non utilisés en Algérie, sur présentation au bureau des douanes, du formulaire de déclaration d’importation visé par un guichet de la Banque d’Algérie, un guichet d’une banque, intermédiaire agréé et/ou un bureau de change constatant les opérations de change effectuées durant leur séjour en Algérie.\nLe formulaire prévu à l’alinéa ci-dessus n’est valable que pour un seul séjour.",
+      "paragraphs": [
+        {
+          "text": "Les voyageurs non-résidents peuvent exporter les billets de banques et/ou les instruments négociables libellés en monnaies étrangères librement convertibles, importés et non utilisés en Algérie, sur présentation au bureau des douanes, du formulaire de déclaration d’importation visé par un guichet de la Banque d’Algérie, un guichet d’une banque, intermédiaire agréé et/ou un bureau de change constatant les opérations de change effectuées durant leur séjour en Algérie.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le formulaire prévu à l’alinéa ci-dessus n’est valable que pour un seul séjour.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Nonobstant les dispositions de l’article 4 ci-dessus, les voyageurs résidents et non-résidents sortant d’Algérie sont autorisés à exporter, par voyage :\n- un montant maximum équivalent à 7500 (sept mille cinq cent) Euros, prélevé d'un compte devises ouvert en Algérie ;\n- tout montant couvert par une autorisation de change de la Banque d’Algérie.",
+      "paragraphs": [
+        {
+          "text": "Nonobstant les dispositions de l’article 4 ci-dessus, les voyageurs résidents et non-résidents sortant d’Algérie sont autorisés à exporter, par voyage :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- un montant maximum équivalent à 7500 (sept mille cinq cent) Euros, prélevé d'un compte devises ouvert en Algérie ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- tout montant couvert par une autorisation de change de la Banque d’Algérie.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Toutes dispositions contraires au présent règlement, notamment les articles 19 et 20 du règlement n° 07-01 février 2007 susvisé, sont abrogées.",
+      "paragraphs": [
+        {
+          "text": "Toutes dispositions contraires au présent règlement, notamment les articles 19 et 20 du règlement n° 07-01 février 2007 susvisé, sont abrogées.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le présent règlement sera publié au Journal Officiel de la République algérienne démocratique et populaire.\nLe Gouverneur,\nMohammed LAKSACI",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement sera publié au Journal Officiel de la République algérienne démocratique et populaire.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Gouverneur,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.039
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-16-02.fr.txt"
+}

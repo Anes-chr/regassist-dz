@@ -1,0 +1,478 @@
+{
+  "document_id": "INS-07-08.ar",
+  "work_id": "INS-07-08",
+  "title": "تعليمة رقم 07-2008 المؤرخة في 11 ديسمبر 2008، تعدل وتتمم التعليمة رقم 08-2001 المؤرخة في 30 ديسمبر 2001، المحددة لشروط وكيفيات إصدار سندات النقل الجوي وتحويل فائض الإيرادات المعدلة.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "07-2008",
+  "number_source": "libelle",
+  "date": "2008-12-11",
+  "date_raw": "المؤرخة في 11 ديسمبر 2008",
+  "date_source": "libelle",
+  "publication_date": "2023-03-02",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "instructions",
+  "subcategory": "تنظيم الصرف",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d9%88%d8%a7%d8%b1%d8%af%d8%a7%d8%aa-%d8%a7%d9%84%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/03/08-07.pdf",
+  "format": "pdf",
+  "file_hash": "68250dd61c35d5f02465e0b865652ea5f1dfba077367988c9567b33908aa5ce3",
+  "file_size": 378198,
+  "raw_path": "raw/68250dd61c35__08-07.pdf",
+  "retrieved_at": "2026-10-05T13:29:54+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 2,
+  "url_hash": "c6ca0f1ee59987b5c3f25fee5a2515664091d2406b9236c71078a9e27acb30fd",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d9%88%d8%a7%d8%b1%d8%af%d8%a7%d8%aa-%d8%a7%d9%84%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "producer": "Epson Scan 2",
+    "creationDate": "D:20230301085331+01'00'",
+    "modDate": "D:20230301085331+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 1410,
+        "ocr_confidence": 86.08
+      },
+      {
+        "page": 2,
+        "method": "ocr",
+        "chars": 531,
+        "ocr_confidence": 85.97938144329896
+      }
+    ],
+    "cleaning_removed": [
+      {
+        "page": 2,
+        "removed": "2/2",
+        "why": "numéro de page"
+      }
+    ]
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 5,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine",
+    "numerotation:articles_manquants:[5]"
+  ],
+  "title_document": "تعليمة رقم 08-07 المعذلة و المتممة للتعليمة رقم 2001-08 المؤرخة في 30 ديسمبر 2001 المحددة للشروط و كيفيات إصدار سندات النقل الجوي و تحويل فائض الإيرادات المعدّلة المادة الأولى: تهدف هذه التعليمة إلى تعديل و إتمام أحكام التعليمة رقم 2001-08 المؤرخة في 30 ديسمبر 2001 المحددة للشروط و كيفيات إصدار سندات النقل الجوي و تحويل فائض الإيرادات Aid}‏ ظ المادة 2: تعدل و تحرر الفقرة د من الباب | الفصل [I‏ كيفيات و شروط الإصدار الواردة في التعليمة رقم 2001-08 المؤرخة .في 30 ديسمبر 2001 المحددة للشروط",
+  "alias_urls": [],
+  "text_hash": "cc3ea34e09a30ef19ef2a24487342d0c7518c578640a8e409754419c03197a2d",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "08-2001",
+        "date": "2001-12-30",
+        "raw": "instruction n°08-2001 du 30 décembre 2001"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°07-2008 du 11 décembre 2008 modifiant et complétant l’instruction n°08-2001 du 30 décembre 2001 fixant les conditions et les modalités",
+        "copied_from": "INS-07-08.fr"
+      },
+      "target_work_id": "INS-08-01"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "08-2001",
+        "date": "2001-12-30",
+        "raw": "instruction n°08-2001 du 30 décembre 2001"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°07-2008 du 11 décembre 2008 modifiant et complétant l’instruction n°08-2001 du 30 décembre 2001 fixant les conditions et les modalités",
+        "copied_from": "INS-07-08.fr"
+      },
+      "target_work_id": "INS-08-01"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "08-2001",
+        "date": "2001-12-30",
+        "raw": "Instruction n° 08-2001 du 30 décembre 2001"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente Instruction a pour objet de modifier et de compléter les dispositions de l’Instruction n° 08-2001 du 30 décembre 2001 fixant les conditions et les modalités",
+        "copied_from": "INS-07-08.fr"
+      },
+      "target_work_id": "INS-08-01"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "08-2001",
+        "date": "2001-12-30",
+        "raw": "Instruction n° 08-2001 du 30 décembre 2001"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente Instruction a pour objet de modifier et de compléter les dispositions de l’Instruction n° 08-2001 du 30 décembre 2001 fixant les conditions et les modalités",
+        "copied_from": "INS-07-08.fr"
+      },
+      "target_work_id": "INS-08-01"
+    },
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "01-07",
+        "date": "2007-03-14",
+        "raw": "Instruction n° 01-07 du 14 mars 2007"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Sont abrogées toutes les dispositions contraires, notamment celles de l’Instruction n° 01-07 du 14 mars 2007.",
+        "copied_from": "INS-07-08.fr"
+      },
+      "target_work_id": "INS-01-07"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "INS-01-07",
+      "reference": "Instruction n° 01-07 du 14 mars 2007",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Sont abrogées toutes les dispositions contraires, notamment celles de l’Instruction n° 01-07 du 14 mars 2007.",
+        "copied_from": "INS-07-08.fr"
+      }
+    }
+  ],
+  "modifie": [
+    {
+      "work_id": "INS-08-01",
+      "reference": "instruction n°08-2001 du 30 décembre 2001",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°07-2008 du 11 décembre 2008 modifiant et complétant l’instruction n°08-2001 du 30 décembre 2001 fixant les conditions et les modalités",
+        "copied_from": "INS-07-08.fr"
+      }
+    },
+    {
+      "work_id": "INS-08-01",
+      "reference": "Instruction n° 08-2001 du 30 décembre 2001",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente Instruction a pour objet de modifier et de compléter les dispositions de l’Instruction n° 08-2001 du 30 décembre 2001 fixant les conditions et les modalités",
+        "copied_from": "INS-07-08.fr"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "INS-08-01",
+      "reference": "instruction n°08-2001 du 30 décembre 2001",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°07-2008 du 11 décembre 2008 modifiant et complétant l’instruction n°08-2001 du 30 décembre 2001 fixant les conditions et les modalités",
+        "copied_from": "INS-07-08.fr"
+      }
+    },
+    {
+      "work_id": "INS-08-01",
+      "reference": "Instruction n° 08-2001 du 30 décembre 2001",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente Instruction a pour objet de modifier et de compléter les dispositions de l’Instruction n° 08-2001 du 30 décembre 2001 fixant les conditions et les modalités",
+        "copied_from": "INS-07-08.fr"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-07-08.fr",
+    "INS-07-08.fr~2"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "INS-08-01",
+      "reference": "instruction n°08-2001 du 30 décembre 2001",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°07-2008 du 11 décembre 2008 modifiant et complétant l’instruction n°08-2001 du 30 décembre 2001 fixant les conditions et les modalités",
+        "copied_from": "INS-07-08.fr"
+      }
+    },
+    {
+      "work_id": "INS-08-01",
+      "reference": "Instruction n° 08-2001 du 30 décembre 2001",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente Instruction a pour objet de modifier et de compléter les dispositions de l’Instruction n° 08-2001 du 30 décembre 2001 fixant les conditions et les modalités",
+        "copied_from": "INS-07-08.fr"
+      }
+    }
+  ],
+  "ocr_numeric_check": {
+    "units": 6,
+    "units_flagged": 0,
+    "units_compared_with_french": 5,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تعليمة رقم 08-07 المعذلة و المتممة للتعليمة رقم 2001-08 المؤرخة في 30 ديسمبر 2001 المحددة للشروط و كيفيات إصدار سندات النقل الجوي و تحويل فائض الإيرادات المعدّلة",
+      "paragraphs": [
+        {
+          "text": "تعليمة رقم 08-07 المعذلة و المتممة للتعليمة رقم 2001-08 المؤرخة في 30 ديسمبر 2001 المحددة للشروط و كيفيات إصدار سندات النقل الجوي و تحويل فائض الإيرادات المعدّلة",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تهدف هذه التعليمة إلى تعديل و إتمام أحكام التعليمة رقم 2001-08 المؤرخة في 30 ديسمبر 2001 المحددة للشروط و كيفيات إصدار سندات النقل الجوي و تحويل فائض الإيرادات Aid}‏ ظ",
+      "paragraphs": [
+        {
+          "text": "تهدف هذه التعليمة إلى تعديل و إتمام أحكام التعليمة رقم 2001-08 المؤرخة في 30 ديسمبر 2001 المحددة للشروط و كيفيات إصدار سندات النقل الجوي و تحويل فائض الإيرادات Aid}‏ ظ",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تعدل و تحرر الفقرة د من الباب | الفصل [I‏ كيفيات و شروط الإصدار الواردة في التعليمة رقم 2001-08 المؤرخة .في 30 ديسمبر 2001 المحددة للشروط . و كيفيات إصدار سندات النقل الجوي و تحويل فائض الإيرادات المعدلة» كمايلي:\n\"د — لصالح الجمعيات و الأشخاص الطبيعيين المقيمين و غير المقيمين على مسافات المنطقة | الواقعة في أوروبا ‏ إفريقيا - الشرق الأوسط - كندا و الصين» حسب المفهوم الجغرافي و بطبيعة الحال فإن التذكرة لن تسمح بأكثر من توقف بين الجزائر و dé‏ الوصول و العكس صحيح (التوقفات التقنية الغير متضمنة في التذكرة لا تؤخذ بعين الاعتبار)\" ... البقية دون تغيير.",
+      "paragraphs": [
+        {
+          "text": "تعدل و تحرر الفقرة د من الباب | الفصل [I‏ كيفيات و شروط الإصدار الواردة في التعليمة رقم 2001-08 المؤرخة .في 30 ديسمبر 2001 المحددة للشروط . و كيفيات إصدار سندات النقل الجوي و تحويل فائض الإيرادات المعدلة» كمايلي:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "\"د — لصالح الجمعيات و الأشخاص الطبيعيين المقيمين و غير المقيمين على مسافات المنطقة | الواقعة في أوروبا ‏ إفريقيا - الشرق الأوسط - كندا و الصين» حسب المفهوم الجغرافي و بطبيعة الحال فإن التذكرة لن تسمح بأكثر من توقف بين الجزائر و dé‏ الوصول و العكس صحيح (التوقفات التقنية الغير متضمنة في التذكرة لا تؤخذ بعين الاعتبار)\" ... البقية دون تغيير.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تضاف مادة 3 مكرر إلى التعليمة رقم 2001-08 المؤورخة في 30 ديسمبر 2001 المحددة للشروط و كيفيات إصدار سندات النقل الجوي و تحويل فائض \"المادة 3 مكرر: يرخص للبنوك؛ الوسيطة المعتمدة» بالدراسة و التنفيذ دون أجل لطلبيات تحويل al‏ ارادات على النفقات المسجلة من طرف الشركات الجوية الأجنبية القائمة في الجزائر. | التعليمة رقم 2001-08 المشارة إليها في المادة الأولى أعلاه. و يخضعء حسب Aa‏ تحويل فائض الإيرادات أو الترحيل في «sal le‏ لتصريح وفقا للنموذج \"04\" أو \"1404\" | . Bank of Algeria 2/1 The Governor",
+      "paragraphs": [
+        {
+          "text": "تضاف مادة 3 مكرر إلى التعليمة رقم 2001-08 المؤورخة في 30 ديسمبر 2001 المحددة للشروط و كيفيات إصدار سندات النقل الجوي و تحويل فائض \"المادة 3 مكرر: يرخص للبنوك؛ الوسيطة المعتمدة» بالدراسة و التنفيذ دون أجل لطلبيات تحويل al‏ ارادات على النفقات المسجلة من طرف الشركات الجوية الأجنبية القائمة في الجزائر. | التعليمة رقم 2001-08 المشارة إليها في المادة الأولى أعلاه. و يخضعء حسب Aa‏ تحويل فائض الإيرادات أو الترحيل في «sal le‏ لتصريح وفقا للنموذج \"04\" أو \"1404\" | . Bank of Algeria 2/1 The Governor",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "تلغى كل الأحكام المخالفة لا سيما أحكام التعليمة رقم 07-01 المؤرخة في .\n14 مارس 2007. | Ball‏ 5: تبقى نافذة المفعول الأحكام الأخر ى غير المعدّلة و المنصوص عليها في التعليمة رقم 2001-8 المؤرخة في 30 ديسمبر 2001 المحددة للشروط و كيفيات إصذار سندات النقل الجو ي و تحويل فائض الإيرادات. المعدلة» لا سيما الأحكام الخاضة بالرقابة البعدية من قبل بنك الجزائرء ما عدا تلك الواردة في فقرتها V/]‏ \"كيفيات التحويل\"؛ في",
+      "paragraphs": [
+        {
+          "text": "تلغى كل الأحكام المخالفة لا سيما أحكام التعليمة رقم 07-01 المؤرخة في .",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "14 مارس 2007. | Ball‏ 5: تبقى نافذة المفعول الأحكام الأخر ى غير المعدّلة و المنصوص عليها في التعليمة رقم 2001-8 المؤرخة في 30 ديسمبر 2001 المحددة للشروط و كيفيات إصذار سندات النقل الجو ي و تحويل فائض الإيرادات. المعدلة» لا سيما الأحكام الخاضة بالرقابة البعدية من قبل بنك الجزائرء ما عدا تلك الواردة في فقرتها V/]‏ \"كيفيات التحويل\"؛ في",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "تدخل هذه التعليمة خيز التطبيق اعتبارا من 15 ديسمبر 2008.\nحرر بالجزائرء في 11 ديسمبر 2008 در لعار ADN‏",
+      "paragraphs": [
+        {
+          "text": "تدخل هذه التعليمة خيز التطبيق اعتبارا من 15 ديسمبر 2008.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "حرر بالجزائرء في 11 ديسمبر 2008 در لعار ADN‏",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine",
+      "numerotation:articles_manquants:[5]"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.045,
+      "ocr_pages": [
+        1,
+        2
+      ],
+      "ocr_mean_confidence": 86.0
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/INS-07-08.ar.txt"
+}

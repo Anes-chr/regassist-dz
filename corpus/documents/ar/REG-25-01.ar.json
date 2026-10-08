@@ -1,0 +1,2334 @@
+{
+  "document_id": "REG-25-01.ar",
+  "work_id": "REG-25-01",
+  "title": "نظام رقم 25-01 مؤرخ في 12 رمضان عام 1446 الموافق 12 مارس 2025، يحدد شروط اعتماد مسيري المؤسسات الخاضعة",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "25-01",
+  "number_source": "libelle",
+  "date": "2025-03-12",
+  "date_raw": "الموافق 12 مارس 2025",
+  "date_source": "libelle",
+  "publication_date": "2025-04-27",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "règlements",
+  "subcategory": "شروط إعتماد مسيري المؤسسات الخاضعة",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%b4%d8%b1%d9%88%d8%b7-%d8%a5%d8%b9%d8%aa%d9%85%d8%a7%d8%af-%d9%85%d8%b3%d9%8a%d8%b1%d9%8a-%d8%a7%d9%84%d9%85%d8%a4%d8%b3%d8%b3%d8%a7%d8%aa-%d8%a7%d9%84%d8%ae%d8%a7%d8%b6%d8%b9%d8%a9-2/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2025/04/Reglt-dagrement-DIRIGEANTS-AR.pdf",
+  "format": "pdf",
+  "file_hash": "1c39a2cfe6480677281dd07eeacb89758add7f121824f4523b76869d0d93ebd2",
+  "file_size": 108609,
+  "raw_path": "raw/1c39a2cfe648__Reglt-dagrement-DIRIGEANTS-AR.pdf",
+  "retrieved_at": "2026-10-05T13:31:07+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 5,
+  "url_hash": "d1c7b89a8bfac39353eb89b37e4bd465da708e0a2fa03113c561356ee0c74a70",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%b4%d8%b1%d9%88%d8%b7-%d8%a5%d8%b9%d8%aa%d9%85%d8%a7%d8%af-%d9%85%d8%b3%d9%8a%d8%b1%d9%8a-%d8%a7%d9%84%d9%85%d8%a4%d8%b3%d8%b3%d8%a7%d8%aa-%d8%a7%d9%84%d8%ae%d8%a7%d8%b6%d8%b9%d8%a9-2/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "(Microsoft Word - R\\351glt d'agr\\351ment DIRIGEANTS - AR)",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20250427162738+01'00'",
+    "modDate": "D:20250427162738+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 5,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2142,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 2074,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 1975,
+        "ocr_confidence": null
+      },
+      {
+        "page": 4,
+        "method": "pdf_text",
+        "chars": 2085,
+        "ocr_confidence": null
+      },
+      {
+        "page": 5,
+        "method": "pdf_text",
+        "chars": 1497,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": [
+      {
+        "page": 1,
+        "removed": "01",
+        "why": "numéro de page"
+      },
+      {
+        "page": 2,
+        "removed": "/",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 2,
+        "removed": "5 2",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 3,
+        "removed": "/",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 3,
+        "removed": "5 3",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 4,
+        "removed": "/",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 4,
+        "removed": "5 4",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 5,
+        "removed": "/",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 5,
+        "removed": "5 5",
+        "why": "en-tête/pied répété"
+      }
+    ]
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 16,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "numerotation:articles_manquants:[5]",
+    "numerotation:premier_article=2"
+  ],
+  "title_document": "نظام رقم25 -",
+  "alias_urls": [],
+  "text_hash": "aac40d5d4f956ac3c4d1bca593d9747c70b61382129108cf84e222a28d60c91d",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-25-01.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "chapitre",
+      "label": "Chapitre الأول",
+      "number": null,
+      "heading": null,
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 3",
+          "number": "3",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 4",
+          "number": "4",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "Chapitre بLن",
+      "number": null,
+      "heading": null,
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 6",
+          "number": "6",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 7",
+          "number": "7",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 4,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 8",
+          "number": "8",
+          "heading": null,
+          "page_start": 4,
+          "page_end": 4,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 9",
+          "number": "9",
+          "heading": null,
+          "page_start": 4,
+          "page_end": 4,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 10",
+          "number": "10",
+          "heading": null,
+          "page_start": 4,
+          "page_end": 4,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 11",
+          "number": "11",
+          "heading": null,
+          "page_start": 4,
+          "page_end": 5,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 12",
+          "number": "12",
+          "heading": null,
+          "page_start": 5,
+          "page_end": 5,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 13",
+          "number": "13",
+          "heading": null,
+          "page_start": 5,
+          "page_end": 5,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 14",
+          "number": "14",
+          "heading": null,
+          "page_start": 5,
+          "page_end": 5,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 15",
+          "number": "15",
+          "heading": null,
+          "page_start": 5,
+          "page_end": 5,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 16",
+          "number": "16",
+          "heading": null,
+          "page_start": 5,
+          "page_end": 5,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 17",
+          "number": "17",
+          "heading": null,
+          "page_start": 5,
+          "page_end": 5,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 18",
+          "number": "18",
+          "heading": null,
+          "page_start": 5,
+          "page_end": 5,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "نظام رقم25 -\n\u000e\u000f مؤرخ 12 رمضان\nعام 1446\nالموافق12 مارس 2025 ، يحدد شروط\nاعتماد\nمس,ِّ)\nي المؤسسات ا32اضعة\nإنّ محافظ بنك ا\b\u0007زائر؛\n-\nبمقت\u001d\u001c\u001b القانون رقم23 - 09\n%& المؤرخ3 ذي ا\b+\u0007ة عام 1444\nالموافق21 يونيو\nسنة2023 و المتضمن القانون النقدي والمصر&% ، - و <مقت\u001d\u001c\u001b القانون رقم 24 - 02\n%& مؤرخ16\nشعبان عام1445\nالموافق26\nفCBاير سنة2024 ، يتعلق\nبمEافحة الIHوGر واستعمال المزور ، - و <مقت\u001d\u001c\u001b\nالمرسوم الرئاK\u001cJ المؤرخ &% 22 شوال عام 1443\nالموافق23 مايو\nسنة2022\nوالمتضمن MعيLن محافظ بنك ا\b\u0007زائر ، - و <مقت\u001d\u001c\u001b\nالمرسوم الرئاK\u001cJ المؤرخ &% 5 عام صفر1437\nالموافق17\nBCنوفم\nسنة2015\nوالمتضمن MعيLن أعضاء &% مجلس إدارة بنك ا\b\u0007زائر،\n- و <مقت\u001d\u001c\u001b\nالمرسوم الرئاK\u001cJ المؤرخ &% 18 ر<يع الثاYي عام 1441\nالموافق15\nBCد]سم\nسنة2019\nوالمتضمن MعيLن نائبLن ^ _افظ بنك ا\b\u0007زائر ، -\n%& و<مقت\u001d\u001c\u001b المرسوم الرئاK\u001cJ المؤرخ6 رمضان عام 1443\nالموافق7 أبرGل\nسنة2022\nوالمتضمن MعيLن أعضاء &% مجلس إدارة بنك ا\b\u0007زائر ، - و <مقت\u001d\u001c\u001b\nالمرسوم الرئاK\u001cJ المؤرخ &% 12\nabجمادى الأو عام 1444\nالموافق6 BCد]سم\nسنة2022\nوالمتضمن MعيLن عضو بمجلس النقد والقرض،\n- و <مقت\u001d\u001c\u001b\nالمرسوم الرئاK\u001cJ المؤرخ &% 18 جمادى الثانية عام 1445\nالموافق31\nBCد]سم\nسنة2023\nوالمتضمن MعيLن نائبLن ^ _افظ بنك ا\b\u0007زائر ، - و <مقت\u001d\u001c\u001b\nالمرسوم الرئاK\u001cJ المؤرخ &% 4 شعبان عام 1445\nالموافق14 فCBاير\nسنة2024\nوالمتضمن MعيLن عضو\n&% مجلس إدارة بنك ا\b\u0007زائر ، - و <مقت\u001d\u001c\u001b\nالنظام رقم 92 - 05\n%& المؤرخ 17\nرمضان عام1412 الموافق 22 مارس\nسنة 1992، ي تعلق بالشروط الpJ يجب أن تتوفر &% مؤسm\u001cJ البنوك والمؤسسات المالية وم سLّBrqا\nوممثلsqا ، -\nو<مقت\u001d\u001c\u001b النظام رقم06 - 02\n%& المؤرخ أول رمضان\nعام 1427\nالموافق24\nسtتمCB سنة2006\nيـحـدد شروط تـأسـwس بنك ومـؤسـسة مالية وشروط إقامة فرع بنك ومؤسسة مالية أجنtية،\n- و <مقت\u001d\u001c\u001b\nالنظام رقم 23 - 01\n%& المؤرخ5 ر<يع الأول عام 1445\nالموافق21\nBCسtتم\nسنة2023 ،ي تعلق yشروط الIBخيص بتأسwس مEاتب صرف ، واعتمادا وYشاط}ا ، - و <مقت\u001d\u001c\u001b\nالنظام رقم 24 - 01\n%& المؤرخ25 رجب عام 1445\nالموافق6 فCBاير\nسنة2024 يحدد\nشروط الIBخيص بتأسwس بنك ومؤس سة مالية ،\n-\nو<مقت\u001d\u001c\u001b النظام رقم24 - 03\n%& مؤرخ18 محرم\nعام 1446\nالموافق24\nجوGلية سنة2024\nيتعلق بالوقاية من تبwيض الأموال وتموGل الإراب وتموGل أس_ة\nالدمار الشامل\nومEافحqا؛\n- و <مقت\u001d\u001c\u001b\nالنظام رقم 24 - 04\n%& المؤرخ10 ر<يع الثاYي\nعام 1446\nالموافق13 أكتو<ر\nسنة 2024 ، والمتعلق بالشروط ا\bاصة للIBخيص بتأسwس و اعتماد وممار سة Yشاط البنك الرقJ ، -\nوعد الاطلاع عa مداول ة ا^\u0007لس\nالنقدي والمصر&% بتارGخ 12\nمارس2025 ؛ يصدر النظام الآ:ي نصھ:\nالمادة الأو@?\n— :\nrqدف ذا النظام إba تحديد شروط\nاعتماد مسLّBي البنوك المو ؤسس ات المالية ا ع و فر و لبنوك\nالمو ؤسس الم ات الية الأ جنtية و مزودي خدمات الدفع و الوسطاء المستقلLن\n&% السمسرة\nومEاتب\nالصرف ، المشار\nإلsqم أدناه بـ:\n»\nالمؤسسات ا\bاضعة «.",
+      "paragraphs": [
+        {
+          "text": "نظام رقم25 -",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "\u000e\u000f مؤرخ 12 رمضان",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "عام 1446",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق12 مارس 2025 ، يحدد شروط",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "اعتماد",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "مس,ِّ)",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ي المؤسسات ا32اضعة",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "إنّ محافظ بنك ا\b\u0007زائر؛",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "بمقت\u001d\u001c\u001b القانون رقم23 - 09",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "%& المؤرخ3 ذي ا\b+\u0007ة عام 1444",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق21 يونيو",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "سنة2023 و المتضمن القانون النقدي والمصر&% ، - و <مقت\u001d\u001c\u001b القانون رقم 24 - 02",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "%& مؤرخ16",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "شعبان عام1445",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق26",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "فCBاير سنة2024 ، يتعلق",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "بمEافحة الIHوGر واستعمال المزور ، - و <مقت\u001d\u001c\u001b",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المرسوم الرئاK\u001cJ المؤرخ &% 22 شوال عام 1443",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق23 مايو",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "سنة2022",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتضمن MعيLن محافظ بنك ا\b\u0007زائر ، - و <مقت\u001d\u001c\u001b",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المرسوم الرئاK\u001cJ المؤرخ &% 5 عام صفر1437",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق17",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BCنوفم",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "سنة2015",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتضمن MعيLن أعضاء &% مجلس إدارة بنك ا\b\u0007زائر،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- و <مقت\u001d\u001c\u001b",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المرسوم الرئاK\u001cJ المؤرخ &% 18 ر<يع الثاYي عام 1441",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق15",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BCد]سم",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "سنة2019",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتضمن MعيLن نائبLن ^ _افظ بنك ا\b\u0007زائر ، -",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "%& و<مقت\u001d\u001c\u001b المرسوم الرئاK\u001cJ المؤرخ6 رمضان عام 1443",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق7 أبرGل",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "سنة2022",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتضمن MعيLن أعضاء &% مجلس إدارة بنك ا\b\u0007زائر ، - و <مقت\u001d\u001c\u001b",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المرسوم الرئاK\u001cJ المؤرخ &% 12",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "abجمادى الأو عام 1444",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق6 BCد]سم",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "سنة2022",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتضمن MعيLن عضو بمجلس النقد والقرض،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- و <مقت\u001d\u001c\u001b",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المرسوم الرئاK\u001cJ المؤرخ &% 18 جمادى الثانية عام 1445",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق31",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BCد]سم",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "سنة2023",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتضمن MعيLن نائبLن ^ _افظ بنك ا\b\u0007زائر ، - و <مقت\u001d\u001c\u001b",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المرسوم الرئاK\u001cJ المؤرخ &% 4 شعبان عام 1445",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق14 فCBاير",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "سنة2024",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتضمن MعيLن عضو",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "&% مجلس إدارة بنك ا\b\u0007زائر ، - و <مقت\u001d\u001c\u001b",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "النظام رقم 92 - 05",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "%& المؤرخ 17",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "رمضان عام1412 الموافق 22 مارس",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "سنة 1992، ي تعلق بالشروط الpJ يجب أن تتوفر &% مؤسm\u001cJ البنوك والمؤسسات المالية وم سLّBrqا",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وممثلsqا ، -",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "و<مقت\u001d\u001c\u001b النظام رقم06 - 02",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "%& المؤرخ أول رمضان",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "عام 1427",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق24",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "سtتمCB سنة2006",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "يـحـدد شروط تـأسـwس بنك ومـؤسـسة مالية وشروط إقامة فرع بنك ومؤسسة مالية أجنtية،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- و <مقت\u001d\u001c\u001b",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "النظام رقم 23 - 01",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "%& المؤرخ5 ر<يع الأول عام 1445",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق21",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BCسtتم",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "سنة2023 ،ي تعلق yشروط الIBخيص بتأسwس مEاتب صرف ، واعتمادا وYشاط}ا ، - و <مقت\u001d\u001c\u001b",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "النظام رقم 24 - 01",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "%& المؤرخ25 رجب عام 1445",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق6 فCBاير",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "سنة2024 يحدد",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "شروط الIBخيص بتأسwس بنك ومؤس سة مالية ،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "و<مقت\u001d\u001c\u001b النظام رقم24 - 03",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "%& مؤرخ18 محرم",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "عام 1446",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "الموافق24",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "جوGلية سنة2024",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "يتعلق بالوقاية من تبwيض الأموال وتموGل الإراب وتموGل أس_ة",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "الدمار الشامل",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "ومEافحqا؛",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- و <مقت\u001d\u001c\u001b",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "النظام رقم 24 - 04",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "%& المؤرخ10 ر<يع الثاYي",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "عام 1446",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "الموافق13 أكتو<ر",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "سنة 2024 ، والمتعلق بالشروط ا\bاصة للIBخيص بتأسwس و اعتماد وممار سة Yشاط البنك الرقJ ، -",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "وعد الاطلاع عa مداول ة ا^\u0007لس",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "النقدي والمصر&% بتارGخ 12",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "مارس2025 ؛ يصدر النظام الآ:ي نصھ:",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "المادة الأو@?",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "— :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "rqدف ذا النظام إba تحديد شروط",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "اعتماد مسLّBي البنوك المو ؤسس ات المالية ا ع و فر و لبنوك",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "المو ؤسس الم ات الية الأ جنtية و مزودي خدمات الدفع و الوسطاء المستقلLن",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "&% السمسرة",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "ومEاتب",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "الصرف ، المشار",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "إلsqم أدناه بـ:",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "»",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "المؤسسات ا\bاضعة «.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "—\nيقصد &% مف}وم ذا النظام بـ:\n-\n:المسLّBين الا طارات الم سؤولة\nالذين يتم\nMعييq أجل من م\nالتحديد\nالفع%\nلتوجيھ\nومراقبة Yشاط ا لمؤسسة\nا\bاضعة ، و مسؤولية M سيLB :يأ ا، .أ أعضاء\nورؤساء ال}يئة المداولة ؛ .ب الصان\nاللذان\n]شغلان\nأعa\nالمناصب ال &% سلم ال}رمي\nللسلطة\nالتنفيذية\nونواب\nالمديرGن\nالعامLن ؛ .ج أعضاء\nمجلس\nالمديرGن\nورئwسھ .\n- التأيل :\nامتلاك\nالكفاءات\nوالHاة\nاللازم ة، طبقا\nللأنظمة\nالمعمول ، qا ¡ لتوb%\nوظيفة\nمسLٍّB .\n-\nال}يئات الاجتماعية :\n.أ ا\b\u0007معية العامة للمسامLن ؛ .ب ال}يئة الم داولة : مجلس الإدارة، مجلس الم ؛بة اقر ال .ج }يئة\nالتنفيذي : ة المديرGة العامة ، مجلس الم ديرGن أو أي يئة أ ى خر مسؤول ة عن الإدارة\nالتنفيذية للمؤسسة ا\b اضعة.",
+      "paragraphs": [
+        {
+          "text": "—",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "يقصد &% مف}وم ذا النظام بـ:",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "-",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": ":المسLّBين الا طارات الم سؤولة",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "الذين يتم",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Mعييq أجل من م",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "التحديد",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "الفع%",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "لتوجيھ",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "ومراقبة Yشاط ا لمؤسسة",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "ا\bاضعة ، و مسؤولية M سيLB :يأ ا، .أ أعضاء",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "ورؤساء ال}يئة المداولة ؛ .ب الصان",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "اللذان",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "]شغلان",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "أعa",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "المناصب ال &% سلم ال}رمي",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "للسلطة",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "التنفيذية",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "ونواب",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "المديرGن",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "العامLن ؛ .ج أعضاء",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "مجلس",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "المديرGن",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "ورئwسھ .",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- التأيل :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "امتلاك",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "الكفاءات",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "والHاة",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "اللازم ة، طبقا",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "للأنظمة",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "المعمول ، qا ¡ لتوb%",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "وظيفة",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "مسLٍّB .",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "-",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "ال}يئات الاجتماعية :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": ".أ ا\b\u0007معية العامة للمسامLن ؛ .ب ال}يئة الم داولة : مجلس الإدارة، مجلس الم ؛بة اقر ال .ج }يئة",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "التنفيذي : ة المديرGة العامة ، مجلس الم ديرGن أو أي يئة أ ى خر مسؤول ة عن الإدارة",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "التنفيذية للمؤسسة ا\b اضعة.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "chapitre": {
+          "number": "الأول",
+          "heading": null,
+          "label": "Chapitre الأول"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "أحEام عامة",
+      "paragraphs": [
+        {
+          "text": "أحEام عامة",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {
+        "chapitre": {
+          "number": "الأول",
+          "heading": null,
+          "label": "Chapitre الأول"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "—\nيجب عa المؤسسات ا\bاضعة التأكد مسبقا من أن ال ص\nالذي\nسوف يتم Mعيwنھ، ل توb% و ظيفة مسLB، ] س تو&%\nشروط ال تأيل\nالضرورGة لم مارسة\nذه الوظيفة.",
+      "paragraphs": [
+        {
+          "text": "—",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "يجب عa المؤسسات ا\bاضعة التأكد مسبقا من أن ال ص",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "الذي",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "سوف يتم Mعيwنھ، ل توb% و ظيفة مسLB، ] س تو&%",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "شروط ال تأيل",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "الضرورGة لم مارسة",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "ذه الوظيفة.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {
+        "chapitre": {
+          "number": "الأول",
+          "heading": null,
+          "label": "Chapitre الأول"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 3,
+      "text": "—\naيجب ع ا لص الم عLن بصفة مسLB\nمن طرف ال}يئة الم ؤلة\nللمؤسسة ا\bاضعة ، ا\b_صول ع a الا عتماد من محافظ بنك ا\b\u0007زائر، لم أرة شبا عمالھ\nبصفة قانونية .\nالماد ة 5:\n— يجب عa مسؤول الم ؤسسة ا \bاضعة\nالمعنية ا^ ول لھ، أن يوجھ إba محافظ بنك\nا\b\u0007زائر اطلب\nلاعتماد\nالص\nالمعLن\nبصفة مسLB، أجل &%\nأقصاه\nخمسة\nعشر )15 (يوما من تارGخ\nا ذا لتعيLن ، مدعوما بملف\nتحدد مEوناتھ بموجب Mعليمة لبنك ا\b\u0007زائر .\nيجب أن يتم تقديم طلب\nالاعتماد المتعلق بوظ يفpJ\nرئwس مجلس الإدارة والمدير العام،\nمقرونا ب الالI Hام بمبدأ",
+      "paragraphs": [
+        {
+          "text": "—",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "aيجب ع ا لص الم عLن بصفة مسLB",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "من طرف ال}يئة الم ؤلة",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "للمؤسسة ا\bاضعة ، ا\b_صول ع a الا عتماد من محافظ بنك ا\b\u0007زائر، لم أرة شبا عمالھ",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "بصفة قانونية .",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "الماد ة 5:",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "— يجب عa مسؤول الم ؤسسة ا \bاضعة",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "المعنية ا^ ول لھ، أن يوجھ إba محافظ بنك",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "ا\b\u0007زائر اطلب",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "لاعتماد",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "الص",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "المعLن",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "بصفة مسLB، أجل &%",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "أقصاه",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "خمسة",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "عشر )15 (يوما من تارGخ",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "ا ذا لتعيLن ، مدعوما بملف",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "تحدد مEوناتھ بموجب Mعليمة لبنك ا\b\u0007زائر .",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "يجب أن يتم تقديم طلب",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "الاعتماد المتعلق بوظ يفpJ",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "رئwس مجلس الإدارة والمدير العام،",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "مقرونا ب الالI Hام بمبدأ",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "chapitre": {
+          "number": "بLن",
+          "heading": null,
+          "label": "Chapitre بLن"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "اتLن الوظ يفتLن .\nيمكن للمصا\b§ المؤلة لبنك ا\b\u0007زائر المEلفة بفحص الملف، أن تطلب أي معلوم ة إضافية MعتCB ا ضرورGة ل عملي ة تقييم .ھ",
+      "paragraphs": [
+        {
+          "text": "اتLن الوظ يفتLن .",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "يمكن للمصا\b§ المؤلة لبنك ا\b\u0007زائر المEلفة بفحص الملف، أن تطلب أي معلوم ة إضافية MعتCB ا ضرورGة ل عملي ة تقييم .ھ",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {
+        "chapitre": {
+          "number": "بLن",
+          "heading": null,
+          "label": "Chapitre بLن"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "—\nيمنح محافظ بنك ا\b\u0007زائر الاعتماد\nلمسLّB معL َّ ن &% مؤسسة خاضعة، إذا استو&a الشروط المنصوص ة علsqا\n&% ال«شرªع والتنظيم السارª ي المفعول ، المنظمة لل وظيفة الم زمع تولs . qا يبلّغ قرار اعتماد المسLّB من طرف\nالأمLن العام للمجلس النقدي والمصر&%.\nالفصل الثاIي\nالمتطلبات الم تعلقة با لتأQيل",
+      "paragraphs": [
+        {
+          "text": "—",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "يمنح محافظ بنك ا\b\u0007زائر الاعتماد",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "لمسLّB معL َّ ن &% مؤسسة خاضعة، إذا استو&a الشروط المنصوص ة علsqا",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "&% ال«شرªع والتنظيم السارª ي المفعول ، المنظمة لل وظيفة الم زمع تولs . qا يبلّغ قرار اعتماد المسLّB من طرف",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "الأمLن العام للمجلس النقدي والمصر&%.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "الفصل الثاIي",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "المتطلبات الم تعلقة با لتأQيل",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {
+        "chapitre": {
+          "number": "بLن",
+          "heading": null,
+          "label": "Chapitre بLن"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 4,
+      "text": "—\nدون ا لا خلال بأحEام المادة 87\nمن القانون23 - 09\nالمؤ رخ &% 03\nذي ا\b+\u0007ة عام1444 الموافق 21\nيونيو2023، الم ذ®ور\nأعلاه، يجب\nعa ال ص\nالمعLن\nلممارسة وظيفة مسLّB\nأن ]ستو&% حتميا الم تطلب ات المشIBطة ، الاتية :\n-\nBLاس«يفاء معاي\nنزاة عالية، يما دّ¯% عدم وجود أدلة ملموسة أو عناصر معلومات موثوقة تثtت أن الص المع²J ®ان أو لايزال موضوع :\n.أ M³\u0007يل &% القائمة الموحدة ل\u0007نة العقو<ات ^\u0007لس الأمن\nلمنظمة الأمم المتحدة\nأو &% القائم ة الوطنية\nللأµاص والكيانات الارابية ؛ .ب إدانة جزائية للIHوGر أو استعمال المزور؛\n.ج عقو<ات إدارGة أو تأديtية لإخلال جسيم بالالIHامات الم}نية أو الأخلاقية؛\n.د تورط &% وقا¶ع أو أحداث أو حوادث\nمتعلقة ب وظائف سابق ة ، والpJ مست ب استقرار النظام المصر&% والماb%؛\n.ه أي تضارب &% المصا\b§ من شأنھ ان يمس بموضوعية واستقلالية\nاتخاذ القرار،\nمع الأخذ yعLن الاعتب ،ار مصا\b_ھ\nالاقتصادية و المناصب الpJ شغل }ا مؤخرا و علاقات ھ الصية والم}نية مع المسامLن والمستفيدين ا\b _قيقيLن و الأطراف ذات الصلة الأو صا µ المعرضون سياسي ا وم ستخدمي المؤسس ة ا\bاضعة، وكذا المشاركة &% يئة مداولة أو تنفيذية ذات مصا\b§ مت ضار<ة .\n- أن تEون لديھ ال كفاءات ال لازمة\nبالنظر :\nلل .أ معارف\nالمك«سبة\nمدعمة yش}ادة ال تعليم العاb%\nو/أو مؤلات جامعية،\nتل»J متطلبات الوظيفة، لا سيم ا &% ا^\u0007الLن المصر&% والماb% ؛ ب.\nا\bCBة المك«سبة من خلال الوظائف المُمَارسة\nسابقًا &% القطاع المصر&% والماb% أو &% قطاع آخر ذي صلة بالم}ام الpJ سي ؤدrqا .\n- تخصيص ال وقت ال ال ، Eا&% لازم لتأدية الم}ام المو®لة ؛\n- تقديم\nقيمة\nمضافة\nكعضو:\n.أ &% ا ل}يئة المداولة، بالمسامة &% تنوªع Mشكيلqا\nوكذا استغلال كفاءات\nفردية تكميلية .\nا &% .ب ل}يئة التنفيذية ، ب المسامة &% تحسLن الكف اءة ا\b\u0007ماعية للفرGق المسؤول عن MسيLB ا لمؤسسة ا\bاضعة.",
+      "paragraphs": [
+        {
+          "text": "—",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "دون ا لا خلال بأحEام المادة 87",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "من القانون23 - 09",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "المؤ رخ &% 03",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "ذي ا\b+\u0007ة عام1444 الموافق 21",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "يونيو2023، الم ذ®ور",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "أعلاه، يجب",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "عa ال ص",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "المعLن",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "لممارسة وظيفة مسLّB",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "أن ]ستو&% حتميا الم تطلب ات المشIBطة ، الاتية :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "-",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "BLاس«يفاء معاي",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "نزاة عالية، يما دّ¯% عدم وجود أدلة ملموسة أو عناصر معلومات موثوقة تثtت أن الص المع²J ®ان أو لايزال موضوع :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": ".أ M³\u0007يل &% القائمة الموحدة ل\u0007نة العقو<ات ^\u0007لس الأمن",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "لمنظمة الأمم المتحدة",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "أو &% القائم ة الوطنية",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "للأµاص والكيانات الارابية ؛ .ب إدانة جزائية للIHوGر أو استعمال المزور؛",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": ".ج عقو<ات إدارGة أو تأديtية لإخلال جسيم بالالIHامات الم}نية أو الأخلاقية؛",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": ".د تورط &% وقا¶ع أو أحداث أو حوادث",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "متعلقة ب وظائف سابق ة ، والpJ مست ب استقرار النظام المصر&% والماb%؛",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": ".ه أي تضارب &% المصا\b§ من شأنھ ان يمس بموضوعية واستقلالية",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "اتخاذ القرار،",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "مع الأخذ yعLن الاعتب ،ار مصا\b_ھ",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "الاقتصادية و المناصب الpJ شغل }ا مؤخرا و علاقات ھ الصية والم}نية مع المسامLن والمستفيدين ا\b _قيقيLن و الأطراف ذات الصلة الأو صا µ المعرضون سياسي ا وم ستخدمي المؤسس ة ا\bاضعة، وكذا المشاركة &% يئة مداولة أو تنفيذية ذات مصا\b§ مت ضار<ة .",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- أن تEون لديھ ال كفاءات ال لازمة",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "بالنظر :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "لل .أ معارف",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "المك«سبة",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "مدعمة yش}ادة ال تعليم العاb%",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "و/أو مؤلات جامعية،",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "تل»J متطلبات الوظيفة، لا سيم ا &% ا^\u0007الLن المصر&% والماb% ؛ ب.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "ا\bCBة المك«سبة من خلال الوظائف المُمَارسة",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "سابقًا &% القطاع المصر&% والماb% أو &% قطاع آخر ذي صلة بالم}ام الpJ سي ؤدrqا .",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- تخصيص ال وقت ال ال ، Eا&% لازم لتأدية الم}ام المو®لة ؛",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- تقديم",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "قيمة",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "مضافة",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "كعضو:",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": ".أ &% ا ل}يئة المداولة، بالمسامة &% تنوªع Mشكيلqا",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "وكذا استغلال كفاءات",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "فردية تكميلية .",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "ا &% .ب ل}يئة التنفيذية ، ب المسامة &% تحسLن الكف اءة ا\b\u0007ماعية للفرGق المسؤول عن MسيLB ا لمؤسسة ا\bاضعة.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {
+        "chapitre": {
+          "number": "بLن",
+          "heading": null,
+          "label": "Chapitre بLن"
+        }
+      },
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "—\nيجب عa المؤسسات ا\bاضعة التأكد من أن المسLّ Bين ]ستوفون ، بصفة دائمة ل، لمتطلبات ا لمتعلقة ب التأيل\nالمنصوص علsqا &% ذا النظام، عند Mعييqم وط يلة فIBة ممارسة\nوظيف أو qم ع}د . Àqم يجب عW? المؤسسات ا32اضعة ، yعد\nموافقة ا\b\u0007معية العامة للمسامLن وتحت إشراف ال}يئة المداولة، أن تضع ج}از\nفعال للتقييم ومراقبة تأيل\nمسLّ qم rB . وGتعLن علsqم إعداد مص لتقييم ال تأيل ، يحدد نمو ذجھ ب موجب Mعليمة بنك ا\b\u0007زائر.\nيجب عa\nالمؤسسات ا\bاضعة أن تٌجري، عملا بمبدأ التناسtية ، و درجة\nالتعرض و قبول ا ^اطر ، التعديلات الضرورGة ل تكيف ذا ا\b\u0007}از ، وفقا\n\b+\u0007م}ا و شEل}ا القانوYي\nومجال Yشاط }ا ا\bاص .",
+      "paragraphs": [
+        {
+          "text": "—",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "يجب عa المؤسسات ا\bاضعة التأكد من أن المسLّ Bين ]ستوفون ، بصفة دائمة ل، لمتطلبات ا لمتعلقة ب التأيل",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "المنصوص علsqا &% ذا النظام، عند Mعييqم وط يلة فIBة ممارسة",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "وظيف أو qم ع}د . Àqم يجب عW? المؤسسات ا32اضعة ، yعد",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "موافقة ا\b\u0007معية العامة للمسامLن وتحت إشراف ال}يئة المداولة، أن تضع ج}از",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "فعال للتقييم ومراقبة تأيل",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "مسLّ qم rB . وGتعLن علsqم إعداد مص لتقييم ال تأيل ، يحدد نمو ذجھ ب موجب Mعليمة بنك ا\b\u0007زائر.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "يجب عa",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "المؤسسات ا\bاضعة أن تٌجري، عملا بمبدأ التناسtية ، و درجة",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "التعرض و قبول ا ^اطر ، التعديلات الضرورGة ل تكيف ذا ا\b\u0007}از ، وفقا",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "\b+\u0007م}ا و شEل}ا القانوYي",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "ومجال Yشاط }ا ا\bاص .",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {
+        "chapitre": {
+          "number": "بLن",
+          "heading": null,
+          "label": "Chapitre بLن"
+        }
+      },
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "—\nيجب كذلك ي أن مكّن ا\b \u0007}از\nالمذ®ورة أعلاه ، المؤسسات ا\bاضعة\nمن التأكد من امتثال المسLBي ن الم ستمر لمتطلبات ال Hاة ، وذلك باستخدام جميع الوسائل القانونية المتاحة ، مع الا عتماد عa مصادر م علومات موثوقة .\nإذا تبLن من خلال\nنتائج التقييمات أو المراقبة ، حقائق أو معلومات ذات أمية\nيمكن أن تؤثر\nعa نزاة المس LB المع²J، ي تعLّن\nعa المؤسسات ا\bاضعة بلاغ إ\nال\u0007نة المصرفية\nدون تأخLB .",
+      "paragraphs": [
+        {
+          "text": "—",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "يجب كذلك ي أن مكّن ا\b \u0007}از",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "المذ®ورة أعلاه ، المؤسسات ا\bاضعة",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "من التأكد من امتثال المسLBي ن الم ستمر لمتطلبات ال Hاة ، وذلك باستخدام جميع الوسائل القانونية المتاحة ، مع الا عتماد عa مصادر م علومات موثوقة .",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "إذا تبLن من خلال",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "نتائج التقييمات أو المراقبة ، حقائق أو معلومات ذات أمية",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "يمكن أن تؤثر",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "عa نزاة المس LB المع²J، ي تعLّن",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "عa المؤسسات ا\bاضعة بلاغ إ",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "ال\u0007نة المصرفية",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "دون تأخLB .",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {
+        "chapitre": {
+          "number": "بLن",
+          "heading": null,
+          "label": "Chapitre بLن"
+        }
+      },
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": ":\n—\nيجب عa المسؤول الم ؤل ل لمؤسسة ا\bاضعة إ بلاغ\nمحافظ بنك ا\b\u0007زائر ، دون تأخLB M أيب ، غيLB قد يطرأ\nعa أحد مEون ات أو عناصر المعلومات الم قدمة\n&% إطار طلب اعتماد المسLB.",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "—",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "يجب عa المسؤول الم ؤل ل لمؤسسة ا\bاضعة إ بلاغ",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "محافظ بنك ا\b\u0007زائر ، دون تأخLB M أيب ، غيLB قد يطرأ",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "عa أحد مEون ات أو عناصر المعلومات الم قدمة",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "&% إطار طلب اعتماد المسLB.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {
+        "chapitre": {
+          "number": "بLن",
+          "heading": null,
+          "label": "Chapitre بLن"
+        }
+      },
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 5,
+      "text": ":\n—\naيجب ع\nالمؤسسات ا\bاضعة وضع برنامج تEوGن متواصل\n]سمح ب I Bقية\nوتحسLن\nمستوى\nتأيل\nالمسLّ Bين ، لاسيما\nإدراك\nا^اطر الpJ تمس قد\nنزا qم.\nالفصل الثالث\nأحEام أخرى وشروط خاصة",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "—",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "aيجب ع",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "المؤسسات ا\bاضعة وضع برنامج تEوGن متواصل",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "]سمح ب I Bقية",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "وتحسLن",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "مستوى",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "تأيل",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "المسLّ Bين ، لاسيما",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "إدراك",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "ا^اطر الpJ تمس قد",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "نزا qم.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "الفصل الثالث",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "أحEام أخرى وشروط خاصة",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "context": {
+        "chapitre": {
+          "number": "بLن",
+          "heading": null,
+          "label": "Chapitre بLن"
+        }
+      },
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 5,
+      "text": ":\n— لا يجوز\nتفوGض\nµص\nلا يحوز عa اعتماد محافظ بنك ا\b\u0007زائر ، ل تمثيل مسLّB أو\nأن ينوب .نھع",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "— لا يجوز",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "تفوGض",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "µص",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "لا يحوز عa اعتماد محافظ بنك ا\b\u0007زائر ، ل تمثيل مسLّB أو",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "أن ينوب .نھع",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "context": {
+        "chapitre": {
+          "number": "بLن",
+          "heading": null,
+          "label": "Chapitre بLن"
+        }
+      },
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 5,
+      "text": ":\n— فIBة\nصلاحية اعتماد\nمسLB Ä% تلك المنصوص علsqا &% التفوGض الممنوح لھ من طرف ال }يئة الاجتماعية المؤلة .",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "— فIBة",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "صلاحية اعتماد",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "مسLB Ä% تلك المنصوص علsqا &% التفوGض الممنوح لھ من طرف ال }يئة الاجتماعية المؤلة .",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "context": {
+        "chapitre": {
+          "number": "بLن",
+          "heading": null,
+          "label": "Chapitre بLن"
+        }
+      },
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 5,
+      "text": ":\n—\nيخضع تجديد اعتماد الم سLّ B الذي استفاد من تجديد ع}دتھ من قبل ال}يئة الاجتماعية المؤلة ، لنفس شروط التأيل\nالمنصوص علsqا &% ذا النظام.\nالفصل الرا^ع\nأحEام ختامية",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "—",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "يخضع تجديد اعتماد الم سLّ B الذي استفاد من تجديد ع}دتھ من قبل ال}يئة الاجتماعية المؤلة ، لنفس شروط التأيل",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "المنصوص علsqا &% ذا النظام.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "الفصل الرا^ع",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "أحEام ختامية",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "context": {
+        "chapitre": {
+          "number": "بLن",
+          "heading": null,
+          "label": "Chapitre بLن"
+        }
+      },
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 5,
+      "text": ":\n— تقوم\nالمؤسسات\nا\bاضعة\nبÇشر وتحديث\nالمعلومات\nالنوعية\nالمتعلقة\nبمسLّBrqا\nالمعتمدي ن عa\nموقع}ا\nالإلكIBوYي\nالرسJ ، لا سيما\nعناصر المعلومات\nالمتعلقة\nبالوظيفة الpJ\n]شغلوÈqا\nو<مسارم ا لمÉJ.",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "— تقوم",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "المؤسسات",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "ا\bاضعة",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "بÇشر وتحديث",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "المعلومات",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "النوعية",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "المتعلقة",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "بمسLّBrqا",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "المعتمدي ن عa",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "موقع}ا",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "الإلكIBوYي",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "الرسJ ، لا سيما",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "عناصر المعلومات",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "المتعلقة",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "بالوظيفة الpJ",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "]شغلوÈqا",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "و<مسارم ا لمÉJ.",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 16",
+      "number": "16",
+      "heading": null,
+      "context": {
+        "chapitre": {
+          "number": "بLن",
+          "heading": null,
+          "label": "Chapitre بLن"
+        }
+      },
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 5,
+      "text": ":\n— أي انqا ك لأحEام ذا النظام ] عرِّض صاحËqا للعقو<ات\nالمنصوص علsqا ا &% ل«شرªع المعمول بھ.",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "— أي انqا ك لأحEام ذا النظام ] عرِّض صاحËqا للعقو<ات",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "المنصوص علsqا ا &% ل«شرªع المعمول بھ.",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 17",
+      "number": "17",
+      "heading": null,
+      "context": {
+        "chapitre": {
+          "number": "بLن",
+          "heading": null,
+          "label": "Chapitre بLن"
+        }
+      },
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 5,
+      "text": ":\n—\n%& تلÌa ®ل الأحEام ا^الفة ل}ذا النظام، لاسيّما تلك الواردة النظام رقم 92 - 05\n%& المؤرخ17\nرمضان عام1412\nالموافق22\nمارس سنة1992 ،والمتع لق بالشروط الpJ يجب أن تتوفر &% مؤسm\u001cJ البنوك والمؤسسات المالية ومسLّBrqا وممثلsqا،\nوالنظام رقم 06 - 02\nالمؤرخ &% أول رمضان عام1427\nالموافق24\nBCسtتم نة س2006 الذي\nيـحـدد شروط تـأسـwس بنك\nومـؤسـسة مالية وشروط إقامة فرع بنك ومؤسسة مالية أجنtية .",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "—",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "%& تلÌa ®ل الأحEام ا^الفة ل}ذا النظام، لاسيّما تلك الواردة النظام رقم 92 - 05",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "%& المؤرخ17",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "رمضان عام1412",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "الموافق22",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "مارس سنة1992 ،والمتع لق بالشروط الpJ يجب أن تتوفر &% مؤسm\u001cJ البنوك والمؤسسات المالية ومسLّBrqا وممثلsqا،",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "والنظام رقم 06 - 02",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "المؤرخ &% أول رمضان عام1427",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "الموافق24",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "BCسtتم نة س2006 الذي",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "يـحـدد شروط تـأسـwس بنك",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "ومـؤسـسة مالية وشروط إقامة فرع بنك ومؤسسة مالية أجنtية .",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 18",
+      "number": "18",
+      "heading": null,
+      "context": {
+        "chapitre": {
+          "number": "بLن",
+          "heading": null,
+          "label": "Chapitre بLن"
+        }
+      },
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 5,
+      "text": ":\n—\n%& يÇشر ذا النظام ا\b\u0007رGدة الرسمية\nل\u0007م}ورGة ا\b\u0007زائرGة الديمقراطية الشعبية.\nاa`افظ\nصا3 d الدين طالب",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "—",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "%& يÇشر ذا النظام ا\b\u0007رGدة الرسمية",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "ل\u0007م}ورGة ا\b\u0007زائرGة الديمقراطية الشعبية.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "اa`افظ",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "صا3 d الدين طالب",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "numerotation:articles_manquants:[5]",
+      "numerotation:premier_article=2"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.101
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/REG-25-01.ar.txt"
+}

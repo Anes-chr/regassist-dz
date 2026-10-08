@@ -1,0 +1,747 @@
+{
+  "document_id": "REG-97-02.fr",
+  "work_id": "REG-97-02",
+  "title": "Règlement n°97-02 du 06 avril 1997 relatif aux conditions d’implantation du réseau des banques et des établissements financiers.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "97-02",
+  "number_source": "en-tête du document",
+  "date": "1997-04-06",
+  "date_raw": "N°97-02 DU 06 AVRIL 1997",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Conditions de constitution et d'installation de banques, d'établissements financiers de PSP et capital minimum",
+  "source_url": "https://www.bank-of-algeria.dz/importations-exportations-reglement/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement9702.pdf",
+  "format": "pdf",
+  "file_hash": "4a8f564a584f077656970cc0269b5f4b7df0507bd1bbdf71ad68d33d617deb3d",
+  "file_size": 70434,
+  "raw_path": "raw/4a8f564a584f__reglement9702.pdf",
+  "retrieved_at": "2026-10-05T13:23:36+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "049f20977e18bdac1a13fe5c13cb9df5aa395870c783b36228045a52ee59d932",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%D8%A7%D9%84%D8%A8%D9%86%D9%83/",
+    "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d8%a8%d9%86%d9%83/",
+    "https://www.bank-of-algeria.dz/banques-reglement/",
+    "https://www.bank-of-algeria.dz/importations-exportations-reglement/",
+    "https://www.bank-of-algeria.dz/reglement-1997/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document20",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210216153041+01'00'",
+    "modDate": "D:20210216153041+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2737,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 2695,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 13,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "REGLEMENT N°97-02 DU 06 AVRIL 1997 RELATIF AUX CONDITIONS D'IMPLANTATION DU RESEAU DES BANQUES ET DES ETABLISSEMENTS FINANCIERS",
+  "alias_urls": [],
+  "text_hash": "0dd36614078f279d3b60a979c8aff3f647a5bb76986b841b020b6b2a774c5f86",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [
+    {
+      "work_id": "REG-02-05",
+      "document_id": "REG-02-05.fr",
+      "date": "2002-12-31",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2002-05 du 31 décembre 2002 modifiant et complétant le règlement n°97-02 du 06 avril 1997 relatif aux conditions d’implantation d"
+      }
+    },
+    {
+      "work_id": "REG-02-05",
+      "document_id": "REG-02-05.fr",
+      "date": "2002-12-31",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le Règlement n° 97-02 du 06 Avril 1997 relatif aux conditions d'implantation d"
+      }
+    }
+  ],
+  "complete_par": [
+    {
+      "work_id": "REG-02-05",
+      "document_id": "REG-02-05.fr",
+      "date": "2002-12-31",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2002-05 du 31 décembre 2002 modifiant et complétant le règlement n°97-02 du 06 avril 1997 relatif aux conditions d’implantation d"
+      }
+    },
+    {
+      "work_id": "REG-02-05",
+      "document_id": "REG-02-05.fr",
+      "date": "2002-12-31",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le Règlement n° 97-02 du 06 Avril 1997 relatif aux conditions d'implantation d"
+      }
+    }
+  ],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée. Ce texte a été modifié/complété : consulter aussi les textes listés dans modifié_par / complété_par.",
+  "same_work_documents": [
+    "REG-97-02.ar"
+  ],
+  "complété_par": [
+    {
+      "work_id": "REG-02-05",
+      "document_id": "REG-02-05.fr",
+      "date": "2002-12-31",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2002-05 du 31 décembre 2002 modifiant et complétant le règlement n°97-02 du 06 avril 1997 relatif aux conditions d’implantation d"
+      }
+    },
+    {
+      "work_id": "REG-02-05",
+      "document_id": "REG-02-05.fr",
+      "date": "2002-12-31",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le Règlement n° 97-02 du 06 Avril 1997 relatif aux conditions d'implantation d"
+      }
+    }
+  ],
+  "modifié_par": [
+    {
+      "work_id": "REG-02-05",
+      "document_id": "REG-02-05.fr",
+      "date": "2002-12-31",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2002-05 du 31 décembre 2002 modifiant et complétant le règlement n°97-02 du 06 avril 1997 relatif aux conditions d’implantation d"
+      }
+    },
+    {
+      "work_id": "REG-02-05",
+      "document_id": "REG-02-05.fr",
+      "date": "2002-12-31",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le Règlement n° 97-02 du 06 Avril 1997 relatif aux conditions d'implantation d"
+      }
+    }
+  ],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°97-02 DU 06 AVRIL 1997 RELATIF\nAUX CONDITIONS D'IMPLANTATION DU RESEAU\nDES BANQUES ET DES ETABLISSEMENTS FINANCIERS\nLe Gouverneur de la Banque d'Algérie,\n- Vu la Loi n°90-10 du 14 avril 1990 modifiée, relative à la Monnaie et au Crédit, notamment ses articles 44, 47, 142 et 143 à 158 ;\n- Vu le Décret Présidentiel du 21 juillet 1992 portant nomination du Gouverneur de la Banque d'Algérie ;\nVu les Décrets Présidentiels du 14 mai 1990 portant nomination de Vice-Gouverneurs de la\nBanque d'Algérie ;\nVu le Décret Présidentiel du 24 février 1997 portant nomination d'un Vice-Gouverneur de la\nBanque d'Algérie ;\nVu le Décret Exécutif du 1er juillet 1991 portant désignation de membres titulaires et suppléants au Conseil de la Monnaie et du Crédit ;\nVu le Décret Exécutif du 1er juillet 1996 portant désignation d'un membre titulaire au Conseil de la Monnaie et du Crédit ;\n- Vu le règlement n°92-05 du 22 mars 1992 concernant les conditions que doivent remplir les fondateurs, dirigeants et représentants des banques et établissements financiers ;\n- Vu le règlement n°93-01 du 3 janvier 1993 fixant les conditions de constitution de banque et d'établissement financier et d'installation de succursale de banque et d'établissement financier étrangers ;\n- Après Délibération du Conseil de la Monnaie et du Crédit en date du 06 avril 1997 ;\nPromulgue le Règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°97-02 DU 06 AVRIL 1997 RELATIF",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AUX CONDITIONS D'IMPLANTATION DU RESEAU",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DES BANQUES ET DES ETABLISSEMENTS FINANCIERS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d'Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la Loi n°90-10 du 14 avril 1990 modifiée, relative à la Monnaie et au Crédit, notamment ses articles 44, 47, 142 et 143 à 158 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 21 juillet 1992 portant nomination du Gouverneur de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Vu les Décrets Présidentiels du 14 mai 1990 portant nomination de Vice-Gouverneurs de la",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Vu le Décret Présidentiel du 24 février 1997 portant nomination d'un Vice-Gouverneur de la",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Vu le Décret Exécutif du 1er juillet 1991 portant désignation de membres titulaires et suppléants au Conseil de la Monnaie et du Crédit ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Vu le Décret Exécutif du 1er juillet 1996 portant désignation d'un membre titulaire au Conseil de la Monnaie et du Crédit ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n°92-05 du 22 mars 1992 concernant les conditions que doivent remplir les fondateurs, dirigeants et représentants des banques et établissements financiers ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n°93-01 du 3 janvier 1993 fixant les conditions de constitution de banque et d'établissement financier et d'installation de succursale de banque et d'établissement financier étrangers ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Après Délibération du Conseil de la Monnaie et du Crédit en date du 06 avril 1997 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le Règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le présent règlement a pour objet de déterminer les conditions d'implantation du réseau des banques et des établissements financiers.",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement a pour objet de déterminer les conditions d'implantation du réseau des banques et des établissements financiers.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les banques et établissement financiers peuvent procéder sans autorisation préalable de la Banque d'Algérie à toute ouverture, transformation, transfert ou fermeture de guichets.",
+      "paragraphs": [
+        {
+          "text": "Les banques et établissement financiers peuvent procéder sans autorisation préalable de la Banque d'Algérie à toute ouverture, transformation, transfert ou fermeture de guichets.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "A compter de la date de promulgation du présent règlement, tout projet d'ouverture de guichet de banque ou d'établissement financier doit être porté à la connaissance de la Banque d'Algérie au moins deux (2) mois avant la réalisation effective de l'opération.\nLa Banque d'Algérie est également informée, au moins un (1) mois à l'avance, de toute transformation, transfert ou fermeture de guichet de banque ou d'établissement financier.",
+      "paragraphs": [
+        {
+          "text": "A compter de la date de promulgation du présent règlement, tout projet d'ouverture de guichet de banque ou d'établissement financier doit être porté à la connaissance de la Banque d'Algérie au moins deux (2) mois avant la réalisation effective de l'opération.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La Banque d'Algérie est également informée, au moins un (1) mois à l'avance, de toute transformation, transfert ou fermeture de guichet de banque ou d'établissement financier.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Au sens du présent Règlement, est considéré comme « guichet » tout immeuble ou local aménagé accessible au public dans lequel une banque ou un établissement financier, utilisant son personnel, réalise, avec la clientèle, des opérations de banque autorisées pour lesquelles elle ou il a été agréé.",
+      "paragraphs": [
+        {
+          "text": "Au sens du présent Règlement, est considéré comme « guichet » tout immeuble ou local aménagé accessible au public dans lequel une banque ou un établissement financier, utilisant son personnel, réalise, avec la clientèle, des opérations de banque autorisées pour lesquelles elle ou il a été agréé.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "Les guichets des banques et des établissements financiers sont classés en deux catégories : « guichets permanents » ou « guichets non permanents ».\nBANK OF ALGERIA\nSont considérés « guichets permanents », la catégorie de guichets ouverts au public pendant au moins cinq (5) jours par semaine durant toute l'année civile conformément aux règles de la profession.\nSont considérés « guichets non permanents », la catégorie de guichets dont les conditions de fonctionnement, notamment les périodes et les jours d'ouverture, sont régulièrement portées à la connaissance du public pour des opérations ponctuelles précises.",
+      "paragraphs": [
+        {
+          "text": "Les guichets des banques et des établissements financiers sont classés en deux catégories : « guichets permanents » ou « guichets non permanents ».",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Sont considérés « guichets permanents », la catégorie de guichets ouverts au public pendant au moins cinq (5) jours par semaine durant toute l'année civile conformément aux règles de la profession.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Sont considérés « guichets non permanents », la catégorie de guichets dont les conditions de fonctionnement, notamment les périodes et les jours d'ouverture, sont régulièrement portées à la connaissance du public pour des opérations ponctuelles précises.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les guichets visés à l'article 5 ci-dessus, sont soit de \"compétence générale\" soit de « compétence limitée ».\nIls sont de « compétence générale » lorsqu'ils traitent, avec la clientèle, de toutes les opérations de banque autorisées dans le cadre de la législation et la réglementation bancaire en vigueur.\nIls sont de « compétence limitée » lorsqu'ils ne traitent, avec la clientèle, que de certaines des opérations de banque autorisées.",
+      "paragraphs": [
+        {
+          "text": "Les guichets visés à l'article 5 ci-dessus, sont soit de \"compétence générale\" soit de « compétence limitée ».",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Ils sont de « compétence générale » lorsqu'ils traitent, avec la clientèle, de toutes les opérations de banque autorisées dans le cadre de la législation et la réglementation bancaire en vigueur.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Ils sont de « compétence limitée » lorsqu'ils ne traitent, avec la clientèle, que de certaines des opérations de banque autorisées.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Par ouverture, il faut entendre l'installation nouvelle d'un guichet.\nLa déclaration d'ouverture de guichet de banque ou d'établissement financier doit faire apparaître notamment :\n- les informations relatives à la nature des opérations de banque envisagées,\n- les conditions du fonctionnement du guichet, en précisant les éventuelles restrictions apportées au régime de son exploitation,\n- le classement du guichet selon l'une des catégories visées à l'article 5 ci-dessus ainsi que la compétence définie à l'article 6 ci-dessus,\n- le nombre et la qualification du personnel prévu,\n- toute information ou analyse de nature économique et financière relative à l'ouverture du guichet.",
+      "paragraphs": [
+        {
+          "text": "Par ouverture, il faut entendre l'installation nouvelle d'un guichet.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "La déclaration d'ouverture de guichet de banque ou d'établissement financier doit faire apparaître notamment :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les informations relatives à la nature des opérations de banque envisagées,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les conditions du fonctionnement du guichet, en précisant les éventuelles restrictions apportées au régime de son exploitation,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- le classement du guichet selon l'une des catégories visées à l'article 5 ci-dessus ainsi que la compétence définie à l'article 6 ci-dessus,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- le nombre et la qualification du personnel prévu,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- toute information ou analyse de nature économique et financière relative à l'ouverture du guichet.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Par transformation, il faut entendre le changement de catégorie ou de compétence d'un guichet.\nLa déclaration de transformation d'un guichet doit comporter les éléments de modifications envisagées par rapport à la déclaration initiale.",
+      "paragraphs": [
+        {
+          "text": "Par transformation, il faut entendre le changement de catégorie ou de compétence d'un guichet.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "La déclaration de transformation d'un guichet doit comporter les éléments de modifications envisagées par rapport à la déclaration initiale.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Par transfert, il faut entendre le changement de localisation d'un guichet sans modification de catégorie ni de compétence.",
+      "paragraphs": [
+        {
+          "text": "Par transfert, il faut entendre le changement de localisation d'un guichet sans modification de catégorie ni de compétence.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les banques et établissements financiers doivent, au 31 décembre de chaque année, faire parvenir à la Banque d'Algérie l'état de leur réseau en précisant la catégorie de chaque guichet.",
+      "paragraphs": [
+        {
+          "text": "Les banques et établissements financiers doivent, au 31 décembre de chaque année, faire parvenir à la Banque d'Algérie l'état de leur réseau en précisant la catégorie de chaque guichet.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les dispositions des articles 7 et 8 ci-dessus seront précisées par une\nInstruction de la Banque d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "Les dispositions des articles 7 et 8 ci-dessus seront précisées par une",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Instruction de la Banque d'Algérie.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "La Banque d'Algérie devra procéder a posteriori au contrôle du respect des conditions d'implantation visées aux articles 7 et 8 ci-dessus.",
+      "paragraphs": [
+        {
+          "text": "La Banque d'Algérie devra procéder a posteriori au contrôle du respect des conditions d'implantation visées aux articles 7 et 8 ci-dessus.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le présent règlement sera publié au Journal Officiel de la République\nAlgérienne Démocratique et Populaire.\nLe Gouverneur\nAbdelouahab KERAMANE",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement sera publié au Journal Officiel de la République",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Algérienne Démocratique et Populaire.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.038
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-97-02.fr.txt"
+}

@@ -1,0 +1,931 @@
+{
+  "document_id": "REG-06-02.fr",
+  "work_id": "REG-06-02",
+  "title": "Règlement n°2006-02 du 24 septembre 2006 fixant les conditions de constitution de banque et d’établissement financier et d’installation de succursale de banque et d’établissement financier étranger.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "2006-02",
+  "number_source": "en-tête du document",
+  "date": "2006-09-24",
+  "date_raw": "N°2006-02 DU 24 SEPTEMBRE 2006",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Conditions de constitution et d'installation de banques, d'établissements financiers de PSP et capital minimum",
+  "source_url": "https://www.bank-of-algeria.dz/importations-exportations-reglement/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement200602.pdf",
+  "format": "pdf",
+  "file_hash": "c641c47387a9d1f661e2d44a7ad9f9c55a0f3420ecfc049edc12cd190b57925d",
+  "file_size": 80729,
+  "raw_path": "raw/c641c47387a9__reglement200602.pdf",
+  "retrieved_at": "2026-10-05T13:22:31+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 4,
+  "url_hash": "53f7bd31e7dcb634625cf9018e07a85829796158f53fcdee8830d72d31df42d7",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%D8%A7%D9%84%D8%A8%D9%86%D9%83/",
+    "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d8%a8%d9%86%d9%83/",
+    "https://www.bank-of-algeria.dz/banques-reglement/",
+    "https://www.bank-of-algeria.dz/importations-exportations-reglement/",
+    "https://www.bank-of-algeria.dz/reglement-2006/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document20",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210214145405+01'00'",
+    "modDate": "D:20210214145405+01'00'"
+  },
+  "hijri_date_raw": "27 Joumada Ethania 1424",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 4,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2937,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 3503,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 3639,
+        "ocr_confidence": null
+      },
+      {
+        "page": 4,
+        "method": "pdf_text",
+        "chars": 1057,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 17,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "REGLEMENT N°2006-02 DU 24 SEPTEMBRE 2006 FIXANT LES CONDITIONS DE CONSTITUTION DE BANQUE ET D'ETABLISSEMENT FINANCIER ET D'INSTALLATION DE SUCCURSALE DE BANQUE ET D'ETABLISSEMENT FINANCIER ETRANGER",
+  "alias_urls": [],
+  "text_hash": "a641ebe80aa634900c0f37cad2c430fcc7e2347b73fb76f2a84bb25c7f41670c",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "ORD",
+        "number": "03-11",
+        "date": null,
+        "raw": "Ordonnance n°03-11"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "l'obtention de la décision d'agrément, la banque ou l'établissement financier doit, en application de l'article 94 de l'Ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondan"
+      },
+      "target_work_id": "ORD-03-11"
+    },
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "93-01",
+        "date": "1993-01-03",
+        "raw": "règlement n°93-01 du 3 janvier 1993"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 4,
+        "quote": "Toutes les dispositions contraires au présent règlement sont abrogées, notamment le règlement n°93-01 du 3 janvier 1993, modifié et complété, fixant les condit"
+      },
+      "target_work_id": "REG-93-01"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "REG-93-01",
+      "reference": "règlement n°93-01 du 3 janvier 1993",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 4,
+        "quote": "Toutes les dispositions contraires au présent règlement sont abrogées, notamment le règlement n°93-01 du 3 janvier 1993, modifié et complété, fixant les condit"
+      }
+    }
+  ],
+  "modifie": [
+    {
+      "work_id": "ORD-03-11",
+      "reference": "Ordonnance n°03-11",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "l'obtention de la décision d'agrément, la banque ou l'établissement financier doit, en application de l'article 94 de l'Ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondan"
+      }
+    }
+  ],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [
+    {
+      "work_id": "REG-24-01",
+      "document_id": "REG-24-01.fr",
+      "date": "2024-02-06",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 5,
+        "quote": "Toutes les dispositions contraires au présent règlement sont abrogées, notamment celle du règlement n°06-02 du Aouel Ramadhan 1427 correspondant au"
+      }
+    }
+  ],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "REG-24-01",
+      "document_id": "REG-24-01.fr",
+      "date": "2024-02-06",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 5,
+        "quote": "Toutes les dispositions contraires au présent règlement sont abrogées, notamment celle du règlement n°06-02 du Aouel Ramadhan 1427 correspondant au"
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [
+    "REG-06-02.ar"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [
+    {
+      "work_id": "REG-24-01",
+      "document_id": "REG-24-01.fr",
+      "date": "2024-02-06",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 5,
+        "quote": "Toutes les dispositions contraires au présent règlement sont abrogées, notamment celle du règlement n°06-02 du Aouel Ramadhan 1427 correspondant au"
+      }
+    }
+  ],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 16",
+      "number": "16",
+      "heading": null,
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 17",
+      "number": "17",
+      "heading": null,
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°2006-02 DU 24 SEPTEMBRE 2006 FIXANT\nLES CONDITIONS DE CONSTITUTION DE BANQUE ET D'ETABLISSEMENT\nFINANCIER ET D'INSTALLATION DE SUCCURSALE DE BANQUE\nET D'ETABLISSEMENT FINANCIER ETRANGER\nLe Gouverneur de la Banque d'Algérie,\n- Vu l'ordonnance n° 75-59 du 26 septembre 1975, modifiée et complétée, portant code de commerce ;\n- Vu l'ordonnance n° 03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003 relative à la monnaie et au crédit, notamment ses articles 82 à 95 ;\n- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 2 juin 2001 portant nomination du Gouverneur et vice-Gouverneurs de la Banque d'Algérie ;\n- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 2 juin 2001 portant nomination des membres du Conseil d'administration de la Banque d'Algérie ;\n- Vu le décret présidentiel du 5 Joumada El Oula 1427 correspondant au 1er juin 2006 portant nomination d'un vice-Gouverneur de la Banque d'Algérie ;\n- Vu le règlement n° 93-01 du 3 janvier 1993, modifié et complété, fixant les conditions de constitution de banque et d'établissement financier et d'installation de succursale de banque et d'établissement financier étranger ;\n- Vu le règlement n° 04-01 du 12 Moharram 1425 correspondant au 4 mars 2004 relatif au capital minimum des banques et établissements financiers exerçant en Algérie ;\n- Après délibérations du conseil de la monnaie et du crédit en date du 24 septembre 2006 ;\nPromulgue le règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°2006-02 DU 24 SEPTEMBRE 2006 FIXANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "LES CONDITIONS DE CONSTITUTION DE BANQUE ET D'ETABLISSEMENT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "FINANCIER ET D'INSTALLATION DE SUCCURSALE DE BANQUE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET D'ETABLISSEMENT FINANCIER ETRANGER",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d'Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l'ordonnance n° 75-59 du 26 septembre 1975, modifiée et complétée, portant code de commerce ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l'ordonnance n° 03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003 relative à la monnaie et au crédit, notamment ses articles 82 à 95 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 2 juin 2001 portant nomination du Gouverneur et vice-Gouverneurs de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 2 juin 2001 portant nomination des membres du Conseil d'administration de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 5 Joumada El Oula 1427 correspondant au 1er juin 2006 portant nomination d'un vice-Gouverneur de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n° 93-01 du 3 janvier 1993, modifié et complété, fixant les conditions de constitution de banque et d'établissement financier et d'installation de succursale de banque et d'établissement financier étranger ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n° 04-01 du 12 Moharram 1425 correspondant au 4 mars 2004 relatif au capital minimum des banques et établissements financiers exerçant en Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Après délibérations du conseil de la monnaie et du crédit en date du 24 septembre 2006 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le présent règlement a pour objet de fixer les conditions relatives à :\n- l'autorisation de constitution de banque et d'établissement financier,\n- l'autorisation d'installation de succursale de banque et d'établissement financier étranger,\n- l'agrément desdits banque, établissement financier et succursale de banque et d'établissement financier étranger.",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement a pour objet de fixer les conditions relatives à :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- l'autorisation de constitution de banque et d'établissement financier,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- l'autorisation d'installation de succursale de banque et d'établissement financier étranger,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- l'agrément desdits banque, établissement financier et succursale de banque et d'établissement financier étranger.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La demande d'autorisation de constitution d'une banque et d'un établissement financier ainsi que l'installation d'une succursale de banque ou d'établissement financier étranger est adressée au président du conseil de la monnaie et du crédit. Elle est appuyée d'un dossier dont les éléments constitutifs sont fixés par une instruction de la\nBanque d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "La demande d'autorisation de constitution d'une banque et d'un établissement financier ainsi que l'installation d'une succursale de banque ou d'établissement financier étranger est adressée au président du conseil de la monnaie et du crédit. Elle est appuyée d'un dossier dont les éléments constitutifs sont fixés par une instruction de la",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Banque d'Algérie.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "Le dossier de demande d'autorisation visée à l'article 2 ci-dessus et présenté par les requérants doit notamment comporter les éléments et données relatifs :\n- au programme d'activités sur cinq (5) ans ;\n- à la stratégie de développement du réseau et les moyens prévus à cet effet ;\n- aux moyens financiers, à leur origine et aux moyens techniques, à mettre en œuvre ;\n- à la qualité et à l'honorabilité des actionnaires et de leurs garants éventuels ;\n- à la surface financière de chacun des actionnaires et de leur garants ;\n- aux principaux actionnaires constituant le noyau dur au sein de l'actionnariat\nBANK OF ALGERIA\nnotamment quant à leur capacité financière et leur expérience et savoir-faire dans le domaine bancaire et financier de manière générale et leur engagement à apporter leur soutien formalisé par un pacte d'actionnaires ;\n- à la place de l'institution servant d'actionnaire de référence, notamment dans son pays d'origine ainsi que les indicateurs de sa santé financière ;\n- à la liste des principaux dirigeants au sens de l'article 90 de l'ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, susvisée, dont au moins deux doivent avoir la qualité de résidents ;\n- aux projets de statuts, s'il s'agit de la création d'une banque ou d'un établissement financier ;\n- aux statuts de la banque et de l'établissement financier du siège, s'il s'agit de l'ouverture d'une succursale de banque ou d'établissement financier étranger ;\n- à l'organisation interne, c'est-à-dire l'organigramme avec l'indication des effectifs prévus ainsi que les domaines de compétence dévolus à chacune des structures.",
+      "paragraphs": [
+        {
+          "text": "Le dossier de demande d'autorisation visée à l'article 2 ci-dessus et présenté par les requérants doit notamment comporter les éléments et données relatifs :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- au programme d'activités sur cinq (5) ans ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- à la stratégie de développement du réseau et les moyens prévus à cet effet ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- aux moyens financiers, à leur origine et aux moyens techniques, à mettre en œuvre ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- à la qualité et à l'honorabilité des actionnaires et de leurs garants éventuels ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- à la surface financière de chacun des actionnaires et de leur garants ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- aux principaux actionnaires constituant le noyau dur au sein de l'actionnariat",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "notamment quant à leur capacité financière et leur expérience et savoir-faire dans le domaine bancaire et financier de manière générale et leur engagement à apporter leur soutien formalisé par un pacte d'actionnaires ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- à la place de l'institution servant d'actionnaire de référence, notamment dans son pays d'origine ainsi que les indicateurs de sa santé financière ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- à la liste des principaux dirigeants au sens de l'article 90 de l'ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, susvisée, dont au moins deux doivent avoir la qualité de résidents ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- aux projets de statuts, s'il s'agit de la création d'une banque ou d'un établissement financier ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- aux statuts de la banque et de l'établissement financier du siège, s'il s'agit de l'ouverture d'une succursale de banque ou d'établissement financier étranger ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- à l'organisation interne, c'est-à-dire l'organigramme avec l'indication des effectifs prévus ainsi que les domaines de compétence dévolus à chacune des structures.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Un projet de constitution d'une banque ou d'établissement financier ainsi que d'installation d'une succursale de banque ou d'établissement financier étranger ne doit pas faire l'objet de publicité tendant à faire croire qu'il a obtenu l'autorisation et/ou l'agrément ou donner lieu à utilisation des expressions visées à l'article 81 de l'ordonnance n° 03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, susvisée.\nToute information publiée avant l'obtention de l'agrément devra mentionner expressément qu'il s'agit d'un projet en phase d'agrément.",
+      "paragraphs": [
+        {
+          "text": "Un projet de constitution d'une banque ou d'établissement financier ainsi que d'installation d'une succursale de banque ou d'établissement financier étranger ne doit pas faire l'objet de publicité tendant à faire croire qu'il a obtenu l'autorisation et/ou l'agrément ou donner lieu à utilisation des expressions visées à l'article 81 de l'ordonnance n° 03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, susvisée.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Toute information publiée avant l'obtention de l'agrément devra mentionner expressément qu'il s'agit d'un projet en phase d'agrément.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "La demande d'autorisation de constitution d'une banque et d'un établissement financier et d'installation d'une succursale de banque ou l'établissement financier étranger est soumise au conseil de la monnaie et du crédit, pour examen, après remise de tous les éléments et informations constitutifs du dossier visés aux articles 2 et 3 ci-dessus, ainsi que de tout élément d'information complémentaire réclamé par les structures de la Banque d'Algérie pour les besoins de l'évaluation du dossier.",
+      "paragraphs": [
+        {
+          "text": "La demande d'autorisation de constitution d'une banque et d'un établissement financier et d'installation d'une succursale de banque ou l'établissement financier étranger est soumise au conseil de la monnaie et du crédit, pour examen, après remise de tous les éléments et informations constitutifs du dossier visés aux articles 2 et 3 ci-dessus, ainsi que de tout élément d'information complémentaire réclamé par les structures de la Banque d'Algérie pour les besoins de l'évaluation du dossier.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "L'autorisation de constitution d'une banque et d'un établissement financier ainsi que l'autorisation d'installation d'une succursale de banque ou d'établissement financier étranger accordée prend effet à compter de la date de sa notification.",
+      "paragraphs": [
+        {
+          "text": "L'autorisation de constitution d'une banque et d'un établissement financier ainsi que l'autorisation d'installation d'une succursale de banque ou d'établissement financier étranger accordée prend effet à compter de la date de sa notification.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le refus d'autorisation est susceptible de recours dans les conditions fixées à l'article 87 de l'ordonnance n° 03 -11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, susvisée.",
+      "paragraphs": [
+        {
+          "text": "Le refus d'autorisation est susceptible de recours dans les conditions fixées à l'article 87 de l'ordonnance n° 03 -11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, susvisée.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 3,
+      "text": "La banque ou l'établissement financier ou la succursale d'une banque ou d'un établissement financier étranger qui a obtenu l'autorisation prévue à l'article 5 ci-dessus est tenu de requérir auprès du Gouverneur de la Banque d'Algérie l'agrément visé à l'article 92 de l'ordonnance n° 03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, susvisée.\nLa demande d'agrément, appuyée des documents et informations légalement et réglementairement requis et des pièces établissant que les conditions spéciales éventuelles dont l'autorisation est assortie sont remplies, doit être adressée au\nGouverneur de la Banque d'Algérie, au plus tard, douze (12) mois à partir de la date de notification de l'autorisation, susvisée.\nLa nature des documents et le contenu des informations visées à l'alinéa précédent sont déterminés par une instruction de la Banque d'Algérie.\nAvant l'obtention de l'agrément visé à l'alinéa 1 ci-dessus, il est interdit à la banque ou à l'établissement financier ou à la succursale de Banque ou de l'établissement financier étranger d'effectuer toute opération de banque.",
+      "paragraphs": [
+        {
+          "text": "La banque ou l'établissement financier ou la succursale d'une banque ou d'un établissement financier étranger qui a obtenu l'autorisation prévue à l'article 5 ci-dessus est tenu de requérir auprès du Gouverneur de la Banque d'Algérie l'agrément visé à l'article 92 de l'ordonnance n° 03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, susvisée.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "La demande d'agrément, appuyée des documents et informations légalement et réglementairement requis et des pièces établissant que les conditions spéciales éventuelles dont l'autorisation est assortie sont remplies, doit être adressée au",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Gouverneur de la Banque d'Algérie, au plus tard, douze (12) mois à partir de la date de notification de l'autorisation, susvisée.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "La nature des documents et le contenu des informations visées à l'alinéa précédent sont déterminés par une instruction de la Banque d'Algérie.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Avant l'obtention de l'agrément visé à l'alinéa 1 ci-dessus, il est interdit à la banque ou à l'établissement financier ou à la succursale de Banque ou de l'établissement financier étranger d'effectuer toute opération de banque.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "L'agrément est accordé par décision du Gouverneur de la Banque d'Algérie dans la mesure où le requérant a rempli toutes les conditions de constitution ou d'installation, selon le cas, telles que déterminées par la législation et la réglementation en vigueur ainsi que les éventuelles conditions spéciales dont l'autorisation est assortie.\nL'agrément, conformément à l'autorisation du Conseil de la monnaie et du crédit, peut être limité à l'exercice de certaines opérations de banque.\nLorsque la décision d'agrément comporte délégation de pouvoir en matière d'application de la réglementation des changes, conférant à son bénéficiaire la qualité d'intermédiaire agréé, ce dernier reste toutefois, tenu pour l'exercice des opérations de change et de commerce extérieur, d'obtenir l'immatriculation par la Banque d'Algérie de chaque guichet, dans les conditions prévues par la réglementation en vigueur.",
+      "paragraphs": [
+        {
+          "text": "L'agrément est accordé par décision du Gouverneur de la Banque d'Algérie dans la mesure où le requérant a rempli toutes les conditions de constitution ou d'installation, selon le cas, telles que déterminées par la législation et la réglementation en vigueur ainsi que les éventuelles conditions spéciales dont l'autorisation est assortie.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "L'agrément, conformément à l'autorisation du Conseil de la monnaie et du crédit, peut être limité à l'exercice de certaines opérations de banque.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Lorsque la décision d'agrément comporte délégation de pouvoir en matière d'application de la réglementation des changes, conférant à son bénéficiaire la qualité d'intermédiaire agréé, ce dernier reste toutefois, tenu pour l'exercice des opérations de change et de commerce extérieur, d'obtenir l'immatriculation par la Banque d'Algérie de chaque guichet, dans les conditions prévues par la réglementation en vigueur.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Toute modification des statuts notamment celles portant sur l'objet social ou le capital d'une banque ou d'un établissement financier, intervenant avant ou après l'obtention de l'agrément, doit être soumise au Conseil de la monnaie et du crédit et doit obéir aux mêmes conditions que celles définies aux articles 2 et 3 ci-dessus.\nLes modifications relatives à la dotation en capital d'une succursale de banque ou d'un établissement financier étranger intervenant avant ou après l'obtention de l'agrément doit être soumise au Conseil de la monnaie et du crédit et doit obéir aux mêmes conditions que celles définies aux articles 2 et 3 ci-dessus. En outre, les modifications des statuts portant sur l'objet de leur maison mère ne sont exécutoires en Algérie qu'après leur approbation par le conseil de la monnaie et du crédit.",
+      "paragraphs": [
+        {
+          "text": "Toute modification des statuts notamment celles portant sur l'objet social ou le capital d'une banque ou d'un établissement financier, intervenant avant ou après l'obtention de l'agrément, doit être soumise au Conseil de la monnaie et du crédit et doit obéir aux mêmes conditions que celles définies aux articles 2 et 3 ci-dessus.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Les modifications relatives à la dotation en capital d'une succursale de banque ou d'un établissement financier étranger intervenant avant ou après l'obtention de l'agrément doit être soumise au Conseil de la monnaie et du crédit et doit obéir aux mêmes conditions que celles définies aux articles 2 et 3 ci-dessus. En outre, les modifications des statuts portant sur l'objet de leur maison mère ne sont exécutoires en Algérie qu'après leur approbation par le conseil de la monnaie et du crédit.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Les modifications autres que celles prévues à l'article 10 ci-dessus sont soumises à autorisation préalable du Gouverneur de la Banque d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "Les modifications autres que celles prévues à l'article 10 ci-dessus sont soumises à autorisation préalable du Gouverneur de la Banque d'Algérie.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "La liste des membres du conseil d'administration ou du conseil de surveillance désignés par l'assemblée générale constitutive des banques ou des établissements financiers accompagnée de leur curriculum vitae et leur dossier administratif, doit être adressée au Gouverneur de la Banque d'Algérie aux fins de leur agrément.\nLa qualité de membre du Conseil d'administration ou du Conseil de surveillance doit être approuvée par le Gouverneur de la Banque d'Algérie au moment de la délivrance de l'autorisation.\nDans le cas où cette liste est modifiée avant ou après l'obtention de la décision d'agrément, la banque ou l'établissement financier doit, en application de l'article 94 de l'Ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, susvisée, solliciter l'approbation préalable du Gouverneur de la Banque d'Algérie.\nLes dispositions des alinéas 2 et 3 ci-dessus s'appliquent aux dirigeants des succursales de banques ou d'établissements financiers étrangers en Algérie.",
+      "paragraphs": [
+        {
+          "text": "La liste des membres du conseil d'administration ou du conseil de surveillance désignés par l'assemblée générale constitutive des banques ou des établissements financiers accompagnée de leur curriculum vitae et leur dossier administratif, doit être adressée au Gouverneur de la Banque d'Algérie aux fins de leur agrément.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "La qualité de membre du Conseil d'administration ou du Conseil de surveillance doit être approuvée par le Gouverneur de la Banque d'Algérie au moment de la délivrance de l'autorisation.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Dans le cas où cette liste est modifiée avant ou après l'obtention de la décision d'agrément, la banque ou l'établissement financier doit, en application de l'article 94 de l'Ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, susvisée, solliciter l'approbation préalable du Gouverneur de la Banque d'Algérie.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Les dispositions des alinéas 2 et 3 ci-dessus s'appliquent aux dirigeants des succursales de banques ou d'établissements financiers étrangers en Algérie.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "La procédure prévue à l'alinéa 1er de l'article 12 ci-dessus s'applique aux directeurs généraux ou aux directeurs généraux adjoints non membres du conseil d'administration, ainsi qu'aux membres du directoire.",
+      "paragraphs": [
+        {
+          "text": "La procédure prévue à l'alinéa 1er de l'article 12 ci-dessus s'applique aux directeurs généraux ou aux directeurs généraux adjoints non membres du conseil d'administration, ainsi qu'aux membres du directoire.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 4,
+      "text": "Toute cession d'action d'une banque ou d'un établissement financier doit faire l'objet d'une demande d'autorisation de cession adressée au président du Conseil de\nla monnaie et du crédit, faisant ressortir les motivations à l'origine de cette opération, ainsi que tout autre élément d'appréciation utile pour le conseil.\nLorsque la cession a pour effet de modifier la structure de l'actionnariat, la demande est soumise dans les mêmes conditions que celles prévues aux articles 2 et 3 ci-dessus.",
+      "paragraphs": [
+        {
+          "text": "Toute cession d'action d'une banque ou d'un établissement financier doit faire l'objet d'une demande d'autorisation de cession adressée au président du Conseil de",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "la monnaie et du crédit, faisant ressortir les motivations à l'origine de cette opération, ainsi que tout autre élément d'appréciation utile pour le conseil.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Lorsque la cession a pour effet de modifier la structure de l'actionnariat, la demande est soumise dans les mêmes conditions que celles prévues aux articles 2 et 3 ci-dessus.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Les banques et établissements financiers, exerçant en Algérie sont tenus de mettre à jour, chaque année, les informations financières concernant les actionnaires qui détiennent au moins 5% de leur capital social.",
+      "paragraphs": [
+        {
+          "text": "Les banques et établissements financiers, exerçant en Algérie sont tenus de mettre à jour, chaque année, les informations financières concernant les actionnaires qui détiennent au moins 5% de leur capital social.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 16",
+      "number": "16",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Toutes les dispositions contraires au présent règlement sont abrogées, notamment le règlement n°93-01 du 3 janvier 1993, modifié et complété, fixant les conditions de constitution de banque et d'établissement financier et d'installation de succursale de banque et d'établissement financier étranger.",
+      "paragraphs": [
+        {
+          "text": "Toutes les dispositions contraires au présent règlement sont abrogées, notamment le règlement n°93-01 du 3 janvier 1993, modifié et complété, fixant les conditions de constitution de banque et d'établissement financier et d'installation de succursale de banque et d'établissement financier étranger.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 17",
+      "number": "17",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Le présent règlement sera publié au Journal officiel de la République algérienne démocratique et populaire.\nLe Gouverneur\nMohammed LAKSACI",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement sera publié au Journal officiel de la République algérienne démocratique et populaire.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.039
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-06-02.fr.txt"
+}

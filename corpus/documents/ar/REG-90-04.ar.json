@@ -1,0 +1,610 @@
+{
+  "document_id": "REG-90-04.ar",
+  "work_id": "REG-90-04",
+  "title": "نظام رقم 90-04 المؤرخ في 18 صفر 1411 الموافق 08 سبتمبر سنة 1990، يتعلق باعتماد الوكلاء وتجار الجملة بالجزائر.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "90-04",
+  "number_source": "libelle",
+  "date": "1990-09-08",
+  "date_raw": "الموافق 08 سبتمبر سنة 1990",
+  "date_source": "libelle",
+  "publication_date": "2023-02-28",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "règlements",
+  "subcategory": "أنظمة أخرى",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a3%d9%86%d8%b8%d9%85%d8%a9-%d8%a3%d8%ae%d8%b1%d9%89/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/02/04-90.pdf",
+  "format": "pdf",
+  "file_hash": "c0748c1c2c36dadb421427c6655c67e2c0e17eb1ad58b66e5b2fea46c8ddccdb",
+  "file_size": 442825,
+  "raw_path": "raw/c0748c1c2c36__04-90.pdf",
+  "retrieved_at": "2026-10-05T13:28:24+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 2,
+  "url_hash": "6a45d02d6f3f18c53db50a71fba4c20d3bb82f9a356a81c6203e03c41c3f3e3e",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%a3%d9%86%d8%b8%d9%85%d8%a9-%d8%a3%d8%ae%d8%b1%d9%89/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "author": "chahra yahiaoui",
+    "creator": "Microsoft® Word 2016",
+    "producer": "Microsoft® Word 2016",
+    "creationDate": "D:20230226154253+01'00'",
+    "modDate": "D:20230226154253+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 2534,
+        "ocr_confidence": 84.96728971962617
+      },
+      {
+        "page": 2,
+        "method": "ocr",
+        "chars": 1997,
+        "ocr_confidence": 85.37393767705383
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 7,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine",
+    "numerotation:articles_dupliques:[2]",
+    "numerotation:articles_manquants:[3, 4, 6, 8, 9, 10]",
+    "numerotation:premier_article=2",
+    "numerotation:ordre_non_croissant"
+  ],
+  "title_document": "نظام رقم 90 - 04 مؤرخ 3 18 صقر عام 1411 الموافق 8 سيتمير سنة 1990 تعلق باعتماد الوكلاء وتجار إن محافظ بنك الجزائر, - بمقتضى القانون رقم 10-90 المؤرخ في 19 رمضان عام 1410 الموافق 14 Jet‏ سنة 1990 والمتعلق بالنقد والقرض. | - وبقتضى القانون رقم 90 - 16 المؤرخ في 16 محرم عام 71 الموافق 7 غشت سنه 1990 والمتضمن قانون",
+  "alias_urls": [],
+  "text_hash": "0b34288756bed4049282219b5123c08161a00227b3ed2ffbbc3e2d020790bfe1",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [
+    {
+      "work_id": "INS-03-91-19910421",
+      "document_id": "INS-03-91-19910421.fr",
+      "date": "1991-04-21",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "amment celles relatives aux budgets devises et aux plans de financement, ainsi que les articles 2, 5, 6, 7, 10 et 11 du règlement n°90-04, sont abrogés."
+      }
+    },
+    {
+      "work_id": "REG-91-03",
+      "document_id": "REG-91-03.fr",
+      "date": "1991-02-20",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "nonobstant l'article 4 ci-après, les articles 2, 5, 6, 10 et 11 ainsi que l'alinéa « e » du point IV de l'article 8 du règlement n°90-04 du 08 septembre 1990 relatif à l'agrément et à l'installatio"
+      }
+    }
+  ],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "INS-03-91-19910421",
+      "document_id": "INS-03-91-19910421.fr",
+      "date": "1991-04-21",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "amment celles relatives aux budgets devises et aux plans de financement, ainsi que les articles 2, 5, 6, 7, 10 et 11 du règlement n°90-04, sont abrogés."
+      }
+    },
+    {
+      "work_id": "REG-91-03",
+      "document_id": "REG-91-03.fr",
+      "date": "1991-02-20",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "nonobstant l'article 4 ci-après, les articles 2, 5, 6, 10 et 11 ainsi que l'alinéa « e » du point IV de l'article 8 du règlement n°90-04 du 08 septembre 1990 relatif à l'agrément et à l'installatio"
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [
+    "REG-90-04.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [
+    {
+      "work_id": "INS-03-91-19910421",
+      "document_id": "INS-03-91-19910421.fr",
+      "date": "1991-04-21",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "amment celles relatives aux budgets devises et aux plans de financement, ainsi que les articles 2, 5, 6, 7, 10 et 11 du règlement n°90-04, sont abrogés."
+      }
+    },
+    {
+      "work_id": "REG-91-03",
+      "document_id": "REG-91-03.fr",
+      "date": "1991-02-20",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "nonobstant l'article 4 ci-après, les articles 2, 5, 6, 10 et 11 ainsi que l'alinéa « e » du point IV de l'article 8 du règlement n°90-04 du 08 septembre 1990 relatif à l'agrément et à l'installatio"
+      }
+    }
+  ],
+  "remplacé_par": [],
+  "complète": [],
+  "ocr_numeric_check": {
+    "units": 8,
+    "units_flagged": 0,
+    "units_compared_with_french": 6,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "نظام رقم 90 - 04 مؤرخ 3 18 صقر عام 1411 الموافق 8 سيتمير سنة 1990 تعلق باعتماد الوكلاء وتجار إن محافظ بنك الجزائر,\n- بمقتضى القانون رقم 10-90 المؤرخ في 19 رمضان عام 1410 الموافق 14 Jet‏ سنة 1990 والمتعلق بالنقد والقرض. |\n- وبقتضى القانون رقم 90 - 16 المؤرخ في 16 محرم عام 71 الموافق 7 غشت سنه 1990 والمتضمن قانون المالية | لنكميلي à.‏ 1990.\n- وبمقتضى المرسوم الرئاسي المؤرخ في 20 رمضان عام 1410 الموافق 15 أبريل سنة 1990 والمتضمن تعيين محافظ البنك المركزى الجزائري.\n— ويمقتضى المراسنيم الرئاسية المؤرخة في 19 شوال عام 0 الموافق 14 مايو سنة 1990 والمتضمنة تعيين نواب لمحاقظ اليتك المركزي الجزائري.\n— وبمقتضى المرسوم التنفيذي المؤرخ في 19 شوال عام 0 الموافق 14 مايو سنة 1990 المتضمن تعيين أعضاء دائمين وأعضاء إضافيين في مجلس النقد والقرضء»\n— وبناء على مداولات مجلس النقد والقرض المؤرخة في 1990 سنة‎ pas B بصدر النظام التالىي نصه‎ Salt}‏ الأولى : يجوز للوكلاء وتجار الجملة الذين تنطبق عليهم المادة 41 .من قانون المالية التكميلي المذكور أعلاه والذين يحددهم النظام الساري المفعول ,الاقامة بالجزائر وممارسة الاستيراد الحر للبضائع بهدف بيعها على حالها بمجرد الحصول Je‏ اعتماد مجلس النقد والقرض الذي يسلم في شكل تصريح بالمطابقة للشروط المحددة في المواد الآتية.",
+      "paragraphs": [
+        {
+          "text": "نظام رقم 90 - 04 مؤرخ 3 18 صقر عام 1411 الموافق 8 سيتمير سنة 1990 تعلق باعتماد الوكلاء وتجار إن محافظ بنك الجزائر,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- بمقتضى القانون رقم 10-90 المؤرخ في 19 رمضان عام 1410 الموافق 14 Jet‏ سنة 1990 والمتعلق بالنقد والقرض. |",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبقتضى القانون رقم 90 - 16 المؤرخ في 16 محرم عام 71 الموافق 7 غشت سنه 1990 والمتضمن قانون المالية | لنكميلي à.‏ 1990.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى المرسوم الرئاسي المؤرخ في 20 رمضان عام 1410 الموافق 15 أبريل سنة 1990 والمتضمن تعيين محافظ البنك المركزى الجزائري.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "— ويمقتضى المراسنيم الرئاسية المؤرخة في 19 شوال عام 0 الموافق 14 مايو سنة 1990 والمتضمنة تعيين نواب لمحاقظ اليتك المركزي الجزائري.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "— وبمقتضى المرسوم التنفيذي المؤرخ في 19 شوال عام 0 الموافق 14 مايو سنة 1990 المتضمن تعيين أعضاء دائمين وأعضاء إضافيين في مجلس النقد والقرضء»",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "— وبناء على مداولات مجلس النقد والقرض المؤرخة في 1990 سنة‎ pas B بصدر النظام التالىي نصه‎ Salt}‏ الأولى : يجوز للوكلاء وتجار الجملة الذين تنطبق عليهم المادة 41 .من قانون المالية التكميلي المذكور أعلاه والذين يحددهم النظام الساري المفعول ,الاقامة بالجزائر وممارسة الاستيراد الحر للبضائع بهدف بيعها على حالها بمجرد الحصول Je‏ اعتماد مجلس النقد والقرض الذي يسلم في شكل تصريح بالمطابقة للشروط المحددة في المواد الآتية.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يسمح للوكلاء وتجار الجملة المعتمدين بفتح حسابات بالعملة الصعبة لدى البنوك الجزائرية التي تسجل المعاملات المتعلقة باستبراد المواد وبيعهاء. 136 عمليات القبض والدفع والايداع والسحبء ويمكن فتح حساب لكل عملة باعتبار أن الموازنة بين العملات المختلفة مسموح بها بالسعر المتوسط بين سعري الشراء والبيع Jolie‏ الدينار لكل عادة في المعاملات التجارية والمالية الدولية والتى يحدد بنك لايمكن أن يكون رصيد هذه الحسابات مدينا.\nالوكلاء وتجار الجملة غير المقيمين بالجزائر بالعملة الصعبة الآتية من الخارج والمحولة إلى الجزائر بواسطة بنك الجزائر والمتوفرة قبل انطلاق النشاط في شكل رأس مال اساسا او في شكل تسبيقات الشركاء او فروض مالية بصفة ثانوية او تكميلية. ويعني بمصاريف الاستثمار ما ge‏\n— التكاليف والمساريف المتعلقة بالاجراءات الادارية.\nالتخزين والمخازن وغيرها.\n- ثمن الترميمات والتهيثة أو التغييرات.\n- ثمن الاثاث وتجهيزات المكتب او الوكالة.\n- كل المصاريف الاخرى التي تتطليها الاقامة.\n- كل ضمان مرتبط بالنشاط.\nبالجزائر والمعتمدين بتغطية تكاليف التنصيب بالدينار.",
+      "paragraphs": [
+        {
+          "text": "يسمح للوكلاء وتجار الجملة المعتمدين بفتح حسابات بالعملة الصعبة لدى البنوك الجزائرية التي تسجل المعاملات المتعلقة باستبراد المواد وبيعهاء. 136 عمليات القبض والدفع والايداع والسحبء ويمكن فتح حساب لكل عملة باعتبار أن الموازنة بين العملات المختلفة مسموح بها بالسعر المتوسط بين سعري الشراء والبيع Jolie‏ الدينار لكل عادة في المعاملات التجارية والمالية الدولية والتى يحدد بنك لايمكن أن يكون رصيد هذه الحسابات مدينا.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الوكلاء وتجار الجملة غير المقيمين بالجزائر بالعملة الصعبة الآتية من الخارج والمحولة إلى الجزائر بواسطة بنك الجزائر والمتوفرة قبل انطلاق النشاط في شكل رأس مال اساسا او في شكل تسبيقات الشركاء او فروض مالية بصفة ثانوية او تكميلية. ويعني بمصاريف الاستثمار ما ge‏",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "— التكاليف والمساريف المتعلقة بالاجراءات الادارية.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "التخزين والمخازن وغيرها.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- ثمن الترميمات والتهيثة أو التغييرات.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- ثمن الاثاث وتجهيزات المكتب او الوكالة.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- كل المصاريف الاخرى التي تتطليها الاقامة.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- كل ضمان مرتبط بالنشاط.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "بالجزائر والمعتمدين بتغطية تكاليف التنصيب بالدينار.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "لايمكن تسنديد ثمن المواد المستوردة paul‏ على حالها في إطار الوكالات da pull‏ للوكلاء وتجار الجملة إلا عن طريق الاقتطاع من حسابات الغعملة الصعية المذكورة في",
+      "paragraphs": [
+        {
+          "text": "لايمكن تسنديد ثمن المواد المستوردة paul‏ على حالها في إطار الوكالات da pull‏ للوكلاء وتجار الجملة إلا عن طريق الاقتطاع من حسابات الغعملة الصعية المذكورة في",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "ae)‏ المادة.6 : يجب على الوكيل أو تاجر الجملة أن يسجل ميلغ المبيعات بالعملة الصعبة في حسابه الخاص بالعملة",
+      "paragraphs": [
+        {
+          "text": "ae)‏ المادة.6 : يجب على الوكيل أو تاجر الجملة أن يسجل ميلغ المبيعات بالعملة الصعبة في حسابه الخاص بالعملة",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "يسدد المشتري ثمن المبيعات بالعملة الصعبة بواسطة حسابه الخاص بالعملة الصعبة.\nتجار الجملة المعلومات التالية :\n— الوكيل أو ناجر بالجملة 2 - بالتسبة للاشخاص الطبيعيين ؛\n- الاسم واللقب .\n- تاريخ الميلاد.\n- الاقامة.\n- منهج الحياة المهنية.\n— محال التشاط.\n3 - بالنسبة للاشخاص المعنويين :\n— التسمية أو الاسم التجاري.\n- أهم المساهمين؛ pal‏ المصالح الاقتصادية us)‏ الحالة).\n- النوعية : pl qe‏ مجمع او غيره.\n- تحديد مكان التمركز الرئيسي المرتقب وكذا نوع التنظيم : مركزية أى شبكة او غيرهما.\n- الوضع القانوني الذي سيتخذ في الجزاشر.\nوالموزعين المنفردين ٠‏ بالعلامات à‏ المشهورة وغير المقيمين.\nب) التزام يمتح الوكالة أو الاتقراد.\nج) وثيقة يوقعها الوكيل أو تاجر الجملة يوضح فيها د) التزام من طرف JE‏ او تاجر الجملة بتطوير ويقيد هذا التنازل في حساب خاص يفتح لهذا الغرض في و) وثيقة تثبت التزام الوكيل أو تاجر الجملة باحترام مجمل الالتزامات dit‏ عن التشريعات والتنظيمات السارية.\nSSL‏ 9 : يسمح الترخيص الذي يسلمه مجلس الثقد والقرض بالتسجيل في السجل التجاري . الجزائري. :\nطبق الاصل مصادق عليها من سجله التجاري لبنك الجزائر Salt]‏ 10 : يجب ان تمول حسابات الوكلاء أو تجار الجملة المفتوحة بالعملة الصعبة انطلاقا من إيراد بيع السلع المستوردة ف الجزائر وبالعملة الصعبية. وذلك مدهول فاته المبيعات المحققة طبقا لأحكام الفقرة (a)‏ من المادة 8 المذكورة اعلاه والمادة 11 آدناه.",
+      "paragraphs": [
+        {
+          "text": "يسدد المشتري ثمن المبيعات بالعملة الصعبة بواسطة حسابه الخاص بالعملة الصعبة.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "تجار الجملة المعلومات التالية :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "— الوكيل أو ناجر بالجملة 2 - بالتسبة للاشخاص الطبيعيين ؛",
+          "page_start": 1,
+          "page_end": 2
+        },
+        {
+          "text": "- الاسم واللقب .",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- تاريخ الميلاد.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- الاقامة.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- منهج الحياة المهنية.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "— محال التشاط.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "3 - بالنسبة للاشخاص المعنويين :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "— التسمية أو الاسم التجاري.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- أهم المساهمين؛ pal‏ المصالح الاقتصادية us)‏ الحالة).",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- النوعية : pl qe‏ مجمع او غيره.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- تحديد مكان التمركز الرئيسي المرتقب وكذا نوع التنظيم : مركزية أى شبكة او غيرهما.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- الوضع القانوني الذي سيتخذ في الجزاشر.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "والموزعين المنفردين ٠‏ بالعلامات à‏ المشهورة وغير المقيمين.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "ب) التزام يمتح الوكالة أو الاتقراد.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "ج) وثيقة يوقعها الوكيل أو تاجر الجملة يوضح فيها د) التزام من طرف JE‏ او تاجر الجملة بتطوير ويقيد هذا التنازل في حساب خاص يفتح لهذا الغرض في و) وثيقة تثبت التزام الوكيل أو تاجر الجملة باحترام مجمل الالتزامات dit‏ عن التشريعات والتنظيمات السارية.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "SSL‏ 9 : يسمح الترخيص الذي يسلمه مجلس الثقد والقرض بالتسجيل في السجل التجاري . الجزائري. :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "طبق الاصل مصادق عليها من سجله التجاري لبنك الجزائر Salt]‏ 10 : يجب ان تمول حسابات الوكلاء أو تجار الجملة المفتوحة بالعملة الصعبة انطلاقا من إيراد بيع السلع المستوردة ف الجزائر وبالعملة الصعبية. وذلك مدهول فاته المبيعات المحققة طبقا لأحكام الفقرة (a)‏ من المادة 8 المذكورة اعلاه والمادة 11 آدناه.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "يسجل الوكلاء أو تجار الجملة في الطرف المدين من حساياتهم المفتوحة بالعملة الصعبة في الحالات التالية :\n- كل سحب بالدينار الجزائري من Jet‏ تغطية المصاريف المطلية.\n- القيام بتحويلات مبالغ الحسم المشار إليها في فقرة (ه) هن المادة 8 المذكورة اعلاه.\n- القيام بتحويلات إلى الخارج.\nتحويلات مبالغ الحسم والتحويلات نحو الخارج نتم في نفس الوقت وحسب دورية لايقل مداها عن شهرين.\nتكون التحويلات إلى الخارج موضوع تصريح من بنك الذي فتح فيه الحساب بالعملة الصعية.يجب ار يدعم هذا المعنية. وذلك بعد أن تم إقراره من طرف الوكيل أو التاجر",
+      "paragraphs": [
+        {
+          "text": "يسجل الوكلاء أو تجار الجملة في الطرف المدين من حساياتهم المفتوحة بالعملة الصعبة في الحالات التالية :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- كل سحب بالدينار الجزائري من Jet‏ تغطية المصاريف المطلية.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- القيام بتحويلات مبالغ الحسم المشار إليها في فقرة (ه) هن المادة 8 المذكورة اعلاه.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- القيام بتحويلات إلى الخارج.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "تحويلات مبالغ الحسم والتحويلات نحو الخارج نتم في نفس الوقت وحسب دورية لايقل مداها عن شهرين.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "تكون التحويلات إلى الخارج موضوع تصريح من بنك الذي فتح فيه الحساب بالعملة الصعية.يجب ار يدعم هذا المعنية. وذلك بعد أن تم إقراره من طرف الوكيل أو التاجر",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "تخضع نشاطات الانتاج أو الخدمات التي يمارسها الوكلاء أى تجار الجملة اضافة إلى نشاطهم المتعلق باعادة السلع المستوردة على حالها إلى القانون رقم 90 — 10 المتعلق بالتقد colle‏ و إلى التصوص التشريعية المترتبة عن ذلك. 2 :",
+      "paragraphs": [
+        {
+          "text": "تخضع نشاطات الانتاج أو الخدمات التي يمارسها الوكلاء أى تجار الجملة اضافة إلى نشاطهم المتعلق باعادة السلع المستوردة على حالها إلى القانون رقم 90 — 10 المتعلق بالتقد colle‏ و إلى التصوص التشريعية المترتبة عن ذلك. 2 :",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "ينشر هذا النظام في الجريدة الرسمية للجمهورية الجزائرية الديمقراطية الشعبية.\nحرر بالجزائر في 18 صفر عام 1411 الموافق 8",
+      "paragraphs": [
+        {
+          "text": "ينشر هذا النظام في الجريدة الرسمية للجمهورية الجزائرية الديمقراطية الشعبية.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "حرر بالجزائر في 18 صفر عام 1411 الموافق 8",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine",
+      "numerotation:articles_dupliques:[2]",
+      "numerotation:articles_manquants:[3, 4, 6, 8, 9, 10]",
+      "numerotation:premier_article=2",
+      "numerotation:ordre_non_croissant"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.036,
+      "ocr_pages": [
+        1,
+        2
+      ],
+      "ocr_mean_confidence": 85.2
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/REG-90-04.ar.txt"
+}

@@ -1,0 +1,508 @@
+{
+  "document_id": "REG-90-01-19900704.fr",
+  "work_id": "REG-90-01-19900704",
+  "title": "Règlement n° 90-01 du 4 juillet 1990 relatif au capital minimum des banques et établissements financiers exerçant en Algérie.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "90-01",
+  "number_source": "en-tête du document",
+  "date": "1990-07-04",
+  "date_raw": "N°90-01 DU 4 JUILLET 1990",
+  "date_source": "en-tête du document",
+  "publication_date": "2022-04-04",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Conditions de constitution et d'installation de banques, d'établissements financiers de PSP et capital minimum",
+  "source_url": "https://www.bank-of-algeria.dz/importations-exportations-reglement/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2022/04/reglement9001-1.pdf",
+  "format": "pdf",
+  "file_hash": "178a43acfa1236e44817c1ecba3cbd5e271dfce876a523154b2c06112934025b",
+  "file_size": 66133,
+  "raw_path": "raw/178a43acfa12__reglement9001-1.pdf",
+  "retrieved_at": "2026-10-05T13:25:09+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "563c08ebb9704694efce1be8f279e0d2a33aee9d3d64fabafe11ed9ff6abd0a5",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-1990/",
+    "https://www.bank-of-algeria.dz/importations-exportations-reglement/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document1",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210225095116+01'00'",
+    "modDate": "D:20210225095116+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2416,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 1171,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 6,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "REGLEMENT N°90-01 DU 4 JUILLET 1990 RELATIF AU CAPITAL MINIMUM DES BANQUES ET ETABLISSEMENTS FINANCIERS EXERCANT EN ALGERIE",
+  "alias_urls": [
+    {
+      "document_url": "https://www.bank-of-algeria.dz/stoodroa/2022/04/reglement9001.pdf",
+      "source_url": "https://www.bank-of-algeria.dz/annee-1990/",
+      "title": "Règlement n° 90-01 du 4 juillet 1990 relatif au capital minimum des banques et établissements financiers exerçant en Algérie."
+    }
+  ],
+  "text_hash": "72cef906de5cbc67bcd3d45bc84ea99023347ef5647114190333b7a79e0aa330",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [
+    {
+      "work_id": "REG-04-01",
+      "document_id": "REG-04-01.fr",
+      "date": "2004-03-04",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Les dispositions du règlement n°90-01 du 4 juillet 1990, modifié et complété, susvisé, sont abr"
+      }
+    }
+  ],
+  "modifie_par": [
+    {
+      "work_id": "REG-93-03",
+      "document_id": "REG-93-03.fr",
+      "date": "1993-07-04",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°93-03 du 4 juillet 1993 modifiant et complétant le règlement n°90-01 du 4 juillet 1990 relatif au capital minimum des banques"
+      }
+    },
+    {
+      "work_id": "REG-93-03",
+      "document_id": "REG-93-03.fr",
+      "date": "1993-07-04",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "e et du Crédit en date du 4 juillet 1993 ; Promulgue le règlement dont la teneur suit : Article unique : L’article 2 du règlement n°90-01 du 4 juillet 1990 susvisé est modifié et rédigé comme sui"
+      }
+    }
+  ],
+  "complete_par": [
+    {
+      "work_id": "REG-93-03",
+      "document_id": "REG-93-03.fr",
+      "date": "1993-07-04",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°93-03 du 4 juillet 1993 modifiant et complétant le règlement n°90-01 du 4 juillet 1990 relatif au capital minimum des banques"
+      }
+    }
+  ],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "REG-04-01",
+      "document_id": "REG-04-01.fr",
+      "date": "2004-03-04",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Les dispositions du règlement n°90-01 du 4 juillet 1990, modifié et complété, susvisé, sont abr"
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [],
+  "complété_par": [
+    {
+      "work_id": "REG-93-03",
+      "document_id": "REG-93-03.fr",
+      "date": "1993-07-04",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°93-03 du 4 juillet 1993 modifiant et complétant le règlement n°90-01 du 4 juillet 1990 relatif au capital minimum des banques"
+      }
+    }
+  ],
+  "modifié_par": [
+    {
+      "work_id": "REG-93-03",
+      "document_id": "REG-93-03.fr",
+      "date": "1993-07-04",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°93-03 du 4 juillet 1993 modifiant et complétant le règlement n°90-01 du 4 juillet 1990 relatif au capital minimum des banques"
+      }
+    },
+    {
+      "work_id": "REG-93-03",
+      "document_id": "REG-93-03.fr",
+      "date": "1993-07-04",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "e et du Crédit en date du 4 juillet 1993 ; Promulgue le règlement dont la teneur suit : Article unique : L’article 2 du règlement n°90-01 du 4 juillet 1990 susvisé est modifié et rédigé comme sui"
+      }
+    }
+  ],
+  "abrogé_par": [
+    {
+      "work_id": "REG-04-01",
+      "document_id": "REG-04-01.fr",
+      "date": "2004-03-04",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Les dispositions du règlement n°90-01 du 4 juillet 1990, modifié et complété, susvisé, sont abr"
+      }
+    }
+  ],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°90-01 DU 4 JUILLET 1990 RELATIF\nAU CAPITAL MINIMUM DES BANQUES ET ETABLISSEMENTS\nFINANCIERS EXERCANT EN ALGERIE\nLe Gouverneur de la Banque d'Algérie,\n- Vu la loi n°90-10 du 14 avril 1990 relative à la monnaie et au crédit, notamment les articles 44, 133 et 201 ;\n- Vu le Décret Présidentiel du 15 avril 1990 portant nomination du Gouverneur de la Banque d'Algérie ;\n- Vu les Décrets Présidentiels du 14 mai 1990 portant nomination de Vice-Gouverneurs de la\nBanque d'Algérie ;\n- Vu le Décret Exécutif du 14 mai 1990 portant désignation des membres titulaires et suppléants au Conseil de la Monnaie et du Crédit ;\n- Vu la délibération du Conseil de la Monnaie et du Crédit du 4 juillet 1990 ;\nPromulgue le Règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°90-01 DU 4 JUILLET 1990 RELATIF",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AU CAPITAL MINIMUM DES BANQUES ET ETABLISSEMENTS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "FINANCIERS EXERCANT EN ALGERIE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d'Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la loi n°90-10 du 14 avril 1990 relative à la monnaie et au crédit, notamment les articles 44, 133 et 201 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 15 avril 1990 portant nomination du Gouverneur de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu les Décrets Présidentiels du 14 mai 1990 portant nomination de Vice-Gouverneurs de la",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Exécutif du 14 mai 1990 portant désignation des membres titulaires et suppléants au Conseil de la Monnaie et du Crédit ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la délibération du Conseil de la Monnaie et du Crédit du 4 juillet 1990 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le Règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le capital social minimum auquel les banques et établissements financiers sont tenus de souscrire est fixé à :\na) - 500 millions de dinars algériens pour les banques visées à l'article 114 de la loi, sans que le montant soit inférieur à 33 % des fonds propres,\nb) - 100 millions de dinars algériens en ce qui concerne les établissements financiers définis à l'article 115 de la Loi, sans que le montant ne soit inférieur à 50 % des fonds propres.",
+      "paragraphs": [
+        {
+          "text": "Le capital social minimum auquel les banques et établissements financiers sont tenus de souscrire est fixé à :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "a) - 500 millions de dinars algériens pour les banques visées à l'article 114 de la loi, sans que le montant soit inférieur à 33 % des fonds propres,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "b) - 100 millions de dinars algériens en ce qui concerne les établissements financiers définis à l'article 115 de la Loi, sans que le montant ne soit inférieur à 50 % des fonds propres.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le capital social minimum ainsi fixé doit être libéré à concurrence de 75 % au moins, à la constitution de la société, et en totalité, au plus tard, au terme de la deuxième année après l'obtention de l'agrément.\nLes banques et établissements financiers dont le siège social est à l'étranger sont tenus d'affecter une dotation à leurs succursales en Algérie au moins égale au capital minimum exigé des banques et établissements financiers de droit algérien relevant de la même catégorie.",
+      "paragraphs": [
+        {
+          "text": "Le capital social minimum ainsi fixé doit être libéré à concurrence de 75 % au moins, à la constitution de la société, et en totalité, au plus tard, au terme de la deuxième année après l'obtention de l'agrément.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les banques et établissements financiers dont le siège social est à l'étranger sont tenus d'affecter une dotation à leurs succursales en Algérie au moins égale au capital minimum exigé des banques et établissements financiers de droit algérien relevant de la même catégorie.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les fonds propres visés à l'article 1er du présent règlement sont constitués, en plus du capital social, des réserves, des bénéfices reportés, des plus-values de réévaluation, des titres participatifs, des primes d'émission du capital et des provisions.\nD'autres éléments pouvant faire partie des fonds propres seront fixés en tant que de besoin, par voie de Règlement.",
+      "paragraphs": [
+        {
+          "text": "Les fonds propres visés à l'article 1er du présent règlement sont constitués, en plus du capital social, des réserves, des bénéfices reportés, des plus-values de réévaluation, des titres participatifs, des primes d'émission du capital et des provisions.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "D'autres éléments pouvant faire partie des fonds propres seront fixés en tant que de besoin, par voie de Règlement.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les fonds propres ainsi définis doivent représenter un taux de couverture de risque qui ne saurait être inférieur à 8 %.\nLa nomenclature des crédits et leur classification suivant le degré de risque, sera déterminée ultérieurement.\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "Les fonds propres ainsi définis doivent représenter un taux de couverture de risque qui ne saurait être inférieur à 8 %.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La nomenclature des crédits et leur classification suivant le degré de risque, sera déterminée ultérieurement.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Pour les banques et établissements financiers en voie de création et les succursales des banques et établissements financiers ayant leur siège à l'étranger, ces dispositions s'appliquent dès la publication du présent Règlement.",
+      "paragraphs": [
+        {
+          "text": "Pour les banques et établissements financiers en voie de création et les succursales des banques et établissements financiers ayant leur siège à l'étranger, ces dispositions s'appliquent dès la publication du présent Règlement.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "A titre transitoire et en vue de leur permettre la mise en forme de leurs statuts en conformité avec la Loi, les banques et établissements financiers en activité à la date de la promulgation de la Loi n°90-10 du 14 avril 1990, sont tenus de maintenir le montant de leur capital social au moins égal à celui atteint au 30 juin 1990.\nToutefois pour ceux des banques et établissements financiers visés à l'alinéa ci-dessus et qui ne satisferaient pas encore aux conditions de ratios (capital social/fonds propres et fonds propres / couverture de risques) prévus respectivement aux articles 1 et 4 du présent règlement, le Conseil de la Monnaie et du Crédit peut leur accorder une dérogation assortie d'un délai limite au terme duquel ils doivent, sous peine de retrait d'agrément, mettre aux niveaux requis leur capital social et leurs fonds propres.\nLe Gouverneur\nAbderrahmane Roustoumi HADJ NACER",
+      "paragraphs": [
+        {
+          "text": "A titre transitoire et en vue de leur permettre la mise en forme de leurs statuts en conformité avec la Loi, les banques et établissements financiers en activité à la date de la promulgation de la Loi n°90-10 du 14 avril 1990, sont tenus de maintenir le montant de leur capital social au moins égal à celui atteint au 30 juin 1990.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Toutefois pour ceux des banques et établissements financiers visés à l'alinéa ci-dessus et qui ne satisferaient pas encore aux conditions de ratios (capital social/fonds propres et fonds propres / couverture de risques) prévus respectivement aux articles 1 et 4 du présent règlement, le Conseil de la Monnaie et du Crédit peut leur accorder une dérogation assortie d'un délai limite au terme duquel ils doivent, sous peine de retrait d'agrément, mettre aux niveaux requis leur capital social et leurs fonds propres.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Abderrahmane Roustoumi HADJ NACER",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.031
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-90-01-19900704.fr.txt"
+}

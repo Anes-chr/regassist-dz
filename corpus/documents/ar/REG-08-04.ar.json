@@ -1,0 +1,367 @@
+{
+  "document_id": "REG-08-04.ar",
+  "work_id": "REG-08-04",
+  "title": "نظام رقم 08-04 المؤرخ في 23 ديسمبر2008، يتعلق بالحد الأدنى لرأسمال البنوك والمؤسسات المالية العاملة في الجزائر.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "08-04",
+  "number_source": "libelle",
+  "date": "2008-12-23",
+  "date_raw": "المؤرخ في 23 ديسمبر2008",
+  "date_source": "libelle",
+  "publication_date": "2023-02-28",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "règlements",
+  "subcategory": "شروط تأسيس و إنشاء البنوك و المؤسسات المالية و الحد الادنى لرأس المال",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%b4%d8%b1%d9%88%d8%b7-%d8%aa%d8%a3%d8%b3%d9%8a%d8%b3-%d9%88-%d8%a5%d9%86%d8%b4%d8%a7%d8%a1-%d8%a7%d9%84%d8%a8%d9%86%d9%88%d9%83-%d9%88-%d8%a7%d9%84%d9%85%d8%a4%d8%b3%d8%b3%d8%a7%d8%aa-%d8%a7%d9%84/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/02/04-2008.pdf",
+  "format": "pdf",
+  "file_hash": "6d224b062169d0d58309cf1ee7db033ab409c37d9b236754f5033fbb59eb8512",
+  "file_size": 286721,
+  "raw_path": "raw/6d224b062169__04-2008.pdf",
+  "retrieved_at": "2026-10-05T13:28:20+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 1,
+  "url_hash": "8041d3b039522ebad14c865459c62236fbf547e8221a94bfde2f602eb9e094a2",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%b4%d8%b1%d9%88%d8%b7-%d8%aa%d8%a3%d8%b3%d9%8a%d8%b3-%d9%88-%d8%a5%d9%86%d8%b4%d8%a7%d8%a1-%d8%a7%d9%84%d8%a8%d9%86%d9%88%d9%83-%d9%88-%d8%a7%d9%84%d9%85%d8%a4%d8%b3%d8%b3%d8%a7%d8%aa-%d8%a7%d9%84/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document2",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20230228105224+01'00'",
+    "modDate": "D:20230228105224+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 2200,
+        "ocr_confidence": 73.62307692307692
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 4,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine",
+    "ocr_faible_confiance",
+    "numerotation:articles_manquants:[2]"
+  ],
+  "title_document": "نظام رقم 04-08 مؤرخ في 25 ذي المجة عام 1429 الموافق 23 ديسمبر سنة 2005, يتعلق بالحد الأدنى لراسمال البنوك والمؤسسات الماليّة العاملة في الجزائر. إن محافظ بنك الجزائر: - بمقتضى الأمر رقم 03- 1 المؤرخ فى 27 جمادى الثائية si‏ 1424 الموافق Deere Te‏ والمتعلق الأول عام 2 1422 الموافق 2 2 du fai ji‏ !200 والمتضمن",
+  "alias_urls": [],
+  "text_hash": "428a40b1bff21102acd4f0051b0fb0f6fe9fc7706dfeeb86dc6277aacfac9960",
+  "relations_out": [
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "04-01",
+        "date": "2004-03-04",
+        "raw": "règlement n°04-01 du 4 mars 2004"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Les dispositions du règlement n°04-01 du 4 mars 2004 relatif au capital minimum des banques",
+        "copied_from": "REG-08-04.fr"
+      },
+      "target_work_id": "REG-04-01"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "REG-04-01",
+      "reference": "règlement n°04-01 du 4 mars 2004",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Les dispositions du règlement n°04-01 du 4 mars 2004 relatif au capital minimum des banques",
+        "copied_from": "REG-08-04.fr"
+      }
+    }
+  ],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [
+    {
+      "work_id": "REG-18-03",
+      "document_id": "REG-18-03.fr",
+      "date": "2018-11-04",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Les dispositions du Règlement n°08-04 du 23 décembre 2008 relatif au capital minimum des banques"
+      }
+    }
+  ],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "REG-18-03",
+      "document_id": "REG-18-03.fr",
+      "date": "2018-11-04",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Les dispositions du Règlement n°08-04 du 23 décembre 2008 relatif au capital minimum des banques"
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [
+    "REG-08-04.fr",
+    "REG-08-04.fr~2"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [
+    {
+      "work_id": "REG-18-03",
+      "document_id": "REG-18-03.fr",
+      "date": "2018-11-04",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Les dispositions du Règlement n°08-04 du 23 décembre 2008 relatif au capital minimum des banques"
+      }
+    }
+  ],
+  "remplacé_par": [],
+  "complète": [],
+  "ocr_numeric_check": {
+    "units": 5,
+    "units_flagged": 0,
+    "units_compared_with_french": 4,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "نظام رقم 04-08 مؤرخ في 25 ذي المجة عام 1429 الموافق 23 ديسمبر سنة 2005, يتعلق بالحد الأدنى لراسمال البنوك والمؤسسات الماليّة العاملة في الجزائر.\nإن محافظ بنك الجزائر:\n- بمقتضى الأمر رقم 03- 1 المؤرخ فى 27 جمادى الثائية si‏ 1424 الموافق Deere Te‏ والمتعلق الأول عام 2 1422 الموافق 2 2 du fai ji‏ !200 والمتضمن 7 ET RE 2(N)] Lu الموافقق 2 2 بوتيو‎ 1422 able الأول‎ تعيين أعضاء في مجلس إدارة بنك الجزائر‎ وبمقتضى المرسوم الرئاسي المؤرخ في 5 جمادى الأولى عام 1427 الموافق أول gai ou‏ سنة 2006 والمتضمن\n- وبمقشضى النظام رقم ا وس A‏ بالحد الأدئى لرأسمال البنوك واللوسسااة امال 1 العاملة في الجزائر:\nوبناء على هفداولة مجلس النقد والقرض بتار يم 23 ديسممر سئة 2008«",
+      "paragraphs": [
+        {
+          "text": "نظام رقم 04-08 مؤرخ في 25 ذي المجة عام 1429 الموافق 23 ديسمبر سنة 2005, يتعلق بالحد الأدنى لراسمال البنوك والمؤسسات الماليّة العاملة في الجزائر.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "إن محافظ بنك الجزائر:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- بمقتضى الأمر رقم 03- 1 المؤرخ فى 27 جمادى الثائية si‏ 1424 الموافق Deere Te‏ والمتعلق الأول عام 2 1422 الموافق 2 2 du fai ji‏ !200 والمتضمن 7 ET RE 2(N)] Lu الموافقق 2 2 بوتيو‎ 1422 able الأول‎ تعيين أعضاء في مجلس إدارة بنك الجزائر‎ وبمقتضى المرسوم الرئاسي المؤرخ في 5 جمادى الأولى عام 1427 الموافق أول gai ou‏ سنة 2006 والمتضمن",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقشضى النظام رقم ا وس A‏ بالحد الأدئى لرأسمال البنوك واللوسسااة امال 1 العاملة في الجزائر:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبناء على هفداولة مجلس النقد والقرض بتار يم 23 ديسممر سئة 2008«",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يهدف هذا النظام الى تحديد الحد المالية العاملة في الجزائر أن تحرره عند تأسيسها.\nBU‏ 2: يجب على البتثوك والمؤسسات المالية, الجزائريء أن تمتلك. عند تأسيسهاء رأسمالا محررا كليا ونقدا يساوي على الأقل :\nأ عشرة ملايير دينار (10.000.000.000 (g+‏ بالنسبة للبنوك المنصوص عليها فى المادة 70 من الأمير رقم 11-03 المؤرخ في 27 جمادى الثائية عام 1424 المواقق 26 غشت سنة 2003 والمذكور أعلاه, ب) goals Léna LS‏ 5 سان )3.500.000.000 #3( بالنسبة للمؤسسات المالية المحددة في المادة 71 هن الأمر رقم 11-03 المؤر خ في 27 جسمادى الثاتية عام 1424 الموافق 26 غخشت سنة 2003 والمذكور sel‏",
+      "paragraphs": [
+        {
+          "text": "يهدف هذا النظام الى تحديد الحد المالية العاملة في الجزائر أن تحرره عند تأسيسها.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BU‏ 2: يجب على البتثوك والمؤسسات المالية, الجزائريء أن تمتلك. عند تأسيسهاء رأسمالا محررا كليا ونقدا يساوي على الأقل :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "أ عشرة ملايير دينار (10.000.000.000 (g+‏ بالنسبة للبنوك المنصوص عليها فى المادة 70 من الأمير رقم 11-03 المؤرخ في 27 جمادى الثائية عام 1424 المواقق 26 غشت سنة 2003 والمذكور أعلاه, ب) goals Léna LS‏ 5 سان )3.500.000.000 #3( بالنسبة للمؤسسات المالية المحددة في المادة 71 هن الأمر رقم 11-03 المؤر خ في 27 جسمادى الثاتية عام 1424 الموافق 26 غخشت سنة 2003 والمذكور sel‏",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يجب على البنوك والمؤسسات الماليّة التي يتواجد مقرهاالرئيسي في الخارج: أن ges‏ لفروعها التي رخص لها مجلس النقد والقرض بالقيام بعمليات مصرفية في الجزائر: تخصيصا يساوي: على الأقل: الحد الأدنىٍ LL‏ أسمال المطلوب unten‏ البتوك والمؤستسك LULU‏ الخاضيعة للقانون الجزائري المنتمية الواردة في AU‏ 2 أعلاه.",
+      "paragraphs": [
+        {
+          "text": "يجب على البنوك والمؤسسات الماليّة التي يتواجد مقرهاالرئيسي في الخارج: أن ges‏ لفروعها التي رخص لها مجلس النقد والقرض بالقيام بعمليات مصرفية في الجزائر: تخصيصا يساوي: على الأقل: الحد الأدنىٍ LL‏ أسمال المطلوب unten‏ البتوك والمؤستسك LULU‏ الخاضيعة للقانون الجزائري المنتمية الواردة في AU‏ 2 أعلاه.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تمنح البنوك والمؤّسسات الماليّة العاملة Jai‏ فدتة اكنا he‏ (12) شهرا للحقيد بالأحكاء وعئد انقضاء الأجل الوارد في الفقرة الأولى أعلاهدء بحست | PAT DO EAU‏ أو المؤسسات الماليّة التي لا تلتزم باحكام هذا النظاع وهذا os gas‏ المادة 95 هن الأمر رقم03 ١1‏ المؤرخ في 27 جمادى الثانية عام 1424 الموافق 26 غشت سننة 2003 والمذكور أعلاة.",
+      "paragraphs": [
+        {
+          "text": "تمنح البنوك والمؤّسسات الماليّة العاملة Jai‏ فدتة اكنا he‏ (12) شهرا للحقيد بالأحكاء وعئد انقضاء الأجل الوارد في الفقرة الأولى أعلاهدء بحست | PAT DO EAU‏ أو المؤسسات الماليّة التي لا تلتزم باحكام هذا النظاع وهذا os gas‏ المادة 95 هن الأمر رقم03 ١1‏ المؤرخ في 27 جمادى الثانية عام 1424 الموافق 26 غشت سننة 2003 والمذكور أعلاة.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تلغى أحكام النظام رقم 01-04 المؤرخ في 12 محرم عام 1425 الموافق 4 ou le‏ سنة 2004 والمتعلّق بالحد NT‏ لر أسمال اليثوك والمؤسسات المالية العاملة في الجزائر.\nSOU‏ 6: ينشر هذا النظام في الجريدة الرسميّة للجنهورية الجزائرية الديمقراطية الشعبية.\nخرر بالجزائر فى 25 ذى Lol‏ عام 1429 الموافق محمد لكصاسي 2008 aie وكير‎",
+      "paragraphs": [
+        {
+          "text": "تلغى أحكام النظام رقم 01-04 المؤرخ في 12 محرم عام 1425 الموافق 4 ou le‏ سنة 2004 والمتعلّق بالحد NT‏ لر أسمال اليثوك والمؤسسات المالية العاملة في الجزائر.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "SOU‏ 6: ينشر هذا النظام في الجريدة الرسميّة للجنهورية الجزائرية الديمقراطية الشعبية.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "خرر بالجزائر فى 25 ذى Lol‏ عام 1429 الموافق محمد لكصاسي 2008 aie وكير‎",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine",
+      "ocr_faible_confiance",
+      "numerotation:articles_manquants:[2]"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.048,
+      "ocr_pages": [
+        1
+      ],
+      "ocr_mean_confidence": 73.6
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/REG-08-04.ar.txt"
+}

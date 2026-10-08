@@ -1,0 +1,280 @@
+{
+  "document_id": "INS-01-92.fr",
+  "work_id": "INS-01-92",
+  "title": "Instruction n°01-92 du 20 janvier 1992 complétant l’instruction n°04-91 du 31 juillet 1991 fixant les conditions et les modalités pratiques d’inscription aux comptes devises nationaux résidents des allocations de pensions et retraites.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "01-92",
+  "number_source": "en-tête du document",
+  "date": "1992-01-20",
+  "date_raw": "N°01-92 DU 20 JANVIER 1992",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction0192.pdf",
+      "uploaded": "2023-01-25T14:34:34"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Année 1992",
+  "source_url": "https://www.bank-of-algeria.dz/annee-1992/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction0192.pdf",
+  "format": "pdf",
+  "file_hash": "09759263cd8c7867c47a09d6f9a1af0f14cb5dbeebea6e8250250a47dde5c3cb",
+  "file_size": 32592,
+  "raw_path": "raw/09759263cd8c__instruction0192.pdf",
+  "retrieved_at": "2026-10-05T14:16:15+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "22fe2057681ff7ae30780d54c5f6309d8ce041c1d7c490726bb8a60281b34c0c",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-1992/",
+    "https://www.bank-of-algeria.dz/ar/%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%AC%D9%86%D8%A8%D9%8A%D8%A9/",
+    "https://www.bank-of-algeria.dz/ar/%d8%ad%d8%b3%d8%a7%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%85%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d8%ac%d9%86%d8%a8%d9%8a%d8%a9/",
+    "https://www.bank-of-algeria.dz/comptes-devises-instruction/",
+    "https://www.bank-of-algeria.dz/importations-exportations-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - INSTRUCTION 32-91",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200806102430+01'00'",
+    "modDate": "D:20200806102430+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 1930,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": false,
+    "article_count": 0,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°01-92 DU 20 JANVIER 1992 COMPLETANT L'INSTRUCTION N°04-91 DU 31 JUILLET 1991 FIXANT LES CONDITIONS ET LES MODALITES PRATIQUES D'INSCRIPTION AUX COMPTES DEVISES NATIONAUX RESIDENTS DES ALLOCATIONS DE PENSIONS ET RETRAITES",
+  "alias_urls": [
+    {
+      "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction0192.pdf",
+      "source_url": "https://www.bank-of-algeria.dz/importations-exportations-instruction/",
+      "title": "Instruction n°01-92 du 20 janvier 1992 complétant l’instruction n°04-91 du 31 juillet 1991 fixant les conditions et les modalités pratiques d’inscription aux comptes devises nationaux résidents des allocations de pensions et retraites."
+    }
+  ],
+  "text_hash": "cc5fa6b300d4a23e5fff9d7e6d2ec2409470b3425b75a1ae6fb6fca23ed9fe9a",
+  "relations_out": [
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "04-91",
+        "date": "1991-07-31",
+        "raw": "instruction n°04-91 du 31 juillet 1991"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-92 du 20 janvier 1992 complétant l’instruction n°04-91 du 31 juillet 1991 fixant les conditions et les modalités"
+      },
+      "target_work_id": "INS-04-91"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [
+    {
+      "work_id": "INS-04-91",
+      "reference": "instruction n°04-91 du 31 juillet 1991",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-92 du 20 janvier 1992 complétant l’instruction n°04-91 du 31 juillet 1991 fixant les conditions et les modalités"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [
+    {
+      "work_id": "INS-20-95",
+      "document_id": "INS-20-95.fr",
+      "date": "1995-04-04",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°20-95 du 04 avril 1995 modifiant l’instruction n°04-91 du 31 juillet 1991 complétée par l’instruction n°01-92 du 20 janvier 1992 fixant les conditions et les modalités"
+      }
+    }
+  ],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée. Ce texte a été modifié/complété : consulter aussi les textes listés dans modifié_par / complété_par.",
+  "same_work_documents": [],
+  "complété_par": [
+    {
+      "work_id": "INS-20-95",
+      "document_id": "INS-20-95.fr",
+      "date": "1995-04-04",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°20-95 du 04 avril 1995 modifiant l’instruction n°04-91 du 31 juillet 1991 complétée par l’instruction n°01-92 du 20 janvier 1992 fixant les conditions et les modalités"
+      }
+    }
+  ],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "INS-04-91",
+      "reference": "instruction n°04-91 du 31 juillet 1991",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-92 du 20 janvier 1992 complétant l’instruction n°04-91 du 31 juillet 1991 fixant les conditions et les modalités"
+      }
+    }
+  ],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°01-92 DU 20 JANVIER 1992 COMPLETANT\nL'INSTRUCTION N°04-91 DU 31 JUILLET 1991 FIXANT\nLES CONDITIONS ET LES MODALITES PRATIQUES D'INSCRIPTION\nAUX COMPTES DEVISES NATIONAUX RESIDENTS\nDES ALLOCATIONS DE PENSIONS ET RETRAITES\nLa présente instruction a pour objet de faire connaître que les dispositions de l'instruction n°04-91 du 31 juillet 1991 fixant les conditions et les modalités pratiques d'inscription aux comptes devises des nationaux résidents des allocations de pensions et retraites, sont complétées comme suit au paragraphe \"C\" du titre II :\nII/- MODALITES D'INSCRIPTION AUX COMPTES DEVISES\nc) - Pensions et retraites versées par des organismes nationaux agissant pour compte d'organismes payeurs étrangers.\nII.11 - Au cas où les pensions et retraites sont payées en Dinars Algériens directement aux bénéficiaires par les comptables nationaux payeurs (trésoriers, receveurs des impôts, receveurs des postes) et ce, en application d'une convention intergouvernementale, les banques sont autorisées à inscrire aux comptes devises de ces bénéficiaires la contre-valeur en devises du montant ainsi perçu en dinars algériens par ces derniers.\nII.12 - L'inscription aux comptes devises visée à l'alinéa II.11 ci-dessous est effectuée par la banque domiciliataire des comptes devises concernés, après versement du montant en Dinars Algériens perçu par les bénéficiaires et production en original par ces derniers des documents suivants :\n- la quittance de paiement délivrée par les comptables nationaux payeurs ;\n- l'attestation prévue par l'instruction n°089 du 12 Octobre 1991 du Ministère de l'Economie (Direction centrale du Trésor).\nII.13 - Les dispositions relatives aux cours de conversion prévues par le titre III sont applicables aux opérations de conversion et d'inscription en comptes devises visées à l'alinéa II.11 ci-dessus.\nLe Directeur Général des Changes\nAli TOUATI",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°01-92 DU 20 JANVIER 1992 COMPLETANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L'INSTRUCTION N°04-91 DU 31 JUILLET 1991 FIXANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "LES CONDITIONS ET LES MODALITES PRATIQUES D'INSCRIPTION",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AUX COMPTES DEVISES NATIONAUX RESIDENTS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DES ALLOCATIONS DE PENSIONS ET RETRAITES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La présente instruction a pour objet de faire connaître que les dispositions de l'instruction n°04-91 du 31 juillet 1991 fixant les conditions et les modalités pratiques d'inscription aux comptes devises des nationaux résidents des allocations de pensions et retraites, sont complétées comme suit au paragraphe \"C\" du titre II :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "II/- MODALITES D'INSCRIPTION AUX COMPTES DEVISES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "c) - Pensions et retraites versées par des organismes nationaux agissant pour compte d'organismes payeurs étrangers.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "II.11 - Au cas où les pensions et retraites sont payées en Dinars Algériens directement aux bénéficiaires par les comptables nationaux payeurs (trésoriers, receveurs des impôts, receveurs des postes) et ce, en application d'une convention intergouvernementale, les banques sont autorisées à inscrire aux comptes devises de ces bénéficiaires la contre-valeur en devises du montant ainsi perçu en dinars algériens par ces derniers.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "II.12 - L'inscription aux comptes devises visée à l'alinéa II.11 ci-dessous est effectuée par la banque domiciliataire des comptes devises concernés, après versement du montant en Dinars Algériens perçu par les bénéficiaires et production en original par ces derniers des documents suivants :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- la quittance de paiement délivrée par les comptables nationaux payeurs ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- l'attestation prévue par l'instruction n°089 du 12 Octobre 1991 du Ministère de l'Economie (Direction centrale du Trésor).",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "II.13 - Les dispositions relatives aux cours de conversion prévues par le titre III sont applicables aux opérations de conversion et d'inscription en comptes devises visées à l'alinéa II.11 ci-dessus.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Directeur Général des Changes",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Ali TOUATI",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.035
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-01-92.fr.txt"
+}

@@ -1,0 +1,336 @@
+{
+  "document_id": "INS-02-26.fr",
+  "work_id": "INS-02-26",
+  "title": "Instruction n° 02-2026 du 7 janvier 2026 modifiant et complétant l’instruction n° 07-2020 du 29 avril 2020 relative au taux d’intérêt directeur applicable aux opérations principales de refinancement",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "02-2026",
+  "number_source": "en-tête du document",
+  "date": "2026-01-07",
+  "date_raw": "N° 02-2026 DU 7 JANVIER 2026",
+  "date_source": "en-tête du document",
+  "publication_date": "2026-01-08",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Instruments de la politique monétaire",
+  "source_url": "https://www.bank-of-algeria.dz/marche-monetaire-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2026/01/Instruction-02-26-Fr-1.pdf",
+  "format": "pdf",
+  "file_hash": "382ce5f091ff5f404a276d7e66cf57bf360ef31d530913d9b9267abed8786876",
+  "file_size": 343102,
+  "raw_path": "raw/382ce5f091ff__Instruction-02-26-Fr-1.pdf",
+  "retrieved_at": "2026-10-05T13:32:06+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "a7d873f5fb4b2d74a81a255fb4906f72c55ece7a9474187f978cc7fbfb3a5240",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/marche-monetaire-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "author": "ryma  ghebalou",
+    "creator": "Microsoft® Word 2013",
+    "producer": "Microsoft® Word 2013",
+    "creationDate": "D:20260108121245+01'00'",
+    "modDate": "D:20260108121245+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 860,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 3,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N° 02-2026 DU 7 JANVIER 2026 MODIFIANT ET COMPLETANT L’INSTRUCTION N° 07-2020 DU 29 AVRIL 2020 RELATIVE AU TAUX D’INTERET DIRECTEUR APPLICABLE AUX OPERATIONS PRINCIPALES DE REFINANCEMENT",
+  "alias_urls": [],
+  "text_hash": "34f77b5a38376d6b15ea19ea0dca47f7d6e55f39cd3bb51f0d720e5d64a293c5",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "07-2020",
+        "date": "2020-04-29",
+        "raw": "instruction n° 07-2020 du 29 avril 2020"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n° 02-2026 du 7 janvier 2026 modifiant et complétant l’instruction n° 07-2020 du 29 avril 2020 relative au taux d’intérêt directeur ap"
+      },
+      "target_work_id": "INS-07-20"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "07-2020",
+        "date": "2020-04-29",
+        "raw": "instruction n° 07-2020 du 29 avril 2020"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n° 02-2026 du 7 janvier 2026 modifiant et complétant l’instruction n° 07-2020 du 29 avril 2020 relative au taux d’intérêt directeur ap"
+      },
+      "target_work_id": "INS-07-20"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "07-2020",
+        "date": "2020-04-29",
+        "raw": "instruction n°07-2020 du 29 avril 2020"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier l’instruction n°07-2020 du 29 avril 2020 relative au taux d’intérêt directeur ap"
+      },
+      "target_work_id": "INS-07-20"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-07-20",
+      "reference": "instruction n° 07-2020 du 29 avril 2020",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n° 02-2026 du 7 janvier 2026 modifiant et complétant l’instruction n° 07-2020 du 29 avril 2020 relative au taux d’intérêt directeur ap"
+      }
+    },
+    {
+      "work_id": "INS-07-20",
+      "reference": "instruction n°07-2020 du 29 avril 2020",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier l’instruction n°07-2020 du 29 avril 2020 relative au taux d’intérêt directeur ap"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "INS-07-20",
+      "reference": "instruction n° 07-2020 du 29 avril 2020",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n° 02-2026 du 7 janvier 2026 modifiant et complétant l’instruction n° 07-2020 du 29 avril 2020 relative au taux d’intérêt directeur ap"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-02-26.ar"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "INS-07-20",
+      "reference": "instruction n° 07-2020 du 29 avril 2020",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n° 02-2026 du 7 janvier 2026 modifiant et complétant l’instruction n° 07-2020 du 29 avril 2020 relative au taux d’intérêt directeur ap"
+      }
+    }
+  ],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N° 02-2026 DU 7 JANVIER 2026 MODIFIANT ET\nCOMPLETANT L’INSTRUCTION N° 07-2020 DU 29 AVRIL 2020\nRELATIVE AU TAUX D’INTERET DIRECTEUR APPLICABLE AUX\nOPERATIONS PRINCIPALES DE REFINANCEMENT",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N° 02-2026 DU 7 JANVIER 2026 MODIFIANT ET",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "COMPLETANT L’INSTRUCTION N° 07-2020 DU 29 AVRIL 2020",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "RELATIVE AU TAUX D’INTERET DIRECTEUR APPLICABLE AUX",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "OPERATIONS PRINCIPALES DE REFINANCEMENT",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction a pour objet de modifier l’instruction n°07-2020 du 29 avril 2020 relative au taux d’intérêt directeur applicable aux opérations principales de refinancement.",
+      "paragraphs": [
+        {
+          "text": "La présente instruction a pour objet de modifier l’instruction n°07-2020 du 29 avril 2020 relative au taux d’intérêt directeur applicable aux opérations principales de refinancement.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L’article 2 de l'instruction n°07-2020 du 29 avril 2020 relative au taux d’intérêt directeur applicable aux opérations principales de refinancement est modifié et rédigé comme suit :\n« Article 2 : Le taux d’intérêt directeur applicable aux opérations principales de refinancement est fixé à 2,50% ».",
+      "paragraphs": [
+        {
+          "text": "L’article 2 de l'instruction n°07-2020 du 29 avril 2020 relative au taux d’intérêt directeur applicable aux opérations principales de refinancement est modifié et rédigé comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "« Article 2 : Le taux d’intérêt directeur applicable aux opérations principales de refinancement est fixé à 2,50% ».",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction prend effet à compter de la date de sa signature.\nP.I./Le Gouverneur\nMouatassem BOUDIAF",
+      "paragraphs": [
+        {
+          "text": "La présente instruction prend effet à compter de la date de sa signature.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "P.I./Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Mouatassem BOUDIAF",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.044
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-02-26.fr.txt"
+}

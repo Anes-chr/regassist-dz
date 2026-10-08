@@ -1,0 +1,460 @@
+{
+  "document_id": "REG-16-04.ar",
+  "work_id": "REG-16-04",
+  "title": "نظام رقم 16-04 المؤرخ في 17 نوفمبر2016، يعدل ويتمم النظام رقم 07-01 المؤرخ في 3 فبراير سنة 2007 والمتعلق بالقواعد المطبقة على المعاملات الجارية مع الخارج والحسابات بالعملة الصعبة.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "16-04",
+  "number_source": "libelle",
+  "date": "2016-11-17",
+  "date_raw": "المؤرخ في 17 نوفمبر2016",
+  "date_source": "libelle",
+  "publication_date": "2023-02-28",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "règlements",
+  "subcategory": "تنظيم الصرف",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%aa%d9%86%d8%b8%d9%8a%d9%85-%d8%a7%d9%84%d8%b5%d8%b1%d9%81-2/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/02/04-2016.pdf",
+  "format": "pdf",
+  "file_hash": "012803105c16b689abaf30878ca68012ddb6225ef0f2ed0fdf6e1bbf658f422e",
+  "file_size": 219108,
+  "raw_path": "raw/012803105c16__04-2016.pdf",
+  "retrieved_at": "2026-10-05T13:28:22+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 2,
+  "url_hash": "5ea53fc528e8555df4ced15c65f7a8489af83a9977c37fbeae5ae9ea1ff13dcb",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%aa%d9%86%d8%b8%d9%8a%d9%85-%d8%a7%d9%84%d8%b5%d8%b1%d9%81-2/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document2",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20230228093654+01'00'",
+    "modDate": "D:20230228093654+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 1802,
+        "ocr_confidence": 82.83387622149837
+      },
+      {
+        "page": 2,
+        "method": "ocr",
+        "chars": 1279,
+        "ocr_confidence": 82.62445414847161
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 3,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine",
+    "numerotation:articles_manquants:[2]"
+  ],
+  "title_document": "نظام رقم 04-16 مؤرخ في 17 صفر عام 1435 الموافق 17 نوفمبر سنة 2016, يعدل ويتمم النظام رقم 01-07 السؤرخ في 15 مصرم عام 1428 الموافق 3 فبرابر سنة 2007 والمتعلق بالقواهد اللطبقة على المعاملات الجمارية هع الضارج والصسابات بمقتضى الأمر رقم 39-75 المؤرخ في20 رمضان عام 1395 الموافق 26 سبتمبر سنة 1975 واللتضمن القانون التجارى. المعدل والتمم,",
+  "alias_urls": [],
+  "text_hash": "8da571a852b0bc99831ebc46cf488599644292c691f03ad5b08412b804794852",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "2007-01",
+        "date": "2007-02-03",
+        "raw": "règlement n°2007-01 du 3 février 2007"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2016-04 du 17 novembre 2016 modifiant et complétant le règlement n°2007-01 du 3 février 2007 relatif aux règles applicables aux tran",
+        "copied_from": "REG-16-04.fr"
+      },
+      "target_work_id": "REG-07-01"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "2007-01",
+        "date": "2007-02-03",
+        "raw": "règlement n°2007-01 du 3 février 2007"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2016-04 du 17 novembre 2016 modifiant et complétant le règlement n°2007-01 du 3 février 2007 relatif aux règles applicables aux tran",
+        "copied_from": "REG-16-04.fr"
+      },
+      "target_work_id": "REG-07-01"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "07-01",
+        "date": null,
+        "raw": "règlement n°07-01 du 15 Moharram 1428"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modif",
+        "copied_from": "REG-16-04.fr"
+      },
+      "target_work_id": "REG-07-01"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "07-01",
+        "date": null,
+        "raw": "règlement n°07-01 du 15 Moharram 1428"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modif",
+        "copied_from": "REG-16-04.fr"
+      },
+      "target_work_id": "REG-07-01"
+    },
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "11-06",
+        "date": null,
+        "raw": "règlement n°11-06"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Les dispositions contraires au présent règlement sont abrogées, notamment le règlement n°11-06 du 21 Dhou El Kaada 1432 correspondant",
+        "copied_from": "REG-16-04.fr"
+      },
+      "target_work_id": "REG-11-06"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "REG-11-06",
+      "reference": "règlement n°11-06",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Les dispositions contraires au présent règlement sont abrogées, notamment le règlement n°11-06 du 21 Dhou El Kaada 1432 correspondant",
+        "copied_from": "REG-16-04.fr"
+      }
+    }
+  ],
+  "modifie": [
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n°2007-01 du 3 février 2007",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2016-04 du 17 novembre 2016 modifiant et complétant le règlement n°2007-01 du 3 février 2007 relatif aux règles applicables aux tran",
+        "copied_from": "REG-16-04.fr"
+      }
+    },
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n°07-01 du 15 Moharram 1428",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modif",
+        "copied_from": "REG-16-04.fr"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n°2007-01 du 3 février 2007",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2016-04 du 17 novembre 2016 modifiant et complétant le règlement n°2007-01 du 3 février 2007 relatif aux règles applicables aux tran",
+        "copied_from": "REG-16-04.fr"
+      }
+    },
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n°07-01 du 15 Moharram 1428",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modif",
+        "copied_from": "REG-16-04.fr"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-16-04.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n°2007-01 du 3 février 2007",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2016-04 du 17 novembre 2016 modifiant et complétant le règlement n°2007-01 du 3 février 2007 relatif aux règles applicables aux tran",
+        "copied_from": "REG-16-04.fr"
+      }
+    },
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n°07-01 du 15 Moharram 1428",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modif",
+        "copied_from": "REG-16-04.fr"
+      }
+    }
+  ],
+  "ocr_numeric_check": {
+    "units": 4,
+    "units_flagged": 0,
+    "units_compared_with_french": 3,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "نظام رقم 04-16 مؤرخ في 17 صفر عام 1435 الموافق 17 نوفمبر سنة 2016, يعدل ويتمم النظام رقم 01-07 السؤرخ في 15 مصرم عام 1428 الموافق 3 فبرابر سنة 2007 والمتعلق بالقواهد اللطبقة على المعاملات الجمارية هع الضارج والصسابات بمقتضى الأمر رقم 39-75 المؤرخ في20 رمضان عام 1395 الموافق 26 سبتمبر سنة 1975 واللتضمن القانون التجارى. المعدل والتمم, شعنان عام 1399 المواقفة 21 سئة 1979 واللملتصضف:* بان عام لوافق 21 يوليو والتضمن قانون الجمارك. المعدل والمتصم:\nعام 1416 الموافق 10 يناير سنة 1996 والمتعلق بالاعتماد «set‏ عام 1417 الموافق لا يوليو سنة 1996 والمتعلق pois‏ مخالفة التشريع والتنظيم الخاصين بالصرف وحركة رؤوس الأموال من وإلى الخارج: المعدل والمتمم:\nà ms‏ تضى الأمر رقم 03-01 المؤرخ في أول جمادى الشانية عام 1422 الموافق 20 غشت سسنة 2001 والمتعلق بتطوير الاستثمار . المعدل والتمم.:\nوبمقتضى الأمر رقم 04-03 المؤرخ في 19 جمادى الأولى عام 1424 الموافق 19 بوليبو سنة 2003 Haiti;‏ بالقواعد العامة المطبقة على عمليات استيراد البضائع وتصديرهاء المعدل well;‏ وبعمة_تضى الأمر رقم 11-03 المؤرخ في 27 جمادى الثانية عام 1424 الموافق 26 غغشت سنة 2003 والمتعلق بالنقد والقرضض. المعدل والمتمم. لا سيماالمادة 62 (النقطة م) és‏ 27 زى الحجة عام 1425 الموافق 6 فبراير سسنة 2005 والمتعلق بالوقاية من تبييض الأموال وتمويل الإرهاب ومكافحتهما.ء المعدل all y‏ وبمقتضى الأمر رقم 05-05 المؤرخ في 18 جمادى قانون المالية التكميلي لسنة 2005, وبمقتضى القانون رقم 05 07 المؤرخ في 19 ربيع الأول عام 1426 الموافق 28 أبريل سنة 2005 والمتعلق باللحروقات, المعدل والمتمم:\nشوال عام 1437 الموافق 3 غضشت سسنة 2016 والمتعلق وبمقتضى المرسوم الرئاسي المؤرخ في 10 رببع الأول سام 2 الموافق 2 بونيو سنة 2001 والمتضمن وبمقتضى المرسوع الرئاسي المؤرخ في 24 لبنك الجزائر, ضام 437 الموافق 17 نوفهمبر سسنئة 2015 وال تضمن\n- وبمقتضى النظام رقم 01-07 المؤرخ في 15 محرع عام 1428 الموافق 3 فبرابر سنة 2007 واللتعلق بالقواعد المطبقة على المعاملات الجارية مع الخارج بالوقاية من تببيض الأموال وتمويل الإرهاب\n- وعد الاطلاع على ll « = gli‏ التقن يصدر النظام الآتي نصه :",
+      "paragraphs": [
+        {
+          "text": "نظام رقم 04-16 مؤرخ في 17 صفر عام 1435 الموافق 17 نوفمبر سنة 2016, يعدل ويتمم النظام رقم 01-07 السؤرخ في 15 مصرم عام 1428 الموافق 3 فبرابر سنة 2007 والمتعلق بالقواهد اللطبقة على المعاملات الجمارية هع الضارج والصسابات بمقتضى الأمر رقم 39-75 المؤرخ في20 رمضان عام 1395 الموافق 26 سبتمبر سنة 1975 واللتضمن القانون التجارى. المعدل والتمم, شعنان عام 1399 المواقفة 21 سئة 1979 واللملتصضف:* بان عام لوافق 21 يوليو والتضمن قانون الجمارك. المعدل والمتصم:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "عام 1416 الموافق 10 يناير سنة 1996 والمتعلق بالاعتماد «set‏ عام 1417 الموافق لا يوليو سنة 1996 والمتعلق pois‏ مخالفة التشريع والتنظيم الخاصين بالصرف وحركة رؤوس الأموال من وإلى الخارج: المعدل والمتمم:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "à ms‏ تضى الأمر رقم 03-01 المؤرخ في أول جمادى الشانية عام 1422 الموافق 20 غشت سسنة 2001 والمتعلق بتطوير الاستثمار . المعدل والتمم.:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى الأمر رقم 04-03 المؤرخ في 19 جمادى الأولى عام 1424 الموافق 19 بوليبو سنة 2003 Haiti;‏ بالقواعد العامة المطبقة على عمليات استيراد البضائع وتصديرهاء المعدل well;‏ وبعمة_تضى الأمر رقم 11-03 المؤرخ في 27 جمادى الثانية عام 1424 الموافق 26 غغشت سنة 2003 والمتعلق بالنقد والقرضض. المعدل والمتمم. لا سيماالمادة 62 (النقطة م) és‏ 27 زى الحجة عام 1425 الموافق 6 فبراير سسنة 2005 والمتعلق بالوقاية من تبييض الأموال وتمويل الإرهاب ومكافحتهما.ء المعدل all y‏ وبمقتضى الأمر رقم 05-05 المؤرخ في 18 جمادى قانون المالية التكميلي لسنة 2005, وبمقتضى القانون رقم 05 07 المؤرخ في 19 ربيع الأول عام 1426 الموافق 28 أبريل سنة 2005 والمتعلق باللحروقات, المعدل والمتمم:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "شوال عام 1437 الموافق 3 غضشت سسنة 2016 والمتعلق وبمقتضى المرسوم الرئاسي المؤرخ في 10 رببع الأول سام 2 الموافق 2 بونيو سنة 2001 والمتضمن وبمقتضى المرسوع الرئاسي المؤرخ في 24 لبنك الجزائر, ضام 437 الموافق 17 نوفهمبر سسنئة 2015 وال تضمن",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى النظام رقم 01-07 المؤرخ في 15 محرع عام 1428 الموافق 3 فبرابر سنة 2007 واللتعلق بالقواعد المطبقة على المعاملات الجارية مع الخارج بالوقاية من تببيض الأموال وتمويل الإرهاب",
+          "page_start": 1,
+          "page_end": 2
+        },
+        {
+          "text": "- وعد الاطلاع على ll « = gli‏ التقن يصدر النظام الآتي نصه :",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "يعدل هذا النظام ويتمم النظام رقم 01-7 المؤرخ في 15 محرم عام 1428 الموافق 3 فيراير سنة 2007 والمتعلق بالقواعد المطبقة على المسعاملات الجارية مع الخارج والحسابات بالعملة الصعبة: المعدل ti‏ 2 : تعدّل وتتمم المادة 61 من النظام رقم 01-7 المؤرخ في 15 محرعم عام 1428 الموافق 3 فبراير سنة 2007 المذكور أعلاه. وتحرر كما يأتي :\nيجب على المصدر أن يُرحل الإيرادات الناجمة عن اعتبارا من تاريخ الإرسال بالنسبة للسلع أو تاريخ الإنجاز بالنسبة للخدمات.\n= = يشكل أجل ثلاثمائة وستين )360( يوما أقصى حد يمكن أن يمنحه المصدر لزبونه غير المقيم. ويجب وفي كل الأحوال: بيجب أن يتم ترهيل ناتج عندما يتعلق الأمر بالسلع الاستهلاكية المعمرة أو أجل يتجاوز ثلاثمائة وستين (360) يوماء تحدد تعليمة من بنك الجزائر شروط التطبيق.\nمع مراعاة ماسبق ذكره. عندما يكون Jai‏ التسديد الممنوح من طرف المتعامل / المصدر للزيون غير المقبم. يتراوح بين مائة وثمائين )160( وثلاثمائة وستين )360( يوماء أو أكشر. يجب أن تكون عملية التصدير. بُكتتب لدى الهيئة الوطنية المختصة في هذا المجال.\nمن طرف البنك التجاري: تسبيقات بالدينار على ابرادات التصدير ا",
+      "paragraphs": [
+        {
+          "text": "يعدل هذا النظام ويتمم النظام رقم 01-7 المؤرخ في 15 محرم عام 1428 الموافق 3 فيراير سنة 2007 والمتعلق بالقواعد المطبقة على المسعاملات الجارية مع الخارج والحسابات بالعملة الصعبة: المعدل ti‏ 2 : تعدّل وتتمم المادة 61 من النظام رقم 01-7 المؤرخ في 15 محرعم عام 1428 الموافق 3 فبراير سنة 2007 المذكور أعلاه. وتحرر كما يأتي :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "يجب على المصدر أن يُرحل الإيرادات الناجمة عن اعتبارا من تاريخ الإرسال بالنسبة للسلع أو تاريخ الإنجاز بالنسبة للخدمات.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "= = يشكل أجل ثلاثمائة وستين )360( يوما أقصى حد يمكن أن يمنحه المصدر لزبونه غير المقيم. ويجب وفي كل الأحوال: بيجب أن يتم ترهيل ناتج عندما يتعلق الأمر بالسلع الاستهلاكية المعمرة أو أجل يتجاوز ثلاثمائة وستين (360) يوماء تحدد تعليمة من بنك الجزائر شروط التطبيق.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "مع مراعاة ماسبق ذكره. عندما يكون Jai‏ التسديد الممنوح من طرف المتعامل / المصدر للزيون غير المقبم. يتراوح بين مائة وثمائين )160( وثلاثمائة وستين )360( يوماء أو أكشر. يجب أن تكون عملية التصدير. بُكتتب لدى الهيئة الوطنية المختصة في هذا المجال.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "من طرف البنك التجاري: تسبيقات بالدينار على ابرادات التصدير ا",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "ais‏ كل الأحكام المشالفة لهذا النظام.",
+      "paragraphs": [
+        {
+          "text": "ais‏ كل الأحكام المشالفة لهذا النظام.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "ينشر هذا النظام في الجريدة الرسمية حرر بالجزائر في 17 صفر عام 1438 الموافق 17 نوفمبر سثة 2016.\nttes‏ لوكال",
+      "paragraphs": [
+        {
+          "text": "ينشر هذا النظام في الجريدة الرسمية حرر بالجزائر في 17 صفر عام 1438 الموافق 17 نوفمبر سثة 2016.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "ttes‏ لوكال",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine",
+      "numerotation:articles_manquants:[2]"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.033,
+      "ocr_pages": [
+        1,
+        2
+      ],
+      "ocr_mean_confidence": 82.7
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/REG-16-04.ar.txt"
+}

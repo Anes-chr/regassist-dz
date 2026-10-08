@@ -1,0 +1,1088 @@
+[
+  {
+    "document_id": "INS-02-10.fr",
+    "title": "Instruction n°02-2010 du 17 mai 2010 relative a la mise en place d’un droit de change spécifique pour les nationaux résidents dans le cadre du déplacement pour la phase finale de la coupe du monde 2010.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/02/instruction022010.pdf",
+    "severity": "review",
+    "reasons": [
+      "meme_texte_plusieurs_fichiers",
+      "ocr_utilise_verification_humaine",
+      "ocr_faible_confiance"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.067,
+      "ocr_pages": [
+        3
+      ],
+      "ocr_mean_confidence": 53.6
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "INS-04-14.fr",
+    "title": "Instruction n°04-2014 du 30 décembre 2014 portant coefficients de solvabilité applicables aux banques et établissements financiers.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/02/instruction042014.pdf",
+    "severity": "review",
+    "reasons": [
+      "ocr_utilise_verification_humaine"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.049,
+      "ocr_pages": [
+        4,
+        6,
+        8,
+        15,
+        17
+      ],
+      "ocr_mean_confidence": 81.0
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "INS-06-08.fr",
+    "title": "Instruction n°06-2008 du 30 octobre 2008 portant l’établissement des situations comptables mensuelles (imprime modèle 20R) et ses annexes.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/02/instruction062008.pdf",
+    "severity": "review",
+    "reasons": [
+      "ocr_utilise_verification_humaine",
+      "ocr_faible_confiance"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.04,
+      "ocr_pages": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "ocr_mean_confidence": 47.6
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "INS-06-09.fr",
+    "title": "Instruction n°06-2009 du 28 décembre 2009 relative a la mise en place d’un droit de change spécifique pour les nationaux résidents dans le cadre du déplacement pour la phase finale de la CAN 2010.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/02/instruction062009.pdf",
+    "severity": "review",
+    "reasons": [
+      "meme_texte_plusieurs_fichiers",
+      "ocr_utilise_verification_humaine",
+      "ocr_faible_confiance"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.036,
+      "ocr_pages": [
+        3
+      ],
+      "ocr_mean_confidence": 59.6
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "INS-08-11.fr",
+    "title": "Instruction n°08-2011 du 21 décembre 2011 portant déclaration des crédits rééchelonnés au titre du soutien financier de l’Etat.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/02/instruction082011.pdf",
+    "severity": "review",
+    "reasons": [
+      "ocr_utilise_verification_humaine"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.036,
+      "ocr_pages": [
+        2
+      ],
+      "ocr_mean_confidence": 86.3
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "INS-01-96.fr",
+    "title": "Instruction n°02-96 du 6 février 1996 relative à la déclaration à la Banque d’Algérie des opérations de change.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction0196.pdf",
+    "severity": "review",
+    "reasons": [
+      "incoherence_libelle_vs_document:numero",
+      "incoherence_libelle_vs_document:date"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.038
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "INS-02-98.fr",
+    "title": "Instruction n°02-98 du 21 mai 1998 relative au transfert sur salaires perçus en Algérie par les travailleurs étrangers.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction0298.pdf",
+    "severity": "review",
+    "reasons": [
+      "meme_texte_plusieurs_fichiers",
+      "numerotation:articles_manquants:[3]"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.196
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "INS-05-04.fr",
+    "title": "Instruction n°05-2004 du 02 août 2004 portant normalisation de la carte bancaire.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction052004.pdf",
+    "severity": "review",
+    "reasons": [
+      "numerotation:articles_manquants:[10]"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.051
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "INS-06-90.fr",
+    "title": "Instruction n°06-90 du 16 décembre 1990 définissant les conditions d’éligibilité aux comptes devises “personnes morales des recettes en devises réalisées en Algérie.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction0690.pdf",
+    "severity": "review",
+    "reasons": [
+      "ocr_utilise_verification_humaine",
+      "ocr_faible_confiance"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.049,
+      "ocr_pages": [
+        5
+      ],
+      "ocr_mean_confidence": 41.4
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "INS-07-04.fr",
+    "title": "Instruction n°07-2004 portant déclaration par les banques et établissements financiers du rapport dit “coefficient de fonds propres et de ressources permanentes”.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction072004.pdf",
+    "severity": "review",
+    "reasons": [
+      "ocr_utilise_verification_humaine",
+      "ocr_faible_confiance"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.055,
+      "ocr_pages": [
+        2,
+        3
+      ],
+      "ocr_mean_confidence": 74.4
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "INS-08-02.fr",
+    "title": "Instruction n°08-2002 du 26 décembre 2002 portant modèles de déclaration par les banques et établissements financiers, intermédiaires agrées, du niveau de leurs engagements extérieurs.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction082002.pdf",
+    "severity": "review",
+    "reasons": [
+      "ocr_utilise_verification_humaine",
+      "ocr_faible_confiance"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.051,
+      "ocr_pages": [
+        2,
+        3,
+        4
+      ],
+      "ocr_mean_confidence": 44.9
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "INS-13-07.fr",
+    "title": "Instruction n°13-2007 du 24 décembre 2007 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligatoires.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction132007-1.pdf",
+    "severity": "review",
+    "reasons": [
+      "numerotation:articles_manquants:[3]"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.044
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "INS-34-91.fr",
+    "title": "Instruction n°34-91 du 14 novembre 1991 relative a la fixation des règles prudentielles de gestion des banques et établissements financiers.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction3491.pdf",
+    "severity": "review",
+    "reasons": [
+      "numerotation:articles_dupliques:[1, 2, 3, 4, 5, 6]",
+      "numerotation:ordre_non_croissant"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.04
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "INS-56-94.fr",
+    "title": "Instruction n°56-94 du 07 septembre 1994 modifiant l’instruction n°70-92 du 24 novembre 1992 relative a la centralisation des risques bancaires et des opérations de crédit-bail.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction5694.pdf",
+    "severity": "review",
+    "reasons": [
+      "numerotation:articles_manquants:[4, 5, 6, 7, 8, 9]",
+      "numerotation:premier_article=3"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.026
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "INS-62-93.fr",
+    "title": "Instruction n°62-93 complétant l’instruction n°08-91 du 20 novembre 1991 modifiant l’instruction n°06-90 du 16 décembre 1990 définissant les conditions d’éligibilité aux comptes devises “personnes morales” des recettes réalisées en Algérie.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction6293.pdf",
+    "severity": "review",
+    "reasons": [
+      "metadonnees_incompletes:date"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.035
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "INS-63-94.fr",
+    "title": "Instruction n°63-94 du 28 septembre 1994 portant “normalisation du virement et du versement bancaires”.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction6394.pdf",
+    "severity": "review",
+    "reasons": [
+      "ocr_utilise_verification_humaine"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.04,
+      "ocr_pages": [
+        8
+      ],
+      "ocr_mean_confidence": 77.8
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "REG-14-01.fr",
+    "title": "Règlement n°2014-01 du 16 février 2014 portant coefficients de solvabilité applicables aux banques et établissements financiers.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement201401.pdf",
+    "severity": "review",
+    "reasons": [
+      "numerotation:articles_manquants:[25]"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.039
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "REG-91-03.fr",
+    "title": "Règlement n°91-02 du 20 février 1991 fixant les conditions d’ouverture et de fonctionnement des comptes devises au profit des personnes physiques et morales de nationalité étrangère résidentes ou non résidentes.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement9103.pdf",
+    "severity": "review",
+    "reasons": [
+      "incoherence_libelle_vs_document:numero",
+      "meme_texte_plusieurs_fichiers"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.033
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "REG-93-03.fr",
+    "title": "Règlement n°93-03 du 4 juillet 1993 modifiant et complétant le règlement n°90-01 du 4 juillet 1990 relatif au capital minimum des banques et établissements financiers exerçant en Algérie.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement9303.pdf",
+    "severity": "review",
+    "reasons": [
+      "aucun_article_detecte"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.037
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "REG-94-10.fr",
+    "title": "Règlement n°94-10 du 13 avril 1994 modifiant le règlement n°92-02 du 8 septembre 1990 fixant les conditions d’ouverture et de fonctionnement des comptes devises des personnes morales.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement9410.pdf",
+    "severity": "review",
+    "reasons": [
+      "incoherence_libelle_vs_document:date",
+      "meme_texte_plusieurs_fichiers",
+      "aucun_article_detecte"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.04
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "REG-94-11.fr",
+    "title": "Règlement n°94-11 du 13 avril 1994 modifiant le règlement n° 91-03 du 20 février 1991 relatif aux conditions d’exercice des opérations d’importation de biens en Algérie et de leur financement.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement9411.pdf",
+    "severity": "review",
+    "reasons": [
+      "incoherence_libelle_vs_document:date",
+      "meme_texte_plusieurs_fichiers",
+      "aucun_article_detecte"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.036
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "REG-97-04.fr",
+    "title": "Règlement n°97-01 du 31 décembre 1997 relatif au système de garantie des dépôts bancaires.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement9704.pdf",
+    "severity": "review",
+    "reasons": [
+      "incoherence_libelle_vs_document:numero"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.031
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "NOT-002-01.fr",
+    "title": "Note DGRFE n°02-2001 du 29 août 2001 relative à l’utilisation de l’euro.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/05/note022001_dgrfe.pdf",
+    "severity": "review",
+    "reasons": [
+      "incoherence_libelle_vs_document:numero"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.037
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "NOT-11-DGC-09.fr",
+    "title": "Note n°11/DGC/BA/2009 du 08 février 2009 relative à l’article 10 de la loi de finances pour 2009.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/05/note112009.pdf",
+    "severity": "review",
+    "reasons": [
+      "incoherence_libelle_vs_document:numero"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.03
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "NOT-144-DGC-09.fr",
+    "title": "Note n°144/DGC/BA/2009 du 30 juillet 2009 relative aux dispositions des articles 64, 66, 67 et 69 de la loi de finances pour 2009.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/05/note1442009.pdf",
+    "severity": "review",
+    "reasons": [
+      "incoherence_libelle_vs_document:numero"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.033
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "NOT-16-DGC-09.fr",
+    "title": "Note n°16/DGC/BA/2009 du 08 février 2009 portant contrôle des importations de biens réglées par «crédit documentaire» ou par « remise documentaire ».",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/05/note162009.pdf",
+    "severity": "review",
+    "reasons": [
+      "incoherence_libelle_vs_document:numero"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.043
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "NOT-164-DGC-09.fr",
+    "title": "Note n°164/DGC/BA/2009 du 16 septembre 2009 portant LFC 2009/Article 67 : compréhension du terme « réalisation » des Opérations d’importation.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/05/note1642009.pdf",
+    "severity": "review",
+    "reasons": [
+      "incoherence_libelle_vs_document:numero"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.054
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "NOT-165-DGC-09.fr",
+    "title": "Note n°165/DGC/BA/2009 du 16 septembre 2009 portant LFC/2009Article 69 : paiements des avances sur contrats d’importations de biens.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/05/note1652009.pdf",
+    "severity": "review",
+    "reasons": [
+      "incoherence_libelle_vs_document:numero"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.029
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "NOT-166-DGC-09.fr",
+    "title": "Note n°166/DGC/BA/2009 du 16 septembre 2009 portant LFC 2009/Article 69 : Importations de biens sans transferts réalisées par des entités non résidentes.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/05/note1662009.pdf",
+    "severity": "review",
+    "reasons": [
+      "incoherence_libelle_vs_document:numero"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.029
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "NOT-167-DGC-09.fr",
+    "title": "Note n°167/DGC/BA/2009 du 16 septembre 2009 portant prise en compte des copies conformes du certificat d’origine et du certificat de contrôle de la qualité, délivrés au titre des importations de biens.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/05/note1672009.pdf",
+    "severity": "review",
+    "reasons": [
+      "incoherence_libelle_vs_document:numero"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.027
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "NOT-180-DGC-09.fr",
+    "title": "Note n°180/DGC/BA/2009 du 13 octobre 2009 relative aux factures d’importations de biens et/ou de services non réglées.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/05/note1802009.pdf",
+    "severity": "review",
+    "reasons": [
+      "incoherence_libelle_vs_document:numero"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.029
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "NOT-210-DGC-09.fr",
+    "title": "Note n°210/DGC/BA/2009 du 17 décembre 2009 relative aux frais financiers, de transport, d’assurance et de contrôle de conformité.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/05/note2102009.pdf",
+    "severity": "review",
+    "reasons": [
+      "incoherence_libelle_vs_document:numero"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.04
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "NOT-NA-310c2beb.fr",
+    "title": "Note DGRFE du 8 décembre 1998 portant",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/05/notedgrfe_081298.pdf",
+    "severity": "review",
+    "reasons": [
+      "metadonnees_incompletes:number"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.027
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "NOT-NA-68e5ae1e.fr",
+    "title": "Note d’orientation du 19 septembre 2001 relative au passage à l’euro.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/05/noteorientation_19092001.pdf",
+    "severity": "review",
+    "reasons": [
+      "metadonnees_incompletes:number"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.027
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "LOI-16-14.fr",
+    "title": "قانون رقم 16-14 مؤرخ في 28 ربيع الاول عام 1438 الموافق 28 ديسمبر سنة 2016 ، يتضمن قانون المالية لسنة 2017",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2022/03/loi1614.pdf",
+    "severity": "review",
+    "reasons": [
+      "numerotation:premier_article=102"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.043
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "ORD-09-01.fr",
+    "title": "Ordonnance n°09-01 du 22 juillet 2009 portant Loi de Finances complémentaire pour 2009",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2022/03/ordonnance0901.pdf",
+    "severity": "review",
+    "reasons": [
+      "numerotation:premier_article=107"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.042
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "REG-91-09.fr",
+    "title": "Règlement n°91-09 du 14 août 1991 fixant les règles prudentielles de gestion des banques et établissements financiers.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2022/04/Document20-reglement9109.pdf",
+    "severity": "review",
+    "reasons": [
+      "ocr_utilise_verification_humaine"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.039,
+      "ocr_pages": [
+        1,
+        2
+      ],
+      "ocr_mean_confidence": 94.6
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "INS-01-22.fr",
+    "title": "Instruction n°01-2022 du 3 janvier 2022 relative aux conditions de rémunération des comptes devises.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2022/04/instruction012022.pdf",
+    "severity": "review",
+    "reasons": [
+      "incoherence_libelle_vs_document:date"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.031
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "NOT-001-22.fr",
+    "title": "Note aux banques n°001/2022 du 6 mars 2022",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2022/04/nb01cab.pdf",
+    "severity": "review",
+    "reasons": [
+      "ocr_utilise_verification_humaine"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.044,
+      "ocr_pages": [
+        1
+      ],
+      "ocr_mean_confidence": 90.7
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "NOT-04-DGC-22.fr",
+    "title": "Note aux banques n°04/DGC/2022 du 13 juillet 2022",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2022/07/nb04dgc.pdf",
+    "severity": "review",
+    "reasons": [
+      "ocr_utilise_verification_humaine"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.17,
+      "ocr_pages": [
+        19
+      ],
+      "ocr_mean_confidence": 90.8
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "OTH-NA-21a2e78e.fr",
+    "title": "communique28092022ar.pdf",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2022/09/communique28092022ar.pdf",
+    "severity": "review",
+    "reasons": [
+      "ocr_utilise_verification_humaine",
+      "ocr_faible_confiance",
+      "metadonnees_incompletes:document_type,date"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.038,
+      "ocr_pages": [
+        1
+      ],
+      "ocr_mean_confidence": 28.4
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "REG-20-01-20220131.fr",
+    "title": "Recueil des produits et services bancaires autorisés par la banque d’Algérie au 31 janvier 2022",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2022/10/produitsservices.pdf",
+    "severity": "review",
+    "reasons": [
+      "aucun_article_detecte"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.064
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "REG-22-03.fr",
+    "title": "Règlement n°2022-03 du 18 octobre 2022 portant émission et mise en circulation d’un billet de banque commémoratif de deux mille (2000) dinars algériens à l’occasion de la “tenue à Alger, de la 31ème session ordinaire du sommet de la Ligue des Etats arabes”.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2022/11/reglement202203.pdf",
+    "severity": "review",
+    "reasons": [
+      "numerotation:articles_manquants:[2]"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.056
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "INS-02-21.fr~2",
+    "title": "Instruction n°02-2021 du 7 février 2021 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/Instruction-02-2021-fr-1-http-webmail.ba_.dz-_taskmail_mboxINBOX_uid773_part1_download1_actionget_tokenQGFjR2i1pbZTSosnGjh9Pdus3vjRTd7U.pdf",
+    "severity": "review",
+    "reasons": [
+      "meme_texte_plusieurs_fichiers",
+      "ocr_utilise_verification_humaine"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.047,
+      "ocr_pages": [
+        1
+      ],
+      "ocr_mean_confidence": 93.3
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "INS-05-21.fr~2",
+    "title": "Instruction n°05-2021 du 26 mai 2021 portant règles particulières applicables au compte bancaire de campagne électorale",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/Instruction-05-2021-http-webmail.ba_.dz-_taskmail_mboxINBOX_uid771_part1_download1_actionget_tokenQGFjR2i1pbZTSosnGjh9Pdus3vjRTd7U.pdf",
+    "severity": "review",
+    "reasons": [
+      "meme_texte_plusieurs_fichiers",
+      "ocr_utilise_verification_humaine"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.042,
+      "ocr_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "ocr_mean_confidence": 76.5
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "INS-11-21.fr~2",
+    "title": "Instruction n°11-2021 du 1er décembre 2021 portant modification de la date de règlement des effets de commerce.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/Instruction-n-http-webmail.ba_.dz-_taskmail_mboxINBOX_uid771_part2_download1_actionget_tokenQGFjR2i1pbZTSosnGjh9Pdus3vjRTd7U.pdf",
+    "severity": "review",
+    "reasons": [
+      "meme_texte_plusieurs_fichiers",
+      "ocr_utilise_verification_humaine",
+      "numerotation:premier_article=2"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.035,
+      "ocr_pages": [
+        1
+      ],
+      "ocr_mean_confidence": 93.3
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "INS-03-12.fr~2",
+    "title": "Instruction n°03-2012 du 26 décembre 2012 fixant la procédure relative au droit au compte.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/PDF.js-viewer.pdf",
+    "severity": "review",
+    "reasons": [
+      "meme_texte_plusieurs_fichiers",
+      "ocr_utilise_verification_humaine",
+      "numerotation:premier_article=2"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.043,
+      "ocr_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "ocr_mean_confidence": 91.6
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "INS-02-10.fr~2",
+    "title": "Instruction n°02-2010 du 17 mai 2010 relative a la mise en place d’un droit de change spécifique pour les nationaux résidents dans le cadre du déplacement pour la phase finale de la coupe du monde 2010.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction022010.pdf",
+    "severity": "review",
+    "reasons": [
+      "meme_texte_plusieurs_fichiers",
+      "ocr_utilise_verification_humaine",
+      "ocr_faible_confiance"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.035,
+      "ocr_pages": [
+        3
+      ],
+      "ocr_mean_confidence": 63.6
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "INS-02-17.fr~2",
+    "title": "n°02-2016 fixant le mode opératoire des opérations d’escompte et de réescompte d’effets publics et prives en faveur des banques et établissements financiers et d’avances et crédits aux banques.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction022017.pdf",
+    "severity": "review",
+    "reasons": [
+      "incoherence_libelle_vs_document:numero",
+      "meme_texte_plusieurs_fichiers"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.045
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "INS-06-09.fr~2",
+    "title": "Instruction n°06-2009 du 28 décembre 2009 relative a la mise en place d’un droit de change spécifique pour les nationaux résidents dans le cadre du déplacement pour la phase finale de la CAN 2010.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction062009.pdf",
+    "severity": "review",
+    "reasons": [
+      "meme_texte_plusieurs_fichiers",
+      "ocr_utilise_verification_humaine"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.038,
+      "ocr_pages": [
+        3
+      ],
+      "ocr_mean_confidence": 75.4
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "REG-90-06.fr",
+    "title": "Règlement n°90-06 du 30 décembre 1990 instituant un “Fonds de stabilisation des changes”.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/reglement9006.pdf",
+    "severity": "review",
+    "reasons": [
+      "numerotation:premier_article=2"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.035
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "REG-94-10.fr~2",
+    "title": "Règlement n°94-10 du 12 avril 1994 modifiant le règlement n°92-02 du 8 septembre 1990 fixant les conditions d’ouverture et de fonctionnement des comptes devises des personnes morales.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/reglement9410.pdf",
+    "severity": "review",
+    "reasons": [
+      "meme_texte_plusieurs_fichiers",
+      "aucun_article_detecte"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.04
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "REG-94-11.fr~2",
+    "title": "Règlement n°94-11 du 12 avril 1994 modifiant le règlement n° 91-03 du 20 février 1991 relatif aux conditions d’exercice des opérations d’importation de biens en Algérie et de leur financement.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/reglement9411.pdf",
+    "severity": "review",
+    "reasons": [
+      "meme_texte_plusieurs_fichiers",
+      "aucun_article_detecte"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.037
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "NOT-001-DGC-BA-07.fr",
+    "title": "Note n° 001/DGC/ba/2007 du 07 janvier 2007 portant justification du rapatriement des apports extérieurs.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/05/note012007.pdf",
+    "severity": "review",
+    "reasons": [
+      "incoherence_libelle_vs_document:numero"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.033
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "LOI-23-09.fr",
+    "title": "La loi N° 23-09 du 3 Dhou El Hidja 1444 correspondant au 21 juin 2023 portant Loi monétaire et bancaire",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/08/Loi-monetaire-et-bancaire.pdf",
+    "severity": "review",
+    "reasons": [
+      "texte_identique_a_un_autre_fichier",
+      "meme_texte_plusieurs_fichiers",
+      "numerotation:ordre_non_croissant"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.038
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "LOI-23-09.fr~2",
+    "title": "la loi N° 23-09 du 3 Dhou El Hidja 1444 correspondant au 21 juin 2023 portant Loi monétaire et bancaire",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/08/loi.pdf",
+    "severity": "review",
+    "reasons": [
+      "texte_identique_a_un_autre_fichier",
+      "meme_texte_plusieurs_fichiers",
+      "numerotation:ordre_non_croissant"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.038
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "NOT-01-23.fr",
+    "title": "Note aux banques n°01 – 2023 relative aux seuils des taux d’intérêt excessifs applicables au titre du deuxième semestre 2023",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2024/07/nb-n°1-2023.pdf",
+    "severity": "review",
+    "reasons": [
+      "metadonnees_incompletes:date"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.048
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "NOT-01-24.fr",
+    "title": "Note n°01 – 2024 relative aux seuils des taux d’intérêt excessifs applicables au titre du deuxième semestre 2024",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2024/07/nb-n°1-2024.pdf",
+    "severity": "review",
+    "reasons": [
+      "metadonnees_incompletes:date"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.048
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "NOT-02-23.fr",
+    "title": "Note n°02 – 2023 relative aux seuils des taux d’intérêt excessifs applicables au titre du premier semestre 2024",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2024/07/nb-n°2-2024.pdf",
+    "severity": "review",
+    "reasons": [
+      "metadonnees_incompletes:date"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.048
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "NOT-001-vga.hi-17.fr",
+    "title": "Note n°001/VG A.Hi/2017 du 23 janvier 2017 relative à l’interdiction de l’importation des agrumes et légumes frais.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2024/08/nb-01-vg-2017.pdf",
+    "severity": "review",
+    "reasons": [
+      "incoherence_libelle_vs_document:numero"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.022
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "NOT-002-vga.hi-17.fr",
+    "title": "Note n°002/VG A.Hi/2017 du 02 février 2017 relative au mécanisme d’encadrement des importations de véhicules par les entreprises pour propre compte.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2024/08/nb-02-v-gv-2017.pdf",
+    "severity": "review",
+    "reasons": [
+      "incoherence_libelle_vs_document:numero"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.025
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "NOT-086-DGC-21.fr",
+    "title": "Note n°086/DGC/2021 aux banques et établissements financiers",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2024/08/nb-dgc-086-2021.pdf",
+    "severity": "review",
+    "reasons": [
+      "metadonnees_incompletes:date"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.042
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "NOT-186-19.fr",
+    "title": "Note DGCRB n°186 du 16 décembre 2019 aux banques et établissements financiers relative aux reportings légaux et réglementaires",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2024/08/nb-dgcrb186-2019.pdf",
+    "severity": "review",
+    "reasons": [
+      "incoherence_libelle_vs_document:numero"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.032
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "NOT-02-24.fr",
+    "title": "Note n°02 – 2024 relative aux seuils des taux d’intérêts excessifs applicables au titre du premier semestre 2025",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2024/12/Note-TEG-premier-semestre-2025-WEB-1.pdf",
+    "severity": "review",
+    "reasons": [
+      "metadonnees_incompletes:date"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.054
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "REG-25-02.fr",
+    "title": "Règlement n°25-02 du 15 chaoual 1446 correspondant au 14 avril 2025 fixant les conditions d’autorisation de constitution, d’agrément et d’exercice d’activités des prestataires de services de paiement",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2025/05/Reglement-25-02-FR.pdf",
+    "severity": "review",
+    "reasons": [
+      "numerotation:articles_manquants:[7]"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.041
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "NOT-01-25.fr",
+    "title": "Note n°01- 2025 relative aux seuils des taux d’intérêt excessifs applicables au titre du deuxième semestre 2025",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2025/07/nb-n°1-2025.pdf",
+    "severity": "review",
+    "reasons": [
+      "metadonnees_incompletes:date"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.055
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "REG-25-09.fr",
+    "title": "Règlement n°25-09 du 29 moharram 1447 correspondant au 24 juillet 2025 définissant les règles de comptabilisation et d’évaluation des opérations de banque relevant de la finance islamique.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2025/10/REG-N°25-09-FR-1.pdf",
+    "severity": "review",
+    "reasons": [
+      "numerotation:articles_manquants:[2]"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.044
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "INS-02-98.fr~2",
+    "title": "Instruction n°02-98 du 21 mai 1998 relative au transfert sur salaires perçus en Algérie par les travailleurs étrangers.",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2026/05/instruction02-98.pdf",
+    "severity": "review",
+    "reasons": [
+      "meme_texte_plusieurs_fichiers",
+      "numerotation:articles_manquants:[3]"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.201
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "NOT-01-26.fr",
+    "title": "Note N°01- 2026 relative aux seuils des taux d’intérêt excessifs applicables au titre du deuxième semestre 2026",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2026/06/Note-01-TEG-S1.pdf",
+    "severity": "review",
+    "reasons": [
+      "metadonnees_incompletes:date"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.051
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "REG-20-01-20260514.fr",
+    "title": "Recueil des produits et services bancaires autorisés par la Banque d’Algérie au 14 mai 2026",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2026/06/RECUEIL-ACTUALISE-DES-PRODUITS-ET-SERVICES-BANCAIRES-AUTORISES-AU-14-05-2026-1.pdf",
+    "severity": "review",
+    "reasons": [
+      "aucun_article_detecte"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.06
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "NOT-03.fr",
+    "title": "Note aux Banques et Établissements Financiers N°3 relative aux facilitations de l’accès des ménages aux produits et services bancaires",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2026/07/Inclusion-financiere-V-29-07-2026.pdf",
+    "severity": "review",
+    "reasons": [
+      "metadonnees_incompletes:date"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.034
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "NOT-04.fr",
+    "title": "Note aux Banques et Établissements Financiers N°4 relative au développement de l’offre en matière de crédit à la consommation",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2026/08/note-aux-banque-n°-04-dgcrb_fr.pdf",
+    "severity": "review",
+    "reasons": [
+      "metadonnees_incompletes:date"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.024
+    },
+    "language": "fr"
+  },
+  {
+    "document_id": "OTH-NA-3d1a4924.fr",
+    "title": "بيان المجلس النقدي والمصرفي",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2026/09/communique-23-09-2026AR.pdf",
+    "severity": "review",
+    "reasons": [
+      "ocr_utilise_verification_humaine",
+      "ocr_faible_confiance",
+      "metadonnees_incompletes:document_type,date"
+    ],
+    "details": {
+      "non_alnum_ratio": 0.059,
+      "ocr_pages": [
+        1
+      ],
+      "ocr_mean_confidence": 27.7
+    },
+    "language": "fr"
+  }
+]

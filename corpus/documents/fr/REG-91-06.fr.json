@@ -1,0 +1,785 @@
+{
+  "document_id": "REG-91-06.fr",
+  "work_id": "REG-91-06",
+  "title": "Règlement n°91-06 du 16 mai 1991 fixant les conditions d’attribution d’allocations en devises à l’occasion d’hospitalisation et/ou de décès de nationaux à l’étranger.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "91-06",
+  "number_source": "en-tête du document",
+  "date": "1991-05-16",
+  "date_raw": "N°91-06 DU 16 MAI 1991",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Règlementation des changes",
+  "source_url": "https://www.bank-of-algeria.dz/devises-reglement/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement9106.pdf",
+  "format": "pdf",
+  "file_hash": "d436094a4f7e6fd59eac2e60aefe108413a1e61a8ccfef9c7c9861bcdd6d6547",
+  "file_size": 68759,
+  "raw_path": "raw/d436094a4f7e__reglement9106.pdf",
+  "retrieved_at": "2026-10-05T13:23:03+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "20b383592ea3409fa012ffa4f9088a5e8ff10d91a67b8f177956592da9830b01",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-1991-4/",
+    "https://www.bank-of-algeria.dz/annee-1991/",
+    "https://www.bank-of-algeria.dz/devises-reglement/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document20",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210222155221+01'00'",
+    "modDate": "D:20210222155221+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2448,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 1771,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 16,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "REGLEMENT N°91-06 DU 16 MAI 1991 FIXANT LES CONDITIONS D'ATTRIBUTION D'ALLOCATIONS EN DEVISES A L'OCCASION D'HOSPITALISATION ET/OU DE DECES DE NATIONAUX A L'ETRANGER",
+  "alias_urls": [],
+  "text_hash": "18160cbfa2ab0ee7955ae2c4480658e7407d6a3d284f2cf0c9e045a8c3a01a6d",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [
+    {
+      "work_id": "REG-92-10",
+      "document_id": "REG-92-10.fr",
+      "date": "1992-11-17",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Les articles 5, 6, 7 et 8 du règlement n°91-06 du 16 mai 1991 fixant les conditions d’attribution d’a"
+      }
+    }
+  ],
+  "modifie_par": [
+    {
+      "work_id": "REG-92-10",
+      "document_id": "REG-92-10.fr",
+      "date": "1992-11-17",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°92-10 du 17 novembre 1992 modifiant et complétant le règlement n°91-06 du 16 mai 1991 fixant les conditions d’attribution d’a"
+      }
+    },
+    {
+      "work_id": "REG-92-10",
+      "document_id": "REG-92-10.fr",
+      "date": "1992-11-17",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "L’article 14 du règlement n°91-06 du 16 mai 1991 susvisé est modifié et rédigé comme sui"
+      }
+    }
+  ],
+  "complete_par": [
+    {
+      "work_id": "REG-92-10",
+      "document_id": "REG-92-10.fr",
+      "date": "1992-11-17",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°92-10 du 17 novembre 1992 modifiant et complétant le règlement n°91-06 du 16 mai 1991 fixant les conditions d’attribution d’a"
+      }
+    }
+  ],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "REG-92-10",
+      "document_id": "REG-92-10.fr",
+      "date": "1992-11-17",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Les articles 5, 6, 7 et 8 du règlement n°91-06 du 16 mai 1991 fixant les conditions d’attribution d’a"
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [
+    "REG-91-06.ar"
+  ],
+  "complété_par": [
+    {
+      "work_id": "REG-92-10",
+      "document_id": "REG-92-10.fr",
+      "date": "1992-11-17",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°92-10 du 17 novembre 1992 modifiant et complétant le règlement n°91-06 du 16 mai 1991 fixant les conditions d’attribution d’a"
+      }
+    }
+  ],
+  "modifié_par": [
+    {
+      "work_id": "REG-92-10",
+      "document_id": "REG-92-10.fr",
+      "date": "1992-11-17",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°92-10 du 17 novembre 1992 modifiant et complétant le règlement n°91-06 du 16 mai 1991 fixant les conditions d’attribution d’a"
+      }
+    },
+    {
+      "work_id": "REG-92-10",
+      "document_id": "REG-92-10.fr",
+      "date": "1992-11-17",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "L’article 14 du règlement n°91-06 du 16 mai 1991 susvisé est modifié et rédigé comme sui"
+      }
+    }
+  ],
+  "abrogé_par": [
+    {
+      "work_id": "REG-92-10",
+      "document_id": "REG-92-10.fr",
+      "date": "1992-11-17",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Les articles 5, 6, 7 et 8 du règlement n°91-06 du 16 mai 1991 fixant les conditions d’attribution d’a"
+      }
+    }
+  ],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 16",
+      "number": "16",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°91-06 DU 16 MAI 1991 FIXANT LES CONDITIONS\nD'ATTRIBUTION D'ALLOCATIONS EN DEVISES A L'OCCASION\nD'HOSPITALISATION ET/OU DE DECES DE NATIONAUX A L'ETRANGER\nLe Gouverneur de la Banque d'Algérie\n- Vu la Loi n°90-10 du 14 avril 1990 relative à la monnaie et au crédit notamment ses articles 32 à 41, 44 alinéa « K », et 193 à 199 ;\n- Vu le Décret Présidentiel du 15 avril 1990 portant nomination du Gouverneur de la Banque d'Algérie ;\n- Vu les Décrets Présidentiels du 14 mai 1990 portant nomination de Vice-Gouverneurs de la\nBanque d'Algérie ;\n- Vu le Décret Exécutif du 14 mai 1990 portant désignation de membres titulaires et suppléants au Conseil de la Monnaie et du Crédit ;\n- Vu la délibération du Conseil de la Monnaie et du Crédit en date du 16 mai 1991 ;\nPromulgue le règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°91-06 DU 16 MAI 1991 FIXANT LES CONDITIONS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "D'ATTRIBUTION D'ALLOCATIONS EN DEVISES A L'OCCASION",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "D'HOSPITALISATION ET/OU DE DECES DE NATIONAUX A L'ETRANGER",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d'Algérie",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la Loi n°90-10 du 14 avril 1990 relative à la monnaie et au crédit notamment ses articles 32 à 41, 44 alinéa « K », et 193 à 199 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 15 avril 1990 portant nomination du Gouverneur de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu les Décrets Présidentiels du 14 mai 1990 portant nomination de Vice-Gouverneurs de la",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Exécutif du 14 mai 1990 portant désignation de membres titulaires et suppléants au Conseil de la Monnaie et du Crédit ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la délibération du Conseil de la Monnaie et du Crédit en date du 16 mai 1991 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les nationaux résidents devant se rendre à l'étranger aux fins d'hospitalisation bénéficient d'allocations en devises sur présentation d'une prise en charge délivrée par un organisme national de sécurité social lorsque le malade est un assuré social ou par le Ministère de la Santé dans le cas contraire.",
+      "paragraphs": [
+        {
+          "text": "Les nationaux résidents devant se rendre à l'étranger aux fins d'hospitalisation bénéficient d'allocations en devises sur présentation d'une prise en charge délivrée par un organisme national de sécurité social lorsque le malade est un assuré social ou par le Ministère de la Santé dans le cas contraire.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Lorsque son assistance est expressément prescrite, soit par l'organisme ayant délivré la prise en charge visée à l'article 1 ci-dessus, soit par le service étranger d'hospitalisation, l'accompagnateur du malade bénéficie d'une allocation en devises.",
+      "paragraphs": [
+        {
+          "text": "Lorsque son assistance est expressément prescrite, soit par l'organisme ayant délivré la prise en charge visée à l'article 1 ci-dessus, soit par le service étranger d'hospitalisation, l'accompagnateur du malade bénéficie d'une allocation en devises.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "En cas de décès à l'étranger du malade ou d'un national résidant se trouvant à l'étranger à l'occasion d'un voyage touristique ou d'affaires, une allocation en devises pour le rapatriement de la dépouille mortelle est délivrée au membre de la famille du défunt.",
+      "paragraphs": [
+        {
+          "text": "En cas de décès à l'étranger du malade ou d'un national résidant se trouvant à l'étranger à l'occasion d'un voyage touristique ou d'affaires, une allocation en devises pour le rapatriement de la dépouille mortelle est délivrée au membre de la famille du défunt.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Peuvent également bénéficier d'une allocation en devises annuelle les parents rendant visite à leur enfants âgés de 15 ans et moins hospitalisés à l'étranger pour longue durée depuis 12 mois au moins.",
+      "paragraphs": [
+        {
+          "text": "Peuvent également bénéficier d'une allocation en devises annuelle les parents rendant visite à leur enfants âgés de 15 ans et moins hospitalisés à l'étranger pour longue durée depuis 12 mois au moins.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L'allocation en devises visée à l'article 1 ci-dessus est fixée comme suit :\n- 2.700 DA lorsque le malade est âgé de plus de 15 ans.\n- 1.300 DA lorsque le malade est âgé de 15 ans ou moins.",
+      "paragraphs": [
+        {
+          "text": "L'allocation en devises visée à l'article 1 ci-dessus est fixée comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- 2.700 DA lorsque le malade est âgé de plus de 15 ans.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- 1.300 DA lorsque le malade est âgé de 15 ans ou moins.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L'allocation en devises visée à l'article 2 ci-dessus est fixée comme suit :\n- 2.300 DA à l'occasion du départ du malade.\n- 1.000 DA à l'occasion de son retour en Algérie.",
+      "paragraphs": [
+        {
+          "text": "L'allocation en devises visée à l'article 2 ci-dessus est fixée comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- 2.300 DA à l'occasion du départ du malade.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- 1.000 DA à l'occasion de son retour en Algérie.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L'allocation en devises visée à l'article 3 ci-dessus est fixée à 11.900 DA.\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "L'allocation en devises visée à l'article 3 ci-dessus est fixée à 11.900 DA.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "L'allocation en devises annuelle visée à l'article 4 ci-dessus est fixée comme suit :\n- 5.000 DA lorsque le père et la mère rendent conjointement visite à leur enfant, soit 2.500 DA par personne.\n- 3.000 DA lorsque seul l'un des parents effectue le déplacement.",
+      "paragraphs": [
+        {
+          "text": "L'allocation en devises annuelle visée à l'article 4 ci-dessus est fixée comme suit :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- 5.000 DA lorsque le père et la mère rendent conjointement visite à leur enfant, soit 2.500 DA par personne.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- 3.000 DA lorsque seul l'un des parents effectue le déplacement.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les allocations en devises visées aux articles 1 et 2 ci-dessus sont délivrées par les guichets bancaires du lieu de résidence du malade.",
+      "paragraphs": [
+        {
+          "text": "Les allocations en devises visées aux articles 1 et 2 ci-dessus sont délivrées par les guichets bancaires du lieu de résidence du malade.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les allocations en devises visées aux articles 3 et 4 ci-dessus sont délivrées exclusivement par les guichets de la Banque d'Algérie installée dans la Wilaya de résidence des demandeurs.",
+      "paragraphs": [
+        {
+          "text": "Les allocations en devises visées aux articles 3 et 4 ci-dessus sont délivrées exclusivement par les guichets de la Banque d'Algérie installée dans la Wilaya de résidence des demandeurs.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Lorsque les organismes ayant délivré la prise en charge visée à l'article 1er ci-dessus font accompagner le malade par leurs agents aucune allocation en devises prévue par l'article 2 ci-dessus n'est délivrée aux autres accompagnateurs éventuels.",
+      "paragraphs": [
+        {
+          "text": "Lorsque les organismes ayant délivré la prise en charge visée à l'article 1er ci-dessus font accompagner le malade par leurs agents aucune allocation en devises prévue par l'article 2 ci-dessus n'est délivrée aux autres accompagnateurs éventuels.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les allocations en devises délivrées dans le cadre du présent règlement sont annotées sur les billets de transport des bénéficiaires.",
+      "paragraphs": [
+        {
+          "text": "Les allocations en devises délivrées dans le cadre du présent règlement sont annotées sur les billets de transport des bénéficiaires.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "En cas de non utilisation dans un délai d'un mois à compter de leur délivrance, les allocations en devises doivent être restituées au même guichet bancaire les ayant délivrées.",
+      "paragraphs": [
+        {
+          "text": "En cas de non utilisation dans un délai d'un mois à compter de leur délivrance, les allocations en devises doivent être restituées au même guichet bancaire les ayant délivrées.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Une instruction de la Banque d'Algérie précisera les modalités d'application des dispositions du présent règlement.",
+      "paragraphs": [
+        {
+          "text": "Une instruction de la Banque d'Algérie précisera les modalités d'application des dispositions du présent règlement.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Toute infraction aux dispositions du présent règlement expose son (ou ses)\nauteur (s) aux sanctions pénales prévues par la Loi.",
+      "paragraphs": [
+        {
+          "text": "Toute infraction aux dispositions du présent règlement expose son (ou ses)",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "auteur (s) aux sanctions pénales prévues par la Loi.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 16",
+      "number": "16",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Toutes dispositions contraires aux présentes notamment les instructions du\nMinistère des Finances n°39 du 27 décembre 1977 et n°1792 du 19 août 1989 sont abrogées.\nLe Gouverneur\nAbderrahmane Roustoumi HADJ NACER",
+      "paragraphs": [
+        {
+          "text": "Toutes dispositions contraires aux présentes notamment les instructions du",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Ministère des Finances n°39 du 27 décembre 1977 et n°1792 du 19 août 1989 sont abrogées.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Abderrahmane Roustoumi HADJ NACER",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.04
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-91-06.fr.txt"
+}

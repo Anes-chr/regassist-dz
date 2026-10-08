@@ -1,0 +1,419 @@
+{
+  "document_id": "REG-11-06.ar",
+  "work_id": "REG-11-06",
+  "title": "نظام رقم 11-06 المؤرخ في 19 أكتوبر 2011، يعدل ويتمم النظام رقم 07-01 المؤرخة في 15 محرم 1428 الموافق 3 فبراير 2007 والمتعلق بالقواعد المطبقة على المعاملات الجارية مع الخارج والحسابات بالعملة الصعبة.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "11-06",
+  "number_source": "libelle",
+  "date": "2011-10-19",
+  "date_raw": "المؤرخ في 19 أكتوبر 2011",
+  "date_source": "libelle",
+  "publication_date": "2023-02-28",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "règlements",
+  "subcategory": "تنظيم الصرف",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%aa%d9%86%d8%b8%d9%8a%d9%85-%d8%a7%d9%84%d8%b5%d8%b1%d9%81-2/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/02/06-2011.pdf",
+  "format": "pdf",
+  "file_hash": "6d24940feac32f387164bb48d30e2825cc2280510e2ed76b6defc9bf87945e5d",
+  "file_size": 476178,
+  "raw_path": "raw/6d24940feac3__06-2011.pdf",
+  "retrieved_at": "2026-10-05T13:28:40+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 2,
+  "url_hash": "6f1d2fe4edb916635de617870a7478d19c3cc26a4b4e217f4cf83cfe3e55a2fe",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%aa%d9%86%d8%b8%d9%8a%d9%85-%d8%a7%d9%84%d8%b5%d8%b1%d9%81-2/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document2",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20230228115557+01'00'",
+    "modDate": "D:20230228115557+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 1361,
+        "ocr_confidence": 82.17721518987342
+      },
+      {
+        "page": 2,
+        "method": "ocr",
+        "chars": 1202,
+        "ocr_confidence": 83.50691244239631
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 1,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine",
+    "numerotation:premier_article=2"
+  ],
+  "title_document": "نظام رقم 06-11 مؤرخ في 21 ذي القعدة عام 1432 الموافق 19 أكتوبس سنة 2011 يعدّل ويتمّم النظام رقم 07 — O1‏ المؤرخ في 15 pas‏ عام 1428 الموافق 3 فبراير سنة 2007 والمتعلّق بالقواعد المطبقة على المعاملات الهارية مع الشارج و الحسابات بالعملة الصعبة. بمقتضى الأمر رقم 75 -59 المؤرخ في 20 والمتضمن القانون التجاري:؛ المعدل و المتمم,",
+  "alias_urls": [],
+  "text_hash": "b7fd47ee461d8c31f3586b674f8d6b3750734c5f25a742344c7bb5b3ff739e49",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "07-01",
+        "date": null,
+        "raw": "règlement n°07-01 du 15 muharram 1428"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2011-06 du 19 octobre 2011 modifiant et complétant le règlement n°07-01 du 15 muharram 1428 correspondant au 03 février 2007 relati",
+        "copied_from": "REG-11-06.fr"
+      },
+      "target_work_id": "REG-07-01"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "07-01",
+        "date": null,
+        "raw": "règlement n°07-01 du 15 muharram 1428"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2011-06 du 19 octobre 2011 modifiant et complétant le règlement n°07-01 du 15 muharram 1428 correspondant au 03 février 2007 relati",
+        "copied_from": "REG-11-06.fr"
+      },
+      "target_work_id": "REG-07-01"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "07-01",
+        "date": "2007-02-03",
+        "raw": "règlement n°07-01 du 03 février 2007"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 03 février 2007 relatif aux règles applicables aux tran",
+        "copied_from": "REG-11-06.fr"
+      },
+      "target_work_id": "REG-07-01"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "07-01",
+        "date": "2007-02-03",
+        "raw": "règlement n°07-01 du 03 février 2007"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 03 février 2007 relatif aux règles applicables aux tran",
+        "copied_from": "REG-11-06.fr"
+      },
+      "target_work_id": "REG-07-01"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n°07-01 du 15 muharram 1428",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2011-06 du 19 octobre 2011 modifiant et complétant le règlement n°07-01 du 15 muharram 1428 correspondant au 03 février 2007 relati",
+        "copied_from": "REG-11-06.fr"
+      }
+    },
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n°07-01 du 03 février 2007",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 03 février 2007 relatif aux règles applicables aux tran",
+        "copied_from": "REG-11-06.fr"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n°07-01 du 15 muharram 1428",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2011-06 du 19 octobre 2011 modifiant et complétant le règlement n°07-01 du 15 muharram 1428 correspondant au 03 février 2007 relati",
+        "copied_from": "REG-11-06.fr"
+      }
+    },
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n°07-01 du 03 février 2007",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 03 février 2007 relatif aux règles applicables aux tran",
+        "copied_from": "REG-11-06.fr"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [
+    {
+      "work_id": "REG-16-04",
+      "document_id": "REG-16-04.fr",
+      "date": "2016-11-17",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Les dispositions contraires au présent règlement sont abrogées, notamment le règlement n°11-06 du 21 Dhou El Kaada 1432 correspondant"
+      }
+    }
+  ],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "REG-16-04",
+      "document_id": "REG-16-04.fr",
+      "date": "2016-11-17",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Les dispositions contraires au présent règlement sont abrogées, notamment le règlement n°11-06 du 21 Dhou El Kaada 1432 correspondant"
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [
+    "REG-11-06.fr",
+    "REG-11-06.fr~2"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [
+    {
+      "work_id": "REG-16-04",
+      "document_id": "REG-16-04.fr",
+      "date": "2016-11-17",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Les dispositions contraires au présent règlement sont abrogées, notamment le règlement n°11-06 du 21 Dhou El Kaada 1432 correspondant"
+      }
+    }
+  ],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n°07-01 du 15 muharram 1428",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2011-06 du 19 octobre 2011 modifiant et complétant le règlement n°07-01 du 15 muharram 1428 correspondant au 03 février 2007 relati",
+        "copied_from": "REG-11-06.fr"
+      }
+    },
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n°07-01 du 03 février 2007",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 03 février 2007 relatif aux règles applicables aux tran",
+        "copied_from": "REG-11-06.fr"
+      }
+    }
+  ],
+  "ocr_numeric_check": {
+    "units": 2,
+    "units_flagged": 0,
+    "units_compared_with_french": 1,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "نظام رقم 06-11 مؤرخ في 21 ذي القعدة عام 1432 الموافق 19 أكتوبس سنة 2011 يعدّل ويتمّم النظام رقم 07 — O1‏ المؤرخ في 15 pas‏ عام 1428 الموافق 3 فبراير سنة 2007 والمتعلّق بالقواعد المطبقة على المعاملات الهارية مع الشارج و الحسابات بالعملة الصعبة.\nبمقتضى الأمر رقم 75 -59 المؤرخ في 20 والمتضمن القانون التجاري:؛ المعدل و المتمم, وبمقتضى القانون رقم 79 - 07 المؤرخ في21 وبمقتضى الأمر رقم96 - 09المؤرخ في 19 شعبان عام 1416 الموافق 10 يناير سنة 1996 والمتعلق وبمقتضى الأمر رقم 96 -22 المؤرخ في 23 صفر عام 1417 الموافق 9 يوليو سنة 1996 والمتعلق بقمع رؤوّوس الأموال من و إلى الخار ج: المعدل والمتمم.\nوبمقتضى الأمر رقم03-01المؤرخ في أول جمادى الشانية عام 1422 الموافق 20 غشت سن ة2001 والمتعلق يتطوير الاستثمار, المعدل و المثمم.\nويبمقتضى الأمر رقم04-03المؤرخ في9!\nجمادى الأولى عام 1424 الموافق 19 يوليو سنة 2003 والمتعلق بالقواعد العامة المطبقة على عمليات استيراد البضائع وتصديرها.ء بمقتضى الأمر رقم 03 1 المؤرخ في 27 جمادى الثانية عام 1424 الموافق 26 غغهشت سنة 2003 والمتعلق بالنقد والقرضءالمعدل والمثمهءلا سيماالملة62 (النقطة ds (se‏ وبمقتضى القانون رقم 05 01 المؤرخ في 27 ذي الحجة عام 1425 المؤافق 6 فبراير سنة 2005 والمتعلق بالوقاية من تبييض الأموال و تمويل ba y‏ وبمقتضى الأمر 05- 05 المؤرخ في 18 جمادى والمتضمن قانون المالية التكميلي لسنة 2005, وبمقتضى القانون رقم 05 - 07 المؤّرخ في19 ربيعالأول عام 1426 الموافق 28 أبريل سنة 2005 والمتعلق بالحروقات, المعدل والمتمم, الأول عام 1422 الموافق 2 يونيو سنة 2001 والمتضمن وبمقتضى المرسوم الرئاسي المؤرخ في 10 ربيع الأول عام 1422 الموافق 2 يوئيو سن ة 2001 والمتضشمن تعيين أعضاء في مجلس إدارة بنك الجزائر,\n- وبمقتضىالمرسو الرئاسي المؤرخ في 26 تعيين عضو في مجلس إدارة بنك الجزائر:\nالقعدة عام 1424 الموافق 14 يناير سنة 2004 والمتضمن وبمقتضى المرسوم الرئاسي المؤرخ في 5 جمادى الأولى عام 1427 الموافق أول يونيو سنتة 2006 وبمقتضى النظام رقم 07 01 المؤرخ في5!\nمحرم عام 1428 الموافق 3 فبراير سنة 2007 والمتعلّق بالقواعد المطبقة على المعاملات الجارية مع الخارج والحسابات بالعملة الصعبة, lis‏ على هداولة مجلس التقد و vil‏ بتاريخ 19 أكتوبر Liu‏ 2011:\nالنظام رقم 07 - 01 المؤرخ في 15 محرم عام 1428 الموافق 3فبراير سنة 2007 والمتغلق بالقواهد المطبقة على",
+      "paragraphs": [
+        {
+          "text": "نظام رقم 06-11 مؤرخ في 21 ذي القعدة عام 1432 الموافق 19 أكتوبس سنة 2011 يعدّل ويتمّم النظام رقم 07 — O1‏ المؤرخ في 15 pas‏ عام 1428 الموافق 3 فبراير سنة 2007 والمتعلّق بالقواعد المطبقة على المعاملات الهارية مع الشارج و الحسابات بالعملة الصعبة.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "بمقتضى الأمر رقم 75 -59 المؤرخ في 20 والمتضمن القانون التجاري:؛ المعدل و المتمم, وبمقتضى القانون رقم 79 - 07 المؤرخ في21 وبمقتضى الأمر رقم96 - 09المؤرخ في 19 شعبان عام 1416 الموافق 10 يناير سنة 1996 والمتعلق وبمقتضى الأمر رقم 96 -22 المؤرخ في 23 صفر عام 1417 الموافق 9 يوليو سنة 1996 والمتعلق بقمع رؤوّوس الأموال من و إلى الخار ج: المعدل والمتمم.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى الأمر رقم03-01المؤرخ في أول جمادى الشانية عام 1422 الموافق 20 غشت سن ة2001 والمتعلق يتطوير الاستثمار, المعدل و المثمم.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ويبمقتضى الأمر رقم04-03المؤرخ في9!",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "جمادى الأولى عام 1424 الموافق 19 يوليو سنة 2003 والمتعلق بالقواعد العامة المطبقة على عمليات استيراد البضائع وتصديرها.ء بمقتضى الأمر رقم 03 1 المؤرخ في 27 جمادى الثانية عام 1424 الموافق 26 غغهشت سنة 2003 والمتعلق بالنقد والقرضءالمعدل والمثمهءلا سيماالملة62 (النقطة ds (se‏ وبمقتضى القانون رقم 05 01 المؤرخ في 27 ذي الحجة عام 1425 المؤافق 6 فبراير سنة 2005 والمتعلق بالوقاية من تبييض الأموال و تمويل ba y‏ وبمقتضى الأمر 05- 05 المؤرخ في 18 جمادى والمتضمن قانون المالية التكميلي لسنة 2005, وبمقتضى القانون رقم 05 - 07 المؤّرخ في19 ربيعالأول عام 1426 الموافق 28 أبريل سنة 2005 والمتعلق بالحروقات, المعدل والمتمم, الأول عام 1422 الموافق 2 يونيو سنة 2001 والمتضمن وبمقتضى المرسوم الرئاسي المؤرخ في 10 ربيع الأول عام 1422 الموافق 2 يوئيو سن ة 2001 والمتضشمن تعيين أعضاء في مجلس إدارة بنك الجزائر,",
+          "page_start": 1,
+          "page_end": 2
+        },
+        {
+          "text": "- وبمقتضىالمرسو الرئاسي المؤرخ في 26 تعيين عضو في مجلس إدارة بنك الجزائر:",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "القعدة عام 1424 الموافق 14 يناير سنة 2004 والمتضمن وبمقتضى المرسوم الرئاسي المؤرخ في 5 جمادى الأولى عام 1427 الموافق أول يونيو سنتة 2006 وبمقتضى النظام رقم 07 01 المؤرخ في5!",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "محرم عام 1428 الموافق 3 فبراير سنة 2007 والمتعلّق بالقواعد المطبقة على المعاملات الجارية مع الخارج والحسابات بالعملة الصعبة, lis‏ على هداولة مجلس التقد و vil‏ بتاريخ 19 أكتوبر Liu‏ 2011:",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "النظام رقم 07 - 01 المؤرخ في 15 محرم عام 1428 الموافق 3فبراير سنة 2007 والمتغلق بالقواهد المطبقة على",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "تعدل وتتمم المادة 61 من النظاءع رقم 7 - 01المؤرخ في 15 محرم عام 1428 الموافق 3 فبراير Liu‏ 2007 والمذكور أعلاه وتحرر كما يأتي :\n' ا لادة /6 : يمكن أن يبرع عقد التصدير خارج المحروقات نقدا أو لأجل.\nاعتبارا من تاريخالإرسال بالنسية للسلع أو تاريخ الإتجاز بالتسبة للخدمات:\nبالتصدير إلا بعد الحصول على ترخيص من المصالح الملدة 3 : ينشر هذا النظام في الجريدة الرسمية للجمهورية الجزائرية الديمقراطية الشعبية.\nحرر بالجزائر في 21 ذي القعدة عام 1432 الموافق 2011 Lis أكتوير‎ 19 pbs سمل‎",
+      "paragraphs": [
+        {
+          "text": "تعدل وتتمم المادة 61 من النظاءع رقم 7 - 01المؤرخ في 15 محرم عام 1428 الموافق 3 فبراير Liu‏ 2007 والمذكور أعلاه وتحرر كما يأتي :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "' ا لادة /6 : يمكن أن يبرع عقد التصدير خارج المحروقات نقدا أو لأجل.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "اعتبارا من تاريخالإرسال بالنسية للسلع أو تاريخ الإتجاز بالتسبة للخدمات:",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "بالتصدير إلا بعد الحصول على ترخيص من المصالح الملدة 3 : ينشر هذا النظام في الجريدة الرسمية للجمهورية الجزائرية الديمقراطية الشعبية.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "حرر بالجزائر في 21 ذي القعدة عام 1432 الموافق 2011 Lis أكتوير‎ 19 pbs سمل‎",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine",
+      "numerotation:premier_article=2"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.027,
+      "ocr_pages": [
+        1,
+        2
+      ],
+      "ocr_mean_confidence": 82.8
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/REG-11-06.ar.txt"
+}

@@ -1,0 +1,288 @@
+{
+  "document_id": "REG-94-11.fr",
+  "work_id": "REG-94-11",
+  "title": "Règlement n°94-11 du 13 avril 1994 modifiant le règlement n° 91-03 du 20 février 1991 relatif aux conditions d’exercice des opérations d’importation de biens en Algérie et de leur financement.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "94-11",
+  "number_source": "en-tête du document",
+  "date": "1994-04-12",
+  "date_raw": "N°94-11 DU 12 AVRIL 1994",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/reglement9411.pdf",
+      "uploaded": "2023-01-25T11:52:20"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Année 1994",
+  "source_url": "https://www.bank-of-algeria.dz/reglement-1994/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement9411.pdf",
+  "format": "pdf",
+  "file_hash": "1275d255321a263acbdeea8bed5b71cdafb04c8af9ac0c7df5db5c0b50e607b8",
+  "file_size": 60805,
+  "raw_path": "raw/1275d255321a__reglement9411.pdf",
+  "retrieved_at": "2026-10-05T13:23:23+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "777f4823550f0524eea30ce39173b576a9fcb2f9a70bfd2fab7eb38fd591762a",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/reglement-1994/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document20",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210221110233+01'00'",
+    "modDate": "D:20210221110233+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 1642,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": false,
+    "article_count": 0,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "incoherence_libelle_vs_document:date",
+    "meme_texte_plusieurs_fichiers",
+    "aucun_article_detecte"
+  ],
+  "title_document": "REGLEMENT N°94-11 DU 12 AVRIL 1994 MODIFIANT LE REGLEMENT N°91-03 DU 20 FEVRIER 1991 RELATIF AUX CONDITIONS D'EXERCICE DES OPERATIONS D'IMPORTATION DE BIENS EN ALGERIE ET DE LEUR FINANCEMENT",
+  "label_date": "1994-04-13",
+  "alias_urls": [],
+  "text_hash": "42305917c9a18030e8a00019077d460e9e78c6196b7ed7b4162bdc041ab1fb51",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "91-03",
+        "date": "1991-02-20",
+        "raw": "règlement n° 91-03 du 20 février 1991"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°94-11 du 13 avril 1994 modifiant le règlement n° 91-03 du 20 février 1991 relatif aux conditions d’exercice des o"
+      },
+      "target_work_id": "REG-91-03"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "91-03",
+        "date": "1991-02-20",
+        "raw": "Règlement n°91-03 du 20 Février 1991"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "ie et du Crédit en date du 12 avril 1994 : Promulgue le Règlement dont la teneur suit : Article unique : L'article 5 du Règlement n°91-03 du 20 Février 1991 relatif aux conditions d'exercice des o"
+      },
+      "target_work_id": "REG-91-03"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "REG-91-03",
+      "reference": "règlement n° 91-03 du 20 février 1991",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°94-11 du 13 avril 1994 modifiant le règlement n° 91-03 du 20 février 1991 relatif aux conditions d’exercice des o"
+      }
+    },
+    {
+      "work_id": "REG-91-03",
+      "reference": "Règlement n°91-03 du 20 Février 1991",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "ie et du Crédit en date du 12 avril 1994 : Promulgue le Règlement dont la teneur suit : Article unique : L'article 5 du Règlement n°91-03 du 20 Février 1991 relatif aux conditions d'exercice des o"
+      }
+    }
+  ],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-94-11.ar",
+    "REG-94-11.fr~2"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°94-11 DU 12 AVRIL 1994 MODIFIANT LE REGLEMENT N°91-03\nDU 20 FEVRIER 1991 RELATIF AUX CONDITIONS D'EXERCICE DES OPERATIONS\nD'IMPORTATION DE BIENS EN ALGERIE ET DE LEUR FINANCEMENT\nLe Gouverneur de la Banque d'Algérie,\n- Vu la Loi n°90-10 du 14 avril 1990 relative à la monnaie et au crédit notamment ses articles 32 à 41 et 44 ;\n- Vu le Décret Présidentiel du 21 juillet 1992 portant nomination du Gouverneur de la Banque d'Algérie ;\nVu les Décrets Présidentiels du 14 mai 1990 portant nomination de Vice-Gouverneurs de la\nBanque d'Algérie ;\n- Vu le Décret Exécutif du 1er juillet 1991 portant désignation de membres titulaires et suppléants au Conseil de la Monnaie et du Crédit ;\n- Vu le Décret Exécutif n°91-37 du 13 février 1991 relatif aux conditions d'intervention en matière de commerce extérieur ;\n- Vu le Règlement n°91-03 du 20 février 1991 relatif aux conditions d'exercice des opérations d'importation de biens en Algérie et de leur financement ;\n- Après délibération du Conseil de la Monnaie et du Crédit en date du 12 avril 1994 :\nPromulgue le Règlement dont la teneur suit :\nArticle unique : L'article 5 du Règlement n°91-03 du 20 Février 1991 relatif aux conditions d'exercice des opérations d'importation de biens en Algérie et de leur financement est modifié et rédigé comme suit :\n« Article 5 : Les modalités de paiement des importations et éventuellement leurs conditions de couverture par des crédits extérieurs appropriés seront définies, à chaque fois que de besoin, par une Instruction de la Banque d'Algérie ».\nLe Gouverneur\nAbdelouahab KERAMANE\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°94-11 DU 12 AVRIL 1994 MODIFIANT LE REGLEMENT N°91-03",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DU 20 FEVRIER 1991 RELATIF AUX CONDITIONS D'EXERCICE DES OPERATIONS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "D'IMPORTATION DE BIENS EN ALGERIE ET DE LEUR FINANCEMENT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d'Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la Loi n°90-10 du 14 avril 1990 relative à la monnaie et au crédit notamment ses articles 32 à 41 et 44 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 21 juillet 1992 portant nomination du Gouverneur de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Vu les Décrets Présidentiels du 14 mai 1990 portant nomination de Vice-Gouverneurs de la",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Exécutif du 1er juillet 1991 portant désignation de membres titulaires et suppléants au Conseil de la Monnaie et du Crédit ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Exécutif n°91-37 du 13 février 1991 relatif aux conditions d'intervention en matière de commerce extérieur ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Règlement n°91-03 du 20 février 1991 relatif aux conditions d'exercice des opérations d'importation de biens en Algérie et de leur financement ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Après délibération du Conseil de la Monnaie et du Crédit en date du 12 avril 1994 :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le Règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Article unique : L'article 5 du Règlement n°91-03 du 20 Février 1991 relatif aux conditions d'exercice des opérations d'importation de biens en Algérie et de leur financement est modifié et rédigé comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "« Article 5 : Les modalités de paiement des importations et éventuellement leurs conditions de couverture par des crédits extérieurs appropriés seront définies, à chaque fois que de besoin, par une Instruction de la Banque d'Algérie ».",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "incoherence_libelle_vs_document:date",
+      "meme_texte_plusieurs_fichiers",
+      "aucun_article_detecte"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.036
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-94-11.fr.txt"
+}

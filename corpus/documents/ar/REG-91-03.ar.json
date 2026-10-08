@@ -1,0 +1,553 @@
+{
+  "document_id": "REG-91-03.ar",
+  "work_id": "REG-91-03",
+  "title": "نظام رقم 91-03 المؤرخ في 20 فبراير 1991 يتعلق بشروط القيام بعمليات استيراد سلع إلى الجزائر وتمويلها.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "91-03",
+  "number_source": "libelle",
+  "date": "1991-02-20",
+  "date_raw": "المؤرخ في 20 فبراير 1991",
+  "date_source": "libelle",
+  "publication_date": "2023-02-28",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "règlements",
+  "subcategory": "تنظيم الصرف",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%aa%d9%86%d8%b8%d9%8a%d9%85-%d8%a7%d9%84%d8%b5%d8%b1%d9%81-2/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/02/03-91.pdf",
+  "format": "pdf",
+  "file_hash": "e206e3065025574d62b1d8a0fa2448997e6bcd927ff3c11c468fbd5bbd0260b6",
+  "file_size": 625170,
+  "raw_path": "raw/e206e3065025__03-91.pdf",
+  "retrieved_at": "2026-10-05T13:28:11+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 3,
+  "url_hash": "86daff8d53e748992b0c8be28b7c8a6b9f67a69db72bf8ec337b291d90c4956a",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%aa%d9%86%d8%b8%d9%8a%d9%85-%d8%a7%d9%84%d8%b5%d8%b1%d9%81-2/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "author": "lynda benhaha",
+    "creator": "Microsoft® Word 2016",
+    "producer": "Microsoft® Word 2016",
+    "creationDate": "D:20230226132059+01'00'",
+    "modDate": "D:20230226132059+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 3,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 721,
+        "ocr_confidence": 89.13432835820896
+      },
+      {
+        "page": 2,
+        "method": "ocr",
+        "chars": 2970,
+        "ocr_confidence": 88.58943089430895
+      },
+      {
+        "page": 3,
+        "method": "ocr",
+        "chars": 141,
+        "ocr_confidence": 90.6896551724138
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 8,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine",
+    "numerotation:articles_manquants:[6, 7]",
+    "numerotation:premier_article=2"
+  ],
+  "title_document": "نظام رقم 91 - 03 مؤرخ في 5 شعبان عام 1411 الموافق 0 فبراير سنة 1991. يتعلق بشروط القيام بعمليات استيراد سلع للجزائر وتمويلها. إن محافظ بنك الجزائر, - بمقتضى القانون رقم 90 10 East‏ في 19 - وبمقتضى المرسوم الرئاسي المؤرخ في 20 رمضان عام 1410 الموافق 15 أبريل سنة 1990 والمتضمن تعيين نواب محافظ بنك الجزائر,",
+  "alias_urls": [],
+  "text_hash": "6f78c7277b9b704ab69ed080c04863421426713385c43bef7d3dbd21e0019422",
+  "relations_out": [
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "90-04",
+        "date": "1990-09-08",
+        "raw": "règlement n°90-04 du 08 septembre 1990"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "nonobstant l'article 4 ci-après, les articles 2, 5, 6, 10 et 11 ainsi que l'alinéa « e » du point IV de l'article 8 du règlement n°90-04 du 08 septembre 1990 relatif à l'agrément et à l'installatio",
+        "copied_from": "REG-91-03.fr"
+      },
+      "target_work_id": "REG-90-04"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "REG-90-04",
+      "reference": "règlement n°90-04 du 08 septembre 1990",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "nonobstant l'article 4 ci-après, les articles 2, 5, 6, 10 et 11 ainsi que l'alinéa « e » du point IV de l'article 8 du règlement n°90-04 du 08 septembre 1990 relatif à l'agrément et à l'installatio",
+        "copied_from": "REG-91-03.fr"
+      }
+    }
+  ],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [
+    {
+      "work_id": "REG-94-11",
+      "document_id": "REG-94-11.fr",
+      "date": "1994-04-12",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°94-11 du 13 avril 1994 modifiant le règlement n° 91-03 du 20 février 1991 relatif aux conditions d’exercice des o"
+      }
+    },
+    {
+      "work_id": "REG-94-11",
+      "document_id": "REG-94-11.fr",
+      "date": "1994-04-12",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "ie et du Crédit en date du 12 avril 1994 : Promulgue le Règlement dont la teneur suit : Article unique : L'article 5 du Règlement n°91-03 du 20 Février 1991 relatif aux conditions d'exercice des o"
+      }
+    }
+  ],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée. Ce texte a été modifié/complété : consulter aussi les textes listés dans modifié_par / complété_par.",
+  "same_work_documents": [
+    "REG-91-03.fr",
+    "REG-91-03.fr~2"
+  ],
+  "complété_par": [],
+  "modifié_par": [
+    {
+      "work_id": "REG-94-11",
+      "document_id": "REG-94-11.fr",
+      "date": "1994-04-12",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°94-11 du 13 avril 1994 modifiant le règlement n° 91-03 du 20 février 1991 relatif aux conditions d’exercice des o"
+      }
+    },
+    {
+      "work_id": "REG-94-11",
+      "document_id": "REG-94-11.fr",
+      "date": "1994-04-12",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "ie et du Crédit en date du 12 avril 1994 : Promulgue le Règlement dont la teneur suit : Article unique : L'article 5 du Règlement n°91-03 du 20 Février 1991 relatif aux conditions d'exercice des o"
+      }
+    }
+  ],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "ocr_numeric_check": {
+    "units": 9,
+    "units_flagged": 0,
+    "units_compared_with_french": 8,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "نظام رقم 91 - 03 مؤرخ في 5 شعبان عام 1411 الموافق 0 فبراير سنة 1991. يتعلق بشروط القيام بعمليات استيراد سلع للجزائر وتمويلها.\nإن محافظ بنك الجزائر,\n- بمقتضى القانون رقم 90 10 East‏ في 19\n- وبمقتضى المرسوم الرئاسي المؤرخ في 20 رمضان عام 1410 الموافق 15 أبريل سنة 1990 والمتضمن تعيين نواب محافظ بنك الجزائر,\n- وبمقتضى المرسوم التنفيذي المؤرخ في 19 شوال عام 0 الموافق 14 مايو سنة 1990 والمتضمن تعيين الأعضاء الدائمين والأعضاء الاضافيين في مجلس النقد والقرض, في 28 رجب عام 1411 الموافق 13 فبراير سنة 1991 والمتعلق بشروط التدخل في مجال التجارة الخارجية,\n- وبناء على مداولة مجلس النقد والقرض المؤرخة في 20 فيراير سنة 1991, يصدر النظام الآتي نصه :\nممنوعة ولا مقيدة, وذلك بمجرد أن يكون له محل مصرق ودون أية موافقة أو des,‏ قبلية.",
+      "paragraphs": [
+        {
+          "text": "نظام رقم 91 - 03 مؤرخ في 5 شعبان عام 1411 الموافق 0 فبراير سنة 1991. يتعلق بشروط القيام بعمليات استيراد سلع للجزائر وتمويلها.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "إن محافظ بنك الجزائر,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- بمقتضى القانون رقم 90 10 East‏ في 19",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى المرسوم الرئاسي المؤرخ في 20 رمضان عام 1410 الموافق 15 أبريل سنة 1990 والمتضمن تعيين نواب محافظ بنك الجزائر,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى المرسوم التنفيذي المؤرخ في 19 شوال عام 0 الموافق 14 مايو سنة 1990 والمتضمن تعيين الأعضاء الدائمين والأعضاء الاضافيين في مجلس النقد والقرض, في 28 رجب عام 1411 الموافق 13 فبراير سنة 1991 والمتعلق بشروط التدخل في مجال التجارة الخارجية,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبناء على مداولة مجلس النقد والقرض المؤرخة في 20 فيراير سنة 1991, يصدر النظام الآتي نصه :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ممنوعة ولا مقيدة, وذلك بمجرد أن يكون له محل مصرق ودون أية موافقة أو des,‏ قبلية.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "يستفيد من أحكام هذا النظام؛ الوكلاء وتجار «Call‏ الذين يعتمدهم مجلس النقد والقرض بصفتهم مؤسسات خاضعة للقانون الجزائري وتتوفر فيهم الشروط المذكورة سابقا.\nوعليه وبصرف النظر عن المادة 4 ادناه: تلفى المواد :\n2 و5 و 6 و10 و11 وكذلك الفقرة ( ه ) من النقطة رابعا في sal‏ 8 من النظام رقم 90 - 04 المؤرخ في 8 سبتمبر سنة 1990 ولمتعلق باعتماد الوكلاء وتجار الجملة في",
+      "paragraphs": [
+        {
+          "text": "يستفيد من أحكام هذا النظام؛ الوكلاء وتجار «Call‏ الذين يعتمدهم مجلس النقد والقرض بصفتهم مؤسسات خاضعة للقانون الجزائري وتتوفر فيهم الشروط المذكورة سابقا.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "وعليه وبصرف النظر عن المادة 4 ادناه: تلفى المواد :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "2 و5 و 6 و10 و11 وكذلك الفقرة ( ه ) من النقطة رابعا في sal‏ 8 من النظام رقم 90 - 04 المؤرخ في 8 سبتمبر سنة 1990 ولمتعلق باعتماد الوكلاء وتجار الجملة في",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "يخضع كل استيراد لاجراء توطين اجباري يعين مقدما لدى بنك وسيط معتمد في الجزائرء باستثناء الواردات . المذكورة في الفقرة الثانية من المادة 7 ادناه.\nيدفع ثمن الواردات بالدنانير الجزائرية فقطءالتي تقابل قيمة الاستيراد بالعملات الصعبة؛ عن طريق بنك التوطين. ويطبق على المستورد السعر الرسمي للعملات تضمن هذه الاحكام حرية قابلية التحويل التجارية للدينار الجزائري في جميع المعاملات التجارية المنتظمة المذكورة في المادة الاولى اعلاه.",
+      "paragraphs": [
+        {
+          "text": "يخضع كل استيراد لاجراء توطين اجباري يعين مقدما لدى بنك وسيط معتمد في الجزائرء باستثناء الواردات . المذكورة في الفقرة الثانية من المادة 7 ادناه.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "يدفع ثمن الواردات بالدنانير الجزائرية فقطءالتي تقابل قيمة الاستيراد بالعملات الصعبة؛ عن طريق بنك التوطين. ويطبق على المستورد السعر الرسمي للعملات تضمن هذه الاحكام حرية قابلية التحويل التجارية للدينار الجزائري في جميع المعاملات التجارية المنتظمة المذكورة في المادة الاولى اعلاه.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "يسمح للمستوردين أن يدفعوا ثمن وارداتهم بواسطة اقتطاعات من حساباتهم بالعملات الصعبة المفتوحة لدى بنوك جزائرية؛: بصرف النظر عن المادة الاولى من هذا النظام.\nلا تخضع العمليات التي تتم عن طريق القيد في التي تنص عليها المادة 5 أدناه: ولا لآية موافقة قبلية.",
+      "paragraphs": [
+        {
+          "text": "يسمح للمستوردين أن يدفعوا ثمن وارداتهم بواسطة اقتطاعات من حساباتهم بالعملات الصعبة المفتوحة لدى بنوك جزائرية؛: بصرف النظر عن المادة الاولى من هذا النظام.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "لا تخضع العمليات التي تتم عن طريق القيد في التي تنص عليها المادة 5 أدناه: ولا لآية موافقة قبلية.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "يجب أن تغطى الواردات باعتمادات هملائمة وأن تستفيد لدى مغادرتها البلد المورد. تسهيلات في لأنواع المواد والكميات المتماثلة.\nوتتم تسوية التمويل وتشكيله بواسطة البنك الجزائري المستوطن لديه.\nفان الواردات التي تحترم شرط الاستفادة من هذه الاعتمادات أو تتوفر فيها شروطها يجب أن يدفع ثمنها من تعرض كل عملية خارجة عن اطار هذا التمويل؛ قبل لفحصها والبت فيها.\nالتجاري الخارجي التي يسنها هذا النظام في مجال الخاتمة من بنك أو من عدة بنوك.\nتكون ملاءة وقابلية الحسم المصرفية موضوع تقدير لدى البنك المستوطن لديه والذي يمكنه أن يشترط احتياطات مالية أو ضمانات يراها ضرورية.\nالتحويل قصد التفطية. وفقا لاحدى الكيفيات المبينة في وحينئذ يكون التوطين المصرفي اجبارياء ويستعمل هذا التوطين في القيام باجراءات الجمركة عند كل استيراد:\nباستثناء الواردات الخاضعة للنظام الجمركي gli‏ والعينات, والهبات. والطرود البريدية؛ والواردات بمقابل الدفع والبضائع المستلمة في اطار الضمان: والواردات الخاضعة للتسعيرة الجزافية. والواردات التي تقل قيمتها عن ثلاثين آلف دينار جزائري ( 30.000 دج ).\nان الادارة العامة للجمارك في وحدها المؤهلة لتحديد والالتزامات بالشراء التي وقع اتخاذهاء وفقا للنظام المعمول به قبل صدور هذا النظام للاستيراد والعرض للاستهلاك.",
+      "paragraphs": [
+        {
+          "text": "يجب أن تغطى الواردات باعتمادات هملائمة وأن تستفيد لدى مغادرتها البلد المورد. تسهيلات في لأنواع المواد والكميات المتماثلة.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "وتتم تسوية التمويل وتشكيله بواسطة البنك الجزائري المستوطن لديه.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "فان الواردات التي تحترم شرط الاستفادة من هذه الاعتمادات أو تتوفر فيها شروطها يجب أن يدفع ثمنها من تعرض كل عملية خارجة عن اطار هذا التمويل؛ قبل لفحصها والبت فيها.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "التجاري الخارجي التي يسنها هذا النظام في مجال الخاتمة من بنك أو من عدة بنوك.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "تكون ملاءة وقابلية الحسم المصرفية موضوع تقدير لدى البنك المستوطن لديه والذي يمكنه أن يشترط احتياطات مالية أو ضمانات يراها ضرورية.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "التحويل قصد التفطية. وفقا لاحدى الكيفيات المبينة في وحينئذ يكون التوطين المصرفي اجبارياء ويستعمل هذا التوطين في القيام باجراءات الجمركة عند كل استيراد:",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "باستثناء الواردات الخاضعة للنظام الجمركي gli‏ والعينات, والهبات. والطرود البريدية؛ والواردات بمقابل الدفع والبضائع المستلمة في اطار الضمان: والواردات الخاضعة للتسعيرة الجزافية. والواردات التي تقل قيمتها عن ثلاثين آلف دينار جزائري ( 30.000 دج ).",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "ان الادارة العامة للجمارك في وحدها المؤهلة لتحديد والالتزامات بالشراء التي وقع اتخاذهاء وفقا للنظام المعمول به قبل صدور هذا النظام للاستيراد والعرض للاستهلاك.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "لا تستفيد واردات الذهب والمعادن الثمينة يجب على مستوردي هذه المواد أن يدفعوا قيمة وارداتهم باقتطاعات من حساباتهم بالعملات الصعبة tail‏ لدى البنوك الجزائرية باستثناء بنك الجزائر والوكالة الوطنية لتحويل الذهب والمعادن الثمينة, التي تعمل مباشرة لحساب الدولة فقط.",
+      "paragraphs": [
+        {
+          "text": "لا تستفيد واردات الذهب والمعادن الثمينة يجب على مستوردي هذه المواد أن يدفعوا قيمة وارداتهم باقتطاعات من حساباتهم بالعملات الصعبة tail‏ لدى البنوك الجزائرية باستثناء بنك الجزائر والوكالة الوطنية لتحويل الذهب والمعادن الثمينة, التي تعمل مباشرة لحساب الدولة فقط.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "تلغى جميع القوانين والاحكام التنظيمية والنصوص السابقة والمتعلقة بالترخيص المسبق للاستيراد ومراقبة الصرف القبلية المرتبطة بعمليات التجارة الخارجية, لا سيما تلك المتعلقة بميزانيات العملات الصعبة ومخططات التمويل: كما تلغى المواد 2 و5 و6 و7 و10 و11 وكذلك الفقرة ( ه ) من النقطة رابعا في المادة 8 من النظام رقم 0 — 04 المؤرخ في 8 سبتمبر سنة 1990 والمتعلق باعتماد الوكلاء وتجار الجملة بالجزائر وتنصيبهم.",
+      "paragraphs": [
+        {
+          "text": "تلغى جميع القوانين والاحكام التنظيمية والنصوص السابقة والمتعلقة بالترخيص المسبق للاستيراد ومراقبة الصرف القبلية المرتبطة بعمليات التجارة الخارجية, لا سيما تلك المتعلقة بميزانيات العملات الصعبة ومخططات التمويل: كما تلغى المواد 2 و5 و6 و7 و10 و11 وكذلك الفقرة ( ه ) من النقطة رابعا في المادة 8 من النظام رقم 0 — 04 المؤرخ في 8 سبتمبر سنة 1990 والمتعلق باعتماد الوكلاء وتجار الجملة بالجزائر وتنصيبهم.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "يصدر بنك الجزائر تعليمة تحددء كلما والمتعاملين في مجال التجارة الخارجية الناجمة عن هذا النظام.",
+      "paragraphs": [
+        {
+          "text": "يصدر بنك الجزائر تعليمة تحددء كلما والمتعاملين في مجال التجارة الخارجية الناجمة عن هذا النظام.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "يطبق هذا النظام ابتداء من أول ابريل سنة 1991.\nحرر بالجزائر في 5 شعبان عام 1411 الموافق 20 pi‏ سنة 1991.\nعبد الرحمن رستمي حاج ناصر",
+      "paragraphs": [
+        {
+          "text": "يطبق هذا النظام ابتداء من أول ابريل سنة 1991.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "حرر بالجزائر في 5 شعبان عام 1411 الموافق 20 pi‏ سنة 1991.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "عبد الرحمن رستمي حاج ناصر",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine",
+      "numerotation:articles_manquants:[6, 7]",
+      "numerotation:premier_article=2"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.025,
+      "ocr_pages": [
+        1,
+        2,
+        3
+      ],
+      "ocr_mean_confidence": 89.5
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/REG-91-03.ar.txt"
+}

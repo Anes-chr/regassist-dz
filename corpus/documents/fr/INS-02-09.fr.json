@@ -1,0 +1,331 @@
+{
+  "document_id": "INS-02-09.fr",
+  "work_id": "INS-02-09",
+  "title": "Instruction n°02-2009 du 25 février 2009 relative au taux d’intérêt applicable à la facilite de dépôt rémunère.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "02-2009",
+  "number_source": "en-tête du document",
+  "date": "2009-02-25",
+  "date_raw": "N°02-2009 DU 25 FEVRIER 2009",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-02",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction022009.pdf",
+      "uploaded": "2023-01-24T10:39:37"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Année 2009",
+  "source_url": "https://www.bank-of-algeria.dz/annee-2009/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/02/instruction022009.pdf",
+  "format": "pdf",
+  "file_hash": "98765f28d78432b18dbeb336ec52f9a36281d8201aa618d5a171dd57ccc066c0",
+  "file_size": 43253,
+  "raw_path": "raw/98765f28d784__instruction022009.pdf",
+  "retrieved_at": "2026-10-05T13:20:14+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "e8cd4b808c1f10dce1d32c0ea67ed6fc9a82fbcf673e5cae28423feda170f388",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-2009/",
+    "https://www.bank-of-algeria.dz/depots-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Microsoft Word - instruction022009",
+    "author": "chahra.yahiaoui",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "creationDate": "D:20210211112621+01'00'",
+    "modDate": "D:20210211112621+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 453,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 2,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "meme_texte_plusieurs_fichiers"
+  ],
+  "title_document": "INSTRUCTION N°02-2009 DU 25 FEVRIER 2009 RELATIVE AU TAUX D'INTERET APPLICABLE A LA FACILITE DE DÉPÔT REMUNERE",
+  "alias_urls": [],
+  "text_hash": "ec583f6011a6c94a91b784f3945098f216e62f246a5fe075a7c88c018b9796e9",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [
+    {
+      "work_id": "INS-09-16",
+      "document_id": "INS-09-16.fr",
+      "date": "2016-10-26",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions de l’instruction n°02-2009 du 25 février 2009."
+      }
+    }
+  ],
+  "modifie_par": [
+    {
+      "work_id": "INS-09-16",
+      "document_id": "INS-09-16.fr",
+      "date": "2016-10-26",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°09-2016 du 26 octobre modifiant l’instruction n°02-09 du 25 février 2009 relative aux taux d’intérêt applicable"
+      }
+    },
+    {
+      "work_id": "INS-09-16",
+      "document_id": "INS-09-16.fr",
+      "date": "2016-10-26",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier l’instruction n°02-09 relative au taux d’intérêt applicable à"
+      }
+    }
+  ],
+  "complete_par": [],
+  "remplace_par": [
+    {
+      "work_id": "INS-09-16",
+      "document_id": "INS-09-16.fr",
+      "date": "2016-10-26",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions de l’instruction n°02-2009 du 25 février 2009."
+      }
+    }
+  ],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "INS-09-16",
+      "document_id": "INS-09-16.fr",
+      "date": "2016-10-26",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions de l’instruction n°02-2009 du 25 février 2009."
+      }
+    },
+    {
+      "work_id": "INS-09-16",
+      "document_id": "INS-09-16.fr",
+      "date": "2016-10-26",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions de l’instruction n°02-2009 du 25 février 2009."
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [
+    "INS-02-09.ar",
+    "INS-02-09.fr~2"
+  ],
+  "complété_par": [],
+  "modifié_par": [
+    {
+      "work_id": "INS-09-16",
+      "document_id": "INS-09-16.fr",
+      "date": "2016-10-26",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°09-2016 du 26 octobre modifiant l’instruction n°02-09 du 25 février 2009 relative aux taux d’intérêt applicable"
+      }
+    },
+    {
+      "work_id": "INS-09-16",
+      "document_id": "INS-09-16.fr",
+      "date": "2016-10-26",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier l’instruction n°02-09 relative au taux d’intérêt applicable à"
+      }
+    }
+  ],
+  "abrogé_par": [
+    {
+      "work_id": "INS-09-16",
+      "document_id": "INS-09-16.fr",
+      "date": "2016-10-26",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions de l’instruction n°02-2009 du 25 février 2009."
+      }
+    }
+  ],
+  "remplacé_par": [
+    {
+      "work_id": "INS-09-16",
+      "document_id": "INS-09-16.fr",
+      "date": "2016-10-26",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions de l’instruction n°02-2009 du 25 février 2009."
+      }
+    }
+  ],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°02-2009 DU 25 FEVRIER 2009 RELATIVE AU\nTAUX D'INTERET APPLICABLE A LA FACILITE DE DÉPÔT REMUNERE",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°02-2009 DU 25 FEVRIER 2009 RELATIVE AU",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "TAUX D'INTERET APPLICABLE A LA FACILITE DE DÉPÔT REMUNERE",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Conformément aux dispositions de l'article 4 de l'instruction n°04-05 du 14 juin 2005 relative à la facilité de dépôt rémunéré, le taux d'intérêt applicable à la facilité de dépôt rémunéré est fixé à 0,30%.",
+      "paragraphs": [
+        {
+          "text": "Conformément aux dispositions de l'article 4 de l'instruction n°04-05 du 14 juin 2005 relative à la facilité de dépôt rémunéré, le taux d'intérêt applicable à la facilité de dépôt rémunéré est fixé à 0,30%.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction prend effet à compter du 1er mars 2009.\nLe Gouverneur\nMohammed LAKSACI",
+      "paragraphs": [
+        {
+          "text": "La présente instruction prend effet à compter du 1er mars 2009.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "meme_texte_plusieurs_fichiers"
+    ],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.041
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-02-09.fr.txt"
+}

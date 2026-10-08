@@ -1,0 +1,315 @@
+{
+  "document_id": "INS-40-95.fr",
+  "work_id": "INS-40-95",
+  "title": "Instruction n°40-95 du 28 mai 1995 portant modification de l’Instruction n°23-92 du 10 juin 1992 fixant les conditions et les modalités d’émission de titres de transport aérien et de transfert des excédents de recettes.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "40-95",
+  "number_source": "en-tête du document",
+  "date": "1995-05-28",
+  "date_raw": "N°40-95 DU 28 MAI 1995",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2025/12/instruction4095.pdf",
+      "uploaded": "2025-12-10T15:56:43"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Année 1995",
+  "source_url": "https://www.bank-of-algeria.dz/annee-1995/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction4095.pdf",
+  "format": "pdf",
+  "file_hash": "905460abaa89f4e2e504f3b0bec3df4bf5b3930b6e78f6d024a7165b8570b3b8",
+  "file_size": 30563,
+  "raw_path": "raw/905460abaa89__instruction4095.pdf",
+  "retrieved_at": "2026-10-05T14:17:40+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "69122d1037a86c07f31874f8228829f5a5981f63f67338d5d913ceaa1de16def",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-1995/",
+    "https://www.bank-of-algeria.dz/importations-exportations-instruction/",
+    "https://www.bank-of-algeria.dz/transfert-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document2",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200812125322+01'00'",
+    "modDate": "D:20200812125322+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 1456,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 3,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°40-95 DU 28 MAI 1995 PORTANT MODIFICATION DE L'INSTRUCTION N°23-92 DU 10 JUIN 1992 FIXANT LES CONDITIONS ET LES MODALITES D'EMISSION DE",
+  "alias_urls": [
+    {
+      "document_url": "https://www.bank-of-algeria.dz/stoodroa/2025/12/instruction4095.pdf",
+      "source_url": "https://www.bank-of-algeria.dz/importations-exportations-instruction/",
+      "title": "Instruction n°40-95 du 28 mai 1995 portant modification de l’instruction n°23-92 du 10 juin 1992 fixant les conditions et les modalités d’émission de titres de transport aérien et de transfert des excédents de recettes."
+    }
+  ],
+  "text_hash": "173a687c7f005cd5a47adf418513ce5ef7c8651203ace12f58aadad8c6af9dc6",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "23-92",
+        "date": "1992-06-10",
+        "raw": "Instruction n°23-92 du 10 juin 1992"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°40-95 du 28 mai 1995 portant modification de l’Instruction n°23-92 du 10 juin 1992 fixant les conditions et les modalités"
+      },
+      "target_work_id": "INS-23-92"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "23-92",
+        "date": "1992-06-10",
+        "raw": "Instruction n°23-92 du 10 Juin 1992"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente Instruction a pour objet de modifier les dispositions de l'alinéa \"b\" du paragraphe II.1.1 de l'Instruction n°23-92 du 10 Juin 1992 fixant les conditions et les modalités"
+      },
+      "target_work_id": "INS-23-92"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-23-92",
+      "reference": "Instruction n°23-92 du 10 juin 1992",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°40-95 du 28 mai 1995 portant modification de l’Instruction n°23-92 du 10 juin 1992 fixant les conditions et les modalités"
+      }
+    },
+    {
+      "work_id": "INS-23-92",
+      "reference": "Instruction n°23-92 du 10 Juin 1992",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente Instruction a pour objet de modifier les dispositions de l'alinéa \"b\" du paragraphe II.1.1 de l'Instruction n°23-92 du 10 Juin 1992 fixant les conditions et les modalités"
+      }
+    }
+  ],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°40-95 DU 28 MAI 1995 PORTANT MODIFICATION\nDE L'INSTRUCTION N°23-92 DU 10 JUIN 1992 FIXANT LES CONDITIONS\nET LES MODALITES D'EMISSION DE TITRES DE TRANSPORT AERIEN ET\nDE TRANSFERT DES EXCEDENTS DE RECETTES",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°40-95 DU 28 MAI 1995 PORTANT MODIFICATION",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DE L'INSTRUCTION N°23-92 DU 10 JUIN 1992 FIXANT LES CONDITIONS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET LES MODALITES D'EMISSION DE TITRES DE TRANSPORT AERIEN ET",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DE TRANSFERT DES EXCEDENTS DE RECETTES",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente Instruction a pour objet de modifier les dispositions de l'alinéa \"b\" du paragraphe II.1.1 de l'Instruction n°23-92 du 10 Juin 1992 fixant les conditions et les modalités d'émission de titres de transport aérien et de transfert des excédents de recettes.",
+      "paragraphs": [
+        {
+          "text": "La présente Instruction a pour objet de modifier les dispositions de l'alinéa \"b\" du paragraphe II.1.1 de l'Instruction n°23-92 du 10 Juin 1992 fixant les conditions et les modalités d'émission de titres de transport aérien et de transfert des excédents de recettes.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les dispositions de l'alinéa \"b\" du paragraphe II.1.1 sont modifiées et rédigées comme suit :\n\"b - au profit des associations et des personnes physiques résidentes sur les parcours de la Zone A situés exclusivement en Europe, Afrique et Moyen Orient au sens géographique, étant entendu que le billet ne peut prévoir plus d'une escale entre l'Algérie et le point de destination et vice-versa (les escales techniques non inscrites sur le billet ne sont pas prises en considération).\n\"En tout état de cause, le coût d'un billet comportant une ou deux escales ne doit en aucun cas dépasser de plus de 100 % (cent pour cent) le prix d'un billet direct de classe équivalente vers la destination cible finale. Au-delà de la franchise de 100 % précitée le surcoût devra faire l'objet de paiement en devises\".",
+      "paragraphs": [
+        {
+          "text": "Les dispositions de l'alinéa \"b\" du paragraphe II.1.1 sont modifiées et rédigées comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "\"b - au profit des associations et des personnes physiques résidentes sur les parcours de la Zone A situés exclusivement en Europe, Afrique et Moyen Orient au sens géographique, étant entendu que le billet ne peut prévoir plus d'une escale entre l'Algérie et le point de destination et vice-versa (les escales techniques non inscrites sur le billet ne sont pas prises en considération).",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "\"En tout état de cause, le coût d'un billet comportant une ou deux escales ne doit en aucun cas dépasser de plus de 100 % (cent pour cent) le prix d'un billet direct de classe équivalente vers la destination cible finale. Au-delà de la franchise de 100 % précitée le surcoût devra faire l'objet de paiement en devises\".",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction prend effet à compter de la date de sa signature.\nLe Gouverneur\nAbdelouahab KERAMANE",
+      "paragraphs": [
+        {
+          "text": "La présente instruction prend effet à compter de la date de sa signature.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.041
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-40-95.fr.txt"
+}

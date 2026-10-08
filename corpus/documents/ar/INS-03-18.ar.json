@@ -1,0 +1,373 @@
+{
+  "document_id": "INS-03-18.ar",
+  "work_id": "INS-03-18",
+  "title": "تعليمة رقم 03-2018 المؤرخة في 31 ماي 2018، المعدلة والمتممة للتعليمة رقم 02-2004 المؤرخة في 13 ماي 2004، المتعلقة بنظام الاحتياطات الإجبارية.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "03-2018",
+  "number_source": "libelle",
+  "date": "2018-05-31",
+  "date_raw": "المؤرخة في 31 ماي 2018",
+  "date_source": "libelle",
+  "publication_date": "2023-03-02",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "instructions",
+  "subcategory": "أدوات السياسة النقدية",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a3%d8%af%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d9%86%d9%82%d8%af%d9%8a%d8%a9/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/03/03-18.pdf",
+  "format": "pdf",
+  "file_hash": "efc5eaec66723c16e2f5271d3cb6669dda62557392c03dc525c22dbcdbc0a387",
+  "file_size": 219766,
+  "raw_path": "raw/efc5eaec6672__03-18.pdf",
+  "retrieved_at": "2026-10-05T13:29:25+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 1,
+  "url_hash": "dd06052a23ee8aa419d4fb97e3b61c26ec0705115404edd4ad344ce7e9654ef4",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%a3%d8%af%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d9%86%d9%82%d8%af%d9%8a%d8%a9/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "author": "lynda benhaha",
+    "creator": "Microsoft® Word 2016",
+    "producer": "Microsoft® Word 2016",
+    "creationDate": "D:20230301102239+01'00'",
+    "modDate": "D:20230301102239+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 603,
+        "ocr_confidence": 91.0
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 3,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_uncertain_numbers:1",
+    "ocr_utilise_verification_humaine"
+  ],
+  "title_document": null,
+  "alias_urls": [],
+  "text_hash": "2d7dbeb58fc61b666ca928cbc0b36ba304ca6b1c40ead3b46c3e6e5477d36c58",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-2004",
+        "date": "2004-05-13",
+        "raw": "instruction n°02-2004 du 13 mai 2004"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°03-2018 du 31 mai 2018 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat",
+        "copied_from": "INS-03-18.fr"
+      },
+      "target_work_id": "INS-02-04"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-2004",
+        "date": "2004-05-13",
+        "raw": "instruction n°02-2004 du 13 mai 2004"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°03-2018 du 31 mai 2018 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat",
+        "copied_from": "INS-03-18.fr"
+      },
+      "target_work_id": "INS-02-04"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-2004",
+        "date": "2004-05-13",
+        "raw": "instruction n°02-2004 du 13 mai 2004"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat",
+        "copied_from": "INS-03-18.fr"
+      },
+      "target_work_id": "INS-02-04"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-2004",
+        "date": "2004-05-13",
+        "raw": "instruction n°02-2004 du 13 mai 2004"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat",
+        "copied_from": "INS-03-18.fr"
+      },
+      "target_work_id": "INS-02-04"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-02-04",
+      "reference": "instruction n°02-2004 du 13 mai 2004",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°03-2018 du 31 mai 2018 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat",
+        "copied_from": "INS-03-18.fr"
+      }
+    },
+    {
+      "work_id": "INS-02-04",
+      "reference": "instruction n°02-2004 du 13 mai 2004",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat",
+        "copied_from": "INS-03-18.fr"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "INS-02-04",
+      "reference": "instruction n°02-2004 du 13 mai 2004",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°03-2018 du 31 mai 2018 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat",
+        "copied_from": "INS-03-18.fr"
+      }
+    },
+    {
+      "work_id": "INS-02-04",
+      "reference": "instruction n°02-2004 du 13 mai 2004",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat",
+        "copied_from": "INS-03-18.fr"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-03-18.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "INS-02-04",
+      "reference": "instruction n°02-2004 du 13 mai 2004",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°03-2018 du 31 mai 2018 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat",
+        "copied_from": "INS-03-18.fr"
+      }
+    },
+    {
+      "work_id": "INS-02-04",
+      "reference": "instruction n°02-2004 du 13 mai 2004",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat",
+        "copied_from": "INS-03-18.fr"
+      }
+    }
+  ],
+  "ocr_numeric_check": {
+    "units": 4,
+    "units_flagged": 1,
+    "units_compared_with_french": 3,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "التعليمة رقم 2018-03 المؤرخة في 31 ماي 2018 المعدلة و المتممة للتعليمة رقم 2004-2 المؤرخة في 13 ماي 2004 المتعلقة بنظام الاحتياطيات الإجبارية",
+      "paragraphs": [
+        {
+          "text": "التعليمة رقم 2018-03 المؤرخة في 31 ماي 2018 المعدلة و المتممة للتعليمة رقم 2004-2 المؤرخة في 13 ماي 2004 المتعلقة بنظام الاحتياطيات الإجبارية",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تهدف هذه التعليمة إلى تعديل وإتمام التعليمة رقم 2004-02 المؤرخة في 3 ماي 2004 المتعلقة بنظام الاحتياطيات الإجبارية.",
+      "paragraphs": [
+        {
+          "text": "تهدف هذه التعليمة إلى تعديل وإتمام التعليمة رقم 2004-02 المؤرخة في 3 ماي 2004 المتعلقة بنظام الاحتياطيات الإجبارية.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "ثعدل المادة 3 من التعليمة رقم 2004-02 المؤرخة في 13 ماي 2004 المتعلقة بنظام الاحتياطيات الإجبارية وتحرر على النحو التالي :\n« المادة 3 : يُحدّد معدل الاحتياطيات الإجبارية ب 010؟ من وعاء الاحتياطيات الإجبارية المنصوص عليه في المادة 2 dei‏",
+      "paragraphs": [
+        {
+          "text": "ثعدل المادة 3 من التعليمة رقم 2004-02 المؤرخة في 13 ماي 2004 المتعلقة بنظام الاحتياطيات الإجبارية وتحرر على النحو التالي :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "« المادة 3 : يُحدّد معدل الاحتياطيات الإجبارية ب 010؟ من وعاء الاحتياطيات الإجبارية المنصوص عليه في المادة 2 dei‏",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يسري مفعول هذه التعليمة ابتداء من تاريخ 5 حوان 2018 المحافظ محمد لوكال",
+      "paragraphs": [
+        {
+          "text": "يسري مفعول هذه التعليمة ابتداء من تاريخ 5 حوان 2018 المحافظ محمد لوكال",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_uncertain_numbers:1",
+      "ocr_utilise_verification_humaine"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.03,
+      "ocr_pages": [
+        1
+      ],
+      "ocr_mean_confidence": 91.0
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/INS-03-18.ar.txt"
+}

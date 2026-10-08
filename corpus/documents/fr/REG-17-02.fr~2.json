@@ -1,0 +1,494 @@
+{
+  "document_id": "REG-17-02.fr~2",
+  "work_id": "REG-17-02",
+  "title": "Règlement n°2017-02 du 25 septembre 2017 modifiant et complétant le règlement n°2007-01 du 03 février 2007 relatif aux règles applicables aux transactions courantes avec l’étranger et aux comptes devises.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "2017-02",
+  "number_source": "en-tête du document",
+  "date": "2017-09-25",
+  "date_raw": "N°2017-02 DU 25 SEPTEMBRE 2017",
+  "date_source": "en-tête du document",
+  "publication_date": "2023-01-25",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Règlementation des changes",
+  "source_url": "https://www.bank-of-algeria.dz/devises-reglement/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/reglement201702.pdf",
+  "format": "pdf",
+  "file_hash": "755dd6e7f5f848237bdf8880ccc6ed90a6fbfa96341f4228a7a4d3542a838365",
+  "file_size": 45325,
+  "raw_path": "raw/755dd6e7f5f8__reglement201702.pdf",
+  "retrieved_at": "2026-10-05T13:26:56+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "3e0b40c8e19f2c57fc6fdc2bc30dac8dbede4f14a370fe75d59d0946e35d9a3f",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/devises-reglement/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document2",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200728103934+01'00'",
+    "modDate": "D:20200728103934+01'00'"
+  },
+  "hijri_date_raw": "23 Safar 1417",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 3488,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 582,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 3,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "meme_texte_plusieurs_fichiers"
+  ],
+  "title_document": "REGLEMENT N°2017-02 DU 25 SEPTEMBRE 2017 MODIFIANT ET COMPLETANT LE REGLEMENT N°2007-01 DU 03 FEVRIER 2007 RELATIF AUX REGLES APPLICABLES AUX TRANSACTIONS COURANTES AVEC L’ETRANGER ET AUX COMPTES DEVISES",
+  "alias_urls": [],
+  "text_hash": "90b3039acc157f7fcee006d6010c8908dac52e7b3e2b8b75118e67df84983016",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "2007-01",
+        "date": "2007-02-03",
+        "raw": "règlement n°2007-01 du 03 février 2007"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2017-02 du 25 septembre 2017 modifiant et complétant le règlement n°2007-01 du 03 février 2007 relatif aux règles applicables aux tran"
+      },
+      "target_work_id": "REG-07-01"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "2007-01",
+        "date": "2007-02-03",
+        "raw": "règlement n°2007-01 du 03 février 2007"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2017-02 du 25 septembre 2017 modifiant et complétant le règlement n°2007-01 du 03 février 2007 relatif aux règles applicables aux tran"
+      },
+      "target_work_id": "REG-07-01"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "07-01",
+        "date": null,
+        "raw": "règlement n°07-01 du 15 Moharram 1428"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modif"
+      },
+      "target_work_id": "REG-07-01"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "07-01",
+        "date": null,
+        "raw": "règlement n°07-01 du 15 Moharram 1428"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modif"
+      },
+      "target_work_id": "REG-07-01"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n°2007-01 du 03 février 2007",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2017-02 du 25 septembre 2017 modifiant et complétant le règlement n°2007-01 du 03 février 2007 relatif aux règles applicables aux tran"
+      }
+    },
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n°07-01 du 15 Moharram 1428",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modif"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n°2007-01 du 03 février 2007",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2017-02 du 25 septembre 2017 modifiant et complétant le règlement n°2007-01 du 03 février 2007 relatif aux règles applicables aux tran"
+      }
+    },
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n°07-01 du 15 Moharram 1428",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modif"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-17-02.ar",
+    "REG-17-02.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n°2007-01 du 03 février 2007",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2017-02 du 25 septembre 2017 modifiant et complétant le règlement n°2007-01 du 03 février 2007 relatif aux règles applicables aux tran"
+      }
+    },
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n°07-01 du 15 Moharram 1428",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modif"
+      }
+    }
+  ],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°2017-02 DU 25 SEPTEMBRE 2017 MODIFIANT ET COMPLETANT\nLE REGLEMENT N°2007-01 DU 03 FEVRIER 2007 RELATIF\nAUX REGLES APPLICABLES AUX TRANSACTIONS COURANTES\nAVEC L’ETRANGER ET AUX COMPTES DEVISES\nLe Gouverneur de la Banque d’Algérie,\n- Vu l’ordonnance n°75-59 du 26 septembre 1975, modifiée et complétée, portant code de commerce ;\n- Vu la loi n°79-07 du 21 juillet 1979, modifiée et complétée, portant code des douanes ;\n- Vu l’ordonnance n°96-09 du 19 Châabane 1416 correspondant au 10 janvier 1996 relative au crédit-bail ;\n- Vu l’ordonnance n°96-22 du 23 Safar 1417 correspondant au 09 juillet 1996, modifiée et complétée, relative à la répression de l’infraction à la législation et à la réglementation des changes et des mouvements de capitaux de et vers l’étranger ;\n- Vu l’ordonnance n°03-04 du 19 Joumada El Oula 1424 correspondant au 19 juillet 2003, modifiée et complétée relative aux règles générales applicables aux opérations d’importation et d’exportation de marchandises ;\n- Vu l’ordonnance n°03-11 du 27 Joumada Ethani 1424 correspondant au 26 août 2003, modifiée et complétée, relative à la monnaie et au crédit, notamment son article 62 point m ;\n- Vu la loi n°05-01 du 27 Dhou El hidja 1425 correspondant au 06 février 2005, modifiée et complétée, relative à la prévention et à la lutte contre le blanchiment d’argent et le financement du terrorisme ;\n- Vu l’ordonnance n°05-05 du 18 Joumada Ethania 1426 correspondant au 25 juillet 2005 portant loi de finances complémentaire pour 2005 ;\n- Vu la loi n°05-07 du 19 Rabie El Aouel 1426 correspondant au 28 avril 2005, modifiée et complétée, relative aux hydrocarbures ;\n- Vu la loi n° 16-09 du 29 chawouel 1437 correspondant au 3 aout 2016 relative à la promotion de l’investissement ;\n- Vu le décret présidentiel du 24 Dhou El Kaâda 1424 correspondant au 14 janvier 2004 portant nomination des membres du conseil de la monnaie et du crédit de la Banque d’Algérie ;\n- Vu le décret présidentiel du 05 Joumada El Oula 1427 correspondant au 1er juin 2006, portant nomination d’un vice-gouverneur de la Banque d’Algérie ;\n- Vu le décret présidentiel du 05 Safar 1437 correspondant au 17 novembre 2015 portant nomination de membres du conseil d’administration de la Banque d’Algérie ;\n- Vu le décret présidentiel du 24 Chaabane 1437 correspondant au 31 mai 2016 portant nomination du Gouverneur de la Banque d’Algérie ;\n- Vu le décret présidentiel du 17 Safar 1438 correspondant au 17 novembre 2016 portant nomination de Vice-Gouverneurs de la Banque d’Algérie ;\n- Vu le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modifié et complété, relatif aux règles applicables aux transactions courantes avec l’étranger et aux comptes devises ;\n- Vu le règlement n°12-03 du 14 Moharam 1434 correspondant au 28 novembre 2012 relatif à la prévention et à la lutte contre le blanchiment d’argent et le financement du terrorisme ;\n- Vu les délibérations du Conseil de la monnaie et du crédit en date du 25 septembre 2017 ;\nPromulgue le règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°2017-02 DU 25 SEPTEMBRE 2017 MODIFIANT ET COMPLETANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "LE REGLEMENT N°2007-01 DU 03 FEVRIER 2007 RELATIF",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AUX REGLES APPLICABLES AUX TRANSACTIONS COURANTES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AVEC L’ETRANGER ET AUX COMPTES DEVISES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d’Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’ordonnance n°75-59 du 26 septembre 1975, modifiée et complétée, portant code de commerce ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la loi n°79-07 du 21 juillet 1979, modifiée et complétée, portant code des douanes ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’ordonnance n°96-09 du 19 Châabane 1416 correspondant au 10 janvier 1996 relative au crédit-bail ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’ordonnance n°96-22 du 23 Safar 1417 correspondant au 09 juillet 1996, modifiée et complétée, relative à la répression de l’infraction à la législation et à la réglementation des changes et des mouvements de capitaux de et vers l’étranger ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’ordonnance n°03-04 du 19 Joumada El Oula 1424 correspondant au 19 juillet 2003, modifiée et complétée relative aux règles générales applicables aux opérations d’importation et d’exportation de marchandises ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’ordonnance n°03-11 du 27 Joumada Ethani 1424 correspondant au 26 août 2003, modifiée et complétée, relative à la monnaie et au crédit, notamment son article 62 point m ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la loi n°05-01 du 27 Dhou El hidja 1425 correspondant au 06 février 2005, modifiée et complétée, relative à la prévention et à la lutte contre le blanchiment d’argent et le financement du terrorisme ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’ordonnance n°05-05 du 18 Joumada Ethania 1426 correspondant au 25 juillet 2005 portant loi de finances complémentaire pour 2005 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la loi n°05-07 du 19 Rabie El Aouel 1426 correspondant au 28 avril 2005, modifiée et complétée, relative aux hydrocarbures ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la loi n° 16-09 du 29 chawouel 1437 correspondant au 3 aout 2016 relative à la promotion de l’investissement ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 24 Dhou El Kaâda 1424 correspondant au 14 janvier 2004 portant nomination des membres du conseil de la monnaie et du crédit de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 05 Joumada El Oula 1427 correspondant au 1er juin 2006, portant nomination d’un vice-gouverneur de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 05 Safar 1437 correspondant au 17 novembre 2015 portant nomination de membres du conseil d’administration de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 24 Chaabane 1437 correspondant au 31 mai 2016 portant nomination du Gouverneur de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 17 Safar 1438 correspondant au 17 novembre 2016 portant nomination de Vice-Gouverneurs de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modifié et complété, relatif aux règles applicables aux transactions courantes avec l’étranger et aux comptes devises ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n°12-03 du 14 Moharam 1434 correspondant au 28 novembre 2012 relatif à la prévention et à la lutte contre le blanchiment d’argent et le financement du terrorisme ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu les délibérations du Conseil de la monnaie et du crédit en date du 25 septembre 2017 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modifié et complété, relatif aux règles applicables aux transactions courantes avec l’étranger et aux comptes devises.",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modifié et complété, relatif aux règles applicables aux transactions courantes avec l’étranger et aux comptes devises.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "L’article 29 du règlement n°07-01 du 03 février 2007 suscité est modifié et complété comme suit :\n« Article 29 : A l’exception des opérations en transit et des opérations visées à l’article 33 ci-dessous, toute opération d’importation ou d’exportation de biens ou de services est soumise à l’obligation de domiciliation auprès d’un intermédiaire agréé.\nLa domiciliation est préalable à tout transfert/rapatriement de fonds, engagement et/ou au dédouanement.\nLa Banque d’Algérie peut édicter toute condition jugée utile »",
+      "paragraphs": [
+        {
+          "text": "L’article 29 du règlement n°07-01 du 03 février 2007 suscité est modifié et complété comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "« Article 29 : A l’exception des opérations en transit et des opérations visées à l’article 33 ci-dessous, toute opération d’importation ou d’exportation de biens ou de services est soumise à l’obligation de domiciliation auprès d’un intermédiaire agréé.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "La domiciliation est préalable à tout transfert/rapatriement de fonds, engagement et/ou au dédouanement.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "La Banque d’Algérie peut édicter toute condition jugée utile »",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le présent règlement sera publié au journal officiel de la République algérienne démocratique et populaire.\nLe Gouverneur\nMohamed Loukal",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement sera publié au journal officiel de la République algérienne démocratique et populaire.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Mohamed Loukal",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "meme_texte_plusieurs_fichiers"
+    ],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.042
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-17-02.fr~2.txt"
+}

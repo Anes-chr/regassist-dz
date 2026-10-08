@@ -1,0 +1,245 @@
+{
+  "document_id": "INS-10-07.ar",
+  "work_id": "INS-10-07",
+  "title": "تعليمة رقم 10-2007 المؤرخة في 07 نوفمبر 2007 تتعلق بتصدير وإستيراد الأوراق النقدية الجزائرية.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "10-2007",
+  "number_source": "libelle",
+  "date": "2007-11-07",
+  "date_raw": "المؤرخة في 07 نوفمبر 2007",
+  "date_source": "libelle",
+  "publication_date": "2023-03-02",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "instructions",
+  "subcategory": "تنظيم الصرف",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d9%88%d8%a7%d8%b1%d8%af%d8%a7%d8%aa-%d8%a7%d9%84%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/03/07-10.pdf",
+  "format": "pdf",
+  "file_hash": "539c6de02201af3bcab243d6022468e17012ef80f41a637fb949daf5e3d66c79",
+  "file_size": 157068,
+  "raw_path": "raw/539c6de02201__07-10.pdf",
+  "retrieved_at": "2026-10-05T13:29:45+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 1,
+  "url_hash": "277a517d8f08a88d47ce6dcc21f8215f781998837dd2f5ee162cbe8e3873f07d",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d9%88%d8%a7%d8%b1%d8%af%d8%a7%d8%aa-%d8%a7%d9%84%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "producer": "Epson Scan 2",
+    "creationDate": "D:20230228154418+01'00'",
+    "modDate": "D:20230228154418+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 384,
+        "ocr_confidence": 89.77049180327869
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 2,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine"
+  ],
+  "title_document": null,
+  "alias_urls": [],
+  "text_hash": "19e3205f96f6260c3c7f5b1a43693f554555efe4a52845f679e4f1e117ab4340",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [
+    {
+      "work_id": "INS-04-16",
+      "document_id": "INS-04-16.fr",
+      "date": "2016-09-01",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction qui annule et remplace l’instruction n°10-2007 du 07 novembre 2007, prend effet à compter de la date de sa"
+      }
+    }
+  ],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "INS-04-16",
+      "document_id": "INS-04-16.fr",
+      "date": "2016-09-01",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction qui annule et remplace l’instruction n°10-2007 du 07 novembre 2007, prend effet à compter de la date de sa"
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [
+    "INS-10-07.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [
+    {
+      "work_id": "INS-04-16",
+      "document_id": "INS-04-16.fr",
+      "date": "2016-09-01",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction qui annule et remplace l’instruction n°10-2007 du 07 novembre 2007, prend effet à compter de la date de sa"
+      }
+    }
+  ],
+  "complète": [],
+  "ocr_numeric_check": {
+    "units": 3,
+    "units_flagged": 0,
+    "units_compared_with_french": 1,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 02",
+      "number": "02",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "المحافظ التعليمة رقم.07-10 تتعلق بتصدير و استراد الأوراق النقدية الجزائرية",
+      "paragraphs": [
+        {
+          "text": "المحافظ التعليمة رقم.07-10 تتعلق بتصدير و استراد الأوراق النقدية الجزائرية",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يرخص لكل مسافر مقيم» تطبيقا لأحكام الفقرة الثانية من المادة السائبية من النظام رقم 01-07 المؤرخ في 03 فيفري 2007 المتعلق بالقواعد يصدر و يستورد الأوراق النقدية الجزائرية في حدود مبلغ ثلاثة الآف (3000)\nدينار جزائري.",
+      "paragraphs": [
+        {
+          "text": "يرخص لكل مسافر مقيم» تطبيقا لأحكام الفقرة الثانية من المادة السائبية من النظام رقم 01-07 المؤرخ في 03 فيفري 2007 المتعلق بالقواعد يصدر و يستورد الأوراق النقدية الجزائرية في حدود مبلغ ثلاثة الآف (3000)",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "دينار جزائري.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 02",
+      "number": "02",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تلغى كل الأحكام المخالفة لهذه التعليمة.\nBank of Algeria The Governor",
+      "paragraphs": [
+        {
+          "text": "تلغى كل الأحكام المخالفة لهذه التعليمة.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Bank of Algeria The Governor",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.031,
+      "ocr_pages": [
+        1
+      ],
+      "ocr_mean_confidence": 89.8
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/INS-10-07.ar.txt"
+}

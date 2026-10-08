@@ -1,0 +1,404 @@
+{
+  "document_id": "REG-09-06.fr",
+  "work_id": "REG-09-06",
+  "title": "Règlement n°2009-06 du 26 octobre 2009 portant balance en devises relative aux investissements étrangers directs ou en partenariat.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "2009-06",
+  "number_source": "en-tête du document",
+  "date": "2009-10-26",
+  "date_raw": "N°2009-06 DU 26 OCTOBRE 2009",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Règlementation des changes",
+  "source_url": "https://www.bank-of-algeria.dz/devises-reglement/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement200906.pdf",
+  "format": "pdf",
+  "file_hash": "51b2656d4d875298ef8029ead541abcdf2cf2ae29ecf0cbb1a9fb587234f174d",
+  "file_size": 67022,
+  "raw_path": "raw/51b2656d4d87__reglement200906.pdf",
+  "retrieved_at": "2026-10-05T13:22:38+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "138d10e1bdea71c69ac7bd1d7dbcf199e47e557c16f1e0787df4be738575040d",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/devises-reglement/",
+    "https://www.bank-of-algeria.dz/reglement-2010/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document20",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210214110956+01'00'",
+    "modDate": "D:20210214110956+01'00'"
+  },
+  "hijri_date_raw": "27 Joumada Ethania 1424",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2586,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 1005,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 4,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "REGLEMENT N°2009-06 DU 26 OCTOBRE 2009 PORTANT BALANCE EN DEVISES RELATIVEAUX INVESTISSEMENTS ETRANGERS DIRECTS OU EN PARTENARIAT",
+  "alias_urls": [],
+  "text_hash": "9d0f481dddc95d5033e09cd891b7415489b2cc018ab6fae9062a452770060dbc",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-09-06.ar"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°2009-06 DU 26 OCTOBRE 2009 PORTANT\nBALANCE EN DEVISES RELATIVEAUX INVESTISSEMENTS\nETRANGERS DIRECTS OU EN PARTENARIAT\nLe Gouverneur de la Banque d’Algérie,\n- Vu l’Ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003 relative à la monnaie et au crédit, notamment ses articles 62, 63 et 64 ;\n- Vu l’Ordonnance n°01-03 du 20 août 2001, modifiée et complétée, relative au développement de l’investissement ;\n- Vu l’Ordonnance n° 09-01 du 29 Rajab 1430 correspondant au 22 juillet 2009 portant loi de finances complémentaire pour 2009, notamment ses articles 58 alinéas 2, 5, 6 et 7 et 62, alinéas 2 et 3 ;\n- Vu le Décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 2 juin 2001 portant nomination du Gouverneur et des Vice-Gouverneurs de la Banque d’Algérie ;\n- Vu le Décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 2 juin 2001 portant nomination des membres du Conseil d’Administration de la Banque d’Algérie ;\n- Vu le Décret présidentiel du 26 Chaâbane 1423 correspondant au 2 novembre 2002 portant nomination d’un membre du Conseil d’Administration de la Banque d’Algérie ;\n- Vu le Décret présidentiel du 24 Dhu Al Quida 1424 correspondant au 14 janvier 2004 portant nomination des membres du Conseil de la Monnaie et du Crédit de la Banque d’Algérie ; - Vu le Décret Présidentiel du 5 Djoumada El Oula 1427 correspondant au 1er juin 2006, portant nomination d’un Vice-Gouverneur de la Banque d’Algérie ;\n- Vu les délibérations du Conseil de la Monnaie et du Crédit en date du 18 Octobre et du 26 octobre 2009 ;\nPromulgue le règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°2009-06 DU 26 OCTOBRE 2009 PORTANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BALANCE EN DEVISES RELATIVEAUX INVESTISSEMENTS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ETRANGERS DIRECTS OU EN PARTENARIAT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d’Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’Ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003 relative à la monnaie et au crédit, notamment ses articles 62, 63 et 64 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’Ordonnance n°01-03 du 20 août 2001, modifiée et complétée, relative au développement de l’investissement ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’Ordonnance n° 09-01 du 29 Rajab 1430 correspondant au 22 juillet 2009 portant loi de finances complémentaire pour 2009, notamment ses articles 58 alinéas 2, 5, 6 et 7 et 62, alinéas 2 et 3 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 2 juin 2001 portant nomination du Gouverneur et des Vice-Gouverneurs de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 2 juin 2001 portant nomination des membres du Conseil d’Administration de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret présidentiel du 26 Chaâbane 1423 correspondant au 2 novembre 2002 portant nomination d’un membre du Conseil d’Administration de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret présidentiel du 24 Dhu Al Quida 1424 correspondant au 14 janvier 2004 portant nomination des membres du Conseil de la Monnaie et du Crédit de la Banque d’Algérie ; - Vu le Décret Présidentiel du 5 Djoumada El Oula 1427 correspondant au 1er juin 2006, portant nomination d’un Vice-Gouverneur de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu les délibérations du Conseil de la Monnaie et du Crédit en date du 18 Octobre et du 26 octobre 2009 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le présent règlement a pour objet de fixer les modalités d’application de l’alinéa 6 de l’article 58 de l’Ordonnance n°09-01 du 29 Rajab 1430 correspondant au 22 juillet 2009 portant loi de finances complémentaire pour 2009 relatives à la balance en devises excédentaire au profit de l’Algérie, pendant toute la durée de vie du projet ,pour les investissements étrangers directs ou en partenariat.",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement a pour objet de fixer les modalités d’application de l’alinéa 6 de l’article 58 de l’Ordonnance n°09-01 du 29 Rajab 1430 correspondant au 22 juillet 2009 portant loi de finances complémentaire pour 2009 relatives à la balance en devises excédentaire au profit de l’Algérie, pendant toute la durée de vie du projet ,pour les investissements étrangers directs ou en partenariat.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "La balance en devises, pour chaque projet, est élaborée en tenant compte des éléments suivants :\nAu crédit : les rapatriements en devises provenant :\n- de tout apport au titre des investissements y compris le capital social ;\n- des produits des exportations de biens et de services,\n- de la part de la production vendue sur le marché national en substitution aux importations ;\n- des emprunts extérieurs exceptionnellement mobilisés.\nBANK OF ALGERIA\nA ces éléments au crédit, s’ajoute la valeur de tout apport en nature importé.\nAu débit : les transferts vers l’extérieur au titre :\n- des importations de biens et de services ;\n- des bénéfices, dividendes, tantièmes, jetons de présence, salaires et primes du personnel expatrié ;\n- des cessions partielles des investissements ;\n- du service de la dette extérieure exceptionnelle ;\n- de tout autre paiement extérieur.\nLe solde de la balance en devises est la différence entre la somme des éléments de crédit et la somme des éléments de débit.\nLa balance en devises est présentée en équivalent dinars.",
+      "paragraphs": [
+        {
+          "text": "La balance en devises, pour chaque projet, est élaborée en tenant compte des éléments suivants :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Au crédit : les rapatriements en devises provenant :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- de tout apport au titre des investissements y compris le capital social ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- des produits des exportations de biens et de services,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- de la part de la production vendue sur le marché national en substitution aux importations ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- des emprunts extérieurs exceptionnellement mobilisés.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "A ces éléments au crédit, s’ajoute la valeur de tout apport en nature importé.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Au débit : les transferts vers l’extérieur au titre :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- des importations de biens et de services ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- des bénéfices, dividendes, tantièmes, jetons de présence, salaires et primes du personnel expatrié ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- des cessions partielles des investissements ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- du service de la dette extérieure exceptionnelle ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- de tout autre paiement extérieur.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le solde de la balance en devises est la différence entre la somme des éléments de crédit et la somme des éléments de débit.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "La balance en devises est présentée en équivalent dinars.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les modalités de collecte des données relatives à la balance en devises, de leur traitement et contrôle ainsi que le reporting seront précisées par voie d’instructions de la\nBanque d’Algérie.",
+      "paragraphs": [
+        {
+          "text": "Les modalités de collecte des données relatives à la balance en devises, de leur traitement et contrôle ainsi que le reporting seront précisées par voie d’instructions de la",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Banque d’Algérie.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le présent règlement sera publié au Journal Officiel de la République Algérienne\nDémocratique et Populaire.\nLe Gouverneur\nMohammed LAKSACI",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement sera publié au Journal Officiel de la République Algérienne",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Démocratique et Populaire.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.037
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-09-06.fr.txt"
+}

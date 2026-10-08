@@ -1,0 +1,532 @@
+{
+  "document_id": "REG-11-07.ar",
+  "work_id": "REG-11-07",
+  "title": "نظام رقم 11-07 المؤرخ في 19 أكتوبر 2011، يعدل ويتمم النظام رقم 08-01 المؤرخ في 20 يناير 2008، والمتعلق بترتيبات الوقاية من إصدار الشيكات بدون رصيد ومكافحتها.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "11-07",
+  "number_source": "libelle",
+  "date": "2011-10-19",
+  "date_raw": "المؤرخ في 19 أكتوبر 2011",
+  "date_source": "libelle",
+  "publication_date": "2023-02-28",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "règlements",
+  "subcategory": "مركزية المخاطر، المبالغ غير المدفوعة و الميزانيات و الشيكات بدون رصيد",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d9%85%d8%b1%d9%83%d8%b2%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d8%ae%d8%a7%d8%b7%d8%b1%d8%8c-%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d9%84%d8%ba-%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d8%af%d9%81%d9%88%d8%b9%d8%a9-2/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/02/07-2011.pdf",
+  "format": "pdf",
+  "file_hash": "314b29a6f47295c526c6b9a26cf322511d25a1d2b5fb802d7110837e5a75f78b",
+  "file_size": 483229,
+  "raw_path": "raw/314b29a6f472__07-2011.pdf",
+  "retrieved_at": "2026-10-05T13:28:48+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 2,
+  "url_hash": "0f92be1e30191c19fbf44fa52062f87273651d95b67569730134dd859af26f20",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d9%85%d8%b1%d9%83%d8%b2%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d8%ae%d8%a7%d8%b7%d8%b1%d8%8c-%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d9%84%d8%ba-%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d8%af%d9%81%d9%88%d8%b9%d8%a9-2/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "author": "Ikram Blat.",
+    "creator": "Microsoft® Word 2016",
+    "producer": "Microsoft® Word 2016",
+    "creationDate": "D:20230228115701+01'00'",
+    "modDate": "D:20230228115701+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 1178,
+        "ocr_confidence": 67.0695652173913
+      },
+      {
+        "page": 2,
+        "method": "ocr",
+        "chars": 2528,
+        "ocr_confidence": 81.62869198312237
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 6,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine",
+    "ocr_faible_confiance"
+  ],
+  "title_document": "نظام رقم 07-11 موّرخ في 21 ذي القعدة عام 1432 المواهق 19 أكتويىر سنة 22011 يعدّل ويتمم النظلام رقم 08 — 01 المؤرخ فقي 12 مهرم عام 1429 His‏ Lis pis 0‏ 2008 5 المتعلّق بيترتييات الوقاية مئ إصدار الشيكات يدون رصيد ومكاقسمتها. . - ويمقتصى #الاأسيو رقم 03 11 المؤراخ في 27 ple UN pla‏ 1424 المواقق 26 شكيت سه 2003",
+  "alias_urls": [],
+  "text_hash": "186a7c1d27eb3e1820d82bcbd16d236aa1b1903a0d5265d2aeecaa902cf221c4",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "08-01",
+        "date": "2008-01-20",
+        "raw": "règlement n°08-01 du 20 janvier 2008"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2011-07 du 19 octobre 2011 modifiant et complétant e règlement n°08-01 du 20 janvier 2008 relatif au dispositif de prévention et",
+        "copied_from": "REG-11-07.fr"
+      },
+      "target_work_id": "REG-08-01"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "08-01",
+        "date": "2008-01-20",
+        "raw": "règlement n°08-01 du 20 janvier 2008"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2011-07 du 19 octobre 2011 modifiant et complétant e règlement n°08-01 du 20 janvier 2008 relatif au dispositif de prévention et",
+        "copied_from": "REG-11-07.fr"
+      },
+      "target_work_id": "REG-08-01"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "08-01",
+        "date": "2008-01-20",
+        "raw": "règlement n°08-01 du 20 janvier 2008"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le règlement n°08-01 du 20 janvier 2008 susvisé.",
+        "copied_from": "REG-11-07.fr"
+      },
+      "target_work_id": "REG-08-01"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "08-01",
+        "date": "2008-01-20",
+        "raw": "règlement n°08-01 du 20 janvier 2008"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le règlement n°08-01 du 20 janvier 2008 susvisé.",
+        "copied_from": "REG-11-07.fr"
+      },
+      "target_work_id": "REG-08-01"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "REG-08-01",
+      "reference": "règlement n°08-01 du 20 janvier 2008",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2011-07 du 19 octobre 2011 modifiant et complétant e règlement n°08-01 du 20 janvier 2008 relatif au dispositif de prévention et",
+        "copied_from": "REG-11-07.fr"
+      }
+    },
+    {
+      "work_id": "REG-08-01",
+      "reference": "règlement n°08-01 du 20 janvier 2008",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le règlement n°08-01 du 20 janvier 2008 susvisé.",
+        "copied_from": "REG-11-07.fr"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "REG-08-01",
+      "reference": "règlement n°08-01 du 20 janvier 2008",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2011-07 du 19 octobre 2011 modifiant et complétant e règlement n°08-01 du 20 janvier 2008 relatif au dispositif de prévention et",
+        "copied_from": "REG-11-07.fr"
+      }
+    },
+    {
+      "work_id": "REG-08-01",
+      "reference": "règlement n°08-01 du 20 janvier 2008",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le règlement n°08-01 du 20 janvier 2008 susvisé.",
+        "copied_from": "REG-11-07.fr"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-11-07.fr",
+    "REG-11-07.fr~2"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "REG-08-01",
+      "reference": "règlement n°08-01 du 20 janvier 2008",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2011-07 du 19 octobre 2011 modifiant et complétant e règlement n°08-01 du 20 janvier 2008 relatif au dispositif de prévention et",
+        "copied_from": "REG-11-07.fr"
+      }
+    },
+    {
+      "work_id": "REG-08-01",
+      "reference": "règlement n°08-01 du 20 janvier 2008",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le règlement n°08-01 du 20 janvier 2008 susvisé.",
+        "copied_from": "REG-11-07.fr"
+      }
+    }
+  ],
+  "ocr_numeric_check": {
+    "units": 7,
+    "units_flagged": 0,
+    "units_compared_with_french": 6,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "نظام رقم 07-11 موّرخ في 21 ذي القعدة عام 1432 المواهق 19 أكتويىر سنة 22011 يعدّل ويتمم النظلام رقم 08 — 01 المؤرخ فقي 12 مهرم عام 1429 His‏ Lis pis 0‏ 2008 5 المتعلّق بيترتييات الوقاية مئ إصدار الشيكات يدون رصيد ومكاقسمتها.\n. - ويمقتصى #الاأسيو رقم 03 11 المؤراخ في 27 ple UN pla‏ 1424 المواقق 26 شكيت سه 2003 sis 98‏ ويمقتكى pou pit‏ الرنّاسي الموّراخ في 10 ربييع الأول عام 1422 الموافغق 2 يونيو سنة 2001 والملتضمنت\n- ويمقتكى المرسوم الرتاسني الموّرخ في 10 ربيع الآول عام 1422 الموافقق 2 يوتيو Ann‏ 2001 والمتضمن تعيين أعضاء في مجلس إدارة ينك الجزائر .\nويمقتكى المرسوم الرئاسسي E ot‏ قفي 10 ربيع الآو ل ele‏ 1422 المواشقق 2 يوتيو Ans‏ 2001 والمتصضصمن تعيين أعضاء في مجلس التقد والقرض لبتك الجزاتّر 6 والمتصضمن تعيين عضو في مجلس إدارة يتك الجزامّر »\nو١‏ 3 الت 2 a‏ ناتهب L ils.»‏ = متك الحزائر.\n- ويمقتضى النظام رقم 92 — 02 المؤرخ غفي7!\ny AE 1412 pla Si‏ هى: 359 je ce: Île‏ 23 1992 \"ين م ويمقتضى plis uit‏ رقم 94 - 12 المورخ في 22 ذي الحجة عام 1414 الموافقق 2 يؤتيو Zn‏ 1994 والمتغلق cs des‏ تسيير ووضيع مقاييس خاصة بالقطاع المالي»\n- ويمقتضى التظام رقم 08 - 01الموّرخ في 12 محرح عام 1429 المواقق 20 يتاير سنة 2008 والمتعلق يترتييات الوقاية من إصدار الشيكات يدون رصيد ومكافحتهاء بتار يخ 9 أكتوبر سنة 2011, يصدر النظام الآتي نصه :",
+      "paragraphs": [
+        {
+          "text": "نظام رقم 07-11 موّرخ في 21 ذي القعدة عام 1432 المواهق 19 أكتويىر سنة 22011 يعدّل ويتمم النظلام رقم 08 — 01 المؤرخ فقي 12 مهرم عام 1429 His‏ Lis pis 0‏ 2008 5 المتعلّق بيترتييات الوقاية مئ إصدار الشيكات يدون رصيد ومكاقسمتها.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": ". - ويمقتصى #الاأسيو رقم 03 11 المؤراخ في 27 ple UN pla‏ 1424 المواقق 26 شكيت سه 2003 sis 98‏ ويمقتكى pou pit‏ الرنّاسي الموّراخ في 10 ربييع الأول عام 1422 الموافغق 2 يونيو سنة 2001 والملتضمنت",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- ويمقتكى المرسوم الرتاسني الموّرخ في 10 ربيع الآول عام 1422 الموافقق 2 يوتيو Ann‏ 2001 والمتضمن تعيين أعضاء في مجلس إدارة ينك الجزائر .",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ويمقتكى المرسوم الرئاسسي E ot‏ قفي 10 ربيع الآو ل ele‏ 1422 المواشقق 2 يوتيو Ans‏ 2001 والمتصضصمن تعيين أعضاء في مجلس التقد والقرض لبتك الجزاتّر 6 والمتصضمن تعيين عضو في مجلس إدارة يتك الجزامّر »",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "و١‏ 3 الت 2 a‏ ناتهب L ils.»‏ = متك الحزائر.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- ويمقتضى النظام رقم 92 — 02 المؤرخ غفي7!",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "y AE 1412 pla Si‏ هى: 359 je ce: Île‏ 23 1992 \"ين م ويمقتضى plis uit‏ رقم 94 - 12 المورخ في 22 ذي الحجة عام 1414 الموافقق 2 يؤتيو Zn‏ 1994 والمتغلق cs des‏ تسيير ووضيع مقاييس خاصة بالقطاع المالي»",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- ويمقتضى التظام رقم 08 - 01الموّرخ في 12 محرح عام 1429 المواقق 20 يتاير سنة 2008 والمتعلق يترتييات الوقاية من إصدار الشيكات يدون رصيد ومكافحتهاء بتار يخ 9 أكتوبر سنة 2011, يصدر النظام الآتي نصه :",
+          "page_start": 1,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "يهدف هذا النظام إلى تعديل وتتميم النظام رقم08 -01المؤرخ في 12 محرم عام 1429",
+      "paragraphs": [
+        {
+          "text": "يهدف هذا النظام إلى تعديل وتتميم النظام رقم08 -01المؤرخ في 12 محرم عام 1429",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "تعدل وتتممالمادة 4 من النظام رقم 8 - 01المؤرخ في 12 محرم عام 1429 الموافق 20 يناير List أن سرح ذلك‎ eye ll القامون‎ pl AN pla (4) مؤارى الدع لبتك الجزائر في غضون الأربعة‎ العمل الموالبة لتار يخ تقديم الشيك. وفي هذا الإطار,‎ يتم إعداد و تسليم شهادة عدم الدفع للمستفيد من‎ اللزوم لدى المقاصة اليدوية, من طرف البثك المقدم للشيك: عند رقض الشيك لدى المقاصة الإلكترونية طبقا لنمط عمل نظام المقاصة الإلكترونية المسمى الجزائر - المقاصة الإلكترونية جنا dia‏ ليشت 3 ب ا lus Ja aa‏ الدفع مابين البنوك»\nالمنصوص عليه في الفقرة الأولى أعلاهة. يجب على المؤسسة المقدمة إرسال بدون تآخر نسخة من شهادة عدم الدفع إلى المؤسسة المسحوب عليها\".",
+      "paragraphs": [
+        {
+          "text": "تعدل وتتممالمادة 4 من النظام رقم 8 - 01المؤرخ في 12 محرم عام 1429 الموافق 20 يناير List أن سرح ذلك‎ eye ll القامون‎ pl AN pla (4) مؤارى الدع لبتك الجزائر في غضون الأربعة‎ العمل الموالبة لتار يخ تقديم الشيك. وفي هذا الإطار,‎ يتم إعداد و تسليم شهادة عدم الدفع للمستفيد من‎ اللزوم لدى المقاصة اليدوية, من طرف البثك المقدم للشيك: عند رقض الشيك لدى المقاصة الإلكترونية طبقا لنمط عمل نظام المقاصة الإلكترونية المسمى الجزائر - المقاصة الإلكترونية جنا dia‏ ليشت 3 ب ا lus Ja aa‏ الدفع مابين البنوك»",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "المنصوص عليه في الفقرة الأولى أعلاهة. يجب على المؤسسة المقدمة إرسال بدون تآخر نسخة من شهادة عدم الدفع إلى المؤسسة المسحوب عليها\".",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "تعدل وتتممالمادة 5 من النظام رقم 8 - 1) الموّرخ في 12 محرم عام 1429 الموافق 20 يناير سنة 2008 والمذكور أعلاه: كما يآتي :\n'اكادة 5 : spas‏ حدوث أول عارض دفع يسبب انعدام أو نقص في الرصيد تمت معاينته قانوناء يجب على المسحوب عليه أن يرسل للجهة المصدرة للشيك في حدود الأجل المنصوص عليه في التشريع المعمول به؛, أمرا بالإيعاز حسب النموذج المرفق بهذا النظام (الملحق (Gil‏",
+      "paragraphs": [
+        {
+          "text": "تعدل وتتممالمادة 5 من النظام رقم 8 - 1) الموّرخ في 12 محرم عام 1429 الموافق 20 يناير سنة 2008 والمذكور أعلاه: كما يآتي :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "'اكادة 5 : spas‏ حدوث أول عارض دفع يسبب انعدام أو نقص في الرصيد تمت معاينته قانوناء يجب على المسحوب عليه أن يرسل للجهة المصدرة للشيك في حدود الأجل المنصوص عليه في التشريع المعمول به؛, أمرا بالإيعاز حسب النموذج المرفق بهذا النظام (الملحق (Gil‏",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Joss‏ وتتمم المادة 9 من النظام رقم 8 - 01المؤرخ في 12 pps‏ عام 1429 الموافق 20 يناير المنصوص عليها في المادة 8 أعلاه. مبلغ و أجل دفع يرفق نموذج رسالة الأمر بالإيعاز بهذا النظام في غياب تسوية عار ض الدفع في الآجال المجموعة و المنصوص عليها في القانون التجاري. تباشر المتايعات المزائية طبقا لأحكام قائون etait‏",
+      "paragraphs": [
+        {
+          "text": "Joss‏ وتتمم المادة 9 من النظام رقم 8 - 01المؤرخ في 12 pps‏ عام 1429 الموافق 20 يناير المنصوص عليها في المادة 8 أعلاه. مبلغ و أجل دفع يرفق نموذج رسالة الأمر بالإيعاز بهذا النظام في غياب تسوية عار ض الدفع في الآجال المجموعة و المنصوص عليها في القانون التجاري. تباشر المتايعات المزائية طبقا لأحكام قائون etait‏",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "pass‏ النظام رقم 08 - 01المؤرخ في 2!\nمحرم عام 1429 الموافق 20 يناير سنة 2008 والمذكور SU\"‏ 9 مكرر: 32585 حالة تكزان aile‏ الدفع:\nطبقا للمادتين 526 مكرر 3 و526 مكرر 5 من القانون التجاري؛ عند حدوث عارض دفع متتال بعد تقديم شيك بدون رصيد في غضون الاثني عشر (12) شهرا التي تعقب عارض الدقع الأول حتى ولو كان هذا الأخير Jan‏",
+      "paragraphs": [
+        {
+          "text": "pass‏ النظام رقم 08 - 01المؤرخ في 2!",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "محرم عام 1429 الموافق 20 يناير سنة 2008 والمذكور SU\"‏ 9 مكرر: 32585 حالة تكزان aile‏ الدفع:",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "طبقا للمادتين 526 مكرر 3 و526 مكرر 5 من القانون التجاري؛ عند حدوث عارض دفع متتال بعد تقديم شيك بدون رصيد في غضون الاثني عشر (12) شهرا التي تعقب عارض الدقع الأول حتى ولو كان هذا الأخير Jan‏",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "تعدل المادة 10 من النظام رقم 08 - 01 المؤرخ في 20 يناير سنة 2008 والمذكور أعلاه؛ كما يأتي:\n'امادة 10 : في حالة تكرار عارض الدفع في غضون الاثني عشر )12( شهراالتي تعقب عارض الدفع الأول»\nيقرر المسحوب عليه مباشرة ضد الساحب المنع من إصدار الشيكات لمدة خمس (S)‏ سنوات. ويطبق هذا المنع ابتداء من تاريخ إرسال الإشعار لغرض تسوية الشيك المستحق غير المدفوع.\nيجب أن يشير هذا الإشعارء الذي يكون نموذجه مر فقا بهذا النظام (الملحق الرابع)ء pis ts‏ على عاتق مصدر الشيك المستحق غير المدفوع غرامة تساوي ضعف غرامة التيرثة المنصوص عليها في المادة 526 مكرر 5 من القانون التجاري الملدة 7: ينشر هذا النظام في الجريدة الرسمية للجمهورية الجزائرية الديمقراطية الشعبية.\nper‏ بالجزائر في 21 ذي القعدة عام 1432 الموافق 19 أكتوبر سنة 2011 محمد لكصاسي",
+      "paragraphs": [
+        {
+          "text": "تعدل المادة 10 من النظام رقم 08 - 01 المؤرخ في 20 يناير سنة 2008 والمذكور أعلاه؛ كما يأتي:",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "'امادة 10 : في حالة تكرار عارض الدفع في غضون الاثني عشر )12( شهراالتي تعقب عارض الدفع الأول»",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "يقرر المسحوب عليه مباشرة ضد الساحب المنع من إصدار الشيكات لمدة خمس (S)‏ سنوات. ويطبق هذا المنع ابتداء من تاريخ إرسال الإشعار لغرض تسوية الشيك المستحق غير المدفوع.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "يجب أن يشير هذا الإشعارء الذي يكون نموذجه مر فقا بهذا النظام (الملحق الرابع)ء pis ts‏ على عاتق مصدر الشيك المستحق غير المدفوع غرامة تساوي ضعف غرامة التيرثة المنصوص عليها في المادة 526 مكرر 5 من القانون التجاري الملدة 7: ينشر هذا النظام في الجريدة الرسمية للجمهورية الجزائرية الديمقراطية الشعبية.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "per‏ بالجزائر في 21 ذي القعدة عام 1432 الموافق 19 أكتوبر سنة 2011 محمد لكصاسي",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine",
+      "ocr_faible_confiance"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.042,
+      "ocr_pages": [
+        1,
+        2
+      ],
+      "ocr_mean_confidence": 74.3
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/REG-11-07.ar.txt"
+}

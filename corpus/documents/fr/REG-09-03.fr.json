@@ -1,0 +1,593 @@
+{
+  "document_id": "REG-09-03.fr",
+  "work_id": "REG-09-03",
+  "title": "Règlement n°2009-03 du 26 mai 2009 fixant les règles générales en matière de conditions de banque applicables aux opérations de banque.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "2009-03",
+  "number_source": "en-tête du document",
+  "date": "2009-05-26",
+  "date_raw": "N°2009-03 DU 26 MAI 2009",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Règles générales en matière de conditions de banque applicables aux opérations de banque",
+  "source_url": "https://www.bank-of-algeria.dz/convertibilite-reglement/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement200903.pdf",
+  "format": "pdf",
+  "file_hash": "96ef1477bb8f227a1ae70b5cad9752e5540438cf2c2422fb4a1116bc61922797",
+  "file_size": 69017,
+  "raw_path": "raw/96ef1477bb8f__reglement200903.pdf",
+  "retrieved_at": "2026-10-05T13:22:36+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "20f2d2b46b3accbf1719e1a5e29c42809b530d44cf440a69564c10a5da8195fb",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%D8%A7%D9%84%D8%A8%D9%86%D9%83/",
+    "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d8%a8%d9%86%d9%83/",
+    "https://www.bank-of-algeria.dz/convertibilite-reglement/",
+    "https://www.bank-of-algeria.dz/reglement-2010/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document20",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210214101127+01'00'",
+    "modDate": "D:20210214101127+01'00'"
+  },
+  "hijri_date_raw": "27 Joumada Ethania 1424",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 3142,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 2111,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 12,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "REGLEMENT N°2009-03 DU 26 MAI 2009 FIXANT LES REGLES GENERALES EN MATIERE DE CONDITIONS DE BANQUE APPLICABLES AUX OPERATIONS DE BANQUE",
+  "alias_urls": [],
+  "text_hash": "acf18f4f431be877020fd5afccca7779c2bbb4b94885a640ae83cf4d33f222f9",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [
+    {
+      "work_id": "REG-13-01",
+      "document_id": "REG-13-01.fr",
+      "date": "2013-04-08",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 4,
+        "quote": "Toutes dispositions contraires au présent règlement sont abrogées, notamment le règlement n°09-03 de l’Aouel Joumada Ethania 1430 corresp"
+      }
+    }
+  ],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "REG-13-01",
+      "document_id": "REG-13-01.fr",
+      "date": "2013-04-08",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 4,
+        "quote": "Toutes dispositions contraires au présent règlement sont abrogées, notamment le règlement n°09-03 de l’Aouel Joumada Ethania 1430 corresp"
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [
+    "REG-09-03.ar"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [
+    {
+      "work_id": "REG-13-01",
+      "document_id": "REG-13-01.fr",
+      "date": "2013-04-08",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 4,
+        "quote": "Toutes dispositions contraires au présent règlement sont abrogées, notamment le règlement n°09-03 de l’Aouel Joumada Ethania 1430 corresp"
+      }
+    }
+  ],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°2009-03 DU 26 MAI 2009 FIXANT\nLES REGLES GENERALES EN MATIERE DE CONDITIONS\nDE BANQUE APPLICABLES AUX OPERATIONS DE BANQUE\nLe gouverneur de la Banque d’Algérie,\n- Vu l’ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003 relative à la monnaie et au crédit, notamment ses articles 62, 64 et 66 à 73 ;\n- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 2 juin 2001 portant nomination du Gouverneur et des Vice-Gouverneurs de la Banque d’Algérie ;\n- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 2 juin 2001 portant nomination des membres du conseil d’administration de la Banque d’Algérie,\n- Vu le décret présidentiel du 26 Chaâbane 1423 correspondant au 2 novembre 2002 portant nomination d’un membre du Conseil d’administration de la Banque d’Algérie ;\n- Vu le décret présidentiel du 24 Dhou El Kaada 1424 correspondant au 14 janvier 2004 portant nomination des membres du Conseil de la monnaie et du crédit de la Banque d’Algérie ;\n- Vu le décret présidentiel du 5 Joumada El Oula 1427 correspondant au 1er juin 2006 portant nomination d’un Vice-Gouverneur de la Banque d’Algérie ;\n- Vu le règlement n°94-13 du 22 Dhou El Hidja 1414 correspondant au 2 juin 1994 fixant les règles générales en matière de conditions de banque applicables aux opérations de banque ;\n- Vu les délibérations du conseil de la monnaie et du crédit en date du 26 mai 2009 ;\nPromulgue le règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°2009-03 DU 26 MAI 2009 FIXANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "LES REGLES GENERALES EN MATIERE DE CONDITIONS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DE BANQUE APPLICABLES AUX OPERATIONS DE BANQUE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le gouverneur de la Banque d’Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003 relative à la monnaie et au crédit, notamment ses articles 62, 64 et 66 à 73 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 2 juin 2001 portant nomination du Gouverneur et des Vice-Gouverneurs de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 2 juin 2001 portant nomination des membres du conseil d’administration de la Banque d’Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 26 Chaâbane 1423 correspondant au 2 novembre 2002 portant nomination d’un membre du Conseil d’administration de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 24 Dhou El Kaada 1424 correspondant au 14 janvier 2004 portant nomination des membres du Conseil de la monnaie et du crédit de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 5 Joumada El Oula 1427 correspondant au 1er juin 2006 portant nomination d’un Vice-Gouverneur de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n°94-13 du 22 Dhou El Hidja 1414 correspondant au 2 juin 1994 fixant les règles générales en matière de conditions de banque applicables aux opérations de banque ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu les délibérations du conseil de la monnaie et du crédit en date du 26 mai 2009 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le présent règlement a pour objet de fixer les règles générales en matière de conditions de banque applicables aux opérations de banque des banques et établissements financiers.",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement a pour objet de fixer les règles générales en matière de conditions de banque applicables aux opérations de banque des banques et établissements financiers.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Sont considérées comme opérations de banque les opérations effectuées par les banques et établissements financiers dans leurs relations avec la clientèle, telles que définies par les articles 66 à 69 de l’Ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, susvisée.",
+      "paragraphs": [
+        {
+          "text": "Sont considérées comme opérations de banque les opérations effectuées par les banques et établissements financiers dans leurs relations avec la clientèle, telles que définies par les articles 66 à 69 de l’Ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, susvisée.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les banques et établissements financiers peuvent proposer à leur clientèle des produits bancaires spécifiques. Toutefois, dans le souci d'une meilleure évaluation des risques afférents aux nouveaux produits et en vue d’assurer l’harmonisation entre les instruments, la mise sur le marché de tout nouveau produit spécifique doit faire l’objet d'une autorisation préalable délivrée par la Banque d’Algérie.",
+      "paragraphs": [
+        {
+          "text": "Les banques et établissements financiers peuvent proposer à leur clientèle des produits bancaires spécifiques. Toutefois, dans le souci d'une meilleure évaluation des risques afférents aux nouveaux produits et en vue d’assurer l’harmonisation entre les instruments, la mise sur le marché de tout nouveau produit spécifique doit faire l’objet d'une autorisation préalable délivrée par la Banque d’Algérie.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Par conditions de banque il faut entendre la rémunération, les tarifs, les commissions et autres appliqués aux opérations de banque réalisées par les banques et établissements financiers.",
+      "paragraphs": [
+        {
+          "text": "Par conditions de banque il faut entendre la rémunération, les tarifs, les commissions et autres appliqués aux opérations de banque réalisées par les banques et établissements financiers.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "Les taux d'intérêt créditeurs et débiteurs ainsi que les taux et niveaux des commissions applicables aux opérations de banque sont librement fixés par les banques et établissements financiers.\nLa Banque d’Algérie peut, toutefois, fixer le taux d'intérêt excessif. Les taux d'intérêt effectifs globaux sur les crédits distribués par les banques et établissements financiers ne doivent en aucun cas dépasser le taux d’intérêt excessif.\nBANK OF ALGERIA\nLes dates de valeur sur les opérations de banque restent réglementées. Elles sont précisées par instruction de la Banque d’Algérie.",
+      "paragraphs": [
+        {
+          "text": "Les taux d'intérêt créditeurs et débiteurs ainsi que les taux et niveaux des commissions applicables aux opérations de banque sont librement fixés par les banques et établissements financiers.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La Banque d’Algérie peut, toutefois, fixer le taux d'intérêt excessif. Les taux d'intérêt effectifs globaux sur les crédits distribués par les banques et établissements financiers ne doivent en aucun cas dépasser le taux d’intérêt excessif.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les dates de valeur sur les opérations de banque restent réglementées. Elles sont précisées par instruction de la Banque d’Algérie.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les banques et établissements financiers sont tenus de respecter scrupuleusement les conditions applicables aux opérations de banque qu'ils ont déterminées, dans la limite du taux d'intérêt excessif fixé par la Banque d’Algérie.",
+      "paragraphs": [
+        {
+          "text": "Les banques et établissements financiers sont tenus de respecter scrupuleusement les conditions applicables aux opérations de banque qu'ils ont déterminées, dans la limite du taux d'intérêt excessif fixé par la Banque d’Algérie.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les banques et établissements financiers sont tenus de porter à la connaissance de leur clientèle et du public les conditions de banque qu'ils pratiquent au titre des opérations de banque qu'ils effectuent et plus particulièrement les taux d’intérêt nominaux et les taux d’intérêt effectifs globaux sur ces opérations.\nLes banques sont tenues, également, à l’ouverture d’un compte, d’informer leurs clients sur les conditions de son utilisation, sur les prix des différents services auxquels il donne accès et sur les engagements réciproques de la banque et du client. Ces conditions doivent être portées dans la convention d’ouverture de compte ou sur des documents transmis à cet effet.",
+      "paragraphs": [
+        {
+          "text": "Les banques et établissements financiers sont tenus de porter à la connaissance de leur clientèle et du public les conditions de banque qu'ils pratiquent au titre des opérations de banque qu'ils effectuent et plus particulièrement les taux d’intérêt nominaux et les taux d’intérêt effectifs globaux sur ces opérations.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Les banques sont tenues, également, à l’ouverture d’un compte, d’informer leurs clients sur les conditions de son utilisation, sur les prix des différents services auxquels il donne accès et sur les engagements réciproques de la banque et du client. Ces conditions doivent être portées dans la convention d’ouverture de compte ou sur des documents transmis à cet effet.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Pour toutes les opérations de crédits en compte, les banques doivent obligatoirement créditer le compte du client à l’intérieur des délais correspondant à la date de valeur réglementaire.",
+      "paragraphs": [
+        {
+          "text": "Pour toutes les opérations de crédits en compte, les banques doivent obligatoirement créditer le compte du client à l’intérieur des délais correspondant à la date de valeur réglementaire.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Tout retard dans l’exécution d'une opération de banque, au-delà de la date de valeur réglementaire susvisée, donnera lieu à une rémunération versée au client par la banque ou l’établissement financier concerné.",
+      "paragraphs": [
+        {
+          "text": "Tout retard dans l’exécution d'une opération de banque, au-delà de la date de valeur réglementaire susvisée, donnera lieu à une rémunération versée au client par la banque ou l’établissement financier concerné.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les modalités d’application des dispositions du présent règlement, y compris le taux d'intérêt excessif, sont fixées par instructions de la Banque d’Algérie.",
+      "paragraphs": [
+        {
+          "text": "Les modalités d’application des dispositions du présent règlement, y compris le taux d'intérêt excessif, sont fixées par instructions de la Banque d’Algérie.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les dispositions du règlement n°94-13 du 22 Dhou El Hidja 1414 correspondant au 2 juin 1994 fixant les règles générales en matière de conditions de banque applicables aux opérations de banque, sont abrogées.",
+      "paragraphs": [
+        {
+          "text": "Les dispositions du règlement n°94-13 du 22 Dhou El Hidja 1414 correspondant au 2 juin 1994 fixant les règles générales en matière de conditions de banque applicables aux opérations de banque, sont abrogées.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le présent règlement sera publié au Journal officiel de la République algérienne démocratique et populaire.\nLe Gouverneur\nMohammed LAKSACI",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement sera publié au Journal officiel de la République algérienne démocratique et populaire.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.03
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-09-03.fr.txt"
+}

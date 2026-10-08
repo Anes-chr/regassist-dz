@@ -1,0 +1,345 @@
+{
+  "document_id": "REG-05-02.ar",
+  "work_id": "REG-05-02",
+  "title": "نظام رقم 05-02 المؤرخ في 5 مارس 2005 يعدل ويتمم النظام رقم 95-01 المؤرخ في 28 فبراير 1995 والمتضمن منح الصندوق الوطني للتعاضدية الفلاحية رخصة لممارسة عمليات مصرفية .",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "05-02",
+  "number_source": "libelle",
+  "date": "2005-03-05",
+  "date_raw": "المؤرخ في 5 مارس 2005",
+  "date_source": "libelle",
+  "publication_date": "2023-02-28",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "règlements",
+  "subcategory": "أنظمة أخرى",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a3%d9%86%d8%b8%d9%85%d8%a9-%d8%a3%d8%ae%d8%b1%d9%89/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/02/02-05.pdf",
+  "format": "pdf",
+  "file_hash": "cfff068836ea9766cab6f4e5f47c3cbef2710151f3f67e19761d932e0002f58f",
+  "file_size": 315091,
+  "raw_path": "raw/cfff068836ea__02-05.pdf",
+  "retrieved_at": "2026-10-05T13:27:47+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 1,
+  "url_hash": "40fef3135725154a5631726d4174a7daefe8700aa1344c7edebb3b85591d187d",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%a3%d9%86%d8%b8%d9%85%d8%a9-%d8%a3%d8%ae%d8%b1%d9%89/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "author": "lynda benhaha",
+    "creator": "Microsoft® Word 2016",
+    "producer": "Microsoft® Word 2016",
+    "creationDate": "D:20230228092242+01'00'",
+    "modDate": "D:20230228092242+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 1622,
+        "ocr_confidence": 81.12758620689655
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 1,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine",
+    "numerotation:premier_article=4"
+  ],
+  "title_document": "نظام رقم 02-05 مؤرغ في 24 محرم عام 1426 الموافق 5 مارس سنة 2005, يعدل ويتسّم النظام رقم 01-95 المسؤرخ في 27 رمضان عام 1415 الموافق 28 فبراير سنة 1995 والمتضمّن منع الصندوق الوطني للتعاضدية الفلاحية رخصة إن محافظ بنك الجزائر: - بمفتضى الأمر رقم 03- !!المؤرغ في 27 جمادى الثانية عام 424! الموافق 26 غشت سنة 2003",
+  "alias_urls": [],
+  "text_hash": "644b97174cdea1afc0bc73c160a3e2113c48be973f4d64824183d2cad752996b",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "95-01",
+        "date": "1995-02-28",
+        "raw": "règlement n°95-01 du 28 février 1995"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2005-02 du 5 mars 2005 modifiant et complétant le règlement n°95-01 du 28 février 1995 portant dérogation en faveur de la cais",
+        "copied_from": "REG-05-02.fr"
+      },
+      "target_work_id": "REG-95-01"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "95-01",
+        "date": "1995-02-28",
+        "raw": "règlement n°95-01 du 28 février 1995"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2005-02 du 5 mars 2005 modifiant et complétant le règlement n°95-01 du 28 février 1995 portant dérogation en faveur de la cais",
+        "copied_from": "REG-05-02.fr"
+      },
+      "target_work_id": "REG-95-01"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "95-01",
+        "date": "1995-02-28",
+        "raw": "règlement n°95-01 du 28 février 1995"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°95-01 du 28 février 1995 susvisé.",
+        "copied_from": "REG-05-02.fr"
+      },
+      "target_work_id": "REG-95-01"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "95-01",
+        "date": "1995-02-28",
+        "raw": "règlement n°95-01 du 28 février 1995"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°95-01 du 28 février 1995 susvisé.",
+        "copied_from": "REG-05-02.fr"
+      },
+      "target_work_id": "REG-95-01"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "REG-95-01",
+      "reference": "règlement n°95-01 du 28 février 1995",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2005-02 du 5 mars 2005 modifiant et complétant le règlement n°95-01 du 28 février 1995 portant dérogation en faveur de la cais",
+        "copied_from": "REG-05-02.fr"
+      }
+    },
+    {
+      "work_id": "REG-95-01",
+      "reference": "règlement n°95-01 du 28 février 1995",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°95-01 du 28 février 1995 susvisé.",
+        "copied_from": "REG-05-02.fr"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "REG-95-01",
+      "reference": "règlement n°95-01 du 28 février 1995",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2005-02 du 5 mars 2005 modifiant et complétant le règlement n°95-01 du 28 février 1995 portant dérogation en faveur de la cais",
+        "copied_from": "REG-05-02.fr"
+      }
+    },
+    {
+      "work_id": "REG-95-01",
+      "reference": "règlement n°95-01 du 28 février 1995",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°95-01 du 28 février 1995 susvisé.",
+        "copied_from": "REG-05-02.fr"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-05-02.fr",
+    "REG-05-02.fr~2"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "REG-95-01",
+      "reference": "règlement n°95-01 du 28 février 1995",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2005-02 du 5 mars 2005 modifiant et complétant le règlement n°95-01 du 28 février 1995 portant dérogation en faveur de la cais",
+        "copied_from": "REG-05-02.fr"
+      }
+    },
+    {
+      "work_id": "REG-95-01",
+      "reference": "règlement n°95-01 du 28 février 1995",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°95-01 du 28 février 1995 susvisé.",
+        "copied_from": "REG-05-02.fr"
+      }
+    }
+  ],
+  "ocr_numeric_check": {
+    "units": 2,
+    "units_flagged": 0,
+    "units_compared_with_french": 1,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "نظام رقم 02-05 مؤرغ في 24 محرم عام 1426 الموافق 5 مارس سنة 2005, يعدل ويتسّم النظام رقم 01-95 المسؤرخ في 27 رمضان عام 1415 الموافق 28 فبراير سنة 1995 والمتضمّن منع الصندوق الوطني للتعاضدية الفلاحية رخصة إن محافظ بنك الجزائر:\n- بمفتضى الأمر رقم 03- !!المؤرغ في 27 جمادى الثانية عام 424! الموافق 26 غشت سنة 2003 والمتعلق بالنقد والقرض؛ لاسيما المواد 62 و63 و64\n- وبمقتضى المرسوم الرئاسي المؤرغ في 10 ربيع الأول عام 1422 الموافق 2 يونيو سنة !200 الجزائر:\n-وبمقتضى المرسوم الرئلسي المؤرخ في 10 ربيع الأول عام 1422 الموافق 2 يونيو سنة 2001 والمتضمن تعيين أعضاء مجلس إدارة بنك الجزائر, -وبمقتضى النظام رقم 01-95 المؤرخ في 27 رمضان عام 1415 الموافق 28 فبراير Liu‏ 1995 والمتشسن منع الصندوق الوطني للتعاضدية -وبمقتضى النظام رقم 01-04 المؤرخ في 2!\nمحرم عام 1425 الموافق 4 مارس سنة 2004 والمتعلق العاملة في الجزائر,\n- وبناء على مداولة مجلس النقد والقرض jus‏ 5 مارس سنة 12005 رقم 01-95 المؤرخ فى 27 رفضان عام 1415 الموافق 01-95 تعدل المادّة 3 من النّظام رقم‎ : 2 ball المؤرخ في 27 رمضان عام 415! الموافق 28 فبراير‎ : سنة 1995 والمذكور أعلاه؛ وتتمّم كما يأني‎ '\"المادّة 3 : يرخص للصندوق الوطني للتعاضدية الفلاحية في إطار تنفيذ هذا النظام بإنشاء شركة مساهمة يقتصر موضوعها في ممارسة العمليات الملاة 3: تعدل المادّة 4 من النّظام رقم 01-95 المؤرغ في 27 رمضان عام 415! الموافق 28 فبراير سنة 1995 والمذكور أعلاه. وتتمم كما يأتي !\n\"المادة 4: تخضع؛ قصد تنفيذ أحكام المادة 3 sel‏ شركة المساهمة؛ فيما يتعلق بتأسيسها وسيرها يرخص للشركة القيام بالعمليات المصرفية التي بالصرف والتجارة الخارجية '.",
+      "paragraphs": [
+        {
+          "text": "نظام رقم 02-05 مؤرغ في 24 محرم عام 1426 الموافق 5 مارس سنة 2005, يعدل ويتسّم النظام رقم 01-95 المسؤرخ في 27 رمضان عام 1415 الموافق 28 فبراير سنة 1995 والمتضمّن منع الصندوق الوطني للتعاضدية الفلاحية رخصة إن محافظ بنك الجزائر:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- بمفتضى الأمر رقم 03- !!المؤرغ في 27 جمادى الثانية عام 424! الموافق 26 غشت سنة 2003 والمتعلق بالنقد والقرض؛ لاسيما المواد 62 و63 و64",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى المرسوم الرئاسي المؤرغ في 10 ربيع الأول عام 1422 الموافق 2 يونيو سنة !200 الجزائر:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-وبمقتضى المرسوم الرئلسي المؤرخ في 10 ربيع الأول عام 1422 الموافق 2 يونيو سنة 2001 والمتضمن تعيين أعضاء مجلس إدارة بنك الجزائر, -وبمقتضى النظام رقم 01-95 المؤرخ في 27 رمضان عام 1415 الموافق 28 فبراير Liu‏ 1995 والمتشسن منع الصندوق الوطني للتعاضدية -وبمقتضى النظام رقم 01-04 المؤرخ في 2!",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "محرم عام 1425 الموافق 4 مارس سنة 2004 والمتعلق العاملة في الجزائر,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبناء على مداولة مجلس النقد والقرض jus‏ 5 مارس سنة 12005 رقم 01-95 المؤرخ فى 27 رفضان عام 1415 الموافق 01-95 تعدل المادّة 3 من النّظام رقم‎ : 2 ball المؤرخ في 27 رمضان عام 415! الموافق 28 فبراير‎ : سنة 1995 والمذكور أعلاه؛ وتتمّم كما يأني‎ '\"المادّة 3 : يرخص للصندوق الوطني للتعاضدية الفلاحية في إطار تنفيذ هذا النظام بإنشاء شركة مساهمة يقتصر موضوعها في ممارسة العمليات الملاة 3: تعدل المادّة 4 من النّظام رقم 01-95 المؤرغ في 27 رمضان عام 415! الموافق 28 فبراير سنة 1995 والمذكور أعلاه. وتتمم كما يأتي !",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "\"المادة 4: تخضع؛ قصد تنفيذ أحكام المادة 3 sel‏ شركة المساهمة؛ فيما يتعلق بتأسيسها وسيرها يرخص للشركة القيام بالعمليات المصرفية التي بالصرف والتجارة الخارجية '.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "ينشر هذا النظام في الجريدة الرسميّة للجمهوريًة الجزائرية الريمقراطيّة حرر بالجزائر في 24 محرم عام 1426 الموافق 5 Lis ju La‏ 2005 محمد لكصاسي",
+      "paragraphs": [
+        {
+          "text": "ينشر هذا النظام في الجريدة الرسميّة للجمهوريًة الجزائرية الريمقراطيّة حرر بالجزائر في 24 محرم عام 1426 الموافق 5 Lis ju La‏ 2005 محمد لكصاسي",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine",
+      "numerotation:premier_article=4"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.046,
+      "ocr_pages": [
+        1
+      ],
+      "ocr_mean_confidence": 81.1
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/REG-05-02.ar.txt"
+}

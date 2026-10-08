@@ -1,0 +1,489 @@
+{
+  "document_id": "REG-95-01.ar",
+  "work_id": "REG-95-01",
+  "title": "نظام رقم 95-01 المؤرخ في 27 رمضان 1415 الموافق 28 فبراير سنة 1995، يتضمن منح الصندوق الوطني للتعاضدية الفلاحية رخصة لممارسة عمليات مصرفية.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "95-01",
+  "number_source": "libelle",
+  "date": "1995-02-28",
+  "date_raw": "الموافق 28 فبراير سنة 1995",
+  "date_source": "libelle",
+  "publication_date": "2023-02-28",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "règlements",
+  "subcategory": "أنظمة أخرى",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a3%d9%86%d8%b8%d9%85%d8%a9-%d8%a3%d8%ae%d8%b1%d9%89/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/02/01-95.pdf",
+  "format": "pdf",
+  "file_hash": "e24b97b8f981a1d7ae9608c54e2386478a2bad432fb5747a85c8b047395b67fb",
+  "file_size": 350821,
+  "raw_path": "raw/e24b97b8f981__01-95.pdf",
+  "retrieved_at": "2026-10-05T13:27:43+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 2,
+  "url_hash": "49e7f983eff57fa213b6d1faa522725aa4c7cbe87f83eced2a1aaf59f82816b2",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%a3%d9%86%d8%b8%d9%85%d8%a9-%d8%a3%d8%ae%d8%b1%d9%89/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "author": "chahra yahiaoui",
+    "creator": "Microsoft® Word 2016",
+    "producer": "Microsoft® Word 2016",
+    "creationDate": "D:20230227102421+01'00'",
+    "modDate": "D:20230227102421+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 2564,
+        "ocr_confidence": 79.55803571428571
+      },
+      {
+        "page": 2,
+        "method": "ocr",
+        "chars": 1376,
+        "ocr_confidence": 76.68695652173913
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 3,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine",
+    "numerotation:premier_article=3"
+  ],
+  "title_document": "نظام رقم 5 9- 01 مؤرخ في 27 رمضان pl‏ 5 المواقق 28 فبراير سنة 1995 يتضمن منعح الصندوق الوطثي للتغاضدية الفلاحية رخصة لممارسة إن محاقظ بتك الجزائر , بمقتضصى القانون رقم 10-0المؤرخ في 19 رسضان عام 1410المواقق 14 أيريل سئة 1990 والمتعلق بالنقد والقرضر. لا سيماالمواد 4ك, 47,45",
+  "alias_urls": [],
+  "text_hash": "a0d8cc67c9dd790e430526c8609327fc6c42665d33b26647f42c6a4dfb2fb6ab",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [
+    {
+      "work_id": "REG-05-02",
+      "document_id": "REG-05-02.fr",
+      "date": "2005-03-05",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2005-02 du 5 mars 2005 modifiant et complétant le règlement n°95-01 du 28 février 1995 portant dérogation en faveur de la cais"
+      }
+    },
+    {
+      "work_id": "REG-05-02",
+      "document_id": "REG-05-02.fr",
+      "date": "2005-03-05",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°95-01 du 28 février 1995 susvisé."
+      }
+    },
+    {
+      "work_id": "REG-09-07",
+      "document_id": "REG-09-07.fr",
+      "date": "2009-12-10",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2009-07 du 10 décembre 2009 modifiant le règlement n°95-01 du 28 février 1995 modifie portant dérogation en faveur de"
+      }
+    },
+    {
+      "work_id": "REG-09-07",
+      "document_id": "REG-09-07.fr",
+      "date": "2009-12-10",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier le Règlement n°95-01 du 28 Février 1995 modifié susvisé."
+      }
+    }
+  ],
+  "complete_par": [
+    {
+      "work_id": "REG-05-02",
+      "document_id": "REG-05-02.fr",
+      "date": "2005-03-05",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2005-02 du 5 mars 2005 modifiant et complétant le règlement n°95-01 du 28 février 1995 portant dérogation en faveur de la cais"
+      }
+    },
+    {
+      "work_id": "REG-05-02",
+      "document_id": "REG-05-02.fr",
+      "date": "2005-03-05",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°95-01 du 28 février 1995 susvisé."
+      }
+    }
+  ],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée. Ce texte a été modifié/complété : consulter aussi les textes listés dans modifié_par / complété_par.",
+  "same_work_documents": [
+    "REG-95-01.fr",
+    "REG-95-01.fr~2"
+  ],
+  "complété_par": [
+    {
+      "work_id": "REG-05-02",
+      "document_id": "REG-05-02.fr",
+      "date": "2005-03-05",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2005-02 du 5 mars 2005 modifiant et complétant le règlement n°95-01 du 28 février 1995 portant dérogation en faveur de la cais"
+      }
+    },
+    {
+      "work_id": "REG-05-02",
+      "document_id": "REG-05-02.fr",
+      "date": "2005-03-05",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°95-01 du 28 février 1995 susvisé."
+      }
+    }
+  ],
+  "modifié_par": [
+    {
+      "work_id": "REG-05-02",
+      "document_id": "REG-05-02.fr",
+      "date": "2005-03-05",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2005-02 du 5 mars 2005 modifiant et complétant le règlement n°95-01 du 28 février 1995 portant dérogation en faveur de la cais"
+      }
+    },
+    {
+      "work_id": "REG-05-02",
+      "document_id": "REG-05-02.fr",
+      "date": "2005-03-05",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°95-01 du 28 février 1995 susvisé."
+      }
+    },
+    {
+      "work_id": "REG-09-07",
+      "document_id": "REG-09-07.fr",
+      "date": "2009-12-10",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2009-07 du 10 décembre 2009 modifiant le règlement n°95-01 du 28 février 1995 modifie portant dérogation en faveur de"
+      }
+    },
+    {
+      "work_id": "REG-09-07",
+      "document_id": "REG-09-07.fr",
+      "date": "2009-12-10",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier le Règlement n°95-01 du 28 Février 1995 modifié susvisé."
+      }
+    }
+  ],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "ocr_numeric_check": {
+    "units": 4,
+    "units_flagged": 0,
+    "units_compared_with_french": 2,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article ا",
+      "number": "ا",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "نظام رقم 5 9- 01 مؤرخ في 27 رمضان pl‏ 5 المواقق 28 فبراير سنة 1995 يتضمن منعح الصندوق الوطثي للتغاضدية الفلاحية رخصة لممارسة إن محاقظ بتك الجزائر , بمقتضصى القانون رقم 10-0المؤرخ في 19 رسضان عام 1410المواقق 14 أيريل سئة 1990 والمتعلق بالنقد والقرضر. لا سيماالمواد 4ك, 47,45 1 9, 95, 110 114, 115 123 126, 129, 130 6 199,197 140 4162\n- ريمقتضى المرسوم الرئاسي Co‏ في 20\n- وبمقتضى المراسيم الرئاسية المؤرخة في 19 شوال عام 1410الموافق 14 مايو سنة 1990 والمتضمنة تعيين نواب مسحافظ البنك المركزبي الجزائري,\n- وسمقتضى المرسوم التنفيذي المؤرخ في 19ذي\n- وبمقتضى النظام رقم 01-90المؤرغ في 11 ذي العجة عام 1410 الموافق 4 يوليىر سنة 1990 والمتعلق بالحد الادنى لرأس مال البثوك والمؤسسات JUL‏ العاملة بالهزائر؛\n- وبعقتضى الثظام رقم 91- 098 المؤرخ في 4 صفر هام 1412المواقفق 14 غشت سنة 1991 الذي\n- وبمقتسى النظاع رقم 2 - 4ل المؤرغ في 17 رهمضان عام 1412الموافق 22 مارس Lu‏ 1992\n- وبمقتضى النظام رقم 92- 05 المؤرخ في 17 رمضان عام 1412الموافق 22 مارس Liu‏ 1992 والمتعلق بالشروط التي يجب أن تتوفر في مؤسسي البنوك والمؤسسات المالية رمسيريها وممثليها.\n— وبمقتضى النظام رقم 2 9- 08 المورخ في 2 جمادى الأولى عام 1413 المرافق 17 نوفمير سئة 2 والتضمن مخطط الحسابات المصرقي والقراعد المحاسبية المطبقة على البنوك والمؤسسات المالية.\n- وبمقتضى النظاع رقم 2 - 098 المؤ رخ في 22 1992 والمتغلق ياغداد وتشر العسايات الفردية السئوية لليثوك والمؤسسسات المالية:\n- وسمقتضى النظام رقم 3 - 01 المؤرغ في 12 رجب عام 1413الموافق 3 يتاير سنة 1393 الذي إقامة فرع ينك ومؤسسة مالية أجنبية:\n- وبمقتضى النظام رقم 93- 03 المؤرخ في 14 محرع عام 1414 الموافق 4 يولير سنة 1993,المعدل 1590 والمتعلق بالسد الأدنى لرأبسمال dl‏ والمؤسسات المالية الغاهلة بالهزائر.\n- وبعد الاطلاع علي الطلب الذي تقدع به الصئدوق الوطثي للتغاضدية الفلاحية في 4 يثاير els -‏ على مداولة مجلس الثقد والقرض المؤرخة في 28 رمضان ale‏ 1415 الموافق 28 فيراير ds‏ 11995 يصدر النظاع الآتي نصه:",
+      "paragraphs": [
+        {
+          "text": "نظام رقم 5 9- 01 مؤرخ في 27 رمضان pl‏ 5 المواقق 28 فبراير سنة 1995 يتضمن منعح الصندوق الوطثي للتغاضدية الفلاحية رخصة لممارسة إن محاقظ بتك الجزائر , بمقتضصى القانون رقم 10-0المؤرخ في 19 رسضان عام 1410المواقق 14 أيريل سئة 1990 والمتعلق بالنقد والقرضر. لا سيماالمواد 4ك, 47,45 1 9, 95, 110 114, 115 123 126, 129, 130 6 199,197 140 4162",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- ريمقتضى المرسوم الرئاسي Co‏ في 20",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى المراسيم الرئاسية المؤرخة في 19 شوال عام 1410الموافق 14 مايو سنة 1990 والمتضمنة تعيين نواب مسحافظ البنك المركزبي الجزائري,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وسمقتضى المرسوم التنفيذي المؤرخ في 19ذي",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى النظام رقم 01-90المؤرغ في 11 ذي العجة عام 1410 الموافق 4 يوليىر سنة 1990 والمتعلق بالحد الادنى لرأس مال البثوك والمؤسسات JUL‏ العاملة بالهزائر؛",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبعقتضى الثظام رقم 91- 098 المؤرخ في 4 صفر هام 1412المواقفق 14 غشت سنة 1991 الذي",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتسى النظاع رقم 2 - 4ل المؤرغ في 17 رهمضان عام 1412الموافق 22 مارس Lu‏ 1992",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى النظام رقم 92- 05 المؤرخ في 17 رمضان عام 1412الموافق 22 مارس Liu‏ 1992 والمتعلق بالشروط التي يجب أن تتوفر في مؤسسي البنوك والمؤسسات المالية رمسيريها وممثليها.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "— وبمقتضى النظام رقم 2 9- 08 المورخ في 2 جمادى الأولى عام 1413 المرافق 17 نوفمير سئة 2 والتضمن مخطط الحسابات المصرقي والقراعد المحاسبية المطبقة على البنوك والمؤسسات المالية.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى النظاع رقم 2 - 098 المؤ رخ في 22 1992 والمتغلق ياغداد وتشر العسايات الفردية السئوية لليثوك والمؤسسسات المالية:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وسمقتضى النظام رقم 3 - 01 المؤرغ في 12 رجب عام 1413الموافق 3 يتاير سنة 1393 الذي إقامة فرع ينك ومؤسسة مالية أجنبية:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى النظام رقم 93- 03 المؤرخ في 14 محرع عام 1414 الموافق 4 يولير سنة 1993,المعدل 1590 والمتعلق بالسد الأدنى لرأبسمال dl‏ والمؤسسات المالية الغاهلة بالهزائر.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبعد الاطلاع علي الطلب الذي تقدع به الصئدوق الوطثي للتغاضدية الفلاحية في 4 يثاير els -‏ على مداولة مجلس الثقد والقرض المؤرخة في 28 رمضان ale‏ 1415 الموافق 28 فيراير ds‏ 11995 يصدر النظاع الآتي نصه:",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article ا",
+      "number": "ا",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "لأآولى : تطبيقا لإحكام الادة 123 من القانون رقم 10-890 المؤرخ في 14 أبريل سنة 1990 والمذكور sal‏ يمئح هذا النظام الصئدوق الوطني للتعاضدية الفلاحية رخصة لممارسة الأعمال المصرفية لصالح زبن القطاع الزراعي المنتج وقطاعات تربية المواشي والغابات والصيد البحري.\n344 2 يقصد ” بأعمال Lai pus‏ في مفهوم هذا النظاع. العمليات المصرفية المهددة في المواد من 0 إلى 113 وكذا الأعمال المرتبطة بها المرصوفة في المادتين 118,117 من القاتون رقم 90- 10المؤرخ في 14 أبريل 1990 والمذكور أعلاه.",
+      "paragraphs": [
+        {
+          "text": "لأآولى : تطبيقا لإحكام الادة 123 من القانون رقم 10-890 المؤرخ في 14 أبريل سنة 1990 والمذكور sal‏ يمئح هذا النظام الصئدوق الوطني للتعاضدية الفلاحية رخصة لممارسة الأعمال المصرفية لصالح زبن القطاع الزراعي المنتج وقطاعات تربية المواشي والغابات والصيد البحري.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "344 2 يقصد ” بأعمال Lai pus‏ في مفهوم هذا النظاع. العمليات المصرفية المهددة في المواد من 0 إلى 113 وكذا الأعمال المرتبطة بها المرصوفة في المادتين 118,117 من القاتون رقم 90- 10المؤرخ في 14 أبريل 1990 والمذكور أعلاه.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يمكن للصندوق الرطني أن يكلف تحت مراقية الهياكل التعاضيدية (الصناديق المحلية والجبوية)\nيبعض العمليات المصرفية النصوص عليبا في المادة 2 أعلاه.\nيبقى الصندوق الوطني للتعاضدية الفلاحية مسؤولا وحده أمام السلطات النقدية عن تطبيق التنظيم المصرفي المغمول يه والصرامة في مراعائه.",
+      "paragraphs": [
+        {
+          "text": "يمكن للصندوق الرطني أن يكلف تحت مراقية الهياكل التعاضيدية (الصناديق المحلية والجبوية)",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "يبعض العمليات المصرفية النصوص عليبا في المادة 2 أعلاه.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "يبقى الصندوق الوطني للتعاضدية الفلاحية مسؤولا وحده أمام السلطات النقدية عن تطبيق التنظيم المصرفي المغمول يه والصرامة في مراعائه.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "يتسعين على الصندوق الوطثئي للتعاضدية الفلاحية من أجل تنفيذ الأحكام الواردة أعلاه أن يقوم Les‏ يأتي :\nJan -‏ ر أسماله مطابقا للنلام بيحيث يصبح يمثل:\nعند نهاية السنة الخامسة:؛ الرأسمال الأدنى الذي CARRE‏ النظام رقم 01-890 المؤرخ في 4 يوليو ,2 1990, المعغدل والتمم والمتغلق بالرأاسمال الأدئى للبئثوك والمؤسسات المالية العاملة بالجزائر:\n- القياع بالاجراءات القانونية والتنظيمية بمجرد صدور هذا النظام El‏ رأسهمالة Jim‏ 125 مليون دج الذي يمثل ريع ( 1/4 ) الرأسمال الأدثى المطلوب لهذا الغرض.\n- تعيين معافظين اثنين للحسابات تطبيقا للمادة 2 هئ القائرن رقم 0--10المؤرخ في 14 أبريل سئة 1990 والمذكور cel‏\n- السهر على تطبيق أحكام النظام رقم 92 - 05 المؤرخ في 22 مارس سنة 1992 والمتعلق بالشروط التي يجب أن تتوفر في مؤسسي البئوك والمؤسسات المالية ومسيربها وسثليبا وعلى احثر امهاء لاسيماالأحكام المتعلقة بالشروط المطلرب توفرها في الإطارات المسيرة:\n- إغداد الكشوف المحاسبية والمالية الخاصة بالتشاط املصرفي ويطبق لهذا els a all‏ رقم\n2- 08المؤرخ قي 17 ثوهقمير سثة 1992 والتضمن Lo‏ السابات المسرفي والقواعد المحاسبية المطيقة على البنوك والمؤسسات المالية وكذلك النظام رقم 82 - 09المؤرخ في 17 نوفمبر سئة 1882 والمتعلق باعداد المسابات الفردية السنوية للبثرك والمؤسسات المالية رنشرهاء ed pull‏ والمؤسسات المالية كما حددها التنظيم المععول به و على احترامها.\nنشره وفقا للشروط التي حددتها المادة 47 من القانون ste‏ حرر بالجزائر في 27 رهمضان عام 1415 الموافق 8 فبراير à‏ 1985 عيد الوهاب كرمان",
+      "paragraphs": [
+        {
+          "text": "يتسعين على الصندوق الوطثئي للتعاضدية الفلاحية من أجل تنفيذ الأحكام الواردة أعلاه أن يقوم Les‏ يأتي :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Jan -‏ ر أسماله مطابقا للنلام بيحيث يصبح يمثل:",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "عند نهاية السنة الخامسة:؛ الرأسمال الأدنى الذي CARRE‏ النظام رقم 01-890 المؤرخ في 4 يوليو ,2 1990, المعغدل والتمم والمتغلق بالرأاسمال الأدئى للبئثوك والمؤسسات المالية العاملة بالجزائر:",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- القياع بالاجراءات القانونية والتنظيمية بمجرد صدور هذا النظام El‏ رأسهمالة Jim‏ 125 مليون دج الذي يمثل ريع ( 1/4 ) الرأسمال الأدثى المطلوب لهذا الغرض.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- تعيين معافظين اثنين للحسابات تطبيقا للمادة 2 هئ القائرن رقم 0--10المؤرخ في 14 أبريل سئة 1990 والمذكور cel‏",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- السهر على تطبيق أحكام النظام رقم 92 - 05 المؤرخ في 22 مارس سنة 1992 والمتعلق بالشروط التي يجب أن تتوفر في مؤسسي البئوك والمؤسسات المالية ومسيربها وسثليبا وعلى احثر امهاء لاسيماالأحكام المتعلقة بالشروط المطلرب توفرها في الإطارات المسيرة:",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- إغداد الكشوف المحاسبية والمالية الخاصة بالتشاط املصرفي ويطبق لهذا els a all‏ رقم",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "2- 08المؤرخ قي 17 ثوهقمير سثة 1992 والتضمن Lo‏ السابات المسرفي والقواعد المحاسبية المطيقة على البنوك والمؤسسات المالية وكذلك النظام رقم 82 - 09المؤرخ في 17 نوفمبر سئة 1882 والمتعلق باعداد المسابات الفردية السنوية للبثرك والمؤسسات المالية رنشرهاء ed pull‏ والمؤسسات المالية كما حددها التنظيم المععول به و على احترامها.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "نشره وفقا للشروط التي حددتها المادة 47 من القانون ste‏ حرر بالجزائر في 27 رهمضان عام 1415 الموافق 8 فبراير à‏ 1985 عيد الوهاب كرمان",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine",
+      "numerotation:premier_article=3"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.031,
+      "ocr_pages": [
+        1,
+        2
+      ],
+      "ocr_mean_confidence": 78.1
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/REG-95-01.ar.txt"
+}

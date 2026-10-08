@@ -1,0 +1,391 @@
+{
+  "document_id": "INS-04-14.ar",
+  "work_id": "INS-04-14",
+  "title": "تعليمة رقم 04-2014 المؤرخة في 30 ديسمبر 2014 تتعلق بنسب الملاءة المطبقة على البنوك والمؤسسات المالية بالمخاطر الكبرى",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "04-2014",
+  "number_source": "libelle",
+  "date": "2014-12-30",
+  "date_raw": "المؤرخة في 30 ديسمبر 2014",
+  "date_source": "libelle",
+  "publication_date": "2023-03-02",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "instructions",
+  "subcategory": "المعايير الاحترازية",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d8%a8%d9%86%d9%83-2/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/03/04-2014.pdf",
+  "format": "pdf",
+  "file_hash": "3c860f80d4f029640a324621c25767a260f949c3f8aa52c7a55bba9de1e79e06",
+  "file_size": 231209,
+  "raw_path": "raw/3c860f80d4f0__04-2014.pdf",
+  "retrieved_at": "2026-10-05T13:29:31+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 1,
+  "url_hash": "3bb9c74d5936f5ce1880c0f3efb454f4445bc11bff8da2b1e3d0351f9e37cb70",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d8%a8%d9%86%d9%83-2/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "author": "chahra yahiaoui",
+    "creator": "Microsoft® Word 2016",
+    "producer": "Microsoft® Word 2016",
+    "creationDate": "D:20230228153658+01'00'",
+    "modDate": "D:20230228153658+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 1634,
+        "ocr_confidence": 83.0
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 7,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine"
+  ],
+  "title_document": "تعليمة رقم 14-04 مؤرخة في 30 ديسمبر 2014 تتعلق بنسب الملاءة المطبقة على الينوك والمؤسسات الماليه المادة الأولى : تهدف هذه التعليمة إلى تحديد كيفيات تطبيق النظام رقم 01-14 المؤرخ في 16 ربيع الثاني 5 الموافق 16 فبراير 2014 المتعلق بنسب الملاءة المطبقة على البنوك والمؤسسات المالية. المادة 2 : بموجب المادة 14 من النظام رقم 01-14 المؤرخ في 16 ربيع الثاني 1435 الموافق 16 فبراير 2014« يشمل مبلغ المستحقات الذي يؤخذ بعين الاعتيار لحساب خطر القرض أصل القرض والفوائد السارية والتي لم يحن أجل استحقاقها للقروض ما بين البنوك والقروض المقدمة للزبائن و كذا السندات. المادة 3 : بغض النظر عن تصنيفها المحاسبي: ترج",
+  "alias_urls": [],
+  "text_hash": "06c9597b61dd4a4bc1e46a908ad60fd70cc5c2890fc4494fc1ddbb9789a4c12e",
+  "relations_out": [
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "74-94",
+        "date": "1994-11-29",
+        "raw": "instruction n°74- 94 du 29 novembre 1994"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Sont abrogées toutes dispositions contraires, notamment l’instruction n°74- 94 du 29 novembre 1994 relative à la fixation des règles prude",
+        "copied_from": "INS-04-14.fr"
+      },
+      "target_work_id": "INS-74-94"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "INS-74-94",
+      "reference": "instruction n°74- 94 du 29 novembre 1994",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Sont abrogées toutes dispositions contraires, notamment l’instruction n°74- 94 du 29 novembre 1994 relative à la fixation des règles prude",
+        "copied_from": "INS-04-14.fr"
+      }
+    }
+  ],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-04-14.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "ocr_numeric_check": {
+    "units": 8,
+    "units_flagged": 0,
+    "units_compared_with_french": 7,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تعليمة رقم 14-04 مؤرخة في 30 ديسمبر 2014 تتعلق بنسب الملاءة المطبقة على الينوك والمؤسسات الماليه",
+      "paragraphs": [
+        {
+          "text": "تعليمة رقم 14-04 مؤرخة في 30 ديسمبر 2014 تتعلق بنسب الملاءة المطبقة على الينوك والمؤسسات الماليه",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تهدف هذه التعليمة إلى تحديد كيفيات تطبيق النظام رقم 01-14 المؤرخ في 16 ربيع الثاني 5 الموافق 16 فبراير 2014 المتعلق بنسب الملاءة المطبقة على البنوك والمؤسسات المالية.",
+      "paragraphs": [
+        {
+          "text": "تهدف هذه التعليمة إلى تحديد كيفيات تطبيق النظام رقم 01-14 المؤرخ في 16 ربيع الثاني 5 الموافق 16 فبراير 2014 المتعلق بنسب الملاءة المطبقة على البنوك والمؤسسات المالية.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "بموجب المادة 14 من النظام رقم 01-14 المؤرخ في 16 ربيع الثاني 1435 الموافق 16 فبراير 2014« يشمل مبلغ المستحقات الذي يؤخذ بعين الاعتيار لحساب خطر القرض أصل القرض والفوائد السارية والتي لم يحن أجل استحقاقها للقروض ما بين البنوك والقروض المقدمة للزبائن و كذا السندات.",
+      "paragraphs": [
+        {
+          "text": "بموجب المادة 14 من النظام رقم 01-14 المؤرخ في 16 ربيع الثاني 1435 الموافق 16 فبراير 2014« يشمل مبلغ المستحقات الذي يؤخذ بعين الاعتيار لحساب خطر القرض أصل القرض والفوائد السارية والتي لم يحن أجل استحقاقها للقروض ما بين البنوك والقروض المقدمة للزبائن و كذا السندات.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "بغض النظر عن تصنيفها المحاسبي: ترجح سندات الملكية والمستحقاتء غير تلك المطروحة من",
+      "paragraphs": [
+        {
+          "text": "بغض النظر عن تصنيفها المحاسبي: ترجح سندات الملكية والمستحقاتء غير تلك المطروحة من",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يلحق يهده Hall‏\n- النموذدج 51000 (الملحق 1) المتعلق بالأموال الخاصة القاتوتيةء محسوية على أساس فرديء\n- التمادتج S2000/E ; S2000/D ; S2000/C; 52000/ B; S2000/A‏ (الملاحق من 1 إلى 6(\n- التموذج 53000 (الملحق رقم 7( المتعلق بالتحرصات المرجحة يموحجب الخطر العملياتيء\n- التماذج S4000/B,S4000/A‏ ,54000/0 (الملاحق من 8 إلى 10) المتعلقة بالتعرصات المرجحة\n- النمودذج 85000 (الملحق رقم 11 ) المتعلق يتسب الملاءة.",
+      "paragraphs": [
+        {
+          "text": "يلحق يهده Hall‏",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- النموذدج 51000 (الملحق 1) المتعلق بالأموال الخاصة القاتوتيةء محسوية على أساس فرديء",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- التمادتج S2000/E ; S2000/D ; S2000/C; 52000/ B; S2000/A‏ (الملاحق من 1 إلى 6(",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- التموذج 53000 (الملحق رقم 7( المتعلق بالتحرصات المرجحة يموحجب الخطر العملياتيء",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- التماذج S4000/B,S4000/A‏ ,54000/0 (الملاحق من 8 إلى 10) المتعلقة بالتعرصات المرجحة",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- النمودذج 85000 (الملحق رقم 11 ) المتعلق يتسب الملاءة.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تماد التماذج المشار إليها قي المادة 2 عند نهاية كل OMG‏ يجب أن تستلم إلى اللجتة المصرفية ويتك الجزائر - المديرية العامة للمقتقدية العامة- في أجل أقصاء Less )30( CD‏ من تاريخ الإققال I‏",
+      "paragraphs": [
+        {
+          "text": "تماد التماذج المشار إليها قي المادة 2 عند نهاية كل OMG‏ يجب أن تستلم إلى اللجتة المصرفية ويتك الجزائر - المديرية العامة للمقتقدية العامة- في أجل أقصاء Less )30( CD‏ من تاريخ الإققال I‏",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تلعى كل الأحكام المخالقة لهذه التعليمة. لاسيما التعليمة رقم 94-74 المؤرخة قي 29 توقمير 1994 تحاقة يتحديد يتحديد قواعد الحذر فى تسيير المصارف والمؤسسات المالية. المعدلة والمتممةء والتحليمة رقم O4‏ 00 المؤرحة فى 12 أوت 9 المتحمتة تمادذج تصريحات اليتواك والمؤسسات المالية لتسب التعطية وتعسيم المخاطر.",
+      "paragraphs": [
+        {
+          "text": "تلعى كل الأحكام المخالقة لهذه التعليمة. لاسيما التعليمة رقم 94-74 المؤرخة قي 29 توقمير 1994 تحاقة يتحديد يتحديد قواعد الحذر فى تسيير المصارف والمؤسسات المالية. المعدلة والمتممةء والتحليمة رقم O4‏ 00 المؤرحة فى 12 أوت 9 المتحمتة تمادذج تصريحات اليتواك والمؤسسات المالية لتسب التعطية وتعسيم المخاطر.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تدخل هذه التعليمة حير التتقيذ ايتداء من تاريح التوقيع عليها.",
+      "paragraphs": [
+        {
+          "text": "تدخل هذه التعليمة حير التتقيذ ايتداء من تاريح التوقيع عليها.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.044,
+      "ocr_pages": [
+        1
+      ],
+      "ocr_mean_confidence": 83.0
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/INS-04-14.ar.txt"
+}

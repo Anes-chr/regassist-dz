@@ -1,0 +1,1083 @@
+{
+  "document_id": "REG-08-01.fr",
+  "work_id": "REG-08-01",
+  "title": "Règlement n°2008-01 du 20 janvier 2008 relatif au dispositif de prévention et de lutte contre l’émission de chèques sans provision.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "2008-01",
+  "number_source": "en-tête du document",
+  "date": "2008-01-20",
+  "date_raw": "N°2008-01 DU 20 JANVIER 2008",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Centrales des Risques, des Impayés et des Bilans et chèques sans provision",
+  "source_url": "https://www.bank-of-algeria.dz/centrale-reglement/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement200801-1.pdf",
+  "format": "pdf",
+  "file_hash": "1c2e48fdfe5324c6d899c8470d57df968a15ebf59a7f700792c79e9156c2d9cd",
+  "file_size": 83889,
+  "raw_path": "raw/1c2e48fdfe53__reglement200801-1.pdf",
+  "retrieved_at": "2026-10-05T13:22:32+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 5,
+  "url_hash": "a2d88068b875501acfb32b4eb0c63783459464ec4a533822e602ca8185202b29",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/centrale-reglement/",
+    "https://www.bank-of-algeria.dz/reglement-2008/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document20",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210214135556+01'00'",
+    "modDate": "D:20210214135556+01'00'"
+  },
+  "hijri_date_raw": "27 Joumada Ethania 1424",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 5,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2988,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 3268,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 1066,
+        "ocr_confidence": null
+      },
+      {
+        "page": 4,
+        "method": "pdf_text",
+        "chars": 2152,
+        "ocr_confidence": null
+      },
+      {
+        "page": 5,
+        "method": "pdf_text",
+        "chars": 2159,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 17,
+    "annex_count": 2
+  },
+  "quality_flags": [],
+  "title_document": "REGLEMENT N°2008-01 DU 20 JANVIER 2008 RELATIF AU DISPOSITIF DE PRÉVENTION ET DE LUTTE CONTRE L'ÉMISSION DE CHEQUES SANS PROVISION",
+  "alias_urls": [
+    {
+      "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement200801.pdf",
+      "source_url": "https://www.bank-of-algeria.dz/reglement-2008/",
+      "title": "Règlement n°2008-01 du 20 janvier 2008 relatif au dispositif de prévention et de lutte contre l’émission de chèques sans provision."
+    }
+  ],
+  "text_hash": "fe54b259811e107f68f8270020d83ff00f250775dd352956013273f792c5b9db",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [
+    {
+      "work_id": "REG-11-07",
+      "document_id": "REG-11-07.fr",
+      "date": "2011-10-19",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2011-07 du 19 octobre 2011 modifiant et complétant e règlement n°08-01 du 20 janvier 2008 relatif au dispositif de prévention et"
+      }
+    },
+    {
+      "work_id": "REG-11-07",
+      "document_id": "REG-11-07.fr",
+      "date": "2011-10-19",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le règlement n°08-01 du 20 janvier 2008 susvisé."
+      }
+    }
+  ],
+  "complete_par": [
+    {
+      "work_id": "REG-11-07",
+      "document_id": "REG-11-07.fr",
+      "date": "2011-10-19",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2011-07 du 19 octobre 2011 modifiant et complétant e règlement n°08-01 du 20 janvier 2008 relatif au dispositif de prévention et"
+      }
+    },
+    {
+      "work_id": "REG-11-07",
+      "document_id": "REG-11-07.fr",
+      "date": "2011-10-19",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le règlement n°08-01 du 20 janvier 2008 susvisé."
+      }
+    }
+  ],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée. Ce texte a été modifié/complété : consulter aussi les textes listés dans modifié_par / complété_par.",
+  "same_work_documents": [
+    "REG-08-01.ar"
+  ],
+  "complété_par": [
+    {
+      "work_id": "REG-11-07",
+      "document_id": "REG-11-07.fr",
+      "date": "2011-10-19",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2011-07 du 19 octobre 2011 modifiant et complétant e règlement n°08-01 du 20 janvier 2008 relatif au dispositif de prévention et"
+      }
+    },
+    {
+      "work_id": "REG-11-07",
+      "document_id": "REG-11-07.fr",
+      "date": "2011-10-19",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le règlement n°08-01 du 20 janvier 2008 susvisé."
+      }
+    }
+  ],
+  "modifié_par": [
+    {
+      "work_id": "REG-11-07",
+      "document_id": "REG-11-07.fr",
+      "date": "2011-10-19",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2011-07 du 19 octobre 2011 modifiant et complétant e règlement n°08-01 du 20 janvier 2008 relatif au dispositif de prévention et"
+      }
+    },
+    {
+      "work_id": "REG-11-07",
+      "document_id": "REG-11-07.fr",
+      "date": "2011-10-19",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le règlement n°08-01 du 20 janvier 2008 susvisé."
+      }
+    }
+  ],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 16",
+      "number": "16",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 17",
+      "number": "17",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe I",
+      "number": "I",
+      "heading": "AU REGLEMENT N°2008-01 DU 20 JANVIER 2008",
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe II",
+      "number": "II",
+      "heading": "AU REGLEMENT N°2008-01 DU 20 JANVIER 2008",
+      "page_start": 5,
+      "page_end": 5,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°2008-01 DU 20 JANVIER 2008 RELATIF\nAU DISPOSITIF DE PRÉVENTION ET DE LUTTE CONTRE\nL'ÉMISSION DE CHEQUES SANS PROVISION\nLe Gouverneur de la Banque d’Algérie,\n- Vu l'Ordonnance n°75-59 du 26 septembre 1975 modifiée et complétée portant\nCode de commerce, notamment ses articles 526 bis à 526 bis 16 ;\n- Vu l'Ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003 relative à la monnaie et au crédit, notamment son article 98 ;\n- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 02 juin 2001 portant nomination du Gouverneur et Vice Gouverneurs de la Banque d'Algérie ;\n- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 02 juin 2001 portant nomination des membres du Conseil d'administration de la Banque d'Algérie ;\n- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 02 juin 2001 portant nomination des membres du Conseil de la Monnaie et du Crédit de la\nBanque d'Algérie ;\n- Vu le décret présidentiel du 26 Chaâbane 1423 correspondant au 02 novembre 2003 portant nomination d'un membre du Conseil d'administration de la Banque d'Algérie ;\n- Vu le décret présidentiel du 05 Djoumada El Aouel 1427 correspondant au 1er juin 2006 portant nomination d'un Vice-Gouverneur de la Banque d'Algérie ;\n- Vu le Règlement n°92-02 du 22 mars 1992 portant organisation et fonctionnement de la\nCentrale des Impayés ;\n- Après délibération du Conseil de la Monnaie et du Crédit en date du 07 mars 2007 et du 20 janvier 2008 ;\nPromulgue le Règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°2008-01 DU 20 JANVIER 2008 RELATIF",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AU DISPOSITIF DE PRÉVENTION ET DE LUTTE CONTRE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L'ÉMISSION DE CHEQUES SANS PROVISION",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d’Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l'Ordonnance n°75-59 du 26 septembre 1975 modifiée et complétée portant",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Code de commerce, notamment ses articles 526 bis à 526 bis 16 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l'Ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003 relative à la monnaie et au crédit, notamment son article 98 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 02 juin 2001 portant nomination du Gouverneur et Vice Gouverneurs de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 02 juin 2001 portant nomination des membres du Conseil d'administration de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 02 juin 2001 portant nomination des membres du Conseil de la Monnaie et du Crédit de la",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 26 Chaâbane 1423 correspondant au 02 novembre 2003 portant nomination d'un membre du Conseil d'administration de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 05 Djoumada El Aouel 1427 correspondant au 1er juin 2006 portant nomination d'un Vice-Gouverneur de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Règlement n°92-02 du 22 mars 1992 portant organisation et fonctionnement de la",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Centrale des Impayés ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Après délibération du Conseil de la Monnaie et du Crédit en date du 07 mars 2007 et du 20 janvier 2008 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le Règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le présent règlement a pour objet la mise en place d'un dispositif de prévention et de lutte contre l'émission de chèques sans provision auquel participent les banques, le Trésor public et les services financiers d'Algérie Poste.",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement a pour objet la mise en place d'un dispositif de prévention et de lutte contre l'émission de chèques sans provision auquel participent les banques, le Trésor public et les services financiers d'Algérie Poste.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le dispositif visé ci-dessus est basé sur un système de centralisation des informations relatives aux incidents de paiement de chèques pour défaut ou insuffisance de provision et leur diffusion auprès des banques du Trésor public et des services financiers d'Algérie Poste pour consultation et exploitation, notamment lors de la délivrance du premier chéquier à leur client.",
+      "paragraphs": [
+        {
+          "text": "Le dispositif visé ci-dessus est basé sur un système de centralisation des informations relatives aux incidents de paiement de chèques pour défaut ou insuffisance de provision et leur diffusion auprès des banques du Trésor public et des services financiers d'Algérie Poste pour consultation et exploitation, notamment lors de la délivrance du premier chéquier à leur client.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Conformément à l'article 526 bis du code de commerce, les banques, le\nTrésor public et les services financiers d'Algérie Poste doivent, préalablement à la délivrance du premier chéquier au client, consulter le fichier de la centrale des impayés de la Banque d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "Conformément à l'article 526 bis du code de commerce, les banques, le",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Trésor public et les services financiers d'Algérie Poste doivent, préalablement à la délivrance du premier chéquier au client, consulter le fichier de la centrale des impayés de la Banque d'Algérie.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Dès la survenance d'un incident de paiement pour absence ou insuffisance de provision, le tiré est tenu conformément aux dispositions du code de commerce d'en faire la déclaration à la centrale des impayés de la Banque d'Algérie dans les quatre (4)\njours ouvrables suivant la date de présentation du chèque. Dans ce cadre, il est tenu également d'établir, de remettre ou de faire remettre au bénéficiaire un certificat de non-paiement.\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "Dès la survenance d'un incident de paiement pour absence ou insuffisance de provision, le tiré est tenu conformément aux dispositions du code de commerce d'en faire la déclaration à la centrale des impayés de la Banque d'Algérie dans les quatre (4)",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "jours ouvrables suivant la date de présentation du chèque. Dans ce cadre, il est tenu également d'établir, de remettre ou de faire remettre au bénéficiaire un certificat de non-paiement.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Dès la survenance d'un premier incident de paiement pour absence ou insuffisance de provision, dûment constaté, le tiré doit adresser à l'émetteur du chèque, dans le délai prévu par la législation en vigueur, une lettre d'injonction dont le modèle est annexé au présent règlement (annexe 1).",
+      "paragraphs": [
+        {
+          "text": "Dès la survenance d'un premier incident de paiement pour absence ou insuffisance de provision, dûment constaté, le tiré doit adresser à l'émetteur du chèque, dans le délai prévu par la législation en vigueur, une lettre d'injonction dont le modèle est annexé au présent règlement (annexe 1).",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "La lettre d'injonction adressée au titulaire du compte doit indiquer que la déclaration de l'incident de paiement est faite à la centrale des impayés et que faute de régularisation dans le délai de dix (10) jours imparti par la loi, il sera :\n- frappé de l'interdiction d'émettre des chèques pendant une durée de cinq (5) ans auprès de tous les établissements déclarants et ce, à compter de la date d'injonction ;\n- tenu de restituer les formules de chèques non encore émis en sa possession et en celle de ses mandataires.",
+      "paragraphs": [
+        {
+          "text": "La lettre d'injonction adressée au titulaire du compte doit indiquer que la déclaration de l'incident de paiement est faite à la centrale des impayés et que faute de régularisation dans le délai de dix (10) jours imparti par la loi, il sera :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- frappé de l'interdiction d'émettre des chèques pendant une durée de cinq (5) ans auprès de tous les établissements déclarants et ce, à compter de la date d'injonction ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- tenu de restituer les formules de chèques non encore émis en sa possession et en celle de ses mandataires.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Dans les vingt (20) jours qui suivent l'expiration du délai d'injonction de dix\n(10) jours visé à l'article 6 ci-dessus, l'émetteur du chèque non payé peut procéder à la régularisation de l'incident de paiement par la constitution d'une provision suffisante et disponible avec acquittement de la pénalité libératoire prévue par le code de commerce au profit du Trésor et ce pour le recouvrement de la possibilité d'émettre des chèques.",
+      "paragraphs": [
+        {
+          "text": "Dans les vingt (20) jours qui suivent l'expiration du délai d'injonction de dix",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "(10) jours visé à l'article 6 ci-dessus, l'émetteur du chèque non payé peut procéder à la régularisation de l'incident de paiement par la constitution d'une provision suffisante et disponible avec acquittement de la pénalité libératoire prévue par le code de commerce au profit du Trésor et ce pour le recouvrement de la possibilité d'émettre des chèques.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "A défaut de régularisation de l'incident de paiement dans les conditions prévues par l'article 526 bis 3 du code de commerce, le tiré doit :\n- prononcer à l'encontre du titulaire du compte une interdiction d'émettre des chèques pour une durée de cinq (5) ans à compter de la date d'injonction.\nL'interdiction s'applique conformément à l'article 526 bis 10 du code de commerce également aux mandataires, en ce qui concerne les comptes du titulaire ;\n- envoyer au titulaire du compte une injonction pour régularisation de l'incident de paiement par la constitution d'une provision suffisante et disponible avec acquittement de la pénalité libératoire prévue par le code de commerce au profit du Trésor.\nA défaut, l'interdit de chéquier ne recouvre la possibilité d'émettre des chèques qu'à l'expiration du délai d'interdiction.",
+      "paragraphs": [
+        {
+          "text": "A défaut de régularisation de l'incident de paiement dans les conditions prévues par l'article 526 bis 3 du code de commerce, le tiré doit :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- prononcer à l'encontre du titulaire du compte une interdiction d'émettre des chèques pour une durée de cinq (5) ans à compter de la date d'injonction.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "L'interdiction s'applique conformément à l'article 526 bis 10 du code de commerce également aux mandataires, en ce qui concerne les comptes du titulaire ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- envoyer au titulaire du compte une injonction pour régularisation de l'incident de paiement par la constitution d'une provision suffisante et disponible avec acquittement de la pénalité libératoire prévue par le code de commerce au profit du Trésor.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "A défaut, l'interdit de chéquier ne recouvre la possibilité d'émettre des chèques qu'à l'expiration du délai d'interdiction.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "La lettre d'injonction prévue à l'article 8 ci-dessus doit préciser le montant et le délai de paiement de la pénalité libératoire.\nLe modèle de la lettre d'injonction est annexé au présent règlement (annexe 2).",
+      "paragraphs": [
+        {
+          "text": "La lettre d'injonction prévue à l'article 8 ci-dessus doit préciser le montant et le délai de paiement de la pénalité libératoire.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le modèle de la lettre d'injonction est annexé au présent règlement (annexe 2).",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Faute de régularisation de l'incident de paiement dans les délais cumulés prévus par le code de commerce, des poursuites pénales sont engagées conformément aux dispositions du code pénal.",
+      "paragraphs": [
+        {
+          "text": "Faute de régularisation de l'incident de paiement dans les délais cumulés prévus par le code de commerce, des poursuites pénales sont engagées conformément aux dispositions du code pénal.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le tiré est tenu, conformément à l'article 526 bis 7 du code de commerce, de déclarer sans délai à la centrale des impayés toute mesure d'interdiction d'émettre des chèques prise à l'encontre de l'un de ses clients.\nLa Banque d'Algérie communique, régulièrement aux banques, au Trésor public et aux services financiers d'Algérie Poste, la liste mise à jour des interdits de chéquiers.",
+      "paragraphs": [
+        {
+          "text": "Le tiré est tenu, conformément à l'article 526 bis 7 du code de commerce, de déclarer sans délai à la centrale des impayés toute mesure d'interdiction d'émettre des chèques prise à l'encontre de l'un de ses clients.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "La Banque d'Algérie communique, régulièrement aux banques, au Trésor public et aux services financiers d'Algérie Poste, la liste mise à jour des interdits de chéquiers.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 3,
+      "text": "Les banques, le Trésor public et les services financiers d'Algérie Poste doivent, dès communication par la Banque d'Algérie de la liste des interdits de chéquiers conformément aux articles 526 bis 8 et 526 bis 9 du code de commerce :\n- s'abstenir de délivrer un chéquier à tout client qui figure sur cette liste ;\n- demander au client concerné de restituer les formules de chèques non encore émis.",
+      "paragraphs": [
+        {
+          "text": "Les banques, le Trésor public et les services financiers d'Algérie Poste doivent, dès communication par la Banque d'Algérie de la liste des interdits de chéquiers conformément aux articles 526 bis 8 et 526 bis 9 du code de commerce :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- s'abstenir de délivrer un chéquier à tout client qui figure sur cette liste ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- demander au client concerné de restituer les formules de chèques non encore émis.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Le tiré est solidairement tenu conformément à l'article 526 bis 15 du code de commerce de payer les indemnités civiles accordées au porteur pour non-paiement s'il ne justifie pas que l'ouverture du compte et la délivrance des formules de chèques ont été effectuées conformément aux procédures légales et réglementaires régissant les incidents de paiement.",
+      "paragraphs": [
+        {
+          "text": "Le tiré est solidairement tenu conformément à l'article 526 bis 15 du code de commerce de payer les indemnités civiles accordées au porteur pour non-paiement s'il ne justifie pas que l'ouverture du compte et la délivrance des formules de chèques ont été effectuées conformément aux procédures légales et réglementaires régissant les incidents de paiement.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Les contraventions aux dispositions du présent règlement et à celles des textes subséquents sont déclarées à la commission bancaire.",
+      "paragraphs": [
+        {
+          "text": "Les contraventions aux dispositions du présent règlement et à celles des textes subséquents sont déclarées à la commission bancaire.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Les modalités d'application du présent règlement sont précisées par instruction de la Banque d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "Les modalités d'application du présent règlement sont précisées par instruction de la Banque d'Algérie.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 16",
+      "number": "16",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Toutes les dispositions contraires au présent règlement sont abrogées.",
+      "paragraphs": [
+        {
+          "text": "Toutes les dispositions contraires au présent règlement sont abrogées.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 17",
+      "number": "17",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Le présent règlement sera publié au Journal officiel de la République algérienne démocratique et populaire.\nLe Gouverneur\nMohammed LAKSACI",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement sera publié au Journal officiel de la République algérienne démocratique et populaire.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe I",
+      "number": "I",
+      "heading": "AU REGLEMENT N°2008-01 DU 20 JANVIER 2008",
+      "context": {},
+      "annexe": {
+        "number": "I",
+        "heading": "AU REGLEMENT N°2008-01 DU 20 JANVIER 2008",
+        "label": "Annexe I"
+      },
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Etablissement : ......................\nAgence de : ...........................\nNom, prénoms ou raison sociale ou dénomination commerciale :\nAdresse :\nObjet : Injonction de régularisation\nMadame, Mademoiselle, Monsieur\nNous avons le regret de porter à votre connaissance que le chèque n° ..................., d’un montant de : .................. émis le : .................. sur votre compte n° .................. à l’ordre de .................... et présenté au paiement le .................... a été rejeté par nos soins pour absence (ou insuffisance) de provision.\nConformément à la réglementation en vigueur, nous avons délivré au bénéficiaire un certificat de non-paiement n°................. qui équivaut à l’acte de protêt en application des dispositions de l’article 531 du code de commerce.\nAussi, pour éviter l’interdiction bancaire dont vous vous êtes rendu passible, nous vous invitons à régulariser l’incident de paiement susvisé dans un délai de dix (10) jours à compter de la date d’envoi de la présente lettre, par la constitution d’une provision suffisante et disponible pour le règlement du chèque par nos soins et ce au cours du délai précité.\nEn cas de non régularisation dans le délai imparti, conformément aux dispositions légales, vous serez déclaré interdit d’émettre des chèques pendant une durée de cinq (5) ans à compter de la date d’envoi de la lettre d’injonction et à ce titre :\n1- Sur tous vos comptes, il vous sera interdit d’émettre des chèques, autres que ceux de retrait (chèque guichet) auprès du tiré ou de chèques certifiés ;\n2- Vous serez tenu de restituer toutes les formules de chèques en votre possession et en celle de vos mandataires ;\n3- Afin de recouvrer la possibilité d’émettre des chèques, vous serez soumis au paiement de la pénalité libératoire au profit du Trésor public avec le montant du chèque impayé.\nA l’avenir, nous vous invitons à bien vous assurer de la disponibilité d’une provision suffisante avant toute émission de chèque.\nFait à.................., le............................",
+      "paragraphs": [
+        {
+          "text": "Etablissement : ......................",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Agence de : ...........................",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Nom, prénoms ou raison sociale ou dénomination commerciale :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Adresse :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Objet : Injonction de régularisation",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Madame, Mademoiselle, Monsieur",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Nous avons le regret de porter à votre connaissance que le chèque n° ..................., d’un montant de : .................. émis le : .................. sur votre compte n° .................. à l’ordre de .................... et présenté au paiement le .................... a été rejeté par nos soins pour absence (ou insuffisance) de provision.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Conformément à la réglementation en vigueur, nous avons délivré au bénéficiaire un certificat de non-paiement n°................. qui équivaut à l’acte de protêt en application des dispositions de l’article 531 du code de commerce.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Aussi, pour éviter l’interdiction bancaire dont vous vous êtes rendu passible, nous vous invitons à régulariser l’incident de paiement susvisé dans un délai de dix (10) jours à compter de la date d’envoi de la présente lettre, par la constitution d’une provision suffisante et disponible pour le règlement du chèque par nos soins et ce au cours du délai précité.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "En cas de non régularisation dans le délai imparti, conformément aux dispositions légales, vous serez déclaré interdit d’émettre des chèques pendant une durée de cinq (5) ans à compter de la date d’envoi de la lettre d’injonction et à ce titre :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "1- Sur tous vos comptes, il vous sera interdit d’émettre des chèques, autres que ceux de retrait (chèque guichet) auprès du tiré ou de chèques certifiés ;",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "2- Vous serez tenu de restituer toutes les formules de chèques en votre possession et en celle de vos mandataires ;",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "3- Afin de recouvrer la possibilité d’émettre des chèques, vous serez soumis au paiement de la pénalité libératoire au profit du Trésor public avec le montant du chèque impayé.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "A l’avenir, nous vous invitons à bien vous assurer de la disponibilité d’une provision suffisante avant toute émission de chèque.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Fait à.................., le............................",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe II",
+      "number": "II",
+      "heading": "AU REGLEMENT N°2008-01 DU 20 JANVIER 2008",
+      "context": {},
+      "annexe": {
+        "number": "II",
+        "heading": "AU REGLEMENT N°2008-01 DU 20 JANVIER 2008",
+        "label": "Annexe II"
+      },
+      "page_start": 5,
+      "page_end": 5,
+      "text": "Etablissement : ......................\nAgence de : ...........................\nNom, prénoms ou raison sociale ou dénomination commerciale :\nAdresse :\nObjet : Injonction de régularisation suite à un deuxième incident de paiement\nMadame ou Mademoiselle, Monsieur\nNous avons le regret de porter à votre connaissance que le chèque n° ......................... d’un montant de : ..................... émis le : ...................... sur votre compte n° ....................... à l’ordre de ................ et présenté au paiement le ............... a été rejeté par nos soins pour absence (ou insuffisance) de provision.\nConformément à la réglementation en vigueur, nous avons délivré au bénéficiaire un certificat de non-paiement n°.......... qui équivaut à l’acte de protêt en application des dispositions de l’article 531 du code de commerce.\nNous vous rappelons que cet incident de paiement survient moins d’un an après le premier incident de paiement faisant l’objet de notre lettre d’injonction recommandée avec accusé de réception du .................\nPar conséquent nous vous informons que vous êtes interdit de chéquier pour une durée de cinq ans\n(5) à compter du ...................... et ce, en application des dispositions légales et réglementaires. A ce titre :\n1- Sur tous vos comptes, il vous sera interdit d’émettre des chèques, autres que ceux de retrait (chèque guichet) auprès du tiré ou de chèques certifiés ;\n2- Vous serez tenu de restituer toutes les formules de chèques en votre possession et en celle de vos mandataires.\nCependant, pour recouvrer la possibilité d’émettre des chèques, vous serez soumis au paiement de la pénalité libératoire au profit du Trésor public dont le montant est de ................, ainsi que le montant du chèque impayé et ce, dans un délai de vingt (20) jours à compter de la date d’envoi de la présente lettre.\nA l’avenir, nous vous invitons à bien vous assurer de la disponibilité d’une provision suffisante avant toute émission de chèque.\nFait à.................., le............................",
+      "paragraphs": [
+        {
+          "text": "Etablissement : ......................",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Agence de : ...........................",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Nom, prénoms ou raison sociale ou dénomination commerciale :",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Adresse :",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Objet : Injonction de régularisation suite à un deuxième incident de paiement",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Madame ou Mademoiselle, Monsieur",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Nous avons le regret de porter à votre connaissance que le chèque n° ......................... d’un montant de : ..................... émis le : ...................... sur votre compte n° ....................... à l’ordre de ................ et présenté au paiement le ............... a été rejeté par nos soins pour absence (ou insuffisance) de provision.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Conformément à la réglementation en vigueur, nous avons délivré au bénéficiaire un certificat de non-paiement n°.......... qui équivaut à l’acte de protêt en application des dispositions de l’article 531 du code de commerce.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Nous vous rappelons que cet incident de paiement survient moins d’un an après le premier incident de paiement faisant l’objet de notre lettre d’injonction recommandée avec accusé de réception du .................",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Par conséquent nous vous informons que vous êtes interdit de chéquier pour une durée de cinq ans",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "(5) à compter du ...................... et ce, en application des dispositions légales et réglementaires. A ce titre :",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "1- Sur tous vos comptes, il vous sera interdit d’émettre des chèques, autres que ceux de retrait (chèque guichet) auprès du tiré ou de chèques certifiés ;",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "2- Vous serez tenu de restituer toutes les formules de chèques en votre possession et en celle de vos mandataires.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Cependant, pour recouvrer la possibilité d’émettre des chèques, vous serez soumis au paiement de la pénalité libératoire au profit du Trésor public dont le montant est de ................, ainsi que le montant du chèque impayé et ce, dans un délai de vingt (20) jours à compter de la date d’envoi de la présente lettre.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "A l’avenir, nous vous invitons à bien vous assurer de la disponibilité d’une provision suffisante avant toute émission de chèque.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Fait à.................., le............................",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.087
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-08-01.fr.txt"
+}

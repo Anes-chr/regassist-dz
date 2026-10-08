@@ -1,0 +1,426 @@
+{
+  "document_id": "INS-01-22.fr",
+  "work_id": "INS-01-22",
+  "title": "Instruction n°01-2022 du 3 janvier 2022 relative aux conditions de rémunération des comptes devises.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "01-2022",
+  "number_source": "en-tête du document",
+  "date": "2022-01-05",
+  "date_raw": "N°01-2022 DU 5 JANVIER 2022",
+  "date_source": "en-tête du document",
+  "publication_date": "2022-04-05",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Règles générales en matière de conditions de banque applicables aux opérations de banque",
+  "source_url": "https://www.bank-of-algeria.dz/taux-excessifs-instruction-2/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2022/04/instruction012022.pdf",
+  "format": "pdf",
+  "file_hash": "cf89081de80b9de7c87df3555eaae4d1cd141fa0c1a407d5271b3894ff608588",
+  "file_size": 54484,
+  "raw_path": "raw/cf89081de80b__instruction012022.pdf",
+  "retrieved_at": "2026-10-05T13:25:04+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "537756d2bdf061a26aa59ac23f60e734f7ca4d137d8d1f33e47fceffaa84aa46",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-2022/",
+    "https://www.bank-of-algeria.dz/comptes-devises-instruction/",
+    "https://www.bank-of-algeria.dz/taux-excessifs-instruction-2/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - instruction DAT",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20220105174514+01'00'",
+    "modDate": "D:20220105174514+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 1730,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 439,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 9,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "incoherence_libelle_vs_document:date"
+  ],
+  "title_document": "INSTRUCTION N°01-2022 DU 5 JANVIER 2022 RELATIVE AUX CONDITIONS DE REMUNERATION DES COMPTES DEVISES",
+  "label_date": "2022-01-03",
+  "alias_urls": [],
+  "text_hash": "b78e8f1e9dbdd0a576748a73885b4184e65bdb04cbddd65c0e4cef801661f39f",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-01-22.ar",
+    "INS-01-22.ar~2"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°01-2022 DU 5 JANVIER 2022\nRELATIVE AUX CONDITIONS DE REMUNERATION\nDES COMPTES DEVISES\nLa présente instruction a pour objet de définir les conditions de rémunération des dépôts sur comptes devises des personnes physiques de nationalité algérienne résidentes et non résidentes, des personnes physiques de nationalité étrangère résidentes et non résidentes ainsi que les comptes devises commerçants et exportateurs.",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°01-2022 DU 5 JANVIER 2022",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "RELATIVE AUX CONDITIONS DE REMUNERATION",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DES COMPTES DEVISES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La présente instruction a pour objet de définir les conditions de rémunération des dépôts sur comptes devises des personnes physiques de nationalité algérienne résidentes et non résidentes, des personnes physiques de nationalité étrangère résidentes et non résidentes ainsi que les comptes devises commerçants et exportateurs.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les dépôts à terme des personnes physiques sont rémunérés au taux de placement fixé par la Banque d’Algérie.",
+      "paragraphs": [
+        {
+          "text": "Les dépôts à terme des personnes physiques sont rémunérés au taux de placement fixé par la Banque d’Algérie.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les avoirs en comptes devises commerçants et exportateurs, ne peuvent faire l’objet de dépôt à terme, et ne donnent lieu à aucune rémunération.",
+      "paragraphs": [
+        {
+          "text": "Les avoirs en comptes devises commerçants et exportateurs, ne peuvent faire l’objet de dépôt à terme, et ne donnent lieu à aucune rémunération.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les contrats de dépôts à terme sont fermes et non révisables, toute résiliation anticipée du dit-contrat par le souscripteur, entrainera la perte de toute rémunération.",
+      "paragraphs": [
+        {
+          "text": "Les contrats de dépôts à terme sont fermes et non révisables, toute résiliation anticipée du dit-contrat par le souscripteur, entrainera la perte de toute rémunération.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Une décision de la Banque d’Algérie fixera, au début de chaque trimestre civil, les taux de placement à terme visés à l’article 1er ci-dessus.",
+      "paragraphs": [
+        {
+          "text": "Une décision de la Banque d’Algérie fixera, au début de chaque trimestre civil, les taux de placement à terme visés à l’article 1er ci-dessus.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La durée maximale d’un dépôt à terme est de 12 mois.",
+      "paragraphs": [
+        {
+          "text": "La durée maximale d’un dépôt à terme est de 12 mois.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les banques perçoivent, au titre de la gestion des comptes devises ouverts et fonctionnant sur leurs livres, une commission de gestion fixée à 0,50% l’an, versée en dinars Algériens.\nCette rémunération est calculée sur le solde moyen annuel de l’ensemble des comptes devises gérés par leurs services, et leur est versée une fois par an et ce à partir du début de chaque exercice au titre de l’année venant de s’écouler.\nLe solde moyen annuel des comptes devises sous gestion des banques, est déterminé sous sa responsabilité.",
+      "paragraphs": [
+        {
+          "text": "Les banques perçoivent, au titre de la gestion des comptes devises ouverts et fonctionnant sur leurs livres, une commission de gestion fixée à 0,50% l’an, versée en dinars Algériens.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Cette rémunération est calculée sur le solde moyen annuel de l’ensemble des comptes devises gérés par leurs services, et leur est versée une fois par an et ce à partir du début de chaque exercice au titre de l’année venant de s’écouler.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le solde moyen annuel des comptes devises sous gestion des banques, est déterminé sous sa responsabilité.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "La Banque d’Algérie prend à sa charge les rémunérations des comptes devises dans les conditions et limites fixées par la présente instruction.",
+      "paragraphs": [
+        {
+          "text": "La Banque d’Algérie prend à sa charge les rémunérations des comptes devises dans les conditions et limites fixées par la présente instruction.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les dispositions de l’instruction N°01/BA/DGRFE du 20 février 1991 et toute autre dispositions contraires à la présente instruction, sont abrogées.",
+      "paragraphs": [
+        {
+          "text": "Les dispositions de l’instruction N°01/BA/DGRFE du 20 février 1991 et toute autre dispositions contraires à la présente instruction, sont abrogées.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "La présente instruction entre en vigueur à compter du 2 janvier 2022.\nLe Gouverneur\nRosthom FADLI",
+      "paragraphs": [
+        {
+          "text": "La présente instruction entre en vigueur à compter du 2 janvier 2022.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Rosthom FADLI",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "incoherence_libelle_vs_document:date"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.031
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-01-22.fr.txt"
+}

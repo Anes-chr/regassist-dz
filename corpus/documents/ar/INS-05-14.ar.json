@@ -1,0 +1,322 @@
+{
+  "document_id": "INS-05-14.ar",
+  "work_id": "INS-05-14",
+  "title": "تعليمة رقم 05-2014 المؤرخة في 30 ديسمبر 2014 تتعلق بنماذج تصريح البنوك والمؤسسات المالية بالمخاطر الكبرى.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "05-2014",
+  "number_source": "libelle",
+  "date": "2014-12-30",
+  "date_raw": "المؤرخة في 30 ديسمبر 2014",
+  "date_source": "libelle",
+  "publication_date": "2023-03-02",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "instructions",
+  "subcategory": "المعايير الاحترازية",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d8%a8%d9%86%d9%83-2/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/03/05-2014.pdf",
+  "format": "pdf",
+  "file_hash": "1dd1a251ecfdde03f55de0730eba3e9622be3230a54ffb13210db3f54ea9f4a8",
+  "file_size": 207650,
+  "raw_path": "raw/1dd1a251ecfd__05-2014.pdf",
+  "retrieved_at": "2026-10-05T13:29:35+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 1,
+  "url_hash": "e597f6d728875d85e67989f3a3c1d0e78e6cd33fcea9141e1dcc7f73aa361ce6",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d8%a8%d9%86%d9%83-2/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "author": "chahra yahiaoui",
+    "creator": "Microsoft® Word 2016",
+    "producer": "Microsoft® Word 2016",
+    "creationDate": "D:20230228153933+01'00'",
+    "modDate": "D:20230228153933+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 1058,
+        "ocr_confidence": 83.92222222222222
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 5,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine"
+  ],
+  "title_document": "تعليمة رقم 14-05 مؤرخة في 30 ديسمبر 2014 تتعلق بنماذج تصريح البنوك والمؤسسات المالية بالمخاطر الكبرى المادة الأولى : تهدف هذه التعليمة إلى تحديد تماذج التصريح بالمخاطر الكبيرى من طرف الينوك والمؤسسات المالية. وققا للمادة 17 من النظام رقم 02-14 المؤرخ في 16 A au)‏ 1435 المواقق 16 فيراير سنة 2014 المتعلق بالمخاطر الكيرى وبالمساهمات. المادة 2: يلحق يهذه التحليمة: - التموذج 1000 G‏ ( الملحق 1) المتعلق بمراقية المخاطر as JA‏ - التموذج 2000 G‏ (الملحق 2 ) المتعلق يكشتف المخاطر الكيرى.",
+  "alias_urls": [],
+  "text_hash": "58df54d9a6637f47ad0790590ee2fd9840e9e68af4332345d4d6d8ca6277860a",
+  "relations_out": [
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "74-94",
+        "date": "1994-11-29",
+        "raw": "instruction n°74-94 du 29 novembre 1994"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Sont abrogées toutes dispositions contraires, notamment l’instruction n°74-94 du 29 novembre 1994 relative à la fixation des règles prude",
+        "copied_from": "INS-05-14.fr"
+      },
+      "target_work_id": "INS-74-94"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "INS-74-94",
+      "reference": "instruction n°74-94 du 29 novembre 1994",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Sont abrogées toutes dispositions contraires, notamment l’instruction n°74-94 du 29 novembre 1994 relative à la fixation des règles prude",
+        "copied_from": "INS-05-14.fr"
+      }
+    }
+  ],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-05-14.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "ocr_numeric_check": {
+    "units": 6,
+    "units_flagged": 0,
+    "units_compared_with_french": 5,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تعليمة رقم 14-05 مؤرخة في 30 ديسمبر 2014 تتعلق بنماذج تصريح البنوك والمؤسسات المالية بالمخاطر الكبرى",
+      "paragraphs": [
+        {
+          "text": "تعليمة رقم 14-05 مؤرخة في 30 ديسمبر 2014 تتعلق بنماذج تصريح البنوك والمؤسسات المالية بالمخاطر الكبرى",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تهدف هذه التعليمة إلى تحديد تماذج التصريح بالمخاطر الكبيرى من طرف الينوك والمؤسسات المالية. وققا للمادة 17 من النظام رقم 02-14 المؤرخ في 16 A au)‏ 1435 المواقق 16 فيراير سنة 2014 المتعلق بالمخاطر الكيرى وبالمساهمات.",
+      "paragraphs": [
+        {
+          "text": "تهدف هذه التعليمة إلى تحديد تماذج التصريح بالمخاطر الكبيرى من طرف الينوك والمؤسسات المالية. وققا للمادة 17 من النظام رقم 02-14 المؤرخ في 16 A au)‏ 1435 المواقق 16 فيراير سنة 2014 المتعلق بالمخاطر الكيرى وبالمساهمات.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يلحق يهذه التحليمة:\n- التموذج 1000 G‏ ( الملحق 1) المتعلق بمراقية المخاطر as JA‏\n- التموذج 2000 G‏ (الملحق 2 ) المتعلق يكشتف المخاطر الكيرى.",
+      "paragraphs": [
+        {
+          "text": "يلحق يهذه التحليمة:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- التموذج 1000 G‏ ( الملحق 1) المتعلق بمراقية المخاطر as JA‏",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- التموذج 2000 G‏ (الملحق 2 ) المتعلق يكشتف المخاطر الكيرى.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تملأ التماذج المشار إليها في المادة 2 عند تهاية كل LD‏ يجب أن تسلم إلى اللجنة المصرفية élu,‏ الجزائر - المديرية العامة للمقتشية العامة - في أجل أقصاه تلاتين (30) يوما من تاريخ الإقفال SD‏",
+      "paragraphs": [
+        {
+          "text": "تملأ التماذج المشار إليها في المادة 2 عند تهاية كل LD‏ يجب أن تسلم إلى اللجنة المصرفية élu,‏ الجزائر - المديرية العامة للمقتشية العامة - في أجل أقصاه تلاتين (30) يوما من تاريخ الإقفال SD‏",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تلعى كل الأحكام المخالقة لهذه التعليمة. لاسيما التعليمة رقم 94-74 المؤرخة في 29 nas Si‏ 1994 المتعلقة يتحديد قواعد الحذر في تسيير المصارقف والمؤسسات الماليةء المعدلة والمتممة والتعليمة رقم 99-04 المؤرخة فى 12 أوت 1999 المتصمتة تمادّج تصريحات dl li‏ والمؤسسات المالية لنسب التغطية وتقسيم المخاطر.",
+      "paragraphs": [
+        {
+          "text": "تلعى كل الأحكام المخالقة لهذه التعليمة. لاسيما التعليمة رقم 94-74 المؤرخة في 29 nas Si‏ 1994 المتعلقة يتحديد قواعد الحذر في تسيير المصارقف والمؤسسات الماليةء المعدلة والمتممة والتعليمة رقم 99-04 المؤرخة فى 12 أوت 1999 المتصمتة تمادّج تصريحات dl li‏ والمؤسسات المالية لنسب التغطية وتقسيم المخاطر.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تدخل هذه التعليمة حيز التتقيذ ابتداء من تاريخ التوقيع عليها.",
+      "paragraphs": [
+        {
+          "text": "تدخل هذه التعليمة حيز التتقيذ ابتداء من تاريخ التوقيع عليها.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.043,
+      "ocr_pages": [
+        1
+      ],
+      "ocr_mean_confidence": 83.9
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/INS-05-14.ar.txt"
+}

@@ -1,0 +1,523 @@
+{
+  "document_id": "REG-21-03.fr",
+  "work_id": "REG-21-03",
+  "title": "Règlement n°2021-03 du 11 août 2021 portant émission et mise en circulation d’une pièce de monnaie métallique de cent (100) dinars algériens.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "2021-03",
+  "number_source": "en-tête du document",
+  "date": "2021-08-11",
+  "date_raw": "N°2021-03 DU 11 AOUT 2021",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-11",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "règlements",
+  "subcategory": "Pièces de monnaie : Création, émission et mise en circulation de pièces de monnaie métalliques",
+  "source_url": "https://www.bank-of-algeria.dz/reglement-piece-de-monnaie/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/11/reglement202103.pdf",
+  "format": "pdf",
+  "file_hash": "0217d2761616ca98a7d0cefc1c29a9d5807b2b75e6b693323e6331e31b8d7d66",
+  "file_size": 93401,
+  "raw_path": "raw/0217d2761616__reglement202103.pdf",
+  "retrieved_at": "2026-10-05T13:24:59+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "3af48eed33c8322f38383e6bd41e14a086a5fa69031d3b65aeb1aa0eed7f2f28",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/devise/",
+    "https://www.bank-of-algeria.dz/investissements/",
+    "https://www.bank-of-algeria.dz/reglement-2021/",
+    "https://www.bank-of-algeria.dz/reglement-piece-de-monnaie/",
+    "https://www.bank-of-algeria.dz/title/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Microsoft Word - REG.21-03.FR-3[1]-1",
+    "author": "chahra.yahiaoui",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "creationDate": "D:20210905153209+01'00'",
+    "modDate": "D:20210905153209+01'00'"
+  },
+  "hijri_date_raw": "27 Joumada Ethania 1424",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2163,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 1350,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": [
+      {
+        "page": 1,
+        "removed": "1",
+        "why": "numéro de page"
+      },
+      {
+        "page": 2,
+        "removed": "2",
+        "why": "numéro de page"
+      }
+    ]
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 4,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "REGLEMENT N°2021-03 DU 11 AOUT 2021 PORTANT EMISSION ET MISE EN CIRCULATION D’UNE PIECE DE MONNAIE METALLIQUE DE CENT (100) DINARS ALGERIENS",
+  "alias_urls": [],
+  "text_hash": "cc0fdd3c3d8e79cab186744d22040362cb0a8fb5a8f9812b9b19dfcc3921e3be",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-21-03.ar"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°2021-03 DU 11 AOUT 2021 PORTANT\nEMISSION ET MISE EN CIRCULATION D’UNE PIECE DE MONNAIE METALLIQUE\nDE CENT (100) DINARS ALGERIENS\nLe Gouverneur de la Banque d'Algérie,\n- Vu l’Ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003 modifiée et complétée, relative à la monnaie et au crédit, notamment ses articles 38, 62 (alinéa a), 63 et 64 ;\n- Vu le Décret Présidentiel du 5 Safar 1437, correspondant au 17 novembre 2015 portant nomination des membres du Conseil d’Administration de la Banque d’Algérie ;\n- Vu le Décret Présidentiel du 27 Moharram 1442 correspondant au 15 septembre 2020 portant nomination du Gouverneur de la Banque d’Algérie ;\n- Vu le Décret Présidentiel du 17 Safar 1438 correspondant au 17 Novembre 2016 portant nomination de Vice-Gouverneurs de la Banque d’Algérie ;\n- Vu le Décret Présidentiel du 18 Rabie Ethani 1441 correspondant au 15 décembre 2019 portant nomination de Vice-Gouverneurs de la Banque d’Algérie ;\n- Après délibération du\nConseil de la\nMonnaie et du\nCrédit en date du 11 août 2021;\nPromulgue le Règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°2021-03 DU 11 AOUT 2021 PORTANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "EMISSION ET MISE EN CIRCULATION D’UNE PIECE DE MONNAIE METALLIQUE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DE CENT (100) DINARS ALGERIENS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d'Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’Ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003 modifiée et complétée, relative à la monnaie et au crédit, notamment ses articles 38, 62 (alinéa a), 63 et 64 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 5 Safar 1437, correspondant au 17 novembre 2015 portant nomination des membres du Conseil d’Administration de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 27 Moharram 1442 correspondant au 15 septembre 2020 portant nomination du Gouverneur de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 17 Safar 1438 correspondant au 17 Novembre 2016 portant nomination de Vice-Gouverneurs de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 18 Rabie Ethani 1441 correspondant au 15 décembre 2019 portant nomination de Vice-Gouverneurs de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Après délibération du",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Conseil de la",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Monnaie et du",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Crédit en date du 11 août 2021;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le Règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Une pièce de monnaie métallique de cent (100) dinars sera frappée et émise par la Banque d’Algérie.",
+      "paragraphs": [
+        {
+          "text": "Une pièce de monnaie métallique de cent (100) dinars sera frappée et émise par la Banque d’Algérie.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Cette nouvelle pièce sera mise en circulation après la promulgation du présent règlement.",
+      "paragraphs": [
+        {
+          "text": "Cette nouvelle pièce sera mise en circulation après la promulgation du présent règlement.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "Les caractéristiques techniques et descriptions de cette pièce sont les suivantes :\n1 - Présentation :\nLa pièce de cent (100) dinars algériens est de type bimétallique.\nElle est constituée d’une couronne extérieure en acier inoxydable, de couleur gris acier et d’un cœur en cupronickel serti à l’intérieur de cette couronne, de couleur jaune rosâtre.\n2 – Specifications:\n‐\nDiamètre extérieur : 29,50 +/- 0,05 mm ‐\nDiamètre du cœur : 19,55 +/- 0,05 mm ‐\nEpaisseur au cordon : 2,30+/- 0,05 mm ‐\nPoids de la couronne : 5,60 +/- 0,14 g ‐\nPoids du cœur : 5,40 +/- 0,11 g ‐\nPoids total\n: 11,00 +/- 0,25 g\n3 - Composition chimique :\nCœur : Cuivre : 87%\nNickel : 13%\nCouronne : Acier : AISI 430\n4 - Description :\n4.1- AVERS :\nA) Motif principal : Effigie du martyr Ali Amar à l’intérieur du cœur au centre de la pièce sur un fond avec une texture.\na) Nom d’ALI AMAR en langue nationale علي عمارapposé à l’intérieur de la couronne sur la partie supérieure de la pièce.\nb) Dates de Naissance 1930 et de décès 1957 apposées à l’intérieur de la couronne sur les parties droite et gauche de la pièce.\nc) Deux étoiles équidistantes en haut et en bas des dates de naissance à droite et de décès à gauche de la pièce apposées à l’intérieur de la couronne.\nd) Triple Millésime Hégirien, Grégorien et Amazigh de l'année de frappe :\nApposé à l’intérieur de la couronne sur la partie inférieure de la pièce.\nB) Tranche : Cannelée,\n4.2- REVERS :\nA)- Motif principal : le Chiffre « 100 » stylisé et caractérisé à l’intérieur par une micro gravure\nB)- Mentions en toutes lettres et en langue nationale :\n‐\nSur la partie supérieure :\n‐\nSur la partie inférieure :\n‐\nUne étoile de part et d’autre du chiffre 100 sépare horizontalement.\net\nC)- Texture sous forme de pavé sur le cœur de la pièce.",
+      "paragraphs": [
+        {
+          "text": "Les caractéristiques techniques et descriptions de cette pièce sont les suivantes :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "1 - Présentation :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La pièce de cent (100) dinars algériens est de type bimétallique.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Elle est constituée d’une couronne extérieure en acier inoxydable, de couleur gris acier et d’un cœur en cupronickel serti à l’intérieur de cette couronne, de couleur jaune rosâtre.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "2 – Specifications:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "‐",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Diamètre extérieur : 29,50 +/- 0,05 mm ‐",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Diamètre du cœur : 19,55 +/- 0,05 mm ‐",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Epaisseur au cordon : 2,30+/- 0,05 mm ‐",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Poids de la couronne : 5,60 +/- 0,14 g ‐",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Poids du cœur : 5,40 +/- 0,11 g ‐",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Poids total",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": ": 11,00 +/- 0,25 g",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "3 - Composition chimique :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Cœur : Cuivre : 87%",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Nickel : 13%",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Couronne : Acier : AISI 430",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "4 - Description :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "4.1- AVERS :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "A) Motif principal : Effigie du martyr Ali Amar à l’intérieur du cœur au centre de la pièce sur un fond avec une texture.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "a) Nom d’ALI AMAR en langue nationale علي عمارapposé à l’intérieur de la couronne sur la partie supérieure de la pièce.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "b) Dates de Naissance 1930 et de décès 1957 apposées à l’intérieur de la couronne sur les parties droite et gauche de la pièce.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "c) Deux étoiles équidistantes en haut et en bas des dates de naissance à droite et de décès à gauche de la pièce apposées à l’intérieur de la couronne.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "d) Triple Millésime Hégirien, Grégorien et Amazigh de l'année de frappe :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Apposé à l’intérieur de la couronne sur la partie inférieure de la pièce.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "B) Tranche : Cannelée,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "4.2- REVERS :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "A)- Motif principal : le Chiffre « 100 » stylisé et caractérisé à l’intérieur par une micro gravure",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "B)- Mentions en toutes lettres et en langue nationale :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "‐",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Sur la partie supérieure :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "‐",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Sur la partie inférieure :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "‐",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Une étoile de part et d’autre du chiffre 100 sépare horizontalement.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "et",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "C)- Texture sous forme de pavé sur le cœur de la pièce.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le présent Règlement sera publié au Journal Officiel de la République\nAlgérienne Démocratique et Populaire.\nLe Gouverneur,\nRosthom FADLI",
+      "paragraphs": [
+        {
+          "text": "Le présent Règlement sera publié au Journal Officiel de la République",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Algérienne Démocratique et Populaire.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Gouverneur,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Rosthom FADLI",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.061
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-21-03.fr.txt"
+}

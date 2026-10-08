@@ -1,0 +1,403 @@
+{
+  "document_id": "REG-17-02.ar",
+  "work_id": "REG-17-02",
+  "title": "نظام رقم 17-02 المؤرخ في 25 سبتمبر 2017، يعدل ويتمم النظام رقم 07-01 المؤرخ في 3 فبراير سنة 2007 والمتعلق بالقواعد المطبقة على المعاملات الجارية مع الخارج والحسابات بالعملة الصعبة.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "17-02",
+  "number_source": "libelle",
+  "date": "2017-09-25",
+  "date_raw": "المؤرخ في 25 سبتمبر 2017",
+  "date_source": "libelle",
+  "publication_date": "2023-02-28",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "règlements",
+  "subcategory": "تنظيم الصرف",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%aa%d9%86%d8%b8%d9%8a%d9%85-%d8%a7%d9%84%d8%b5%d8%b1%d9%81-2/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/02/02-2017.pdf",
+  "format": "pdf",
+  "file_hash": "bf6fad72321e292f803ed65ad2e8cc78aea67903a5e5a94efdedf0d4c7667bf0",
+  "file_size": 177689,
+  "raw_path": "raw/bf6fad72321e__02-2017.pdf",
+  "retrieved_at": "2026-10-05T13:27:53+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 2,
+  "url_hash": "ecb4c9dfaf6500b7f08524984e80b027b6f0ac97a22636d45ee682a99159aa75",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%aa%d9%86%d8%b8%d9%8a%d9%85-%d8%a7%d9%84%d8%b5%d8%b1%d9%81-2/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document1",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20230226143710+01'00'",
+    "modDate": "D:20230226143710+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 2040,
+        "ocr_confidence": 80.99724517906336
+      },
+      {
+        "page": 2,
+        "method": "ocr",
+        "chars": 451,
+        "ocr_confidence": 80.80722891566265
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 2,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine"
+  ],
+  "title_document": "نظام رقم 02-17 مؤرخ في 4 محرم عام 1439 الموافق 25 سبتمبر سنة 42017 يعدل ويتمم النظام رقم 01-07 مؤرخ في 15 مهرم عام 1428 الموافق 3 فبراير Lis‏ 2007 والمتعلق بالقواعد المطبقة على المعاملات الجمارية مع الغارج والحسابات بالعملة الصعبة. إن محافظ بنك «il ail‏ والملتضمن القانون التجاري. المعدل والمتمم.",
+  "alias_urls": [],
+  "text_hash": "56b1f99f7780d40db8edcaf626e7222930cf4660c8075968652dc2b08f3a9df6",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "2007-01",
+        "date": "2007-02-03",
+        "raw": "règlement n°2007-01 du 03 février 2007"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2017-02 du 25 septembre 2017 modifiant et complétant le règlement n°2007-01 du 03 février 2007 relatif aux règles applicables aux tran",
+        "copied_from": "REG-17-02.fr"
+      },
+      "target_work_id": "REG-07-01"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "2007-01",
+        "date": "2007-02-03",
+        "raw": "règlement n°2007-01 du 03 février 2007"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2017-02 du 25 septembre 2017 modifiant et complétant le règlement n°2007-01 du 03 février 2007 relatif aux règles applicables aux tran",
+        "copied_from": "REG-17-02.fr"
+      },
+      "target_work_id": "REG-07-01"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "07-01",
+        "date": null,
+        "raw": "règlement n°07-01 du 15 Moharram 1428"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modif",
+        "copied_from": "REG-17-02.fr"
+      },
+      "target_work_id": "REG-07-01"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "07-01",
+        "date": null,
+        "raw": "règlement n°07-01 du 15 Moharram 1428"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modif",
+        "copied_from": "REG-17-02.fr"
+      },
+      "target_work_id": "REG-07-01"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n°2007-01 du 03 février 2007",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2017-02 du 25 septembre 2017 modifiant et complétant le règlement n°2007-01 du 03 février 2007 relatif aux règles applicables aux tran",
+        "copied_from": "REG-17-02.fr"
+      }
+    },
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n°07-01 du 15 Moharram 1428",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modif",
+        "copied_from": "REG-17-02.fr"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n°2007-01 du 03 février 2007",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2017-02 du 25 septembre 2017 modifiant et complétant le règlement n°2007-01 du 03 février 2007 relatif aux règles applicables aux tran",
+        "copied_from": "REG-17-02.fr"
+      }
+    },
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n°07-01 du 15 Moharram 1428",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modif",
+        "copied_from": "REG-17-02.fr"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-17-02.fr",
+    "REG-17-02.fr~2"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n°2007-01 du 03 février 2007",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2017-02 du 25 septembre 2017 modifiant et complétant le règlement n°2007-01 du 03 février 2007 relatif aux règles applicables aux tran",
+        "copied_from": "REG-17-02.fr"
+      }
+    },
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n°07-01 du 15 Moharram 1428",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modif",
+        "copied_from": "REG-17-02.fr"
+      }
+    }
+  ],
+  "ocr_numeric_check": {
+    "units": 3,
+    "units_flagged": 0,
+    "units_compared_with_french": 2,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "نظام رقم 02-17 مؤرخ في 4 محرم عام 1439 الموافق 25 سبتمبر سنة 42017 يعدل ويتمم النظام رقم 01-07 مؤرخ في 15 مهرم عام 1428 الموافق 3 فبراير Lis‏ 2007 والمتعلق بالقواعد المطبقة على المعاملات الجمارية مع الغارج والحسابات بالعملة الصعبة.\nإن محافظ بنك «il ail‏ والملتضمن القانون التجاري. المعدل والمتمم.\nشعبان عام 1399 الموافق 21 بولبو سنة 1979 واللتضمن قائون الجمارك. المعدل والمتمهم.\njun à à‏ الأمر ny‏ 96 9 المؤرخ في19 شعبان عام 1416 الموافق 10 يناير سنة 1996 والتعلة رؤوس الأموال من و إلى الخارج: ال معدل والمتمم, وبمقتضى الأمر رقم 04-03 المؤرخ في 19 جمادى الأولى عام 1424 الموافق 19 يوليو سنة 2003 والمتعلق بالقواعد العامة المطبقة على عمليات استيراد البضائع وتصديرها.ء المعدل والمتمم.\n27 ضى الأمر رقم 03 1 المؤرخ في‎ à à ns 2003 جمادى الشانية عام 1424 الموافق 26 غغشت سنة‎ واللتعلق بالتنقد والقرضء المعدل والمتمم: لا سيما‎ ia المادة 62 (النقطة م)‎ وبمقتضى القانون رقم 01-05 المؤرخ في 27 ذي الحجة عام 1425 الموافق 6 فبرابر سنة 2005 والمتعلق بالوقاية من تب بيض الأموال وتهويل الإرضاب ومكافحتهما. المعدل والمتصم:\nوبمقتضى القانون رقم 05 -07 المؤرخ في 19 ربيع الأول عام 1426 الموافق 28 أبسريل سنة 2005 والمتعلق بالمحروقات: المعدل pal;‏ ويمةقةت ضى الأمر رقم 05 5 المؤرخ في 18 جمادى tata‏ ماع 1476 Di qu 25 sl pli‏ عام 2005 والتضمن قانون المالية التكميلي لسنة 2005, شوال عام 1437 الموافق 3 غشت سنة 2016 والمتعلق وبمقتضى المرسوعم الرئاسي المؤرخ في 24 ذي القعدة عام 1424 الموافق 14 يناير سنة 2004 والمتضمن وبمقتضى المرسوم الرئاسي المؤرخ في 5 جمادى الأولى عام 1427 الموافق أول يونيو سنة 2006 والمتضمن تعيين نائب محافظ بنك الجزائر , عام 1437 الموافق 17 نوفمبر سنة 2015 والتضمن تعيين أعضاء في مجلس إدارة بنك الجزائر:\nشعبان عام 1437 الموافق 31 مايو سثة 2016 واللتكضمن وبمقتضى المرسوم الرئاسي المؤرخ في 17 صفر\n- وبمقتضى النظام رقم 01-07 المؤرخ في 15 محرم عام 1428 الموافق 3 فبراير سنة 2007 والمتعلق بالقواعد à sb‏ على المعاملات الحارية مع الخارج والحسابات بالعملة الصعبة:\nالمعدل ; mail‏ وبسمقتضى التنخلام رقم 12 3 المؤرخ في 14 محشرع عام 1434 الموافق 28 نوفمير un‏ 2012 والمتعلق بالوقاية من تبييض الأموال وتمويل الإرضاب\n— وبعد الاطلاع على مداولات مجلس النقد",
+      "paragraphs": [
+        {
+          "text": "نظام رقم 02-17 مؤرخ في 4 محرم عام 1439 الموافق 25 سبتمبر سنة 42017 يعدل ويتمم النظام رقم 01-07 مؤرخ في 15 مهرم عام 1428 الموافق 3 فبراير Lis‏ 2007 والمتعلق بالقواعد المطبقة على المعاملات الجمارية مع الغارج والحسابات بالعملة الصعبة.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "إن محافظ بنك «il ail‏ والملتضمن القانون التجاري. المعدل والمتمم.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "شعبان عام 1399 الموافق 21 بولبو سنة 1979 واللتضمن قائون الجمارك. المعدل والمتمهم.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "jun à à‏ الأمر ny‏ 96 9 المؤرخ في19 شعبان عام 1416 الموافق 10 يناير سنة 1996 والتعلة رؤوس الأموال من و إلى الخارج: ال معدل والمتمم, وبمقتضى الأمر رقم 04-03 المؤرخ في 19 جمادى الأولى عام 1424 الموافق 19 يوليو سنة 2003 والمتعلق بالقواعد العامة المطبقة على عمليات استيراد البضائع وتصديرها.ء المعدل والمتمم.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "27 ضى الأمر رقم 03 1 المؤرخ في‎ à à ns 2003 جمادى الشانية عام 1424 الموافق 26 غغشت سنة‎ واللتعلق بالتنقد والقرضء المعدل والمتمم: لا سيما‎ ia المادة 62 (النقطة م)‎ وبمقتضى القانون رقم 01-05 المؤرخ في 27 ذي الحجة عام 1425 الموافق 6 فبرابر سنة 2005 والمتعلق بالوقاية من تب بيض الأموال وتهويل الإرضاب ومكافحتهما. المعدل والمتصم:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى القانون رقم 05 -07 المؤرخ في 19 ربيع الأول عام 1426 الموافق 28 أبسريل سنة 2005 والمتعلق بالمحروقات: المعدل pal;‏ ويمةقةت ضى الأمر رقم 05 5 المؤرخ في 18 جمادى tata‏ ماع 1476 Di qu 25 sl pli‏ عام 2005 والتضمن قانون المالية التكميلي لسنة 2005, شوال عام 1437 الموافق 3 غشت سنة 2016 والمتعلق وبمقتضى المرسوعم الرئاسي المؤرخ في 24 ذي القعدة عام 1424 الموافق 14 يناير سنة 2004 والمتضمن وبمقتضى المرسوم الرئاسي المؤرخ في 5 جمادى الأولى عام 1427 الموافق أول يونيو سنة 2006 والمتضمن تعيين نائب محافظ بنك الجزائر , عام 1437 الموافق 17 نوفمبر سنة 2015 والتضمن تعيين أعضاء في مجلس إدارة بنك الجزائر:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "شعبان عام 1437 الموافق 31 مايو سثة 2016 واللتكضمن وبمقتضى المرسوم الرئاسي المؤرخ في 17 صفر",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى النظام رقم 01-07 المؤرخ في 15 محرم عام 1428 الموافق 3 فبراير سنة 2007 والمتعلق بالقواعد à sb‏ على المعاملات الحارية مع الخارج والحسابات بالعملة الصعبة:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المعدل ; mail‏ وبسمقتضى التنخلام رقم 12 3 المؤرخ في 14 محشرع عام 1434 الموافق 28 نوفمير un‏ 2012 والمتعلق بالوقاية من تبييض الأموال وتمويل الإرضاب",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "— وبعد الاطلاع على مداولات مجلس النقد",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "يعدل هذا النظام ويتمم النظام رقم سنة 2007 والمتعلق بالقواعد الطبقة على المعاملات الجارية مع الخارج والحسابات بالعملة small‏ المعدل والمتمم.",
+      "paragraphs": [
+        {
+          "text": "يعدل هذا النظام ويتمم النظام رقم سنة 2007 والمتعلق بالقواعد الطبقة على المعاملات الجارية مع الخارج والحسابات بالعملة small‏ المعدل والمتمم.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "تعدل وتتهم المادة 29 من النظام رقم 01-07 المؤرخ في 3 فبراير سنة 2007 والمذكور se‏ الادة 29 : تخصيع كل عملية استبرال أو Je di‏ إليها في المادة 3 ssl‏ و/أو التخليص الجمركي للبضائع.\nيبعكن بذ بنك الجزاشر أن يضع أي شضرط يراه ناسيا\".\nاللادة 3 : ينشر هذا النظام في الجريدة الرسمية محمد لوكال",
+      "paragraphs": [
+        {
+          "text": "تعدل وتتهم المادة 29 من النظام رقم 01-07 المؤرخ في 3 فبراير سنة 2007 والمذكور se‏ الادة 29 : تخصيع كل عملية استبرال أو Je di‏ إليها في المادة 3 ssl‏ و/أو التخليص الجمركي للبضائع.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "يبعكن بذ بنك الجزاشر أن يضع أي شضرط يراه ناسيا\".",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "اللادة 3 : ينشر هذا النظام في الجريدة الرسمية محمد لوكال",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.028,
+      "ocr_pages": [
+        1,
+        2
+      ],
+      "ocr_mean_confidence": 80.9
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/REG-17-02.ar.txt"
+}

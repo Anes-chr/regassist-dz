@@ -1,0 +1,199 @@
+{
+  "document_id": "INS-06-97.fr",
+  "work_id": "INS-06-97",
+  "title": "Instruction n°06-97 du 28 juin 1997 modifiant l’instruction n°16-94 du 09 avril 1994 relative aux instruments de conduite de la politique monétaire et au refinancement des banques.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "06-97",
+  "number_source": "en-tête du document",
+  "date": "1997-06-28",
+  "date_raw": "N°06-97 DU 28 JUIN 1997",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Instruments de la politique monétaire",
+  "source_url": "https://www.bank-of-algeria.dz/marche-monetaire-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction0697.pdf",
+  "format": "pdf",
+  "file_hash": "40f6e92c5fbab73db230a0b8b7dbdeead608adf77f8667edc422e40897314b26",
+  "file_size": 27082,
+  "raw_path": "raw/40f6e92c5fba__instruction0697.pdf",
+  "retrieved_at": "2026-10-05T13:21:40+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "128f0f88fc3a44071ab7dcffc7b3c7e91d4ec15789d3b7db56129826f5726ef5",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-1997/",
+    "https://www.bank-of-algeria.dz/ar/%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84/",
+    "https://www.bank-of-algeria.dz/ar/%d8%a5%d8%b9%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%aa%d9%85%d9%88%d9%8a%d9%84/",
+    "https://www.bank-of-algeria.dz/marche-monetaire-instruction/",
+    "https://www.bank-of-algeria.dz/refinancement-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document2",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200813145649+01'00'",
+    "modDate": "D:20200813145649+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 481,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": false,
+    "article_count": 0,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°06-97 DU 28 JUIN 1997 MODIFIANT L'INSTRUCTION N° 16-94 DU 09 AVRIL 1994 RELATIVE AUX INSTRUMENTS DE CONDUITE DE LA POLITIQUE MONETAIRE ET AU REFINANCEMENT DES BANQUES",
+  "alias_urls": [],
+  "text_hash": "1728964ed52b40281cf3c9c4103751462af56f283491476350e8056e1abcde58",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "16-94",
+        "date": "1994-04-09",
+        "raw": "instruction n°16-94 du 09 avril 1994"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°06-97 du 28 juin 1997 modifiant l’instruction n°16-94 du 09 avril 1994 relative aux instruments de conduite de"
+      },
+      "target_work_id": "INS-16-94"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-16-94",
+      "reference": "instruction n°16-94 du 09 avril 1994",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°06-97 du 28 juin 1997 modifiant l’instruction n°16-94 du 09 avril 1994 relative aux instruments de conduite de"
+      }
+    }
+  ],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°06-97 DU 28 JUIN 1997 MODIFIANT\nL'INSTRUCTION N° 16-94 DU 09 AVRIL 1994 RELATIVE\nAUX INSTRUMENTS DE CONDUITE DE LA POLITIQUE MONETAIRE\nET AU REFINANCEMENT DES BANQUES\nEn application de la délibération du Conseil de la Monnaie et du Crédit en date du 28 juin 1997, le taux pivot d'intervention de la Banque d'Algérie sur le marché monétaire est supprimé.\nLa présente instruction entre en vigueur à compter du 29 juin 1997.\nLe Gouverneur\nAbdelouahab KERAMANE",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°06-97 DU 28 JUIN 1997 MODIFIANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L'INSTRUCTION N° 16-94 DU 09 AVRIL 1994 RELATIVE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AUX INSTRUMENTS DE CONDUITE DE LA POLITIQUE MONETAIRE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET AU REFINANCEMENT DES BANQUES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "En application de la délibération du Conseil de la Monnaie et du Crédit en date du 28 juin 1997, le taux pivot d'intervention de la Banque d'Algérie sur le marché monétaire est supprimé.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La présente instruction entre en vigueur à compter du 29 juin 1997.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.025
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-06-97.fr.txt"
+}

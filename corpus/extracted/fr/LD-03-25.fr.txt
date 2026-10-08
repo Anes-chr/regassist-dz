@@ -1,0 +1,2098 @@
+[[PAGE 1]]
+
+COMMISSION BANCAIRE
+
+TRADUCTION
+
+LIGNES DIRECTRICES N°03/25 DU 08 JUILLET 2025
+RELATIVES A L’AUTO-EVALUATION DES RISQUES DE
+BA/FT/FPADM ET LA MISE EN PLACE D’UNE APPROCHE
+BASEE SUR LES RISQUES
+
+SOMMAIRE
+I. Introduction .............................................................................................................. 4
+II. Références légales et réglementaires .................................................................... 4
+III. Définitions .............................................................................................................. 5
+IV. L’approche basée sur les risques .......................................................................... 7
+V. Cadre général de l’évaluation des risques ............................................................. 8
+V.1 Objectifs de l’évaluation des risques .................................................................... 8
+V.2 Facteurs de risques .............................................................................................. 8
+VI. Principes fondamentaux de l’évaluation des risques ............................................. 9
+VI.1. Une évaluation à deux niveaux .......................................................................... 9
+VI.2. Principe de proportionnalité .............................................................................. 10
+VI.3. Responsabilité de l'institution assujettie ........................................................... 10
+VI.4. Autres principes méthodologiques ................................................................... 10
+VII. Cycle d’une approche basée sur les risques ...................................................... 12
+VII.1. Identification des risques inhérents ................................................................. 12
+VII.1.1. Compréhension des menaces et vulnérabilités ............................................ 12
+VII.1.2. Analyse des facteurs de risque .................................................................... 13
+VII.2. Evaluation des risques .................................................................................... 17
+VII.2.1. Définition des échelles de cotation (Probabilité, impact) .............................. 17
+VII.2.2. Pondération des facteurs de risque .............................................................. 18
+VII.2.3. Calcul du score de risque global .................................................................. 18
+VII.2.4. Matrice des risques et cartographie ............................................................. 19
+VII.3. Mesures d’atténuation des risques et contrôles clés ....................................... 20
+VII.4. Evaluation des risques résiduels ..................................................................... 21
+VII.5. Étapes clés à suivre après l'évaluation des risques …………………………….22
+VIII. Documentation et mise a jour de l’évaluation des risques ................................. 22
+
+[[PAGE 2]]
+
+VIII.1. Documentation de l’évaluation des risques .................................................... 22
+VIII.2. Mise à jour de l’évaluation des risques ........................................................... 23
+IX. Gouvernance et contrôle interne ......................................................................... 23
+IX.1. Rôles et responsabilités ................................................................................... 24
+IX.2. Politiques et procédures ................................................................................... 24
+IX.3. Systèmes et outils technologiques ................................................................... 25
+IX.4. Contrôles internes ............................................................................................ 26
+IX.5 Formation du personnel .................................................................................... 27
+X. Applications spécifiques et contextes particuliers ................................................ 27
+X.1. Particularités de la gestion des risques BA/FT/FPADM pour Algérie Poste ...... 27
+X.2. Spécificités des établissements financiers et impact sur l'auto-évaluation des
+risques ...................................................................................................................... 28
+X.2.1. Limitation des opérations des établissements financiers ................................ 28
+X.2.2. Auto-évaluation des risques spécifiques aux établissements financiers ........ 28
+XI. Révision et mise à jour des lignes directrices ...................................................... 30
+Annexes .................................................................................................................... 31
+Annexe 1 : Typologies et indicateurs d'alerte des risques BA/FT/FPADM ............... 31
+1.1. Typologies de blanchiment d’argent (BA) .......................................................... 31
+1.2. Typologies de financement du terrorisme (FT) .................................................. 31
+1.3. Typologies de financement de la prolifération des armes de destruction massive
+(FPADM) ................................................................................................................... 32
+1.4. Indicateurs d'alerte ............................................................................................ 32
+Annexe 2 : Outils pratiques de mise en œuvre ......................................................... 35
+2.1. Études de cas pratiques .................................................................................... 35
+2.2. Grille de cotation-type des risques..................................................................... 37
+2.3. Modèle de matrice d'auto-évaluation de l'efficacité des contrôles ..................... 39
+2.4. Diagrammes de flux et tableaux synthétiques ................................................... 41
+2.5. Gestion des données pour l'évaluation des risques ........................................... 42
+
+
+
+[[PAGE 3]]
+
+LISTE DES ACRONYMES
+ABR
+Approche basée sur les risques
+BA/FT/FPADM
+Blanchiment d’argent/financement du terrorisme/financement de la
+prolifération des armes de destruction massive
+CDD
+Vigilance raisonnable à l’égard de la clientèle (Customer due
+diligence)
+CTRF
+Cellule de Traitement du Renseignement Financier
+DDS
+Déclaration de soupçon
+EDD
+Mesures de vigilance renforcée (Enhanced due diligence)
+ENR
+Evaluation nationale des risques
+ESR
+Evaluation sectorielle des risques
+GAFI
+Groupe d’Action Financière
+GAFIMOAN
+Groupe d’Action Financière Moyen Orient et Afrique du Nord
+KPI
+Key performance indicators (Indicateurs clés de performance)
+KRI
+Key risk indicators (Indicateurs clés du risque)
+KYC
+Know your customer (Connaître son client)
+LCB/FT/FPADM
+Lutte contre le blanchiment d’argent, le financement du terrorisme et
+le financement de la prolifération des armes de destruction massive
+MLRO
+Money Laundering Reporting Officer (Responsable de la conformité
+LCB/FT/FPADM)
+PEPs
+Personnes politiquement exposées
+
+[[PAGE 4]]
+
+I. Introduction
+Conformément aux dispositions en vigueur en matière de prévention et de lutte contre
+le blanchiment d’argent, le financement du terrorisme et le financement de la
+prolifération des armes de destruction massive (LCB/FT/FPADM), les institutions
+assujetties sont tenues de disposer d’un niveau adéquat de compréhension des
+risques de BA/FT/FPADM auxquels elles sont exposées. Ceci constitue un préalable
+essentiel à la mise en place d’un dispositif de prévention basé sur les risques.
+Pour ce faire, elles doivent réaliser une auto-évaluation de leur exposition aux risques
+de BA/FT/FPADM liés à leurs produits, services, modes de prestation, clients, relations
+d’affaires, aspects géographiques et à tout autre facteur pertinent sur la base de
+critères préalablement définis.
+Disposer d’une évaluation de risques documentée, régulièrement mise à jour, permet
+aux institutions assujetties d’être en mesure de remplir efficacement leurs obligations
+en matière de prévention et de lutte contre le BA/FT/FPADM, en allouant leurs
+ressources de manière adéquate.
+Les présentes lignes directrices de la Commission Bancaire, définissant le cadre
+méthodologique de la réalisation de l’auto-évaluation des risques de BA/FT/FPADM et
+la mise en œuvre de l’approche fondée sur les risques, s’adressent aux institutions
+assujetties à son contrôle.
+II. Références légales et règlementaires
+-
+Ordonnance n° 66-156 du 18 Safar 1386 correspondant au 8 juin 1966, modifiée
+et complétée, portant code pénal ;
+Loi n° 05-01 du 27 Dhou El Hidja 1425 correspondant au 6 février 2005,
+modifiée et complétée, relative à la prévention et à la lutte contre le blanchiment
+d’argent et le financement du terrorisme ;
+-
+Loi n° 23-09 du 3 Dhou El Hidja 1444 correspondant au 21 juin 2023 portant loi
+monétaire et bancaire ;
+-
+Décret exécutif n° 23-429 du 15 Joumada El Oula 1445 correspondant au 29
+novembre 2023 relatif au registre public des bénéficiaires effectifs des
+personnes morales de droit algérien ;
+-
+Décret exécutif n° 23-430 du 15 Joumada El Oula 1445 correspondant au 29
+novembre 2023 fixant les conditions et les modalités d’exercice par les autorités
+de régulation, de contrôle et/ou de surveillance de leurs missions dans le
+domaine de la prévention et de la lutte contre le blanchiment d’argent, le
+financement du terrorisme et le financement de la prolifération des armes de
+destruction massive, à l’égard des assujettis ;
+-
+Décret exécutif n° 24-242 du 17 Moharram 1446 correspondant au 23 juillet
+2024 fixant les conditions et les modalités d’élaboration et de mise en œuvre
+des programmes de contrôle interne, par les assujettis, dans le cadre de la
+prévention du blanchiment d’argent, du financement du terrorisme et du
+financement de la prolifération des armes de destruction massive ;
+
+
+[[PAGE 5]]
+
+-
+Décret exécutif n° 25-101 du 12 Ramadhan 1446 correspondant au 12 mars
+2025 relatif à la procédure de gel et/ou de saisie des fonds dans le cadre de la
+prévention et de la lutte contre le financement du terrorisme et le financement
+de la prolifération des armes de destruction massive ;
+-
+Décret exécutif n° 25-102 du 12 Ramadhan 1446 correspondant au 12 mars
+2025 fixant la composition, l’organisation et le fonctionnement du comité de suivi
+des sanctions internationales ciblées ;
+-
+Décret exécutif n° 25-103 du 12 Ramadhan 1446 correspondant au 12 mars
+2025 fixant les modalités d’inscription et de radiation de la liste nationale des
+personnes et entités terroristes et les effets qui en découlent ;
+-
+Règlement Banque d’Algérie n° 11-08 du 28 novembre 2011 relatif au contrôle
+interne des banques et établissements financier.
+-
+Règlement de la Banque d’Algérie n° 24-03 du 23 juillet 2024, relative à la
+prévention contre le blanchiment d’argent, le financement du terrorisme et le
+financement des armes de destruction massive ;
+-
+Instruction de la Banque d’Algérie n° 03-24 du 24 novembre 2024 relative au
+devoir de vigilance ;
+-
+Instruction de la Banque d’Algérie n° 04-24 du 24 novembre 2024 relative aux
+virements électroniques ;
+-
+Lignes directrices n° 02/2024 du 28 novembre 2024 relatives aux mesures
+d’identification et de vérification des bénéficiaires effectifs ;
+-
+Lignes directrices n° 01/2025 du 06 avril 2025 relatives aux mesures de gel
+et/ou de saisie des fonds et des biens dans le cadre de sanctions financières
+ciblées ;
+-
+Lignes directrices n° 02/2025 du 26 mai 2025 relatives au devoir de vigilance.
+III. Définitions
+Aux fins des présentes lignes directrices, les termes ci-après sont définis comme suit:
+- Institutions assujetties : banques, établissements financiers, prestataires de
+services de paiement et les services financiers d’Algérie Poste.
+- Approche Fondée sur les Risques (ABR) : Ensemble des mesures et procédures
+visant à identifier, évaluer, comprendre et atténuer les risques de blanchiment d'argent,
+de financement de terrorisme et de financement de la prolifération des armes de
+destruction massive.
+- Atténuateurs de risques (AR) : Ensemble des mesures et contrôles internes
+(politiques, procédures, systèmes, personnel, moyens et ressources…) mis en place
+par une institution assujettie pour réduire l’exposition aux risques de BA/FT/FPADM et
+leur impact. L’efficacité de ces atténuateurs de risques doit être évaluée
+périodiquement.
+
+[[PAGE 6]]
+
+- Facteurs de risque : Éléments clés qui influencent le niveau de risque de
+BA/FT/FPADM d'une relation d'affaires ou d'une opération (ex: client, produit, canal,
+géographie, opération).
+- Matrice de risques : Outil de représentation visuelle des niveaux de risque, croisant
+généralement la probabilité d'occurrence d'un risque avec son impact potentiel,
+souvent utilisé pour la cartographie des risques.
+- MLRO (Money Laundering Reporting Officer) : Responsable de la Conformité
+LCB/FT/FPADM désigné au sein de l'institution assujettie, point de contact principal
+avec les autorités compétentes.
+- Proportionnalité : Principe selon lequel les mesures de LCB/FT/FPADM (vigilance,
+contrôles) doivent être adaptées au niveau de risque identifié, c'est-à-dire plus strictes
+pour les risques élevés et plus souples pour les risques faibles.
+- Risques : D’une manière générale un risque est défini comme la combinaison de la
+probabilité d’occurrence d’un événement et l’étendue des conséquences et des pertes
+qui peuvent être induites par cette occurrence. Dans le contexte du blanchiment
+d’argent, du financement des activités terroristes et du financement de la prolifération
+des armes de destruction massive, un risque signifie les menaces et les vulnérabilités
+entraînant le risque que l’institution assujettie soit utilisée pour faciliter le blanchiment
+d’argent, le financement d’activités terroristes et/ou le financement de la prolifération
+des armes de destruction massive.
+- Risque inhérent : Un risque inhérent est le risque intrinsèque lié à un événement ou
+une situation existant avant la mise en œuvre de contrôles ou de mesures
+d’atténuation.
+- Risque résiduel : Un risque résiduel est le degré de risque qui perdure après la mise
+en œuvre de mesures d’atténuation et de contrôles.
+- Gestion des risques : La gestion des risques est un processus d'identification et
+d'évaluation des risques et d'élaboration de moyens appropriés pour les atténuer et
+les gérer. Elle implique également de hiérarchiser, de traiter/contrôler l'exposition aux
+risques et d'établir des priorités.
+Dans le cadre la prévention et de la lutte contre le blanchiment d’argent, le financement
+du terrorisme et le financement de la prolifération et le financement de la prolifération
+des armes de destruction massive, c’est un processus comportant l’identification des
+risques de BA/FT/FPADM, l’évaluation de ces risques et la mise en œuvre de
+méthodes de gestion et d’atténuation des risques qui ont été identifiés.
+- Menaces : Les personnes, groupes ou entités qui cherchent à commettre des
+activités de BA/FT/FPADM, les fonds ou biens utilisés, et les méthodes par lesquelles
+ils opèrent.
+
+[[PAGE 7]]
+
+- Typologies de BA/FT/FPADM : Méthodes et techniques utilisées par les criminels
+dans le blanchiment d’argent, le financement du terrorisme et/ou le financement de la
+prolifération des armes de destruction massive. Leur connaissance est essentielle
+pour l'identification des risques.
+- Vulnérabilités : Les caractéristiques du système, des contrôles ou des mesures qui
+les rendent vulnérables à l'exploitation par des éléments criminels et attrayants pour
+les opérations de blanchiment d'argent, de financement du terrorisme et de
+financement de la prolifération.
+- Incidences : Gravité des dommages pouvant survenir en cas de réalisation du risque
+de BA/FT/FPADM (c’est-à-dire menaces et vulnérabilités).
+IV. L’approche basée sur les risques
+L'approche fondée sur les risques (ABR) est, dans le domaine de la prévention et de
+la lutte contre le blanchiment d’argent, le financement du terrorisme et le financement
+de la prolifération des armes de destruction massive, un outil de surveillance utilisé
+tant par les autorités de régulation et de supervision compétentes, que par les
+institutions assujetties, pour identifier, évaluer et comprendre les risques inhérents
+auxquels les assujettis sont exposés, et prendre des mesures appropriées afin de les
+atténuer efficacement.
+Cette approche vise à soutenir le développement de mesures de prévention et
+d'atténuation proportionnées au niveau des risques de BA/FT/FPADM identifiés. Cela
+se traduit dans la manière dont les institutions financières allouent leurs ressources
+pour la conformité, organisent leurs structures de contrôle interne et mettent en œuvre
+des politiques et des procédures pour prévenir et détecter le blanchiment d’argent, le
+financement du terrorisme et le financement de la prolifération des armes de
+destruction massive, y compris, le cas échéant, au niveau du groupe.
+Une approche basée sur les risques englobe les éléments suivants :
+1- L’évaluation des risques inhérents à l’activité des institutions assujetties, en tenant
+compte de certains facteurs :
+-
+La nature des produits, services, modes de prestation et canaux de distribution ;
+-
+Les aspects géographiques ;
+-
+Le profil des clients et relations d’affaires ;
+-
+Autres facteurs pertinents.
+2- L’atténuation des risques par la mise en œuvre de contrôles et de mesures
+proportionnés aux risques identifiés ;
+3- Le maintien à jour des renseignements sur l’identité des clients, des relations
+d’affaires ainsi que sur leurs mandataires et leurs bénéficiaires effectifs ;
+4- Le contrôle continu des opérations et des relations d’affaires conformément au
+degré du risque évalué.
+
+[[PAGE 8]]
+
+V. CADRE GENERAL DE L’EVALUATION DES RISQUES
+V.1 Objectifs de l’évaluation des risques
+L’objectif principal d’une évaluation des risques de blanchiment d’argent, de
+financement du terrorisme et de financement de la prolifération des armes de
+destruction massive est de développer un processus de leur gestion, en identifiant les
+risques généraux et spécifiques auxquels les institutions assujetties sont exposées,
+mettre en place des mesures d’atténuation efficaces et déterminer les risques
+résiduels.
+Les résultats de l'évaluation des risques sont utilisés pour :
+- Identifier les lacunes ou les opportunités d’amélioration des politiques et des
+procédures de LCB/FT/FPADM ;
+- Prendre des décisions éclairées en matière d’appétence au risque, en mettant en
+place des systèmes de contrôle appropriés et en allouant des ressources
+adéquates;
+- Aider la direction à comprendre le système d’exploitation et la structure de
+l'institution assujettie et la qualité de la conformité, à travers les mesures de lutte
+contre le BA/FT/FPADM, ainsi que leur adéquation avec le niveau de risque. ;
+- Définir des stratégies et des politiques pour minimiser les risques résiduels
+auxquels l'institution assujettie peut être exposée ;
+- Aider la direction à prendre conscience des principaux risques et lacunes dans les
+politiques et les contrôles internes, et à prendre les mesures nécessaires pour
+remédier à ces lacunes et donner la priorité à leur mise en œuvre ;
+- Allouer les ressources disponibles de l’institution assujettie pour lutter contre le
+BA/FT/FPADM, de manière plus efficace et proportionnée à la nature des risques
+auxquels elle est exposée, plutôt que d'appliquer les mêmes procédures et les
+mêmes efforts à tous les produits et services.
+V.2 Facteurs de risques
+Pour identifier et évaluer les risques de BA/FT/FPADM auxquels elle est exposée,
+l’institution assujettie doit prendre en considération une série de facteurs qui peuvent
+inclure, notamment :
+-
+La nature, la taille, la diversité et la complexité de son activité ;
+-
+Les marchés cibles de l’institution assujettie ;
+-
+L’identité de ses clients et la nature de leurs activités, notamment les clients
+déjà identifiés comme présentant un risque élevé ;
+-
+Le volume et la taille de ses transactions, compte tenu de l'activité habituelle de
+l’institution assujettie et du profil risque de ses clients ;
+
+[[PAGE 9]]
+
+-
+Les juridictions auxquelles l’institution assujettie est exposée, soit par ses
+propres activités, soit par les activités de ses clients, en particulier les
+juridictions où le risque est relativement plus élevé, et/ou les juridictions où les
+niveaux de corruption ou de crime organisé sont relativement plus élevés, et/ou
+les contrôles de LCB/FT/FPADM sont déficients et celles figurant sur la liste du
+GAFI ;
+-
+Les caractéristiques des produits et services offerts par l’institution assujettie et
+l’évaluation des vulnérabilités résultant de chaque service et produit et des
+canaux de distribution ;
+-
+Les conclusions de l'audit interne et les dispositions réglementaires en vigueur ;
+-
+Les menaces, risques et vulnérabilités identifiés dans l'évaluation nationale des
+risques ou les risques sectoriels identifiés par les autorités compétentes.
+
+VI. PRINCIPES FONDAMENTAUX DE L’EVALUATION DES RISQUES
+L'évaluation des risques constitue la base de l'approche fondée sur les risques d'une
+institution assujettie. Elle doit lui permettre de comprendre comment et dans quelle
+mesure elle est vulnérable au blanchiment d’argent, au financement du terrorisme et
+au financement de la prolifération des armes de destruction massive. Elle aboutira
+souvent à une catégorisation stylisée du risque, qui aidera les institutions assujetties
+à déterminer le niveau de ressources de lutte contre le BA/FT/FPADM nécessaires
+pour atténuer ce risque. Elle doit toujours être correctement documentée, tenue à jour
+et communiquée au personnel concerné de l’institution assujettie.
+VI.1. Une évaluation à deux niveaux
+Les institutions assujetties sont tenues de connaître à un double niveau les risques en
+matière de blanchiment d’argent, de financement du terrorisme et de financement de
+la prolifération des armes de destruction massive:
+- Evaluation globale des risques : effectuée à l’échelle de leur institution, dans le but
+d’identifier les risques auxquels leur activité les expose, et définir un dispositif
+LCB/FT/FPADM qui soit adapté et proportionné à ces risques.
+- Evaluation individuelle des risques : est menée à l’échelle de chaque client avec
+lequel elles établissent une relation d’affaires ou pour le compte duquel elles effectuent
+une transaction occasionnelle, afin d’identifier les risques spécifiques de
+BA/FT/FPADM liés à ce client et d’adapter ainsi les mesures de vigilance à lui
+appliquer.
+Ces deux niveaux d'évaluation (évaluation globale et individuelle des risques de
+BA/FT/FPADM) sont interdépendants et doivent être cohérents pour garantir une
+gestion efficace et proportionnée des risques.
+
+[[PAGE 10]]
+
+VI.2 Principe de proportionnalité
+Le principe de proportionnalité permet d’adapter l'évaluation des risques à la nature,
+la complexité des activités et la taille de l’institution assujettie. Pour les petites
+institutions ou peu complexes, (par exemple lorsque les clients de l’institution
+appartiennent à des catégories similaires et/ou lorsque la gamme de produits et de
+services offerts par l’institution assujettie est très limitée), une évaluation simple des
+risques peut être utilisée. À l'inverse, lorsque les produits et services de l’institution
+assujettie sont plus complexes, ou lorsqu'il existe de multiples filiales ou succursales
+offrant une grande variété de produits, et/ou que sa clientèle est plus diversifiée, un
+processus d'évaluation des risques plus sophistiqué devient nécessaire.
+VI.3. Responsabilité de l'institution assujettie
+Conformément aux dispositions de la loi n°05-01, modifiée et complétée, et du
+règlement de la Banque d’Algérie n°24-03, qui visent à prévenir et à lutter contre le
+blanchiment d’argent et le financement du terrorisme et conformément à la première
+recommandation du Groupe d'action financière (GAFI), les institutions assujetties
+doivent adopter une approche fondée sur le risque, dans le cadre de la lutte contre le
+BA/FT/FPADM. Ainsi :
+- Chaque institution assujettie est pleinement responsable de la réalisation de sa
+propre auto-évaluation des risques de BA/FT/FPADM ;
+- Le conseil d'administration (ou le conseil de surveillance) et la direction
+générale/ ou le Directoire sont les garants de la mise en œuvre et de
+l'efficacité de l'ABR ;
+- La direction générale de l'institution assujettie doit être impliquée dans la gestion
+des risques auxquels elle est exposée et doit s'assurer que les moyens
+nécessaires et des systèmes appropriés sont mis en place pour faire face à ces
+risques. En particulier lorsqu'il s'agit d'allouer des ressources supplémentaires
+aux domaines présentant un risque plus élevé ;
+- Les institutions assujetties doivent assurer une surveillance continue des activités
+des relations d’affaires, cependant, les spécificités de ce contrôle seront
+adaptées à la nature des risques de BA/FT/FPADM auxquels elles sont
+confrontées et au type de produits qu'elles proposent.
+VI.4. Autres principes méthodologiques
+Pour être efficace, une évaluation des risques doit être fondée sur une méthodologie
+qui répond notamment aux conditions suivantes :
+- Elle doit être basée sur des données et des informations quantitatives et
+qualitatives pertinentes et adaptées à la nature et à la complexité des activités
+de l’institution assujettie ;
+- Elle doit refléter l'appétence au risque et la stratégie en matière de
+LCB/FT/FPADM approuvés par l’organe délibérant de l'institution assujettie ;
+
+[[PAGE 11]]
+
+- Elle doit prendre en considération les informations provenant de sources
+internes pertinentes, telles que des questionnaires internes concernant
+l'identification des risques et les contrôles ainsi que l'examen des rapports
+d'audit interne ;
+- Son élaboration doit impliquer un certain nombre de personnes, notamment
+celles qui exercent les fonctions de responsable de lutte contre le
+BA/FT/FPADM, l’audit interne (s’il existe) ainsi que tout le personnel concerné
+par les activités en lien avec les mesures de LCB/FT/FPADM, les contrôles
+effectués dans ce cadre et la rédaction des procédures internes ;
+- Elle doit prendre en considération les informations pertinentes provenant de
+sources externes, notamment l’évaluation nationale des risques ou toute
+évaluation thématique des risques, les autorités de contrôle et de surveillance
+et autres autorités compétentes, ainsi que le GAFI, le GAFIMOAN, le Groupe
+Egmont, et d'autres, le cas échéant ;
+- Elle doit différencier clairement les risques de blanchiment d’argent et les
+risques de financement du terrorisme et les risques de financement de la
+prolifération des armes de destruction massive ;
+- Elle doit décrire la pondération des facteurs de risque, la classification des
+risques en différentes catégories et la hiérarchisation des risques ;
+- Elle doit évaluer la probabilité de survenance des risques identifiés, et
+déterminer leur calendrier et leur impact sur l'institution assujettie ;
+- Elle doit tenir compte de l'efficacité des contrôles de LCB/FT/FPADM, en
+particulier de l'existence de contrôles adéquats pour atténuer les risques
+concernant les clients, les produits, les services ou les transactions ;
+- Elle doit déterminer l'efficacité des mesures d'atténuation des risques de
+LCB/FT/FPADM mises en place en utilisant des informations telles que les
+rapports d'audit et de conformité ou les rapports d'information de la direction ;
+- Elle doit déterminer le risque résiduel résultant des risques inhérents et de
+l'efficacité des mesures d'atténuation des risques de BA/FT/FPADM;
+- Elle doit déterminer, sur la base du risque résiduel et de l'appétit pour le risque,
+si des contrôles supplémentaires en matière de LCB/FT/FPADM doivent être
+mis en place ;
+- Elle doit être correctement documentée, évaluée et mise à jour régulièrement
+et, communiquée à la direction et au personnel concerné au sein de l'institution
+assujettie ;
+- Elle doit faire l'objet de tests et d'audits pour vérifier l'efficacité et la cohérence
+de la méthode de gestion des risques et de ses résultats au regard des
+obligations en vigueur.
+
+[[PAGE 12]]
+
+VII. CYCLE D’UNE APPROCHE BASÉE SUR LES RISQUES
+Une approche fondée sur les risques, en matière de lutte contre le blanchiment
+d’argent, le financement du terrorisme et le financement de la prolifération des armes
+de destruction massive, signifie que les institutions assujetties doivent identifier,
+évaluer et comprendre les risques BA/FT/FPADM auxquels elles sont exposées et
+prendre des mesures afin de les atténuer de manière efficace. À cet effet, elle doit
+comprendre les étapes suivantes :
+Étape 1 : Identification des risques inhérents ;
+Étape 2 : Evaluation des risques ;
+Étape 3 : Mise en place des mesures d’atténuation des risques et des contrôles clés ;
+Étape 4 : Evaluation des risques résiduels.
+VII.1. Identification des risques inhérents
+Une première étape importante, dans l'application d'une approche fondée sur les
+risques, consiste à identifier et comprendre les risques inhérents auxquels l’institution
+assujettie est exposée.
+VII.1.1. Compréhension des menaces et vulnérabilités
+-
+Menaces : Analyser les sources potentielles de BA/FT/FPADM (ex: typologies
+criminelles nationales et internationales, activités du crime organisé, menaces
+terroristes). Cette analyse doit s'appuyer sur les informations fournies par
+l'évaluation nationale des risques (ENR), les évaluations sectorielles des risques
+(ESR), la CTRF, les typologies du GAFI et les retours d'expérience (DDS,
+rapports d'audit).
+-
+Vulnérabilités : Évaluer les faiblesses qui pourraient être exploitées par les
+menaces. Cela inclut les vulnérabilités internes et externes.
+ Vulnérabilités internes : Faiblesses propres à l'institution assujettie, telles que:
+
+ Produits/Services : Produits en espèces, prêts hypothécaires complexes,
+services de transfert de fonds rapides, produits transfrontaliers, etc. ;
+ Canaux de Distribution : Canaux numériques sans authentification forte,
+plateformes de services via des interfaces ouvertes sans surveillance
+adéquate, ou des réseaux de distributeurs automatiques de billets ou de
+points de vente sans mesures de sécurité avancées pour la collecte
+d'informations, etc. ;
+ Faiblesses du processus LCB/FT : Manque de personnel qualifié,
+formation insuffisante, systèmes informatiques obsolètes ou non intégrés,
+procédures de KYC/CDD superficielles, surveillance des transactions
+basée uniquement sur des seuils fixes et non sur le comportement, délais
+de déclaration de soupçon excessifs, etc.
+ Vulnérabilités externes : Facteurs environnementaux ou de contexte qui
+augmentent l'exposition au risque, tels que : changement du cadre juridique et
+réglementaire non robuste, faiblesse des infrastructures d'identification,
+alertes signalant des secteurs économiques fortement infiltrés par le crime,
+etc.
+
+[[PAGE 13]]
+
+Ce croisement permet de comprendre que le risque inhérent (sans les contrôles) est
+le résultat direct de la probabilité qu'une menace se concrétise et de l'ampleur des
+vulnérabilités de l'entité qui pourraient être exploitées par cette menace. Une menace
+significative combinée à une vulnérabilité élevée aboutit à un risque inhérent plus
+important.
+VII.1.2. Analyse des facteurs de risque
+Dans le cadre de la réalisation de l'auto-évaluation des risques de BA/FT/FPADM,
+l’institution assujettie doit identifier correctement les facteurs de risque afin d’évaluer
+efficacement les risques encourus. Les risques se présentent souvent comme des
+combinaisons de ces facteurs. Un risque peut par exemple résulter de
+l'interdépendance entre un client et les juridictions dont il est originaire ou dans
+lesquelles il est actif, ou du lien entre un produit et le canal de distribution.
+Les institutions assujetties peuvent prendre en compte un large éventail de facteurs
+de risque, en utilisant diverses sources, telles que :
+Les données et informations provenant de sources internes pertinentes, y compris le
+responsable de la conformité en matière de LCB/FT/FPADM ;
+- Les informations provenant de sources nationales, y compris les résultats de
+l'évaluation nationale des risques, de l’évaluation sectorielle des risques ou de toute
+évaluation thématique des risques concernant les tendances en matière de
+BA/FT/FPADM et les menaces sectorielles, ainsi que les notes ou circulaires des
+autorités compétentes.
+- Les informations tirées des publications des organisations internationales telles que
+le GAFI, le GAFIMOAN, le Groupe Egmont et d'autres.
+Lors de l'évaluation des risques inhérents, l'institution assujettie doit faire l'inventaire
+de ses clients et relations d’affaires, des produits et des services qu'elle offre, et définir
+les domaines d'activité à évaluer, y compris les unités opérationnelles, les entités
+juridiques, les divisions, les pays et les régions. Pour ce faire, elle doit utiliser des
+informations quantitatives et qualitatives actualisées concernant, par exemple, les
+types et le nombre de clients, le volume d'opérations pour les types de clients, le
+volume d'affaires par produit et service et les implantations géographiques.
+Dans ce qui suit nous présentons des exemples des principaux facteurs de risque qui
+devraient être pris en compte par les institutions assujetties lors de l'évaluation des
+risques liés au BA/FT/FPADM.
+A. Facteurs de risque liés au client
+Avant toute entrée en relation d’affaires avec un client, et régulièrement tout au long
+de cette relation, l’institution assujettie doit examiner les caractéristiques du client ainsi
+que l’objet et la nature escomptée de cette relation d’affaires (comprendre les activités
+du client et son modèle d’opérations), afin de déterminer le niveau de risque de
+BA/FT/FPADM qu’il présente.
+
+[[PAGE 14]]
+
+En effet, certains modèles ou caractéristiques d’activités comportent des risques
+inhérents élevés et doivent être pris en compte lors de l’évaluation des risques globaux
+associés à un client ou à une relation d’affaires. Les risques liés aux clients peuvent
+porter sur :
+-
+La typologie du client : Personnes physiques (particuliers, commerçants,
+étudiants), personnes morales (sociétés commerciales, associations, fondations,
+entités publiques), PPE, sociétés écran, structures juridiques complexes, etc ;
+-
+Le profil du client : Résidence, nationalité, profession, source de revenus et de
+patrimoine, historique de la relation d'affaires, etc ;
+-
+Le comportement du client : Réticence à fournir des informations, transactions
+sans justification économique apparente, tentatives d'opérations complexes ou
+inhabituelles, etc .
+Exemples d’indicateurs de risque élevé
+-
+Les activités du client génèrent des flux d’argent liquide pour des opérations qui
+normalement ne sont pas réglées en espèces ;
+-
+L’activité est généralement associée à un risque élevé de corruption ;
+-
+L’activité est associée à un risque élevé de BA/FT/FPADM (par exemple, les
+transferts de fonds) ;
+-
+L’activité est menée à travers des structures opaques et complexes pour
+lesquelles il ne semble pas y avoir de justification légitime ;
+-
+Catégories de clients exerçant des activités hautement réglementées et
+supervisées ainsi que ceux exerçant des activités non réglementées.
+-
+L’entité dispose d’une structure complexe dissimulant l’identité des bénéficiaires
+effectifs ;
+-
+Les entités non résidentes, en particulier celles qui ont des liens avec des
+juridictions offshores et à haut risque.
+B. Facteurs de risque liés aux produits, services et transactions
+L’institution assujettie doit identifier et évaluer les risques inhérents de BA/FT/FPADM
+associés aux types de produits, services et transactions. Ces risques dépendent de
+facteurs quantitatifs et qualitatifs lié, notamment :
+-
+A la nature du produit/service : Services de transfert de fonds, produits
+d'assurance-vie,
+prêts
+hypothécaires,
+gestion
+de
+patrimoine,
+produits
+d'investissement, services de banque en ligne, etc ;
+-
+Au caractère non identifiable : Produits qui rendent difficile l'identification du
+client ou du bénéficiaire effectif ;
+-
+A la rapidité des transactions : Produits permettant des transferts de fonds
+rapides et irréversibles ;
+-
+A la facilité de retrait/transfert : Produits facilement convertibles en espèces ou
+titres (ex: comptes de dépôt à vue avec forts volumes de transactions en
+espèces, bons de caisse anonymes, cartes prépayées rechargeables à fort
+plafond, chèques de banque de gros montants, etc.).
+
+[[PAGE 15]]
+
+Exemples de facteurs quantitatifs
+-
+Le nombre de produits, services et transactions ;
+-
+Le nombre de clients pour chaque produit et service ;
+-
+Le volume d’activité (chiffre d’affaires) par produit et service ;
+-
+La durée sur laquelle la transaction est réalisée.
+Exemples de facteurs qualitatifs
+Pour chaque produit, il convient de tenir compte des facteurs de risque qualitatifs qui
+le caractérisent, tels que :
+-
+Le niveau de transparence ou d’opacité qu’offre le produit, le service ou la
+transaction : Les produits ou services qui, par nature, permettent ou facilitent
+l’anonymat du client ou du bénéficiaire effectif ou facilitent la dissimulation de son
+identité, peuvent souvent être exploités à des fins de BA/FT/FPADM et doivent,
+par conséquent, être considérés comme présentant un risque de BA/FT/FPADM
+plus élevé que d’autres produits ou services.
+-
+La complexité du produit, du service ou de la transaction : Les institutions
+assujetties doivent tenir compte des complexités conceptuelle, opérationnelle,
+juridique, technologique et autres du produit, du service ou du type de
+transaction. Ceux qui sont plus complexes ou qui dépendent davantage des
+interactions entre plusieurs systèmes et/ou acteurs du marché peuvent les
+exposer à des niveaux de risques de BA/FT/FPADM plus élevés.
+-
+La valeur et/ou la taille du produit, du service ou de la transaction : Il
+convient de déterminer si le produit ou le service permet la réalisation de
+transactions de grande valeur. Par exemple, un produit ou un service qui
+nécessite beaucoup de liquidités doit être considéré comme présentant un risque
+plus élevé que d’autres produits qui ne peuvent être ainsi financés.
+Les institutions assujetties doivent également être vigilantes aux méthodes de
+paiement et/ou de financement proposées : espèces, cartes prépayées …etc.
+C. Facteurs de risque liés aux canaux de distribution
+Lorsqu'elles évaluent le risque lié aux canaux de distribution, les institutions assujetties
+devraient accorder une attention particulière aux canaux, qu'ils soient liés à la gestion
+des clients et des relations d'affaires, ou à la fourniture de produits ou de services, qui
+sont susceptibles de favoriser l'anonymat. Il peut s'agir, notamment de :
+-
+Absence de contact physique : Ouverture de compte à distance, services de
+banque en ligne, applications mobiles, etc ;
+-
+Recours à des intermédiaires : Prestataires de services qui peuvent introduire
+un risque supplémentaire si leur vigilance n'est pas adéquate ;
+-
+Volume d'opérations : Canaux qui traitent un grand volume de petites
+transactions.
+
+[[PAGE 16]]
+
+Exemples : des canaux non directs (en particulier lorsqu'il n'existe pas de mesures de
+protection telles que des moyens d'identification électronique), tels que l'internet, le
+téléphone ou d'autres services ou technologies d'accès à distance ; et le recours à des
+intermédiaires de paiement tiers ou à d'autres intermédiaires de transaction.
+D. Facteurs de risque liés à la zone géographique
+Dans l’évaluation globale des risques, il faut déterminer les éléments à haut risque
+associés à l’emplacement géographique de l’institution assujettie, ses bureaux de
+représentation, ses filiales et succursales.
+Dans le cadre de l’évaluation des risques liés aux relations d’affaires, il convient
+d’identifier le lieu où est basé :
+-
+Le client ou le bénéficiaire effectif ;
+-
+Le principal établissement ou l’activité générant le patrimoine du client ou du
+bénéficiaire effectif.
+Il convient également de tenir compte du risque suscité par les Etats avec lesquels le
+client entretient des liens commerciaux, des liens financiers ou des liens personnels.
+Les critères à prendre en considération sont notamment :
+-
+Les pays identifiés par des sources crédibles (par exemple, la CTRF, le GAFI, le
+GAFIMOAN, le FMI, etc.) comme présentant des déficiences en matière de lutte
+contre le BA/FT/FPADM ;
+-
+Les pays soumis à des sanctions, des embargos ou des mesures similaires
+émises par des organisations internationales, telles que le Conseil de Sécurité
+des Nations Unies ;
+-
+Les pays fournissant un financement ou un soutien à des activités terroristes ou
+dans lesquels des organisations terroristes opèrent, identifiés par des sources
+crédibles ;
+-
+Les pays identifiés, par des sources crédibles, comme ayant des niveaux
+importants de corruption ou d’autres activités criminelles ;
+-
+Régions caractérisées par l'instabilité politique, le terrorisme, ou la criminalité
+transnationale organisée.
+E. Autres facteurs de risque
+Les facteurs de risque présentés dans ces lignes directrices ne sont pas exhaustifs.
+Selon la nature et la complexité des activités de l’institution assujettie, celle-ci peut être
+amenée à prendre en considération d’autres facteurs de risque spécifiques, par
+exemple l'introduction de nouveaux produits ou services, de nouvelles technologies ou
+de nouveaux processus de livraison, ou l'établissement de nouvelles succursales et
+filiales au niveau local et à l'étranger.
+Voici quelques exemples de facteurs de risque supplémentaires que les institutions
+assujetties peuvent prendre en compte pour identifier et évaluer leur exposition au
+risque de BA/FT/FPADM :
+
+[[PAGE 17]]
+
+Innovation- nouvelles technologies : Les institutions assujetties doivent identifier et
+évaluer les risques de BA/FT/FPADM pouvant découler du développement de
+nouveaux produits et de nouvelles pratiques commerciales, y compris les nouveaux
+mécanismes de distribution et l’utilisation de technologies nouvelles ou émergentes,
+en lien avec des produits nouveaux ou existants ;
+Par exemple, de nouveaux modes de paiement, comme les portefeuilles
+électroniques, les cartes prépayées, les services de paiement par Internet ou les
+paiements mobiles, peuvent être utilisés pour transférer des fonds plus rapidement ou
+de manière anonyme.
+Cyber-sécurité : Les institutions assujetties doivent évaluer dans quelle mesure leurs
+processus opérationnels et/ou leurs clients les exposent au risque d'exploitation à des
+fins de blanchiment d’argent provenant de tiers et/ou de financement du terrorisme ou
+d'organisations illégales, par le biais de cyberattaques ou d'autres moyens, tels que
+l'utilisation de technologies distribuées ou de réseaux sociaux.
+VII.2. Evaluation des risques
+Une fois que l’institution assujettie a identifié l’ensemble des facteurs de risques
+inhérents, il convient d’attribuer un score à chaque facteur identifié et à le représenter
+visuellement.
+Pour chaque catégorie de risque, il doit être tenu compte de plusieurs variables qui,
+soit à elles seules, soit en combinaison avec d’autres, peuvent augmenter ou diminuer
+le risque de BA/FT/FPADM encouru par l’institution assujettie.
+Pour chaque facteur de risque, il faut :
+-
+Évaluer la probabilité qu’il se matérialise ;
+-
+Mesurer l’impact potentiel sur l’institution assujettie.
+VII.2.1. Définition des échelles de cotation (Probabilité, impact)
+-
+Il y a lieu de définir des échelles de cotation claires et cohérentes pour évaluer la
+probabilité d'occurrence d'un risque de BA/FT/FPADM et son impact potentiel sur
+l'institution assujettie (financier, juridique, etc.) ;
+-
+Harmonisation de l'échelle : Il est impératif d'utiliser une échelle harmonisée,
+par exemple à trois niveaux : Élevé, Moyen, Faible.
+ Élevé : Risque très significatif, forte probabilité/impact ;
+ Moyen : Risque notable, probabilité/impact modéré ;
+ Faible : Risque peu significatif, faible probabilité/impact.
+Il convient de noter que cette échelle de cotation à trois niveau est présentée à titre
+d’exemple. Il appartient à chaque institution assujettie de définir une échelle de risque
+qui soit adaptée à sa taille et à la nature de ses activités. Ainsi, l’institution assujettie
+peut classer les risques selon les catégories: élevé, moyen, faible, ou intégrer en plus
+une combinaison de ces catégories (telles que moyennement élevé, moyennement
+faible).
+
+[[PAGE 18]]
+
+Des critères qualitatifs et quantitatifs précis doivent être associés à chaque niveau pour
+chaque facteur de risque (voir Annexe 2.2 Grille de cotation-type des risques).
+-
+L'évaluation de la probabilité d'un risque inhérent doit tenir compte de la
+prévalence et de l'intensité des menaces externes identifiées, ainsi que de la
+facilité avec laquelle ces menaces pourraient exploiter les vulnérabilités
+spécifiques de l'institution assujettie ;
+-
+L'évaluation de l'impact potentiel d'un risque inhérent doit refléter les
+conséquences (financières, juridiques, opérationnelles, etc.) si une vulnérabilité
+de l'institution assujettie est exploitée par une menace de BA/FT/FPADM.
+VII.2.2. Pondération des facteurs de risque
+L’évaluation des risques inhérents nécessite que les institutions assujetties définissent
+des coefficients de pondération aux différents facteurs de risque, en fonction de leur
+degré d’importance.
+Il n’existe pas de méthode standardisée pour définir ces coefficients de pondération,
+mais les institutions assujetties doivent prendre en compte la pertinence des différents
+facteurs de risque, dans le contexte de leur activité ou des caractéristiques de leurs
+relations d’affaires.
+En effet, le poids accordé à chacun de ces facteurs est susceptible de varier d’un
+produit à l’autre et d’un client à l’autre (ou d’une catégorie de client à l’autre) et d’une
+institution à l’autre. Lorsqu’elles pondèrent les facteurs de risque, les institutions
+assujetties devraient s’assurer :
+-
+Qu’aucun facteur ne soit surpondéré ;
+-
+Que la notation du risque n’est pas influencée par des considérations d’ordre
+économique ou de profit ;
+-
+Que la pondération ne permet pas de minorer un facteur de risque élevé ;
+-
+Que des situations où les évaluations nationale et sectorielle identifient des
+facteurs de risque accrus ne puissent être affectées à un niveau de risque sous-
+évalué ;
+-
+Que l’institution assujettie puisse « piloter » le niveau de risque calculé ou qu’une
+telle décision soit correctement justifiée et documentée.
+VII.2.3. Calcul du score de risque global
+Le score de risque inhérent global pour une relation d'affaires ou une activité doit être
+déterminé en combinant les scores attribués à chaque facteur de risque (client, produit,
+canal de distribution, zone géographique, opération). Cette combinaison peut
+s'effectuer par le biais de formules de pondération qui reflètent l'importance relative de
+chaque facteur, ou par des méthodes de calcul plus sophistiquées qui permettent une
+graduation fine des risques.
+Ces méthodes peuvent impliquer des techniques d'interpolation ou des algorithmes
+pour traduire les évaluations individuelles en un score agrégé qui permet de
+
+[[PAGE 19]]
+
+hiérarchiser précisément les risques. La méthodologie de calcul choisie doit être
+clairement définie, documentée et appliquée de manière cohérente.
+Pour une analyse objective des vulnérabilités, il est recommandé aux institutions
+assujetties d'utiliser des données quantitatives et des indicateurs clés (tels que les
+volumes et montants des transactions par produit/canal/géographie, le nombre de
+relations d'affaires complexes) pour évaluer leur exposition et leur susceptibilité d'être
+exploitées.
+VII.2.4. Matrice des risques et cartographie
+La matrice des risques est un tableau à double entrée. L'axe horizontal (X) représente
+l'Impact (par exemple, de Faible à Élevé), et l'axe vertical (Y) représente la probabilité
+(par exemple, de Faible à Très Élevée). Chaque cellule à l'intersection de l'impact et
+de la probabilité est colorée pour indiquer le niveau de risque agrégé (par exemple,
+vert pour Très Faible, jaune pour Faible, orange pour Modéré, rouge pour Élevé, et
+rouge foncé pour Très Élevé). Cela permet une visualisation rapide des risques
+prioritaires.
+L'utilisation d'une cartographie visuelle des risques facilite la compréhension et la
+communication des risques à tous les niveaux de l'institution assujettie.
+-
+Représentation visuelle : Les résultats de l'évaluation des risques doivent être
+présentés sous forme de matrice des risques et de cartes thermiques ;
+-
+Matrice risque inhérent / impact : Une matrice typique croise la probabilité
+d'occurrence du risque avec son impact potentiel pour situer visuellement le
+niveau de risque ;
+-
+Cartographie dynamique : La cartographie des risques doit être dynamique,
+permettant une visualisation rapide des profils de risque des clients, produits,
+canaux ou zones géographiques, et leur évolution dans le temps ;
+-
+Utilisation des couleurs : Les cartes thermiques utilisent des couleurs (ex: vert,
+jaune, orange, rouge) pour indiquer les niveaux de risque, facilitant l'identification
+des zones prioritaires.
+VII.3. Mesures d’atténuation des risques et contrôles clés
+Une fois les risques inhérents identifiés, l'institution assujettie doit évaluer l'efficacité
+de ses contrôles internes pour les atténuer.
+Pour chaque risque identifié comme significatif, des mesures d'atténuation
+spécifiques, mesurables, atteignables, pertinentes et temporellement définies doivent
+être élaborées. Le plan d'action d'atténuation doit clairement identifier les
+responsables de la mise en œuvre de chaque mesure et les délais impartis pour leur
+réalisation.
+
+
+[[PAGE 20]]
+
+Description des catégories de contrôles
+L'efficacité des contrôles doit être évaluée sur la base d'un ensemble structuré de
+catégories, couvrant toutes les dimensions clés du dispositif LCB/FT/FPADM de
+l'institution assujettie. Ces catégories incluent notamment :
+a. Gouvernance et cadre général
+-
+Gouvernance : Engagement du Conseil d’administration/Conseil de surveillance
+et la Direction générale/Directoire, structure de reporting, rôles et responsabilités
+clairs ;
+-
+MLRO / Responsable : Indépendance, ressources, autorité, compétence ;
+-
+Organisationnels : Structure organisationnelle adaptée, séparation des tâches;
+-
+Politique et procédures : Exhaustives, claires, accessibles, à jour ;
+-
+Auto-évaluation du risque : Processus robuste, documentation, intégration
+ENR/ESR ;
+-
+Remédiation : Capacité à corriger les lacunes et à mettre en œuvre des actions
+correctives ;
+b. Diligence à l'égard de la clientèle (CDD/EDD)
+-
+CDD-Customer Due Diligence régulière : Efficacité des procédures
+d'identification et de vérification ;
+-
+Clients occasionnels : Gestion des clients occasionnels et des seuils internes
+et réglementaires ;
+-
+PPE : Procédures spécifiques de vigilance et d'approbation pour les Personnes
+politiquement exposées au sens de la législation en vigueur ;
+-
+Autre EDD : Application effective des mesures d'EDD pour les autres cas de
+risque élevé géographique, sectoriel, etc.. ;
+-
+Nouveaux produits : Processus d'évaluation des risques pour les nouveaux
+produits/technologies ;
+c. Surveillance et détection
+-
+Surveillance continue : Efficacité des systèmes de monitoring des transactions
+et de l'activité des clients ;
+-
+DDS au CTRF : Processus de détection, analyse et déclaration de soupçons ;
+-
+Sanctions financières ciblées : Dispositif de filtrage, gel des fonds, et respect
+des listes de sanctions internationales et nationale ;
+d. Gestion des risques spécifiques (Typologies)
+-
+Transferts de fonds : Contrôles spécifiques sur les virements nationaux et
+internationaux ;
+-
+Espèces : Contrôles sur les opérations en espèces de gros montants.
+
+[[PAGE 21]]
+
+e. Support et contrôle
+-
+Systèmes informatiques : Adéquation, sécurité, capacité de monitoring;
+-
+Tenue des dossiers : Conservation et accessibilité des informations clients et
+transactions ;
+-
+Employés : Recrutement, formation, sensibilisation du personnel ;
+-
+Audit : Fonction d'audit interne indépendante et efficace en matière de
+LCB/FT/FPADM ;
+-
+Coopération avec la Commission bancaire/Banque d'Algérie : Réactivité et
+qualité de la collaboration avec le superviseur.
+L'évaluation de l'efficacité de ces contrôles peut être réalisée via une auto-évaluation
+notée ex : Faible/Moyen/Élevé ou de 1 à 4, ou un système de "OUI/NON" suivi de
+commentaires, comme le suggère l'Annexe 2.3.
+VII.4. Evaluation des risques résiduels
+Le risque résiduel est le risque qui subsiste après la mise en œuvre des mesures
+d’atténuation des risques et des contrôles. Il s’agit du risque net qui est généralement
+calculé comme suit :
+Risque résiduel (RR)= risque inhérent (RI) – efficacité des mesures d’atténuation et de
+contrôles (AR).
+Un risque résiduel faible signifie que les contrôles sont efficaces et réduisent le risque
+à un niveau acceptable. À l'inverse, un risque résiduel élevé indique que, malgré les
+contrôles mis en place, l'exposition de l'institution assujettie reste significative et
+nécessite des mesures correctives supplémentaires ou une surveillance renforcée.
+À titre d’exemple, ces mesures peuvent inclure :
+-
+L’augmentation des ressources allouées ;
+-
+La mise en place de nouveaux contrôles (dans le cas de l’apparition de nouveaux
+risques par exemple) ;
+-
+Le renforcement des contrôles existants : lorsqu’il apparaît que certains risques
+augmentent, il peut être envisagé de reclasser certains clients dans une catégorie
+de risque plus élevée.
+VII.5. Étapes clés à suivre après l'évaluation des risques
+Les étapes générales qui suivent le processus d'évaluation des risques sont les
+suivantes :
+-
+Diffuser les résultats au conseil d’administration CA, conseil de surveillance, à la
+direction générale et aux autres départements et services opérationnels au sein
+de l'institution assujettie ainsi qu’à l’audit interne ;
+-
+Comparer les évaluations des risques actuelles et précédentes pour déterminer
+si le degré de risque a augmenté, diminué ou est resté le même ;
+
+[[PAGE 22]]
+
+-
+La direction générale ou le conseil d'administration doivent discuter et déterminer
+si les risques évalués correspondent à la tolérance au risque de l'institution
+assujettie (appétence au risque) en tenant compte des objectifs stratégiques ;
+-
+Prendre en compte et atténuer les nouveaux risques inhérents ;
+-
+Remédier aux lacunes identifiées dans l’environnement de contrôle ;
+-
+Réaliser une évaluation indépendante pour examiner et tester l’efficacité du
+dispositif de LCB/FT/FPADM.
+VIII. DOCUMENTATION ET MISE A JOUR DE L’EVALUATION DES
+RISQUES
+VIII.1. Documentation de l’évaluation des risques
+Les institutions assujetties doivent mettre en place un dispositif rigoureux de
+documentation et de traçabilité pour leur auto-évaluation et leur gestion des risques
+de BA/FT/FPADM.
+Elle doit inclure, sans s'y limiter, les éléments suivants :
+a- La méthodologie d'évaluation des risques : Une description claire et détaillée de
+l'approche adoptée pour identifier, évaluer et atténuer les risques de BA/FT/FPADM,
+y compris les critères utilisés pour l'attribution des scores de risque et les seuils
+définis ;
+b- Les résultats détaillés de l'identification et de l'évaluation des risques : Une
+présentation complète des risques inhérents (bruts) identifiés, de leur évaluation, ainsi
+que des risques résiduels (nets) après application des mesures d'atténuation. Cela
+inclut les matrices et cartographies des risques ;
+c- Les décisions relatives au niveau d'appétence au risque : La formalisation de
+l'appétit pour le risque de l'institution, approuvée par la haute direction, et les
+justifications de cette position ;
+d- Le plan d'action des mesures d'atténuation : Un document répertoriant toutes
+les mesures de contrôle et d'atténuation mises en place ou prévues, avec les
+responsabilités assignées, les délais de mise en œuvre et les indicateurs de
+performance pour leur suivi ;
+e- Les preuves de l'approbation et des révisions : Les procès-verbaux des réunions
+de l’organe délibérant (Conseil d'administration ou Conseil de surveillance) attestant
+de l'examen et de l'approbation formelle de l'auto-évaluation des risques et de ses
+révisions subséquentes ;
+f- Les dossiers des analyses et décisions : Toutes les analyses sous-jacentes, les
+données collectées, les rapports internes et les décisions prises dans le cadre de
+l'approche fondée sur les risques ;
+g- Traçabilité des données : L'institution assujettie doit conserver un historique
+complet et fiable des données utilisées pour l'évaluation des risques, des calculs
+effectués et des résultats des évaluations. Cette traçabilité est essentielle pour
+permettre un suivi des tendances, des évolutions de risque, et pour faciliter les
+
+[[PAGE 23]]
+
+vérifications internes et externes. La documentation doit être conservée pendant le
+délai prescrit par la loi et les règlements applicables.
+Toute cette documentation doit être exhaustive, actualisée, précise et facilement
+accessible à la Commission Bancaire, et aux auditeurs externes, à leur demande.
+VIII.2. Mise à jour de l’évaluation des risques
+Les risques de BA/FT/FPADM évoluant constamment, l’évaluation des risques est un
+processus périodique qui doit faire l’objet d’un examen régulier. Conformément aux
+dispositions réglementaires en vigueur, l’évaluation des risques de BA/FT/FPADM doit
+être revue au minimum une fois par an et notamment, à chaque fois qu’il y a des
+changements notables dans la gestion et les opérations réalisées (par exemple :
+changement du modèle commercial, de la clientèle, de l’exposition aux risques, etc.).
+De ce fait, outre la révision annuelle, l’institution assujettie est tenue de réviser et de
+mettre à jour son évaluation des risques BA/FT/FPADM en cas de :
+-
+Publication de l'évaluation nationale des risques (ENR) ou de l'évaluation
+sectorielle des risques (ESR), actualisée ;
+-
+Modification de la législation ou de la réglementation nationale en matière de lutte
+contre le BA/FT/FPADM ;
+-
+De nouvelles menaces et vulnérabilités sont identifiées. Il est possible qu’en
+exerçant ses activités, l’institution assujettie prenne conscience de risques qui
+n’ont pas été pris en compte lors de son évaluation initiale des risques. Des
+informations peuvent également devenir disponibles sur l’apparition de nouvelles
+menaces exploitant certaines vulnérabilités. Ainsi, lorsque l’institution assujettie
+prend conscience qu’un nouveau risque est apparu ou qu’un risque existant a
+augmenté, cela devrait être pris en compte dans l’évaluation des risques dès que
+possible ;
+-
+Évolution significative des recommandations du GAFI ;
+-
+Identification de nouvelles typologies de BA/FT/FPADM au niveau national ou
+international ;
+-
+Lancement de nouveaux produits, services ou l'utilisation de nouvelles
+technologies par l'institution assujettie ;
+-
+Des changements sont apportés à son modèle commercial, à ses structures ou
+à ses activités ;
+-
+Changements majeurs dans le profil de risque de l'entité ex : acquisition,
+expansion géographique ;
+-
+Découverte de lacunes importantes ou d'incidents de BA/FT/FPADM au sein de
+l’institution assujettie ou du secteur ;
+-
+Constats de l'audit interne ;
+-
+Des informations émanant des autorités compétentes sont de nature à modifier
+l’évaluation des risques inhérents à certains critères.
+IX. GOUVERNANCE ET CONTRÔLE INTERNE
+Une gouvernance solide et un système de contrôle interne robuste sont essentiels
+pour une gestion efficace des risques de BA/FT/FPADM.
+
+[[PAGE 24]]
+
+IX.1. Rôles et responsabilités
+a- Organe délibérant : Le Conseil d’administration ou le Conseil de surveillance est
+responsable de la définition de la politique générale de prévention et de lutte contre le
+BA/FT/FPADM, de la surveillance de sa mise en œuvre, de l’allocation des ressources
+et de la nomination du responsable de la conformité. Il doit également approuver la
+cartographie des risques et les mesures d’atténuation.
+L’organe délibérant est tenu de définir, d’approuver et de documenter l’appétit au
+risque de l’institution assujettie en matière de lutte contre le BA/FT/FPADM.
+Cette démarche vise à établir les niveaux de risque que l’institution assujettie est
+disposée à accepter dans le cadre de ses activités, produits, services, zones
+géographiques et catégories de clientèle. L’appétit au risque doit être aligné sur la
+stratégie globale de gestion des risques de l’institution assujettie et doit guider la mise
+en œuvre du dispositif de vigilance, notamment en ce qui concerne l’allocation des
+ressources, le paramétrage des seuils d’alerte, ainsi que les décisions relatives à
+l’entrée ou au maintien des relations d’affaires.
+L’appétit au risque doit faire l’objet :
+- d’une validation formelle par l’organe délibérant ;
+- d’une révision périodique, notamment à l’occasion de la réévaluation de la
+cartographie des risques ou en cas de changement significatif de l’environnement
+opérationnel ou réglementaire ;
+- d’une traduction concrète dans les politiques internes, les procédures et les
+dispositifs de contrôle mis en œuvre.
+b- Organe exécutif : La Direction générale ou le Directoire est responsable de la mise
+en place d'un dispositif efficace de lutte contre le BA/FT/FPADM.
+c- Responsable des dispositifs de contrôle de la conformité LCB/FT/FPADM : Le
+responsable des dispositifs de contrôle de la conformité en matière de prévention et
+de LCB/FT/FPADM est le point de contact principal pour les autorités compétentes et
+la CTRF. Il est responsable de la gestion quotidienne du dispositif LCB/FT/FPADM, de
+l'analyse des alertes, de la décision et de la transmission des déclarations de soupçon.
+Il doit disposer de l'autorité, des ressources et de l'indépendance nécessaires.
+d- Autres départements : Tous les départements, commercial, juridique, opérations,
+systèmes d’information, ressources humaines ont un rôle à jouer dans la détection et
+la prévention des risques de BA/FT/FPADM. Leurs responsabilités doivent être
+clairement définies.
+IX.2. Politiques et procédures
+L'institution assujettie est tenue d'élaborer et de mettre en œuvre des politiques et
+procédures écrites, exhaustives, précises, accessibles et constamment actualisées.
+Celles-ci doivent couvrir l'intégralité de ses obligations en matière de lutte contre le
+blanchiment d’argent, le financement du terrorisme et le financement de la prolifération
+des armes de destruction massive (LCB/FT/FPADM).
+
+[[PAGE 25]]
+
+Ces politiques et procédures doivent systématiquement refléter l'approche fondée sur
+les risques (ABR), en guidant l'identification, la vérification et la mise à jour des
+données clients. Elles doivent également détailler les modalités de surveillance
+continue des opérations et de détection des anomalies, ainsi que les procédures de
+détection, d'analyse et de transmission des déclarations de soupçon (DDS).
+L'application rigoureuse des sanctions financières ciblées (incluant le gel et/ou la saisie
+des fonds, le filtrage et les rapports aux autorités) doit y être explicitée. Des dispositifs
+spécifiques pour prévenir le financement du terrorisme (FT) et le financement de la
+prolifération (FPADM) doivent être intégrés, notamment les mécanismes de détection
+des clients ou opérations à risque élevé dans ces domaines.
+Enfin, ces documents doivent prévoir les règles de conservation des documents et
+d'intégrité de la traçabilité, ainsi que l'organisation des formations obligatoires et
+périodiques pour l'ensemble du personnel, incluant des modules dédiés aux risques
+spécifiques tels que les Personnes Politiquement Exposées (PPE) ou le FPADM.
+Pour garantir leur effectivité, ces politiques et procédures doivent impérativement être
+approuvées par le Conseil d’Administration (ou le Conseil de surveillance) et être
+diffusées à tout le personnel concerné, en fonction de ses responsabilités. Elles
+doivent par ailleurs être facilement consultables, que ce soit sous un format numérique
+sécurisé ou sous format papier.
+L'institution assujettie doit s'assurer que ces politiques et procédures font l'objet d'une
+révision régulière, au moins une fois par an. Une révision immédiate est également
+requise en cas de tout changement réglementaire, technologique, typologique ou
+opérationnel susceptible d’affecter l’exposition de l’institution assujettie aux risques de
+BA/FT/FPADM.
+L'approche fondée sur les risques et les politiques associées doivent être clairement
+communiquées à l'ensemble du personnel concerné par la prévention du
+BA/FT/FPADM, et des mécanismes doivent être mis en place pour s'assurer de leur
+bonne compréhension et application.
+IX.3. Systèmes et outils technologiques
+L'efficacité du dispositif de lutte contre le blanchiment d’argent, le financement du
+terrorisme et le financement de la prolifération des armes de destruction massive
+(LCB/FT/FPADM) de l'institution assujettie repose fondamentalement sur la
+disponibilité et l'adéquation des systèmes informatiques et d'outils technologiques.
+Ces systèmes sont indispensables pour soutenir l'ensemble des processus de
+conformité.
+Ils doivent notamment permettre une gestion rigoureuse et sécurisée des données
+d'identification des clients et des bénéficiaires effectifs tout au long de la relation
+d'affaires, assurant ainsi la mise à jour et la traçabilité de ces informations. Ces outils
+technologiques sont également cruciaux pour le filtrage automatisé et performant des
+bases de clients et des transactions par rapport aux listes de sanctions financières
+ciblées et aux registres des personnes politiquement exposées (PPE).
+
+[[PAGE 26]]
+
+En outre, ces systèmes doivent garantir un monitoring continu et sophistiqué des
+opérations, permettant la détection proactive et la génération d'alertes pertinentes en
+cas d'anomalies ou d'activités suspectes. Une gestion structurée des alertes générées
+et des cas de soupçon est également essentielle, depuis leur réception jusqu'à leur
+analyse approfondie et, le cas échéant, la transmission des déclarations de soupçon
+(DDS) à la CTRF. L'application rapide et systématique du dispositif des sanctions
+financières ciblées, y compris le gel des fonds, dépend également de la robustesse de
+ces outils.
+Par ailleurs, ces solutions technologiques sont vitales pour la conservation sécurisée
+et l'archivage fiable de tous les dossiers et documents liés à la vigilance
+LCB/FT/FPADM, garantissant ainsi la traçabilité et la disponibilité des informations
+pour les contrôles internes et externes. L'institution assujettie est responsable de la
+mise à jour régulière de ces systèmes et de leur maintien à un niveau de sécurité
+optimal, afin de prévenir toute vulnérabilité ou faille de sécurité qui pourrait
+compromettre l'intégrité ou la confidentialité des données et des opérations.
+IX.4. Contrôles internes
+Le dispositif de contrôle interne en matière de LCB/FT/FPADM doit être structuré selon
+une approche des "trois lignes de défense", garantissant une supervision et une
+évaluation continues et indépendantes :
+a- Le contrôle permanent : Il est exercé au quotidien par les lignes opérationnelles
+et hiérarchiques de l'institution. Son objectif est de s'assurer du respect immédiat et
+continu des politiques et procédures de LCB/FT/FPADM, ainsi que de l'identification
+et de la remontée des alertes initiales. Les responsables opérationnels portent la
+responsabilité première de la conformité dans leurs activités quotidiennes.
+b- La fonction conformité : Cette fonction est chargée de la supervision et de
+l'évaluation périodique du dispositif LCB/FT/FPADM. Elle veille à l'adéquation
+conceptuelle et à l'efficacité opérationnelle des mesures mises en place. Ses
+responsabilités incluent l'élaboration et la mise à jour des politiques et procédures,
+l'analyse approfondie des alertes, le conseil aux lignes opérationnelles, la réalisation
+de contrôles de second niveau, ainsi que la vérification de la conformité réglementaire.
+c- L'Audit interne : Indépendante des fonctions opérationnelles et de conformité, la
+fonction d'audit interne doit évaluer de manière régulière et approfondie l'ensemble du
+dispositif LCB/FT/FPADM de l'institution assujettie. Ses missions principales incluent
+l'évaluation de l'efficacité des contrôles internes, l'examen des processus de
+conformité, et l'évaluation des risques de blanchiment d’argent, de financement du
+terrorisme et de financement de la prolifération des armes de destruction massive. La
+fonction d'audit interne est également appelée à formuler des recommandations pour
+l'amélioration du dispositif et à participer à la formation et à la sensibilisation du
+personnel. Les rapports de l'audit interne doivent être communiqués au Conseil
+d’Administration ou au Conseil de Surveillance et au comité d’audit.
+
+[[PAGE 27]]
+
+IX.5 Formation du personnel
+Afin de garantir l'application effective de l'ABR, les institutions assujetties doivent
+mettre en place des programmes de formation continue pour leur personnel concerné,
+couvrant la compréhension des risques de BA/FT/FPADM, l'application des présentes
+lignes directrices et les typologies émergentes.
+X. APPLICATIONS SPÉCIFIQUES ET CONTEXTES PARTICULIERS
+X.1. Particularités de la gestion des risques BA/FT/FPADM pour Algérie Poste
+Les services financiers d’Algérie Poste, en tant qu'institution assujettie aux présentes
+lignes directrices, doivent appliquer l'ensemble des dispositions qu'elles contiennent.
+Cependant, son profil opérationnel et la nature de ses produits, services et clientèle
+présentent des particularités qui nécessitent une adaptation de son dispositif de
+gestion des risques de blanchiment d’argent, de financement du terrorisme et de
+financement de la prolifération des armes de destruction massive (BA/FT/FPADM).
+Les principales particularités à considérer sont :
+a- Prévalence et volume élevé des transactions en espèces : Le nombre important
+de dépôts et retraits en espèces, y compris de petits montants, expose à un risque
+élevé de structuration et de placement de fonds illicites ;
+b- Mandats et transferts de fonds : Le volume élevé de mandats postaux et de
+transferts de fonds, peut être exploité pour le financement occulte ou le
+fractionnement ;
+c- Rôle dans le paiement des pensions et aides sociales : Ce rôle confère une
+clientèle potentiellement vulnérable ou peu bancarisée, nécessitant une vigilance
+adaptée face aux risques de manipulation ;
+d- Couverture rurale étendue : La présence d'Algérie Poste dans des zones
+éloignées ou moins surveillées peut attirer des individus cherchant à exploiter un
+moindre contrôle ;
+e- Clientèle peu informée ou vulnérable : Une partie de la clientèle peut être moins
+sensibilisée aux enjeux LCB/FT/FPADM, augmentant le risque d'utilisation abusive à
+leur insu ;
+f- Risques d'utilisation à des fins de financement occulte ou structuration de
+fonds : La combinaison de la prévalence des espèces, du volume des mandats et de
+la nature de la clientèle crée des points de vulnérabilité spécifiques au financement
+occulte ou à la structuration.
+En conséquence, Algérie Poste doit adapter sa cartographie des risques, ses
+procédures de diligence, ses systèmes de monitoring et ses programmes de formation
+pour couvrir ces particularités. Cela implique, par exemple, que ses grilles de cotation
+des risques devraient intégrer des critères spécifiques tenant compte des risques liés
+aux espèces, à l'anonymat relatif de certains canaux postaux et à la nature de sa
+clientèle.
+
+[[PAGE 28]]
+
+X.2. Spécificités des établissements financiers et impact sur l'auto-évaluation
+des risques
+X.2.1. Limitation des opérations des établissements financiers
+Conformément à l'article 78 de la Loi n° 23-09 du 3 Dhou El Hidja 1444 correspondant
+au 21 juin 2023, portant loi monétaire et bancaire, les établissements financiers sont
+soumis aux restrictions opérationnelles suivantes :
+-
+Ils ne sont pas autorisés à recevoir de fonds du public ;
+-
+Ils ne sont pas autorisés à gérer les moyens de paiement ou à les mettre à la
+disposition de leur clientèle ;
+-
+Ils sont autorisés à effectuer toutes les autres opérations permises par ladite loi.
+X.2.2. Auto-évaluation des risques spécifiques aux établissements financiers
+L'auto-évaluation des risques BA/FT/FPADM par les établissements financiers doit
+être adaptée pour refléter fidèlement leur modèle d'affaires, la nature des produits et
+services qu'ils sont légalement autorisés à offrir, et leurs limitations opérationnelles
+découlant notamment de l'article 78 de la Loi n° 23-09. À ce titre, leur processus
+d'évaluation des risques doit spécifiquement porter sur les points suivants :
+-
+Identification et évaluation des risques inhérents proportionnés
+ Risques liés aux produits et services : L'analyse doit se concentrer sur la
+vulnérabilité au BA/FT/FPADM des produits et services autorisés (ex: crédits
+spécialisés, etc.). L'évaluation doit considérer les produits qui peuvent
+impliquer des montants importants, des structures financières complexes,
+des opérations transfrontalières, ou l'intervention de tiers présentant un
+risque élevé ;
+Exemple : Risques liés au crédit-bail: Le crédit-bail, activité courante pour les
+établissements financiers, implique la mise à disposition d'un bien (équipement,
+immobilier, véhicules) pour une durée déterminée en échange de loyers, avec une
+option d'achat en fin de contrat. Malgré son caractère légitime, le crédit-bail peut
+présenter des vulnérabilités spécifiques au BA/FT/FPADM, notamment :
+ Valeur élevée des actifs : Les biens sous contrat de crédit-bail sont souvent
+de grande valeur (ex: machines industrielles, biens immobiliers), ce qui les
+rend attractifs pour le blanchiment d'argent en vue d'intégrer des fonds
+illicites dans l'économie légale par le biais des paiements de loyers ou de
+l'acquisition finale du bien ;
+ Complexité des opérations et des parties : Les contrats de crédit-bail
+peuvent impliquer de multiples parties (bailleur, preneur, fournisseur du bien,
+garants) et des structures juridiques complexes (sociétés-écrans, entités
+offshore), augmentant l'opacité et rendant difficile l'identification des
+bénéficiaires effectifs et de la véritable finalité économique de l'opération ;
+ Rachat anticipé ou cession du bien : Le remboursement anticipé de la
+dette de crédit-bail, ou la cession du bien loué avant la fin du contrat, peut
+
+[[PAGE 29]]
+
+être utilisé pour convertir rapidement des fonds d'origine illicite en actifs
+légitimes ou pour rapatrier des fonds ;
+ Sur- ou sous-évaluation du bien : Une évaluation du bien loué qui ne
+correspond pas à sa valeur réelle peut être un indicateur d'une tentative de
+blanchiment d’argent, permettant de surévaluer le montant des fonds à
+légaliser (par le biais de loyers ou de prix d'achat finaux disproportionnés) ou
+de dissimuler la valeur réelle d'un actif illicite ;
+ Utilisation commerciale fictive ou illégitime : Le crédit-bail peut être utilisé
+pour financer des activités commerciales fictives ou illégales, le bien étant
+acquis sous un prétexte légitime mais servant à masquer des opérations
+criminelles.
+Pour atténuer ces risques, l'auto-évaluation des établissements financiers devrait
+inclure des mesures de vigilance renforcées telles que :
+-
+Une diligence approfondie sur le preneur du crédit-bail et le bénéficiaire effectif,
+y compris la vérification de la légitimité de son activité et de la source de ses
+fonds pour les paiements de loyers ;
+-
+L'obtention de justifications claires sur la finalité économique et l'utilité réelle du
+bien objet du crédit-bail pour l'activité du preneur ;
+-
+La vérification de la réputation et de la légitimité du fournisseur du bien ;
+-
+La réalisation d'expertises indépendantes pour s'assurer de la juste valeur du
+bien ;
+-
+Une surveillance continue des paiements et du comportement du preneur, avec
+une attention particulière aux remboursements anticipés ou aux cessions
+inexpliquées du bien.
+ Risques liés à la clientèle : L'évaluation des risques clientèle doit se
+focaliser sur les types de clients qu'ils sont légalement habilités à servir (ex :
+entreprises, professionnels, promoteurs immobiliers, etc.). Une attention
+particulière sera portée aux clients dont les activités, le secteur
+géographique, la structure juridique ou les structures de propriété peuvent
+présenter des risques de BA/FT/FPADM élevé ;
+ Risques liés aux canaux de distribution : Bien qu'ils ne gèrent pas les
+moyens de paiement traditionnels du public, les établissements financiers
+doivent évaluer les risques liés à leurs propres canaux de communication et
+de transaction pour leurs activités autorisées (ex: plateformes numériques
+pour la gestion de crédits, interactions directes avec les clients, recours à des
+réseaux d'intermédiaires pour la distribution de leurs produits autorisés) ;
+ Risques géographiques : L'évaluation doit inclure l'exposition aux zones à
+haut risque (GAFI, listes nationales), en lien avec la provenance ou la
+destination des fonds ou des actifs gérés dans le cadre de leurs opérations
+autorisées.
+-
+Mise en place de mesures d'atténuation et de contrôles internes adaptés
+ Les établissements financiers doivent concevoir et mettre en œuvre des
+contrôles internes et des mesures d'atténuation des risques qui sont
+
+[[PAGE 30]]
+
+spécifiquement proportionnés à leur profil de risque inhérent et aux
+opérations qu'ils sont légalement autorisés à effectuer ;
+ Ceci inclut des procédures rigoureuses de vigilance à l'égard de la clientèle,
+adaptées à la nature de leurs relations d'affaires et de leurs opérations. Par
+exemple, pour les opérations de crédit-bail, une vérification approfondie de
+l'origine et de la destination des fonds des loyers ou du prix d'acquisition final,
+ainsi que de la finalité économique et légale de l'opération de leasing, est
+capital.
+-
+Surveillance continue de la relation d'affaires
+ Les établissements financiers doivent adapter leurs systèmes de surveillance
+des opérations et des relations pour analyser les flux financiers et les
+comportements de leurs clients, en lien avec les risques de BA/FT/FPADM
+inhérents à leurs activités autorisées ;
+ Cette surveillance doit permettre de détecter les opérations complexes,
+inhabituelles ou de grande ampleur qui ne correspondent pas au profil connu
+du client, à l'activité de l'établissement financier, ou qui pourraient indiquer
+une tentative de contournement des restrictions opérationnelles.
+Les établissements financiers doivent démontrer, dans leur auto-évaluation des
+risques et dans la conception de leur dispositif de conformité, leur stricte adhésion aux
+limitations opérationnelles de l'article 78 de la loi n° 23-09.
+
+XI. RÉVISION ET MISE À JOUR DES LIGNES DIRECTRICES
+Les présentes lignes directrices, qui constituent un document de référence évolutif,
+seront soumises à une révision régulière. Cette démarche proactive vise à garantir leur
+pertinence continue et leur adéquation avec l'évolution des risques de blanchiment
+d’argent, de financement du terrorisme et de financement de la prolifération des armes
+de destruction massive (BA/FT/FPADM).
+
+LE PRESIDENT DE LA COMMISSION BANCAIRE
+
+
+
+
+
+
+
+
+[[PAGE 31]]
+
+ANNEXES
+ANNEXE 1 : TYPOLOGIES ET INDICATEURS D'ALERTE DES RISQUES
+BA/FT/FPADM
+Cette annexe vise à fournir aux institutions assujetties une compréhension approfondie
+des méthodes et schémas couramment utilisés pour le blanchiment d’argent, le
+financement du terrorisme et le financement de la prolifération des armes de
+destruction massive.
+La connaissance de ces typologies et des indicateurs d'alerte associés est
+fondamentale pour une détection efficace et une application rigoureuse de l'approche
+fondée sur les risques. Il est impératif pour les institutions assujetties de se tenir
+informées des nouvelles typologies identifiées par les autorités nationales (CTRF,
+ENR, ESR) et les organismes internationaux (GAFI).
+1.1. Typologies de blanchiment d’argent (BA)
+Le blanchiment d’argent implique généralement un processus en plusieurs étapes
+(placement, interconnexion, intégration) visant à dissimuler l'origine illicite des fonds.
+Les typologies les plus courantes incluent :
+-
+Le placement par espèces (smurfing, structuring) : Consiste à fractionner
+des dépôts ou retraits importants en de multiples petites transactions pour éviter
+les seuils de déclaration ou d'attention ;
+-
+Les prêts fictifs : Octroi ou remboursement de prêts sans substance
+économique réelle pour justifier le mouvement de fonds illicites ;
+-
+Les fausses factures et les sur/sous-facturations : Utilisation de
+transactions commerciales frauduleuses avec des montants gonflés ou réduits
+pour transférer des fonds de manière dissimulée ;
+-
+Les sociétés écrans : Création d'entités juridiques sans activité économique
+réelle ou sans bénéficiaires effectifs transparents pour masquer la propriété et
+les transactions ;
+-
+Les stratagèmes de fraude fiscale transformés en blanchiment : Des fonds
+issus de fraudes fiscales peuvent être blanchis via des circuits complexes pour
+réintégrer l'économie légale ;
+-
+L'abus des organisations à but non lucratif (OBNL) : Détournement de fonds
+destinés à des œuvres caritatives ou humanitaires à des fins illicites, souvent
+pour financer le terrorisme ou d'autres activités criminelles.
+1.2. Typologies de financement du terrorisme (FT)
+Le financement du terrorisme, qu'il soit lié à des organisations ou des individus, se
+caractérise souvent par des montants plus faibles que le BA et des transactions qui ne
+semblent pas toujours "illicites" à première vue. Les typologies pertinentes incluent:
+
+[[PAGE 32]]
+
+-
+Recours aux dons de petite valeur et au crowdfunding : Collecte de fonds
+via des plateformes en ligne, des réseaux sociaux ou des quêtes informelles,
+souvent sous prétexte de causes légitimes ;
+-
+Canaux formels détournés (mandats, transferts cash) : Utilisation de
+services de transfert de capitaux (formels ou informels comme la hawala) pour
+acheminer de petites sommes de manière rapide et transfrontalière ;
+-
+Usage de personnes interposées et de mule financière : Recours à des
+individus sans lien apparent avec le terrorisme pour effectuer des transactions
+en leur nom ;
+-
+Financement par l'exploitation des ressources naturelles ou le trafic
+(drogue, armes) : Utilisation des profits d'activités criminelles organisées pour
+financer des actes terroristes.
+-
+Liens avec zones instables : Flux financiers impliquant des régions
+géographiques connues pour abriter des groupes terroristes ou être des zones
+de conflit ;
+-
+Utilisation d'ONG non transparentes : Création ou infiltration d'organisations
+non gouvernementales pour collecter et acheminer des fonds sans contrôle
+adéquat.
+1.3. Typologies de financement de la prolifération des armes de destruction
+massive (FPADM)
+Le FPADM implique le financement d'activités liées à la production, au développement
+ou à l'acquisition d'armes nucléaires, biologiques, chimiques ou de leurs vecteurs. Ces
+typologies sont souvent sophistiquées et exploitent les chaînes commerciales
+internationales :
+-
+Utilisation de sociétés écrans et de structures juridiques opaques :
+Création d'entités complexes pour masquer l'identité des acheteurs finaux et le
+véritable objet des transactions ;
+-
+Transactions impliquant des biens à double usage civil et sécuritaire :
+Achat de matériaux, équipements ou technologies qui peuvent avoir une
+application civile légitime mais aussi une utilisation militaire ou dans le cadre de
+la prolifération des armes de destruction massive ;
+-
+Recours à des intermédiaires financiers non réglementés ou à des
+juridictions offshores : Utilisation de canaux qui offrent peu de transparence
+pour masquer les flux financiers ;
+-
+Réexportation détournée et faux documents commerciaux : Acquisition de
+biens sensibles via des pays tiers ou avec des documents falsifiés pour
+contourner les contrôles à l'exportation/importation ;
+-
+Transfert indirect via des pays tiers : Acheminement de fonds ou de biens
+via plusieurs juridictions pour brouiller les pistes et échapper à la détection ;
+-
+Détournement des chaînes d'approvisionnement mondiales : Exploitation
+des faiblesses dans les contrôles des échanges commerciaux internationaux.
+1.4. Indicateurs d'alerte (Red Flags)
+Cette liste, non exhaustive, regroupe des signaux d'alerte ou "red flags" qui, pris
+isolément ou en combinaison, peuvent susciter une suspicion et justifier une analyse
+
+[[PAGE 33]]
+
+approfondie. Il est essentiel pour l'entité de considérer ces indicateurs dans le contexte
+des risques de BA, FT et FPADM. Les institutions assujetties veilleront à affiner cette
+liste en y intégrant leurs propres indicateurs d'alerte spécifiques à leurs activités et à
+leur clientèle, basés sur leur évaluation des risques et les typologies nationales
+a- Comportement du client
+-
+Refus de fournir des informations ou informations contradictoires ou
+incohérentes (ex: divergence entre les revenus déclarés et les flux financiers) ;
+-
+Réticence ou incapacité à expliquer l'origine des fonds, la destination des
+opérations, ou la nature de la relation d'affaires ;
+-
+Hâte inhabituelle à effectuer une opération ou à conclure une relation, sans se
+soucier des coûts ou des détails ;
+-
+Utilisation de procurations excessives, de multiples intermédiaires, ou d'entités
+tierces sans justification économique claire ;
+-
+Comportement secret, nerveux ou évasif lors de la collecte d'informations ;
+-
+Changement fréquent et injustifié des coordonnées bancaires des tiers
+bénéficiaires ;
+-
+Insistance du client à agir via des intermédiaires non identifiés ou des sociétés
+offshore sans motif économique ou légal apparent. ;
+-
+Spécifique FT/FPADM : Réticence à expliquer l'origine ou la destination des
+fonds lorsqu'ils impliquent des zones de conflit, des entités controversées, ou
+des acquisitions de biens sensibles. Insistance à transférer des fonds vers des
+pays sous sanctions ou connus pour la prolifération ou le terrorisme ;
+-
+Spécifique FT : Individu manifestant un intérêt soudain et inexpliqué pour des
+services de transfert de fonds internationaux vers des régions à haut risque
+terroriste, ou effectuant des transactions de faibles montants mais de manière
+très fréquente.
+b- Opérations financières
+-
+Dépôts ou retraits importants et fréquents d'espèces sans justification
+économique ou incohérents avec le profil du client ;
+-
+Transactions sans lien apparent avec l'activité déclarée du client ou avec son
+profil de risque ;
+-
+Transferts de fonds vers ou depuis des pays à haut risque, sous sanctions, ou
+connus pour leur activité criminelle, sans justification légitime ;
+-
+Opérations complexes ou inhabituelles par leur nature, leur montant, leur
+fréquence ou leur schéma ;
+-
+Fragmentation d'opérations importantes en plusieurs petites transactions pour
+éviter les seuils de déclaration ou de détection :
+-
+Utilisation inhabituelle de différents canaux de distribution (ex: ouverture de
+compte en agence, puis opérations uniquement en ligne) ;
+-
+Encaissement de chèques ou virements de montants importants et inhabituels,
+provenant de sources sans lien commercial ou personnel évident avec le client ;
+-
+Utilisation fréquente de services de transfert de capitaux pour de petits
+montants envoyés à de multiples destinataires ou provenant de multiples
+expéditeurs, sans justification claire ;
+
+[[PAGE 34]]
+
+-
+Transactions impliquant des parties ou des biens situés dans des zones de
+conflit, des régions sous sanctions ou à forte activité criminelle, sans raison
+économique légitime ;
+-
+Spécifique FT : Multiplicité de petits virements, envoyés vers des destinations
+à risque terroriste ou de la part de multiples expéditeurs depuis ces zones.
+Utilisation de collectes de fonds "caritatives" ou "humanitaires" sans traçabilité
+claire des bénéficiaires finaux ou avec des dépenses incohérentes ;
+-
+Spécifique FPADM : Transactions impliquant des biens à double usage (civils
+et
+militaires)
+ou
+des
+technologies
+sensibles
+sans
+licences
+d'exportation/importation claires, ou avec des descriptions de biens vagues ou
+génériques. Virements vers des comptes dans des juridictions offshore pour
+l'achat de matériaux spécifiques sans justification économique apparente et
+sans correspondance avec l'activité déclarée du client. Paiements à des
+entreprises de transport ou de logistique dont les itinéraires sont complexes ou
+impliquent des zones à risque de prolifération.
+c- Produits et services
+-
+Souscription à des produits complexes ou à des services à forte liquidité sans
+besoin apparent ou incohérents avec le profil du client ;
+-
+Utilisation de produits anonymes (cartes prépayées, bons de caisse anonymes)
+pour des montants importants ou de manière inhabituelle ;
+-
+Spécifique FT/FPADM : Utilisation de systèmes de transfert de fonds informels
+à des fins de transactions transfrontalières importantes et récurrentes sans
+justification économique, ou impliquant des parties dans des zones à risque.
+Acquisition de produits financiers complexes ou d'assurances vie par des
+entités ou individus liés à des zones de prolifération ou terroristes ;
+d- Relations d'affaires
+-
+Clientèle non résidente sans justification économique ou activité commerciale
+locale ;
+-
+Structures juridiques opaques ou complexes (ex: sociétés écran, constructions
+juridiques, holdings complexes) sans raison commerciale claire ou avec des
+bénéficiaires effectifs difficiles à identifier ;
+-
+Changement fréquent de bénéficiaires effectifs, d'administrateurs ou
+d'associés ;
+-
+Spécifique FT/FPADM : Structures juridiques opaques ou complexes, ou
+utilisation de sociétés écrans, ayant pour but de masquer l'identité réelle des
+bénéficiaires effectifs ou de contourner les restrictions liées aux listes de
+sanctions ou aux zones à risque. Établissement de relations d'affaires avec des
+personnes physiques ou morales originaires ou opérant dans des pays
+identifiés comme présentant des carences stratégiques par le GAFI, ou faisant
+l'objet de sanctions internationales pour des raisons de FT ou FPADM.
+
+
+
+[[PAGE 35]]
+
+ANNEXE 2 : OUTILS PRATIQUES DE MISE EN ŒUVRE
+Cette annexe propose des outils opérationnels pour appuyer les institutions assujetties
+dans la mise en œuvre concrète de leur approche fondée sur les risques (ABR). Ces
+outils sont illustratifs et doivent être adaptés au profil, à la taille et à la complexité de
+chaque institution assujettie.
+2.1. Études de cas pratiques
+Cette section propose des scénarios réalistes visant à illustrer l'application de
+l'approche fondée sur les risques (ABR) et à faciliter la détection des risques de
+blanchiment d’argent, de financement du terrorisme et de financement de la
+prolifération des armes de destruction massive. Ces études de cas sont conçues pour
+servir de support à la formation du personnel et stimuler la réflexion sur les démarches
+de vigilance.
+Scénario 1 : Le "nouveau client pressé et opaque"
+a- Description
+Un nouveau client, homme d'affaires étranger sans lien apparent avec l'Algérie,
+souhaite ouvrir un compte courant personnel et un compte société pour une entreprise
+de commerce international nouvellement créée. Il est très réticent à donner des détails
+sur l'origine des fonds importants qu'il souhaite déposer. Il n'est pas préoccupé par les
+frais et semble vouloir finaliser l'opération sans délai. Une vérification initiale révèle
+des informations publiques contradictoires sur ses antécédents professionnels.
+b- Questions pour l'analyse
+-
+Quels sont les indicateurs d'alerte ("red flags") dans ce scénario ?
+-
+Quelles mesures de vigilance devraient être appliquées ?
+-
+Quelles informations supplémentaires devraient être demandées au client ?
+-
+Si le client refuse de coopérer, quelle devrait être la prochaine étape pour
+l'institution assujettie ?
+-
+Y a-t-il matière à déclaration de soupçon (DDS) ?
+Scénario 2 : Le "schéma de virements fractionnés"
+a- Description
+Une entreprise de négoce international effectue et reçoit de nombreux virements
+internationaux, souvent de petits montants, depuis et vers plusieurs pays à risque
+élevé, sans que ces transactions ne correspondent au volume habituel de son activité
+ou à la nature de ses produits. Les descriptions des virements sont vagues ou
+génériques ("facture", "services"). Les fonds transitent rapidement par le compte sans
+y rester.
+
+[[PAGE 36]]
+
+b-Questions pour l'analyse
+-
+Quelles typologies de blanchiment d’argent cela pourrait-il suggérer ?
+-
+Quels sont les "red flags" liés aux opérations et au profil de l'entreprise ?
+-
+Comment le système de monitoring des transactions de l’institution assujettie
+devrait-il réagir ?
+-
+Quelle serait la démarche de vigilance continue à mettre en place pour cette
+relation ?
+Scénario 3 : Le "mandat postal pour une zone à risque" (Spécifique FT/FPADM
+& Services Postaux)
+a- Description
+Une jeune personne, dont le profil ne semble pas correspondre à une activité
+commerciale ou à des revenus élevés, reçoit régulièrement de petits montants via des
+mandats postaux. Ces fonds proviennent de différents expéditeurs situés dans une
+région du Sahel connue pour de fortes tensions sécuritaires. Les motifs des envois
+sont systématiquement "aide familiale" ou "soutien". La jeune personne retire
+immédiatement la totalité des fonds en espèces après réception.
+b- Questions pour l'analyse
+-
+Quels sont les indicateurs d'alerte spécifiques à cette situation (fréquence,
+montant, destinations, profil client) ?
+-
+Comment les agents d'Algérie Poste devraient-ils procéder à des vérifications
+supplémentaires compte tenu du canal et des destinations ?
+-
+Quelle est la pertinence de l'objectif déclaré ("aide familiale") au regard du profil
+du client et de la zone géographique ?
+-
+Ces transactions, prises individuellement, sont-elles suspectes ? Et
+collectivement ?
+-
+Une déclaration de soupçon (DDS) est-elle justifiée ? Sur quelles bases ?
+Scénario 4 : Le "paiement de pension atypique"
+a- Description
+Une personne âgée et visiblement fragile, bénéficiaire d'une pension modeste versée
+via une banque ou Algérie Poste, est systématiquement accompagnée par une
+personne plus jeune inconnue lors de ses retraits mensuels. Cette jeune personne
+semble la presser, gère les documents et récupère l'intégralité de l'argent retiré sans
+que la personne âgée ne s'exprime ou ne reçoive de l'argent. Ce comportement se
+répète sur plusieurs mois.
+b- Questions pour l'analyse
+-
+Quels "red flags" sont apparents en termes de comportement du client et de
+l'accompagnant ?
+-
+Quel type de risque (blanchiment par exploitation de personne vulnérable,
+financement occulte, fraude) pourrait être sous-jacent ?
+
+[[PAGE 37]]
+
+-
+Quelles mesures de vigilance renforcée (EDD) pourraient être déclenchées par
+l'agent ?
+-
+Comment l'agent doit-il interagir avec la personne âgée pour s'assurer de son
+consentement et de la légitimité de l'opération, tout en protégeant sa sécurité ?
+-
+Quelles informations complémentaires devraient être collectées ou remontées
+au MLRO de la banque ou d’Algérie Poste ?
+Scénario 5 : Le "compte postal avec activité commerciale opaque" (Spécifique
+BA/FPADM)
+a- Description
+Un compte CCP (Compte Courant Postal), initialement ouvert pour un usage
+personnel, reçoit des dépôts en espèces importants et irréguliers. Ces dépôts sont
+suivis de virements quasi immédiats vers des comptes bancaires dans d'autres
+banques de la place, dont les détenteurs et leurs activités sont difficilement vérifiables.
+Le titulaire du compte évite les questions sur l'origine des fonds et la justification de
+ces mouvements.
+b- Questions pour l'analyse
+-
+Quels sont les indicateurs d'alerte ("red flags") apparents dans ce scénario,
+notamment en termes de comportement du client, de nature des opérations et
+de flux de fonds ?
+-
+Comment le caractère "personnel" du compte contraste-t-il avec l'activité
+observée ?
+-
+Quelles mesures de vigilance renforcée (EDD) l'agent d'Algérie Poste devrait-il
+appliquer face à de tels dépôts et virements ?
+-
+Comment les agents peuvent-ils tenter d'obtenir plus d'informations sur les
+destinataires des fonds et la justification des virements ?
+-
+Dans quelle mesure l'opacité concernant les bénéficiaires et leurs activités
+augmente-t-elle le risque de blanchiment d’argent ?
+-
+Une déclaration de soupçon (DDS) est-elle justifiée ? Sur quelles bases et quels
+éléments doivent être mis en avant ?
+
+2.2. Grille de cotation-type des risques
+Le présent point détaille la méthodologie de la grille de cotation des risques, un outil
+fondamental pour l'évaluation quantitative du niveau de risque inhérent associé aux
+clients et aux relations d'affaires. Son objectif est de fournir une approche structurée
+et systématique pour déterminer le score de risque global d'un client, en conformité
+avec la section VI.2. « Évaluation des risques » des présentes lignes directrices.
+a- Objectif de la grille de cotation
+La grille de cotation des risques vise à transformer l'évaluation qualitative des facteurs
+de risque en une mesure quantifiable. Elle permet d'attribuer un score numérique à
+chaque client ou relation d'affaires, reflétant ainsi son niveau de risque inhérent en
+
+[[PAGE 38]]
+
+matière de blanchiment d’argent, financement du terrorisme et financement de la
+prolifération des armes de destruction massive (BA/FT/FPADM). Ce score constitue la
+base pour l'application des mesures de vigilance appropriées.
+b- Facteurs de risque pris en compte
+L'évaluation s'appuie sur une analyse multicritère intégrant les principaux facteurs de
+risque identifiés dans les présentes lignes directrices. Ces facteurs incluent, sans s'y
+limiter :
+b-1. Le type de client : La nature juridique du client (personne physique, morale,
+OBNL, etc.), son secteur d'activité (certains secteurs étant intrinsèquement plus
+risqués que d'autres, tels que ceux impliquant des flux de trésorerie importants ou des
+activités complexes), et son statut.
+b-2. La zone géographique : Les pays ou régions d'établissement du client, de ses
+bénéficiaires effectifs, ainsi que les zones d'où proviennent ou vers lesquelles sont
+dirigés les fonds et les opérations. Une attention particulière est portée aux juridictions
+identifiées comme étant à haut risque.
+b-3. Les produits et services utilisés : La nature et la complexité des produits ou
+services demandés (par exemple, produits financiers sophistiqués, opération
+transfrontalière), certains produits étant plus susceptibles d'être utilisés à des fins
+illicites.
+b-4. Les canaux de distribution : Les modalités par lesquelles la relation d'affaires
+est établie et les transactions sont effectuées (par exemple, à distance, via un
+intermédiaire, en espèces).
+b-5. L'existence de personnes politiquement exposées (PPE) : L'identification de
+PPE ayant un lien avec la relation d'affaires.
+b-6. La structure de propriété et la transparence : La complexité et la clarté de la
+structure actionnariale, ainsi que la facilité d'identifier les bénéficiaires effectifs finaux.
+
+c- Méthodologie de cotation
+Pour chaque facteur de risque, un score ou une pondération est attribué(e) en fonction
+du niveau de risque qu'il présente. Par exemple, une caractéristique considérée
+comme représentant un risque élevé (tel qu'un secteur d'activité à risque élevé ou une
+transaction dans une juridiction à haut risque) se verra attribuer un score plus élevé.
+La somme de ces scores individuels pour l'ensemble des facteurs pertinents constitue
+le score de risque inhérent total pour le client.
+
+d- Détermination du niveau de risque et des mesures de vigilance
+Le score de risque inhérent total obtenu est ensuite interprété au moyen d'une matrice
+de risques. Cette matrice définit des seuils numériques qui permettent de classer le
+client dans une catégorie de risque spécifique :
+
+[[PAGE 39]]
+
+-
+Risque Faible : Entraîne l'application de mesures de vigilance simplifiée
+(Simplified due diligence SDD);
+-
+Risque Moyen : Entraîne l'application de mesures de vigilance normale
+(Customer due diligence CDD), potentiellement avec des exigences renforcées
+sur certains aspects ;
+-
+Risque Élevé : Entraîne l'application systématique de mesures de vigilance
+renforcée (Enhanced due diligence EDD), nécessitant une documentation plus
+approfondie et une surveillance continue renforcée de la relation d'affaires.
+Cette approche garantit une évaluation objective, une traçabilité des décisions et une
+application cohérente des mesures de vigilance fondées sur les risques à travers
+l'ensemble de nos activités.
+e- Interprétation du score total et harmonisation des niveaux de risque :
+L'institution assujettie doit définir des seuils clairs pour interpréter le score total de
+risque inhérent (par exemple : Score < 1.5 = Faible, 1.5-2.5 = Moyen, > 2.5 = Élevé).
+Les institutions assujetties sont libres d'établir leur propre matrice de niveaux de
+risques et l'échelle de cotation qu'elles estiment la plus pertinente pour leurs activités
+et leur profil de risque.
+
+f- Précisions sur les critères de cotation : Pour chaque facteur de risque (client,
+produit, géographie, opération), les critères définissant les niveaux 'Faible', 'Moyen' ou
+'Élevé' doivent être aussi objectifs que possible. Ils peuvent inclure des éléments
+qualitatifs (ex: présence de personne politiquement exposée (PPE), type de produit)
+et quantitatifs (ex: nombre des opérations mensuelles, montant moyen des opérations,
+seuils cumulés). L'institution assujettie doit définir ces critères de manière spécifique
+à ses activités et à son exposition aux risques.
+
+g- Cohérence des cotations de conformité/contrôle : Pour l'évaluation des niveaux
+de conformité ou d'efficacité des contrôles, les institutions assujetties sont tenues
+également de s'appuyer sur une échelle cohérente:
+-
+4 = Haut niveau de conformité/contrôle : Indique une application rigoureuse
+et une efficacité avérée des mesures LCB/FT/FPADM ;
+-
+3 = Conformité satisfaisante : Les exigences sont globalement respectées,
+mais des améliorations mineures sont possibles ;
+-
+2 = Contrôles partiellement efficaces : Des lacunes significatives existent
+dans l'application des contrôles, nécessitant des actions correctives urgentes ;
+-
+1 = Contrôles insuffisants : La conformité et l'efficacité des contrôles sont
+gravement défaillantes, exposant l'institution à des risques majeurs.
+
+
+2.3. Modèle de matrice d'auto-évaluation de l'efficacité des contrôles
+Ce modèle est proposé pour aider les institutions assujetties à évaluer de manière
+structurée l'efficacité de leurs contrôles internes en matière de LCB/FT/FPADM, en se
+
+[[PAGE 40]]
+
+basant sur des catégories clés de contrôle. Ce modèle est illustratif et doit être adapté
+aux spécificités de chaque institution assujettie :
+
+Catégorie de
+Contrôle
+Question
+d'Évaluation
+Description
+(L’institution décrit
+son processus)
+Auto-
+évaluation
+(Ex:
+Excellent,
+Bon,
+Partiel,
+Faible)
+Points forts
+Points
+faibles /
+Lacunes
+Actions
+Recommandées
+Délai
+Responsable
+Gouvernance
+L'engagement du
+CA en matière de
+LCB/FT/FPADM
+est-il clair et
+effectif ?
+L’institution décrit :
+ex. "Politique
+LCB/FT approuvée
+par le CA, Comité
+LCB/FT se réunit
+trimestriellement"
+auto-évalue
+: "Excellent"
+Ex: "Cadre de
+gouvernance
+robuste"
+Néant
+Néant
+Néant Néant
+Auto-évaluation
+du risque
+Le processus
+d'auto-évaluation
+est-il robuste,
+documenté et
+réalisé
+régulièrement ?
+Intègre-t-il les
+conclusions des
+ENR/ESR ?
+L’institution décrit :
+ex. "Cartographie
+des risques mise à
+jour annuellement,
+revue par le Comité
+des Risques"
+auto-évalue
+: "Bon"
+Ex:
+"Méthodologie
+claire, intégration
+des ENR/ESR"
+Ex:
+"Pondération
+des facteurs
+de risque non
+revue depuis
+3 ans"
+Ex: "Réviser la
+pondération des
+facteurs de risque
+en fonction des
+nouvelles
+typologies"
+Ex:
+"T4
+2025"
+Ex: "Direction
+Risques"
+Organisationnels
+La structure
+organisationnelle
+est-elle adaptée ?
+La séparation des
+tâches est-elle
+suffisante ?
+L’institution décrit :
+ex. "Organigramme
+validé, procédures
+de back-office
+distinctes du front-
+office"
+auto-évalue
+: "Excellent"
+Ex: "Séparation
+des tâches
+rigoureuse"
+Néant
+Néant
+Néant Néant
+Politiques et
+procédures
+Les politiques et
+procédures sont-
+elles exhaustives,
+claires,
+accessibles et à
+jour ?
+L’institution décrit :
+ex. "Manuel de
+procédures LCB/FT
+disponible sur
+intranet, révision
+annuelle"
+auto-évalue
+: "Partiel"
+Ex: "Documents
+existants"
+Ex: "Certaines
+procédures
+sont
+obsolètes
+Ex: "Mettre à jour
+les procédures
+Ex:
+"T3
+2025"
+Ex: "Conformité"
+(Répéter pour les
+catégories de
+contrôle figurant
+dans le point
+VII.3.: diligence à
+l’égard de la
+clientèle,
+surveillance et
+détection, support
+et contrôle…etc
+
+
+
+
+
+
+
+
+2.4. Diagrammes de flux et tableaux synthétiques
+Cette section illustre des formats visuels qui peuvent faciliter la compréhension et le
+suivi du dispositif LCB/FT/FPADM. Ces outils, à développer et adapter par chaque
+institution assujettie, permettent une représentation claire des processus et des
+données clés.
+
+[[PAGE 41]]
+
+a- Diagrammes de flux : Représentations graphiques des processus clés du
+dispositif, tels que :
+-
+Le processus d'entrée en relation avec la clientèle ;
+-
+Le processus de gestion des alertes et des opérations inhabituelles ;
+-
+Le processus de décision et de déclaration de soupçon (DDS) ;
+-
+Le processus de mise à jour de la cartographie des risques.
+b- Tableaux synthétiques : Des résumés visuels de données ou de critères
+essentiels pour la surveillance continue, par exemple :
+-
+Liste des pays à haut risque ou sous sanctions ;
+-
+Seuils de vigilance spécifiques à certains produits ou opérations ;
+-
+Indicateurs de risque clés par typologie ou par segment de clientèle.
+c- Exemple de Tableau de bord KPI/KRI : Ce tableau de bord est un outil de suivi
+synthétique qui présente les indicateurs clés de performance (KPI) et les indicateurs
+clés de risque (KRI) du dispositif LCB/FT/FPADM. Pour chaque indicateur, il affiche
+une "Cible" (la valeur souhaitée), la "Valeur Actuelle", une "Tendance" (par exemple,
+une flèche indiquant une augmentation, une diminution ou une stabilité), et un "Statut"
+visuel (par exemple, un feu tricolore : vert si la cible est atteinte, orange si un écart
+modéré est observé, rouge si un écart significatif est constaté).
+
+Indicateur
+Cible
+Valeur
+Actuelle
+Tendance
+Statut
+% Dossiers clients mis à
+jour
+> 95%
+92%
+▼
+Rouge
+Délai moyen traitement
+alertes
+< 2 jours
+3 jours
+▲
+Orange
+Nb de DDS transmises /
+mois
+N.A.
+5
+↔
+Vert
+Nb de nouveaux clients
+HR
+< 5%
+6%
+▲
+Rouge
+
+2.5. Gestion des données pour l'évaluation des risques
+Une évaluation rigoureuse des risques repose sur la collecte et l'analyse de données
+pertinentes, tant qualitatives que quantitatives. Les institutions assujetties doivent
+mettre en place des procédures efficientes pour assurer une gestion efficace des
+données nécessaires à leur dispositif LCB/FT/FPADM.
+
+[[PAGE 42]]
+
+a- Collecte des données : S'assurer que les informations nécessaires à l'évaluation
+des facteurs de risque (tels que les types de clients, les caractéristiques des produits,
+les volumes et montants des transactions par canal et zone géographique) sont
+collectées de manière systématique, exhaustive et fiable ;
+b- Fiabilité et intégrité : Veiller en permanence à la qualité, à la fiabilité et à l'intégrité
+des données utilisées pour les calculs de risque et la prise de décision ;
+c- Analyse des indicateurs : Exploiter des indicateurs clés, y compris le nombre et
+les montants d'opérations, pour affiner la compréhension et la cotation des risques
+inhérents et résiduels ;
+d- Outils d'aide à l'évaluation : L'utilisation de feuilles de calcul structurées, de bases
+de données ou de systèmes d'information dédiés pour la saisie, le calcul et la
+visualisation des risques est fortement recommandée. Ces outils peuvent intégrer des
+logiques de calcul spécifiques et permettre une gestion cohérente des données à
+travers les différentes dimensions du risque (client, produit, canal, géographie etc.).
+Traçabilité des données : Conserver en permanence un historique complet des
+données, informations utilisées et des résultats des évaluations pour permettre un suivi
+des tendances, des évolutions de risque et faciliter les vérifications internes et
+externes.
+

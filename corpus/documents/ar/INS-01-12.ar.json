@@ -1,0 +1,533 @@
+{
+  "document_id": "INS-01-12.ar",
+  "work_id": "INS-01-12",
+  "title": "تعليمة رقم 01-2012 المؤرخة في 29 افريل 2012، المعدلة والمتممة للتعليمة رقم 02-2004 المؤرخة في 13 ماي 2004، المتعلقة بنظام الاحتياطات الإجبارية.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "01-2012",
+  "number_source": "libelle",
+  "date": "2012-04-29",
+  "date_raw": "المؤرخة في 29 افريل 2012",
+  "date_source": "libelle",
+  "publication_date": "2023-03-02",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "instructions",
+  "subcategory": "أدوات السياسة النقدية",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a3%d8%af%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d9%86%d9%82%d8%af%d9%8a%d8%a9/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/03/12-01.pdf",
+  "format": "pdf",
+  "file_hash": "17df2c2460d9a6e288a9a82ee1332cb49598096c308dfdb6c8eafc482d5f320a",
+  "file_size": 191050,
+  "raw_path": "raw/17df2c2460d9__12-01.pdf",
+  "retrieved_at": "2026-10-05T13:30:15+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 1,
+  "url_hash": "44e0f8b4e21331b2f8229c4c09d3b7d78c61d1eca5ed09a0c5d54089d540c2d9",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%a3%d8%af%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d9%86%d9%82%d8%af%d9%8a%d8%a9/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "producer": "Epson Scan 2",
+    "creationDate": "D:20230301100621+01'00'",
+    "modDate": "D:20230301100621+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 1044,
+        "ocr_confidence": 91.28342245989305
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 4,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_uncertain_numbers:1",
+    "ocr_utilise_verification_humaine"
+  ],
+  "title_document": null,
+  "alias_urls": [],
+  "text_hash": "b1c2f6755ba9026a0342fa99d9cff7231d2baddb7536f5a532d51c4cc42558f1",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-2004",
+        "date": "2004-05-13",
+        "raw": "instruction n°02-2004 du 13 mai 2004"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2012 du 29 avril 2012 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat",
+        "copied_from": "INS-01-12.fr"
+      },
+      "target_work_id": "INS-02-04"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-2004",
+        "date": "2004-05-13",
+        "raw": "instruction n°02-2004 du 13 mai 2004"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2012 du 29 avril 2012 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat",
+        "copied_from": "INS-01-12.fr"
+      },
+      "target_work_id": "INS-02-04"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-04",
+        "date": "2004-05-13",
+        "raw": "instruction n° 02-04 du 13 mai 2004"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n° 02-04 du 13 mai 2004 relative au régime des réserves obligat",
+        "copied_from": "INS-01-12.fr"
+      },
+      "target_work_id": "INS-02-04"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-04",
+        "date": "2004-05-13",
+        "raw": "instruction n° 02-04 du 13 mai 2004"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n° 02-04 du 13 mai 2004 relative au régime des réserves obligat",
+        "copied_from": "INS-01-12.fr"
+      },
+      "target_work_id": "INS-02-04"
+    },
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "04-2010",
+        "date": "2010-12-15",
+        "raw": "instruction n° 04-2010 du 15 décembre 2010"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions de l'instruction n° 04-2010 du 15 décembre 2010. Elle prend effet à compter du 15 mai 2",
+        "copied_from": "INS-01-12.fr"
+      },
+      "target_work_id": "INS-04-10"
+    },
+    {
+      "relation": "remplace",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "04-2010",
+        "date": "2010-12-15",
+        "raw": "instruction n° 04-2010 du 15 décembre 2010"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions de l'instruction n° 04-2010 du 15 décembre 2010. Elle prend effet à compter du 15 mai 2",
+        "copied_from": "INS-01-12.fr"
+      },
+      "target_work_id": "INS-04-10"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "INS-04-10",
+      "reference": "instruction n° 04-2010 du 15 décembre 2010",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions de l'instruction n° 04-2010 du 15 décembre 2010. Elle prend effet à compter du 15 mai 2",
+        "copied_from": "INS-01-12.fr"
+      }
+    }
+  ],
+  "modifie": [
+    {
+      "work_id": "INS-02-04",
+      "reference": "instruction n°02-2004 du 13 mai 2004",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2012 du 29 avril 2012 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat",
+        "copied_from": "INS-01-12.fr"
+      }
+    },
+    {
+      "work_id": "INS-02-04",
+      "reference": "instruction n° 02-04 du 13 mai 2004",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n° 02-04 du 13 mai 2004 relative au régime des réserves obligat",
+        "copied_from": "INS-01-12.fr"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "INS-02-04",
+      "reference": "instruction n°02-2004 du 13 mai 2004",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2012 du 29 avril 2012 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat",
+        "copied_from": "INS-01-12.fr"
+      }
+    },
+    {
+      "work_id": "INS-02-04",
+      "reference": "instruction n° 02-04 du 13 mai 2004",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n° 02-04 du 13 mai 2004 relative au régime des réserves obligat",
+        "copied_from": "INS-01-12.fr"
+      }
+    }
+  ],
+  "remplace": [
+    {
+      "work_id": "INS-04-10",
+      "reference": "instruction n° 04-2010 du 15 décembre 2010",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions de l'instruction n° 04-2010 du 15 décembre 2010. Elle prend effet à compter du 15 mai 2",
+        "copied_from": "INS-01-12.fr"
+      }
+    }
+  ],
+  "abroge_par": [
+    {
+      "work_id": "INS-02-13",
+      "document_id": "INS-02-13.fr",
+      "date": "2013-04-23",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions de l'instruction n° 01-12 du 29 avril 2012. Elle prend effet à compter du 15 mai 2"
+      }
+    }
+  ],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [
+    {
+      "work_id": "INS-02-13",
+      "document_id": "INS-02-13.fr",
+      "date": "2013-04-23",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions de l'instruction n° 01-12 du 29 avril 2012. Elle prend effet à compter du 15 mai 2"
+      }
+    }
+  ],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "INS-02-13",
+      "document_id": "INS-02-13.fr",
+      "date": "2013-04-23",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions de l'instruction n° 01-12 du 29 avril 2012. Elle prend effet à compter du 15 mai 2"
+      }
+    },
+    {
+      "work_id": "INS-02-13",
+      "document_id": "INS-02-13.fr",
+      "date": "2013-04-23",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions de l'instruction n° 01-12 du 29 avril 2012. Elle prend effet à compter du 15 mai 2"
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [
+    "INS-01-12.fr",
+    "INS-01-12.fr~2"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [
+    {
+      "work_id": "INS-02-13",
+      "document_id": "INS-02-13.fr",
+      "date": "2013-04-23",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions de l'instruction n° 01-12 du 29 avril 2012. Elle prend effet à compter du 15 mai 2"
+      }
+    }
+  ],
+  "remplacé_par": [
+    {
+      "work_id": "INS-02-13",
+      "document_id": "INS-02-13.fr",
+      "date": "2013-04-23",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions de l'instruction n° 01-12 du 29 avril 2012. Elle prend effet à compter du 15 mai 2"
+      }
+    }
+  ],
+  "complète": [
+    {
+      "work_id": "INS-02-04",
+      "reference": "instruction n°02-2004 du 13 mai 2004",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2012 du 29 avril 2012 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat",
+        "copied_from": "INS-01-12.fr"
+      }
+    },
+    {
+      "work_id": "INS-02-04",
+      "reference": "instruction n° 02-04 du 13 mai 2004",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n° 02-04 du 13 mai 2004 relative au régime des réserves obligat",
+        "copied_from": "INS-01-12.fr"
+      }
+    }
+  ],
+  "ocr_numeric_check": {
+    "units": 5,
+    "units_flagged": 1,
+    "units_compared_with_french": 4,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "المحافظ التعليمة رقم 12-1 المؤرخة في 9 أفريل 2012 المعدلة و المتممة للتعليمة رقم 04-02 المؤرخة في 13 ماي 2004 المتعلقة بنظام الاحتياطيات الإجبارية",
+      "paragraphs": [
+        {
+          "text": "المحافظ التعليمة رقم 12-1 المؤرخة في 9 أفريل 2012 المعدلة و المتممة للتعليمة رقم 04-02 المؤرخة في 13 ماي 2004 المتعلقة بنظام الاحتياطيات الإجبارية",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تهدف هذه التعليمة إلى تعديل و إتمام التعليمة رقم 04-02 المؤرخة في 13 ماي 2004 و المتعلقة بنظام الاحتياطيات الإجبارية.",
+      "paragraphs": [
+        {
+          "text": "تهدف هذه التعليمة إلى تعديل و إتمام التعليمة رقم 04-02 المؤرخة في 13 ماي 2004 و المتعلقة بنظام الاحتياطيات الإجبارية.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تُعدّل المادة 3 من التعليمة رقم 04-02 المؤرخة في 13 ماي 2004 « المادة 3 : يُحدّد معدل الاحتياطيات الإجبارية ب 9011 من وعاء الاحتياطيات الإجبارية المنصوص عليها في المادة 2 أعلاه».",
+      "paragraphs": [
+        {
+          "text": "تُعدّل المادة 3 من التعليمة رقم 04-02 المؤرخة في 13 ماي 2004 « المادة 3 : يُحدّد معدل الاحتياطيات الإجبارية ب 9011 من وعاء الاحتياطيات الإجبارية المنصوص عليها في المادة 2 أعلاه».",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تُعذل المادة 6 من التعليمة رقم 04-02 المؤرخة في 13 ماي 2004 و المتعلقة بنظام الاحتياطيات الإجبارية و تحرّر على النحو الثالي:\n«المادة 6 : يجب على البنوك أن ترسل لبنك الجزائر — المديرية العامة للتراسات - في غضون الخمسة )5( أيام التي تلي إقفال فترة تشكيل الاحتياطيات» تصريح يتم فيه إبراز وعاء حساب الاحتياطيات الإجبارية طبقا للنموذج المرفق في ملحق هذه التعليمة».",
+      "paragraphs": [
+        {
+          "text": "تُعذل المادة 6 من التعليمة رقم 04-02 المؤرخة في 13 ماي 2004 و المتعلقة بنظام الاحتياطيات الإجبارية و تحرّر على النحو الثالي:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "«المادة 6 : يجب على البنوك أن ترسل لبنك الجزائر — المديرية العامة للتراسات - في غضون الخمسة )5( أيام التي تلي إقفال فترة تشكيل الاحتياطيات» تصريح يتم فيه إبراز وعاء حساب الاحتياطيات الإجبارية طبقا للنموذج المرفق في ملحق هذه التعليمة».",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تلغي و تعوّض هذه التعليمة أحكام التعليمة رقم 10-04 المؤرخة في 5 ديسمبر 2010. و يسري مفعول هذه التعليمة ابتداء من تاريخ 15 ماي 2012.\n2012 بالجزائرء في 29 أفريل‎ js Bank of Algeria The Governor",
+      "paragraphs": [
+        {
+          "text": "تلغي و تعوّض هذه التعليمة أحكام التعليمة رقم 10-04 المؤرخة في 5 ديسمبر 2010. و يسري مفعول هذه التعليمة ابتداء من تاريخ 15 ماي 2012.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "2012 بالجزائرء في 29 أفريل‎ js Bank of Algeria The Governor",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_uncertain_numbers:1",
+      "ocr_utilise_verification_humaine"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.041,
+      "ocr_pages": [
+        1
+      ],
+      "ocr_mean_confidence": 91.3
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/INS-01-12.ar.txt"
+}

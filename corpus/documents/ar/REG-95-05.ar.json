@@ -1,0 +1,429 @@
+{
+  "document_id": "REG-95-05.ar",
+  "work_id": "REG-95-05",
+  "title": "نظام رقم 95-05 المؤرخ في 8 يوليو 1995، يتضمن إصدار ورقة نقدية بقيمة ألف (1000) دينار جزائري وتداولها.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "95-05",
+  "number_source": "libelle",
+  "date": "1995-07-08",
+  "date_raw": "المؤرخ في 8 يوليو 1995",
+  "date_source": "libelle",
+  "publication_date": "2023-02-28",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "règlements",
+  "subcategory": "إصدار و تداول الأوراق النقدية",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-%d9%88-%d8%aa%d8%af%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d8%a7%d9%82-%d8%a7%d9%84%d9%86%d9%82%d8%af%d9%8a%d8%a9-%d8%a3%d9%86%d8%b8%d9%85%d8%a9/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/02/05-95.pdf",
+  "format": "pdf",
+  "file_hash": "28ba1efe2042f7872eca285dab5c1e2793b02b4cf2ab9e611005a80ccea85424",
+  "file_size": 304789,
+  "raw_path": "raw/28ba1efe2042__05-95.pdf",
+  "retrieved_at": "2026-10-05T13:28:37+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 2,
+  "url_hash": "39701e027ed7a90f8c94749d39a8f918ca3f44641af8d41b8d2e1f25743b85de",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-%d9%88-%d8%aa%d8%af%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d8%a7%d9%82-%d8%a7%d9%84%d9%86%d9%82%d8%af%d9%8a%d8%a9-%d8%a3%d9%86%d8%b8%d9%85%d8%a9/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "author": "chahra yahiaoui",
+    "creator": "Microsoft® Word 2016",
+    "producer": "Microsoft® Word 2016",
+    "creationDate": "D:20230227112719+01'00'",
+    "modDate": "D:20230227112719+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 1877,
+        "ocr_confidence": 75.32267441860465
+      },
+      {
+        "page": 2,
+        "method": "ocr",
+        "chars": 882,
+        "ocr_confidence": 74.35403726708074
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 2,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine",
+    "ocr_faible_confiance",
+    "numerotation:premier_article=2"
+  ],
+  "title_document": null,
+  "alias_urls": [],
+  "text_hash": "d271e374eb686e2390f77be927532d82e609e8b0f90415830262d2ab9b53ae8d",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [
+    {
+      "work_id": "REG-98-02",
+      "document_id": "REG-98-02.fr",
+      "date": "1998-06-10",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°98-02 du 10 juin 1998 modifiant et complétant le règlement n°95-05 du 8 juillet 1995 portant émission et mise en circulation"
+      }
+    },
+    {
+      "work_id": "REG-98-02",
+      "document_id": "REG-98-02.fr",
+      "date": "1998-06-10",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter l'article 2 du Règlement n°95-05 du 08 Juillet 1995 susvisé."
+      }
+    }
+  ],
+  "complete_par": [
+    {
+      "work_id": "REG-98-02",
+      "document_id": "REG-98-02.fr",
+      "date": "1998-06-10",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°98-02 du 10 juin 1998 modifiant et complétant le règlement n°95-05 du 8 juillet 1995 portant émission et mise en circulation"
+      }
+    },
+    {
+      "work_id": "REG-98-02",
+      "document_id": "REG-98-02.fr",
+      "date": "1998-06-10",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter l'article 2 du Règlement n°95-05 du 08 Juillet 1995 susvisé."
+      }
+    }
+  ],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée. Ce texte a été modifié/complété : consulter aussi les textes listés dans modifié_par / complété_par.",
+  "same_work_documents": [
+    "REG-95-05.fr"
+  ],
+  "complété_par": [
+    {
+      "work_id": "REG-98-02",
+      "document_id": "REG-98-02.fr",
+      "date": "1998-06-10",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°98-02 du 10 juin 1998 modifiant et complétant le règlement n°95-05 du 8 juillet 1995 portant émission et mise en circulation"
+      }
+    },
+    {
+      "work_id": "REG-98-02",
+      "document_id": "REG-98-02.fr",
+      "date": "1998-06-10",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter l'article 2 du Règlement n°95-05 du 08 Juillet 1995 susvisé."
+      }
+    }
+  ],
+  "modifié_par": [
+    {
+      "work_id": "REG-98-02",
+      "document_id": "REG-98-02.fr",
+      "date": "1998-06-10",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°98-02 du 10 juin 1998 modifiant et complétant le règlement n°95-05 du 8 juillet 1995 portant émission et mise en circulation"
+      }
+    },
+    {
+      "work_id": "REG-98-02",
+      "document_id": "REG-98-02.fr",
+      "date": "1998-06-10",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter l'article 2 du Règlement n°95-05 du 08 Juillet 1995 susvisé."
+      }
+    }
+  ],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "ocr_numeric_check": {
+    "units": 3,
+    "units_flagged": 0,
+    "units_compared_with_french": 2,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "sl‏ رقم 05-95 مؤرخ في 10 صقر عام 1416 المواقفق 8 يولفيو din‏ 61995 carats‏ إصدار ورقة نقديّة بقيمة ألقف )1000( دينار جزائْرئ وتداولها.\n- بمقتضى القائون رقم 18-90المؤرخ في 18 رمضان عام 1410الموافق 14 أبريل سنة 1990 رالتضمن قانون الثقد والقرضء لاسبما أحكام كتابه الأول Sal‏ 47و 107منه.\n- وبمقتضى المرسوم الرئاسي المؤرخ في 20\n- ويعقتضى المراسيم الرئاسية المؤرخة في 19 شوؤال عام 1410الموافق 14 هايو سئة 1990\n- وبعقتضى المرسوم التنفيذي المؤرخ في 8 1 ذبي الححة عام 1411الموافق أول بوليو سثة 1991 pau ill‏ تعيين الأعضاء الدائمين والأعضماء\n- وبمقتضى sil‏ رقم 92- 08 المؤرخ في 18 ذي القعدة عام 1412الموافق 21 مايو سنة 1992 والمتضمن إنشاء سلسلة أوراق نقديّة من فثة ألف )1000( وخمسمائة (500) ومائثين (200) ومائة\n(100) وخمسين )50( دينارا جزائريًا\n- وبناء على مداولة مجلس النقد والقرض بتاريخ 8 يوليو سنة 11995 : Lai VI يصدر النظام‎ ou‏ الآرلى : يصدربنك الجزائر. في إطار النظام رقم 92 - 08 المؤرخ في 21 مايو سنة 1992 والمتضسّن إنشاء سلسلة أوراق نقدية من Li‏ ألف (1000) وخمسمائة )500( ومائتين )200( lus‏ )100( وخمسين (50) دينارا جزائريا. ورقة نقدية بقيمة آلف [1000) ديئار جزائري. يشرع في تتداولها ابتداء من تاريغ صدور هذا النظام.",
+      "paragraphs": [
+        {
+          "text": "sl‏ رقم 05-95 مؤرخ في 10 صقر عام 1416 المواقفق 8 يولفيو din‏ 61995 carats‏ إصدار ورقة نقديّة بقيمة ألقف )1000( دينار جزائْرئ وتداولها.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- بمقتضى القائون رقم 18-90المؤرخ في 18 رمضان عام 1410الموافق 14 أبريل سنة 1990 رالتضمن قانون الثقد والقرضء لاسبما أحكام كتابه الأول Sal‏ 47و 107منه.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى المرسوم الرئاسي المؤرخ في 20",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- ويعقتضى المراسيم الرئاسية المؤرخة في 19 شوؤال عام 1410الموافق 14 هايو سئة 1990",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبعقتضى المرسوم التنفيذي المؤرخ في 8 1 ذبي الححة عام 1411الموافق أول بوليو سثة 1991 pau ill‏ تعيين الأعضاء الدائمين والأعضماء",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى sil‏ رقم 92- 08 المؤرخ في 18 ذي القعدة عام 1412الموافق 21 مايو سنة 1992 والمتضمن إنشاء سلسلة أوراق نقديّة من فثة ألف )1000( وخمسمائة (500) ومائثين (200) ومائة",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "(100) وخمسين )50( دينارا جزائريًا",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبناء على مداولة مجلس النقد والقرض بتاريخ 8 يوليو سنة 11995 : Lai VI يصدر النظام‎ ou‏ الآرلى : يصدربنك الجزائر. في إطار النظام رقم 92 - 08 المؤرخ في 21 مايو سنة 1992 والمتضسّن إنشاء سلسلة أوراق نقدية من Li‏ ألف (1000) وخمسمائة )500( ومائتين )200( lus‏ )100( وخمسين (50) دينارا جزائريا. ورقة نقدية بقيمة آلف [1000) ديئار جزائري. يشرع في تتداولها ابتداء من تاريغ صدور هذا النظام.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "تحدد إشارات تعريف هذه الورقة al‏ لا سيّما مواصفاتها Lait‏ المقصملة؛ كما ياتي:\n1 - الاأطوال :\n- المحيط : 160 عمطلا /,أ/ فم -الرسوالمؤطر : 12©0هم: 61,7 مم 2 - الصيفة ؛ سخيم Le‏ إلى البنقسجي.\n3 - الورق :\nيحمل العلامة الماثيّة من التوغ الشاص بالورق النقدي. ومصبوغ في الكتلة بالأزرق الفاتح.\n4 - الوصف :\nعا قبل التاريخ.\nب - وجه الورقة النقديّة : تتشكل من GE‏ )3( أآلوان متجاورة 1 ) الغلفيّة الآمنية : تتكون من أشكال هندسيّة ومناقيش ويصمات مصخ رة كما تحتوي على نصوص ورسوم صخرية | الخيليات] وفقا لعلم المسكركات au sil‏ المؤْطر وشريط العلامة المائية.\nما قبل تاريغ الجزائر : جاموس ما قبل التاريخ gs‏ صخرية (البقريات).\nألف bas‏ 4 ) العدد * 1000 ': يوضم أفقيا على الجائب السقلى الأبمن للورقة Lait‏ وعموديا على الجائب العلو الأيسر للرسمالؤطر.\n5 ) التوقيغات.\nGi ) 7 € - ظهر الورقة الثقدية : في ثلاثة ألوان متجاورة.\nعن رسوم صخرية (GE)‏ رنصوص مكتوية وفقا لعلم المسكوكات التخطيطي.\nà aa Las,‏ الأمئيّة منطقة الرسم المؤطر وشريط العلامة المائية.\nHi y يعرض مشاهد‎ : hit pui ( 2 (ail ( 3‏ باللفة الوطنية :\n4 { العدد ' 1000 : pus‏ على الجائب الأيسر السفلي للورقة النقدية ورضمن متقاش أسقل شريط العلامة المائية.\n8 ) نصن باللّفة الوطنيّة : يشير إلى \"المائة 187 من قانون العقريات تعاقب المزوريئن '.\n5 = العلامة المائية :\nتمتد داخل شريط عمودي يوجد بالجاتب الأيسر لوجه الورقة التقدية وبالجانب الأيمن لظهر الورقة تعرضي هذه العلامة المائية رؤوسا لجاموس ما قبل وشو مهن نوع ' Window Thread‏ بطباعة مصفرة.يظهر في الجبة المركزية اليمنى لوجه الورقة التّقديّة مناطق يتعاقب فيها اللونان الفضي اللماع والدّاكن ويظهر الخيط بشفافيّة على وجه الورقة التقددة وظهرها.",
+      "paragraphs": [
+        {
+          "text": "تحدد إشارات تعريف هذه الورقة al‏ لا سيّما مواصفاتها Lait‏ المقصملة؛ كما ياتي:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "1 - الاأطوال :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- المحيط : 160 عمطلا /,أ/ فم -الرسوالمؤطر : 12©0هم: 61,7 مم 2 - الصيفة ؛ سخيم Le‏ إلى البنقسجي.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "3 - الورق :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "يحمل العلامة الماثيّة من التوغ الشاص بالورق النقدي. ومصبوغ في الكتلة بالأزرق الفاتح.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "4 - الوصف :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "عا قبل التاريخ.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ب - وجه الورقة النقديّة : تتشكل من GE‏ )3( أآلوان متجاورة 1 ) الغلفيّة الآمنية : تتكون من أشكال هندسيّة ومناقيش ويصمات مصخ رة كما تحتوي على نصوص ورسوم صخرية | الخيليات] وفقا لعلم المسكركات au sil‏ المؤْطر وشريط العلامة المائية.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ما قبل تاريغ الجزائر : جاموس ما قبل التاريخ gs‏ صخرية (البقريات).",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ألف bas‏ 4 ) العدد * 1000 ': يوضم أفقيا على الجائب السقلى الأبمن للورقة Lait‏ وعموديا على الجائب العلو الأيسر للرسمالؤطر.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "5 ) التوقيغات.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Gi ) 7 € - ظهر الورقة الثقدية : في ثلاثة ألوان متجاورة.",
+          "page_start": 1,
+          "page_end": 2
+        },
+        {
+          "text": "عن رسوم صخرية (GE)‏ رنصوص مكتوية وفقا لعلم المسكوكات التخطيطي.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "à aa Las,‏ الأمئيّة منطقة الرسم المؤطر وشريط العلامة المائية.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Hi y يعرض مشاهد‎ : hit pui ( 2 (ail ( 3‏ باللفة الوطنية :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "4 { العدد ' 1000 : pus‏ على الجائب الأيسر السفلي للورقة النقدية ورضمن متقاش أسقل شريط العلامة المائية.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "8 ) نصن باللّفة الوطنيّة : يشير إلى \"المائة 187 من قانون العقريات تعاقب المزوريئن '.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "5 = العلامة المائية :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "تمتد داخل شريط عمودي يوجد بالجاتب الأيسر لوجه الورقة التقدية وبالجانب الأيمن لظهر الورقة تعرضي هذه العلامة المائية رؤوسا لجاموس ما قبل وشو مهن نوع ' Window Thread‏ بطباعة مصفرة.يظهر في الجبة المركزية اليمنى لوجه الورقة التّقديّة مناطق يتعاقب فيها اللونان الفضي اللماع والدّاكن ويظهر الخيط بشفافيّة على وجه الورقة التقددة وظهرها.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "ينشر هذا النظام في الجريدة حار بالجزائر فى 10 صقر هام 1416 الموافق 8 qu) ps‏ 2 1995 عبد الوهاب كرهان",
+      "paragraphs": [
+        {
+          "text": "ينشر هذا النظام في الجريدة حار بالجزائر فى 10 صقر هام 1416 الموافق 8 qu) ps‏ 2 1995 عبد الوهاب كرهان",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine",
+      "ocr_faible_confiance",
+      "numerotation:premier_article=2"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.071,
+      "ocr_pages": [
+        1,
+        2
+      ],
+      "ocr_mean_confidence": 74.8
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/REG-95-05.ar.txt"
+}

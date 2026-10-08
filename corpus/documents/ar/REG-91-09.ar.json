@@ -1,0 +1,470 @@
+{
+  "document_id": "REG-91-09.ar",
+  "work_id": "REG-91-09",
+  "title": "نظام رقم 91-09 المؤرخ في 14غشت 1991، الذي يحدد قواعد الحذر في تسيير البنوك والمؤسسات المالية",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "91-09",
+  "number_source": "libelle",
+  "date": "1991-08-14",
+  "date_raw": "المؤرخ في 14غشت 1991",
+  "date_source": "libelle",
+  "publication_date": "2023-02-28",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "règlements",
+  "subcategory": "المعايير الاحترازية المطبقة على البنوك و المؤسسات المالية",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%b9%d8%af-%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d8%b2%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d8%b7%d8%a8%d9%82%d8%a9-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%a8%d9%86%d9%88/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/02/09-91.pdf",
+  "format": "pdf",
+  "file_hash": "0d17eb55a5a359dffb781a7c426d04d73c2066f7fc045376f508e2bf7025ea67",
+  "file_size": 343420,
+  "raw_path": "raw/0d17eb55a5a3__09-91.pdf",
+  "retrieved_at": "2026-10-05T13:28:58+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 2,
+  "url_hash": "8651463cb9b49487b0a493fb7189dd18b8a6a81422832e5d5d81258a12e1cfac",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%b9%d8%af-%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d8%b2%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d8%b7%d8%a8%d9%82%d8%a9-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%a8%d9%86%d9%88/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "author": "lynda benhaha",
+    "creator": "Microsoft® Word 2016",
+    "producer": "Microsoft® Word 2016",
+    "creationDate": "D:20230226141718+01'00'",
+    "modDate": "D:20230226141718+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 1897,
+        "ocr_confidence": 83.00291545189505
+      },
+      {
+        "page": 2,
+        "method": "ocr",
+        "chars": 1043,
+        "ocr_confidence": 83.63730569948187
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 2,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine",
+    "numerotation:articles_manquants:[3]",
+    "numerotation:premier_article=2"
+  ],
+  "title_document": "نظام رقم 91 - 09 مؤرخ في 4 صفر عام 1412 الموافق Lu Qué 14‏ 41991 يحدد فوغل الحذر في نسبير المصارف والمؤسساتن المالية. إن محافظ بنك الجزائر, - بمقنضى coll‏ رقم 10-90 المؤرخ في 19 رمضان عام 1410 الموافق 14 أبريل سنة 1990 والمنملق بالنقد والقرض؛ Lau‏ المادة 44 الفقرة ” ز\" da‏ عام 1410 الموافق 15 أبريل سنة 1990 والمتضمن تعيين",
+  "alias_urls": [],
+  "text_hash": "df448a0d8a6845b02c8739f80af10f827f0ce75602ef5787d95670fe833369bf",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [
+    {
+      "work_id": "REG-14-01",
+      "document_id": "REG-14-01.fr",
+      "date": "2014-02-16",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 11,
+        "quote": "Le règlement n° 91-09 du 14 août 1991, modifié et complété, fixant les règles"
+      }
+    }
+  ],
+  "modifie_par": [
+    {
+      "work_id": "REG-95-04",
+      "document_id": "REG-95-04.fr",
+      "date": "1995-04-20",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°95-04 du 20 avril 1995 modifiant et complétant le règlement n°91-09 du 14 août 1991 fixant les règles prudentielles de gest"
+      }
+    },
+    {
+      "work_id": "REG-95-04",
+      "document_id": "REG-95-04.fr",
+      "date": "1995-04-20",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°91-09 du 14 août 1991 fixant les règles prudentielles de gest"
+      }
+    }
+  ],
+  "complete_par": [
+    {
+      "work_id": "REG-95-04",
+      "document_id": "REG-95-04.fr",
+      "date": "1995-04-20",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°95-04 du 20 avril 1995 modifiant et complétant le règlement n°91-09 du 14 août 1991 fixant les règles prudentielles de gest"
+      }
+    },
+    {
+      "work_id": "REG-95-04",
+      "document_id": "REG-95-04.fr",
+      "date": "1995-04-20",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°91-09 du 14 août 1991 fixant les règles prudentielles de gest"
+      }
+    }
+  ],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "REG-14-01",
+      "document_id": "REG-14-01.fr",
+      "date": "2014-02-16",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 11,
+        "quote": "Le règlement n° 91-09 du 14 août 1991, modifié et complété, fixant les règles"
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [
+    "REG-91-09.fr"
+  ],
+  "complété_par": [
+    {
+      "work_id": "REG-95-04",
+      "document_id": "REG-95-04.fr",
+      "date": "1995-04-20",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°95-04 du 20 avril 1995 modifiant et complétant le règlement n°91-09 du 14 août 1991 fixant les règles prudentielles de gest"
+      }
+    },
+    {
+      "work_id": "REG-95-04",
+      "document_id": "REG-95-04.fr",
+      "date": "1995-04-20",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°91-09 du 14 août 1991 fixant les règles prudentielles de gest"
+      }
+    }
+  ],
+  "modifié_par": [
+    {
+      "work_id": "REG-95-04",
+      "document_id": "REG-95-04.fr",
+      "date": "1995-04-20",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°95-04 du 20 avril 1995 modifiant et complétant le règlement n°91-09 du 14 août 1991 fixant les règles prudentielles de gest"
+      }
+    },
+    {
+      "work_id": "REG-95-04",
+      "document_id": "REG-95-04.fr",
+      "date": "1995-04-20",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°91-09 du 14 août 1991 fixant les règles prudentielles de gest"
+      }
+    }
+  ],
+  "abrogé_par": [
+    {
+      "work_id": "REG-14-01",
+      "document_id": "REG-14-01.fr",
+      "date": "2014-02-16",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 11,
+        "quote": "Le règlement n° 91-09 du 14 août 1991, modifié et complété, fixant les règles"
+      }
+    }
+  ],
+  "remplacé_par": [],
+  "complète": [],
+  "ocr_numeric_check": {
+    "units": 3,
+    "units_flagged": 0,
+    "units_compared_with_french": 2,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "نظام رقم 91 - 09 مؤرخ في 4 صفر عام 1412 الموافق Lu Qué 14‏ 41991 يحدد فوغل الحذر في نسبير المصارف والمؤسساتن المالية.\nإن محافظ بنك الجزائر,\n- بمقنضى coll‏ رقم 10-90 المؤرخ في 19 رمضان عام 1410 الموافق 14 أبريل سنة 1990 والمنملق بالنقد والقرض؛ Lau‏ المادة 44 الفقرة ” ز\" da‏ عام 1410 الموافق 15 أبريل سنة 1990 والمتضمن تعيين محافظ بنك الجزائر,\n- وبمقتض المراسيم الرئاسية المؤرخة في 19 شوال عام 1410 الموافق 14 مابو سنة 1990 والتضمنة تعيين نواب محافظ بنك الجزائر,\n- وبمقتض المرسوم الننفيذي المؤرخ في 19 شوال عام 0 الوافق 14 pla‏ سنة 1990 والتضمن تعيين الاعضاء الدائمين والاعضاء الاضافيين في مجلس النقد والفرض» | الحجة عام 1410 الموافق 4 plu‏ سئة 1990 وامتضمن الحد الأدئى gel‏ مال البنوك والمؤسسات امالية العاملة بالجزائر,\n- وبناء على مداولة مجلس النقد والقرض المؤرخة في 14 غشت Liu‏ 1991, بصدر النظام fl‏ نمه :\nالملاة الاولى : يحدد هذا النظام الفواعد ill‏ يجب على البنوك والمؤسسات QU‏ أن تعتمدها في مجال تفسيم المخاطر وتغطيتها وتصنيف الديون حسب درجة المخاطر التي يواجهها الانسان وتكوين الاحتياطات وادراج الفوائد الناجمة عن الديون غير المضمون تحصيلها.",
+      "paragraphs": [
+        {
+          "text": "نظام رقم 91 - 09 مؤرخ في 4 صفر عام 1412 الموافق Lu Qué 14‏ 41991 يحدد فوغل الحذر في نسبير المصارف والمؤسساتن المالية.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "إن محافظ بنك الجزائر,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- بمقنضى coll‏ رقم 10-90 المؤرخ في 19 رمضان عام 1410 الموافق 14 أبريل سنة 1990 والمنملق بالنقد والقرض؛ Lau‏ المادة 44 الفقرة ” ز\" da‏ عام 1410 الموافق 15 أبريل سنة 1990 والمتضمن تعيين محافظ بنك الجزائر,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتض المراسيم الرئاسية المؤرخة في 19 شوال عام 1410 الموافق 14 مابو سنة 1990 والتضمنة تعيين نواب محافظ بنك الجزائر,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتض المرسوم الننفيذي المؤرخ في 19 شوال عام 0 الوافق 14 pla‏ سنة 1990 والتضمن تعيين الاعضاء الدائمين والاعضاء الاضافيين في مجلس النقد والفرض» | الحجة عام 1410 الموافق 4 plu‏ سئة 1990 وامتضمن الحد الأدئى gel‏ مال البنوك والمؤسسات امالية العاملة بالجزائر,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبناء على مداولة مجلس النقد والقرض المؤرخة في 14 غشت Liu‏ 1991, بصدر النظام fl‏ نمه :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الملاة الاولى : يحدد هذا النظام الفواعد ill‏ يجب على البنوك والمؤسسات QU‏ أن تعتمدها في مجال تفسيم المخاطر وتغطيتها وتصنيف الديون حسب درجة المخاطر التي يواجهها الانسان وتكوين الاحتياطات وادراج الفوائد الناجمة عن الديون غير المضمون تحصيلها.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يجب أن يحترم كل بنك ومؤسسة مالية ما يأتي 1( النسبة القصوى بين مجموع المخاطر التي يتعرض لها بسبب عملياته مع المستفيد ذاته ومبلغ صافي امؤاله doll‏ يتعرض لها بسبب عملياته مع المستفيدين الذين تحصل JS‏ fs sal,‏ على قروض تتجاوز نسبة معينة من صافي الأموال الخاصة من جهة flag‏ صافي هذه الاموال الخاصة من جهة أخرى:\nج ) النسبة الدنيا بين مبلغ صافي هذه الأموال الخاصة ومبلغ مجموع المخاطر التي يتعرض لها بسبب عملياته .\nويحدد بنك الجزائر النسب المنصوص عليها في النقاط 7 ب2ه Œ‏ بواسطة تعليمة .\nles sui : 3 sou‏ الأموال الخاصة ge‏ مفهوم هذا النظامء العناصر الآتية :\nQU -رأس‎\n- الاحتياطات وغير احتياطات, إعادة التقييم, al -‏ التي لها طابع الاحتياطات:\n- الحاصل المنقول من «usa‏ ويطرح منها :\n- القيم المعدومة,\n- النتائج السلبية في انتظار التخصيص,\n- نقصان الاحتياطات المخصصة لتغطية أخطار",
+      "paragraphs": [
+        {
+          "text": "يجب أن يحترم كل بنك ومؤسسة مالية ما يأتي 1( النسبة القصوى بين مجموع المخاطر التي يتعرض لها بسبب عملياته مع المستفيد ذاته ومبلغ صافي امؤاله doll‏ يتعرض لها بسبب عملياته مع المستفيدين الذين تحصل JS‏ fs sal,‏ على قروض تتجاوز نسبة معينة من صافي الأموال الخاصة من جهة flag‏ صافي هذه الاموال الخاصة من جهة أخرى:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ج ) النسبة الدنيا بين مبلغ صافي هذه الأموال الخاصة ومبلغ مجموع المخاطر التي يتعرض لها بسبب عملياته .",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ويحدد بنك الجزائر النسب المنصوص عليها في النقاط 7 ب2ه Œ‏ بواسطة تعليمة .",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "les sui : 3 sou‏ الأموال الخاصة ge‏ مفهوم هذا النظامء العناصر الآتية :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "QU -رأس‎",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- الاحتياطات وغير احتياطات, إعادة التقييم, al -‏ التي لها طابع الاحتياطات:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- الحاصل المنقول من «usa‏ ويطرح منها :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- القيم المعدومة,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- النتائج السلبية في انتظار التخصيص,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- نقصان الاحتياطات المخصصة لتغطية أخطار",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "Jai‏ بالمخاطر التي يواجهها الانسان, 3\n— الاعتمادات للزين»\n- القروض للبنوك والمؤسسات AU‏\n- سندات التوظيف, |\n- مبلغ الضمانات المحصل عليها من الدولة وفيئات التأمين والبنوك والمؤسسات QU‏\n- المبالغ المحصل عليها ضمانا من à‏ في شكل ودائع أو وصول مالية يمكن تصفيتها دون أن تتأثر lai‏ SA)‏ 5 : يجب على كل بنك أو مؤسسة مالية أن بعد دوريا السياسات والاجراءات الني تتعلق بقروضها وتوظيفاتها وأن تسهر على احترامها.\nالملدة 6 : يجب Je‏ البنوك والمؤسسات QU‏ أن تشترط تقريرا عن المراجعة الخارجية لكل due‏ متسببة ف المخاطر كما هي معرفة في Gall‏ 4 اعلاه والثي وتفوق 5 من صافي أموالها الخاصة.\nالملاة 7 يجب على كل بنك أو مؤسسة مالية؛ في إطار الشروط التي تحددها التعليمة المنصوص عليها في المادة 2« أن يقوم واحد منهما Lu‏ بأتي :\nالأخطار التي تواجه فتفرق بين الديون العادية والديون عليها في المادة 2,\n- تكوين الاحتباطات الخاصة بخطر الفرض»\n- السهر على المعالجة الملائمة لفوائد الديون غير لملدة 8 : لا يمكن البنوك والمؤسسات QU‏ أن تمنع سوى الاعتمادات المسبية. ما عدا السخب المكشوف على الحساب الذي يجب -اعتباره اعتمادا من الخزينة محدودا واستثنائيا.\nحرر بالجزائر في 4 صفر عام 1412 الموافق 14 غشت سنة 1991 عبد الرحمن رستمي حاج ناصر",
+      "paragraphs": [
+        {
+          "text": "Jai‏ بالمخاطر التي يواجهها الانسان, 3",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "— الاعتمادات للزين»",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- القروض للبنوك والمؤسسات AU‏",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- سندات التوظيف, |",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- مبلغ الضمانات المحصل عليها من الدولة وفيئات التأمين والبنوك والمؤسسات QU‏",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- المبالغ المحصل عليها ضمانا من à‏ في شكل ودائع أو وصول مالية يمكن تصفيتها دون أن تتأثر lai‏ SA)‏ 5 : يجب على كل بنك أو مؤسسة مالية أن بعد دوريا السياسات والاجراءات الني تتعلق بقروضها وتوظيفاتها وأن تسهر على احترامها.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "الملدة 6 : يجب Je‏ البنوك والمؤسسات QU‏ أن تشترط تقريرا عن المراجعة الخارجية لكل due‏ متسببة ف المخاطر كما هي معرفة في Gall‏ 4 اعلاه والثي وتفوق 5 من صافي أموالها الخاصة.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "الملاة 7 يجب على كل بنك أو مؤسسة مالية؛ في إطار الشروط التي تحددها التعليمة المنصوص عليها في المادة 2« أن يقوم واحد منهما Lu‏ بأتي :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "الأخطار التي تواجه فتفرق بين الديون العادية والديون عليها في المادة 2,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- تكوين الاحتباطات الخاصة بخطر الفرض»",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- السهر على المعالجة الملائمة لفوائد الديون غير لملدة 8 : لا يمكن البنوك والمؤسسات QU‏ أن تمنع سوى الاعتمادات المسبية. ما عدا السخب المكشوف على الحساب الذي يجب -اعتباره اعتمادا من الخزينة محدودا واستثنائيا.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "حرر بالجزائر في 4 صفر عام 1412 الموافق 14 غشت سنة 1991 عبد الرحمن رستمي حاج ناصر",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine",
+      "numerotation:articles_manquants:[3]",
+      "numerotation:premier_article=2"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.042,
+      "ocr_pages": [
+        1,
+        2
+      ],
+      "ocr_mean_confidence": 83.3
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/REG-91-09.ar.txt"
+}

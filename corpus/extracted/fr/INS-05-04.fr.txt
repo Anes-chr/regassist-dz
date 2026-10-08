@@ -1,0 +1,390 @@
+[[PAGE 1]]
+
+
+
+
+
+INSTRUCTION N°05-2004 DU 02 AOÛT 2004 PORTANT
+NORMALISATION DE LA CARTE BANCAIRE
+
+Article 1er : La présente instruction a pour objet la normalisation de la carte bancaire à
+puce émise par les banques et Algérie-Poste.
+Article 2 : La carte à puce répond aux normes internationales EMV (Europay MasterCard
+Visa). La puce permet les transactions de paiement sur Terminaux de paiement
+électronique. La piste, dont la carte est aussi dotée, permet les retraits sur Distributeurs
+et Guichets Automatiques de Billets (DAB et GAB).
+Article 3 : La normalisation de la carte bancaire à puce couvre :
+- la normalisation des zones de marquage et
+d’estampage,
+- l’encodage des pistes magnétiques,
+- la gravure de la puce.
+La normalisation de la carte est complétée par les caractéristiques minimales des
+terminaux de paiement électronique (TPE).
+Article 4 : Les zones de marquage et d’estampage sont des zones réservées à la
+personnalisation en clair et la personnalisation codée des informations selon les procédés
+appropriés.
+Article 5 : L’encodage des pistes magnétiques consiste à inscrire sur les pistes
+magnétiques de la carte, l’information codée avec un matériel et des logiciels spécifiques
+conformément aux normes internationales.
+Article 6 : La gravure de la puce, constituée d’un microprocesseur et de la mémoire,
+consiste à inscrire les informations d’authentification du porteur et de l’émetteur de carte
+avec un matériel et des logiciels spécifiques conformément aux normes internationales en
+vigueur pour les paiements électroniques sur les terminaux de paiement installés chez
+les accepteurs.
+Article 7 : Les transactions de paiement domestiques sont autorisées sur puce EMV
+uniquement. Sont exclus les cas :
+- de repli sur la piste magnétique en cas d’inexistence de la puce,
+- de repli sur transaction manuelle en cas d’inexistence de la puce.
+Article 8 : Les terminaux de paiement électronique (TPE) doivent être capables de traiter
+les cartes à puce de paiement conformes à la norme EMV.
+BANK OF ALGERIA
+
+[[PAGE 2]]
+
+Article 9 : Les éléments techniques liés au traitement automatique des opérations de
+retrait d’espèces et de paiements électroniques relatifs au support, à la codification, aux
+procédés d’encodage et de gravure de la puce, aux fonctionnalités, aux protocoles
+d’échanges d’information ainsi qu’aux terminaux de paiement électronique sont définis
+dans les cinq (5) annexes jointes à la présente instruction :
+- annexe 1 : Les zones de marquage et d’estampage,
+- annexe 2 : L’encodage des pistes magnétiques,
+- annexe 3 : La gravure de la puce,
+- annexe 4 : Configuration de la carte bancaire,
+- annexe 5 : Spécifications générales du logiciel de TPE.
+Article10 : Les retraits sur Guichets et Distributeurs Automatiques de Billets (GAB et
+DAB) continueront à se faire à l’aide de la piste magnétique pour une période transitoire
+de trois années.
+Au plus tard, à l’expiration de la période transitoire sus évoquée, les informations portées
+sur la piste magnétique seront gravées sur la puce.
+Article 11 : Cette instruction annule et remplace l’instruction n° 64-94 du 28 septembre
+1994 portant normalisation de la carte bancaire.
+Article 12 : La présente instruction entre en vigueur à compter de la date de sa
+signature.
+Le Gouverneur
+Mohammed LAKSACI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[[PAGE 3]]
+ANNEXE I
+LES ZONES DE MARQUAGE ET D’ESTAMPAGE
+Les caractéristiques physiques de la carte bancaire sont définies par la norme ISO/IEC 7810.
+
+La personnalisation de la carte bancaire est réalisée selon deux procédés :
+- la personnalisation en clair comprenant le marquage et l’estampage,
+- la personnalisation codée qui consiste essentiellement en l’encodage des pistes
+magnétiques et la gravure de la pure.
+
+I.1 - LE MARQUAGE
+
+Le marquage est effectué conformément aux normes internationales, lors de la fabrication de la
+carte (à puce et à piste), et porte sur les éléments suivants :
+- au verso de la carte (partie intérieure gauche), un code indiquant l’atelier de fabrication, un
+numéro d’ordre et un numéro de lot doivent être imprimés ;
+- au recto de la carte (partie basse), la mention “expire à fin” ainsi qu’une flèche indiquant le
+sens d’introduction de la carte dans les distributeurs automatiques de billets et les
+terminaux de paiement doivent être imprimés.
+
+I.2 - ESTAMPAGE (EMBOSSAGE) DES DONNEES
+
+L’estampage ou l’embossage consiste à faire apparaître des caractères en relief sur la surface recto
+de la carte.
+
+La technique d’enregistrement ou d’impression par estampage est définie dans la norme
+ISO/IEC 7811 qui en spécifie les caractéristiques.
+
+I.2.1 - Type de caractères
+
+Les caractères retenus pour l’estampage sont de type :
+FARRINGTON 7 B : pour le numéro d’identification de la carte,
+ROC-B (OCR-B) : caractères majuscules alphanumériques de dimension 1 pour estamper :
+- la date de fin de validité,
+- les noms et prénoms du client,
+- la raison sociale ou le nom d’entreprise
+
+Les spécifications de l'impression des caractères FARRINGTON 7B et OCR-B sont détaillées au point
+1.3.
+
+I.2.2 - Espacement des caractères
+
+L’espacement des caractères doit être le suivant :
+a) espacement nominal : 3,63 mm et 2,54 mm pour les caractères lisibles visuellement ;
+b) espacement minimal entre deux caractères consécutifs : 3,48 mm et 2,46 mm pour les
+caractères lisibles visuellement.
+
+I.2.3 - Hauteur des caractères
+
+La hauteur maximale à la surface d'impression des caractères estampés compte tenu de
+l’inclinaison de la ligne centrale et le défaut d’alignement des caractères doit être de : 4,32 mm.
+
+
+[[PAGE 4]]
+
+I.2.4 - Hauteur du relief des caractères estampés
+
+La hauteur des caractères estampés au-dessus de la surface de la carte est de 0,48 mm avec une
+tolérance de +ou- 0,05 mm.
+
+L’estampage des données telles que numéro de la carte, date de fin de validité, nom et prénoms du
+client sont portés par une écriture en relief dans la zone d’estampage de la carte, conformément
+aux normes internationales ISO.
+
+I.3 - ZONE D’ESTAMPAGE
+
+La zone d’estampage est située dans la partie basse de la carte. Elle est constituée de quatre lignes
+regroupées en deux (2) zones qui sont :
+
+I.3.1 - Zone 1
+
+Constituée par une (1) ligne réservée pour le numéro de la carte qui identifie en même temps
+l’émetteur et le porteur de la carte.
+
+Cette zone est appelée “ligne du numéro d’identification” dont les caractéristiques sont les
+suivantes :
+- type de caractère : FARRINGTON 7B (chiffres de 0 à 9 inclus),
+- longueur de la ligne : 65,34 mm (+ ou - 1 mm),
+- nombre de caractères : 16 chiffres répartis par blocs de 4.
+
+* Dimension des caractères :
+- hauteur nominale = 3,81 mm ; maximale = 5 mm, - largeur nominale = 2,03 mm ;
+maximale = 3,63 mm.
+
+* Dimension des traits :
+- largeur nominale = 0,51 mm : - maximale = 0,76 mm,
+- minimale = 0,25 mm
+
+* Espacement et alignement des caractères :
+- espacement nominal = 7 caractères ou pouce,
+- espacement horizontal minimal entre caractères = 0,38 mm, - inclinaison du caractère =
+maximum 3°.
+
+* Distance entre la ligne médiane de la ligne numéro d’identification et le bord inférieur de la carte
+: 21,42 mm (+ ou - 0,12 mm).
+
+* Distance entre la ligne médiane de la première position de caractère et le bord gauche de la carte
+: 10,18 mm (+ ou - 0,25).
+
+* Espacement entre la zone 1 et la zone 2 = 3,7 mm.
+
+* Déformation de la surface de la carte après estampage : ne doit pas dépasser 0,13 mm.
+
+
+
+
+
+[[PAGE 5]]
+ANNEXE I
+I.3.2 - Zone 2
+
+Constituée de trois (3) lignes prévues pour recevoir les données qui identifient le porteur (nom,
+prénoms, raison sociale et adresse) et la date de fin de validité de la carte.
+
+* Cette zone est appelée “zone du nom et de l’adresse” dont les caractéristiques sont les suivantes
+:
+- type de caractères : OCR-B (alphanumérique),
+- longueur de chaque ligne = 7,65 mm,
+- nombre de caractères : 27 caractères,
+- espacement entre les caractères : 10 caractères au pouce.
+
+* Dimension de la zone :
+- hauteur maximale = 14,53 mm (pour les 03 lignes)
+
+* Marge inférieure entre la zone et le bord inférieur de la carte :
+- minimum = 2,41 mm - maximum = 3,30 mm.
+
+* Distance entre la ligne médiane de la première position de caractère de chaque ligne au côté
+gauche de la carte = 7,65 mm (+ ou - 0,25 mm).
+
+[[PAGE 6]]
+ANNEXE II
+L’ENCODAGE DES PISTES MAGNETIQUES
+
+La personnalisation de la piste magnétique consiste essentiellement à la personnalisation de la
+piste ISO 2.
+
+La carte contient au verso une bande qui referme trois pistes ISO 1 ; ISO 2 ; ISO 3.
+
+Les caractéristiques du matériau magnétique : des pistes et la technique d’encodage sont définies
+par les normes ISO/IEC 7811 de 2 à 5.
+
+Il est à souligner que ces caractéristiques sont extrêmement importantes car elles sont prises en
+compte par les constructeurs de Guichets Automatiques de Billets au plan Hardware et Software.
+
+Le codage (écriture sur la piste ISO 2) s’effectue avec du matériel et des logiciels spécifiques
+conformément au descriptif des pistes et aux normes internationales ISO (référence ISO/IEC 7813
+et 7811).
+
+La mise en place du système carte bancaire nationale, impliquant l’interopérabilité et
+l’interbancarité des GAB/DAB, requiert la normalisation du contenu informationnel de nombreux
+champs de piste ISO 2.
+
+Le contenu de ces normes, lié à l’aspect sécurité du système, sera détenu par la Société
+d’Automatisation des Transactions Interbancaires (SATIM), institution habilitée, et devra être
+scrupuleusement respecté par toutes les parties concernées.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[[PAGE 7]]
+ANNEXE III
+GRAVURE DE LA PUCE
+
+La carte à microcircuit appelée communément carte à puce contient au recto une puce qui
+renferme un microprocesseur et de la mémoire.
+
+Les caractéristiques de la puce et la technique de gravure sont définies par les normes ISO/IEC
+7816 et EMV 2000.
+
+Les spécifications EMV 2000 de la carte à puce définissent :
+- Les caractéristiques électromécaniques, les interfaces logiques et les protocoles de
+transmission utilisés dans l’échange d’information entre la carte et le terminal de
+paiement électronique (TPE).
+
+Ces spécifications sont décrites dans le livre n°1 “Application Independent ICC to Terminal
+Interface Requirements” de la norme EMV 2000.
+
+* ICC = Integrated Circuit Card.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[[PAGE 8]]
+ANNEXE IV
+CONFIGURATION DU RECTO DE LA CARTE
+
+
+
+
+
+
+L’emplacement de la puce par rapport à la carte :
+A : 10,25 mm C : 19,20 mm
+B : 19,87 mm D : 28,55 mm
+
+Le numéro d’identification ou numéro de carte (PAN) est défini par ISO. Il comprend trois (3)
+éléments :
+IIN/BIN,
+CAN, et CLE DE CONTROLE.
+
+* IIN/BIN (Issuer Identification Number/Bank Identification Number) :
+
+C’est le numéro d’identification de l’émetteur de carte (banque du porteur). Il porte sur six (6)
+positions fixes. Ce numéro doit être demandé à l’organisme ISO qui s’assure de son unicité pour
+chaque émetteur.
+
+* CAN (Customer Account Number) :
+
+C’est le numéro d’identification du porteur. Il porte sur 9 positions numériques qui indiquent de
+gauche à droite :
+Deux (2) positions pour codifier les produits carte émis par les émetteurs. La codification “produit”
+doit être la même pour toutes les banques et Algérie Poste.
+Sept (7) positions de (9 à 15) sont une numérotation chronologique d’enregistrement du porteur.
+
+* CLE DE CONTROLE :
+
+Il s’agit de la clé de vérification du numéro de la carte. Cette clé est portée sur une position
+(position 16). La clé de contrôle est calculée à partir de la formule de Luhn (algorithme de calcul).
+
+
+
+
+
+
+
+
+[[PAGE 9]]
+
+ANNEXE V
+SPECIFICATIONS GENERALES DU LOGICIEL TPE
+
+Les TPE (Terminaux de paiement électronique) installés chez les accepteurs (commerçants,
+entreprises grands facturiers, ...) sont connectés au centre de serveurs de la SATIM. Ils doivent
+obéir au protocole SPDH (Standard Point of sale Device Handler), version 6.0 v 4 qui définit les
+messages échangés entre TPE et le serveur.
+
+Les TPE doivent respecter la norme ISO / IEC 8825 - 1.
+
+Les TPE peuvent fonctionner selon deux modes :
+
+Off line : la transaction s’effectue sur la base des paramètres de gestion du porteur gravés sur la
+puce,
+On line : la transaction s’effectue avec la demande d’autorisation au serveur de la SATIM lorsque
+les seuils off-line sont dépassés.
+
+Les logiciels installés sur les TPE doivent assurer le traitement des fonctions suivantes :
+
+- les transactions de vente,
+- les transactions de vente avec pourboire,
+- le retrait sur TPE en agence bancaire, - le remboursement des transactions de vente,
+- la gestion de pré-autorisations.
+
+Les logiciels installés sur TPE doivent permettre de traiter la liste des cartes en opposition.

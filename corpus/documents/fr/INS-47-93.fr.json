@@ -1,0 +1,342 @@
+{
+  "document_id": "INS-47-93.fr",
+  "work_id": "INS-47-93",
+  "title": "Instruction n°47-93 du 18 juillet 1993 modifiant et complétant l’instruction n°71-92 du 24 novembre 1992 fixant les dispositions d’application du règlement n°92-03 du 22 mars 1992 relatif a la prévention et a la lutte contre l’émission de chèques sans provision.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "47-93",
+  "number_source": "en-tête du document",
+  "date": "1993-07-18",
+  "date_raw": "N°47-93 DU 18 JUILLET 1993",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Centrales des Risques, des Impayés et des Bilans et chèques sans provision",
+  "source_url": "https://www.bank-of-algeria.dz/cheques-sans-provision-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction4793.pdf",
+  "format": "pdf",
+  "file_hash": "5873897463e44cd0d404888513000d5b6a9999eeb4221e23e2f7e2ec5e93d652",
+  "file_size": 31847,
+  "raw_path": "raw/5873897463e4__instruction4793.pdf",
+  "retrieved_at": "2026-10-05T13:22:07+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "7667cab788325ea3f0ac0b755b8805f34d555e84a46c3130f46a3f94b1de0e5b",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-1993/",
+    "https://www.bank-of-algeria.dz/cheques-sans-provision-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - INSTRUCTION 32-91",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200806150336+01'00'",
+    "modDate": "D:20200806150336+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 1354,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 4,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°47-93 DU 18 JUILLET 1993 MODIFIANT ET COMPLETANT L'INSTRUCTION N°71-92 DU 24 NOVEMBRE 1992 FIXANT LES DISPOSITIONS D'APPLICATION DU REGLEMENT N°92-03 DU 22 MARS 1992 RELATIF A LA PREVENTION ET A LA LUTTE CONTRE L'EMISSION DE CHEQUES SANS PROVISION La présente instruction a pour objet de différer certaines échéances de mise en œuvre des dispositions du règlement n°92-03 du 22 Mars 1992 fixées par l'instruction n°71-92 du 24 Novembre 1992 et de définir le support de déclaration des incidents de paiement",
+  "alias_urls": [],
+  "text_hash": "f3ec71e0d65c7cfcd9920e26e8d491cc6fd1e2874864c571cd24c1308d7bb6f0",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "71-92",
+        "date": "1992-11-24",
+        "raw": "instruction n°71-92 du 24 novembre 1992"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°47-93 du 18 juillet 1993 modifiant et complétant l’instruction n°71-92 du 24 novembre 1992 fixant les dispositions d’application d"
+      },
+      "target_work_id": "INS-71-92"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "71-92",
+        "date": "1992-11-24",
+        "raw": "instruction n°71-92 du 24 novembre 1992"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°47-93 du 18 juillet 1993 modifiant et complétant l’instruction n°71-92 du 24 novembre 1992 fixant les dispositions d’application d"
+      },
+      "target_work_id": "INS-71-92"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-71-92",
+      "reference": "instruction n°71-92 du 24 novembre 1992",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°47-93 du 18 juillet 1993 modifiant et complétant l’instruction n°71-92 du 24 novembre 1992 fixant les dispositions d’application d"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "INS-71-92",
+      "reference": "instruction n°71-92 du 24 novembre 1992",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°47-93 du 18 juillet 1993 modifiant et complétant l’instruction n°71-92 du 24 novembre 1992 fixant les dispositions d’application d"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "INS-71-92",
+      "reference": "instruction n°71-92 du 24 novembre 1992",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°47-93 du 18 juillet 1993 modifiant et complétant l’instruction n°71-92 du 24 novembre 1992 fixant les dispositions d’application d"
+      }
+    }
+  ],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°47-93 DU 18 JUILLET 1993 MODIFIANT\nET COMPLETANT L'INSTRUCTION N°71-92 DU 24 NOVEMBRE 1992\nFIXANT LES DISPOSITIONS D'APPLICATION DU REGLEMENT N°92-03\nDU 22 MARS 1992 RELATIF A LA PREVENTION ET A LA LUTTE CONTRE\nL'EMISSION DE CHEQUES SANS PROVISION\nLa présente instruction a pour objet de différer certaines échéances de mise en œuvre des dispositions du règlement n°92-03 du 22 Mars 1992 fixées par l'instruction n°71-92 du 24 Novembre 1992 et de définir le support de déclaration des incidents de paiement et de leurs suites.",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°47-93 DU 18 JUILLET 1993 MODIFIANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET COMPLETANT L'INSTRUCTION N°71-92 DU 24 NOVEMBRE 1992",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "FIXANT LES DISPOSITIONS D'APPLICATION DU REGLEMENT N°92-03",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DU 22 MARS 1992 RELATIF A LA PREVENTION ET A LA LUTTE CONTRE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L'EMISSION DE CHEQUES SANS PROVISION",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La présente instruction a pour objet de différer certaines échéances de mise en œuvre des dispositions du règlement n°92-03 du 22 Mars 1992 fixées par l'instruction n°71-92 du 24 Novembre 1992 et de définir le support de déclaration des incidents de paiement et de leurs suites.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les consultations préalables à la délivrance des premiers chéquiers aux clients visées par les articles 08 et 10 de l'Instruction n°71-92 du 24 Novembre 1992 débuteront le 1er Avril 1994.",
+      "paragraphs": [
+        {
+          "text": "Les consultations préalables à la délivrance des premiers chéquiers aux clients visées par les articles 08 et 10 de l'Instruction n°71-92 du 24 Novembre 1992 débuteront le 1er Avril 1994.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les déclarations d'incidents de paiement prévues à l'article 11 de l'instruction n°71-92 du 24 Novembre 1992 porteront sur les chèques rejetés pour défaut de provision suffisante à partir du 1er Janvier 1994.",
+      "paragraphs": [
+        {
+          "text": "Les déclarations d'incidents de paiement prévues à l'article 11 de l'instruction n°71-92 du 24 Novembre 1992 porteront sur les chèques rejetés pour défaut de provision suffisante à partir du 1er Janvier 1994.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les déclarations d'incidents de paiement visées à l'article précédent devront faire l'objet de remises centralisées à la Banque d'Algérie (Centrale des Impayés) sur des supports magnétiques.",
+      "paragraphs": [
+        {
+          "text": "Les déclarations d'incidents de paiement visées à l'article précédent devront faire l'objet de remises centralisées à la Banque d'Algérie (Centrale des Impayés) sur des supports magnétiques.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Toutes les autres dispositions de l'Instruction N°71-92 du 24 Novembre 1992 restent inchangées et demeurent en vigueur.\nLe Gouverneur\nAbdelouahab KERAMANE",
+      "paragraphs": [
+        {
+          "text": "Toutes les autres dispositions de l'Instruction N°71-92 du 24 Novembre 1992 restent inchangées et demeurent en vigueur.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.035
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-47-93.fr.txt"
+}

@@ -1,0 +1,213 @@
+{
+  "document_id": "INS-07-07.ar",
+  "work_id": "INS-07-07",
+  "title": "تعليمة رقم 07-07 المؤرخة في 05 اوت 2007، المتضمنة تحديد نسبة العلاوة المستحق بموجب المساهمة في صندوق ضمان الودائع المصرفية.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "07-07",
+  "number_source": "libelle",
+  "date": "2007-08-05",
+  "date_raw": "المؤرخة في 05 اوت 2007",
+  "date_source": "libelle",
+  "publication_date": "2023-03-02",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "instructions",
+  "subcategory": "الاستقرار المالي و ضمان الودائع",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d8%a5%d8%b3%d8%aa%d9%82%d8%b1%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a-%d9%88-%d8%b6%d9%85%d8%a7%d9%86-%d8%a7%d9%84%d9%88%d8%af%d8%a7%d8%a6%d8%b9/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/03/07-07.pdf",
+  "format": "pdf",
+  "file_hash": "0733f8685f52fbc77704aae8eb6d93184ba1f1529c3480102229df4374ef2014",
+  "file_size": 196527,
+  "raw_path": "raw/0733f8685f52__07-07.pdf",
+  "retrieved_at": "2026-10-05T13:29:43+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 1,
+  "url_hash": "1747b3257567d804fb87d55314eaa6e6faa69ded36cb7905b071ec3dd6c672c0",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d8%a5%d8%b3%d8%aa%d9%82%d8%b1%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a-%d9%88-%d8%b6%d9%85%d8%a7%d9%86-%d8%a7%d9%84%d9%88%d8%af%d8%a7%d8%a6%d8%b9/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "producer": "Epson Scan 2",
+    "creationDate": "D:20230228154048+01'00'",
+    "modDate": "D:20230228154048+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 812,
+        "ocr_confidence": 83.93793103448276
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 2,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine",
+    "numerotation:articles_manquants:[3]",
+    "numerotation:premier_article=2"
+  ],
+  "title_document": null,
+  "alias_urls": [],
+  "text_hash": "c7868b1d97a17b8fbb96e581dc87a1b8786ffca14d046c53e60f10e299e1fcfd",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-07-07.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "ocr_numeric_check": {
+    "units": 3,
+    "units_flagged": 0,
+    "units_compared_with_french": 2,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "المحافظ التعليمة رقم 07-07 المتضمنة تحديد نسبة الغلاوة المستحق بموجب المساهمة في صندوق ضمان الودائع المصرفية لمادة الأولى: تهدف هذه التعليمة» ؛ تطبيقا لأحكام النظام رقم 04 -04 المؤرخ في 12 محرم 1425 الموافق ل 04 مارس 2004 و المتعلق بنظام ضمان الودائع المصرفية؛ | إلى تحديد نسبة العلاوة التي يجب أن تدفعها él sul‏ و فروع البنوك الأجنبية العاملة بالجزائر.",
+      "paragraphs": [
+        {
+          "text": "المحافظ التعليمة رقم 07-07 المتضمنة تحديد نسبة الغلاوة المستحق بموجب المساهمة في صندوق ضمان الودائع المصرفية لمادة الأولى: تهدف هذه التعليمة» ؛ تطبيقا لأحكام النظام رقم 04 -04 المؤرخ في 12 محرم 1425 الموافق ل 04 مارس 2004 و المتعلق بنظام ضمان الودائع المصرفية؛ | إلى تحديد نسبة العلاوة التي يجب أن تدفعها él sul‏ و فروع البنوك الأجنبية العاملة بالجزائر.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تم تحديد نسبة العلاو Ass‏ عل ينوك و قرو البنوك الأجنبية العاملة el sil‏ تطبيقا للنظام المذكور في المادة الأولى | ce‏ يموجبا ضمان الودائع المصرفية: خلال السنة المالية 2006« و هذا وفقا لمداولة مجلس النقد و القرض المنعقد بتاريخ 31 جويلية 42007 ب %0,25 من مجموع الودائع المصرفية المسجلة بتاريخ 31 ديسمبر 2006.\nan en TA",
+      "paragraphs": [
+        {
+          "text": "تم تحديد نسبة العلاو Ass‏ عل ينوك و قرو البنوك الأجنبية العاملة el sil‏ تطبيقا للنظام المذكور في المادة الأولى | ce‏ يموجبا ضمان الودائع المصرفية: خلال السنة المالية 2006« و هذا وفقا لمداولة مجلس النقد و القرض المنعقد بتاريخ 31 جويلية 42007 ب %0,25 من مجموع الودائع المصرفية المسجلة بتاريخ 31 ديسمبر 2006.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "an en TA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تدخل هذه التعليمة حيز التطبيق اعتبارا من تاريخ التوقيع عليها.\nحرر بالجزائر في. 05 أو © 2007 L‏ Bank of Algeria The Governor",
+      "paragraphs": [
+        {
+          "text": "تدخل هذه التعليمة حيز التطبيق اعتبارا من تاريخ التوقيع عليها.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "حرر بالجزائر في. 05 أو © 2007 L‏ Bank of Algeria The Governor",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine",
+      "numerotation:articles_manquants:[3]",
+      "numerotation:premier_article=2"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.036,
+      "ocr_pages": [
+        1
+      ],
+      "ocr_mean_confidence": 83.9
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/INS-07-07.ar.txt"
+}

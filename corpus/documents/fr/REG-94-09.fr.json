@@ -1,0 +1,371 @@
+{
+  "document_id": "REG-94-09.fr",
+  "work_id": "REG-94-09",
+  "title": "Règlement n°94-09 du 6 avril 1994 portant émission d’une pièce de monnaie métallique d’un quart (1/4) dinar algérien.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "94-09",
+  "number_source": "en-tête du document",
+  "date": "1994-04-06",
+  "date_raw": "N°94-09 DU 6 AVRIL 1994",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "règlements",
+  "subcategory": "Pièces de monnaie : Création, émission et mise en circulation de pièces de monnaie métalliques",
+  "source_url": "https://www.bank-of-algeria.dz/reglement-piece-de-monnaie/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement9409.pdf",
+  "format": "pdf",
+  "file_hash": "ab5767b6cdeb8d6a0e4f84201d8300936f33dbfad389d2cfb1a80c217e60d885",
+  "file_size": 67216,
+  "raw_path": "raw/ab5767b6cdeb__reglement9409.pdf",
+  "retrieved_at": "2026-10-05T13:23:21+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "c406241443ec35b5bc1311efb51cd5a9b86b22910537717488094be0d5a40953",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/piece-de-monnaie/",
+    "https://www.bank-of-algeria.dz/reglement-1994/",
+    "https://www.bank-of-algeria.dz/reglement-piece-de-monnaie/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document20",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210221105410+01'00'",
+    "modDate": "D:20210221105410+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2095,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 604,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 2,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "REGLEMENT N°94-09 DU 6 AVRIL 1994 PORTANT EMISSION D'UNE PIECE DE MONNAIE METALLIQUE DE UN QUART (1/4) DE DINAR ALGERIEN",
+  "alias_urls": [],
+  "text_hash": "23d8a8a19fee1c9f2a1b0089b44d756a7beadbbfb5709c7ca449d1932b20ac27",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-94-09.ar"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°94-09 DU 6 AVRIL 1994 PORTANT EMISSION\nD'UNE PIECE DE MONNAIE METALLIQUE DE\nUN QUART (1/4) DE DINAR ALGERIEN\nLe Gouverneur de la Banque d'Algérie,\n- Vu la Loi n°90-10 du 14 avril 1990 relative à la monnaie et au crédit notamment les dispositions de son livre I, de ses articles 44 alinéa a, 47 et 107 ;\n- Vu le Décret Législatif n°93-18 du 29 décembre 1993 portant Loi de Finances pour 1994 notamment son article 69 ;\n- Vu le Décret Présidentiel du 21 juillet 1992 portant nomination du Gouverneur de la\nBanque d'Algérie ;\n- Vu les Décrets Présidentiels du 14 mai 1990 portant nomination de Vice-Gouverneurs de la\nBanque d'Algérie ;\n- Vu le Décret Exécutif du 1er juillet 1991 portant désignation de membres titulaires et suppléants au Conseil de la Monnaie et du Crédit ;\n- Vu le règlement n°94-01 du 6 avril 1994 portant création d'une série de pièces de monnaie métalliques en dinars algériens de : cinquante (50), vingt (20), dix (10), cinq (5), deux (2), un (1), un demi (1/2) et un quart (1/4) de dinars algériens ;\n- Après délibération du Conseil de la Monnaie et du Crédit en date du 6 avril 1994 ;\nPromulgue le Règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°94-09 DU 6 AVRIL 1994 PORTANT EMISSION",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "D'UNE PIECE DE MONNAIE METALLIQUE DE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "UN QUART (1/4) DE DINAR ALGERIEN",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d'Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la Loi n°90-10 du 14 avril 1990 relative à la monnaie et au crédit notamment les dispositions de son livre I, de ses articles 44 alinéa a, 47 et 107 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Législatif n°93-18 du 29 décembre 1993 portant Loi de Finances pour 1994 notamment son article 69 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 21 juillet 1992 portant nomination du Gouverneur de la",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu les Décrets Présidentiels du 14 mai 1990 portant nomination de Vice-Gouverneurs de la",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Exécutif du 1er juillet 1991 portant désignation de membres titulaires et suppléants au Conseil de la Monnaie et du Crédit ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n°94-01 du 6 avril 1994 portant création d'une série de pièces de monnaie métalliques en dinars algériens de : cinquante (50), vingt (20), dix (10), cinq (5), deux (2), un (1), un demi (1/2) et un quart (1/4) de dinars algériens ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Après délibération du Conseil de la Monnaie et du Crédit en date du 6 avril 1994 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le Règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Dans le cadre du règlement n°94-01 du 6 avril 1994 portant création d'une série de pièces de monnaie métalliques en dinars algériens de : cinquante (50), vingt (20), dix (10), cinq (5), deux (2), un (1), un demi (1/2) et un quart (1/4) de dinar algérien dont la mise en circulation sera assurée à compter du 28 Juin 1994.",
+      "paragraphs": [
+        {
+          "text": "Dans le cadre du règlement n°94-01 du 6 avril 1994 portant création d'une série de pièces de monnaie métalliques en dinars algériens de : cinquante (50), vingt (20), dix (10), cinq (5), deux (2), un (1), un demi (1/2) et un quart (1/4) de dinar algérien dont la mise en circulation sera assurée à compter du 28 Juin 1994.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "Les caractéristiques techniques et descriptions de cette pièce sont les suivantes :\n1-1- Présentation : La pièce de Un Quart (1/4) Dinar est de type Monométallique en aluminium de couleur blanche.\n1-2 - Spécifications :\n- Diamètre : 16,50 + 0,05 mm\n- Poids : 1,15 + 0,03 g\n- Epaisseur au cordon : 2,35 + 0,05 mm 1-3 - Composition :\n- Aluminium : 97 %\n- Magnésium : 3 % 1-4- Description :\n1) - Avers :\n1 - Motif principal : Chiffre 1/4, stylisé.\n2 - Un filet circulaire entoure le chiffre 1/4.\nBANK OF ALGERIA\n3 - Mentions en toutes lettres (en langue nationale) :\n- Sur la partie supérieure : Banque d'Algérie\n- Sur la partie inférieure : Dinar\n4 - Horizontalement : Une étoile de part et d'autre du chiffre 1/4.\n2) - Revers :\n1 - Motif principal : Tête de fennec vue de face.\n2 - Le pourtour de la pièce comporte un motif circulaire stylisé, inspiré d'un bijou traditionnel Algérien, formant un cercle presque complet.\nSur la partie supérieure de la pièce, le double millésime hégirien et grégorien de l'année de frappe.\n3) - Tranche : Lisse.\nLe Gouverneur\nAbdelouahab KERAMANE",
+      "paragraphs": [
+        {
+          "text": "Les caractéristiques techniques et descriptions de cette pièce sont les suivantes :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "1-1- Présentation : La pièce de Un Quart (1/4) Dinar est de type Monométallique en aluminium de couleur blanche.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "1-2 - Spécifications :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Diamètre : 16,50 + 0,05 mm",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Poids : 1,15 + 0,03 g",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Epaisseur au cordon : 2,35 + 0,05 mm 1-3 - Composition :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Aluminium : 97 %",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Magnésium : 3 % 1-4- Description :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "1) - Avers :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "1 - Motif principal : Chiffre 1/4, stylisé.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "2 - Un filet circulaire entoure le chiffre 1/4.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "3 - Mentions en toutes lettres (en langue nationale) :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Sur la partie supérieure : Banque d'Algérie",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Sur la partie inférieure : Dinar",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "4 - Horizontalement : Une étoile de part et d'autre du chiffre 1/4.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "2) - Revers :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "1 - Motif principal : Tête de fennec vue de face.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "2 - Le pourtour de la pièce comporte un motif circulaire stylisé, inspiré d'un bijou traditionnel Algérien, formant un cercle presque complet.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Sur la partie supérieure de la pièce, le double millésime hégirien et grégorien de l'année de frappe.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "3) - Tranche : Lisse.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.081
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-94-09.fr.txt"
+}

@@ -1,0 +1,1667 @@
+{
+  "document_id": "REG-92-04.ar",
+  "work_id": "REG-92-04",
+  "title": "نظام رقم 92-04 المؤرخ في 22 مارس 1992 المتعلق بمراقبة الصرف",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "92-04",
+  "number_source": "libelle",
+  "date": "1992-03-22",
+  "date_raw": "المؤرخ في 22 مارس 1992",
+  "date_source": "libelle",
+  "publication_date": "2023-02-28",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "règlements",
+  "subcategory": "تنظيم الصرف",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%aa%d9%86%d8%b8%d9%8a%d9%85-%d8%a7%d9%84%d8%b5%d8%b1%d9%81-2/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/02/04-92.pdf",
+  "format": "pdf",
+  "file_hash": "7709b705de8c9760ae4c841a65631ff27633913755707e0ee2e09b0beed16408",
+  "file_size": 3933970,
+  "raw_path": "raw/7709b705de8c__04-92.pdf",
+  "retrieved_at": "2026-10-05T13:28:26+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 7,
+  "url_hash": "b6795b6ab211a6b76156fffc2c19e1433a4df3524ad1e00ca217b5a57c06ac7e",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%aa%d9%86%d8%b8%d9%8a%d9%85-%d8%a7%d9%84%d8%b5%d8%b1%d9%81-2/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "creator": "ImageToPDF",
+    "producer": "ImageToPDF",
+    "creationDate": "D:20230228171839+01'00'",
+    "modDate": "D:20230228171839+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 7,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 1192,
+        "ocr_confidence": 82.14883720930233
+      },
+      {
+        "page": 2,
+        "method": "ocr",
+        "chars": 1876,
+        "ocr_confidence": 82.28828828828829
+      },
+      {
+        "page": 3,
+        "method": "ocr",
+        "chars": 1640,
+        "ocr_confidence": 80.60357142857143
+      },
+      {
+        "page": 4,
+        "method": "ocr",
+        "chars": 1536,
+        "ocr_confidence": 79.78260869565217
+      },
+      {
+        "page": 5,
+        "method": "ocr",
+        "chars": 2025,
+        "ocr_confidence": 80.74785100286533
+      },
+      {
+        "page": 6,
+        "method": "ocr",
+        "chars": 1555,
+        "ocr_confidence": 78.36917562724014
+      },
+      {
+        "page": 7,
+        "method": "ocr",
+        "chars": 830,
+        "ocr_confidence": 87.67785234899328
+      }
+    ],
+    "cleaning_removed": [
+      {
+        "page": 1,
+        "removed": "النظام رقم 04-92 المؤرخ في 22 مارس 1992",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 2,
+        "removed": "النظام رقم 04-92 المؤرخ في 22 مارس 1992",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 3,
+        "removed": "النظام رقم 04-92 المؤرخ في 22 مارس 1992",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 4,
+        "removed": "النظام رقم 04-92 المؤرخ في 22 مارس 1992",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 7,
+        "removed": "النظام رقم 04-92 المؤرخ في 22 مارس 1992",
+        "why": "en-tête/pied répété"
+      }
+    ]
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 37,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine",
+    "numerotation:articles_manquants:[6, 12, 16, 20, 22, 23, 25, 27, 28, 29, 31, 38, 43]",
+    "numerotation:premier_article=2"
+  ],
+  "title_document": null,
+  "alias_urls": [],
+  "text_hash": "8ed4f2945980a5b8e064f5739567794263b937485d30b1981552dfa12bbf857a",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [
+    {
+      "work_id": "REG-95-07",
+      "document_id": "REG-95-07.fr",
+      "date": "1995-12-23",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 6,
+        "quote": "Les dispositions du règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes ainsi q"
+      }
+    }
+  ],
+  "modifie_par": [
+    {
+      "work_id": "NOT-01-01",
+      "document_id": "NOT-01-01.fr",
+      "date": "2001-01-25",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "itée en objet, prise en application de l'article 36 du règlement n°95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes et l'ar"
+      }
+    },
+    {
+      "work_id": "NOT-16-01",
+      "document_id": "NOT-16-01.fr",
+      "date": "2001-08-05",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": ": Importations de services Réf : Articles 37 et 40 du règlement n°95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes."
+      }
+    },
+    {
+      "work_id": "NOT-40-00",
+      "document_id": "NOT-40-00.fr",
+      "date": "2000-05-31",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "INTERMEDIAIRES AGREES Par dérogation à l'article 37 du règlement n°95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes, la pré"
+      }
+    },
+    {
+      "work_id": "REG-95-07",
+      "document_id": "REG-95-07.fr",
+      "date": "1995-12-23",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n° 92-04 du 22 mars 1992 relatif au contrôle des changes."
+      }
+    }
+  ],
+  "complete_par": [],
+  "remplace_par": [
+    {
+      "work_id": "REG-95-07",
+      "document_id": "REG-95-07.fr",
+      "date": "1995-12-23",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "REGLEMENT N°95-07 DU 23 DECEMBRE 1995 MODIFIANT ET REMPLACANT LE REGLEMENT N°92-04 DU 22 MARS 1992 RELATIF AU CONTROLE DES CHANGES"
+      }
+    }
+  ],
+  "status": "abrogé",
+  "status_evidence": [
+    {
+      "work_id": "REG-95-07",
+      "document_id": "REG-95-07.fr",
+      "date": "1995-12-23",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "REGLEMENT N°95-07 DU 23 DECEMBRE 1995 MODIFIANT ET REMPLACANT LE REGLEMENT N°92-04 DU 22 MARS 1992 RELATIF AU CONTROLE DES CHANGES"
+      }
+    }
+  ],
+  "status_note": "Abrogation/remplacement explicite dans l'intitulé d'un texte officiel du corpus ; date d'effet à vérifier dans le texte abrogeant.",
+  "same_work_documents": [
+    "REG-92-04.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [
+    {
+      "work_id": "NOT-01-01",
+      "document_id": "NOT-01-01.fr",
+      "date": "2001-01-25",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "itée en objet, prise en application de l'article 36 du règlement n°95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes et l'ar"
+      }
+    },
+    {
+      "work_id": "NOT-16-01",
+      "document_id": "NOT-16-01.fr",
+      "date": "2001-08-05",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": ": Importations de services Réf : Articles 37 et 40 du règlement n°95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes."
+      }
+    },
+    {
+      "work_id": "NOT-40-00",
+      "document_id": "NOT-40-00.fr",
+      "date": "2000-05-31",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "INTERMEDIAIRES AGREES Par dérogation à l'article 37 du règlement n°95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes, la pré"
+      }
+    },
+    {
+      "work_id": "REG-95-07",
+      "document_id": "REG-95-07.fr",
+      "date": "1995-12-23",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n° 92-04 du 22 mars 1992 relatif au contrôle des changes."
+      }
+    }
+  ],
+  "abrogé_par": [
+    {
+      "work_id": "REG-95-07",
+      "document_id": "REG-95-07.fr",
+      "date": "1995-12-23",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 6,
+        "quote": "Les dispositions du règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes ainsi q"
+      }
+    }
+  ],
+  "remplacé_par": [
+    {
+      "work_id": "REG-95-07",
+      "document_id": "REG-95-07.fr",
+      "date": "1995-12-23",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "REGLEMENT N°95-07 DU 23 DECEMBRE 1995 MODIFIANT ET REMPLACANT LE REGLEMENT N°92-04 DU 22 MARS 1992 RELATIF AU CONTROLE DES CHANGES"
+      }
+    }
+  ],
+  "complète": [],
+  "ocr_numeric_check": {
+    "units": 38,
+    "units_flagged": 0,
+    "units_compared_with_french": 31,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article ا",
+      "number": "ا",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 04",
+      "number": "04",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 05",
+      "number": "05",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 07",
+      "number": "07",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 08",
+      "number": "08",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 09",
+      "number": "09",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 17",
+      "number": "17",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 18",
+      "number": "18",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 19",
+      "number": "19",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 21",
+      "number": "21",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 24",
+      "number": "24",
+      "heading": null,
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 26",
+      "number": "26",
+      "heading": null,
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 30",
+      "number": "30",
+      "heading": null,
+      "page_start": 4,
+      "page_end": 5,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 32",
+      "number": "32",
+      "heading": null,
+      "page_start": 5,
+      "page_end": 5,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 33",
+      "number": "33",
+      "heading": null,
+      "page_start": 5,
+      "page_end": 5,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 34",
+      "number": "34",
+      "heading": null,
+      "page_start": 5,
+      "page_end": 5,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 35",
+      "number": "35",
+      "heading": null,
+      "page_start": 5,
+      "page_end": 5,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 36",
+      "number": "36",
+      "heading": null,
+      "page_start": 5,
+      "page_end": 5,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 37",
+      "number": "37",
+      "heading": null,
+      "page_start": 6,
+      "page_end": 6,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 39",
+      "number": "39",
+      "heading": null,
+      "page_start": 6,
+      "page_end": 6,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 40",
+      "number": "40",
+      "heading": null,
+      "page_start": 6,
+      "page_end": 6,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 41",
+      "number": "41",
+      "heading": null,
+      "page_start": 6,
+      "page_end": 6,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 42",
+      "number": "42",
+      "heading": null,
+      "page_start": 6,
+      "page_end": 6,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 44",
+      "number": "44",
+      "heading": null,
+      "page_start": 6,
+      "page_end": 7,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 45",
+      "number": "45",
+      "heading": null,
+      "page_start": 7,
+      "page_end": 7,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 46",
+      "number": "46",
+      "heading": null,
+      "page_start": 7,
+      "page_end": 7,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 47",
+      "number": "47",
+      "heading": null,
+      "page_start": 7,
+      "page_end": 7,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 48",
+      "number": "48",
+      "heading": null,
+      "page_start": 7,
+      "page_end": 7,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 49",
+      "number": "49",
+      "heading": null,
+      "page_start": 7,
+      "page_end": 7,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 50",
+      "number": "50",
+      "heading": null,
+      "page_start": 7,
+      "page_end": 7,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "1992 المتعلق بمراقبة الصرف\n- بمقتضى القانون رقم 90 . 10 المؤرخ فى 14 افريل 1990 والمتعلق بالنقد والفرض لا سسيما المواد. 44 الفقرة عله 9712 11 181199 إلى 192 «die 15 أفريل 1990 والمتضمن تعيين محافظ بنك الجزائر, محاقظ بنك الجزائر:\n-ى بمقتضى المرسوم التنفيذي المؤرخ في أول جوبلية 1991 والمتضمن تعيين أعضاء والقرضء»\n- و بناء على مداولة مجلس النقد والقرض بتاريخ 22 مارس 1992 يسن النظام التالي نصه :\n1 ميادىء عامة",
+      "paragraphs": [
+        {
+          "text": "1992 المتعلق بمراقبة الصرف",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- بمقتضى القانون رقم 90 . 10 المؤرخ فى 14 افريل 1990 والمتعلق بالنقد والفرض لا سسيما المواد. 44 الفقرة عله 9712 11 181199 إلى 192 «die 15 أفريل 1990 والمتضمن تعيين محافظ بنك الجزائر, محاقظ بنك الجزائر:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-ى بمقتضى المرسوم التنفيذي المؤرخ في أول جوبلية 1991 والمتضمن تعيين أعضاء والقرضء»",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- و بناء على مداولة مجلس النقد والقرض بتاريخ 22 مارس 1992 يسن النظام التالي نصه :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "1 ميادىء عامة",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article ا",
+      "number": "ا",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "لاواسى : .تهم مراقية المسرف",
+      "paragraphs": [
+        {
+          "text": "لاواسى : .تهم مراقية المسرف",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "إن ممارسة مراقبة الصرف من صلاحيات بنك الجزائر وفقا للسلطات . المخولة له من قبل القانون رقم 90 . 10 المذكور أعلاه .",
+      "paragraphs": [
+        {
+          "text": "إن ممارسة مراقبة الصرف من صلاحيات بنك الجزائر وفقا للسلطات . المخولة له من قبل القانون رقم 90 . 10 المذكور أعلاه .",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يمكن أن يفوض بنك الجزائر مهمة تطبيق تنظيم الصرف إلى وسطاء معتمدين.",
+      "paragraphs": [
+        {
+          "text": "يمكن أن يفوض بنك الجزائر مهمة تطبيق تنظيم الصرف إلى وسطاء معتمدين.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 04",
+      "number": "04",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "ماعدا الحالات المنصوص عليها صراحة فى المادة 187 من القانون رقم 0 المذكورأعلاه؛ والإتفاقات المبرمة Lies‏ استثنائية من قبل بنك الجزائرء يظل تشكيل أصول نقدية أى مالية أى عقارية بالخارج من قبل المقيمين وانطلاقا من نشاطاتهم في الجزائرممنوعا.",
+      "paragraphs": [
+        {
+          "text": "ماعدا الحالات المنصوص عليها صراحة فى المادة 187 من القانون رقم 0 المذكورأعلاه؛ والإتفاقات المبرمة Lies‏ استثنائية من قبل بنك الجزائرء يظل تشكيل أصول نقدية أى مالية أى عقارية بالخارج من قبل المقيمين وانطلاقا من نشاطاتهم في الجزائرممنوعا.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 05",
+      "number": "05",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "يمنع فوترة أو بيع سلع وخدمات فى التراب الوطنيى بالعملات الصعبة, المرخصة من قبل بنك الجزائر.\nSU‏ من السسلدب السبحية الناجنة على السو نط ' يتمء وفقا لمفهوم هذا النطاى ترجيل المبالغ عن العسلات الصعية المفيوضة فى القارج He‏ بنك الجزائر هذيا els SA‏ الجزائر.\nيعد الترحيل قد تم :\nlaits —‏ يسيل حنساب يقد الجزائر ان أحد مراسليه بالخارج قيدا Gil‏ من قبل المتنازل حائزآخر على العملات الصعبة) ؛ بالجزائر قيدا دائنا بالدنانير أى بالعملات dal!‏ غير انه عندما تطبق المادتان 08 و09 أدناه حسان البثك الوسيط المعتمد لدى مراسيله بالشازج بالجزائر قيدا دائنا بالدنانير أى بالعملات الصعبة, حسب الحالة؛ من قبل هذا البنك الوسيط المعتمد .",
+      "paragraphs": [
+        {
+          "text": "يمنع فوترة أو بيع سلع وخدمات فى التراب الوطنيى بالعملات الصعبة, المرخصة من قبل بنك الجزائر.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "SU‏ من السسلدب السبحية الناجنة على السو نط ' يتمء وفقا لمفهوم هذا النطاى ترجيل المبالغ عن العسلات الصعية المفيوضة فى القارج He‏ بنك الجزائر هذيا els SA‏ الجزائر.",
+          "page_start": 1,
+          "page_end": 2
+        },
+        {
+          "text": "يعد الترحيل قد تم :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "laits —‏ يسيل حنساب يقد الجزائر ان أحد مراسليه بالخارج قيدا Gil‏ من قبل المتنازل حائزآخر على العملات الصعبة) ؛ بالجزائر قيدا دائنا بالدنانير أى بالعملات dal!‏ غير انه عندما تطبق المادتان 08 و09 أدناه حسان البثك الوسيط المعتمد لدى مراسيله بالشازج بالجزائر قيدا دائنا بالدنانير أى بالعملات الصعبة, حسب الحالة؛ من قبل هذا البنك الوسيط المعتمد .",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 07",
+      "number": "07",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "يمكن لأي شخص طبيعي أو سعنيى. alle pole‏ أن يحصل من ريق وسيط معتمد ومقابل العملة الوطنية؛ على أي مبلغ من العملات الصمية يجب نشعه بموجب الشزام متعاقد عليه بانتظام ومطابق لتنظيم الصرف والتجارة الخارجية .",
+      "paragraphs": [
+        {
+          "text": "يمكن لأي شخص طبيعي أو سعنيى. alle pole‏ أن يحصل من ريق وسيط معتمد ومقابل العملة الوطنية؛ على أي مبلغ من العملات الصمية يجب نشعه بموجب الشزام متعاقد عليه بانتظام ومطابق لتنظيم الصرف والتجارة الخارجية .",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 08",
+      "number": "08",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "بغض النظر عن احكام المادة 6 أصلاه سكن لبنك الجسزائر أن يبقى تمت تساف elite lil‏ الحوانة د العملات الصعية .\nو «LL‏ يلتزم الوسطاء المعتمدون بأن Jia‏ الاستحمال النهاتى لهذه الموارد فى تغلية الإتزامات إزاء الخارج والمتعاقد عليها بانتظام من بالعمليات المشار إليها في المادة 10 أدناه .",
+      "paragraphs": [
+        {
+          "text": "بغض النظر عن احكام المادة 6 أصلاه سكن لبنك الجسزائر أن يبقى تمت تساف elite lil‏ الحوانة د العملات الصعية .",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "و «LL‏ يلتزم الوسطاء المعتمدون بأن Jia‏ الاستحمال النهاتى لهذه الموارد فى تغلية الإتزامات إزاء الخارج والمتعاقد عليها بانتظام من بالعمليات المشار إليها في المادة 10 أدناه .",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 09",
+      "number": "09",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "تتمثل الموارد من العملات الصعبة التي يمكن إبقاؤها تحت تصرف الوسطاء بنك الجزائر الصعبة ؛\n- نواتج الصادرات من غيرالمحروقات والمواد المنهنية: باستثناء الجزء الماك السصيفر\n- المبالغ الناجمة عن كل إعتماد مالي أو قرض بالعملات الصعية يعقدها الوسطاء المعتمدون\n- المبالغ الناجمة عن عمليات شراء يتم القيام بها في سوق الصرف ؛\n- أية موارد أخرى يحددهاء عند sil‏",
+      "paragraphs": [
+        {
+          "text": "تتمثل الموارد من العملات الصعبة التي يمكن إبقاؤها تحت تصرف الوسطاء بنك الجزائر الصعبة ؛",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- نواتج الصادرات من غيرالمحروقات والمواد المنهنية: باستثناء الجزء الماك السصيفر",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- المبالغ الناجمة عن كل إعتماد مالي أو قرض بالعملات الصعية يعقدها الوسطاء المعتمدون",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- المبالغ الناجمة عن عمليات شراء يتم القيام بها في سوق الصرف ؛",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- أية موارد أخرى يحددهاء عند sil‏",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "يجب أن تستعمل هذه الموارد لتغطية العمليات الجارية للوسيط المعتمد أى BUS‏ منها على الخصوص :\n- إعادة التمويل والتسبيقات على عائدات الصادرات من غير المحروقات والمواد المنجمية ؛\n- تغطية الدفعات على الحساب غير القابلة للتمويل والمتعلقة يعقود الاستيراد ؛\n- التتغطية نقد للواردات من السلع والخدمات والتي لا تستفيد من تمويل خارجي .",
+      "paragraphs": [
+        {
+          "text": "يجب أن تستعمل هذه الموارد لتغطية العمليات الجارية للوسيط المعتمد أى BUS‏ منها على الخصوص :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- إعادة التمويل والتسبيقات على عائدات الصادرات من غير المحروقات والمواد المنجمية ؛",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- تغطية الدفعات على الحساب غير القابلة للتمويل والمتعلقة يعقود الاستيراد ؛",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- التتغطية نقد للواردات من السلع والخدمات والتي لا تستفيد من تمويل خارجي .",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 3,
+      "text": "تبقى الودائع في الحسابات بالعملات الصعبة ملكا للمودعين فقطء وعليه لا من قبل الوسيط المعتمد الذى لا يمكنه, في أي طال من الاضوال. ثن يتشذ وضع حرف Ds‏ هذه الودائع .\nأما الموارد الأخرىء بالرغم من أنها تشكل خزينة العملات الصعبة الخاصة بالوسطاء بالعملات الصعبة وفقا للشروط المحددة من قبل والفمولات السصل Gale‏ مز المعاملات بالسبااك",
+      "paragraphs": [
+        {
+          "text": "تبقى الودائع في الحسابات بالعملات الصعبة ملكا للمودعين فقطء وعليه لا من قبل الوسيط المعتمد الذى لا يمكنه, في أي طال من الاضوال. ثن يتشذ وضع حرف Ds‏ هذه الودائع .",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "أما الموارد الأخرىء بالرغم من أنها تشكل خزينة العملات الصعبة الخاصة بالوسطاء بالعملات الصعبة وفقا للشروط المحددة من قبل والفمولات السصل Gale‏ مز المعاملات بالسبااك",
+          "page_start": 2,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "توّخد الموجودات من العملات الصعبة لدى البنوك بعين الإعتبار في قواعد تخصيص الإعتماد الداخلي وإعادة التمويل لدى",
+      "paragraphs": [
+        {
+          "text": "توّخد الموجودات من العملات الصعبة لدى البنوك بعين الإعتبار في قواعد تخصيص الإعتماد الداخلي وإعادة التمويل لدى",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "يتم إلزاما التنازل لبنك الجزائر عن كل المؤاود بالغملات الصهية التاجبة (وفقا لمفهوم المادة 192 من القانون رقم 10.90 المذكور أعلاه)؛ وكذلك الموارد من العملات الصعبة الناجمة عن اقتراضات ثنائية أو متعددة الأطراف",
+      "paragraphs": [
+        {
+          "text": "يتم إلزاما التنازل لبنك الجزائر عن كل المؤاود بالغملات الصهية التاجبة (وفقا لمفهوم المادة 192 من القانون رقم 10.90 المذكور أعلاه)؛ وكذلك الموارد من العملات الصعبة الناجمة عن اقتراضات ثنائية أو متعددة الأطراف",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "يوفر بنك الجزائر العملات الصعية اللازمة :\n- لتخطية خدمة الدين الشارجى الال الفوائد والعمولات ...) ؛ اسنتياطياته.\nges‏ يف السياكة ‏ ةرانا الستاكيدااك المخولة له قانونا :\nيمكن لبنك الجزائر فرض عمولة خاصة للصرف على عمليات شراء وبيع العملات الصعية.\nيصدربنك الجزائر تعليمة تتضمن شروط تحديد ود تطبيق هذه العمولة ,",
+      "paragraphs": [
+        {
+          "text": "يوفر بنك الجزائر العملات الصعية اللازمة :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- لتخطية خدمة الدين الشارجى الال الفوائد والعمولات ...) ؛ اسنتياطياته.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "ges‏ يف السياكة ‏ ةرانا الستاكيدااك المخولة له قانونا :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "يمكن لبنك الجزائر فرض عمولة خاصة للصرف على عمليات شراء وبيع العملات الصعية.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "يصدربنك الجزائر تعليمة تتضمن شروط تحديد ود تطبيق هذه العمولة ,",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 17",
+      "number": "17",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "لغرض تثبيت قيمة الدينار, سيكضدد الموارد السشرةلتبييل ا السندوق: وكذا تخصيصها من طرف مجلس SI!‏ والقرض .\nسيصدر بنك الجزائر تعليمة تحدد شروط وكيقيات سير هذا السثنوق .\nLEE‏ - الؤسطاء المعتعدون",
+      "paragraphs": [
+        {
+          "text": "لغرض تثبيت قيمة الدينار, سيكضدد الموارد السشرةلتبييل ا السندوق: وكذا تخصيصها من طرف مجلس SI!‏ والقرض .",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "سيصدر بنك الجزائر تعليمة تحدد شروط وكيقيات سير هذا السثنوق .",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "LEE‏ - الؤسطاء المعتعدون",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 18",
+      "number": "18",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Jam‏ الوسطاء المعثفدون وحدهم؛ دون سواهم, للقيام بعمليات بالعملات الصعبة و/ أو بعمليات الصرف وذلك لحسابهم أى لحساب زيائنهم .",
+      "paragraphs": [
+        {
+          "text": "Jam‏ الوسطاء المعثفدون وحدهم؛ دون سواهم, للقيام بعمليات بالعملات الصعبة و/ أو بعمليات الصرف وذلك لحسابهم أى لحساب زيائنهم .",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 19",
+      "number": "19",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "يمكن أن تمنح صفة وسيط معتمد إلى كل بنك sf‏ مؤسسة مالية تم إعتمادها من قبل طبقا للباب 111 الكتاب 111 من القانون رقم 10.90 المذكور أعلاه. وكذلك JS‏ مؤسسة أو شركة يسمح لها بنك الجزائر بالإستفادة من التفويض للقيام بالعمليات المذكورة أعلاه .\nإعتماد خاص يصدره بنك الجزائريناء على طلب البنك sf‏ المؤسسة المالية أو المؤسسسبة أى الشركة المعنية.",
+      "paragraphs": [
+        {
+          "text": "يمكن أن تمنح صفة وسيط معتمد إلى كل بنك sf‏ مؤسسة مالية تم إعتمادها من قبل طبقا للباب 111 الكتاب 111 من القانون رقم 10.90 المذكور أعلاه. وكذلك JS‏ مؤسسة أو شركة يسمح لها بنك الجزائر بالإستفادة من التفويض للقيام بالعمليات المذكورة أعلاه .",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "إعتماد خاص يصدره بنك الجزائريناء على طلب البنك sf‏ المؤسسة المالية أو المؤسسسبة أى الشركة المعنية.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 21",
+      "number": "21",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 4,
+      "text": "يكون الإعتماد الخاص المذكور أعلاه والذي يمنح صفة وسيط معتمد موضوع Lait‏ ناسين العملهات موضوع إعتساداتي, Med‏ زبائنهم وبكل مساواة فى المعاملة .\nبنك الجزائر هذا الأخير يحتفظ بحق الإلتجاء الى بنك الجزائر عند حدوث أي نزا ع في الأمر.\nالجادة 23 : يمكن أن يسحب بنك الجزائر صفة الوسيط من كل مستفيد فيما يخص كل أو جزء من ii‏ (أوفئات) العمليات des‏ وذلك كلما يتضح أنه عاجز على تأديتها بصفة",
+      "paragraphs": [
+        {
+          "text": "يكون الإعتماد الخاص المذكور أعلاه والذي يمنح صفة وسيط معتمد موضوع Lait‏ ناسين العملهات موضوع إعتساداتي, Med‏ زبائنهم وبكل مساواة فى المعاملة .",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "بنك الجزائر هذا الأخير يحتفظ بحق الإلتجاء الى بنك الجزائر عند حدوث أي نزا ع في الأمر.",
+          "page_start": 3,
+          "page_end": 4
+        },
+        {
+          "text": "الجادة 23 : يمكن أن يسحب بنك الجزائر صفة الوسيط من كل مستفيد فيما يخص كل أو جزء من ii‏ (أوفئات) العمليات des‏ وذلك كلما يتضح أنه عاجز على تأديتها بصفة",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 24",
+      "number": "24",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "يمكن لبنك الجزائر أن يعلم الوسطاء المعتمدين بوجوب تجميد أو توقيف العلاقات مع أي من مراسليهم المصرفيين الأجانب.\nيجب على الوسطاء المعتمدين أن يرسلوا الى بنك الجزائر قائمة مراسليهم الممصرفيين في الخارج والموضوعة في نهاية كل سنة مالية .\nالخارجية أجنبية قابلة للتحويل بكل حرية.\nلا يمكن إكتساب أو تداول أو إيدا ع وسائل باستثناء المالات التى ينص عليها تنظيم خاص أو يرخص بها بنك الجزائر.",
+      "paragraphs": [
+        {
+          "text": "يمكن لبنك الجزائر أن يعلم الوسطاء المعتمدين بوجوب تجميد أو توقيف العلاقات مع أي من مراسليهم المصرفيين الأجانب.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "يجب على الوسطاء المعتمدين أن يرسلوا الى بنك الجزائر قائمة مراسليهم الممصرفيين في الخارج والموضوعة في نهاية كل سنة مالية .",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "الخارجية أجنبية قابلة للتحويل بكل حرية.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "لا يمكن إكتساب أو تداول أو إيدا ع وسائل باستثناء المالات التى ينص عليها تنظيم خاص أو يرخص بها بنك الجزائر.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 26",
+      "number": "26",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "تشمل وسائل الدفع؛ فى\n- الشيكات السياحية؛\n- بطاقات الاثثمان؛\n- الشيكات المصرفية؛ Plus —‏ الاعثماد؛ + التمؤياته المصرفية واليريدية\n- الأوراق التجارية؛ à‏ ايانس tit!‏\n- كل وسيلة pis‏ أخرى محررة بعملات TU PIE‏ التسريل يكل حرية.\nاماد 27 : يرخس piles KI‏ يديل إن سياحية دون تحديد ill‏ غير أن أي إستيراد للأوراق النقدية والشيكات السياحية يخضع لتصريح إلزامي لدى الجمارك لما يفوق المبلغ المستورد القيمة المقابلة بالديتار الجزائري وال المسادة 28 : jai y‏ لكل مسافن يقنافو الجزائر بتصدير أي مبلغ بالأوراق النقدية الأجنبية أو بالشيكات السياحية :\n- فى حدود المبلغ المصرح به عند الدخول والمققطع منه المبالغ التي تم التنازل عنها بانتظام الوسنطظاء الأطميي»:\nبالمسلات الصمبة أو Hall IL‏ برفسة صرف.\nكين وسائل الدفع الأشرى jam aus‏ الس السياهيها.\nاللنيافة 29 : Ÿ‏ يمكن able slot‏ gg ci pal‏ الدينار والعملات الأجنبية إلا sl‏ الوسطاء المعتمدين.",
+      "paragraphs": [
+        {
+          "text": "تشمل وسائل الدفع؛ فى",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- الشيكات السياحية؛",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- بطاقات الاثثمان؛",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- الشيكات المصرفية؛ Plus —‏ الاعثماد؛ + التمؤياته المصرفية واليريدية",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- الأوراق التجارية؛ à‏ ايانس tit!‏",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- كل وسيلة pis‏ أخرى محررة بعملات TU PIE‏ التسريل يكل حرية.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "اماد 27 : يرخس piles KI‏ يديل إن سياحية دون تحديد ill‏ غير أن أي إستيراد للأوراق النقدية والشيكات السياحية يخضع لتصريح إلزامي لدى الجمارك لما يفوق المبلغ المستورد القيمة المقابلة بالديتار الجزائري وال المسادة 28 : jai y‏ لكل مسافن يقنافو الجزائر بتصدير أي مبلغ بالأوراق النقدية الأجنبية أو بالشيكات السياحية :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- فى حدود المبلغ المصرح به عند الدخول والمققطع منه المبالغ التي تم التنازل عنها بانتظام الوسنطظاء الأطميي»:",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "بالمسلات الصمبة أو Hall IL‏ برفسة صرف.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "كين وسائل الدفع الأشرى jam aus‏ الس السياهيها.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "اللنيافة 29 : Ÿ‏ يمكن able slot‏ gg ci pal‏ الدينار والعملات الأجنبية إلا sl‏ الوسطاء المعتمدين.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 30",
+      "number": "30",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 5,
+      "text": "يرخص لكل شخص طبيعي بنك الجزائر الطلب أو لأجل بالعملات الصعبة لدى البنوك الوسيظة المعتمدة.\nobus الوسطاء المفتسهين هيازة‎ as بالعملات الصعبة لدى بنك الجزائر.‎ تمون هذه الحسابات قصرا بوسائل دفع Lg plié‏ كما تنس ليها sou‏ 26 مين هذا النظام.\nالمسادة 31 : 5425 نسوص تنطيبية أصناف الإيرادات المؤهلة للقيد فى الجانب الدائن للحسابات بالعملات الصعية: كما تحدد هذه النصوصن شروط سير وإدارة هذه الحسابات.",
+      "paragraphs": [
+        {
+          "text": "يرخص لكل شخص طبيعي بنك الجزائر الطلب أو لأجل بالعملات الصعبة لدى البنوك الوسيظة المعتمدة.",
+          "page_start": 4,
+          "page_end": 5
+        },
+        {
+          "text": "obus الوسطاء المفتسهين هيازة‎ as بالعملات الصعبة لدى بنك الجزائر.‎ تمون هذه الحسابات قصرا بوسائل دفع Lg plié‏ كما تنس ليها sou‏ 26 مين هذا النظام.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "المسادة 31 : 5425 نسوص تنطيبية أصناف الإيرادات المؤهلة للقيد فى الجانب الدائن للحسابات بالعملات الصعية: كما تحدد هذه النصوصن شروط سير وإدارة هذه الحسابات.",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 32",
+      "number": "32",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 5,
+      "text": "لا يمكن التنازل عن العملات الصعبة مقابل الدنانير إلا لصالح الوسطاء المعتمدينو/ أو بنك الجزائر.\n> Vins sais . 1‏ نسدد Slistott‏ والصادرات من البضائع",
+      "paragraphs": [
+        {
+          "text": "لا يمكن التنازل عن العملات الصعبة مقابل الدنانير إلا لصالح الوسطاء المعتمدينو/ أو بنك الجزائر.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "> Vins sais . 1‏ نسدد Slistott‏ والصادرات من البضائع",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 33",
+      "number": "33",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 5,
+      "text": "باستثناء العمليات التي تتم إستيراد أى تصدير نهائي si‏ مؤقت للبضائع, مهما كان نوعهاء إلى تعيين محل لدى بنك وسيط معتمد. وهذا البنك هو وحده مؤهل لجمع وإجراء تدفقات الأموال في شكل تحويل أو ترحيل والمتعلقة بالإستيراد sf‏ التصدير المعني.\nلا يمكن للوسيط المعتمد أن يرفض تعيين محل لعقد تصدير أى استيراد عند توفر جميع الشروط التقنية والتنظيمية. يحق للمتعامل الإلتجاء إلى بنك الجزائر عند حدوث أي نزاع في المسالة.",
+      "paragraphs": [
+        {
+          "text": "باستثناء العمليات التي تتم إستيراد أى تصدير نهائي si‏ مؤقت للبضائع, مهما كان نوعهاء إلى تعيين محل لدى بنك وسيط معتمد. وهذا البنك هو وحده مؤهل لجمع وإجراء تدفقات الأموال في شكل تحويل أو ترحيل والمتعلقة بالإستيراد sf‏ التصدير المعني.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "لا يمكن للوسيط المعتمد أن يرفض تعيين محل لعقد تصدير أى استيراد عند توفر جميع الشروط التقنية والتنظيمية. يحق للمتعامل الإلتجاء إلى بنك الجزائر عند حدوث أي نزاع في المسالة.",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 34",
+      "number": "34",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 5,
+      "text": "ينبغي على الوسيط المعتمد أن النظام رقم 04-92 المؤرخ في 22 مارس 1992 ناكم من لنتظام pie‏ التجارة الخارسية باانسية أن تيو السرف ريسهر على السين اتيس العقود.\nتديين لها اديه إزاء ساقم سراقية Midi‏ الجزائر وذلك في الأجال التي يحددها هذا الأخير.\nيجب أن يبلغ فورا بنك الجزائر عن أية الخارج والمرتكبة في إطار عمليات الإستيراد والتصدير. |",
+      "paragraphs": [
+        {
+          "text": "ينبغي على الوسيط المعتمد أن النظام رقم 04-92 المؤرخ في 22 مارس 1992 ناكم من لنتظام pie‏ التجارة الخارسية باانسية أن تيو السرف ريسهر على السين اتيس العقود.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "تديين لها اديه إزاء ساقم سراقية Midi‏ الجزائر وذلك في الأجال التي يحددها هذا الأخير.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "يجب أن يبلغ فورا بنك الجزائر عن أية الخارج والمرتكبة في إطار عمليات الإستيراد والتصدير. |",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 35",
+      "number": "35",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 5,
+      "text": "يتنازل الوسيط المعتمد نقدا أو لأجل عن العملات الصعبة لفائدة مستوردي البضائع بالشروط المحددة من قبل بنك الجزائر. لا يمكن إجراء هذه التنازلات إلا على العملات الصعبة التى فى حوزة الوسيط المعتمد أى المشتراة لذن زنبائنه }9 لدى .بنك الجزائر.",
+      "paragraphs": [
+        {
+          "text": "يتنازل الوسيط المعتمد نقدا أو لأجل عن العملات الصعبة لفائدة مستوردي البضائع بالشروط المحددة من قبل بنك الجزائر. لا يمكن إجراء هذه التنازلات إلا على العملات الصعبة التى فى حوزة الوسيط المعتمد أى المشتراة لذن زنبائنه }9 لدى .بنك الجزائر.",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 36",
+      "number": "36",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 5,
+      "text": "عندما يكون إستيراد البضائع موضع تمويل خارجيء يجب أن يتأكد الوسيط والشروط المرتبطة به تطابق التعليمات المصدرة من بنك الجزائر بخصوص الدين الخارجي.\nكما يتوجب عليه أن يتأكد أن للمستورد المساحة المالية الكافية أو الضمانات المناسبة لواجنهبة Los‏ النين المشكل. فى ya Us‏ المستورد عن تغطية خدمة دينه الشارجى فإن مسؤولية الوسيط المعتمد قائمة إزاء بنك الجزائر إذا اتضح أن الوسيط قبل تعيين المحل لعقد بالرغم من عدم الملاءة الفعلية أى الكامنة للمستورد» وغياب الضمانات المناسبة وهذا بالنسبة لكل عملية",
+      "paragraphs": [
+        {
+          "text": "عندما يكون إستيراد البضائع موضع تمويل خارجيء يجب أن يتأكد الوسيط والشروط المرتبطة به تطابق التعليمات المصدرة من بنك الجزائر بخصوص الدين الخارجي.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "كما يتوجب عليه أن يتأكد أن للمستورد المساحة المالية الكافية أو الضمانات المناسبة لواجنهبة Los‏ النين المشكل. فى ya Us‏ المستورد عن تغطية خدمة دينه الشارجى فإن مسؤولية الوسيط المعتمد قائمة إزاء بنك الجزائر إذا اتضح أن الوسيط قبل تعيين المحل لعقد بالرغم من عدم الملاءة الفعلية أى الكامنة للمستورد» وغياب الضمانات المناسبة وهذا بالنسبة لكل عملية",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 37",
+      "number": "37",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 6,
+      "page_end": 6,
+      "text": "لا يمكن Jess‏ إيرادات ادى الوسيط المستبد المين نملا السقد AUS‏ يجب تبرير كل تأخير في الدفع أى في الترحيل.\n- الجزء من العمملات | لصعبة الذي يعول بالتسلقت السبعية ؛ القيمة المقابلة بالدنانير لرصيد ناتج التضدير والخاضع لإلتزام التتازل.",
+      "paragraphs": [
+        {
+          "text": "لا يمكن Jess‏ إيرادات ادى الوسيط المستبد المين نملا السقد AUS‏ يجب تبرير كل تأخير في الدفع أى في الترحيل.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "- الجزء من العمملات | لصعبة الذي يعول بالتسلقت السبعية ؛ القيمة المقابلة بالدنانير لرصيد ناتج التضدير والخاضع لإلتزام التتازل.",
+          "page_start": 6,
+          "page_end": 6
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 39",
+      "number": "39",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 6,
+      "page_end": 6,
+      "text": "يمكن تهرين عقد التصبير عن أمناس التسميد: OP‏\n- في الحالة الأولى, يجب على المصدر أن يحصل على ناتج التصدير و يقوم بترحيله في أجل لا يتعدى الأجل العادي المعمول به في التجارة الدولية.\n- فى الحالة sl)‏ يجب على المصدر أن في كل الأحوال يتسوجب على المصصدر",
+      "paragraphs": [
+        {
+          "text": "يمكن تهرين عقد التصبير عن أمناس التسميد: OP‏",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "- في الحالة الأولى, يجب على المصدر أن يحصل على ناتج التصدير و يقوم بترحيله في أجل لا يتعدى الأجل العادي المعمول به في التجارة الدولية.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "- فى الحالة sl)‏ يجب على المصدر أن في كل الأحوال يتسوجب على المصصدر",
+          "page_start": 6,
+          "page_end": 6
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 40",
+      "number": "40",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 6,
+      "page_end": 6,
+      "text": "حتى تقبل ملفات تعيين المحل ويقبل كل إلتزام ينجر عنه التسديد عن طريق dopé‏ مساقت اصعينة تضق الغارج: يمن عقن الوسيط المعتمد أن يأخذ بعين الإعتبار؛ على mal‏ :\n- المساحة الماليبة وضسمانات الملامة التى يقدمها الزبون ؛ . | النظام رقم 04-92 المؤرخ في 2 همارس 1992\n- قدرة الزبون على القيام بالعملية التي التجارة الدولية ؛ تبكر السرف «التجارة الشارجية.",
+      "paragraphs": [
+        {
+          "text": "حتى تقبل ملفات تعيين المحل ويقبل كل إلتزام ينجر عنه التسديد عن طريق dopé‏ مساقت اصعينة تضق الغارج: يمن عقن الوسيط المعتمد أن يأخذ بعين الإعتبار؛ على mal‏ :",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "- المساحة الماليبة وضسمانات الملامة التى يقدمها الزبون ؛ . | النظام رقم 04-92 المؤرخ في 2 همارس 1992",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "- قدرة الزبون على القيام بالعملية التي التجارة الدولية ؛ تبكر السرف «التجارة الشارجية.",
+          "page_start": 6,
+          "page_end": 6
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 41",
+      "number": "41",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 6,
+      "page_end": 6,
+      "text": "تعد الواردات والصادرات من التجهيزات والعتاد والتي تتخذ شكل قرض إيجار : كواردات أو صادرات مؤجلة التسديد . وعليه فهي هذه العمليات.\n11 قواعد متعلقة بتسديد الواردات",
+      "paragraphs": [
+        {
+          "text": "تعد الواردات والصادرات من التجهيزات والعتاد والتي تتخذ شكل قرض إيجار : كواردات أو صادرات مؤجلة التسديد . وعليه فهي هذه العمليات.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "11 قواعد متعلقة بتسديد الواردات",
+          "page_start": 6,
+          "page_end": 6
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 42",
+      "number": "42",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 6,
+      "page_end": 6,
+      "text": "تخضع عمليات تبادل الخدمات بين الجزائر والبلدان الأجنبية لتعيين محل ia‏ االخطقة بها كما هو اثمال بالذ سب السانات تبادل البضائع.\n5411 43 : تنطيق المقوق SL‏ المرتبطة بتحويل وترحيل البضائع على ععليبات تبادل الخدمات.",
+      "paragraphs": [
+        {
+          "text": "تخضع عمليات تبادل الخدمات بين الجزائر والبلدان الأجنبية لتعيين محل ia‏ االخطقة بها كما هو اثمال بالذ سب السانات تبادل البضائع.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "5411 43 : تنطيق المقوق SL‏ المرتبطة بتحويل وترحيل البضائع على ععليبات تبادل الخدمات.",
+          "page_start": 6,
+          "page_end": 6
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 44",
+      "number": "44",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 6,
+      "page_end": 7,
+      "text": "إن الخدمات التى يمكن أن تكون موضوع إستيراد دون ترخيص مسبق هي:\nبات JE‏ والتئبين les tit st‏ بالواردات و/ sf‏ الصادرات من البضائع؛\n- عقود المساعدة التقنية أى تقديم الخدمات التي تتضمن عمليات تكوين وتركيب» وصيانة\n- عمليات التامين وإعادة التأمين المتعاقد عليها من قبل شركات التأمين المقيمة.\nاال ل 15111111111 1",
+      "paragraphs": [
+        {
+          "text": "إن الخدمات التى يمكن أن تكون موضوع إستيراد دون ترخيص مسبق هي:",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "بات JE‏ والتئبين les tit st‏ بالواردات و/ sf‏ الصادرات من البضائع؛",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "- عقود المساعدة التقنية أى تقديم الخدمات التي تتضمن عمليات تكوين وتركيب» وصيانة",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "- عمليات التامين وإعادة التأمين المتعاقد عليها من قبل شركات التأمين المقيمة.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "اال ل 15111111111 1",
+          "page_start": 7,
+          "page_end": 7
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 45",
+      "number": "45",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 7,
+      "page_end": 7,
+      "text": "يكون إستيراد أصناف الخدمات غير المذكورة أعلاه :\nوالكيفيات المتعلقة به ؛\n- وعند غيابهاء يخضع إلى ترخيص مسبق من بنك الجزائر.",
+      "paragraphs": [
+        {
+          "text": "يكون إستيراد أصناف الخدمات غير المذكورة أعلاه :",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "والكيفيات المتعلقة به ؛",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "- وعند غيابهاء يخضع إلى ترخيص مسبق من بنك الجزائر.",
+          "page_start": 7,
+          "page_end": 7
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 46",
+      "number": "46",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 7,
+      "page_end": 7,
+      "text": "تكون الشروط المطبقة على النقل الدولي للمسافرين موضوع تنظيم خاص.",
+      "paragraphs": [
+        {
+          "text": "تكون الشروط المطبقة على النقل الدولي للمسافرين موضوع تنظيم خاص.",
+          "page_start": 7,
+          "page_end": 7
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 47",
+      "number": "47",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 7,
+      "page_end": 7,
+      "text": "يتم تسديد إستيراد الخدمات من قبل البنوك الوسيطة المعتمدة إنطلاقا من مواردها الخاصة من العملات الصعبة أو المتحصل عليها لدي زبائتها أو لد بثك الجزائر .\nبنك الجزائر",
+      "paragraphs": [
+        {
+          "text": "يتم تسديد إستيراد الخدمات من قبل البنوك الوسيطة المعتمدة إنطلاقا من مواردها الخاصة من العملات الصعبة أو المتحصل عليها لدي زبائتها أو لد بثك الجزائر .",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "بنك الجزائر",
+          "page_start": 7,
+          "page_end": 7
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 48",
+      "number": "48",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 7,
+      "page_end": 7,
+      "text": "يمكن أن تكون كل الخدمات المسددة عن طريق قيد مدين في حسابات المستورد بالعملات الصعبة موضوع تعيين محل دون",
+      "paragraphs": [
+        {
+          "text": "يمكن أن تكون كل الخدمات المسددة عن طريق قيد مدين في حسابات المستورد بالعملات الصعبة موضوع تعيين محل دون",
+          "page_start": 7,
+          "page_end": 7
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 49",
+      "number": "49",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 7,
+      "page_end": 7,
+      "text": "باستثناء إاقصاء صريح؛ يمكن تصدير جميع أصناف الخدمات.\nإن قواعد تعيين المحل لعقود تصدير الخدمات وتحصيل وترحيل عائداتها هي نفس . القواعد المتعلقة بتصدير البضائع.",
+      "paragraphs": [
+        {
+          "text": "باستثناء إاقصاء صريح؛ يمكن تصدير جميع أصناف الخدمات.",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "إن قواعد تعيين المحل لعقود تصدير الخدمات وتحصيل وترحيل عائداتها هي نفس . القواعد المتعلقة بتصدير البضائع.",
+          "page_start": 7,
+          "page_end": 7
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 50",
+      "number": "50",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 7,
+      "page_end": 7,
+      "text": "يمكن أن تتم تحويلات أخرى للأموال في إطار تنظيم خاص يحدد الكيفيات والشروط المتعلقة بها.",
+      "paragraphs": [
+        {
+          "text": "يمكن أن تتم تحويلات أخرى للأموال في إطار تنظيم خاص يحدد الكيفيات والشروط المتعلقة بها.",
+          "page_start": 7,
+          "page_end": 7
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine",
+      "numerotation:articles_manquants:[6, 12, 16, 20, 22, 23, 25, 27, 28, 29, 31, 38, 43]",
+      "numerotation:premier_article=2"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.034,
+      "ocr_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "ocr_mean_confidence": 81.7
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/REG-92-04.ar.txt"
+}

@@ -1,0 +1,799 @@
+{
+  "document_id": "REG-25-14.fr",
+  "work_id": "REG-25-14",
+  "title": "Règlement n°25-14 du 2 Rabie ethani 1447 correspondant au 24 septembre 2025 modifiant et complétant le règlement n°24-03 du 18 Moharram 1446 correspondant au 24 juillet 2024 relatif à la prévention et à la lutte contre le blanchiment d’argent, le financement du terrorisme et le financement de la prolifération des armes de destruction massive .",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "25-14",
+  "number_source": "en-tête du document",
+  "date": "2025-09-24",
+  "date_raw": "CORRESPONDANT AU 24 SEPTEMBRE 2025",
+  "date_source": "en-tête du document",
+  "publication_date": "2025-10-29",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Contrôle interne et lutte anti-blanchiment",
+  "source_url": "https://www.bank-of-algeria.dz/prevention-et-lutte-reglement/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2025/10/REG-N°25-14-FR.pdf",
+  "format": "pdf",
+  "file_hash": "3195ea2951e96e944a7a01e63ee94e7be7daa06470b6eb0dc0507acd722cf4ea",
+  "file_size": 134989,
+  "raw_path": "raw/3195ea2951e9__REG-N_25-14-FR.pdf",
+  "retrieved_at": "2026-10-05T13:31:46+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 6,
+  "url_hash": "d60972f66647f12d100259dbd909a52eb4707da69e782dee3b0f582cc869479f",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/prevention-et-lutte-reglement/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "(Microsoft Word - REG N\\26025-14.FR)",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20251028151908+01'00'",
+    "modDate": "D:20251028151908+01'00'"
+  },
+  "hijri_date_raw": "27 Dhou El Hidja 1425",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 6,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2427,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 2778,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 2236,
+        "ocr_confidence": null
+      },
+      {
+        "page": 4,
+        "method": "pdf_text",
+        "chars": 1967,
+        "ocr_confidence": null
+      },
+      {
+        "page": 5,
+        "method": "pdf_text",
+        "chars": 2269,
+        "ocr_confidence": null
+      },
+      {
+        "page": 6,
+        "method": "pdf_text",
+        "chars": 1207,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 7,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "REGLEMENT N°25-14 DU 2 RABIE ETHANI 1447 CORRESPONDANT AU 24 SEPTEMBRE 2025 MODIFIANT ET COMPLETANT LE REGLEMENT N°24-03 DU 18 MOHARRAM 1446 CORRESPONDANT AU 24 JUILLET 2024 RELATIF A LA PREVENTION ET A LA LUTTE CONTRE LE BLANCHIMENT D'ARGENT, LE FINANCEMENT DU TERRORISME ET LE FINANCEMENT DE LA PROLIFERATION DES ARMES DE DESTRUCTION MASSIVE",
+  "alias_urls": [],
+  "text_hash": "3d6d50dd9c716473fb310c19f27b2928cae916b89cd644b579440448e2ffc2e9",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "24-03",
+        "date": null,
+        "raw": "règlement n°24-03 du 18 Moharram 1446"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°25-14 du 2 Rabie ethani 1447 correspondant au 24 septembre 2025 modifiant et complétant le règlement n°24-03 du 18 Moharram 1446 correspondant au 24 juillet 2024 relati"
+      },
+      "target_work_id": "REG-24-03"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "24-03",
+        "date": null,
+        "raw": "règlement n°24-03 du 18 Moharram 1446"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°25-14 du 2 Rabie ethani 1447 correspondant au 24 septembre 2025 modifiant et complétant le règlement n°24-03 du 18 Moharram 1446 correspondant au 24 juillet 2024 relati"
+      },
+      "target_work_id": "REG-24-03"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "24-03",
+        "date": null,
+        "raw": "règlement n° 24-03 du 18 Moharram 1446"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n° 24-03 du 18 Moharram 1446 correspondant au 24 juillet 2024 relati"
+      },
+      "target_work_id": "REG-24-03"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "24-03",
+        "date": null,
+        "raw": "règlement n° 24-03 du 18 Moharram 1446"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n° 24-03 du 18 Moharram 1446 correspondant au 24 juillet 2024 relati"
+      },
+      "target_work_id": "REG-24-03"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "REG-24-03",
+      "reference": "règlement n°24-03 du 18 Moharram 1446",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°25-14 du 2 Rabie ethani 1447 correspondant au 24 septembre 2025 modifiant et complétant le règlement n°24-03 du 18 Moharram 1446 correspondant au 24 juillet 2024 relati"
+      }
+    },
+    {
+      "work_id": "REG-24-03",
+      "reference": "règlement n° 24-03 du 18 Moharram 1446",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n° 24-03 du 18 Moharram 1446 correspondant au 24 juillet 2024 relati"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "REG-24-03",
+      "reference": "règlement n°24-03 du 18 Moharram 1446",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°25-14 du 2 Rabie ethani 1447 correspondant au 24 septembre 2025 modifiant et complétant le règlement n°24-03 du 18 Moharram 1446 correspondant au 24 juillet 2024 relati"
+      }
+    },
+    {
+      "work_id": "REG-24-03",
+      "reference": "règlement n° 24-03 du 18 Moharram 1446",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n° 24-03 du 18 Moharram 1446 correspondant au 24 juillet 2024 relati"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "REG-24-03",
+      "reference": "règlement n°24-03 du 18 Moharram 1446",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°25-14 du 2 Rabie ethani 1447 correspondant au 24 septembre 2025 modifiant et complétant le règlement n°24-03 du 18 Moharram 1446 correspondant au 24 juillet 2024 relati"
+      }
+    },
+    {
+      "work_id": "REG-24-03",
+      "reference": "règlement n° 24-03 du 18 Moharram 1446",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n° 24-03 du 18 Moharram 1446 correspondant au 24 juillet 2024 relati"
+      }
+    }
+  ],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 4,
+      "page_end": 5,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 5,
+      "page_end": 6,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 6,
+      "page_end": 6,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 6,
+      "page_end": 6,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 3,
+      "text": "REGLEMENT N°25-14 DU 2 RABIE ETHANI 1447 CORRESPONDANT\nAU 24 SEPTEMBRE 2025 MODIFIANT ET COMPLETANT LE\nREGLEMENT N°24-03 DU 18 MOHARRAM 1446 CORRESPONDANT\nAU 24 JUILLET 2024 RELATIF A LA PREVENTION ET A LA LUTTE\nCONTRE LE BLANCHIMENT D'ARGENT, LE FINANCEMENT\nDU TERRORISME ET LE FINANCEMENT DE LA PROLIFERATION\nDES ARMES DE DESTRUCTION MASSIVE\nLe Gouverneur de la Banque d’Algérie,\n- Vu l’ordonnance n°66-156 du 18 Safar 1386 correspondant au 8 juin 1966, modifiée et complétée, portant code pénal ;\n- Vu l'ordonnance n°75-59 du 20 Ramadhan 1395 correspondant au 26 septembre 1975, modifiée et complétée, portant code de commerce ;\n- Vu la loi n°05-01 du 27 Dhou El Hidja 1425 correspondant au 6 février 2005, modifiée et complétée, relative à la prévention et à la lutte contre le blanchiment d'argent et le financement du terrorisme ;\n- Vu la loi n°06-01 du 21 Moharram 1427 correspondant au 20 février 2006, modifiée et complétée, relative à la prévention et à la lutte contre la corruption ;\n- Vu la loi n°18-07 du 25 Ramadhan 1439 correspondant au 10 juin 2018, modifiée et complétée, relative à la protection des personnes physiques dans le traitement des données à caractère personnel ;\n- Vu la loi n°23-09 du 3 Dhou El Hidja 1444 correspondant au 21 juin 2023 portant loi monétaire et bancaire ;\n- Vu le décret exécutif n°22-36 du Aouel Joumada Ethania 1443 correspondant au 4 janvier 2022 fixant les missions, l'organisation et le fonctionnement de la cellule de traitement du renseignement financier (CTRF) ;\n- Vu le décret exécutif n°23-429 du 15 Joumada El Oula 1445 correspondant au 29 novembre 2023 relatif au registre public des bénéficiaires effectifs des personnes morales de droit algérien ;\n- Vu le décret exécutif n°23-430 du 15 Joumada El Oula 1445 correspondant au 29 novembre 2023 fixant les conditions et les modalités d’exercice par les autorités de régulation, de contrôle et/ou de surveillance de leurs missions dans le domaine de la prévention et de la lutte contre le blanchiment d’argent, le financement du terrorisme et le financement de la prolifération des armes de destruction massive, à l’égard des assujettis;\n- Vu le décret exécutif n°24-242 du 17 Moharram 1446 correspondant au 23 juillet 2024 fixant les conditions et les modalités d’élaboration et de mise en œuvre des programmes de contrôle interne, par les assujettis, dans le cadre de\nla prévention du blanchiment d’argent, du financement du terrorisme et du financement de la prolifération des armes de destruction massive ;\n- Vu le décret exécutif n°25-101 du 12 Ramadhan 1446 correspondant au 12 mars 2025 relatif à la procédure de gel et/ou de saisie des fonds dans le cadre de la prévention et de la lutte contre le financement du terrorisme et le financement de la prolifération des armes de destruction massive ;\n- Vu le décret exécutif n°25-102 du 12 Ramadhan 1446 correspondant au 12 mars 2025 fixant la composition, l’organisation et le fonctionnement du comité de suivi des sanctions internationales ciblées ;\n- Vu le décret exécutif n°25-103 du 12 Ramadhan 1446 correspondant au 12 mars 2025 fixant les modalités d'inscription et de radiation de la liste nationale des personnes et entités terroristes et les effets qui en découlent ;\n- Vu le décret présidentiel du 22 Chaoual 1443 correspondant au 23 mai 2022 portant nomination du Gouverneur de la Banque d’Algérie ;\n- Vu le décret présidentiel du 5 Safar 1437 correspondant au 17 novembre 2015 portant nomination de membres du conseil d’administration de la Banque d’Algérie ;\n- Vu le décret présidentiel du 18 Rabie Ethani 1441 correspondant au 15 décembre 2019 portant nomination de Vice-Gouverneurs de la Banque d’Algérie ;\n- Vu le décret présidentiel du 6 Ramadhan 1443 correspondant au 7 avril 2022 portant nomination de membres du conseil d’administration de la Banque d’Algérie ;\n- Vu le décret présidentiel du 12 Joumada El Oula 1444 correspondant au 6 décembre 2022 portant nomination d’un membre du conseil de la monnaie et du crédit ;\n- Vu le décret présidentiel du 18 Joumada Ethania 1445 correspondant au 31 décembre 2023 portant nomination de Vice-Gouverneurs de la Banque d’Algérie ;\n- Vu le décret présidentiel du 4 Chaâbane 1445 correspondant au 14 février 2024 portant nomination d’un membre du conseil d’administration de la Banque d’Algérie ;\n- Vu le règlement n°11-08 du 3 Moharram 1433 correspondant au 28 novembre 2011 relatif au contrôle interne des banques et établissements financiers ;\n- Vu le règlement n°12-03 du 3 Moharram 1433 correspondat au 28 novembre 2012 relatif à la prévention et à la lutte contre le blanchiment d’argent et le financement du terrorisme ;\n- Vu le règlement n°23-01 du 5 Rabie El Aouel 1445 correspondant au 21 septembre 2023 relatif aux conditions d’autorisation de constitution, d’agrément et d’exercice des bureaux de change ;\n- Vu le règlement n°24-01 du 25 Rajab 1445 correspondant au 6 février 2024 fixant les conditions d’autorisation de constitution et d’agrément de banque et d’établissement financier ;\n- Vu le règlement n°24-03 du 18 Moharram 1446 correspondant au 24 juillet 2024 relatif à la prévention et à la lutte contre le blanchiment d'argent, le financement du terrorisme et le financement de la prolifération des armes de destruction massive ;\n- Vu le règlement n°25-02 du 15 Chaoual 1446 correspondant au 14 avril 2025 fixant les conditions d’autorisation de constitution, d’agrément et d’exercice d’activités des prestataires de services de paiement ;\nAprès délibération du Conseil monétaire et bancaire en date du 24 septembre 2025 ;\nPromulgue le règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°25-14 DU 2 RABIE ETHANI 1447 CORRESPONDANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AU 24 SEPTEMBRE 2025 MODIFIANT ET COMPLETANT LE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "REGLEMENT N°24-03 DU 18 MOHARRAM 1446 CORRESPONDANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AU 24 JUILLET 2024 RELATIF A LA PREVENTION ET A LA LUTTE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "CONTRE LE BLANCHIMENT D'ARGENT, LE FINANCEMENT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DU TERRORISME ET LE FINANCEMENT DE LA PROLIFERATION",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DES ARMES DE DESTRUCTION MASSIVE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d’Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’ordonnance n°66-156 du 18 Safar 1386 correspondant au 8 juin 1966, modifiée et complétée, portant code pénal ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l'ordonnance n°75-59 du 20 Ramadhan 1395 correspondant au 26 septembre 1975, modifiée et complétée, portant code de commerce ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la loi n°05-01 du 27 Dhou El Hidja 1425 correspondant au 6 février 2005, modifiée et complétée, relative à la prévention et à la lutte contre le blanchiment d'argent et le financement du terrorisme ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la loi n°06-01 du 21 Moharram 1427 correspondant au 20 février 2006, modifiée et complétée, relative à la prévention et à la lutte contre la corruption ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la loi n°18-07 du 25 Ramadhan 1439 correspondant au 10 juin 2018, modifiée et complétée, relative à la protection des personnes physiques dans le traitement des données à caractère personnel ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la loi n°23-09 du 3 Dhou El Hidja 1444 correspondant au 21 juin 2023 portant loi monétaire et bancaire ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret exécutif n°22-36 du Aouel Joumada Ethania 1443 correspondant au 4 janvier 2022 fixant les missions, l'organisation et le fonctionnement de la cellule de traitement du renseignement financier (CTRF) ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret exécutif n°23-429 du 15 Joumada El Oula 1445 correspondant au 29 novembre 2023 relatif au registre public des bénéficiaires effectifs des personnes morales de droit algérien ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret exécutif n°23-430 du 15 Joumada El Oula 1445 correspondant au 29 novembre 2023 fixant les conditions et les modalités d’exercice par les autorités de régulation, de contrôle et/ou de surveillance de leurs missions dans le domaine de la prévention et de la lutte contre le blanchiment d’argent, le financement du terrorisme et le financement de la prolifération des armes de destruction massive, à l’égard des assujettis;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret exécutif n°24-242 du 17 Moharram 1446 correspondant au 23 juillet 2024 fixant les conditions et les modalités d’élaboration et de mise en œuvre des programmes de contrôle interne, par les assujettis, dans le cadre de",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "la prévention du blanchiment d’argent, du financement du terrorisme et du financement de la prolifération des armes de destruction massive ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Vu le décret exécutif n°25-101 du 12 Ramadhan 1446 correspondant au 12 mars 2025 relatif à la procédure de gel et/ou de saisie des fonds dans le cadre de la prévention et de la lutte contre le financement du terrorisme et le financement de la prolifération des armes de destruction massive ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Vu le décret exécutif n°25-102 du 12 Ramadhan 1446 correspondant au 12 mars 2025 fixant la composition, l’organisation et le fonctionnement du comité de suivi des sanctions internationales ciblées ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Vu le décret exécutif n°25-103 du 12 Ramadhan 1446 correspondant au 12 mars 2025 fixant les modalités d'inscription et de radiation de la liste nationale des personnes et entités terroristes et les effets qui en découlent ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Vu le décret présidentiel du 22 Chaoual 1443 correspondant au 23 mai 2022 portant nomination du Gouverneur de la Banque d’Algérie ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Vu le décret présidentiel du 5 Safar 1437 correspondant au 17 novembre 2015 portant nomination de membres du conseil d’administration de la Banque d’Algérie ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Vu le décret présidentiel du 18 Rabie Ethani 1441 correspondant au 15 décembre 2019 portant nomination de Vice-Gouverneurs de la Banque d’Algérie ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Vu le décret présidentiel du 6 Ramadhan 1443 correspondant au 7 avril 2022 portant nomination de membres du conseil d’administration de la Banque d’Algérie ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Vu le décret présidentiel du 12 Joumada El Oula 1444 correspondant au 6 décembre 2022 portant nomination d’un membre du conseil de la monnaie et du crédit ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Vu le décret présidentiel du 18 Joumada Ethania 1445 correspondant au 31 décembre 2023 portant nomination de Vice-Gouverneurs de la Banque d’Algérie ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Vu le décret présidentiel du 4 Chaâbane 1445 correspondant au 14 février 2024 portant nomination d’un membre du conseil d’administration de la Banque d’Algérie ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Vu le règlement n°11-08 du 3 Moharram 1433 correspondant au 28 novembre 2011 relatif au contrôle interne des banques et établissements financiers ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Vu le règlement n°12-03 du 3 Moharram 1433 correspondat au 28 novembre 2012 relatif à la prévention et à la lutte contre le blanchiment d’argent et le financement du terrorisme ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Vu le règlement n°23-01 du 5 Rabie El Aouel 1445 correspondant au 21 septembre 2023 relatif aux conditions d’autorisation de constitution, d’agrément et d’exercice des bureaux de change ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Vu le règlement n°24-01 du 25 Rajab 1445 correspondant au 6 février 2024 fixant les conditions d’autorisation de constitution et d’agrément de banque et d’établissement financier ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Vu le règlement n°24-03 du 18 Moharram 1446 correspondant au 24 juillet 2024 relatif à la prévention et à la lutte contre le blanchiment d'argent, le financement du terrorisme et le financement de la prolifération des armes de destruction massive ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- Vu le règlement n°25-02 du 15 Chaoual 1446 correspondant au 14 avril 2025 fixant les conditions d’autorisation de constitution, d’agrément et d’exercice d’activités des prestataires de services de paiement ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Après délibération du Conseil monétaire et bancaire en date du 24 septembre 2025 ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Promulgue le règlement dont la teneur suit :",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Le présent règlement a pour objet de modifier et de compléter le règlement n° 24-03 du 18 Moharram 1446 correspondant au 24 juillet 2024 relatif à la prévention et à la lutte contre le blanchiment d'argent, le financement du terrorisme et le financement de la prolifération des armes de destruction massive.",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement a pour objet de modifier et de compléter le règlement n° 24-03 du 18 Moharram 1446 correspondant au 24 juillet 2024 relatif à la prévention et à la lutte contre le blanchiment d'argent, le financement du terrorisme et le financement de la prolifération des armes de destruction massive.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Les dispositions de l’article 1er du règlement n° 24-03 du 18 Moharram 1446 correspondant au 24 juillet 2024 susvisé, sont modifiées, complétées et rédigées comme suit :\n« Art. 1er. — Le présent règlement a pour objet de définir le dispositif relatif à la prévention et à la lutte contre le blanchiment des capitaux, le financement du terrorisme et le financement de la prolifération des armes de destruction massive que les banques, les établissements financiers et les services financiers d'Algérie\nPoste doivent mettre en place, en application de la loi n° 05-01 du 27 Dhou El\nHidja 1425 correspondant au 6 février 2005, modifiée et complétée, relative à la prévention et à la lutte contre le blanchiment d'argent et le financement du terrorisme.\nLes dispositions du présent règlement s’appliquent, également, aux bureaux de change et aux prestataires de services de paiement, dans le respect du principe de proportionnalité tenant compte de la nature, de la complexité, de la diversité et de la taille de leurs activités ainsi que des risques qui y sont associés. »",
+      "paragraphs": [
+        {
+          "text": "Les dispositions de l’article 1er du règlement n° 24-03 du 18 Moharram 1446 correspondant au 24 juillet 2024 susvisé, sont modifiées, complétées et rédigées comme suit :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "« Art. 1er. — Le présent règlement a pour objet de définir le dispositif relatif à la prévention et à la lutte contre le blanchiment des capitaux, le financement du terrorisme et le financement de la prolifération des armes de destruction massive que les banques, les établissements financiers et les services financiers d'Algérie",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Poste doivent mettre en place, en application de la loi n° 05-01 du 27 Dhou El",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Hidja 1425 correspondant au 6 février 2005, modifiée et complétée, relative à la prévention et à la lutte contre le blanchiment d'argent et le financement du terrorisme.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Les dispositions du présent règlement s’appliquent, également, aux bureaux de change et aux prestataires de services de paiement, dans le respect du principe de proportionnalité tenant compte de la nature, de la complexité, de la diversité et de la taille de leurs activités ainsi que des risques qui y sont associés. »",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 4,
+      "text": "Les dispositions de l’article 2 du règlement n° 24-03 du 18 Moharram 1446 correspondant au 24 juillet 2024 susvisé, sont modifiées, complétées et rédigées comme suit :\n« Art. 2. — Sans préjudice des dispositions législatives et réglementaires en vigueur, au sens du présent règlement, on entend par :\na) « Institutions assujetties » : les banques, les établissements financiers, les services finaniciers d’Algérie poste, les bureaux de change et les prestataires de services de paiement.\nb) « Client » : ..........(Sans changement) ..........\nc) « Comptes de passage » : désignent des comptes de correspondants, utilisés directement par des tiers pour réaliser des opérations pour leur propre compte.\nd) « Banque fictive » : désigne une banque qui ne dispose d’aucune présence physique dans le pays où elle est constituée et agréée et qui n'est pas affiliée à un groupe financier réglementé soumis à une surveillance consolidée et effective.\nPar présence physique, il est entendu la présence d’une direction et d’un pouvoir de décision dans un pays. La simple présence d’un agent local ou de personnel subalterne ne constitue pas une présence physique.\ne) « Relation de correspondance bancaire » : désigne la prestation de services bancaires ou financiers par une institution financière (dite institution correspondante) au bénéfice d’une autre institution financière étrangère (dite institution répondante), dans le cadre d’un accord ou d’une relation contractuelle établie entre elles.\nf) « Relation d’affaires » : ..........(Sans changement) ..........\ng) « Opération occasionnelle » : ..........(Sans changement) .......... »",
+      "paragraphs": [
+        {
+          "text": "Les dispositions de l’article 2 du règlement n° 24-03 du 18 Moharram 1446 correspondant au 24 juillet 2024 susvisé, sont modifiées, complétées et rédigées comme suit :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "« Art. 2. — Sans préjudice des dispositions législatives et réglementaires en vigueur, au sens du présent règlement, on entend par :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "a) « Institutions assujetties » : les banques, les établissements financiers, les services finaniciers d’Algérie poste, les bureaux de change et les prestataires de services de paiement.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "b) « Client » : ..........(Sans changement) ..........",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "c) « Comptes de passage » : désignent des comptes de correspondants, utilisés directement par des tiers pour réaliser des opérations pour leur propre compte.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "d) « Banque fictive » : désigne une banque qui ne dispose d’aucune présence physique dans le pays où elle est constituée et agréée et qui n'est pas affiliée à un groupe financier réglementé soumis à une surveillance consolidée et effective.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Par présence physique, il est entendu la présence d’une direction et d’un pouvoir de décision dans un pays. La simple présence d’un agent local ou de personnel subalterne ne constitue pas une présence physique.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "e) « Relation de correspondance bancaire » : désigne la prestation de services bancaires ou financiers par une institution financière (dite institution correspondante) au bénéfice d’une autre institution financière étrangère (dite institution répondante), dans le cadre d’un accord ou d’une relation contractuelle établie entre elles.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "f) « Relation d’affaires » : ..........(Sans changement) ..........",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "g) « Opération occasionnelle » : ..........(Sans changement) .......... »",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 5,
+      "text": "Les dispositions de l’article 22 du règlement n° 24-03 du 18 Moharram 1446 correspondant au 24 juillet 2024 susvisé, sont modifiées, complétées et rédigées comme suit :\n« Art. 22. — Les institutions assujetties, lorsqu'elles agissent en tant qu'institutions correspondantes et fournissent des services de correspondance bancaire ou des relations similaires à des institutions financières étrangères répondantes, doivent prendre les mesures suivantes :\n- identifier et vérifier l’identité de l’institution répondante, recueillir des informations suffisantes pour comprendre pleinement la nature de ses activités, s’assurer de sa réputation, du niveau de supervision auquel elle est soumise, et vérifier si elle a fait l’objet d’enquêtes ou de procédures de contrôle liées au blanchiment de capitaux et/ou au financement du terrorisme et/ou au financement de la prolifération des armes de destruction massive ;\n- évaluer l’efficacité des dispositifs appliqués par l’institution répondante en matière de lutte contre le blanchiment de capitaux, le financement du terrorisme et le financement de la prolifération des armes de destruction massive ;\n- obtenir l’approbation de la direction générale ou du directoire avant d’établir toute nouvelle relation de correspondance avec une institution répondante ;\n- définir par écrit et de manière claire les responsabilités respectives de l’institution correspondante et de l’institution répondante en ce qui concerne les obligations en matière de lutte contre le blanchiment de capitaux, le financement du terrorisme et le financement de la prolifération des armes de destruction massive, y compris les modalités d’échange d’informations et les mécanismes de suivi du respect de la convention ;\n- mettre à jour les conventions relatives aux comptes de correspondance existants afin d’y inclure les obligations susmentionnées.\nEn ce qui concerne les comptes de passage, les institutions assujetties doivent s’assurer que l’institution répondante :\na- applique des mesures de vigilance à l’égard des clients qui bénéficient d’un accès direct aux comptes de la banque correspondante ;\nb- est en mesure de fournir à l’institution correspondante, sur demande, les informations relatives aux mesures de vigilance à l’égard des clients. »",
+      "paragraphs": [
+        {
+          "text": "Les dispositions de l’article 22 du règlement n° 24-03 du 18 Moharram 1446 correspondant au 24 juillet 2024 susvisé, sont modifiées, complétées et rédigées comme suit :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "« Art. 22. — Les institutions assujetties, lorsqu'elles agissent en tant qu'institutions correspondantes et fournissent des services de correspondance bancaire ou des relations similaires à des institutions financières étrangères répondantes, doivent prendre les mesures suivantes :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- identifier et vérifier l’identité de l’institution répondante, recueillir des informations suffisantes pour comprendre pleinement la nature de ses activités, s’assurer de sa réputation, du niveau de supervision auquel elle est soumise, et vérifier si elle a fait l’objet d’enquêtes ou de procédures de contrôle liées au blanchiment de capitaux et/ou au financement du terrorisme et/ou au financement de la prolifération des armes de destruction massive ;",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- évaluer l’efficacité des dispositifs appliqués par l’institution répondante en matière de lutte contre le blanchiment de capitaux, le financement du terrorisme et le financement de la prolifération des armes de destruction massive ;",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- obtenir l’approbation de la direction générale ou du directoire avant d’établir toute nouvelle relation de correspondance avec une institution répondante ;",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- définir par écrit et de manière claire les responsabilités respectives de l’institution correspondante et de l’institution répondante en ce qui concerne les obligations en matière de lutte contre le blanchiment de capitaux, le financement du terrorisme et le financement de la prolifération des armes de destruction massive, y compris les modalités d’échange d’informations et les mécanismes de suivi du respect de la convention ;",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- mettre à jour les conventions relatives aux comptes de correspondance existants afin d’y inclure les obligations susmentionnées.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "En ce qui concerne les comptes de passage, les institutions assujetties doivent s’assurer que l’institution répondante :",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "a- applique des mesures de vigilance à l’égard des clients qui bénéficient d’un accès direct aux comptes de la banque correspondante ;",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "b- est en mesure de fournir à l’institution correspondante, sur demande, les informations relatives aux mesures de vigilance à l’égard des clients. »",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 6,
+      "text": "Les dispositions de l’article 23 du règlement n° 24-03 du 18 Moharram 1446 correspondant au 24 juillet 2024 susvisé, sont modifiées, complétées et rédigées comme suit :\n« Art. 23. — Il est interdit aux institutions assujetties, lorsqu’elles agissent en tant qu’institutions correspondantes, d’établir ou de maintenir toute relation de correspondance bancaire avec des banques fictives étrangères.\nElles doivent, en outre, parvenir à la conviction que les institutions répondantes n’autorisent pas l’utilisation de leurs comptes par des banques fictives, que ce soit directement ou indirectement. »",
+      "paragraphs": [
+        {
+          "text": "Les dispositions de l’article 23 du règlement n° 24-03 du 18 Moharram 1446 correspondant au 24 juillet 2024 susvisé, sont modifiées, complétées et rédigées comme suit :",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "« Art. 23. — Il est interdit aux institutions assujetties, lorsqu’elles agissent en tant qu’institutions correspondantes, d’établir ou de maintenir toute relation de correspondance bancaire avec des banques fictives étrangères.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Elles doivent, en outre, parvenir à la conviction que les institutions répondantes n’autorisent pas l’utilisation de leurs comptes par des banques fictives, que ce soit directement ou indirectement. »",
+          "page_start": 6,
+          "page_end": 6
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 6,
+      "page_end": 6,
+      "text": "Les dispositions de l’article 48 du règlement n°24-03 du 18 Moharram 1446 correspondant au 24 juillet 2024 susvisé, sont modifiées, complétées et rédigées comme suit :\n« Art.48. — Les institutions assujetties doivent mettre en place un mécanisme automatique et efficace permettant d’interdire et de bloquer, immédiatement, toute opération liée aux actifs virtuels et/ou aux prestataires de services d’actifs virtuels, y compris ceux établis en dehors de l’Algérie, et d’en faire, immédiatement, une déclaration à la cellule de traitement du renseignement financier de toute tentative ou exécution de telle transaction.\nLes actifs virtuels n’incluent pas les opérations portant sur les valeurs numériques des devises fiduciaires, des titres financiers et autres actifs financiers. »",
+      "paragraphs": [
+        {
+          "text": "Les dispositions de l’article 48 du règlement n°24-03 du 18 Moharram 1446 correspondant au 24 juillet 2024 susvisé, sont modifiées, complétées et rédigées comme suit :",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "« Art.48. — Les institutions assujetties doivent mettre en place un mécanisme automatique et efficace permettant d’interdire et de bloquer, immédiatement, toute opération liée aux actifs virtuels et/ou aux prestataires de services d’actifs virtuels, y compris ceux établis en dehors de l’Algérie, et d’en faire, immédiatement, une déclaration à la cellule de traitement du renseignement financier de toute tentative ou exécution de telle transaction.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Les actifs virtuels n’incluent pas les opérations portant sur les valeurs numériques des devises fiduciaires, des titres financiers et autres actifs financiers. »",
+          "page_start": 6,
+          "page_end": 6
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 6,
+      "page_end": 6,
+      "text": "Le présent règlement sera publié au Journal officiel de la République algérienne démocratique et populaire.\nLe Gouverneur\nSalah-Eddine TALEB",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement sera publié au Journal officiel de la République algérienne démocratique et populaire.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Salah-Eddine TALEB",
+          "page_start": 6,
+          "page_end": 6
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.044
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-25-14.fr.txt"
+}

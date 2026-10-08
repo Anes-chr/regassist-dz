@@ -1,0 +1,557 @@
+{
+  "document_id": "INS-02-15.fr",
+  "work_id": "INS-02-15",
+  "title": "Instruction n°02-2015 du 22 juillet 2015 fixant le niveau des engagements extérieurs des banques et établissements financiers.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "02-2015",
+  "number_source": "en-tête du document",
+  "date": "2015-07-22",
+  "date_raw": "N°02-2015 DU 22 JUILLET 2015",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-02",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Normes prudentielles",
+  "source_url": "https://www.bank-of-algeria.dz/banque-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/02/instruction022015.pdf",
+  "format": "pdf",
+  "file_hash": "b0e7cfae922194517f4a83d0acbc85865c65bf89ae80b02c738cab26d1352d98",
+  "file_size": 52271,
+  "raw_path": "raw/b0e7cfae9221__instruction022015.pdf",
+  "retrieved_at": "2026-10-05T13:20:18+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "ca3e4a94692b3319c5612aec6d540d46853159ed1d1a62f4dcb5335f4e122460",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-2015/",
+    "https://www.bank-of-algeria.dz/banque-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document20",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210210163712+01'00'",
+    "modDate": "D:20210210163712+01'00'"
+  },
+  "hijri_date_raw": "16\nRabie Ethani 1435",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 1949,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 826,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 5,
+    "annex_count": 1
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°02-2015 DU 22 JUILLET 2015 FIXANT LE NIVEAU DES ENGAGEMENTS EXTERIEURS DES BANQUES ET ETABLISSEMENTS FINANCIERS",
+  "alias_urls": [],
+  "text_hash": "11665bde1f1dd606767563471c72830d723baf3982da2c33738497b8c84794f1",
+  "relations_out": [
+    {
+      "relation": "remplace",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "03-2014",
+        "date": "2014-11-23",
+        "raw": "instruction n°03-2014 du 23 novembre 2014"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction annule et remplace l’instruction n°03-2014 du 23 novembre 2014 fixant le niveau des engagements extéri"
+      },
+      "target_work_id": "INS-03-14"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [
+    {
+      "work_id": "INS-03-14",
+      "reference": "instruction n°03-2014 du 23 novembre 2014",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction annule et remplace l’instruction n°03-2014 du 23 novembre 2014 fixant le niveau des engagements extéri"
+      }
+    }
+  ],
+  "abroge_par": [],
+  "modifie_par": [
+    {
+      "work_id": "INS-03-26",
+      "document_id": "INS-03-26.fr",
+      "date": "2026-04-26",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n° 03-26 du 26 avril 2026 modifiant l’instruction n° 02-2015 du 22 juillet 2015 fixant le niveau des engagements extéri"
+      }
+    },
+    {
+      "work_id": "INS-03-26",
+      "document_id": "INS-03-26.fr",
+      "date": "2026-04-26",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et compléter l’instruction n°02-2015 du 22 juillet 2015, fixant le niveau des engagements extér"
+      }
+    }
+  ],
+  "complete_par": [
+    {
+      "work_id": "INS-03-26",
+      "document_id": "INS-03-26.fr",
+      "date": "2026-04-26",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et compléter l’instruction n°02-2015 du 22 juillet 2015, fixant le niveau des engagements extér"
+      }
+    }
+  ],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée. Ce texte a été modifié/complété : consulter aussi les textes listés dans modifié_par / complété_par.",
+  "same_work_documents": [
+    "INS-02-15.ar"
+  ],
+  "complété_par": [
+    {
+      "work_id": "INS-03-26",
+      "document_id": "INS-03-26.fr",
+      "date": "2026-04-26",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et compléter l’instruction n°02-2015 du 22 juillet 2015, fixant le niveau des engagements extér"
+      }
+    }
+  ],
+  "modifié_par": [
+    {
+      "work_id": "INS-03-26",
+      "document_id": "INS-03-26.fr",
+      "date": "2026-04-26",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n° 03-26 du 26 avril 2026 modifiant l’instruction n° 02-2015 du 22 juillet 2015 fixant le niveau des engagements extéri"
+      }
+    },
+    {
+      "work_id": "INS-03-26",
+      "document_id": "INS-03-26.fr",
+      "date": "2026-04-26",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et compléter l’instruction n°02-2015 du 22 juillet 2015, fixant le niveau des engagements extér"
+      }
+    }
+  ],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe A",
+      "number": "A",
+      "heading": "L’INSTRUCTION N°02-2015 DU 22 JUILLET 2015",
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°02-2015 DU 22 JUILLET 2015 FIXANT\nLE NIVEAU DES ENGAGEMENTS EXTERIEURS DES BANQUES\nET ETABLISSEMENTS FINANCIERS",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°02-2015 DU 22 JUILLET 2015 FIXANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "LE NIVEAU DES ENGAGEMENTS EXTERIEURS DES BANQUES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET ETABLISSEMENTS FINANCIERS",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Conformément aux dispositions du règlement n°2014-01 du 16 Rabie\nEthani 1435 correspondant au 16 février 2014 portant coefficients de solvabilité applicables aux banques et établissements financiers et du règlement n°2014-02 du 16\nRabie Ethani 1435 correspondant au 16 février 2014 relatif aux grands risques et aux participations, la présente instruction a pour objet de définir le niveau autorisé des engagements extérieurs par signature des banques et établissements financiers au titre des opérations d’importation.",
+      "paragraphs": [
+        {
+          "text": "Conformément aux dispositions du règlement n°2014-01 du 16 Rabie",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Ethani 1435 correspondant au 16 février 2014 portant coefficients de solvabilité applicables aux banques et établissements financiers et du règlement n°2014-02 du 16",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Rabie Ethani 1435 correspondant au 16 février 2014 relatif aux grands risques et aux participations, la présente instruction a pour objet de définir le niveau autorisé des engagements extérieurs par signature des banques et établissements financiers au titre des opérations d’importation.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "A compter du 1er août 2015, le niveau des engagements extérieurs par signature des banques et établissements financiers ne doit à aucun moment dépasser une (1) fois leurs fonds propres règlementaires tels que définis par la réglementation prudentielle en vigueur.",
+      "paragraphs": [
+        {
+          "text": "A compter du 1er août 2015, le niveau des engagements extérieurs par signature des banques et établissements financiers ne doit à aucun moment dépasser une (1) fois leurs fonds propres règlementaires tels que définis par la réglementation prudentielle en vigueur.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Par engagements extérieurs par signature au titre des opérations d’importation, il faut entendre l’ensemble des engagements par signature afférents aux opérations d’importation, déduction faite des dépôts de garantie et provisions constitués en dinars au titre de ces opérations.",
+      "paragraphs": [
+        {
+          "text": "Par engagements extérieurs par signature au titre des opérations d’importation, il faut entendre l’ensemble des engagements par signature afférents aux opérations d’importation, déduction faite des dépôts de garantie et provisions constitués en dinars au titre de ces opérations.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les banques, intermédiaires agréés, doivent transmettre mensuellement à la\nBanque d’Algérie (Direction Générale des Changes), au plus tard le 15 du mois qui suit le mois de référence, sur supports magnétique et papier, un état récapitulatif des transferts exécutés, ventilés par mode de règlement, établi conformément au modèle joint en annexe.",
+      "paragraphs": [
+        {
+          "text": "Les banques, intermédiaires agréés, doivent transmettre mensuellement à la",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Banque d’Algérie (Direction Générale des Changes), au plus tard le 15 du mois qui suit le mois de référence, sur supports magnétique et papier, un état récapitulatif des transferts exécutés, ventilés par mode de règlement, établi conformément au modèle joint en annexe.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction annule et remplace l’instruction n°03-2014 du 23 novembre 2014 fixant le niveau des engagements extérieurs des banques et établissements financiers.\nLe Gouverneur\nMohammed LAKSACI\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "La présente instruction annule et remplace l’instruction n°03-2014 du 23 novembre 2014 fixant le niveau des engagements extérieurs des banques et établissements financiers.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe A",
+      "number": "A",
+      "heading": "L’INSTRUCTION N°02-2015 DU 22 JUILLET 2015",
+      "context": {},
+      "annexe": {
+        "number": "A",
+        "heading": "L’INSTRUCTION N°02-2015 DU 22 JUILLET 2015",
+        "label": "Annexe A"
+      },
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Raison sociale (Banque intermédiaire agréé) :\nDirection Générale :\nAdresse :\nETAT RECAPITULATIF DES TRANSFERTS EXECUTES AU TITRE DES OPERATIONS D'IMPORTATION\nDE BIENS ET DE SERVICES DURANT LE MOIS ....../201....\nRUBRIQUES\nIMPORTATION DE BIENS\nIMPORTATION DE SERVICES\nNombre d’opérations\nValeur en milliers de DA\nNombre d’opérations Valeur en milliers de DA\n1 – Crédits documentaires\n2 – Remises documentaires\na – Avec engagement de la BIA*\nb – Sans engagement de la BIA*\n3 – Transferts libres\nTotal général\n* Banque intermédiaire agréé\nAlger, le\nLe Président Directeur Général\nOu\nLe Directeur Général",
+      "paragraphs": [
+        {
+          "text": "Raison sociale (Banque intermédiaire agréé) :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Direction Générale :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Adresse :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "ETAT RECAPITULATIF DES TRANSFERTS EXECUTES AU TITRE DES OPERATIONS D'IMPORTATION",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "DE BIENS ET DE SERVICES DURANT LE MOIS ....../201....",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "RUBRIQUES",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "IMPORTATION DE BIENS",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "IMPORTATION DE SERVICES",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Nombre d’opérations",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Valeur en milliers de DA",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Nombre d’opérations Valeur en milliers de DA",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "1 – Crédits documentaires",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "2 – Remises documentaires",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "a – Avec engagement de la BIA*",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "b – Sans engagement de la BIA*",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "3 – Transferts libres",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Total général",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "* Banque intermédiaire agréé",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Alger, le",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Président Directeur Général",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Ou",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Directeur Général",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [
+    {
+      "page": 2,
+      "tables": [
+        "|RUBRIQUES|IMPORTATION DE BIENS|Col3|IMPORTATION DE SERVICES|Col5|\n|---|---|---|---|---|\n||**Nombre d’opérations**|** Valeur en milliers de DA**|**Nombre d’opérations**|**Valeur en milliers de DA**|\n|**1 – Crédits documentaires**|||||\n|**2 – Remises documentaires**|||||\n|**a – Avec engagement de la BIA***|||||\n|**b – Sans engagement de la BIA***|||||\n|**3 – Transferts libres**|||||\n|**Total général**|||||\n\n"
+      ]
+    }
+  ],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.033
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-02-15.fr.txt"
+}

@@ -1,0 +1,1129 @@
+{
+  "document_id": "INS-83-92.fr",
+  "work_id": "INS-83-92",
+  "title": "Instruction n°83-92 du 27 décembre 1992 relative aux modalités d’attribution d’allocations devises a l’occasion d’hospitalisation et/ou de décès de nationaux a l’étranger.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "83-92",
+  "number_source": "en-tête du document",
+  "date": "1992-12-27",
+  "date_raw": "N°83-92 DU 27 DECEMBRE 1992",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Règlementation des changes",
+  "source_url": "https://www.bank-of-algeria.dz/importations-exportations-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction8392-1.pdf",
+  "format": "pdf",
+  "file_hash": "5eadf145f0f3320047b4f8886d67bbdbe0c644d0aab14c054beb34110194ea85",
+  "file_size": 47977,
+  "raw_path": "raw/5eadf145f0f3__instruction8392-1.pdf",
+  "retrieved_at": "2026-10-05T13:22:15+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 3,
+  "url_hash": "ffe9d58a38dd03f7b89094c34ea108be3947e6bfd14bcc305070257e44aea0af",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/devisesinstruction/",
+    "https://www.bank-of-algeria.dz/importations-exportations-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - INSTRUCTION 32-91",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200806132127+01'00'",
+    "modDate": "D:20200806132127+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 3,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 3012,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 2814,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 2669,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 22,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°83-92 DU 27 DECEMBRE 1992 RELATIVE AUX MODALITES D'ATTRIBUTION D'ALLOCATIONS DEVISES A L'OCCASION D'HOSPITALISATION ET/OU DE DECES DE NATIONAUX A L'ETRANGER DISPOSITION PRELIMINAIRE",
+  "alias_urls": [
+    {
+      "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction8392.pdf",
+      "source_url": "https://www.bank-of-algeria.dz/devisesinstruction/",
+      "title": "Instruction n°83-92 du 27 décembre 1992 relative aux modalités d’attribution d’allocations devises a l’occasion d’hospitalisation et/ou de décès de nationaux a l’étranger."
+    }
+  ],
+  "text_hash": "1b1f7e26b122736ac24b5c37af9c8d8a4246c42a3e2b37be073b6f610cde471c",
+  "relations_out": [
+    {
+      "relation": "remplace",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "03-91",
+        "date": "1991-07-15",
+        "raw": "instruction n°03-91 du 15 Juillet 1991"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "La présente instruction annule et remplace l'instruction n°03-91 du 15 Juillet 1991 de la Banque d'Algérie fixant les modal"
+      },
+      "target_work_id": "INS-03-91-19910715"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [
+    {
+      "work_id": "INS-03-91-19910715",
+      "reference": "instruction n°03-91 du 15 Juillet 1991",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "La présente instruction annule et remplace l'instruction n°03-91 du 15 Juillet 1991 de la Banque d'Algérie fixant les modal"
+      }
+    }
+  ],
+  "abroge_par": [],
+  "modifie_par": [
+    {
+      "work_id": "INS-15-94",
+      "document_id": "INS-15-94.fr",
+      "date": "1994-04-09",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°15-94 du 09 avril 1994 portant modification de l’instruction n°83-92 du 27 décembre 1992 relative aux modalités d’attribution d’"
+      }
+    },
+    {
+      "work_id": "INS-15-94",
+      "document_id": "INS-15-94.fr",
+      "date": "1994-04-09",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier les dispositions des articles 2, 3, 4 et 5 de l'Instruction n°83-92 du 27 Décembre 1992 relative aux modalités d'attribution d'"
+      }
+    },
+    {
+      "work_id": "INS-25-95",
+      "document_id": "INS-25-95.fr",
+      "date": "1995-04-19",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°25-95 du 19 avril 1995 portant modification de l’instruction n°83-92 du 27 décembre 1992 modifiée relative aux modalités d’attri"
+      }
+    }
+  ],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée. Ce texte a été modifié/complété : consulter aussi les textes listés dans modifié_par / complété_par.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [
+    {
+      "work_id": "INS-15-94",
+      "document_id": "INS-15-94.fr",
+      "date": "1994-04-09",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°15-94 du 09 avril 1994 portant modification de l’instruction n°83-92 du 27 décembre 1992 relative aux modalités d’attribution d’"
+      }
+    },
+    {
+      "work_id": "INS-15-94",
+      "document_id": "INS-15-94.fr",
+      "date": "1994-04-09",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier les dispositions des articles 2, 3, 4 et 5 de l'Instruction n°83-92 du 27 Décembre 1992 relative aux modalités d'attribution d'"
+      }
+    },
+    {
+      "work_id": "INS-25-95",
+      "document_id": "INS-25-95.fr",
+      "date": "1995-04-19",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°25-95 du 19 avril 1995 portant modification de l’instruction n°83-92 du 27 décembre 1992 modifiée relative aux modalités d’attri"
+      }
+    }
+  ],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "section",
+      "label": "Section 1",
+      "number": null,
+      "heading": "NATURE ET MONTANTS DES ALLOCATIONS DEVISES",
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 2",
+          "number": "2",
+          "heading": null,
+          "page_start": 1,
+          "page_end": 1,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 3",
+          "number": "3",
+          "heading": null,
+          "page_start": 1,
+          "page_end": 1,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 4",
+          "number": "4",
+          "heading": null,
+          "page_start": 1,
+          "page_end": 1,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 5",
+          "number": "5",
+          "heading": null,
+          "page_start": 1,
+          "page_end": 1,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "label": "Section 2",
+      "number": null,
+      "heading": "LIEUX D'OCTROI DES ALLOCATIONS DEVISES",
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 6",
+          "number": "6",
+          "heading": null,
+          "page_start": 1,
+          "page_end": 1,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 7",
+          "number": "7",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "label": "Section 3",
+      "number": null,
+      "heading": "DOCUMENTS JUSTIFICATIFS À PRODUIRE À L'APPUI DE LA DEMANDE D'ALLOCATIONS - DEVISES",
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 8",
+          "number": "8",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 9",
+          "number": "9",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 10",
+          "number": "10",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 11",
+          "number": "11",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 12",
+          "number": "12",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "label": "Section 4",
+      "number": null,
+      "heading": "DISPOSITIONS DIVERSES",
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 13",
+          "number": "13",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 14",
+          "number": "14",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 15",
+          "number": "15",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 16",
+          "number": "16",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 17",
+          "number": "17",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 18",
+          "number": "18",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 19",
+          "number": "19",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 20",
+          "number": "20",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 21",
+          "number": "21",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 22",
+          "number": "22",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°83-92 DU 27 DECEMBRE 1992 RELATIVE\nAUX MODALITES D'ATTRIBUTION D'ALLOCATIONS DEVISES A L'OCCASION\nD'HOSPITALISATION ET/OU DE DECES DE NATIONAUX A L'ETRANGER\nDISPOSITION PRELIMINAIRE",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°83-92 DU 27 DECEMBRE 1992 RELATIVE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AUX MODALITES D'ATTRIBUTION D'ALLOCATIONS DEVISES A L'OCCASION",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "D'HOSPITALISATION ET/OU DE DECES DE NATIONAUX A L'ETRANGER",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DISPOSITION PRELIMINAIRE",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction a pour objet, en application du Règlement n° 92-10 du 17 novembre 1992 notamment son article 2 et dans le cadre des dispositions des\nRèglements n°91-06 du 16 Mai 1991 modifié et n°92-04 du 22 Mars 1992 de fixer les montants ainsi que les modalités d'attribution d'allocations devises à l'occasion d'hospitalisation et/ou de décès de nationaux à l'étranger.",
+      "paragraphs": [
+        {
+          "text": "La présente instruction a pour objet, en application du Règlement n° 92-10 du 17 novembre 1992 notamment son article 2 et dans le cadre des dispositions des",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Règlements n°91-06 du 16 Mai 1991 modifié et n°92-04 du 22 Mars 1992 de fixer les montants ainsi que les modalités d'attribution d'allocations devises à l'occasion d'hospitalisation et/ou de décès de nationaux à l'étranger.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "1",
+          "heading": "NATURE ET MONTANTS DES ALLOCATIONS DEVISES",
+          "label": "Section 1"
+        }
+      },
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les nationaux résidents se rendant à l'étranger pour soins médicaux sous couvert d'une prise en charge délivrée par un organisme de sécurité sociale ou par le\nMinistère chargé de la santé publique selon que le malade est assuré social ou non bénéficient d'une allocation devises dite allocation à caractère médical dont le montant est fixé à la contre-valeur en devises de :\n- 5400 dinars lorsque le malade est âgé de plus de 15 ans ;\n- 2600 dinars lorsque le malade est âgé de 15 ans ou moins.",
+      "paragraphs": [
+        {
+          "text": "Les nationaux résidents se rendant à l'étranger pour soins médicaux sous couvert d'une prise en charge délivrée par un organisme de sécurité sociale ou par le",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Ministère chargé de la santé publique selon que le malade est assuré social ou non bénéficient d'une allocation devises dite allocation à caractère médical dont le montant est fixé à la contre-valeur en devises de :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- 5400 dinars lorsque le malade est âgé de plus de 15 ans ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- 2600 dinars lorsque le malade est âgé de 15 ans ou moins.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "1",
+          "heading": "NATURE ET MONTANTS DES ALLOCATIONS DEVISES",
+          "label": "Section 1"
+        }
+      },
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Au cas où l'état du malade nécessite l'assistance d'une tierce personne expressément prescrite par l'organisme ayant délivré la prise en charge et/ou par le service étranger d'hospitalisation l'accompagnateur résident bénéficie d'une allocation devises dite allocation d'accompagnateur fixée à la contre-valeur en devises de :\n- 4600 dinars à l'occasion du départ du malade ;\n- 2000 dinars à l'occasion du retour du malade.",
+      "paragraphs": [
+        {
+          "text": "Au cas où l'état du malade nécessite l'assistance d'une tierce personne expressément prescrite par l'organisme ayant délivré la prise en charge et/ou par le service étranger d'hospitalisation l'accompagnateur résident bénéficie d'une allocation devises dite allocation d'accompagnateur fixée à la contre-valeur en devises de :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- 4600 dinars à l'occasion du départ du malade ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- 2000 dinars à l'occasion du retour du malade.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "1",
+          "heading": "NATURE ET MONTANTS DES ALLOCATIONS DEVISES",
+          "label": "Section 1"
+        }
+      },
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "En cas de décès à l'étranger du malade hospitalisé sous couvert d'une prise en charge ou d'un national résident en voyage touristique ou d'affaires, le membre de la famille chargé du rapatriement dont le montant est fixé à la contre-valeur en devises de 50.000 Dinars.",
+      "paragraphs": [
+        {
+          "text": "En cas de décès à l'étranger du malade hospitalisé sous couvert d'une prise en charge ou d'un national résident en voyage touristique ou d'affaires, le membre de la famille chargé du rapatriement dont le montant est fixé à la contre-valeur en devises de 50.000 Dinars.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "1",
+          "heading": "NATURE ET MONTANTS DES ALLOCATIONS DEVISES",
+          "label": "Section 1"
+        }
+      },
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les parents rendant visite conjointement à leur(s) enfant(s) de 15 ans et moins hospitalisé(s) à l'étranger depuis au moins douze (12) mois sous couvert d'une prise en charge telle que définie à l'article 2 ci-dessus bénéficient d'une allocation devises dite allocation de visite parentale annuelle dont le montant est fixé à la contre-valeur en devises de 10.000 Dinars.\nCe montant est fixé à 6.000 Dinars lorsque l’un des parents seulement (père ou mère)\neffectue la visite parentale annuelle. Au cas où, l’autre parent (père ou mère selon le cas)\neffectue, à son tour, au cours de la même année, une visite parentale, il bénéficie du reste de l’allocation de visite parentale soit 4.000 Dinars.\nL’allocation de visite parentale cumulée par les deux parents (père et mère), ne peut dans tous les cas être supérieure à 10.000 Dinars.",
+      "paragraphs": [
+        {
+          "text": "Les parents rendant visite conjointement à leur(s) enfant(s) de 15 ans et moins hospitalisé(s) à l'étranger depuis au moins douze (12) mois sous couvert d'une prise en charge telle que définie à l'article 2 ci-dessus bénéficient d'une allocation devises dite allocation de visite parentale annuelle dont le montant est fixé à la contre-valeur en devises de 10.000 Dinars.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Ce montant est fixé à 6.000 Dinars lorsque l’un des parents seulement (père ou mère)",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "effectue la visite parentale annuelle. Au cas où, l’autre parent (père ou mère selon le cas)",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "effectue, à son tour, au cours de la même année, une visite parentale, il bénéficie du reste de l’allocation de visite parentale soit 4.000 Dinars.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L’allocation de visite parentale cumulée par les deux parents (père et mère), ne peut dans tous les cas être supérieure à 10.000 Dinars.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "2",
+          "heading": "LIEUX D'OCTROI DES ALLOCATIONS DEVISES",
+          "label": "Section 2"
+        }
+      },
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L'allocation à caractère médical et l'allocation d'accompagnateur visées respectivement aux articles 2 et 3 ci-dessus, sont octroyées par tout guichet bancaire du lieu de résidence du malade.",
+      "paragraphs": [
+        {
+          "text": "L'allocation à caractère médical et l'allocation d'accompagnateur visées respectivement aux articles 2 et 3 ci-dessus, sont octroyées par tout guichet bancaire du lieu de résidence du malade.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "2",
+          "heading": "LIEUX D'OCTROI DES ALLOCATIONS DEVISES",
+          "label": "Section 2"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "L'allocation de rapatriement et l'allocation de visite parentale annuelle visées respectivement aux articles 4 et 5 ci-dessus, sont octroyées exclusivement par le guichet de la Banque d'Algérie installé dans la wilaya de résidence du demandeur.",
+      "paragraphs": [
+        {
+          "text": "L'allocation de rapatriement et l'allocation de visite parentale annuelle visées respectivement aux articles 4 et 5 ci-dessus, sont octroyées exclusivement par le guichet de la Banque d'Algérie installé dans la wilaya de résidence du demandeur.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "3",
+          "heading": "DOCUMENTS JUSTIFICATIFS À PRODUIRE À L'APPUI DE LA DEMANDE D'ALLOCATIONS - DEVISES",
+          "label": "Section 3"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les allocations devises, objet de la présente instruction, sont octroyées, sur présentation au guichet bancaire concerne\n- d'une demande manuscrite précisant notamment, la nature de l'allocation sollicitée ;\n- des justificatifs définis ci-après ;\n- d'un passeport du bénéficiaire en cours de validité ;\n- d'un titre de transport.",
+      "paragraphs": [
+        {
+          "text": "Les allocations devises, objet de la présente instruction, sont octroyées, sur présentation au guichet bancaire concerne",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- d'une demande manuscrite précisant notamment, la nature de l'allocation sollicitée ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- des justificatifs définis ci-après ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- d'un passeport du bénéficiaire en cours de validité ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- d'un titre de transport.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "3",
+          "heading": "DOCUMENTS JUSTIFICATIFS À PRODUIRE À L'APPUI DE LA DEMANDE D'ALLOCATIONS - DEVISES",
+          "label": "Section 3"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "L'allocation à caractère médical et, le cas échéant, l'allocation d'accompagnateur sont obtenues sur présentation au guichet bancaire, outre les documents prévus à l'article 8 ci-dessus, de l'original de la prise en charge et sa photocopie ainsi que de l'original de l'attestation désignant l'accompagnateur et sa photocopie.\nLes deux documents originaux visés ci-dessus sont restitués après apposition du visa du guichet bancaire ayant délivré les allocations sollicitées.",
+      "paragraphs": [
+        {
+          "text": "L'allocation à caractère médical et, le cas échéant, l'allocation d'accompagnateur sont obtenues sur présentation au guichet bancaire, outre les documents prévus à l'article 8 ci-dessus, de l'original de la prise en charge et sa photocopie ainsi que de l'original de l'attestation désignant l'accompagnateur et sa photocopie.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Les deux documents originaux visés ci-dessus sont restitués après apposition du visa du guichet bancaire ayant délivré les allocations sollicitées.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "3",
+          "heading": "DOCUMENTS JUSTIFICATIFS À PRODUIRE À L'APPUI DE LA DEMANDE D'ALLOCATIONS - DEVISES",
+          "label": "Section 3"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Outre les documents prévus à l'article 8 ci-dessus, l'allocation de rapatriement est obtenue sur présentation au guichet concerné de la Banque d'Algérie :\n- dans le cas du décès d'un malade hospitalisé sous couvert d'une prise en charge telle que définie à l'article 2 ci-dessus, de tout document portant attestation de décès délivré soit par les services d'hospitalisation soit par les services consulaires algériens ainsi que d'un document d'état civil justifiant le lien de parenté avec le défunt ;\n- dans le cas du décès à l'étranger d'un national résident, de tout document probant attestant le décès délivré par les services consulaires algériens ainsi que d'un document d'état civil justifiant le lien de parenté avec le défunt.",
+      "paragraphs": [
+        {
+          "text": "Outre les documents prévus à l'article 8 ci-dessus, l'allocation de rapatriement est obtenue sur présentation au guichet concerné de la Banque d'Algérie :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- dans le cas du décès d'un malade hospitalisé sous couvert d'une prise en charge telle que définie à l'article 2 ci-dessus, de tout document portant attestation de décès délivré soit par les services d'hospitalisation soit par les services consulaires algériens ainsi que d'un document d'état civil justifiant le lien de parenté avec le défunt ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- dans le cas du décès à l'étranger d'un national résident, de tout document probant attestant le décès délivré par les services consulaires algériens ainsi que d'un document d'état civil justifiant le lien de parenté avec le défunt.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "3",
+          "heading": "DOCUMENTS JUSTIFICATIFS À PRODUIRE À L'APPUI DE LA DEMANDE D'ALLOCATIONS - DEVISES",
+          "label": "Section 3"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Outre la présentation des documents visés aux articles 8, 9 et 10 ci-dessus, le bénéficiaire de l'allocation de rapatriement devra souscrire un engagement de produire ultérieurement au guichet concerné de la Banque d'Algérie, l'ensemble des documents justifiant le rapatriement du corps du défunt.",
+      "paragraphs": [
+        {
+          "text": "Outre la présentation des documents visés aux articles 8, 9 et 10 ci-dessus, le bénéficiaire de l'allocation de rapatriement devra souscrire un engagement de produire ultérieurement au guichet concerné de la Banque d'Algérie, l'ensemble des documents justifiant le rapatriement du corps du défunt.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "3",
+          "heading": "DOCUMENTS JUSTIFICATIFS À PRODUIRE À L'APPUI DE LA DEMANDE D'ALLOCATIONS - DEVISES",
+          "label": "Section 3"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "L'allocation de visite parentale est obtenue sur présentation au guichet concerné de la Banque d'Algérie outre les documents visés à l'article 8 ci-dessus :\n- d'un certificat de présence de l'enfant dans un établissement hospitalier étranger indiquant notamment, la date d'hospitalisation ;\n- d'une attestation de l'organisme ayant délivré la prise en charge certifiant l'hospitalisation de l'enfant pour une durée égale ou supérieure à douze (12) mois ;\n- d'une fiche familiale d'état civil justifiant le lien de parenté.",
+      "paragraphs": [
+        {
+          "text": "L'allocation de visite parentale est obtenue sur présentation au guichet concerné de la Banque d'Algérie outre les documents visés à l'article 8 ci-dessus :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- d'un certificat de présence de l'enfant dans un établissement hospitalier étranger indiquant notamment, la date d'hospitalisation ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- d'une attestation de l'organisme ayant délivré la prise en charge certifiant l'hospitalisation de l'enfant pour une durée égale ou supérieure à douze (12) mois ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- d'une fiche familiale d'état civil justifiant le lien de parenté.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "4",
+          "heading": "DISPOSITIONS DIVERSES",
+          "label": "Section 4"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Le taux de change applicable est celui fixé pour le cours de vente ressortant de la cotation \"bank notes étrangers\" de la Banque d'Algérie en vigueur le jour de l'opération de changes.",
+      "paragraphs": [
+        {
+          "text": "Le taux de change applicable est celui fixé pour le cours de vente ressortant de la cotation \"bank notes étrangers\" de la Banque d'Algérie en vigueur le jour de l'opération de changes.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "4",
+          "heading": "DISPOSITIONS DIVERSES",
+          "label": "Section 4"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Les allocations visées aux articles 6 et 7 ci-dessus sont annotées sur les titres de transport des bénéficiaires.",
+      "paragraphs": [
+        {
+          "text": "Les allocations visées aux articles 6 et 7 ci-dessus sont annotées sur les titres de transport des bénéficiaires.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "4",
+          "heading": "DISPOSITIONS DIVERSES",
+          "label": "Section 4"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Les titres de transport comportant les annotations prévues à l'article 14 ci-dessus doivent, pour être valables au remboursement ou à l'échange par les compagnies de transport aérien ou maritime avoir fait l'objet d'une annulation de l'annotation par le guichet bancaire qui a délivré l'allocation devises ou le cas échéant, recueillir l'accord préalable de la Banque d'Algérie. L'annulation de l'annotation par le guichet bancaire est effectuée après restitution auprès de ce dernier des allocations devises.",
+      "paragraphs": [
+        {
+          "text": "Les titres de transport comportant les annotations prévues à l'article 14 ci-dessus doivent, pour être valables au remboursement ou à l'échange par les compagnies de transport aérien ou maritime avoir fait l'objet d'une annulation de l'annotation par le guichet bancaire qui a délivré l'allocation devises ou le cas échéant, recueillir l'accord préalable de la Banque d'Algérie. L'annulation de l'annotation par le guichet bancaire est effectuée après restitution auprès de ce dernier des allocations devises.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 16",
+      "number": "16",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "4",
+          "heading": "DISPOSITIONS DIVERSES",
+          "label": "Section 4"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Les allocations devises n'ayant pas fait l'objet d'une exportation effective dans un délai d'un (01) mois à compter de leur délivrance, doivent être restituées au même guichet bancaire qui les a délivrées.",
+      "paragraphs": [
+        {
+          "text": "Les allocations devises n'ayant pas fait l'objet d'une exportation effective dans un délai d'un (01) mois à compter de leur délivrance, doivent être restituées au même guichet bancaire qui les a délivrées.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 17",
+      "number": "17",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "4",
+          "heading": "DISPOSITIONS DIVERSES",
+          "label": "Section 4"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Ne peuvent servir à l'obtention des allocations devises visées aux articles 6 et 7 ci-dessus que les documents justificatifs fournis dans leur forme originale sauf en ce qui concerne la copie de la prise en charge médicale prévue à l'article 9 ci-dessus. Les seules copies et photocopies, même légalisées des autres documents justificatifs, ne sont pas prises en compte.",
+      "paragraphs": [
+        {
+          "text": "Ne peuvent servir à l'obtention des allocations devises visées aux articles 6 et 7 ci-dessus que les documents justificatifs fournis dans leur forme originale sauf en ce qui concerne la copie de la prise en charge médicale prévue à l'article 9 ci-dessus. Les seules copies et photocopies, même légalisées des autres documents justificatifs, ne sont pas prises en compte.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 18",
+      "number": "18",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "4",
+          "heading": "DISPOSITIONS DIVERSES",
+          "label": "Section 4"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "L'attestation des services consulaires algériens visée à l'article 10 ci-dessus n'est délivrée pour servir à l'obtention de l'allocation de rapatriement que lorsqu'il s'agit de nationaux résidents en Algérie décédés à l'étranger. Cette attestation doit à cet égard préciser l'adresse habituelle en Algérie du défunt.\nDISPOSITIONS FINALES",
+      "paragraphs": [
+        {
+          "text": "L'attestation des services consulaires algériens visée à l'article 10 ci-dessus n'est délivrée pour servir à l'obtention de l'allocation de rapatriement que lorsqu'il s'agit de nationaux résidents en Algérie décédés à l'étranger. Cette attestation doit à cet égard préciser l'adresse habituelle en Algérie du défunt.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "DISPOSITIONS FINALES",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 19",
+      "number": "19",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "4",
+          "heading": "DISPOSITIONS DIVERSES",
+          "label": "Section 4"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Toutes dispositions contraires aux présentes notamment celles édictées par les Instructions n°39 du 27 Décembre 1977 et n°1972 du 19 Août 1989 du Ministère chargé des Finances sont abrogées.",
+      "paragraphs": [
+        {
+          "text": "Toutes dispositions contraires aux présentes notamment celles édictées par les Instructions n°39 du 27 Décembre 1977 et n°1972 du 19 Août 1989 du Ministère chargé des Finances sont abrogées.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 20",
+      "number": "20",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "4",
+          "heading": "DISPOSITIONS DIVERSES",
+          "label": "Section 4"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Pour toute éventuelle difficulté d'interprétation et/ou d'application des dispositions de la présente Instruction, il y a lieu de saisir la Banque d'Algérie (Direction du Contrôle des Changes).",
+      "paragraphs": [
+        {
+          "text": "Pour toute éventuelle difficulté d'interprétation et/ou d'application des dispositions de la présente Instruction, il y a lieu de saisir la Banque d'Algérie (Direction du Contrôle des Changes).",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 21",
+      "number": "21",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "4",
+          "heading": "DISPOSITIONS DIVERSES",
+          "label": "Section 4"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "La présente instruction annule et remplace l'instruction n°03-91 du 15 Juillet 1991 de la Banque d'Algérie fixant les modalités d'attribution de devises à l'occasion d'hospitalisation et/ou de décès de nationaux à l'étranger.",
+      "paragraphs": [
+        {
+          "text": "La présente instruction annule et remplace l'instruction n°03-91 du 15 Juillet 1991 de la Banque d'Algérie fixant les modalités d'attribution de devises à l'occasion d'hospitalisation et/ou de décès de nationaux à l'étranger.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 22",
+      "number": "22",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "4",
+          "heading": "DISPOSITIONS DIVERSES",
+          "label": "Section 4"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Les dispositions de la présente Instruction sont applicables à partir de la date de sa signature.\nLe Gouverneur\nAbdelouahab KERAMANE",
+      "paragraphs": [
+        {
+          "text": "Les dispositions de la présente Instruction sont applicables à partir de la date de sa signature.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.042
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-83-92.fr.txt"
+}

@@ -1,0 +1,167 @@
+{
+  "document_id": "NOT-18-08.fr",
+  "work_id": "NOT-18-08",
+  "title": "Note n°18-2008 du 30 juin 2008 relative aux nouvelles règles d’émission des titres de transport aérien.",
+  "document_type": "note",
+  "type_code": "NOT",
+  "type_source": "label",
+  "number": "18-2008",
+  "number_source": "en-tête du document",
+  "date": "2008-06-30",
+  "date_raw": "N°18-2008 DU 30 JUIN 2008",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-05",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "notes_aux_banques",
+  "subcategory": "Année 2008",
+  "source_url": "https://www.bank-of-algeria.dz/les-notes-aux-banques-2008/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/05/note182008.pdf",
+  "format": "pdf",
+  "file_hash": "22b6ec497d5ad970be600fb878de3ac3cb2de94b466b94b3bebc3ac407b9bc63",
+  "file_size": 47055,
+  "raw_path": "raw/22b6ec497d5a__note182008.pdf",
+  "retrieved_at": "2026-10-05T13:24:24+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "f3447a9887bee44696ce9460d402b126ac385d50a91a45ed62fcc4db50897542",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/les-notes-aux-banques-2008/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document1",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210228095621+01'00'",
+    "modDate": "D:20210228095621+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 772,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": false,
+    "article_count": 0,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "NOTE N°18-2008 DU 30 JUIN 2008 AUX BANQUES ET ETABLISSEMENTS FINANCIERS AGREES",
+  "alias_urls": [],
+  "text_hash": "d0e1e2a9048755c231cceafa39b31288192994c9dd4da2026a8e4047f67e464a",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "NOTE N°18-2008 DU 30 JUIN 2008 AUX BANQUES\nET ETABLISSEMENTS FINANCIERS AGREES\nCompte tenu des nouvelles règles d’émission des titres de transport aérien qui consiste en la délivrance à tout usager d’un imprimé (billet électronique – E.TICKET) et non plus d’un billet établit selon le format traditionnel à feuillets, les banques intermédiaires agréées voudront instruire l’ensemble de leurs guichets habilités à traiter les opérations de change manuel que, désormais l’annotation du titre d transport (aérien ou maritime)\nn’est plus requise.\nCependant, seule la photocopie du titre de transport présenté au moment de l’opération de change est conservée dans le dossier de change correspondant.\nLe Directeur Général\nM.O. BRAHITI\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "NOTE N°18-2008 DU 30 JUIN 2008 AUX BANQUES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET ETABLISSEMENTS FINANCIERS AGREES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Compte tenu des nouvelles règles d’émission des titres de transport aérien qui consiste en la délivrance à tout usager d’un imprimé (billet électronique – E.TICKET) et non plus d’un billet établit selon le format traditionnel à feuillets, les banques intermédiaires agréées voudront instruire l’ensemble de leurs guichets habilités à traiter les opérations de change manuel que, désormais l’annotation du titre d transport (aérien ou maritime)",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "n’est plus requise.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Cependant, seule la photocopie du titre de transport présenté au moment de l’opération de change est conservée dans le dossier de change correspondant.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Directeur Général",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "M.O. BRAHITI",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.035
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/NOT-18-08.fr.txt"
+}

@@ -1,0 +1,187 @@
+{
+  "document_id": "NOT-01-DGRFE-22.fr",
+  "work_id": "NOT-01-DGRFE-22",
+  "title": "Note aux banques n°01/DGRFE/2022 du 31 janvier 2022",
+  "document_type": "note",
+  "type_code": "NOT",
+  "type_source": "label",
+  "number": "01-DGRFE-2022",
+  "number_source": "libelle",
+  "date": "2022-01-31",
+  "date_raw": "n°01/DGRFE/2022 du 31 janvier 2022",
+  "date_source": "libelle",
+  "publication_date": "2024-08-08",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "notes_aux_banques",
+  "subcategory": "Année 2022",
+  "source_url": "https://www.bank-of-algeria.dz/les-notes-aux-banques-2022/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2024/08/nb01dgrfe-2022-nv.pdf",
+  "format": "pdf",
+  "file_hash": "9335eea05aa802fc4d7af071f6245cd1932a10ba212c01d6a782ba296675e73b",
+  "file_size": 356277,
+  "raw_path": "raw/9335eea05aa8__nb01dgrfe-2022-nv.pdf",
+  "retrieved_at": "2026-10-05T13:30:54+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "455bed96bd6d1ff7d37faff360dc3d7a7f64eec750b82d13afc24a41b337b975",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/les-notes-aux-banques-2022/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Microsoft Word - Note aux banques N 01 DGRFE 2022",
+    "author": "redouane.mouadene",
+    "creator": "Microsoft® Word 2016",
+    "producer": "Microsoft® Word 2016",
+    "creationDate": "D:20240808121706+01'00'",
+    "modDate": "D:20240808121706+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 1665,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": false,
+    "article_count": 0,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": null,
+  "alias_urls": [],
+  "text_hash": "7cc33503273db5a375c6be1b4a42cdd73e5237eacceadd5a5c68684f5ffad4f8",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "NOTE AUX BANQUES\nN°01/DGRFE/2022 DU 31 JANVIER 2022\nLa présente note a pour objet de modifier les modalités de fonctionnement des opérations de virements interbancaires sur comptes devises, se déroulant habituellement en chambre de compensation au niveau du site de la Banque d’Algérie abritant la Direction Générale des Relations Financières Extérieures (DGRFE), désormais l’exécution de ce type d’opérations se fait de façon délocalisée.\nLes banques intermédiaires agréées sont tenues de transmettre leurs ordres de virement à la Banque d’Algérie via des messages SWIFT sous format MT202 par lesquels une banque ordonnatrice demande de payer à partir de son compte libellé en monnaie citée, une banque bénéficiaire.\nCes virements interbancaires se déroulent quotidiennement de façon continue, toutefois les banques sont appelées à transmettre un seul ordre de virement (Swift), par banque et par devise.\nLa Banque d’Algérie prend en charge la transcription au débit et au crédit des montants sur les comptes devises clientèles des banques concernées conformément aux ordres de paiements émis. De leur côté, les banques intermédiaires agréées continueront à échanger entre elles tous documents probants justifiant l’origine de ces virements.\nLes banques intermédiaires agréées peuvent bien saisir nos services en cas de difficulté d’application de la présente note.\nCette note prendra effet à compter de la semaine du 14 février 2022.\nLes dispositions, de la note n° 65 du 14 janvier 1988 aux banques intermédiaires agréées, sont abrogées.\nLe Directeur Général des Relations\nFinancières Extérieures\nAmine BOULESNANE",
+      "paragraphs": [
+        {
+          "text": "NOTE AUX BANQUES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "N°01/DGRFE/2022 DU 31 JANVIER 2022",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La présente note a pour objet de modifier les modalités de fonctionnement des opérations de virements interbancaires sur comptes devises, se déroulant habituellement en chambre de compensation au niveau du site de la Banque d’Algérie abritant la Direction Générale des Relations Financières Extérieures (DGRFE), désormais l’exécution de ce type d’opérations se fait de façon délocalisée.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les banques intermédiaires agréées sont tenues de transmettre leurs ordres de virement à la Banque d’Algérie via des messages SWIFT sous format MT202 par lesquels une banque ordonnatrice demande de payer à partir de son compte libellé en monnaie citée, une banque bénéficiaire.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Ces virements interbancaires se déroulent quotidiennement de façon continue, toutefois les banques sont appelées à transmettre un seul ordre de virement (Swift), par banque et par devise.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La Banque d’Algérie prend en charge la transcription au débit et au crédit des montants sur les comptes devises clientèles des banques concernées conformément aux ordres de paiements émis. De leur côté, les banques intermédiaires agréées continueront à échanger entre elles tous documents probants justifiant l’origine de ces virements.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les banques intermédiaires agréées peuvent bien saisir nos services en cas de difficulté d’application de la présente note.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Cette note prendra effet à compter de la semaine du 14 février 2022.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les dispositions, de la note n° 65 du 14 janvier 1988 aux banques intermédiaires agréées, sont abrogées.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Directeur Général des Relations",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Financières Extérieures",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Amine BOULESNANE",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.022
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/NOT-01-DGRFE-22.fr.txt"
+}

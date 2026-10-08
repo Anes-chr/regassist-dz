@@ -1,0 +1,368 @@
+{
+  "document_id": "INS-04-08.ar",
+  "work_id": "INS-04-08",
+  "title": "تعليمة رقم 04-08 المؤرخة في 25 مارس 2008، المتضمنة إنشاء خلية بين البنوك لتسيير المخاطر والأزمات.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "04-08",
+  "number_source": "libelle",
+  "date": "2008-03-25",
+  "date_raw": "المؤرخة في 25 مارس 2008",
+  "date_source": "libelle",
+  "publication_date": "2023-03-02",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "instructions",
+  "subcategory": "أنظمة الدفع",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d9%88%d8%b3%d8%a7%d8%a6%d9%84-%d8%a7%d9%84%d8%af%d9%81%d8%b9/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/03/08-04.pdf",
+  "format": "pdf",
+  "file_hash": "5ff1057523b50bebf1beca59e911bdedfd4f0952448cec7d56441f740baf67de",
+  "file_size": 540152,
+  "raw_path": "raw/5ff1057523b5__08-04.pdf",
+  "retrieved_at": "2026-10-05T13:29:52+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 3,
+  "url_hash": "e35617377f7f5e2e93a6ccdc38fcdaef5e32c36d1112e30a775401daa81b37cd",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d9%88%d8%b3%d8%a7%d8%a6%d9%84-%d8%a7%d9%84%d8%af%d9%81%d8%b9/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "producer": "Epson Scan 2",
+    "creationDate": "D:20230228155942+01'00'",
+    "modDate": "D:20230228155942+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 3,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 809,
+        "ocr_confidence": 83.37209302325581
+      },
+      {
+        "page": 2,
+        "method": "ocr",
+        "chars": 1307,
+        "ocr_confidence": 86.26363636363637
+      },
+      {
+        "page": 3,
+        "method": "ocr",
+        "chars": 446,
+        "ocr_confidence": 82.975
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 6,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine",
+    "numerotation:articles_manquants:[3]"
+  ],
+  "title_document": null,
+  "alias_urls": [],
+  "text_hash": "e82b30f383bd78b96193dcffb5b599eeaf7a779969a36cda352be4ed8650e034",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-04-08.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "ocr_numeric_check": {
+    "units": 7,
+    "units_flagged": 0,
+    "units_compared_with_french": 6,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "التعليمة رقم 08-4 المتضمنة إنشاء خلية بين البنوك لتسيير المخاطر والأزمات .",
+      "paragraphs": [
+        {
+          "text": "التعليمة رقم 08-4 المتضمنة إنشاء خلية بين البنوك لتسيير المخاطر والأزمات .",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تطبيقا للمادتين 4 و 13 من النظام رقم 07-05 المؤرخ في 28 المخاطر والأزمات» تُسمى فيما يلي \"الخلية\".\nكهدد هذه القطبية شكيلة هذه ANA‏ ومهامها كما كخند طرق Lau‏ على مستوى مركز المقاصة القبلية بين البنوك:(0.1.1)",
+      "paragraphs": [
+        {
+          "text": "تطبيقا للمادتين 4 و 13 من النظام رقم 07-05 المؤرخ في 28 المخاطر والأزمات» تُسمى فيما يلي \"الخلية\".",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "كهدد هذه القطبية شكيلة هذه ANA‏ ومهامها كما كخند طرق Lau‏ على مستوى مركز المقاصة القبلية بين البنوك:(0.1.1)",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "تتشكل الخلية» التي يرأسها المدير العام لمركز المقاصة القبلية بين البنوك «(C.P.I)‏ من الأعضاء الممثلين لكل من:\nه élu‏ الجز il‏ ؛ € جمعية البنوك والمؤسسات المالية (A.B.E.F)‏ شركة النقد الآلي والعلاقات التلقائية بين البنوك (5..3..1.1.1/1)؛ © بنك التنمبة المحلية ‘(B.D.L)‏ ه ب.ن.ب - باريباس - الجزائر B.N.P-Paribas AI Djazair‏ ؛ e‏ ناتيكسيس (Natixis)‏ الجزائر.\nالمكلفة بضمان توافر الشبكة بين البنوك التي يستعملها المشاركون في نظام المقاضة الالكترونية بين البنوك-الجزائر أتكي (4101).\nBank of Algeria The Governor Bilal‏ 3: يمكن للخلية أن تجتمع بحضور أعضائها أو عن طريق وسائل الاتصال المتوفرة. يستدعي رئيس الخلية؛ عندما تقتضي الحاجة ذلك» ممثل المشارك أو المشاركين في حالة حدوث أزمة تخصهم.\nتقوم الخلية بإعداد نظامها الداخلي الذي يحدد تنظيمها الداخلي وقواعد سيرها.\nكضمن أمانة الخلية من طرف جمعية البنوك والمؤسسات المالية (A.B.E.F)‏",
+      "paragraphs": [
+        {
+          "text": "تتشكل الخلية» التي يرأسها المدير العام لمركز المقاصة القبلية بين البنوك «(C.P.I)‏ من الأعضاء الممثلين لكل من:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ه élu‏ الجز il‏ ؛ € جمعية البنوك والمؤسسات المالية (A.B.E.F)‏ شركة النقد الآلي والعلاقات التلقائية بين البنوك (5..3..1.1.1/1)؛ © بنك التنمبة المحلية ‘(B.D.L)‏ ه ب.ن.ب - باريباس - الجزائر B.N.P-Paribas AI Djazair‏ ؛ e‏ ناتيكسيس (Natixis)‏ الجزائر.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المكلفة بضمان توافر الشبكة بين البنوك التي يستعملها المشاركون في نظام المقاضة الالكترونية بين البنوك-الجزائر أتكي (4101).",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Bank of Algeria The Governor Bilal‏ 3: يمكن للخلية أن تجتمع بحضور أعضائها أو عن طريق وسائل الاتصال المتوفرة. يستدعي رئيس الخلية؛ عندما تقتضي الحاجة ذلك» ممثل المشارك أو المشاركين في حالة حدوث أزمة تخصهم.",
+          "page_start": 1,
+          "page_end": 2
+        },
+        {
+          "text": "تقوم الخلية بإعداد نظامها الداخلي الذي يحدد تنظيمها الداخلي وقواعد سيرها.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "كضمن أمانة الخلية من طرف جمعية البنوك والمؤسسات المالية (A.B.E.F)‏",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "(fai‏ مهام الخلية» في مجال تسيير المخاطرء» في © تعريف تيبولوجية المخاطر العملياتية التي يمكن أن ترهن الأداء الجيد لنظام أتكي -ATCI-‏ وتحرير إجراءات النجدة المرتبطة بكل نوع من المخاطر ؛ ©« تحديد خطط النجدة التي يجب إطلاقها بقرار من الخلية بعد دراسة وتحليل طبيعة الحادث الذي وقع وآثاره على استمرارية خدمة نظام Si‏ = اقم € الاستعلام لدى المشاركين في a‏ أتكي -ATCI-‏ حول كل حادث وقع على مستواهم» وتقييم: أهميته واتخاذ القرزار بشبآن. إطلاق ميخطط النجدة المرتبط بالحادث الذي وقع.",
+      "paragraphs": [
+        {
+          "text": "(fai‏ مهام الخلية» في مجال تسيير المخاطرء» في © تعريف تيبولوجية المخاطر العملياتية التي يمكن أن ترهن الأداء الجيد لنظام أتكي -ATCI-‏ وتحرير إجراءات النجدة المرتبطة بكل نوع من المخاطر ؛ ©« تحديد خطط النجدة التي يجب إطلاقها بقرار من الخلية بعد دراسة وتحليل طبيعة الحادث الذي وقع وآثاره على استمرارية خدمة نظام Si‏ = اقم € الاستعلام لدى المشاركين في a‏ أتكي -ATCI-‏ حول كل حادث وقع على مستواهم» وتقييم: أهميته واتخاذ القرزار بشبآن. إطلاق ميخطط النجدة المرتبط بالحادث الذي وقع.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "تتحرك الخلية بصفتها خلية أزمة في الحالات التالية:\n« التوقف أو الاختلال المثبت لمدة تفوق دورة مقاصة كاملة تخص نظام أتكي -ATCI-‏ والحل الخاص به على مستوى النجدة الساخنة؛ ه العجز المتكرر لواحد من المشاركين أو أكثر؛ « الخلافات المسجلة بين المشاركين.",
+      "paragraphs": [
+        {
+          "text": "تتحرك الخلية بصفتها خلية أزمة في الحالات التالية:",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "« التوقف أو الاختلال المثبت لمدة تفوق دورة مقاصة كاملة تخص نظام أتكي -ATCI-‏ والحل الخاص به على مستوى النجدة الساخنة؛ ه العجز المتكرر لواحد من المشاركين أو أكثر؛ « الخلافات المسجلة بين المشاركين.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 3,
+      "text": "في حالة حدوث أزمة» تتكفل الخلية بمهمة مساعدة مركز المقاصة القيلية بين البنوك (0.2.1)) على:\n© تحديد انعكاسات الحادث الذي وقع على الحسابات وسيرورة المقاصة؛ + استعمال كل الوسائل والموارد الضرورية قصد استعادة وضعية عملياتية عادية في أقرب الآجال؛ « اختيار» عندما تقتضي الضرورة» تنفيذ حل مختزل أو متدرج (Solution réduite ou dégradée)‏ للتدفقات التي يجب توقيفها مؤقتا إن كان ذلك يساعد على استئناف سريع للعمل العادي للنظام؛ ف تعذيل» de‏ الحاجةء حسايات المقاصة A‏ عسها الحانث قبل des‏ استئناف النظام 4 | | 6 تحضيرء عند عجز مشارك أو أكثرء العناصر التي تسمح لبنك الجزائر بأخذ قرار أو قرارات تخصهم.",
+      "paragraphs": [
+        {
+          "text": "في حالة حدوث أزمة» تتكفل الخلية بمهمة مساعدة مركز المقاصة القيلية بين البنوك (0.2.1)) على:",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "© تحديد انعكاسات الحادث الذي وقع على الحسابات وسيرورة المقاصة؛ + استعمال كل الوسائل والموارد الضرورية قصد استعادة وضعية عملياتية عادية في أقرب الآجال؛ « اختيار» عندما تقتضي الضرورة» تنفيذ حل مختزل أو متدرج (Solution réduite ou dégradée)‏ للتدفقات التي يجب توقيفها مؤقتا إن كان ذلك يساعد على استئناف سريع للعمل العادي للنظام؛ ف تعذيل» de‏ الحاجةء حسايات المقاصة A‏ عسها الحانث قبل des‏ استئناف النظام 4 | | 6 تحضيرء عند عجز مشارك أو أكثرء العناصر التي تسمح لبنك الجزائر بأخذ قرار أو قرارات تخصهم.",
+          "page_start": 2,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "تدخل هذه التعليمة حيز التطبيق اعتبارا من تاريخ التوقيع عليها.\nحرر بالجزائر» في 25 مارس 2008",
+      "paragraphs": [
+        {
+          "text": "تدخل هذه التعليمة حيز التطبيق اعتبارا من تاريخ التوقيع عليها.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "حرر بالجزائر» في 25 مارس 2008",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine",
+      "numerotation:articles_manquants:[3]"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.068,
+      "ocr_pages": [
+        1,
+        2,
+        3
+      ],
+      "ocr_mean_confidence": 84.2
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/INS-04-08.ar.txt"
+}

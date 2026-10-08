@@ -1,0 +1,650 @@
+{
+  "document_id": "REG-05-07.fr",
+  "work_id": "REG-05-07",
+  "title": "Règlement n°2005-07 du 28 décembre 2005 portant sur la sécurité des systèmes de paiement.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "2005-07",
+  "number_source": "en-tête du document",
+  "date": "2005-12-28",
+  "date_raw": "N°2005-07 DU 28 DECEMBRE 2005",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Sécurité des systèmes de paiement",
+  "source_url": "https://www.bank-of-algeria.dz/systemes-de-paiement-reglement/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement200507.pdf",
+  "format": "pdf",
+  "file_hash": "dff04f8393677a5e7b6d8ae10502e438460dc83ad5a4df82ed568742798981af",
+  "file_size": 84513,
+  "raw_path": "raw/dff04f839367__reglement200507.pdf",
+  "retrieved_at": "2026-10-05T13:22:30+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 3,
+  "url_hash": "648dd9014670df0bfcb1ab4fe98a2bee705ca93ed0f4a3d893bd22f4b1e8f2de",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/reglement-2005/",
+    "https://www.bank-of-algeria.dz/systemes-de-paiement-reglement/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document20",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210214164304+01'00'",
+    "modDate": "D:20210214164304+01'00'"
+  },
+  "hijri_date_raw": "27 Joumada Ethania 1424",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 3,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 3071,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 3317,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 620,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 14,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "REGLEMENT N°2005-07 DU 28 DECEMBRE 2005 PORTANT SUR LA SECURITE DES SYSTEMES DE PAIEMENT",
+  "alias_urls": [],
+  "text_hash": "c7ed7be5a7bd999ec9f16cadc54960143b9be97f3e8662a6a2821aff1bd6788e",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-05-07.ar"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°2005-07 DU 28 DECEMBRE 2005 PORTANT\nSUR LA SECURITE DES SYSTEMES DE PAIEMENT\nLe Gouverneur de la Banque d’Algérie,\n- Vu l’ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003 relative à la monnaie et au crédit, notamment son article 56 ;\n- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 2 juin 2001 portant nomination du Gouverneur et des Vice-Gouverneurs de la Banque d’Algérie ;\n- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 2 juin 2001 portant nomination des membres du Conseil d’administration de la Banque d’Algérie ;\n- Vu le règlement n°05-04 du 10 Ramadhan 1426 correspondant au 13 octobre 2005 portant sur le système de règlements bruts en temps réel de gros montants et paiements urgents ;\n- Vu le règlement n°05-06 du 13 Dhou El Kaada 1426 correspondant au 15 décembre 2005 portant sur la compensation des chèques et autres instruments de paiements de masse ;\n- Vu les délibérations du Conseil de la monnaie et du crédit en date du 28 décembre 2005 ;\nPromulgue le règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°2005-07 DU 28 DECEMBRE 2005 PORTANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "SUR LA SECURITE DES SYSTEMES DE PAIEMENT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d’Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003 relative à la monnaie et au crédit, notamment son article 56 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 2 juin 2001 portant nomination du Gouverneur et des Vice-Gouverneurs de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 2 juin 2001 portant nomination des membres du Conseil d’administration de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n°05-04 du 10 Ramadhan 1426 correspondant au 13 octobre 2005 portant sur le système de règlements bruts en temps réel de gros montants et paiements urgents ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n°05-06 du 13 Dhou El Kaada 1426 correspondant au 15 décembre 2005 portant sur la compensation des chèques et autres instruments de paiements de masse ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu les délibérations du Conseil de la monnaie et du crédit en date du 28 décembre 2005 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le présent règlement a pour objet de définir les systèmes de paiement et le dispositif de sécurité y afférent.",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement a pour objet de définir les systèmes de paiement et le dispositif de sécurité y afférent.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Un système interbancaire de paiement ou de règlement et de livraison d’instruments financiers s’entend comme une procédure nationale ou internationale organisant les relations entre deux parties au moins, ayant la qualité de banque, d’établissement financier, d’institution financière spécialisée ou d’entreprise adhérant à une chambre de compensation ou d’établissement non résident ayant un statut comparable, permettant l’exécution, à titre habituel, par compensation ou non, de paiements ainsi que, en ce qui concerne les systèmes de règlement et de livraison d’instruments financiers, la livraison de titres entre lesdits participants.",
+      "paragraphs": [
+        {
+          "text": "Un système interbancaire de paiement ou de règlement et de livraison d’instruments financiers s’entend comme une procédure nationale ou internationale organisant les relations entre deux parties au moins, ayant la qualité de banque, d’établissement financier, d’institution financière spécialisée ou d’entreprise adhérant à une chambre de compensation ou d’établissement non résident ayant un statut comparable, permettant l’exécution, à titre habituel, par compensation ou non, de paiements ainsi que, en ce qui concerne les systèmes de règlement et de livraison d’instruments financiers, la livraison de titres entre lesdits participants.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les gestionnaires et les participants aux systèmes de paiement sont tenus de mettre en place, chacun en ce qui le concerne, les dispositifs de sécurité répondant aux standards internationaux en la matière.",
+      "paragraphs": [
+        {
+          "text": "Les gestionnaires et les participants aux systèmes de paiement sont tenus de mettre en place, chacun en ce qui le concerne, les dispositifs de sécurité répondant aux standards internationaux en la matière.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La sécurité des systèmes de paiement comprend la sécurité de l’infrastructure des systèmes de paiement et la sécurité des moyens de paiement.\nL’infrastructure des systèmes de paiement comprend les composantes de systèmes centraux de production et de secours et les composantes des différents équipements techniques à savoir matériels et logiciels installés chez les participants agréés ainsi que la fiabilité opérationnelle des services d’infrastructure desquels ces systèmes dépendent, notamment, les télécommunications et l’énergie électrique.\nLa responsabilité de la mise en place des dispositifs de sécurité des systèmes de paiement incombe à leurs gestionnaires et aux participants à ces systèmes. La Banque d’Algérie veille au bon fonctionnement et à la sécurité de ces systèmes.",
+      "paragraphs": [
+        {
+          "text": "La sécurité des systèmes de paiement comprend la sécurité de l’infrastructure des systèmes de paiement et la sécurité des moyens de paiement.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L’infrastructure des systèmes de paiement comprend les composantes de systèmes centraux de production et de secours et les composantes des différents équipements techniques à savoir matériels et logiciels installés chez les participants agréés ainsi que la fiabilité opérationnelle des services d’infrastructure desquels ces systèmes dépendent, notamment, les télécommunications et l’énergie électrique.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La responsabilité de la mise en place des dispositifs de sécurité des systèmes de paiement incombe à leurs gestionnaires et aux participants à ces systèmes. La Banque d’Algérie veille au bon fonctionnement et à la sécurité de ces systèmes.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "La sécurité de l’infrastructure des systèmes de paiement inclut, notamment :\nBANK OF ALGERIA\n- la disponibilité des systèmes ;\n- l’intégrité des données échangées ;\n- la traçabilité des données échangées ;\n- la confidentialité ;\n- l’auditabilité.\nLa sécurité des systèmes de paiement s’entend également de l’affectation d’un personnel qualifié et compétent aux opérations de paiement.",
+      "paragraphs": [
+        {
+          "text": "La sécurité de l’infrastructure des systèmes de paiement inclut, notamment :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- la disponibilité des systèmes ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- l’intégrité des données échangées ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- la traçabilité des données échangées ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- la confidentialité ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- l’auditabilité.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "La sécurité des systèmes de paiement s’entend également de l’affectation d’un personnel qualifié et compétent aux opérations de paiement.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les participants aux systèmes de paiement sont tenus de mettre en place des dispositifs de secours distants (back-up) et des ressources humaines en adéquation, en vue d’assurer la continuité de l’exploitation face à des sinistres majeurs empêchant le fonctionnement normal des installations principales.",
+      "paragraphs": [
+        {
+          "text": "Les participants aux systèmes de paiement sont tenus de mettre en place des dispositifs de secours distants (back-up) et des ressources humaines en adéquation, en vue d’assurer la continuité de l’exploitation face à des sinistres majeurs empêchant le fonctionnement normal des installations principales.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Pour assurer l’intégrité à savoir la non altération des composantes techniques des systèmes de paiement tous les participants aux systèmes de paiement doivent définir et mettre en œuvre un ensemble de solutions cohérentes définies sur une base commune concernant la sécurité physique, la sécurité logique et le suivi de bout en bout des données.\nLes chartes de sécurité élaborées par les gestionnaires des systèmes de paiement doivent être adoptées par l’ensemble des participants concernés.",
+      "paragraphs": [
+        {
+          "text": "Pour assurer l’intégrité à savoir la non altération des composantes techniques des systèmes de paiement tous les participants aux systèmes de paiement doivent définir et mettre en œuvre un ensemble de solutions cohérentes définies sur une base commune concernant la sécurité physique, la sécurité logique et le suivi de bout en bout des données.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Les chartes de sécurité élaborées par les gestionnaires des systèmes de paiement doivent être adoptées par l’ensemble des participants concernés.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Un tracé généralisé implanté à toutes les phases d’échange des ordres de paiement doit être assuré pour tous les systèmes de paiement. Il s’agit d’assurer la traçabilité et les pistes d’audit qui permettent de vérifier le bon fonctionnement des systèmes de paiement et de solutionner, le cas échéant, tout litige y afférent entre les participants.",
+      "paragraphs": [
+        {
+          "text": "Un tracé généralisé implanté à toutes les phases d’échange des ordres de paiement doit être assuré pour tous les systèmes de paiement. Il s’agit d’assurer la traçabilité et les pistes d’audit qui permettent de vérifier le bon fonctionnement des systèmes de paiement et de solutionner, le cas échéant, tout litige y afférent entre les participants.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "L’échange dématérialisé des instruments de paiement requiert leur présentation logique dans les systèmes de paiement, notamment, leur codification et leur structure normalisée.\nLes participants sont tenus au respect absolu des dispositions conventionnelles liées aux différents systèmes de paiement et des spécifications et prescriptions portant sur l’utilisation de ces systèmes.",
+      "paragraphs": [
+        {
+          "text": "L’échange dématérialisé des instruments de paiement requiert leur présentation logique dans les systèmes de paiement, notamment, leur codification et leur structure normalisée.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Les participants sont tenus au respect absolu des dispositions conventionnelles liées aux différents systèmes de paiement et des spécifications et prescriptions portant sur l’utilisation de ces systèmes.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les participants aux systèmes de paiement doivent assurer la confidentialité et l’intégrité des informations qui transitent par les systèmes de paiement.",
+      "paragraphs": [
+        {
+          "text": "Les participants aux systèmes de paiement doivent assurer la confidentialité et l’intégrité des informations qui transitent par les systèmes de paiement.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Conformément aux dispositions de l’article 56 de l’Ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, susvisée, la Banque d’Algérie est chargée de veiller au bon fonctionnement et à la sécurité des systèmes de paiement.\nDans le cadre de ses missions, et sans préjudice des compétences de l’autorité de surveillance des marchés financiers et de la commission bancaire, la Banque d’Algérie veille à la sécurité des systèmes de compensation, de règlement et de livraison des instruments financiers.",
+      "paragraphs": [
+        {
+          "text": "Conformément aux dispositions de l’article 56 de l’Ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, susvisée, la Banque d’Algérie est chargée de veiller au bon fonctionnement et à la sécurité des systèmes de paiement.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Dans le cadre de ses missions, et sans préjudice des compétences de l’autorité de surveillance des marchés financiers et de la commission bancaire, la Banque d’Algérie veille à la sécurité des systèmes de compensation, de règlement et de livraison des instruments financiers.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 3,
+      "text": "La Banque d’Algérie veille à la sécurité physique et logique de l’infrastructure des systèmes de paiement et s’assure de la sécurité des moyens de paiement autres que la monnaie fiduciaire et du respect des normes applicables en la matière.\nSi la Banque d’Algérie estime qu’un moyen de paiement ne présente pas des garanties de sécurité suffisantes, elle peut demander à l’émetteur de prendre des mesures appropriées pour y remédier. Dans le cas où ces recommandations ne sont pas mises en application, elle peut, après avis de l’autorité de supervision, décider de suspendre l’admission de l’instrument de paiement concerné dans le système.\nLa Banque d’Algérie s’assure, en particulier, de la sécurité des cartes de paiement, du suivi des mesures de sécurisation entreprises par les émetteurs et commerçants, du suivi des statistiques de fraudes et des évolutions d’ordre technologique pouvant porter atteinte à la sécurité des cartes de paiement.",
+      "paragraphs": [
+        {
+          "text": "La Banque d’Algérie veille à la sécurité physique et logique de l’infrastructure des systèmes de paiement et s’assure de la sécurité des moyens de paiement autres que la monnaie fiduciaire et du respect des normes applicables en la matière.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Si la Banque d’Algérie estime qu’un moyen de paiement ne présente pas des garanties de sécurité suffisantes, elle peut demander à l’émetteur de prendre des mesures appropriées pour y remédier. Dans le cas où ces recommandations ne sont pas mises en application, elle peut, après avis de l’autorité de supervision, décider de suspendre l’admission de l’instrument de paiement concerné dans le système.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "La Banque d’Algérie s’assure, en particulier, de la sécurité des cartes de paiement, du suivi des mesures de sécurisation entreprises par les émetteurs et commerçants, du suivi des statistiques de fraudes et des évolutions d’ordre technologique pouvant porter atteinte à la sécurité des cartes de paiement.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Les modalités d’application du présent règlement seront fixées, en tant que de besoin, par instruction de la Banque d’Algérie.",
+      "paragraphs": [
+        {
+          "text": "Les modalités d’application du présent règlement seront fixées, en tant que de besoin, par instruction de la Banque d’Algérie.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Le présent règlement sera publié au Journal officiel de la République algérienne démocratique et populaire.\nLe Gouverneur\nMohammed LAKSACI",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement sera publié au Journal officiel de la République algérienne démocratique et populaire.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.029
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-05-07.fr.txt"
+}

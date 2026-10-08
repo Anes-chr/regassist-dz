@@ -1,0 +1,278 @@
+{
+  "document_id": "INS-07-01.fr",
+  "work_id": "INS-07-01",
+  "title": "Instruction n°07-2001 du 6 décembre 2001 modifiant et complétant l’instruction n°20-94 du 12 avril 1994 fixant les conditions financières des opérations d’importation.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "07-2001",
+  "number_source": "en-tête du document",
+  "date": "2001-12-06",
+  "date_raw": "N°07-2001 DU 6 DECEMBRE 2001",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Règlementation des changes",
+  "source_url": "https://www.bank-of-algeria.dz/importations-exportations-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction072001.pdf",
+  "format": "pdf",
+  "file_hash": "3ed046f756301a3a53e57bb35e1d0ec88178e7e0e7d6635fada9d325e50d82ec",
+  "file_size": 37436,
+  "raw_path": "raw/3ed046f75630__instruction072001.pdf",
+  "retrieved_at": "2026-10-05T13:21:41+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "59cc23db7046bc4b6ae1a5ecd49e9e22b7a0fdd1e7f33fdf19ab2efba422e9b9",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-2001/",
+    "https://www.bank-of-algeria.dz/importations-exportations-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Microsoft Word - instruction072001",
+    "author": "chahra.yahiaoui",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "creationDate": "D:20210228150624+01'00'",
+    "modDate": "D:20210228150624+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 519,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 2,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°07-2001 DU 6 DECEMBRE 2001 MODIFIANT ET COMPLETANT L'INSTRUCTION N°20-94 FIXANT LES CONDITIONS FINANCIERES DES OPERATIONS D'IMPORTATION",
+  "alias_urls": [],
+  "text_hash": "b547ca83a20997e94be9c60c0586b3ef3ac0944a2e8f5e00db1f94d6986f541c",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "20-94",
+        "date": "1994-04-12",
+        "raw": "instruction n°20-94 du 12 avril 1994"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°07-2001 du 6 décembre 2001 modifiant et complétant l’instruction n°20-94 du 12 avril 1994 fixant les conditions financières des o"
+      },
+      "target_work_id": "INS-20-94"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "20-94",
+        "date": "1994-04-12",
+        "raw": "instruction n°20-94 du 12 avril 1994"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°07-2001 du 6 décembre 2001 modifiant et complétant l’instruction n°20-94 du 12 avril 1994 fixant les conditions financières des o"
+      },
+      "target_work_id": "INS-20-94"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-20-94",
+      "reference": "instruction n°20-94 du 12 avril 1994",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°07-2001 du 6 décembre 2001 modifiant et complétant l’instruction n°20-94 du 12 avril 1994 fixant les conditions financières des o"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "INS-20-94",
+      "reference": "instruction n°20-94 du 12 avril 1994",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°07-2001 du 6 décembre 2001 modifiant et complétant l’instruction n°20-94 du 12 avril 1994 fixant les conditions financières des o"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "INS-20-94",
+      "reference": "instruction n°20-94 du 12 avril 1994",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°07-2001 du 6 décembre 2001 modifiant et complétant l’instruction n°20-94 du 12 avril 1994 fixant les conditions financières des o"
+      }
+    }
+  ],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°07-2001 DU 6 DECEMBRE 2001 MODIFIANT\nET COMPLETANT L'INSTRUCTION N°20-94 FIXANT\nLES CONDITIONS FINANCIERES DES OPERATIONS D'IMPORTATION",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°07-2001 DU 6 DECEMBRE 2001 MODIFIANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET COMPLETANT L'INSTRUCTION N°20-94 FIXANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "LES CONDITIONS FINANCIERES DES OPERATIONS D'IMPORTATION",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les domiciliations pour importation de biens par débit de comptes devises \"personnes physiques\" ne sont pas autorisées, à l'exception des importations des véhicules de tourisme par les particuliers.",
+      "paragraphs": [
+        {
+          "text": "Les domiciliations pour importation de biens par débit de comptes devises \"personnes physiques\" ne sont pas autorisées, à l'exception des importations des véhicules de tourisme par les particuliers.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction entre en vigueur à compter de la date de sa signature.\nLe Gouverneur\nMohammed LAKSACI\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "La présente instruction entre en vigueur à compter de la date de sa signature.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.033
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-07-01.fr.txt"
+}

@@ -1,0 +1,569 @@
+{
+  "document_id": "REG-02-05.fr",
+  "work_id": "REG-02-05",
+  "title": "Règlement n°2002-05 du 31 décembre 2002 modifiant et complétant le règlement n°97-02 du 06 avril 1997 relatif aux conditions d’implantation du réseau des banques et établissements financiers.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "2002-05",
+  "number_source": "en-tête du document",
+  "date": "2002-12-31",
+  "date_raw": "n°2002-05 du 31 décembre 2002",
+  "date_source": "libelle",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Conditions de constitution et d'installation de banques, d'établissements financiers de PSP et capital minimum",
+  "source_url": "https://www.bank-of-algeria.dz/importations-exportations-reglement/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement200205.pdf",
+  "format": "pdf",
+  "file_hash": "b12421df04f1eb17b04b663762b0e9f55c343b65c4942eb8be8ba61df905bd38",
+  "file_size": 67723,
+  "raw_path": "raw/b12421df04f1__reglement200205.pdf",
+  "retrieved_at": "2026-10-05T13:22:22+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "aff4b3b37857eea1790226d8252c85f73d9ac71cac368df2b9826e9eb3e63260",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%D8%A7%D9%84%D8%A8%D9%86%D9%83/",
+    "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d8%a8%d9%86%d9%83/",
+    "https://www.bank-of-algeria.dz/banques-reglement/",
+    "https://www.bank-of-algeria.dz/importations-exportations-reglement/",
+    "https://www.bank-of-algeria.dz/reglement-2003/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document20",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210216121011+01'00'",
+    "modDate": "D:20210216121011+01'00'"
+  },
+  "hijri_date_raw": "10 Rabie El Aouel 1422",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2721,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 1160,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 6,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "REGLEMENT N°2002-05 MODIFIANT ET COMPLETANT LE REGLEMENT N° 97-02 DU 06 AVRIL 1997 RELATIF AUX CONDITIONS D'IMPLANTATION DU RESEAU DES BANQUES ET ETABLISSEMENTS FINANCIERS",
+  "alias_urls": [],
+  "text_hash": "037cdb9e5c09241d7a59ec4d356d208f6d161abc9209256a23a1b89a90169d5a",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "97-02",
+        "date": "1997-04-06",
+        "raw": "règlement n°97-02 du 06 avril 1997"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2002-05 du 31 décembre 2002 modifiant et complétant le règlement n°97-02 du 06 avril 1997 relatif aux conditions d’implantation d"
+      },
+      "target_work_id": "REG-97-02"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "97-02",
+        "date": "1997-04-06",
+        "raw": "règlement n°97-02 du 06 avril 1997"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2002-05 du 31 décembre 2002 modifiant et complétant le règlement n°97-02 du 06 avril 1997 relatif aux conditions d’implantation d"
+      },
+      "target_work_id": "REG-97-02"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "97-02",
+        "date": "1997-04-06",
+        "raw": "Règlement n° 97-02 du 06 Avril 1997"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le Règlement n° 97-02 du 06 Avril 1997 relatif aux conditions d'implantation d"
+      },
+      "target_work_id": "REG-97-02"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "97-02",
+        "date": "1997-04-06",
+        "raw": "Règlement n° 97-02 du 06 Avril 1997"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le Règlement n° 97-02 du 06 Avril 1997 relatif aux conditions d'implantation d"
+      },
+      "target_work_id": "REG-97-02"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "REG-97-02",
+      "reference": "règlement n°97-02 du 06 avril 1997",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2002-05 du 31 décembre 2002 modifiant et complétant le règlement n°97-02 du 06 avril 1997 relatif aux conditions d’implantation d"
+      }
+    },
+    {
+      "work_id": "REG-97-02",
+      "reference": "Règlement n° 97-02 du 06 Avril 1997",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le Règlement n° 97-02 du 06 Avril 1997 relatif aux conditions d'implantation d"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "REG-97-02",
+      "reference": "règlement n°97-02 du 06 avril 1997",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2002-05 du 31 décembre 2002 modifiant et complétant le règlement n°97-02 du 06 avril 1997 relatif aux conditions d’implantation d"
+      }
+    },
+    {
+      "work_id": "REG-97-02",
+      "reference": "Règlement n° 97-02 du 06 Avril 1997",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le Règlement n° 97-02 du 06 Avril 1997 relatif aux conditions d'implantation d"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-02-05.ar"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "REG-97-02",
+      "reference": "règlement n°97-02 du 06 avril 1997",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2002-05 du 31 décembre 2002 modifiant et complétant le règlement n°97-02 du 06 avril 1997 relatif aux conditions d’implantation d"
+      }
+    },
+    {
+      "work_id": "REG-97-02",
+      "reference": "Règlement n° 97-02 du 06 Avril 1997",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le Règlement n° 97-02 du 06 Avril 1997 relatif aux conditions d'implantation d"
+      }
+    }
+  ],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°2002-05 MODIFIANT ET COMPLETANT\nLE REGLEMENT N° 97-02 DU 06 AVRIL 1997 RELATIF\nAUX CONDITIONS D'IMPLANTATION DU RESEAU DES BANQUES\nET ETABLISSEMENTS FINANCIERS\nLe Gouverneur de la Banque d'Algérie,\n- Vu la Loi n°90-10 du 14 avril 1990 relative à la monnaie et au crédit modifiée et complétée, notamment ses articles 43 bis, 44, 47 ;\n- Vu le Décret Présidentiel du 10 Rabie El Aouel 1422 correspondant au 02 juin 2001 portant nomination du Gouverneur et Vice-Gouverneurs de la Banque d'Algérie ;\n- Vu le Décret Présidentiel du 10 Rabie El Aouel 1422 correspondant au 02 juin 2001 portant nomination des Membres du Conseil d'Administration de la Banque d'Algérie ;\n- Vu le Décret Présidentiel du 10 Rabie El Aouel 1422 correspondant au 02 juin 2001 portant nomination des Membres du Conseil de la Monnaie et du Crédit ;\n- Vu le règlement n°92-05 du 22 mars 1992 concernant les conditions que doivent remplir les fondateurs, dirigeants et représentants des banques et établissements financiers ;\n- Vu le règlement n°93-01 du 3 janvier 1993 fixant les conditions de constitution de banque et établissement financier et d'installation de succursale de banque et d'établissement financier étranger ;\n- Vu le règlement n°97-02 du 06 avril 1997 relatif aux conditions d'implantation du réseau des banques et des établissements financiers ;\n- Vu les délibérations du Conseil de la Monnaie et du Crédit en date du 19 Décembre 2002 ;\nPromulgue le Règlement dont la teneur suit,",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°2002-05 MODIFIANT ET COMPLETANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "LE REGLEMENT N° 97-02 DU 06 AVRIL 1997 RELATIF",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AUX CONDITIONS D'IMPLANTATION DU RESEAU DES BANQUES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET ETABLISSEMENTS FINANCIERS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d'Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la Loi n°90-10 du 14 avril 1990 relative à la monnaie et au crédit modifiée et complétée, notamment ses articles 43 bis, 44, 47 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 10 Rabie El Aouel 1422 correspondant au 02 juin 2001 portant nomination du Gouverneur et Vice-Gouverneurs de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 10 Rabie El Aouel 1422 correspondant au 02 juin 2001 portant nomination des Membres du Conseil d'Administration de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 10 Rabie El Aouel 1422 correspondant au 02 juin 2001 portant nomination des Membres du Conseil de la Monnaie et du Crédit ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n°92-05 du 22 mars 1992 concernant les conditions que doivent remplir les fondateurs, dirigeants et représentants des banques et établissements financiers ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n°93-01 du 3 janvier 1993 fixant les conditions de constitution de banque et établissement financier et d'installation de succursale de banque et d'établissement financier étranger ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n°97-02 du 06 avril 1997 relatif aux conditions d'implantation du réseau des banques et des établissements financiers ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu les délibérations du Conseil de la Monnaie et du Crédit en date du 19 Décembre 2002 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le Règlement dont la teneur suit,",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le présent Règlement a pour objet de modifier et de compléter le\nRèglement n° 97-02 du 06 Avril 1997 relatif aux conditions d'implantation du réseau des banques et établissements financiers.",
+      "paragraphs": [
+        {
+          "text": "Le présent Règlement a pour objet de modifier et de compléter le",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Règlement n° 97-02 du 06 Avril 1997 relatif aux conditions d'implantation du réseau des banques et établissements financiers.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les dispositions de l'article 2 du Règlement n°97-02 du 06 Avril 1997 susvisé sont modifiées et rédigées comme suit :\n« Article 2 : L'ouverture de tout nouveau guichet est subordonnée à l'autorisation expresse et préalable de la Banque d'Algérie.\nCette autorisation est donnée sur la base d'un dossier relatif à chaque guichet et remis en appui du programme annuel de développement du réseau des banques et établissements financiers apprécié, notamment, sur la base des capacités financières et managériales du demandeur.\nLes éléments constitutifs du dossier sus visé seront déterminés par voie d'Instruction de la Banque d'Algérie.\nLes banques et établissements financiers sont tenus de déclarer à la Banque d'Algérie, tout projet de transformation, de transfert ou de fermeture de guichets ».",
+      "paragraphs": [
+        {
+          "text": "Les dispositions de l'article 2 du Règlement n°97-02 du 06 Avril 1997 susvisé sont modifiées et rédigées comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "« Article 2 : L'ouverture de tout nouveau guichet est subordonnée à l'autorisation expresse et préalable de la Banque d'Algérie.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Cette autorisation est donnée sur la base d'un dossier relatif à chaque guichet et remis en appui du programme annuel de développement du réseau des banques et établissements financiers apprécié, notamment, sur la base des capacités financières et managériales du demandeur.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les éléments constitutifs du dossier sus visé seront déterminés par voie d'Instruction de la Banque d'Algérie.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les banques et établissements financiers sont tenus de déclarer à la Banque d'Algérie, tout projet de transformation, de transfert ou de fermeture de guichets ».",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "Les dispositions de l'article 3 du règlement n°97-02 du 06 Avril 1997 susvisé sont modifiées et rédigées comme suit :\nBANK OF ALGERIA\n« Article 3 : A compter de la date de la promulgation du présent Règlement, toute demande d'autorisation d'ouverture de guichet de banque ou d'établissement financier doit être adressée à la Banque d'Algérie au moins deux (02) mois avant la date prévue de mise en œuvre du programme annuel de développement ».",
+      "paragraphs": [
+        {
+          "text": "Les dispositions de l'article 3 du règlement n°97-02 du 06 Avril 1997 susvisé sont modifiées et rédigées comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "« Article 3 : A compter de la date de la promulgation du présent Règlement, toute demande d'autorisation d'ouverture de guichet de banque ou d'établissement financier doit être adressée à la Banque d'Algérie au moins deux (02) mois avant la date prévue de mise en œuvre du programme annuel de développement ».",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les dispositions de l'article 7 du règlement n°97-02 du 06 Avril 1997 susvisé sont modifiées et rédigées comme suit :\n« Article 7 : Par ouverture il faut entendre l'installation nouvelle d'un guichet.\nLa demande d'autorisation d'ouverture de guichet de banque ou d'établissement financier doit faire apparaître notamment …… le reste sans changement ».",
+      "paragraphs": [
+        {
+          "text": "Les dispositions de l'article 7 du règlement n°97-02 du 06 Avril 1997 susvisé sont modifiées et rédigées comme suit :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "« Article 7 : Par ouverture il faut entendre l'installation nouvelle d'un guichet.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "La demande d'autorisation d'ouverture de guichet de banque ou d'établissement financier doit faire apparaître notamment …… le reste sans changement ».",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les dispositions de l'article 12 du Règlement n°97-02 du 06 Avril 1997 susvisé sont modifiées et rédigées comme suit :\n« Article 12 : La Banque d'Algérie devra veiller au respect des conditions d'implantation visées aux articles 7 et 8 ci-dessus ».\n……le reste sans changement.",
+      "paragraphs": [
+        {
+          "text": "Les dispositions de l'article 12 du Règlement n°97-02 du 06 Avril 1997 susvisé sont modifiées et rédigées comme suit :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "« Article 12 : La Banque d'Algérie devra veiller au respect des conditions d'implantation visées aux articles 7 et 8 ci-dessus ».",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "……le reste sans changement.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le présent Règlement sera publié au Journal Officiel de la République\nAlgérienne Démocratique et Populaire.\nLe Gouverneur\nMohammed LAKSACI",
+      "paragraphs": [
+        {
+          "text": "Le présent Règlement sera publié au Journal Officiel de la République",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Algérienne Démocratique et Populaire.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.039
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-02-05.fr.txt"
+}

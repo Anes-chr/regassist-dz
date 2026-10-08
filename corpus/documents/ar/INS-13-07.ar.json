@@ -1,0 +1,391 @@
+{
+  "document_id": "INS-13-07.ar",
+  "work_id": "INS-13-07",
+  "title": "تعليمة رقم 13-2007 المؤرخة في 24 ديسمبر 2007، المعدلة للتعليمة رقم 02-2004، المتعلقة بنظام الاحتياطات الإجبارية.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "13-2007",
+  "number_source": "libelle",
+  "date": "2007-12-24",
+  "date_raw": "المؤرخة في 24 ديسمبر 2007",
+  "date_source": "libelle",
+  "publication_date": "2023-03-02",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "instructions",
+  "subcategory": "أدوات السياسة النقدية",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a3%d8%af%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d9%86%d9%82%d8%af%d9%8a%d8%a9/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/03/07-13.pdf",
+  "format": "pdf",
+  "file_hash": "c80d93d1040c4a12eacf355f918be099837c0e5c791ee158b5cf0400b77767a6",
+  "file_size": 184564,
+  "raw_path": "raw/c80d93d1040c__07-13.pdf",
+  "retrieved_at": "2026-10-05T13:29:47+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 1,
+  "url_hash": "db80c3cd90521a5007e2c205222a6192c38645e092e6857201247519d9660966",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%a3%d8%af%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d9%86%d9%82%d8%af%d9%8a%d8%a9/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "producer": "Epson Scan 2",
+    "creationDate": "D:20230228154527+01'00'",
+    "modDate": "D:20230228154527+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 555,
+        "ocr_confidence": 81.90196078431373
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 1,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine"
+  ],
+  "title_document": null,
+  "alias_urls": [],
+  "text_hash": "8fa2d7cb3a493e656fbc34b8d2f63bd1eef46786d362407c7eaae56e7d6f6195",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-2004",
+        "date": "2004-05-13",
+        "raw": "instruction n°02-2004 du 13 mai 2004"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°13-2007 du 24 décembre 2007 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat",
+        "copied_from": "INS-13-07.fr"
+      },
+      "target_work_id": "INS-02-04"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-2004",
+        "date": "2004-05-13",
+        "raw": "instruction n°02-2004 du 13 mai 2004"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°13-2007 du 24 décembre 2007 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat",
+        "copied_from": "INS-13-07.fr"
+      },
+      "target_work_id": "INS-02-04"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-04",
+        "date": "2004-05-13",
+        "raw": "instruction n°02-04 du 13 mai 2004"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l’instruction n°02-04 du 13 mai 2004 relative au régime des réserves obligat",
+        "copied_from": "INS-13-07.fr"
+      },
+      "target_work_id": "INS-02-04"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-04",
+        "date": "2004-05-13",
+        "raw": "instruction n°02-04 du 13 mai 2004"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l’instruction n°02-04 du 13 mai 2004 relative au régime des réserves obligat",
+        "copied_from": "INS-13-07.fr"
+      },
+      "target_work_id": "INS-02-04"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-02-04",
+      "reference": "instruction n°02-2004 du 13 mai 2004",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°13-2007 du 24 décembre 2007 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat",
+        "copied_from": "INS-13-07.fr"
+      }
+    },
+    {
+      "work_id": "INS-02-04",
+      "reference": "instruction n°02-04 du 13 mai 2004",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l’instruction n°02-04 du 13 mai 2004 relative au régime des réserves obligat",
+        "copied_from": "INS-13-07.fr"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "INS-02-04",
+      "reference": "instruction n°02-2004 du 13 mai 2004",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°13-2007 du 24 décembre 2007 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat",
+        "copied_from": "INS-13-07.fr"
+      }
+    },
+    {
+      "work_id": "INS-02-04",
+      "reference": "instruction n°02-04 du 13 mai 2004",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l’instruction n°02-04 du 13 mai 2004 relative au régime des réserves obligat",
+        "copied_from": "INS-13-07.fr"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [
+    {
+      "work_id": "INS-04-10",
+      "document_id": "INS-04-10.fr",
+      "date": "2010-12-15",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions de l'instruction n° 13-07 Elle prend effet à compter du 15 décemb"
+      }
+    }
+  ],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [
+    {
+      "work_id": "INS-04-10",
+      "document_id": "INS-04-10.fr",
+      "date": "2010-12-15",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions de l'instruction n° 13-07 Elle prend effet à compter du 15 décemb"
+      }
+    }
+  ],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "INS-04-10",
+      "document_id": "INS-04-10.fr",
+      "date": "2010-12-15",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions de l'instruction n° 13-07 Elle prend effet à compter du 15 décemb"
+      }
+    },
+    {
+      "work_id": "INS-04-10",
+      "document_id": "INS-04-10.fr",
+      "date": "2010-12-15",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions de l'instruction n° 13-07 Elle prend effet à compter du 15 décemb"
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [
+    "INS-13-07.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [
+    {
+      "work_id": "INS-04-10",
+      "document_id": "INS-04-10.fr",
+      "date": "2010-12-15",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions de l'instruction n° 13-07 Elle prend effet à compter du 15 décemb"
+      }
+    }
+  ],
+  "remplacé_par": [
+    {
+      "work_id": "INS-04-10",
+      "document_id": "INS-04-10.fr",
+      "date": "2010-12-15",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions de l'instruction n° 13-07 Elle prend effet à compter du 15 décemb"
+      }
+    }
+  ],
+  "complète": [
+    {
+      "work_id": "INS-02-04",
+      "reference": "instruction n°02-2004 du 13 mai 2004",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°13-2007 du 24 décembre 2007 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat",
+        "copied_from": "INS-13-07.fr"
+      }
+    },
+    {
+      "work_id": "INS-02-04",
+      "reference": "instruction n°02-04 du 13 mai 2004",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l’instruction n°02-04 du 13 mai 2004 relative au régime des réserves obligat",
+        "copied_from": "INS-13-07.fr"
+      }
+    }
+  ],
+  "ocr_numeric_check": {
+    "units": 2,
+    "units_flagged": 0,
+    "units_compared_with_french": 1,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "| التعليمة رقم 07-13 MS 3 Jui‏ التعليمة رقم 02- -004 0202 المتعلقة بنظام الاحتياطي الإلزامي ٌْ",
+      "paragraphs": [
+        {
+          "text": "| التعليمة رقم 07-13 MS 3 Jui‏ التعليمة رقم 02- -004 0202 المتعلقة بنظام الاحتياطي الإلزامي ٌْ",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "ئ: تهدف هذه التعليمة الى تعديل و إتمام التعليمة رقم 04-02 المؤرخة في 13 ماي 2004 و المتعلقة بنظام. الاحتياطي الإلزامي. | .| المادة 02: تعدل المادة 3 من التعليمة رقم 04-02 المؤرخة في 13 ماي 2004 و É‏ | المتعلقة بنظام الاحتياطي الإلزامي و تحرر على النحو التالي:\nا 'المادة 3: يحدد معدل الاحتياطي الإلزامي ب8 % من قاعدة الاحتياطي الإلزامي ل المادة 03: تدخل هذه التعليمة حيز التنفيذ اعتبارا من التاريخ 15 جانفي 2008.\nBank of Algeria fi The Governor | 3",
+      "paragraphs": [
+        {
+          "text": "ئ: تهدف هذه التعليمة الى تعديل و إتمام التعليمة رقم 04-02 المؤرخة في 13 ماي 2004 و المتعلقة بنظام. الاحتياطي الإلزامي. | .| المادة 02: تعدل المادة 3 من التعليمة رقم 04-02 المؤرخة في 13 ماي 2004 و É‏ | المتعلقة بنظام الاحتياطي الإلزامي و تحرر على النحو التالي:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ا 'المادة 3: يحدد معدل الاحتياطي الإلزامي ب8 % من قاعدة الاحتياطي الإلزامي ل المادة 03: تدخل هذه التعليمة حيز التنفيذ اعتبارا من التاريخ 15 جانفي 2008.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Bank of Algeria fi The Governor | 3",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.055,
+      "ocr_pages": [
+        1
+      ],
+      "ocr_mean_confidence": 81.9
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/INS-13-07.ar.txt"
+}

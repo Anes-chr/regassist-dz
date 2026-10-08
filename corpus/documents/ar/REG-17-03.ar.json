@@ -1,0 +1,417 @@
+{
+  "document_id": "REG-17-03.ar",
+  "work_id": "REG-17-03",
+  "title": "نظام رقم 17-03 المؤرخ في 06 ديسمبر 2017، يعدل ويتمم النظام رقم 09-02 المؤرخ في 26 ماي 2009، المتعلق بعمليات السياسة النقدية وأدواتها وإجراءاتها.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "17-03",
+  "number_source": "libelle",
+  "date": "2017-12-06",
+  "date_raw": "المؤرخ في 06 ديسمبر 2017",
+  "date_source": "libelle",
+  "publication_date": "2023-02-28",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "règlements",
+  "subcategory": "أدوات السياسة النقدية",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a3%d8%af%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d9%86%d9%82%d8%af%d9%8a%d8%a9-2/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/02/03-2017.pdf",
+  "format": "pdf",
+  "file_hash": "c30fe600ddb899849c7623f88ab2331838bd094abbdd91a709f369e144ed82cd",
+  "file_size": 1269014,
+  "raw_path": "raw/c30fe600ddb8__03-2017.pdf",
+  "retrieved_at": "2026-10-05T13:28:08+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 2,
+  "url_hash": "c633cc45d4880ea52efeda09af3567ff41d274dff199321fa3be8b1c194db659",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%a3%d8%af%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d9%86%d9%82%d8%af%d9%8a%d8%a9-2/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - reg2017arabe",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20230226142555+01'00'",
+    "modDate": "D:20230226142555+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 1850,
+        "ocr_confidence": 76.52802359882006
+      },
+      {
+        "page": 2,
+        "method": "ocr",
+        "chars": 1049,
+        "ocr_confidence": 78.65714285714286
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 1,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine",
+    "numerotation:premier_article=2"
+  ],
+  "title_document": "نظام رقم 03-17 مؤرخ في 17 ربيع الأول عام 1439 الموافق 6 ديسمبر سنة 62017 يعدل ويتمم النظام رقم 02-09 المؤرخ في أول جمادى التانية عام 1430 الموافق 26 مايو سنة 2009 والمتعلق بعمليات السياسة النقدية وآدواتها وإجراءاتها. gs Lei‏ المعدل والمتمصم. جمادى الثانية عام 1424 الموافق 26 غشت سنة 2003 والمتعلق بالنقد والقرض.. المعدل والمتمم. Ÿ‏ سيماالمواد شعبيان عام 1437 الموافق31 مايو سنة 2016 والمتضمن - وبمقتضى المرسوم الرئاسي المؤرخ في 5 جمادى",
+  "alias_urls": [],
+  "text_hash": "e03bfb0b2916b60411417cecd42e1517f66002e09a1e310b5d9551d840cdb3f8",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "2009-02",
+        "date": "2009-05-26",
+        "raw": "règlement n°2009-02 du 26 mai 2009"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2017-03 du 06 décembre 2017 modifiant et complétant le règlement n°2009-02 du 26 mai 2009 relatif aux opérations, instruments et",
+        "copied_from": "REG-17-03.fr"
+      },
+      "target_work_id": "REG-09-02"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "2009-02",
+        "date": "2009-05-26",
+        "raw": "règlement n°2009-02 du 26 mai 2009"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2017-03 du 06 décembre 2017 modifiant et complétant le règlement n°2009-02 du 26 mai 2009 relatif aux opérations, instruments et",
+        "copied_from": "REG-17-03.fr"
+      },
+      "target_work_id": "REG-09-02"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "09-02",
+        "date": null,
+        "raw": "règlement n°09-02"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°09-02 du Aouel Joumada Ethania 1430 correspon",
+        "copied_from": "REG-17-03.fr"
+      },
+      "target_work_id": "REG-09-02"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "09-02",
+        "date": null,
+        "raw": "règlement n°09-02"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°09-02 du Aouel Joumada Ethania 1430 correspon",
+        "copied_from": "REG-17-03.fr"
+      },
+      "target_work_id": "REG-09-02"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "REG-09-02",
+      "reference": "règlement n°2009-02 du 26 mai 2009",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2017-03 du 06 décembre 2017 modifiant et complétant le règlement n°2009-02 du 26 mai 2009 relatif aux opérations, instruments et",
+        "copied_from": "REG-17-03.fr"
+      }
+    },
+    {
+      "work_id": "REG-09-02",
+      "reference": "règlement n°09-02",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°09-02 du Aouel Joumada Ethania 1430 correspon",
+        "copied_from": "REG-17-03.fr"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "REG-09-02",
+      "reference": "règlement n°2009-02 du 26 mai 2009",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2017-03 du 06 décembre 2017 modifiant et complétant le règlement n°2009-02 du 26 mai 2009 relatif aux opérations, instruments et",
+        "copied_from": "REG-17-03.fr"
+      }
+    },
+    {
+      "work_id": "REG-09-02",
+      "reference": "règlement n°09-02",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°09-02 du Aouel Joumada Ethania 1430 correspon",
+        "copied_from": "REG-17-03.fr"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-17-03.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "REG-09-02",
+      "reference": "règlement n°2009-02 du 26 mai 2009",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2017-03 du 06 décembre 2017 modifiant et complétant le règlement n°2009-02 du 26 mai 2009 relatif aux opérations, instruments et",
+        "copied_from": "REG-17-03.fr"
+      }
+    },
+    {
+      "work_id": "REG-09-02",
+      "reference": "règlement n°09-02",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°09-02 du Aouel Joumada Ethania 1430 correspon",
+        "copied_from": "REG-17-03.fr"
+      }
+    }
+  ],
+  "ocr_numeric_check": {
+    "units": 2,
+    "units_flagged": 0,
+    "units_compared_with_french": 1,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "نظام رقم 03-17 مؤرخ في 17 ربيع الأول عام 1439 الموافق 6 ديسمبر سنة 62017 يعدل ويتمم النظام رقم 02-09 المؤرخ في أول جمادى التانية عام 1430 الموافق 26 مايو سنة 2009 والمتعلق بعمليات السياسة النقدية وآدواتها وإجراءاتها.\ngs Lei‏ المعدل والمتمصم.\nجمادى الثانية عام 1424 الموافق 26 غشت سنة 2003 والمتعلق بالنقد والقرض.. المعدل والمتمم. Ÿ‏ سيماالمواد شعبيان عام 1437 الموافق31 مايو سنة 2016 والمتضمن\n- وبمقتضى المرسوم الرئاسي المؤرخ في 5 جمادى الأولى عام 1427 الموافق أول يونيو سنة 2006 والتة ن تعيين نائب محافظ بنك الجزائر.\nai 4 -‏ 25 المرسوعالرئاسسي Co‏ في 17 صفر عام 1438 الموافق 17 نوفمبر سنة 2016 والمتضمن تعبسن وبمقتضصى المرسوم الرشاسي EDS‏ في 24 ذئى 11 3 552 عام 1424 الموافق 14 بتاير ستة 2004 عام 1437 الموافق 17 توفمبر سنة 2015 والمتضمن تعيين أعضاء في مجلس إدارة بنك الجزائر:\nويمة 25 النظام رقم 05 4 المؤرخ في 10 الكبيرة والدفع المستعجل.:\nوبمقتضى النظام رقم 05 - 07 المؤرخ في 26 وإجراءاتهاء 30 التظام رقم 15 1 المؤرخ في‎ ès 5 es 2015 الموافق 19 قفبرابر سنتة‎ 1436 ele زر بسع الثاني‎ والمؤسسات المالية. المعدل والمتمم.‎ عه SOL‏ الأولى : Joe‏ هذا النظام ويُتمم النظام رقم 09 2 المؤر خ في أول silos‏ الثائية عام 1430 الموافق وأدواتها وإجراءاتها.",
+      "paragraphs": [
+        {
+          "text": "نظام رقم 03-17 مؤرخ في 17 ربيع الأول عام 1439 الموافق 6 ديسمبر سنة 62017 يعدل ويتمم النظام رقم 02-09 المؤرخ في أول جمادى التانية عام 1430 الموافق 26 مايو سنة 2009 والمتعلق بعمليات السياسة النقدية وآدواتها وإجراءاتها.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "gs Lei‏ المعدل والمتمصم.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "جمادى الثانية عام 1424 الموافق 26 غشت سنة 2003 والمتعلق بالنقد والقرض.. المعدل والمتمم. Ÿ‏ سيماالمواد شعبيان عام 1437 الموافق31 مايو سنة 2016 والمتضمن",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى المرسوم الرئاسي المؤرخ في 5 جمادى الأولى عام 1427 الموافق أول يونيو سنة 2006 والتة ن تعيين نائب محافظ بنك الجزائر.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ai 4 -‏ 25 المرسوعالرئاسسي Co‏ في 17 صفر عام 1438 الموافق 17 نوفمبر سنة 2016 والمتضمن تعبسن وبمقتضصى المرسوم الرشاسي EDS‏ في 24 ذئى 11 3 552 عام 1424 الموافق 14 بتاير ستة 2004 عام 1437 الموافق 17 توفمبر سنة 2015 والمتضمن تعيين أعضاء في مجلس إدارة بنك الجزائر:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ويمة 25 النظام رقم 05 4 المؤرخ في 10 الكبيرة والدفع المستعجل.:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى النظام رقم 05 - 07 المؤرخ في 26 وإجراءاتهاء 30 التظام رقم 15 1 المؤرخ في‎ ès 5 es 2015 الموافق 19 قفبرابر سنتة‎ 1436 ele زر بسع الثاني‎ والمؤسسات المالية. المعدل والمتمم.‎ عه SOL‏ الأولى : Joe‏ هذا النظام ويُتمم النظام رقم 09 2 المؤر خ في أول silos‏ الثائية عام 1430 الموافق وأدواتها وإجراءاتها.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "Ja ns‏ وتّتهمم المادة 6 من النظام رقم cos 02-09‏ في 26 مابى سنتة 2009 والمذكور أعلان :\n— أذونات الخزينة قصيرة الأجل:\nأذونات الخزينة الممائلة:\nالأوراق العهومبة المصضم وتئة من طرف الملصدرة أو المصضموتة من طرف الدولة.\nCARRE —‏ الخزينة المئلة لاعادة شراء مستحقاتت البنوك على الزبائن.\nبُحدد المبلغ الكلي للعمليات الجارية على الأوراق الادة 3 : تعدل وتّتمم المادة 7 من النظام رقم 02-9 المؤرخ في 26 مايو Liu‏ 2009 والمذكور أعلاه:\nامادة 7 : الأوراق الخاصة القابلة للتفاوض هي السوق النقدية والسندات ذات مبلغ أساسي تابتة. وبحب أن تحمل توقسبسها ذا = 555 + JL‏ 4 عند أول طلي....) وأن تكون مدونة بالديتار.\nأما الأوراق الخاصة غير RL AI‏ للمتفاورض النقرية والتي لها أجل استحقاق أطول من أجل | لتنازل ال ف - هس :\n- الأوراق التي Jin‏ العمليات التجارية على الجزائر أو على الضارج وتتضمن توقيع شلاشة )3( أشخاص معن وبين أو طبيعيين: على الأقل.منذوىي الملاءة: من بين هم توقفيع البضائع أو بوليصة الشحن والنقل الأصلية لأمر للبضضائع الملصدرة من الجزائر مرفقة بال وثائق المعمول Le‏\n- أوراق التمويل المنشأة تمثيلا لقروض الخزينة أو القروض الموسمية التي تحمل توقيع شخصين (2) طبيعيين أو معنويينء عللى الأقلء ذوي ملاءة مالية:\n- أوراق Dis es‏ القروض متوسطة وطويلة الأحل (بعا فب ها القروض المشت ركة).: الملمنوحة SES‏ غير المالية والممسعرة إيج ابيا من صرف بنك الحصزائر والتضهمنة توقيع شخصين )2( طبيعيين أو معنف ويين. على الأقل:\nذوي ملاءة مالية يمكن أحدهما أن بعوض بضمان من طرف الدولة.\nتتعلق القروض متوسطة الأجل بتمويل الاستثمار لتطوير وسائل الإنتاج Lt)‏ توسيع أو تجديد معدات) وبتصدير السلع (تمويل مسبق لطلبيات تصدير) وببناء الملساكن في إطار الترقية العقارية وعملبات الاعتمال الإيجاري على السلع الإنتاجيبة تتعلق القروض طويلة الأجل بتمويل الاستثمار لبناء وتجهيز وحدات إنتاج السلع والخدمات.\ntil‏ 4 : ينشر هذا النظام فى الجريدة الرسمية حرر بالجزاشر في 17 ربيع الأول عام 1439 محمد لوكال",
+      "paragraphs": [
+        {
+          "text": "Ja ns‏ وتّتهمم المادة 6 من النظام رقم cos 02-09‏ في 26 مابى سنتة 2009 والمذكور أعلان :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "— أذونات الخزينة قصيرة الأجل:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "أذونات الخزينة الممائلة:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الأوراق العهومبة المصضم وتئة من طرف الملصدرة أو المصضموتة من طرف الدولة.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "CARRE —‏ الخزينة المئلة لاعادة شراء مستحقاتت البنوك على الزبائن.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "بُحدد المبلغ الكلي للعمليات الجارية على الأوراق الادة 3 : تعدل وتّتمم المادة 7 من النظام رقم 02-9 المؤرخ في 26 مايو Liu‏ 2009 والمذكور أعلاه:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "امادة 7 : الأوراق الخاصة القابلة للتفاوض هي السوق النقدية والسندات ذات مبلغ أساسي تابتة. وبحب أن تحمل توقسبسها ذا = 555 + JL‏ 4 عند أول طلي....) وأن تكون مدونة بالديتار.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "أما الأوراق الخاصة غير RL AI‏ للمتفاورض النقرية والتي لها أجل استحقاق أطول من أجل | لتنازل ال ف - هس :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- الأوراق التي Jin‏ العمليات التجارية على الجزائر أو على الضارج وتتضمن توقيع شلاشة )3( أشخاص معن وبين أو طبيعيين: على الأقل.منذوىي الملاءة: من بين هم توقفيع البضائع أو بوليصة الشحن والنقل الأصلية لأمر للبضضائع الملصدرة من الجزائر مرفقة بال وثائق المعمول Le‏",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- أوراق التمويل المنشأة تمثيلا لقروض الخزينة أو القروض الموسمية التي تحمل توقيع شخصين (2) طبيعيين أو معنويينء عللى الأقلء ذوي ملاءة مالية:",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- أوراق Dis es‏ القروض متوسطة وطويلة الأحل (بعا فب ها القروض المشت ركة).: الملمنوحة SES‏ غير المالية والممسعرة إيج ابيا من صرف بنك الحصزائر والتضهمنة توقيع شخصين )2( طبيعيين أو معنف ويين. على الأقل:",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "ذوي ملاءة مالية يمكن أحدهما أن بعوض بضمان من طرف الدولة.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "تتعلق القروض متوسطة الأجل بتمويل الاستثمار لتطوير وسائل الإنتاج Lt)‏ توسيع أو تجديد معدات) وبتصدير السلع (تمويل مسبق لطلبيات تصدير) وببناء الملساكن في إطار الترقية العقارية وعملبات الاعتمال الإيجاري على السلع الإنتاجيبة تتعلق القروض طويلة الأجل بتمويل الاستثمار لبناء وتجهيز وحدات إنتاج السلع والخدمات.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "til‏ 4 : ينشر هذا النظام فى الجريدة الرسمية حرر بالجزاشر في 17 ربيع الأول عام 1439 محمد لوكال",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine",
+      "numerotation:premier_article=2"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.041,
+      "ocr_pages": [
+        1,
+        2
+      ],
+      "ocr_mean_confidence": 77.6
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/REG-17-03.ar.txt"
+}

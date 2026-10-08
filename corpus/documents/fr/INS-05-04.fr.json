@@ -1,0 +1,1279 @@
+{
+  "document_id": "INS-05-04.fr",
+  "work_id": "INS-05-04",
+  "title": "Instruction n°05-2004 du 02 août 2004 portant normalisation de la carte bancaire.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "05-2004",
+  "number_source": "en-tête du document",
+  "date": "2004-08-02",
+  "date_raw": "N°05-2004 DU 02 AOÛT 2004",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Commercialisation et normalisation de produits et services bancaires",
+  "source_url": "https://www.bank-of-algeria.dz/normalisation-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction052004.pdf",
+  "format": "pdf",
+  "file_hash": "d9d7f29da74b9599be6115a173579706e1769eea13e5834042173eab39791b70",
+  "file_size": 131276,
+  "raw_path": "raw/d9d7f29da74b__instruction052004.pdf",
+  "retrieved_at": "2026-10-05T13:21:30+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 9,
+  "url_hash": "5a022d66afcb2ec08ec17a0c804dbb48eb923501d8de1f86a4a9ba0cdd877817",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-2004/",
+    "https://www.bank-of-algeria.dz/normalisation-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Microsoft Word - instruction052004",
+    "author": "chahra.yahiaoui",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "creationDate": "D:20210225151802+01'00'",
+    "modDate": "D:20210225151802+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 9,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2073,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 1283,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 2323,
+        "ocr_confidence": null
+      },
+      {
+        "page": 4,
+        "method": "pdf_text",
+        "chars": 1901,
+        "ocr_confidence": null
+      },
+      {
+        "page": 5,
+        "method": "pdf_text",
+        "chars": 858,
+        "ocr_confidence": null
+      },
+      {
+        "page": 6,
+        "method": "pdf_text",
+        "chars": 1263,
+        "ocr_confidence": null
+      },
+      {
+        "page": 7,
+        "method": "pdf_text",
+        "chars": 748,
+        "ocr_confidence": null
+      },
+      {
+        "page": 8,
+        "method": "pdf_text",
+        "chars": 1268,
+        "ocr_confidence": null
+      },
+      {
+        "page": 9,
+        "method": "pdf_text",
+        "chars": 1151,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 11,
+    "annex_count": 6
+  },
+  "quality_flags": [
+    "numerotation:articles_manquants:[10]"
+  ],
+  "title_document": "INSTRUCTION N°05-2004 DU 02 AOÛT 2004 PORTANT NORMALISATION DE LA CARTE BANCAIRE",
+  "alias_urls": [],
+  "text_hash": "7fdfb69d565fb27c3d979063ba21a7ce6c043fb12db4d6035e114755c6aa8e2c",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [
+    {
+      "work_id": "INS-12-20",
+      "document_id": "INS-12-20.fr",
+      "date": "2020-11-25",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "La présente Instruction annule et remplace l’Instruction n° 05-04 du 2 août 2004 portant normalisation de la carte banca"
+      }
+    }
+  ],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "INS-12-20",
+      "document_id": "INS-12-20.fr",
+      "date": "2020-11-25",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "La présente Instruction annule et remplace l’Instruction n° 05-04 du 2 août 2004 portant normalisation de la carte banca"
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [
+    {
+      "work_id": "INS-12-20",
+      "document_id": "INS-12-20.fr",
+      "date": "2020-11-25",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "La présente Instruction annule et remplace l’Instruction n° 05-04 du 2 août 2004 portant normalisation de la carte banca"
+      }
+    }
+  ],
+  "complète": [],
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe I",
+      "number": "I",
+      "heading": "LES ZONES DE MARQUAGE ET D’ESTAMPAGE",
+      "page_start": 3,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe I",
+      "number": "I",
+      "heading": "I.3.2 - Zone 2",
+      "page_start": 5,
+      "page_end": 5,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe II",
+      "number": "II",
+      "heading": "L’ENCODAGE DES PISTES MAGNETIQUES",
+      "page_start": 6,
+      "page_end": 6,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe III",
+      "number": "III",
+      "heading": "GRAVURE DE LA PUCE",
+      "page_start": 7,
+      "page_end": 7,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe IV",
+      "number": "IV",
+      "heading": "CONFIGURATION DU RECTO DE LA CARTE",
+      "page_start": 8,
+      "page_end": 8,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe V",
+      "number": "V",
+      "heading": "SPECIFICATIONS GENERALES DU LOGICIEL TPE",
+      "page_start": 9,
+      "page_end": 9,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°05-2004 DU 02 AOÛT 2004 PORTANT\nNORMALISATION DE LA CARTE BANCAIRE",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°05-2004 DU 02 AOÛT 2004 PORTANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "NORMALISATION DE LA CARTE BANCAIRE",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction a pour objet la normalisation de la carte bancaire à puce émise par les banques et Algérie-Poste.",
+      "paragraphs": [
+        {
+          "text": "La présente instruction a pour objet la normalisation de la carte bancaire à puce émise par les banques et Algérie-Poste.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La carte à puce répond aux normes internationales EMV (Europay MasterCard\nVisa). La puce permet les transactions de paiement sur Terminaux de paiement électronique. La piste, dont la carte est aussi dotée, permet les retraits sur Distributeurs et Guichets Automatiques de Billets (DAB et GAB).",
+      "paragraphs": [
+        {
+          "text": "La carte à puce répond aux normes internationales EMV (Europay MasterCard",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Visa). La puce permet les transactions de paiement sur Terminaux de paiement électronique. La piste, dont la carte est aussi dotée, permet les retraits sur Distributeurs et Guichets Automatiques de Billets (DAB et GAB).",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La normalisation de la carte bancaire à puce couvre :\n- la normalisation des zones de marquage et d’estampage,\n- l’encodage des pistes magnétiques,\n- la gravure de la puce.\nLa normalisation de la carte est complétée par les caractéristiques minimales des terminaux de paiement électronique (TPE).",
+      "paragraphs": [
+        {
+          "text": "La normalisation de la carte bancaire à puce couvre :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- la normalisation des zones de marquage et d’estampage,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- l’encodage des pistes magnétiques,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- la gravure de la puce.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La normalisation de la carte est complétée par les caractéristiques minimales des terminaux de paiement électronique (TPE).",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les zones de marquage et d’estampage sont des zones réservées à la personnalisation en clair et la personnalisation codée des informations selon les procédés appropriés.",
+      "paragraphs": [
+        {
+          "text": "Les zones de marquage et d’estampage sont des zones réservées à la personnalisation en clair et la personnalisation codée des informations selon les procédés appropriés.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L’encodage des pistes magnétiques consiste à inscrire sur les pistes magnétiques de la carte, l’information codée avec un matériel et des logiciels spécifiques conformément aux normes internationales.",
+      "paragraphs": [
+        {
+          "text": "L’encodage des pistes magnétiques consiste à inscrire sur les pistes magnétiques de la carte, l’information codée avec un matériel et des logiciels spécifiques conformément aux normes internationales.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La gravure de la puce, constituée d’un microprocesseur et de la mémoire, consiste à inscrire les informations d’authentification du porteur et de l’émetteur de carte avec un matériel et des logiciels spécifiques conformément aux normes internationales en vigueur pour les paiements électroniques sur les terminaux de paiement installés chez les accepteurs.",
+      "paragraphs": [
+        {
+          "text": "La gravure de la puce, constituée d’un microprocesseur et de la mémoire, consiste à inscrire les informations d’authentification du porteur et de l’émetteur de carte avec un matériel et des logiciels spécifiques conformément aux normes internationales en vigueur pour les paiements électroniques sur les terminaux de paiement installés chez les accepteurs.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les transactions de paiement domestiques sont autorisées sur puce EMV uniquement. Sont exclus les cas :\n- de repli sur la piste magnétique en cas d’inexistence de la puce,\n- de repli sur transaction manuelle en cas d’inexistence de la puce.",
+      "paragraphs": [
+        {
+          "text": "Les transactions de paiement domestiques sont autorisées sur puce EMV uniquement. Sont exclus les cas :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- de repli sur la piste magnétique en cas d’inexistence de la puce,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- de repli sur transaction manuelle en cas d’inexistence de la puce.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les terminaux de paiement électronique (TPE) doivent être capables de traiter les cartes à puce de paiement conformes à la norme EMV.\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "Les terminaux de paiement électronique (TPE) doivent être capables de traiter les cartes à puce de paiement conformes à la norme EMV.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les éléments techniques liés au traitement automatique des opérations de retrait d’espèces et de paiements électroniques relatifs au support, à la codification, aux procédés d’encodage et de gravure de la puce, aux fonctionnalités, aux protocoles d’échanges d’information ainsi qu’aux terminaux de paiement électronique sont définis dans les cinq (5) annexes jointes à la présente instruction :\n- annexe 1 : Les zones de marquage et d’estampage,\n- annexe 2 : L’encodage des pistes magnétiques,\n- annexe 3 : La gravure de la puce,\n- annexe 4 : Configuration de la carte bancaire,\n- annexe 5 : Spécifications générales du logiciel de TPE.\nArticle10 : Les retraits sur Guichets et Distributeurs Automatiques de Billets (GAB et\nDAB) continueront à se faire à l’aide de la piste magnétique pour une période transitoire de trois années.\nAu plus tard, à l’expiration de la période transitoire sus évoquée, les informations portées sur la piste magnétique seront gravées sur la puce.",
+      "paragraphs": [
+        {
+          "text": "Les éléments techniques liés au traitement automatique des opérations de retrait d’espèces et de paiements électroniques relatifs au support, à la codification, aux procédés d’encodage et de gravure de la puce, aux fonctionnalités, aux protocoles d’échanges d’information ainsi qu’aux terminaux de paiement électronique sont définis dans les cinq (5) annexes jointes à la présente instruction :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- annexe 1 : Les zones de marquage et d’estampage,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- annexe 2 : L’encodage des pistes magnétiques,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- annexe 3 : La gravure de la puce,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- annexe 4 : Configuration de la carte bancaire,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- annexe 5 : Spécifications générales du logiciel de TPE.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Article10 : Les retraits sur Guichets et Distributeurs Automatiques de Billets (GAB et",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "DAB) continueront à se faire à l’aide de la piste magnétique pour une période transitoire de trois années.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Au plus tard, à l’expiration de la période transitoire sus évoquée, les informations portées sur la piste magnétique seront gravées sur la puce.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Cette instruction annule et remplace l’instruction n° 64-94 du 28 septembre 1994 portant normalisation de la carte bancaire.",
+      "paragraphs": [
+        {
+          "text": "Cette instruction annule et remplace l’instruction n° 64-94 du 28 septembre 1994 portant normalisation de la carte bancaire.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "La présente instruction entre en vigueur à compter de la date de sa signature.\nLe Gouverneur\nMohammed LAKSACI",
+      "paragraphs": [
+        {
+          "text": "La présente instruction entre en vigueur à compter de la date de sa signature.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe I",
+      "number": "I",
+      "heading": "LES ZONES DE MARQUAGE ET D’ESTAMPAGE",
+      "context": {},
+      "annexe": {
+        "number": "I",
+        "heading": "LES ZONES DE MARQUAGE ET D’ESTAMPAGE",
+        "label": "Annexe I"
+      },
+      "page_start": 3,
+      "page_end": 4,
+      "text": "Les caractéristiques physiques de la carte bancaire sont définies par la norme ISO/IEC 7810.\nLa personnalisation de la carte bancaire est réalisée selon deux procédés :\n- la personnalisation en clair comprenant le marquage et l’estampage,\n- la personnalisation codée qui consiste essentiellement en l’encodage des pistes magnétiques et la gravure de la pure.\nI.1 - LE MARQUAGE\nLe marquage est effectué conformément aux normes internationales, lors de la fabrication de la carte (à puce et à piste), et porte sur les éléments suivants :\n- au verso de la carte (partie intérieure gauche), un code indiquant l’atelier de fabrication, un numéro d’ordre et un numéro de lot doivent être imprimés ;\n- au recto de la carte (partie basse), la mention “expire à fin” ainsi qu’une flèche indiquant le sens d’introduction de la carte dans les distributeurs automatiques de billets et les terminaux de paiement doivent être imprimés.\nI.2 - ESTAMPAGE (EMBOSSAGE) DES DONNEES\nL’estampage ou l’embossage consiste à faire apparaître des caractères en relief sur la surface recto de la carte.\nLa technique d’enregistrement ou d’impression par estampage est définie dans la norme\nISO/IEC 7811 qui en spécifie les caractéristiques.\nI.2.1 - Type de caractères\nLes caractères retenus pour l’estampage sont de type :\nFARRINGTON 7 B : pour le numéro d’identification de la carte,\nROC-B (OCR-B) : caractères majuscules alphanumériques de dimension 1 pour estamper :\n- la date de fin de validité,\n- les noms et prénoms du client,\n- la raison sociale ou le nom d’entreprise\nLes spécifications de l'impression des caractères FARRINGTON 7B et OCR-B sont détaillées au point 1.3.\nI.2.2 - Espacement des caractères\nL’espacement des caractères doit être le suivant :\na) espacement nominal : 3,63 mm et 2,54 mm pour les caractères lisibles visuellement ;\nb) espacement minimal entre deux caractères consécutifs : 3,48 mm et 2,46 mm pour les caractères lisibles visuellement.\nI.2.3 - Hauteur des caractères\nLa hauteur maximale à la surface d'impression des caractères estampés compte tenu de l’inclinaison de la ligne centrale et le défaut d’alignement des caractères doit être de : 4,32 mm.\nI.2.4 - Hauteur du relief des caractères estampés\nLa hauteur des caractères estampés au-dessus de la surface de la carte est de 0,48 mm avec une tolérance de +ou- 0,05 mm.\nL’estampage des données telles que numéro de la carte, date de fin de validité, nom et prénoms du client sont portés par une écriture en relief dans la zone d’estampage de la carte, conformément aux normes internationales ISO.\nI.3 - ZONE D’ESTAMPAGE\nLa zone d’estampage est située dans la partie basse de la carte. Elle est constituée de quatre lignes regroupées en deux (2) zones qui sont :\nI.3.1 - Zone 1\nConstituée par une (1) ligne réservée pour le numéro de la carte qui identifie en même temps l’émetteur et le porteur de la carte.\nCette zone est appelée “ligne du numéro d’identification” dont les caractéristiques sont les suivantes :\n- type de caractère : FARRINGTON 7B (chiffres de 0 à 9 inclus),\n- longueur de la ligne : 65,34 mm (+ ou - 1 mm),\n- nombre de caractères : 16 chiffres répartis par blocs de 4.\n* Dimension des caractères :\n- hauteur nominale = 3,81 mm ; maximale = 5 mm, - largeur nominale = 2,03 mm ;\nmaximale = 3,63 mm.\n* Dimension des traits :\n- largeur nominale = 0,51 mm : - maximale = 0,76 mm,\n- minimale = 0,25 mm\n* Espacement et alignement des caractères :\n- espacement nominal = 7 caractères ou pouce,\n- espacement horizontal minimal entre caractères = 0,38 mm, - inclinaison du caractère = maximum 3°.\n* Distance entre la ligne médiane de la ligne numéro d’identification et le bord inférieur de la carte : 21,42 mm (+ ou - 0,12 mm).\n* Distance entre la ligne médiane de la première position de caractère et le bord gauche de la carte : 10,18 mm (+ ou - 0,25).\n* Espacement entre la zone 1 et la zone 2 = 3,7 mm.\n* Déformation de la surface de la carte après estampage : ne doit pas dépasser 0,13 mm.",
+      "paragraphs": [
+        {
+          "text": "Les caractéristiques physiques de la carte bancaire sont définies par la norme ISO/IEC 7810.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "La personnalisation de la carte bancaire est réalisée selon deux procédés :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- la personnalisation en clair comprenant le marquage et l’estampage,",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- la personnalisation codée qui consiste essentiellement en l’encodage des pistes magnétiques et la gravure de la pure.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "I.1 - LE MARQUAGE",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Le marquage est effectué conformément aux normes internationales, lors de la fabrication de la carte (à puce et à piste), et porte sur les éléments suivants :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- au verso de la carte (partie intérieure gauche), un code indiquant l’atelier de fabrication, un numéro d’ordre et un numéro de lot doivent être imprimés ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- au recto de la carte (partie basse), la mention “expire à fin” ainsi qu’une flèche indiquant le sens d’introduction de la carte dans les distributeurs automatiques de billets et les terminaux de paiement doivent être imprimés.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "I.2 - ESTAMPAGE (EMBOSSAGE) DES DONNEES",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "L’estampage ou l’embossage consiste à faire apparaître des caractères en relief sur la surface recto de la carte.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "La technique d’enregistrement ou d’impression par estampage est définie dans la norme",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "ISO/IEC 7811 qui en spécifie les caractéristiques.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "I.2.1 - Type de caractères",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Les caractères retenus pour l’estampage sont de type :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "FARRINGTON 7 B : pour le numéro d’identification de la carte,",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "ROC-B (OCR-B) : caractères majuscules alphanumériques de dimension 1 pour estamper :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- la date de fin de validité,",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- les noms et prénoms du client,",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- la raison sociale ou le nom d’entreprise",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Les spécifications de l'impression des caractères FARRINGTON 7B et OCR-B sont détaillées au point 1.3.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "I.2.2 - Espacement des caractères",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "L’espacement des caractères doit être le suivant :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "a) espacement nominal : 3,63 mm et 2,54 mm pour les caractères lisibles visuellement ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "b) espacement minimal entre deux caractères consécutifs : 3,48 mm et 2,46 mm pour les caractères lisibles visuellement.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "I.2.3 - Hauteur des caractères",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "La hauteur maximale à la surface d'impression des caractères estampés compte tenu de l’inclinaison de la ligne centrale et le défaut d’alignement des caractères doit être de : 4,32 mm.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "I.2.4 - Hauteur du relief des caractères estampés",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "La hauteur des caractères estampés au-dessus de la surface de la carte est de 0,48 mm avec une tolérance de +ou- 0,05 mm.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "L’estampage des données telles que numéro de la carte, date de fin de validité, nom et prénoms du client sont portés par une écriture en relief dans la zone d’estampage de la carte, conformément aux normes internationales ISO.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "I.3 - ZONE D’ESTAMPAGE",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "La zone d’estampage est située dans la partie basse de la carte. Elle est constituée de quatre lignes regroupées en deux (2) zones qui sont :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "I.3.1 - Zone 1",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Constituée par une (1) ligne réservée pour le numéro de la carte qui identifie en même temps l’émetteur et le porteur de la carte.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Cette zone est appelée “ligne du numéro d’identification” dont les caractéristiques sont les suivantes :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- type de caractère : FARRINGTON 7B (chiffres de 0 à 9 inclus),",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- longueur de la ligne : 65,34 mm (+ ou - 1 mm),",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- nombre de caractères : 16 chiffres répartis par blocs de 4.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "* Dimension des caractères :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- hauteur nominale = 3,81 mm ; maximale = 5 mm, - largeur nominale = 2,03 mm ;",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "maximale = 3,63 mm.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "* Dimension des traits :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- largeur nominale = 0,51 mm : - maximale = 0,76 mm,",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- minimale = 0,25 mm",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "* Espacement et alignement des caractères :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- espacement nominal = 7 caractères ou pouce,",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- espacement horizontal minimal entre caractères = 0,38 mm, - inclinaison du caractère = maximum 3°.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "* Distance entre la ligne médiane de la ligne numéro d’identification et le bord inférieur de la carte : 21,42 mm (+ ou - 0,12 mm).",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "* Distance entre la ligne médiane de la première position de caractère et le bord gauche de la carte : 10,18 mm (+ ou - 0,25).",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "* Espacement entre la zone 1 et la zone 2 = 3,7 mm.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "* Déformation de la surface de la carte après estampage : ne doit pas dépasser 0,13 mm.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe I",
+      "number": "I",
+      "heading": "I.3.2 - Zone 2",
+      "context": {},
+      "annexe": {
+        "number": "I",
+        "heading": "I.3.2 - Zone 2",
+        "label": "Annexe I"
+      },
+      "page_start": 5,
+      "page_end": 5,
+      "text": "Constituée de trois (3) lignes prévues pour recevoir les données qui identifient le porteur (nom, prénoms, raison sociale et adresse) et la date de fin de validité de la carte.\n* Cette zone est appelée “zone du nom et de l’adresse” dont les caractéristiques sont les suivantes :\n- type de caractères : OCR-B (alphanumérique),\n- longueur de chaque ligne = 7,65 mm,\n- nombre de caractères : 27 caractères,\n- espacement entre les caractères : 10 caractères au pouce.\n* Dimension de la zone :\n- hauteur maximale = 14,53 mm (pour les 03 lignes)\n* Marge inférieure entre la zone et le bord inférieur de la carte :\n- minimum = 2,41 mm - maximum = 3,30 mm.\n* Distance entre la ligne médiane de la première position de caractère de chaque ligne au côté gauche de la carte = 7,65 mm (+ ou - 0,25 mm).",
+      "paragraphs": [
+        {
+          "text": "Constituée de trois (3) lignes prévues pour recevoir les données qui identifient le porteur (nom, prénoms, raison sociale et adresse) et la date de fin de validité de la carte.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "* Cette zone est appelée “zone du nom et de l’adresse” dont les caractéristiques sont les suivantes :",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- type de caractères : OCR-B (alphanumérique),",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- longueur de chaque ligne = 7,65 mm,",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- nombre de caractères : 27 caractères,",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- espacement entre les caractères : 10 caractères au pouce.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "* Dimension de la zone :",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- hauteur maximale = 14,53 mm (pour les 03 lignes)",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "* Marge inférieure entre la zone et le bord inférieur de la carte :",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- minimum = 2,41 mm - maximum = 3,30 mm.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "* Distance entre la ligne médiane de la première position de caractère de chaque ligne au côté gauche de la carte = 7,65 mm (+ ou - 0,25 mm).",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe II",
+      "number": "II",
+      "heading": "L’ENCODAGE DES PISTES MAGNETIQUES",
+      "context": {},
+      "annexe": {
+        "number": "II",
+        "heading": "L’ENCODAGE DES PISTES MAGNETIQUES",
+        "label": "Annexe II"
+      },
+      "page_start": 6,
+      "page_end": 6,
+      "text": "La personnalisation de la piste magnétique consiste essentiellement à la personnalisation de la piste ISO 2.\nLa carte contient au verso une bande qui referme trois pistes ISO 1 ; ISO 2 ; ISO 3.\nLes caractéristiques du matériau magnétique : des pistes et la technique d’encodage sont définies par les normes ISO/IEC 7811 de 2 à 5.\nIl est à souligner que ces caractéristiques sont extrêmement importantes car elles sont prises en compte par les constructeurs de Guichets Automatiques de Billets au plan Hardware et Software.\nLe codage (écriture sur la piste ISO 2) s’effectue avec du matériel et des logiciels spécifiques conformément au descriptif des pistes et aux normes internationales ISO (référence ISO/IEC 7813 et 7811).\nLa mise en place du système carte bancaire nationale, impliquant l’interopérabilité et l’interbancarité des GAB/DAB, requiert la normalisation du contenu informationnel de nombreux champs de piste ISO 2.\nLe contenu de ces normes, lié à l’aspect sécurité du système, sera détenu par la Société d’Automatisation des Transactions Interbancaires (SATIM), institution habilitée, et devra être scrupuleusement respecté par toutes les parties concernées.",
+      "paragraphs": [
+        {
+          "text": "La personnalisation de la piste magnétique consiste essentiellement à la personnalisation de la piste ISO 2.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "La carte contient au verso une bande qui referme trois pistes ISO 1 ; ISO 2 ; ISO 3.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Les caractéristiques du matériau magnétique : des pistes et la technique d’encodage sont définies par les normes ISO/IEC 7811 de 2 à 5.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Il est à souligner que ces caractéristiques sont extrêmement importantes car elles sont prises en compte par les constructeurs de Guichets Automatiques de Billets au plan Hardware et Software.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Le codage (écriture sur la piste ISO 2) s’effectue avec du matériel et des logiciels spécifiques conformément au descriptif des pistes et aux normes internationales ISO (référence ISO/IEC 7813 et 7811).",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "La mise en place du système carte bancaire nationale, impliquant l’interopérabilité et l’interbancarité des GAB/DAB, requiert la normalisation du contenu informationnel de nombreux champs de piste ISO 2.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Le contenu de ces normes, lié à l’aspect sécurité du système, sera détenu par la Société d’Automatisation des Transactions Interbancaires (SATIM), institution habilitée, et devra être scrupuleusement respecté par toutes les parties concernées.",
+          "page_start": 6,
+          "page_end": 6
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe III",
+      "number": "III",
+      "heading": "GRAVURE DE LA PUCE",
+      "context": {},
+      "annexe": {
+        "number": "III",
+        "heading": "GRAVURE DE LA PUCE",
+        "label": "Annexe III"
+      },
+      "page_start": 7,
+      "page_end": 7,
+      "text": "La carte à microcircuit appelée communément carte à puce contient au recto une puce qui renferme un microprocesseur et de la mémoire.\nLes caractéristiques de la puce et la technique de gravure sont définies par les normes ISO/IEC 7816 et EMV 2000.\nLes spécifications EMV 2000 de la carte à puce définissent :\n- Les caractéristiques électromécaniques, les interfaces logiques et les protocoles de transmission utilisés dans l’échange d’information entre la carte et le terminal de paiement électronique (TPE).\nCes spécifications sont décrites dans le livre n°1 “Application Independent ICC to Terminal\nInterface Requirements” de la norme EMV 2000.\n* ICC = Integrated Circuit Card.",
+      "paragraphs": [
+        {
+          "text": "La carte à microcircuit appelée communément carte à puce contient au recto une puce qui renferme un microprocesseur et de la mémoire.",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Les caractéristiques de la puce et la technique de gravure sont définies par les normes ISO/IEC 7816 et EMV 2000.",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Les spécifications EMV 2000 de la carte à puce définissent :",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "- Les caractéristiques électromécaniques, les interfaces logiques et les protocoles de transmission utilisés dans l’échange d’information entre la carte et le terminal de paiement électronique (TPE).",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Ces spécifications sont décrites dans le livre n°1 “Application Independent ICC to Terminal",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Interface Requirements” de la norme EMV 2000.",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "* ICC = Integrated Circuit Card.",
+          "page_start": 7,
+          "page_end": 7
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe IV",
+      "number": "IV",
+      "heading": "CONFIGURATION DU RECTO DE LA CARTE",
+      "context": {},
+      "annexe": {
+        "number": "IV",
+        "heading": "CONFIGURATION DU RECTO DE LA CARTE",
+        "label": "Annexe IV"
+      },
+      "page_start": 8,
+      "page_end": 8,
+      "text": "L’emplacement de la puce par rapport à la carte :\nA : 10,25 mm C : 19,20 mm\nB : 19,87 mm D : 28,55 mm\nLe numéro d’identification ou numéro de carte (PAN) est défini par ISO. Il comprend trois (3)\néléments :\nIIN/BIN,\nCAN, et CLE DE CONTROLE.\n* IIN/BIN (Issuer Identification Number/Bank Identification Number) :\nC’est le numéro d’identification de l’émetteur de carte (banque du porteur). Il porte sur six (6)\npositions fixes. Ce numéro doit être demandé à l’organisme ISO qui s’assure de son unicité pour chaque émetteur.\n* CAN (Customer Account Number) :\nC’est le numéro d’identification du porteur. Il porte sur 9 positions numériques qui indiquent de gauche à droite :\nDeux (2) positions pour codifier les produits carte émis par les émetteurs. La codification “produit” doit être la même pour toutes les banques et Algérie Poste.\nSept (7) positions de (9 à 15) sont une numérotation chronologique d’enregistrement du porteur.\n* CLE DE CONTROLE :\nIl s’agit de la clé de vérification du numéro de la carte. Cette clé est portée sur une position (position 16). La clé de contrôle est calculée à partir de la formule de Luhn (algorithme de calcul).",
+      "paragraphs": [
+        {
+          "text": "L’emplacement de la puce par rapport à la carte :",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "A : 10,25 mm C : 19,20 mm",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "B : 19,87 mm D : 28,55 mm",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "Le numéro d’identification ou numéro de carte (PAN) est défini par ISO. Il comprend trois (3)",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "éléments :",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "IIN/BIN,",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "CAN, et CLE DE CONTROLE.",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "* IIN/BIN (Issuer Identification Number/Bank Identification Number) :",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "C’est le numéro d’identification de l’émetteur de carte (banque du porteur). Il porte sur six (6)",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "positions fixes. Ce numéro doit être demandé à l’organisme ISO qui s’assure de son unicité pour chaque émetteur.",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "* CAN (Customer Account Number) :",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "C’est le numéro d’identification du porteur. Il porte sur 9 positions numériques qui indiquent de gauche à droite :",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "Deux (2) positions pour codifier les produits carte émis par les émetteurs. La codification “produit” doit être la même pour toutes les banques et Algérie Poste.",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "Sept (7) positions de (9 à 15) sont une numérotation chronologique d’enregistrement du porteur.",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "* CLE DE CONTROLE :",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "Il s’agit de la clé de vérification du numéro de la carte. Cette clé est portée sur une position (position 16). La clé de contrôle est calculée à partir de la formule de Luhn (algorithme de calcul).",
+          "page_start": 8,
+          "page_end": 8
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe V",
+      "number": "V",
+      "heading": "SPECIFICATIONS GENERALES DU LOGICIEL TPE",
+      "context": {},
+      "annexe": {
+        "number": "V",
+        "heading": "SPECIFICATIONS GENERALES DU LOGICIEL TPE",
+        "label": "Annexe V"
+      },
+      "page_start": 9,
+      "page_end": 9,
+      "text": "Les TPE (Terminaux de paiement électronique) installés chez les accepteurs (commerçants, entreprises grands facturiers, ...) sont connectés au centre de serveurs de la SATIM. Ils doivent obéir au protocole SPDH (Standard Point of sale Device Handler), version 6.0 v 4 qui définit les messages échangés entre TPE et le serveur.\nLes TPE doivent respecter la norme ISO / IEC 8825 - 1.\nLes TPE peuvent fonctionner selon deux modes :\nOff line : la transaction s’effectue sur la base des paramètres de gestion du porteur gravés sur la puce,\nOn line : la transaction s’effectue avec la demande d’autorisation au serveur de la SATIM lorsque les seuils off-line sont dépassés.\nLes logiciels installés sur les TPE doivent assurer le traitement des fonctions suivantes :\n- les transactions de vente,\n- les transactions de vente avec pourboire,\n- le retrait sur TPE en agence bancaire, - le remboursement des transactions de vente,\n- la gestion de pré-autorisations.\nLes logiciels installés sur TPE doivent permettre de traiter la liste des cartes en opposition.",
+      "paragraphs": [
+        {
+          "text": "Les TPE (Terminaux de paiement électronique) installés chez les accepteurs (commerçants, entreprises grands facturiers, ...) sont connectés au centre de serveurs de la SATIM. Ils doivent obéir au protocole SPDH (Standard Point of sale Device Handler), version 6.0 v 4 qui définit les messages échangés entre TPE et le serveur.",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "Les TPE doivent respecter la norme ISO / IEC 8825 - 1.",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "Les TPE peuvent fonctionner selon deux modes :",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "Off line : la transaction s’effectue sur la base des paramètres de gestion du porteur gravés sur la puce,",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "On line : la transaction s’effectue avec la demande d’autorisation au serveur de la SATIM lorsque les seuils off-line sont dépassés.",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "Les logiciels installés sur les TPE doivent assurer le traitement des fonctions suivantes :",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "- les transactions de vente,",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "- les transactions de vente avec pourboire,",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "- le retrait sur TPE en agence bancaire, - le remboursement des transactions de vente,",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "- la gestion de pré-autorisations.",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "Les logiciels installés sur TPE doivent permettre de traiter la liste des cartes en opposition.",
+          "page_start": 9,
+          "page_end": 9
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "numerotation:articles_manquants:[10]"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.051
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-05-04.fr.txt"
+}

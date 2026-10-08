@@ -1,0 +1,474 @@
+{
+  "document_id": "INS-01-17.ar",
+  "work_id": "INS-01-17",
+  "title": "تعليمة رقم 01-2017 المؤرخة في 1 مارس 2017، المعدلة والمتممة للتعليمة رقم 02-2004 المؤرخة في 13 ماي 2004، المتعلقة بنظام الاحتياطات الإجبارية.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "01-2017",
+  "number_source": "libelle",
+  "date": "2017-03-01",
+  "date_raw": "المؤرخة في 1 مارس 2017",
+  "date_source": "libelle",
+  "publication_date": "2023-03-02",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "instructions",
+  "subcategory": "أدوات السياسة النقدية",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a3%d8%af%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d9%86%d9%82%d8%af%d9%8a%d8%a9/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/03/01-17.pdf",
+  "format": "pdf",
+  "file_hash": "b7a254120f93fab86bd24e6858558eeac612f47144d9a8c6adf026807ddf0e6a",
+  "file_size": 242652,
+  "raw_path": "raw/b7a254120f93__01-17.pdf",
+  "retrieved_at": "2026-10-05T13:29:13+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 1,
+  "url_hash": "431fb7ebe223ec510c3a179e678f38d56ec230fee4d8cad2bf6a39cc2af01b90",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%a3%d8%af%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d9%86%d9%82%d8%af%d9%8a%d8%a9/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "author": "lynda benhaha",
+    "creator": "Microsoft® Word 2016",
+    "producer": "Microsoft® Word 2016",
+    "creationDate": "D:20230301101126+01'00'",
+    "modDate": "D:20230301101126+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 1207,
+        "ocr_confidence": 83.5631067961165
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 4,
+    "annex_count": 1
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine"
+  ],
+  "title_document": "تعليمة رقم 2017-01 المؤرخة في 1 مارس 2017 تُعدّل وثتمّم التعليمة رقم 2004-02 المؤرخة في 13 ماي 2004 المتعلقة بنظام الاحتياطيات الإجبارية المادة الأولى: تهدف هذه التعليمة إلى تعديل وعاء حساب الاحتياطيات الإجبارية المشار إليه في المادة 6 من التعليمة رقم 2004-02 المؤرخة في 13 ماي 2004 المتعلقة بنظام الاحتياطيات الإجبارية. المادة 2 : ثعدل المادة 6 من التعليمة رقم 2004-02 المؤرخة في 13 ماي 2004 المتعلقة بنظام الاحتياطيات الإجبارية وتحرر كما يلي: » المادة 6 : يجب على البنوك أن ترسل إلى بنك الجزائر- المديرية العامة للدراسات - خلال الخمسة (5) أيام التي تلي إقفال فترة تشكيل الاحتياطيات: تصريحا يبرز وعا",
+  "alias_urls": [],
+  "text_hash": "113c11534f5ab03a4f6a8322ec59391ec45db4b029d1084a8bab9ae94b1f7c13",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-2004",
+        "date": "2004-05-13",
+        "raw": "instruction n°02-2004 du 13 mai 2004"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2017 du 1er mars 2017 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat",
+        "copied_from": "INS-01-17.fr"
+      },
+      "target_work_id": "INS-02-04"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-2004",
+        "date": "2004-05-13",
+        "raw": "instruction n°02-2004 du 13 mai 2004"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2017 du 1er mars 2017 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat",
+        "copied_from": "INS-01-17.fr"
+      },
+      "target_work_id": "INS-02-04"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-2004",
+        "date": "2004-05-13",
+        "raw": "instruction n°02-2004 du 13 mai 2004"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "a présente instruction a pour objet de modifier l’assiette de calcul des réserves obligatoires visée à l’article 6 de l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat",
+        "copied_from": "INS-01-17.fr"
+      },
+      "target_work_id": "INS-02-04"
+    },
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-2013",
+        "date": "2013-04-23",
+        "raw": "instruction n°02-2013 du 23 avril 2013"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions de l’instruction n°02-2013 du 23 avril 2013.",
+        "copied_from": "INS-01-17.fr"
+      },
+      "target_work_id": "INS-02-13"
+    },
+    {
+      "relation": "remplace",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-2013",
+        "date": "2013-04-23",
+        "raw": "instruction n°02-2013 du 23 avril 2013"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions de l’instruction n°02-2013 du 23 avril 2013.",
+        "copied_from": "INS-01-17.fr"
+      },
+      "target_work_id": "INS-02-13"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "INS-02-13",
+      "reference": "instruction n°02-2013 du 23 avril 2013",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions de l’instruction n°02-2013 du 23 avril 2013.",
+        "copied_from": "INS-01-17.fr"
+      }
+    }
+  ],
+  "modifie": [
+    {
+      "work_id": "INS-02-04",
+      "reference": "instruction n°02-2004 du 13 mai 2004",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2017 du 1er mars 2017 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat",
+        "copied_from": "INS-01-17.fr"
+      }
+    },
+    {
+      "work_id": "INS-02-04",
+      "reference": "instruction n°02-2004 du 13 mai 2004",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "a présente instruction a pour objet de modifier l’assiette de calcul des réserves obligatoires visée à l’article 6 de l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat",
+        "copied_from": "INS-01-17.fr"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "INS-02-04",
+      "reference": "instruction n°02-2004 du 13 mai 2004",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2017 du 1er mars 2017 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat",
+        "copied_from": "INS-01-17.fr"
+      }
+    }
+  ],
+  "remplace": [
+    {
+      "work_id": "INS-02-13",
+      "reference": "instruction n°02-2013 du 23 avril 2013",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions de l’instruction n°02-2013 du 23 avril 2013.",
+        "copied_from": "INS-01-17.fr"
+      }
+    }
+  ],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-01-17.fr",
+    "INS-01-17.fr~2"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "INS-02-04",
+      "reference": "instruction n°02-2004 du 13 mai 2004",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2017 du 1er mars 2017 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat",
+        "copied_from": "INS-01-17.fr"
+      }
+    }
+  ],
+  "ocr_numeric_check": {
+    "units": 6,
+    "units_flagged": 0,
+    "units_compared_with_french": 4,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe التعليمة",
+      "number": "التعليمة",
+      "heading": "رقم -2017",
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تعليمة رقم 2017-01 المؤرخة في 1 مارس 2017 تُعدّل وثتمّم التعليمة رقم 2004-02 المؤرخة في 13 ماي 2004 المتعلقة بنظام الاحتياطيات الإجبارية",
+      "paragraphs": [
+        {
+          "text": "تعليمة رقم 2017-01 المؤرخة في 1 مارس 2017 تُعدّل وثتمّم التعليمة رقم 2004-02 المؤرخة في 13 ماي 2004 المتعلقة بنظام الاحتياطيات الإجبارية",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تهدف هذه التعليمة إلى تعديل وعاء حساب الاحتياطيات الإجبارية المشار إليه في المادة 6 من التعليمة رقم 2004-02 المؤرخة في 13 ماي 2004 المتعلقة بنظام الاحتياطيات الإجبارية.",
+      "paragraphs": [
+        {
+          "text": "تهدف هذه التعليمة إلى تعديل وعاء حساب الاحتياطيات الإجبارية المشار إليه في المادة 6 من التعليمة رقم 2004-02 المؤرخة في 13 ماي 2004 المتعلقة بنظام الاحتياطيات الإجبارية.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "ثعدل المادة 6 من التعليمة رقم 2004-02 المؤرخة في 13 ماي 2004 المتعلقة بنظام الاحتياطيات الإجبارية وتحرر كما يلي:\n» المادة 6 : يجب على البنوك أن ترسل إلى بنك الجزائر- المديرية العامة للدراسات - خلال الخمسة (5) أيام التي تلي إقفال فترة تشكيل الاحتياطيات: تصريحا يبرز وعاء حساب الاحتياطيات الإجبارية؛ طبقا للنموذج المرفق كملحق لهذه التعليمة. »",
+      "paragraphs": [
+        {
+          "text": "ثعدل المادة 6 من التعليمة رقم 2004-02 المؤرخة في 13 ماي 2004 المتعلقة بنظام الاحتياطيات الإجبارية وتحرر كما يلي:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "» المادة 6 : يجب على البنوك أن ترسل إلى بنك الجزائر- المديرية العامة للدراسات - خلال الخمسة (5) أيام التي تلي إقفال فترة تشكيل الاحتياطيات: تصريحا يبرز وعاء حساب الاحتياطيات الإجبارية؛ طبقا للنموذج المرفق كملحق لهذه التعليمة. »",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "ثلغي وتعوض هذه التعليمة أحكام التعليمة رقم 2013-02 المؤرخة في 23 أفريل 2013.",
+      "paragraphs": [
+        {
+          "text": "ثلغي وتعوض هذه التعليمة أحكام التعليمة رقم 2013-02 المؤرخة في 23 أفريل 2013.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تدخل هذه التعليمة حيز التنفيذ اعتبارا من تاريخ 15 مارس 2017.\nالمحافظ محمد لوكال",
+      "paragraphs": [
+        {
+          "text": "تدخل هذه التعليمة حيز التنفيذ اعتبارا من تاريخ 15 مارس 2017.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المحافظ محمد لوكال",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe التعليمة",
+      "number": "التعليمة",
+      "heading": "رقم -2017",
+      "context": {},
+      "annexe": {
+        "number": "التعليمة",
+        "heading": "رقم -2017",
+        "label": "Annexe التعليمة"
+      },
+      "page_start": 1,
+      "page_end": 1,
+      "text": "(بآلاف الدينارات)\nالودائع بالدينار 2 الودائع تحت الطلب بد الودائع لأجل ج أذونات الصتدوق د- دقاتر وأتونات الادخار ه ودائع العملاء العابرين و- ودائع حسان الاستيراد ز- ودائع أخرى )1( الأمضاء (2)\nLil (1)‏\n- الودائع التي تمن الحمماتات والكفالات المقدمة.\nes sil 3‏ في الحسليات المحمدة_ )2( إمضاء المسؤول الذي يمحبى على تصريحات gisa‏ 1 20",
+      "paragraphs": [
+        {
+          "text": "(بآلاف الدينارات)",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الودائع بالدينار 2 الودائع تحت الطلب بد الودائع لأجل ج أذونات الصتدوق د- دقاتر وأتونات الادخار ه ودائع العملاء العابرين و- ودائع حسان الاستيراد ز- ودائع أخرى )1( الأمضاء (2)",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Lil (1)‏",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- الودائع التي تمن الحمماتات والكفالات المقدمة.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "es sil 3‏ في الحسليات المحمدة_ )2( إمضاء المسؤول الذي يمحبى على تصريحات gisa‏ 1 20",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.046,
+      "ocr_pages": [
+        1
+      ],
+      "ocr_mean_confidence": 83.6
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/INS-01-17.ar.txt"
+}

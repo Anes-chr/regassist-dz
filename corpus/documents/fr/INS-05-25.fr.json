@@ -1,0 +1,709 @@
+{
+  "document_id": "INS-05-25.fr",
+  "work_id": "INS-05-25",
+  "title": "Instruction n°05-2025 du 17 juillet 2025 relative au droit de change pour voyage à l’étranger.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "05-2025",
+  "number_source": "en-tête du document",
+  "date": "2025-07-17",
+  "date_raw": "N° 05-2025 DU 17 juillet 2025",
+  "date_source": "en-tête du document",
+  "publication_date": "2025-07-17",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Règlementation des changes",
+  "source_url": "https://www.bank-of-algeria.dz/importations-exportations-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2025/07/Instruction-droit-de-change-17-07-2025-FR.pdf",
+  "format": "pdf",
+  "file_hash": "cb2a2b6ffa6fd0cb0f8ff06f92530bac7efde1a81a9eea2230706515fe35fbea",
+  "file_size": 61595,
+  "raw_path": "raw/cb2a2b6ffa6f__Instruction-droit-de-change-17-07-2025-FR.pdf",
+  "retrieved_at": "2026-10-05T13:31:18+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 3,
+  "url_hash": "aaf4d65abf61342e5b2a92838ba8b15688e67f6b12850467b9207326623c6113",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/importations-exportations-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Instruction - droit de change 17-07-2025 FR",
+    "author": "imene.khemici",
+    "creator": "Microsoft Word - Instruction - droit de change 17-07-2025 FR",
+    "producer": "ScanSoft PDF Create! 7",
+    "creationDate": "D:20250717192500+01'00'",
+    "modDate": "D:20250717192500+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 3,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2023,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 2443,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 2142,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 13,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N° 05-2025 DU 17 juillet 2025 RELATIVE AU DROIT DE CHANGE POUR VOYAGE A L’ETRANGER",
+  "alias_urls": [],
+  "text_hash": "7d1788ba4ae8fc450323497ce9bd5ac6dd7f4cea83ae1dad0ef3e289412250e3",
+  "relations_out": [
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "08-97",
+        "date": "1997-08-28",
+        "raw": "instruction N°08-97 du 28 août 1997"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "Toutes dispositions contraires à la présente instruction, notamment celles de l’instruction N°08-97 du 28 août 1997 modifiée et complétée, relative au droi"
+      },
+      "target_work_id": "INS-08-97"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "INS-08-97",
+      "reference": "instruction N°08-97 du 28 août 1997",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "Toutes dispositions contraires à la présente instruction, notamment celles de l’instruction N°08-97 du 28 août 1997 modifiée et complétée, relative au droi"
+      }
+    }
+  ],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [
+    {
+      "work_id": "INS-07-26",
+      "document_id": "INS-07-26.fr",
+      "date": "2026-07-13",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 4,
+        "quote": "Les dispositions de l’instruction N°05-2025 du 17 juillet 2025 relative au droit de change pour voyage"
+      }
+    }
+  ],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "INS-07-26",
+      "document_id": "INS-07-26.fr",
+      "date": "2026-07-13",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 4,
+        "quote": "Les dispositions de l’instruction N°05-2025 du 17 juillet 2025 relative au droit de change pour voyage"
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [
+    {
+      "work_id": "INS-07-26",
+      "document_id": "INS-07-26.fr",
+      "date": "2026-07-13",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 4,
+        "quote": "Les dispositions de l’instruction N°05-2025 du 17 juillet 2025 relative au droit de change pour voyage"
+      }
+    }
+  ],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N° 05-2025 DU 17 juillet 2025\nRELATIVE AU DROIT DE CHANGE POUR VOYAGE A L’ETRANGER",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N° 05-2025 DU 17 juillet 2025",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "RELATIVE AU DROIT DE CHANGE POUR VOYAGE A L’ETRANGER",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "En application des articles 21 et 77 du règlement n° 07-01 du 03 février 2007 modifié et complété, relatif aux règles applicables aux transactions courantes avec l’étranger et aux comptes devises, la présente instruction a pour objet de définir le montant et les modalités d'attribution du droit de change pour voyage à l’étranger au profit des nationaux résidents.",
+      "paragraphs": [
+        {
+          "text": "En application des articles 21 et 77 du règlement n° 07-01 du 03 février 2007 modifié et complété, relatif aux règles applicables aux transactions courantes avec l’étranger et aux comptes devises, la présente instruction a pour objet de définir le montant et les modalités d'attribution du droit de change pour voyage à l’étranger au profit des nationaux résidents.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le montant annuel maximum du droit de change pour voyage à l'étranger, servi une fois au titre de chaque année de référence, défini à l’article 6 ci-dessous est fixé à la contrevaleur en dinars algériens de :\nsept cent cinquante euros (750,00 EUR) ou son équivalent dans une autre devise librement convertible, pour les personnes visées à l’article 1er ci-dessus, âgées de dix-neuf (19) ans et plus ;\ntrois cent euros (300,00 EUR) ou son équivalent dans une autre devise librement convertible, pour les personnes âgées entre douze (12)ans et moins de dix-neuf\n(19) ans, dans la limite de deux (2) enfants par famille.\nLe montant annuel visé aux alinéas précédents demeure à usage exclusif du voyageur auquel il a été servi.\nLes dispositions de la présente instruction ne s’appliquent pas pour les cas de voyages liés à l’accomplissement du Hadj.\nCe montant n’est pas cumulable d'une année sur l'autre et entre dans le seuil de déclaration édictée par la réglementation en vigueur.",
+      "paragraphs": [
+        {
+          "text": "Le montant annuel maximum du droit de change pour voyage à l'étranger, servi une fois au titre de chaque année de référence, défini à l’article 6 ci-dessous est fixé à la contrevaleur en dinars algériens de :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "sept cent cinquante euros (750,00 EUR) ou son équivalent dans une autre devise librement convertible, pour les personnes visées à l’article 1er ci-dessus, âgées de dix-neuf (19) ans et plus ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "trois cent euros (300,00 EUR) ou son équivalent dans une autre devise librement convertible, pour les personnes âgées entre douze (12)ans et moins de dix-neuf",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "(19) ans, dans la limite de deux (2) enfants par famille.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le montant annuel visé aux alinéas précédents demeure à usage exclusif du voyageur auquel il a été servi.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les dispositions de la présente instruction ne s’appliquent pas pour les cas de voyages liés à l’accomplissement du Hadj.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Ce montant n’est pas cumulable d'une année sur l'autre et entre dans le seuil de déclaration édictée par la réglementation en vigueur.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le montant maximum du droit de change pour voyage à l’étranger visé à l’article 2 ci-dessus est attribué pour une durée de séjour égale ou supérieure à sept (7)\njours.",
+      "paragraphs": [
+        {
+          "text": "Le montant maximum du droit de change pour voyage à l’étranger visé à l’article 2 ci-dessus est attribué pour une durée de séjour égale ou supérieure à sept (7)",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "jours.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le règlement de la contre-valeur en dinars algériens du montant du droit de change pour voyage à l’étranger y compris la commission y afférente, doit s’effectuer, au plus tard, trois (3) jours ouvrés avant la date du voyage, auprès des succursales de la\nBanque d’Algérie ou des agences des banques, sur présentation du dossier visé à l’article 5 ci-dessous.",
+      "paragraphs": [
+        {
+          "text": "Le règlement de la contre-valeur en dinars algériens du montant du droit de change pour voyage à l’étranger y compris la commission y afférente, doit s’effectuer, au plus tard, trois (3) jours ouvrés avant la date du voyage, auprès des succursales de la",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Banque d’Algérie ou des agences des banques, sur présentation du dossier visé à l’article 5 ci-dessous.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le bénéficiaire de ce droit doit présenter à cet effet :\n un titre de transport aller/retour, ou une quittance fiscale de voyage terrestre, et le justificatif de paiement de la taxe carburant conformément à la réglementation en vigueur ;\n un passeport en cours de validité du bénéficiaire ;\n une copie de la 1ère page du passeport du bénéficiaire ;\n une copie du visa en cours de validité le cas échéant.\nUne quittance justifiant l’acquittement de la contrevaleur dinars est délivrée au bénéficiaire.\nLe cas échéant, tout national résident peut procéder aux formalités ci-dessus au bénéfice de son conjoint ou de ses ayants droits sur présentation d’une fiche familiale justifiant le lien de parenté.",
+      "paragraphs": [
+        {
+          "text": "Le bénéficiaire de ce droit doit présenter à cet effet :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": " un titre de transport aller/retour, ou une quittance fiscale de voyage terrestre, et le justificatif de paiement de la taxe carburant conformément à la réglementation en vigueur ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": " un passeport en cours de validité du bénéficiaire ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": " une copie de la 1ère page du passeport du bénéficiaire ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": " une copie du visa en cours de validité le cas échéant.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Une quittance justifiant l’acquittement de la contrevaleur dinars est délivrée au bénéficiaire.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le cas échéant, tout national résident peut procéder aux formalités ci-dessus au bénéfice de son conjoint ou de ses ayants droits sur présentation d’une fiche familiale justifiant le lien de parenté.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "En sus de la vérification des documents visés à l’article 5 ci-dessus, les succursales de la Banque d’Algérie ou les agences des banques doivent s’assurer avant l’encaissement de la contre-valeur dinars de ce droit de change :\n que le demandeur n’a pas bénéficié d’un droit de change durant les douze (12)\nderniers mois durant l’année de référence. Il est entendu par année de référence les douze (12) mois courant à partir de la date d’effet de la présente instruction ;\n de l’obtention par le demandeur d’un visa au préalable en fonction de la destination mentionnée dans le titre de voyage, le cas échéant ;\n que le demandeur qui a bénéficié du droit de change durant l’année de référence précédente a effectivement effectué un voyage à l’étranger, le cachet de la police aux frontières faisant foi.\nLe taux de change appliqué pour le calcul de la contre-valeur en dinars du droit de change est le cours de change manuel de vente de la devise en question le jour de l’opération.",
+      "paragraphs": [
+        {
+          "text": "En sus de la vérification des documents visés à l’article 5 ci-dessus, les succursales de la Banque d’Algérie ou les agences des banques doivent s’assurer avant l’encaissement de la contre-valeur dinars de ce droit de change :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": " que le demandeur n’a pas bénéficié d’un droit de change durant les douze (12)",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "derniers mois durant l’année de référence. Il est entendu par année de référence les douze (12) mois courant à partir de la date d’effet de la présente instruction ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": " de l’obtention par le demandeur d’un visa au préalable en fonction de la destination mentionnée dans le titre de voyage, le cas échéant ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": " que le demandeur qui a bénéficié du droit de change durant l’année de référence précédente a effectivement effectué un voyage à l’étranger, le cachet de la police aux frontières faisant foi.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le taux de change appliqué pour le calcul de la contre-valeur en dinars du droit de change est le cours de change manuel de vente de la devise en question le jour de l’opération.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le montant visé à l'article 2 susvisé est délivré par les guichets de la Banque d’Algérie présents aux points de sortie du territoire national, sur présentation des documents justificatifs suivants :\n le passeport en cours de validité du bénéficiaire ;\n la carte d’embarquement délivrée par la compagnie aérienne ou maritime ;\n le reçu de versement de la contrevaleur dinars du droit de change.\nPour les voyageurs par voie terrestre, le montant du droit de change pour voyage à l’étranger est servi au cours de l’accomplissement des formalités de passage aux frontières sur présentation du passeport en cours de validité du bénéficiaire et de la quittance de règlement de la contrevaleur dinars du droit de change.",
+      "paragraphs": [
+        {
+          "text": "Le montant visé à l'article 2 susvisé est délivré par les guichets de la Banque d’Algérie présents aux points de sortie du territoire national, sur présentation des documents justificatifs suivants :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": " le passeport en cours de validité du bénéficiaire ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": " la carte d’embarquement délivrée par la compagnie aérienne ou maritime ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": " le reçu de versement de la contrevaleur dinars du droit de change.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Pour les voyageurs par voie terrestre, le montant du droit de change pour voyage à l’étranger est servi au cours de l’accomplissement des formalités de passage aux frontières sur présentation du passeport en cours de validité du bénéficiaire et de la quittance de règlement de la contrevaleur dinars du droit de change.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "La délivrance du droit de change pour voyage à l’étranger donne obligatoirement lieu à l’inscription par le guichet de la Banque d’Algérie sur le passeport du bénéficiaire, du montant alloué, de la devise étrangère et de la date de l’opération.",
+      "paragraphs": [
+        {
+          "text": "La délivrance du droit de change pour voyage à l’étranger donne obligatoirement lieu à l’inscription par le guichet de la Banque d’Algérie sur le passeport du bénéficiaire, du montant alloué, de la devise étrangère et de la date de l’opération.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Les bénéficiaires du droit de change visés à l’article 2 de la présente instruction, qui auront effectué un séjour effectif inférieur à sept (7) jours, doivent procéder à la restitution du montant de ce droit auprès des succursales de la Banque d’Algérie, dans les cinq (5) jours ouvrés suivant leur retour.\nEn cas d’annulation du voyage, le bénéficiaire doit également restituer, le montant du droit de change attribué.\nSans préjudice de poursuites judiciaires prévues par la législation en vigueur, le non-respect des dispositions des alinéas ci-dessus expose son auteur à la perte de ce droit de change pendant cinq (5) ans.\nCette suspension de cinq (5) ans, cesse de produire son effet pour les mineurs qui en seraient frappés du fait de leur tuteur légal, dès qu’ils auront atteint l’âge de dix-neuf\n(19) ans révolus.",
+      "paragraphs": [
+        {
+          "text": "Les bénéficiaires du droit de change visés à l’article 2 de la présente instruction, qui auront effectué un séjour effectif inférieur à sept (7) jours, doivent procéder à la restitution du montant de ce droit auprès des succursales de la Banque d’Algérie, dans les cinq (5) jours ouvrés suivant leur retour.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "En cas d’annulation du voyage, le bénéficiaire doit également restituer, le montant du droit de change attribué.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Sans préjudice de poursuites judiciaires prévues par la législation en vigueur, le non-respect des dispositions des alinéas ci-dessus expose son auteur à la perte de ce droit de change pendant cinq (5) ans.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Cette suspension de cinq (5) ans, cesse de produire son effet pour les mineurs qui en seraient frappés du fait de leur tuteur légal, dès qu’ils auront atteint l’âge de dix-neuf",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "(19) ans révolus.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Le non-respect des dispositions de la présente instruction, notamment le recours à toute manœuvre visant à dévier l’usage du montant du droit de change visé à l’article 2 ci-dessus de son objet, impliquant sa mise à disposition entre les mains d’une tierce personne qui ne saurait en être le bénéficiaire effectif, constitue une infraction à la législation et à la réglementation des changes qui expose ses auteurs à des poursuites pénales conformément à la législation en vigueur.",
+      "paragraphs": [
+        {
+          "text": "Le non-respect des dispositions de la présente instruction, notamment le recours à toute manœuvre visant à dévier l’usage du montant du droit de change visé à l’article 2 ci-dessus de son objet, impliquant sa mise à disposition entre les mains d’une tierce personne qui ne saurait en être le bénéficiaire effectif, constitue une infraction à la législation et à la réglementation des changes qui expose ses auteurs à des poursuites pénales conformément à la législation en vigueur.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Le montant de ce droit de change et les conditions de son octroi, peuvent-être ajustés, dans les mêmes formes dans lesquelles ils ont été décidés, et ce compte tenu de la viabilité de la balance des paiements.",
+      "paragraphs": [
+        {
+          "text": "Le montant de ce droit de change et les conditions de son octroi, peuvent-être ajustés, dans les mêmes formes dans lesquelles ils ont été décidés, et ce compte tenu de la viabilité de la balance des paiements.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Toutes dispositions contraires à la présente instruction, notamment celles de l’instruction N°08-97 du 28 août 1997 modifiée et complétée, relative au droit de change pour voyage à l’étranger sont abrogées.",
+      "paragraphs": [
+        {
+          "text": "Toutes dispositions contraires à la présente instruction, notamment celles de l’instruction N°08-97 du 28 août 1997 modifiée et complétée, relative au droit de change pour voyage à l’étranger sont abrogées.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "La présente instruction prend effet à compter du 20 juillet 2025.\nLe Gouverneur\nSalah Eddine TALEB",
+      "paragraphs": [
+        {
+          "text": "La présente instruction prend effet à compter du 20 juillet 2025.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Salah Eddine TALEB",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.038
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-05-25.fr.txt"
+}

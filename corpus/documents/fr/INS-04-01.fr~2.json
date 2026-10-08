@@ -1,0 +1,271 @@
+{
+  "document_id": "INS-04-01.fr~2",
+  "work_id": "INS-04-01",
+  "title": "Instruction n°04-2001 du 13 mai 2001 modifiant l’instruction n°01-2001 relative au régime de réserve obligatoire.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "04-2001",
+  "number_source": "en-tête du document",
+  "date": "2001-05-13",
+  "date_raw": "N°04-2001 DU 13 MAI 2001",
+  "date_source": "en-tête du document",
+  "publication_date": "2023-01-24",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Instruments de la politique monétaire",
+  "source_url": "https://www.bank-of-algeria.dz/marche-monetaire-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction042001.pdf",
+  "format": "pdf",
+  "file_hash": "5cbd4ec42794107154da58428694f6e545d4a939723e7b6841c0ba9dea1c4b12",
+  "file_size": 32422,
+  "raw_path": "raw/5cbd4ec42794__instruction042001.pdf",
+  "retrieved_at": "2026-10-05T13:25:54+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "564a7f86498e31f4b85436249b80e3bbab490905539c8f452740cb13daa32034",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/marche-monetaire-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document2",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200922102741+01'00'",
+    "modDate": "D:20200922102741+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 387,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 2,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "meme_texte_plusieurs_fichiers"
+  ],
+  "title_document": "INSTRUCTION N°04-2001 DU 13 MAI 2001 MODIFIANT L'INSTRUCTION N°01-2001 RELATIVE AU REGIME DE RESERVE OBLIGATOIRE",
+  "alias_urls": [],
+  "text_hash": "f5816f1fc171170dcc465eae2795b978c99b5830f4fa6ce3636fb6172c682fa2",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "01-2001",
+        "date": null,
+        "raw": "instruction n°01-2001"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°04-2001 du 13 mai 2001 modifiant l’instruction n°01-2001 relative au régime de réserve obligatoi"
+      },
+      "target_work_id": "INS-01-01"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-01-01",
+      "reference": "instruction n°01-2001",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°04-2001 du 13 mai 2001 modifiant l’instruction n°01-2001 relative au régime de réserve obligatoi"
+      }
+    }
+  ],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [
+    {
+      "work_id": "INS-06-01",
+      "document_id": "INS-06-01.fr",
+      "date": "2001-12-06",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge l'instruction n°04-2001 du 13 mai 2001, modifiant l'instruction n°01-2001 du 1"
+      }
+    }
+  ],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "INS-06-01",
+      "document_id": "INS-06-01.fr",
+      "date": "2001-12-06",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge l'instruction n°04-2001 du 13 mai 2001, modifiant l'instruction n°01-2001 du 1"
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [
+    "INS-04-01.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [
+    {
+      "work_id": "INS-06-01",
+      "document_id": "INS-06-01.fr",
+      "date": "2001-12-06",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge l'instruction n°04-2001 du 13 mai 2001, modifiant l'instruction n°01-2001 du 1"
+      }
+    }
+  ],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°04-2001 DU 13 MAI 2001 MODIFIANT\nL'INSTRUCTION N°01-2001 RELATIVE AU REGIME DE RESERVE OBLIGATOIRE",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°04-2001 DU 13 MAI 2001 MODIFIANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L'INSTRUCTION N°01-2001 RELATIVE AU REGIME DE RESERVE OBLIGATOIRE",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le taux de réserve visé à l'article 4 de l'instruction n°01-2001 du 11 février 2001 relative au régime de réserve obligatoire est fixé à 3%.",
+      "paragraphs": [
+        {
+          "text": "Le taux de réserve visé à l'article 4 de l'instruction n°01-2001 du 11 février 2001 relative au régime de réserve obligatoire est fixé à 3%.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction entre en vigueur à compter du 15 Mai 2001.\nLe Gouverneur\nAbdelouahab KERAMANE",
+      "paragraphs": [
+        {
+          "text": "La présente instruction entre en vigueur à compter du 15 Mai 2001.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "meme_texte_plusieurs_fichiers"
+    ],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.044
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-04-01.fr~2.txt"
+}

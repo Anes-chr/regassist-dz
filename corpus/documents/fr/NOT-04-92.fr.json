@@ -1,0 +1,223 @@
+{
+  "document_id": "NOT-04-92.fr",
+  "work_id": "NOT-04-92",
+  "title": "Note n°04-92 du 15 septembre 1992 relative aux importations dites “sans paiement” de marchandises réglées par débit de comptes devises “particuliers”.",
+  "document_type": "note",
+  "type_code": "NOT",
+  "type_source": "label",
+  "number": "04-92",
+  "number_source": "en-tête du document",
+  "date": "1992-09-15",
+  "date_raw": "N°04-92 DU 15 SEPTEMBRE 1992",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-05",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "notes_aux_banques",
+  "subcategory": "Année 1992",
+  "source_url": "https://www.bank-of-algeria.dz/les-notes-aux-banques-1992/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/05/note0492.pdf",
+  "format": "pdf",
+  "file_hash": "ba3665dd386f03e0f3e6e3db4553eb9e26a021d016713008b10f73fb44a36c14",
+  "file_size": 50703,
+  "raw_path": "raw/ba3665dd386f__note0492.pdf",
+  "retrieved_at": "2026-10-05T13:23:55+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "050fc82ea8cd66245f1020a617a4187ab6e44132d02a395ece0d46fdbe38a232",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/les-notes-aux-banques-1992/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document1",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210302121004+01'00'",
+    "modDate": "D:20210302121004+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 1488,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": false,
+    "article_count": 0,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "NOTE N°04-92 DU 15 SEPTEMBRE 1992 AUX BANQUES INTERMEDIAIRES AGREES RELATIVE AUX IMPORTATIONS DITES « SANS PAIEMENT » DE MARCHANDISES REGLEES PAR DEBIT DE COMPTES DEVISES « PARTICULIERS »",
+  "alias_urls": [],
+  "text_hash": "e210638acaf72daa2e27ad12ec500bc1df315b4f9cec4ceb5e8adcfee24138dc",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [
+    {
+      "work_id": "INS-29-94",
+      "document_id": "INS-29-94.fr",
+      "date": "1994-05-09",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "t abrogées et notamment les dispositions des instructions n°06-91 du 17 octobre 1991, n°02-92 du 14 avril 1992 et de la note n°04-92 du 15 septembre 1992."
+      }
+    }
+  ],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "INS-29-94",
+      "document_id": "INS-29-94.fr",
+      "date": "1994-05-09",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "t abrogées et notamment les dispositions des instructions n°06-91 du 17 octobre 1991, n°02-92 du 14 avril 1992 et de la note n°04-92 du 15 septembre 1992."
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [
+    {
+      "work_id": "INS-29-94",
+      "document_id": "INS-29-94.fr",
+      "date": "1994-05-09",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "t abrogées et notamment les dispositions des instructions n°06-91 du 17 octobre 1991, n°02-92 du 14 avril 1992 et de la note n°04-92 du 15 septembre 1992."
+      }
+    }
+  ],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "NOTE N°04-92 DU 15 SEPTEMBRE 1992 AUX BANQUES INTERMEDIAIRES\nAGREES RELATIVE AUX IMPORTATIONS DITES « SANS PAIEMENT » DE\nMARCHANDISES REGLEES PAR DEBIT DE COMPTES DEVISES « PARTICULIERS »\nObjet : Importations dites « SANS PAIEMENT » de marchandises réglées par débit de comptes devises « particuliers »\nIl a été porté à notre connaissance que certains guichets de banques procèdent à l'ouverture de dossier de domiciliation pour des opérations d'importations dites « SANS\nPAIEMENT » de marchandises réglées par débit de comptes devises « particuliers ».\nLa présente note a pour objet de rappeler que les opérations d'importations visées en objet ne sont soumises à domiciliation tel qu’édicté dans le règlement n°91-12 du 14 août 1991 relatif à la domiciliation des importations.\nElles font toutefois l'objet d'une procédure spécifique d'enregistrement du règlement par débit de comptes devises « particuliers » et ce, conformément aux dispositions de l'instruction n°06-91 du 17 octobre 1991 fixant les modalités de règlement des importations dites « SANS PAIEMENT » de marchandises réalisées dans le cadre des articles 40 et 41 de la Loi de finances complémentaire pour 1990.\nEn conséquence, les Banques voudront bien inviter leurs guichets à se conformer scrupuleusement aux dispositions de ladite Instruction pour le traitement des opérations d'importation de cette nature.\nLe Directeur du Contrôle des Changes\nD. SAIDI\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "NOTE N°04-92 DU 15 SEPTEMBRE 1992 AUX BANQUES INTERMEDIAIRES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AGREES RELATIVE AUX IMPORTATIONS DITES « SANS PAIEMENT » DE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "MARCHANDISES REGLEES PAR DEBIT DE COMPTES DEVISES « PARTICULIERS »",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Objet : Importations dites « SANS PAIEMENT » de marchandises réglées par débit de comptes devises « particuliers »",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Il a été porté à notre connaissance que certains guichets de banques procèdent à l'ouverture de dossier de domiciliation pour des opérations d'importations dites « SANS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "PAIEMENT » de marchandises réglées par débit de comptes devises « particuliers ».",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La présente note a pour objet de rappeler que les opérations d'importations visées en objet ne sont soumises à domiciliation tel qu’édicté dans le règlement n°91-12 du 14 août 1991 relatif à la domiciliation des importations.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Elles font toutefois l'objet d'une procédure spécifique d'enregistrement du règlement par débit de comptes devises « particuliers » et ce, conformément aux dispositions de l'instruction n°06-91 du 17 octobre 1991 fixant les modalités de règlement des importations dites « SANS PAIEMENT » de marchandises réalisées dans le cadre des articles 40 et 41 de la Loi de finances complémentaire pour 1990.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "En conséquence, les Banques voudront bien inviter leurs guichets à se conformer scrupuleusement aux dispositions de ladite Instruction pour le traitement des opérations d'importation de cette nature.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Directeur du Contrôle des Changes",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "D. SAIDI",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.032
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/NOT-04-92.fr.txt"
+}

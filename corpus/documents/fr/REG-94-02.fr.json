@@ -1,0 +1,436 @@
+{
+  "document_id": "REG-94-02.fr",
+  "work_id": "REG-94-02",
+  "title": "Règlement n°94-02 du 6 avril 1994 portant émission d’une pièce de monnaie métallique de cinquante (50) dinars algériens.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "94-02",
+  "number_source": "en-tête du document",
+  "date": "1994-04-06",
+  "date_raw": "N°94-02 DU 6 AVRIL 1994",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "règlements",
+  "subcategory": "Pièces de monnaie : Création, émission et mise en circulation de pièces de monnaie métalliques",
+  "source_url": "https://www.bank-of-algeria.dz/reglement-piece-de-monnaie/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement9402.pdf",
+  "format": "pdf",
+  "file_hash": "5d254b1e7e61b19e73b7bb15d00bb674fcb9d0b667eeeca5c8501d3d0d252b7b",
+  "file_size": 70016,
+  "raw_path": "raw/5d254b1e7e61__reglement9402.pdf",
+  "retrieved_at": "2026-10-05T13:23:16+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "eeeb3bad75006fc375b362a02f30e2534a248d902edaebff20bbc6a965992b13",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/piece-de-monnaie/",
+    "https://www.bank-of-algeria.dz/reglement-1994/",
+    "https://www.bank-of-algeria.dz/reglement-piece-de-monnaie/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document26",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210221095042+01'00'",
+    "modDate": "D:20210221095042+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2236,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 1040,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 2,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "REGLEMENT N°94-02 DU 6 AVRIL 1994 PORTANT EMISSION D'UNE PIECE DE MONNAIE METALLIQUE DE CINQUANTE (50) DINARS ALGERIENS",
+  "alias_urls": [],
+  "text_hash": "9f228f358426dba877f277bb9ce81bd35becdab5d6b01f14010aaacf64ca8a2a",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-94-02.ar"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°94-02 DU 6 AVRIL 1994 PORTANT\nEMISSION D'UNE PIECE DE MONNAIE METALLIQUE\nDE CINQUANTE (50) DINARS ALGERIENS\nLe Gouverneur de la Banque d'Algérie,\n- Vu la Loi n°90-10 du 14 avril 1990 relative à la monnaie et au crédit notamment les dispositions de son livre I, de ses articles 44 alinéa a, 47 et 107 ;\n- Vu le Décret Législatif n°93-18 du 29 décembre 1993 portant Loi de Finances pour 1994 notamment son article 69 ;\n- Vu le Décret Présidentiel du 21 juillet 1992 portant nomination du Gouverneur de la Banque d'Algérie ;\n- Vu les Décrets Présidentiels du 14 mai 1990 portant nomination de Vice-Gouverneurs de la\nBanque d'Algérie ;\n- Vu le Décret Exécutif du 1er juillet 1991 portant désignation de membres titulaires et suppléants au Conseil de la Monnaie et du Crédit ;\n- Vu le règlement n°94-01 du 6 avril 1994 portant création d'une série de pièces de monnaie métalliques en dinars algériens de : Cinquante (50), Vingt (20), Dix (10), Cinq (5), Deux (2), Un (1), Un Demi (1/2) et Un Quart (1/4) ;\n- Après délibération du Conseil de la Monnaie et du Crédit en date du 6 avril 1994 ;\nPromulgue le Règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°94-02 DU 6 AVRIL 1994 PORTANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "EMISSION D'UNE PIECE DE MONNAIE METALLIQUE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DE CINQUANTE (50) DINARS ALGERIENS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d'Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la Loi n°90-10 du 14 avril 1990 relative à la monnaie et au crédit notamment les dispositions de son livre I, de ses articles 44 alinéa a, 47 et 107 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Législatif n°93-18 du 29 décembre 1993 portant Loi de Finances pour 1994 notamment son article 69 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 21 juillet 1992 portant nomination du Gouverneur de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu les Décrets Présidentiels du 14 mai 1990 portant nomination de Vice-Gouverneurs de la",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Exécutif du 1er juillet 1991 portant désignation de membres titulaires et suppléants au Conseil de la Monnaie et du Crédit ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n°94-01 du 6 avril 1994 portant création d'une série de pièces de monnaie métalliques en dinars algériens de : Cinquante (50), Vingt (20), Dix (10), Cinq (5), Deux (2), Un (1), Un Demi (1/2) et Un Quart (1/4) ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Après délibération du Conseil de la Monnaie et du Crédit en date du 6 avril 1994 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le Règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Dans le cadre du Règlement n°94-01 du 6 Avril 1994 portant création d'une série de pièces de monnaie métalliques en dinars algériens de : Cinquante (50), Vingt (20), Dix (10), Cinq (5), Deux (2), Un (1), Un Demi (1/2) et Un Quart (1/4), la Banque d'Algérie émet une nouvelle pièce de monnaie métallique de Cinquante (50) dinars algériens dont la mise en circulation sera assurée à compter du 24 Mai 1994.",
+      "paragraphs": [
+        {
+          "text": "Dans le cadre du Règlement n°94-01 du 6 Avril 1994 portant création d'une série de pièces de monnaie métalliques en dinars algériens de : Cinquante (50), Vingt (20), Dix (10), Cinq (5), Deux (2), Un (1), Un Demi (1/2) et Un Quart (1/4), la Banque d'Algérie émet une nouvelle pièce de monnaie métallique de Cinquante (50) dinars algériens dont la mise en circulation sera assurée à compter du 24 Mai 1994.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "Les caractéristiques techniques et descriptions de cette pièce sont les suivantes :\n1.1 - Présentation :\nLa pièce de Cinquante (50) Dinars est de type bimétallique.\nElle est constituée d'une couronne extérieure en bronze de couleur jaune et d'un cœur en acier inoxydable serti à l'intérieur de cette couronne et de couleur gris acier.\n1.2 - Spécifications :\n- Diamètre extérieur : 28,50 + 0,05 mm\n- Diamètre du cœur : 19,55 + 0,05 mm\n- Poids de la couronne : 5,10 + 0,14 g\n- Poids du cœur : 4,17 + 0,14 g\n- Poids total : 9,27 + 0,28 g\n- Épaisseur au cordon : 2,26 + 0,06 mm\nBANK OF ALGERIA\n1.3 - Composition :\n- Cœur : Acier : AISI 430\n- Couronne : Cuivre : 92 %\n- Aluminium : 6 %\n- Nickel : 2 % 1.4 - Description :\n1) - Avers :\nA) - A l'intérieur du cœur :\nMotif principal : Chiffre 50, stylisé et inspiré d'un décor architectural de l'époque\nOttomane.\nB) - Sur la couronne :\n1 - Mentions en toutes lettres (en langue nationale) :\n- Sur la partie supérieure : Banque d'Algérie\n- Sur la partie inférieure : Dinars\n2 - Horizontalement : Une étoile de part et d'autre du chiffre 50.\n2) - Revers :\nA) - A l'intérieur du cœur :\n1 - Motif principal : Tête de gazelle « Dama Algérienne » orientée vers la gauche.\n2 - De part et d'autre de la tête de gazelle, le double millésime hégirien et grégorien de l'année de frappe.\nB) - Sur la couronne :\n1 - Motif décoratif circulaire stylisé et inspiré des arcs architecturaux de l'époque\nOttomane.\n2 - Prolongement des cornes et de la partie inférieure du cou de la gazelle.\n3 - Tranche : Lisse.\nLe Gouverneur\nAbdelouahab KERAMANE",
+      "paragraphs": [
+        {
+          "text": "Les caractéristiques techniques et descriptions de cette pièce sont les suivantes :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "1.1 - Présentation :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La pièce de Cinquante (50) Dinars est de type bimétallique.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Elle est constituée d'une couronne extérieure en bronze de couleur jaune et d'un cœur en acier inoxydable serti à l'intérieur de cette couronne et de couleur gris acier.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "1.2 - Spécifications :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Diamètre extérieur : 28,50 + 0,05 mm",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Diamètre du cœur : 19,55 + 0,05 mm",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Poids de la couronne : 5,10 + 0,14 g",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Poids du cœur : 4,17 + 0,14 g",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Poids total : 9,27 + 0,28 g",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Épaisseur au cordon : 2,26 + 0,06 mm",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "1.3 - Composition :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Cœur : Acier : AISI 430",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Couronne : Cuivre : 92 %",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Aluminium : 6 %",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Nickel : 2 % 1.4 - Description :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "1) - Avers :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "A) - A l'intérieur du cœur :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Motif principal : Chiffre 50, stylisé et inspiré d'un décor architectural de l'époque",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Ottomane.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "B) - Sur la couronne :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "1 - Mentions en toutes lettres (en langue nationale) :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Sur la partie supérieure : Banque d'Algérie",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Sur la partie inférieure : Dinars",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "2 - Horizontalement : Une étoile de part et d'autre du chiffre 50.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "2) - Revers :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "A) - A l'intérieur du cœur :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "1 - Motif principal : Tête de gazelle « Dama Algérienne » orientée vers la gauche.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "2 - De part et d'autre de la tête de gazelle, le double millésime hégirien et grégorien de l'année de frappe.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "B) - Sur la couronne :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "1 - Motif décoratif circulaire stylisé et inspiré des arcs architecturaux de l'époque",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Ottomane.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "2 - Prolongement des cornes et de la partie inférieure du cou de la gazelle.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "3 - Tranche : Lisse.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.083
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-94-02.fr.txt"
+}

@@ -1,0 +1,389 @@
+{
+  "document_id": "INS-07-97.fr",
+  "work_id": "INS-07-97",
+  "title": "Instruction n°07-97 du 17 août 1997 fixant le cadre d’orientations en matière d’endettement extérieur.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "07-97",
+  "number_source": "en-tête du document",
+  "date": "1997-08-17",
+  "date_raw": "N°07-97 DU 17 AOUT 1997",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction0797.pdf",
+      "uploaded": "2023-01-24T10:06:20"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Année 1997",
+  "source_url": "https://www.bank-of-algeria.dz/annee-1997/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction0797.pdf",
+  "format": "pdf",
+  "file_hash": "d46349675252e41e99d6d5276ccbb968230f9c1389ee7f2c83d07ffea41eee5f",
+  "file_size": 31253,
+  "raw_path": "raw/d46349675252__instruction0797.pdf",
+  "retrieved_at": "2026-10-05T13:21:46+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "19973a688f9d3127bc6268572425a1ec240769eb3b7fc3460ccad45c61f23909",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-1997/",
+    "https://www.bank-of-algeria.dz/deplacements-des-groupements-sportifs-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document2",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200813150253+01'00'",
+    "modDate": "D:20200813150253+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 1837,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 6,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°07-97 DU 17 AOUT 1997 FIXANT LE CADRE D'ORIENTATIONS EN MATIERE D'ENDETTEMENT EXTERIEUR",
+  "alias_urls": [
+    {
+      "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction0797.pdf",
+      "source_url": "https://www.bank-of-algeria.dz/deplacements-des-groupements-sportifs-instruction/",
+      "title": "Instruction n°07-97 du 17 août 1997 fixant le cadre d’orientations en matière d’endettement extérieur."
+    }
+  ],
+  "text_hash": "14ebfb8a5042db1e1fcf1ac5907fc8b86d7041f4485777a4abcddd8c394e0abe",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "20-94",
+        "date": "1994-04-12",
+        "raw": "instruction n°20-94 du 12 avril 1994"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "L'article 7 de l'instruction n°20-94 du 12 avril 1994 suscitée est modifié et complété comme"
+      },
+      "target_work_id": "INS-20-94"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-20-94",
+      "reference": "instruction n°20-94 du 12 avril 1994",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "L'article 7 de l'instruction n°20-94 du 12 avril 1994 suscitée est modifié et complété comme"
+      }
+    }
+  ],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°07-97 DU 17 AOUT 1997 FIXANT\nLE CADRE D'ORIENTATIONS EN MATIERE D'ENDETTEMENT EXTERIEUR",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°07-97 DU 17 AOUT 1997 FIXANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "LE CADRE D'ORIENTATIONS EN MATIERE D'ENDETTEMENT EXTERIEUR",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente Instruction a pour objet de :\n- mettre en œuvre des dispositions de l'article 28 du règlement n°95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes ;\n- modifier et compléter l'instruction n°20-94 du 12 avril 1994 fixant les conditions financières des opérations d'importation.",
+      "paragraphs": [
+        {
+          "text": "La présente Instruction a pour objet de :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- mettre en œuvre des dispositions de l'article 28 du règlement n°95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- modifier et compléter l'instruction n°20-94 du 12 avril 1994 fixant les conditions financières des opérations d'importation.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La Banque d'Algérie communiquera périodiquement aux banques et établissements financiers, Intermédiaires Agréés, des orientations sur les conditions de financement en matière d'endettement.",
+      "paragraphs": [
+        {
+          "text": "La Banque d'Algérie communiquera périodiquement aux banques et établissements financiers, Intermédiaires Agréés, des orientations sur les conditions de financement en matière d'endettement.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L'article 7 de l'instruction n°20-94 du 12 avril 1994 suscitée est modifié et complété comme suit :\n\"Article 7 - Pour l'importation des produits, l'opérateur, en concertation avec sa banque ou son établissement financier, Intermédiaire Agréé à la possibilité :\n- soit de la régler au comptant ;\n- soit de la financer, par imputation sur une ligne de crédit multilatérale ou gouvernementale ;\n- soit en cas d'épuisement de telles lignes ou d'inéligibilité de l'opération à celles-ci, de la financer par recours à un crédit - export dont les conditions s'inscrivent dans le cadre des orientations périodiques visées à l'article 2 ci-dessus.\nL'importation de ces produits peut également être réglée par débit de compte - devises\".",
+      "paragraphs": [
+        {
+          "text": "L'article 7 de l'instruction n°20-94 du 12 avril 1994 suscitée est modifié et complété comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "\"Article 7 - Pour l'importation des produits, l'opérateur, en concertation avec sa banque ou son établissement financier, Intermédiaire Agréé à la possibilité :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- soit de la régler au comptant ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- soit de la financer, par imputation sur une ligne de crédit multilatérale ou gouvernementale ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- soit en cas d'épuisement de telles lignes ou d'inéligibilité de l'opération à celles-ci, de la financer par recours à un crédit - export dont les conditions s'inscrivent dans le cadre des orientations périodiques visées à l'article 2 ci-dessus.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L'importation de ces produits peut également être réglée par débit de compte - devises\".",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L'appréciation des conditions de financement des importations relève des banques et établissements financier, intermédiaires agréés domiciliataires.",
+      "paragraphs": [
+        {
+          "text": "L'appréciation des conditions de financement des importations relève des banques et établissements financier, intermédiaires agréés domiciliataires.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Toutes dispositions réglementaires antérieures contraires à la présente\nInstruction sont abrogées.",
+      "paragraphs": [
+        {
+          "text": "Toutes dispositions réglementaires antérieures contraires à la présente",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Instruction sont abrogées.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente Instruction est applicable à compter de la date de sa signature.\nLe Gouverneur\nAbdelouahab KERAMANE",
+      "paragraphs": [
+        {
+          "text": "La présente Instruction est applicable à compter de la date de sa signature.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.044
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-07-97.fr.txt"
+}

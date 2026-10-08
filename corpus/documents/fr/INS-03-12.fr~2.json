@@ -1,0 +1,711 @@
+{
+  "document_id": "INS-03-12.fr~2",
+  "work_id": "INS-03-12",
+  "title": "Instruction n°03-2012 du 26 décembre 2012 fixant la procédure relative au droit au compte.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "03-2012",
+  "number_source": "libelle",
+  "date": "2012-12-26",
+  "date_raw": "n°03-2012 du 26 décembre 2012",
+  "date_source": "libelle",
+  "publication_date": "2023-01-24",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Inclusion financière",
+  "source_url": "https://www.bank-of-algeria.dz/compte-bancaire-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/PDF.js-viewer.pdf",
+  "format": "pdf",
+  "file_hash": "62b7cfb88d7cb9e370a27179a72e9ce9b7e001028a68382e5db6b9f380771520",
+  "file_size": 1042632,
+  "raw_path": "raw/62b7cfb88d7c__PDF.js-viewer.pdf",
+  "retrieved_at": "2026-10-05T13:25:21+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 4,
+  "url_hash": "449383b8e2532f7bad8ac703bc125993646ee7912b0a6d7c4a6e8473bf696b7e",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/compte-bancaire-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "PDF.js viewer",
+    "author": "ikram.blat",
+    "creator": "PDF24 Creator",
+    "producer": "GPL Ghostscript 9.27",
+    "creationDate": "D:20230124095225+01'00'",
+    "modDate": "D:20230124095225+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 4,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 3033,
+        "ocr_confidence": 93.83657587548637
+      },
+      {
+        "page": 2,
+        "method": "ocr",
+        "chars": 1192,
+        "ocr_confidence": 93.58638743455498
+      },
+      {
+        "page": 3,
+        "method": "ocr",
+        "chars": 2200,
+        "ocr_confidence": 93.41534391534391
+      },
+      {
+        "page": 4,
+        "method": "ocr",
+        "chars": 979,
+        "ocr_confidence": 85.64028776978417
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 8,
+    "annex_count": 2
+  },
+  "quality_flags": [
+    "meme_texte_plusieurs_fichiers",
+    "ocr_utilise_verification_humaine",
+    "numerotation:premier_article=2"
+  ],
+  "title_document": "INSTRUCTION N°03-2012 DU 26 DECEMBRE 2012 FIXANT LA PROCEDURE RELATIVE AU DROIT AU COMPTE",
+  "alias_urls": [],
+  "text_hash": "c7df9cd69b5cce97d138482af0ad0ec61f1f6ed4595e395e90d32def732bbb77",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-03-12.ar",
+    "INS-03-12.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe 1",
+      "number": "1",
+      "heading": "A L'INSTRUCTION N°03-2012 DU 26 DECEMBRE 2012 MODELE DE LETTRE DE REFUS D'OUVERTURE DE COMPTE",
+      "page_start": 2,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe 2",
+      "number": "2",
+      "heading": "A L'INSTRUCTION N°03-2012 DU 26 DECEMBRE 2012 DEMANDE D'INTERVENTION DE LA BANQUE D'’ALGERIE EXERCICE DU DROIT AU COMPTE DE DEPOT POUR UNE PERSONNE PHYSIQUE",
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°03-2012 DU 26 DECEMBRE 2012 FIXANT\nLA PROCEDURE RELATIVE AU DROIT AU COMPTE\nArticle 1°' : En application de l’article 119 bis de l’'Ordonnance n°03-11 du 26 août 2003 relative à la monnaie et au crédit, modifiée et complétée, la présente instruction a pour objet de fixer la procédure relative au droit au compte.",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°03-2012 DU 26 DECEMBRE 2012 FIXANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "LA PROCEDURE RELATIVE AU DROIT AU COMPTE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Article 1°' : En application de l’article 119 bis de l’'Ordonnance n°03-11 du 26 août 2003 relative à la monnaie et au crédit, modifiée et complétée, la présente instruction a pour objet de fixer la procédure relative au droit au compte.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Toute personne physique ou morale domiciliée en Algérie, ne disposant pas d'un compte de dépôt en monnaie nationale, a droit à l'ouverture d’un tel compte dans une banque.\nL'ouverture d'un tel compte intervient après remise à la Banque d'Algérie d'une déclaration sur l'honneur attestant le fait que le demandeur ne dispose d'aucun compte, accompagnée par les attestations de refus délivrées par les banques de la place d'accéder à la demande de la personne concernée.",
+      "paragraphs": [
+        {
+          "text": "Toute personne physique ou morale domiciliée en Algérie, ne disposant pas d'un compte de dépôt en monnaie nationale, a droit à l'ouverture d’un tel compte dans une banque.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L'ouverture d'un tel compte intervient après remise à la Banque d'Algérie d'une déclaration sur l'honneur attestant le fait que le demandeur ne dispose d'aucun compte, accompagnée par les attestations de refus délivrées par les banques de la place d'accéder à la demande de la personne concernée.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "En cas de refus des banques de la place d'ouvrir un compte, celles-ci sont tenues de délivrer au demandeur une attestation de refus d'ouverture de compte établie selon le modèle joint en annexe 1.",
+      "paragraphs": [
+        {
+          "text": "En cas de refus des banques de la place d'ouvrir un compte, celles-ci sont tenues de délivrer au demandeur une attestation de refus d'ouverture de compte établie selon le modèle joint en annexe 1.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La personne qui fait l’objet d’un refus peut alors saisir la Banque d'Algérie afin qu'elle lui désigne une banque. Cette désignation intervient dans un délai de cinq (5)\njours ouvrés à compter de la réception de la demande accompagnée de ou des attestations de refus d'ouverture de compte et de la déclaration sur l'honneur qu'il ne dispose d'aucun compte bancaire.",
+      "paragraphs": [
+        {
+          "text": "La personne qui fait l’objet d’un refus peut alors saisir la Banque d'Algérie afin qu'elle lui désigne une banque. Cette désignation intervient dans un délai de cinq (5)",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "jours ouvrés à compter de la réception de la demande accompagnée de ou des attestations de refus d'ouverture de compte et de la déclaration sur l'honneur qu'il ne dispose d'aucun compte bancaire.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Toute banque de la place qui refuse l'ouverture d'un compte est tenue d'informer le demandeur qu'il peut solliciter la Banque d'Algérie de lui désigner une banque pour lui ouvrir un compte en cas de refus des banques de la place. Elle lui propose d'agir en son nom et pour son compte en transmettant la demande de désignation d'une banque à la Banque d'Algérie établie selon le modèle joint en annexe 2 ainsi que les informations requises pour l'ouverture du compte.",
+      "paragraphs": [
+        {
+          "text": "Toute banque de la place qui refuse l'ouverture d'un compte est tenue d'informer le demandeur qu'il peut solliciter la Banque d'Algérie de lui désigner une banque pour lui ouvrir un compte en cas de refus des banques de la place. Elle lui propose d'agir en son nom et pour son compte en transmettant la demande de désignation d'une banque à la Banque d'Algérie établie selon le modèle joint en annexe 2 ainsi que les informations requises pour l'ouverture du compte.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les banques peuvent limiter, dans le cadre de la procédure relative au droit au compte, les services liés à l'ouverture d'un compte de dépôt aux services bancaires de base.",
+      "paragraphs": [
+        {
+          "text": "Les banques peuvent limiter, dans le cadre de la procédure relative au droit au compte, les services liés à l'ouverture d'un compte de dépôt aux services bancaires de base.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les services bancaires de base mentionnés à l’article précédent comprennent notamment :\n- l'ouverture, la tenue et la clôture du compte ;\n- l'envoi périodique de relevé des opérations effectuées sur le compte ;\n- l'encaissement de chèques et de virements bancaires ;\n- les dépôts et les retraits d'espèces au guichet de la banque teneur de compte ;\n- les paiements par prélèvement ou virement bancaire ;\n- des moyens de consultation à distance du solde du compte, lorsque la banque offre ce service ;\n- une carte bancaire.",
+      "paragraphs": [
+        {
+          "text": "Les services bancaires de base mentionnés à l’article précédent comprennent notamment :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- l'ouverture, la tenue et la clôture du compte ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- l'envoi périodique de relevé des opérations effectuées sur le compte ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- l'encaissement de chèques et de virements bancaires ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- les dépôts et les retraits d'espèces au guichet de la banque teneur de compte ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- les paiements par prélèvement ou virement bancaire ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- des moyens de consultation à distance du solde du compte, lorsque la banque offre ce service ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- une carte bancaire.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Toute décision de clôture de compte à l'initiative de la banque désignée par la\nBanque d'Algérie doit faire l'objet d'une notification écrite et motivée adressée au client et à la Banque d'Algérie pour information. Un délai minimum de deux mois doit être consenti au titulaire du compte pour la clôture du compte.",
+      "paragraphs": [
+        {
+          "text": "Toute décision de clôture de compte à l'initiative de la banque désignée par la",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Banque d'Algérie doit faire l'objet d'une notification écrite et motivée adressée au client et à la Banque d'Algérie pour information. Un délai minimum de deux mois doit être consenti au titulaire du compte pour la clôture du compte.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction entre en vigueur à compter du 2 janvier 2013.\nLe Gouverneur\nMohammed LAKSACI",
+      "paragraphs": [
+        {
+          "text": "La présente instruction entre en vigueur à compter du 2 janvier 2013.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe 1",
+      "number": "1",
+      "heading": "A L'INSTRUCTION N°03-2012 DU 26 DECEMBRE 2012 MODELE DE LETTRE DE REFUS D'OUVERTURE DE COMPTE",
+      "context": {},
+      "annexe": {
+        "number": "1",
+        "heading": "A L'INSTRUCTION N°03-2012 DU 26 DECEMBRE 2012 MODELE DE LETTRE DE REFUS D'OUVERTURE DE COMPTE",
+        "label": "Annexe 1"
+      },
+      "page_start": 2,
+      "page_end": 3,
+      "text": "Au recto\nMadame, Monsieur,\nVous avez souhaité ouvrir un compte de dépôt dans notre banque.\nCependant, nous sommes au regret de vous informer que nous ne donnons pas une réponse favorable à votre demande.\nNous vous informons, toutefois, que dans le cas où vous ne disposeriez d'aucun compte de dépôt, il vous est possible, conformément à la législation sur le droit au compte, de prendre contact avec la succursale de la Banque d'Algérie la plus proche de votre domicile, à l'adresse suivante :\nNous vous informons également que nous pouvons effectuer cette démarche, en votre nom et pour votre compte, auprès de la Banque d'Algérie et si vous le souhaitez, après fourniture d'une pièce d'identité comprenant une photographie et d’un justificatif de domicile.\nLa Banque d'Algérie vous désignera une banque qui gérera votre compte.\nDans ce cas, vous bénéficierez automatiquement de la part de la banque ainsi désignée d'un ensemble de services bancaires dont vous trouverez ci-joint la liste.\nNous vous prions de croire, Madame, Monsieur, à l'assurance de nos sentiments distingués.\nBanque X\nAu verso\nProcédure à suivre pour l'exercice du droit au compte :\nL'Ordonnance n°03-11 relative à la monnaie et au crédit (article 119 bis) prévoit que « toute personne qui s'est vue refuser l'ouverture d’un compte de dépôt par les banques de la place et qui, de ce fait, ne dispose d'aucun compte, peut demander à la banque d'Algérie de lui désigner une banque auprès de laquelle elle pourra ouvrir un tel compte.\nLa banque peut limiter les services liés à l'ouverture du compte aux seules opérations de caisse. »\nSi vous n'avez pas de compte de dépôt et que vous n'avez pas réussi à en obtenir un, l'établissement qui a refusé de vous en ouvrir un vous remettra cette lettre de refus.\nMuni de ce document, ainsi que d’une déclaration sur l'honneur indiquant que vous n'avez pas d'autre compte de dépôt, d'une pièce d'identité comportant une photographie et d'un justificatif de domicile, vous pouvez vous rendre au guichet de la Banque d'Algérie le plus proche de votre domicile qui désignera d'office un établissement où un compte de dépôt vous sera ouvert selon la procédure du droit au compte.\nSi vous êtes une personne physique, vous pouvez également demander à l'établissement qui a refusé de vous ouvrir un compte d'effectuer en votre nom et pour votre compte cette démarche auprès de la Banque d'Algérie. Si vous le souhaitez, il pourra vous informer de cette décision.\nVous bénéficierez alors des services bancaires suivants, liés à l'exercice du droit au compte :\n- l'ouverture, la tenue et la clôture du compte ;\n- l'envoi périodique de relevé des opérations effectuées sur le compte ;\n- l'encaissement de chèques et de virements bancaires ;\n- les dépôts et les retraits d'espèces au guichet de la banque teneur de compte ;\n- les paiements par prélèvement ou virement bancaire ;\n- des moyens de consultation à distance du solde du compte, lorsque la banque offre ce service ;\n- une carte bancaire.\nVous devez être prévenu, ainsi que la Banque d'Algérie, par une lettre motivée, de toute décision de fermeture de ce compte prise à l'initiative de la banque désignée par la Banque d'Algérie. Un délai de deux mois doit vous être accordé avant la fermeture effective de votre compte de dépôt.",
+      "paragraphs": [
+        {
+          "text": "Au recto",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Madame, Monsieur,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Vous avez souhaité ouvrir un compte de dépôt dans notre banque.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Cependant, nous sommes au regret de vous informer que nous ne donnons pas une réponse favorable à votre demande.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Nous vous informons, toutefois, que dans le cas où vous ne disposeriez d'aucun compte de dépôt, il vous est possible, conformément à la législation sur le droit au compte, de prendre contact avec la succursale de la Banque d'Algérie la plus proche de votre domicile, à l'adresse suivante :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Nous vous informons également que nous pouvons effectuer cette démarche, en votre nom et pour votre compte, auprès de la Banque d'Algérie et si vous le souhaitez, après fourniture d'une pièce d'identité comprenant une photographie et d’un justificatif de domicile.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "La Banque d'Algérie vous désignera une banque qui gérera votre compte.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Dans ce cas, vous bénéficierez automatiquement de la part de la banque ainsi désignée d'un ensemble de services bancaires dont vous trouverez ci-joint la liste.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Nous vous prions de croire, Madame, Monsieur, à l'assurance de nos sentiments distingués.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Banque X",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Au verso",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Procédure à suivre pour l'exercice du droit au compte :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "L'Ordonnance n°03-11 relative à la monnaie et au crédit (article 119 bis) prévoit que « toute personne qui s'est vue refuser l'ouverture d’un compte de dépôt par les banques de la place et qui, de ce fait, ne dispose d'aucun compte, peut demander à la banque d'Algérie de lui désigner une banque auprès de laquelle elle pourra ouvrir un tel compte.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "La banque peut limiter les services liés à l'ouverture du compte aux seules opérations de caisse. »",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Si vous n'avez pas de compte de dépôt et que vous n'avez pas réussi à en obtenir un, l'établissement qui a refusé de vous en ouvrir un vous remettra cette lettre de refus.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Muni de ce document, ainsi que d’une déclaration sur l'honneur indiquant que vous n'avez pas d'autre compte de dépôt, d'une pièce d'identité comportant une photographie et d'un justificatif de domicile, vous pouvez vous rendre au guichet de la Banque d'Algérie le plus proche de votre domicile qui désignera d'office un établissement où un compte de dépôt vous sera ouvert selon la procédure du droit au compte.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Si vous êtes une personne physique, vous pouvez également demander à l'établissement qui a refusé de vous ouvrir un compte d'effectuer en votre nom et pour votre compte cette démarche auprès de la Banque d'Algérie. Si vous le souhaitez, il pourra vous informer de cette décision.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Vous bénéficierez alors des services bancaires suivants, liés à l'exercice du droit au compte :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- l'ouverture, la tenue et la clôture du compte ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- l'envoi périodique de relevé des opérations effectuées sur le compte ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- l'encaissement de chèques et de virements bancaires ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- les dépôts et les retraits d'espèces au guichet de la banque teneur de compte ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- les paiements par prélèvement ou virement bancaire ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- des moyens de consultation à distance du solde du compte, lorsque la banque offre ce service ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- une carte bancaire.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Vous devez être prévenu, ainsi que la Banque d'Algérie, par une lettre motivée, de toute décision de fermeture de ce compte prise à l'initiative de la banque désignée par la Banque d'Algérie. Un délai de deux mois doit vous être accordé avant la fermeture effective de votre compte de dépôt.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe 2",
+      "number": "2",
+      "heading": "A L'INSTRUCTION N°03-2012 DU 26 DECEMBRE 2012 DEMANDE D'INTERVENTION DE LA BANQUE D'’ALGERIE EXERCICE DU DROIT AU COMPTE DE DEPOT POUR UNE PERSONNE PHYSIQUE",
+      "context": {},
+      "annexe": {
+        "number": "2",
+        "heading": "A L'INSTRUCTION N°03-2012 DU 26 DECEMBRE 2012 DEMANDE D'INTERVENTION DE LA BANQUE D'’ALGERIE EXERCICE DU DROIT AU COMPTE DE DEPOT POUR UNE PERSONNE PHYSIQUE",
+        "label": "Annexe 2"
+      },
+      "page_start": 4,
+      "page_end": 4,
+      "text": "(Article119 bis de l'Ordonnance n°03-11 relative à la monnaie et au crédit, modifiée et complétée)\nIDENTITÉ ET DOMICILE DU DEMANDEUR :\n. Civilité : [_]Monsieur [L_]Madame [__]Mademoiselle\nNom de naissance : iii dirieneereeeeernninnnnnennensnennenenennenenneneeneeenennnene\nNom marital ou d'usage : sise\nPrÉNOMS : inner ennnnnneeninnneenennneennnnenennse\nDate et Lieu de naissance : SR iiiirereeneneneeneeeeneeineinenieeeneenenenennnnes\nNature et numéro de la pièce d'identité comportant une photographie (photocopie jointe) :\n> SOUHAITS EXPRIMÉS PAR LE DEMANDEUR QUANT AU GUICHET APPELÉ À OUVRIR LE\nCOMPTE (notamment localisation) :\n> SIGNATURE ET DÉCLARATION DU DEMANDEUR :\nJ'atteste sur l'honneur ne disposer, à ce jour, d'aucun compte de dépôt.\nDate :\nSignature :\n(précédée de la mention « Lu et approuvé >»)",
+      "paragraphs": [
+        {
+          "text": "(Article119 bis de l'Ordonnance n°03-11 relative à la monnaie et au crédit, modifiée et complétée)",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "IDENTITÉ ET DOMICILE DU DEMANDEUR :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": ". Civilité : [_]Monsieur [L_]Madame [__]Mademoiselle",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Nom de naissance : iii dirieneereeeeernninnnnnennensnennenenennenenneneeneeenennnene",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Nom marital ou d'usage : sise",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "PrÉNOMS : inner ennnnnneeninnneenennneennnnenennse",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Date et Lieu de naissance : SR iiiirereeneneneeneeeeneeineinenieeeneenenenennnnes",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Nature et numéro de la pièce d'identité comportant une photographie (photocopie jointe) :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "> SOUHAITS EXPRIMÉS PAR LE DEMANDEUR QUANT AU GUICHET APPELÉ À OUVRIR LE",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "COMPTE (notamment localisation) :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "> SIGNATURE ET DÉCLARATION DU DEMANDEUR :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "J'atteste sur l'honneur ne disposer, à ce jour, d'aucun compte de dépôt.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Date :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Signature :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "(précédée de la mention « Lu et approuvé >»)",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "meme_texte_plusieurs_fichiers",
+      "ocr_utilise_verification_humaine",
+      "numerotation:premier_article=2"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.043,
+      "ocr_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "ocr_mean_confidence": 91.6
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-03-12.fr~2.txt"
+}

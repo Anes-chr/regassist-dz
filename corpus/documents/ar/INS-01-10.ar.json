@@ -1,0 +1,358 @@
+{
+  "document_id": "INS-01-10.ar",
+  "work_id": "INS-01-10",
+  "title": "تعليمة رقم 01-2010 المؤرخة في 10 جانفي 2010، تعدل وتتمم التعليمة رقم 06-2009 المؤرخة في 28 ديسمبر 2009، المتعلقة بتأسيس حق صرف خاص لفائدة المواطنين المقيمين في إطار التنقل إلى الدورة النهائية لكأس أفريقيا للأمم 2010.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "01-2010",
+  "number_source": "libelle",
+  "date": "2010-01-10",
+  "date_raw": "المؤرخة في 10 جانفي 2010",
+  "date_source": "libelle",
+  "publication_date": "2023-03-02",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "instructions",
+  "subcategory": "تنظيم الصرف",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d9%88%d8%a7%d8%b1%d8%af%d8%a7%d8%aa-%d8%a7%d9%84%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/03/10-01-1.pdf",
+  "format": "pdf",
+  "file_hash": "b96d434732d07bcb1791c75e552b1675d0279532b8fa7dcfc161ff92ba0d9ab9",
+  "file_size": 165035,
+  "raw_path": "raw/b96d434732d0__10-01-1.pdf",
+  "retrieved_at": "2026-10-05T13:30:03+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 1,
+  "url_hash": "45453245c01c30a8cffbf833a0fa21f3713a703bf8a1cf9d9253364734344b30",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d9%88%d8%a7%d8%b1%d8%af%d8%a7%d8%aa-%d8%a7%d9%84%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "producer": "Epson Scan 2",
+    "creationDate": "D:20230301095940+01'00'",
+    "modDate": "D:20230301095940+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 970,
+        "ocr_confidence": 75.6989247311828
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 2,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine"
+  ],
+  "title_document": "تعليمة رقم 10-01 تعدل وتتمم التعليمة رقم 09-06 تتعلق بتأسيس حق صرف خاص لفائدة المواطنين المقيمين في إطار التنقل إلى الدورة النهائية لكأس أفريقيا للأمم 2010 المادة الأولى: تعدل وتتمم المادتان 1 (الفقرة 2) و6 (الفقرة 1) من التعليمة رقم 09-06 المؤرخة في 8 ديسمبر 2009 المتعلقة بتأسيس حق صرف خاص لفائدة المواطنين المقيمين في إطار التنقل إلى الدورة النهائية لكأس أفريقيا للأمم 2010 كما يلي: لا يمكن ممارسة حق الصرف الخاص هذا إلا خلال الفترة الممتدة من 3 جانفي إلى 31 جانفي 0 .",
+  "alias_urls": [],
+  "text_hash": "b88896cc36e47945730e10867ca354dee71b471f28762d562bbf413efe8037bd",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "06-2009",
+        "date": null,
+        "raw": "instruction n°06-2009"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2010 du 10 janvier 2010 modifiant et complétant l’instruction n°06-2009 relative à la mise en place d’un droit",
+        "copied_from": "INS-01-10.fr"
+      },
+      "target_work_id": "INS-06-09"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "06-2009",
+        "date": null,
+        "raw": "instruction n°06-2009"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2010 du 10 janvier 2010 modifiant et complétant l’instruction n°06-2009 relative à la mise en place d’un droit",
+        "copied_from": "INS-01-10.fr"
+      },
+      "target_work_id": "INS-06-09"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "06-09",
+        "date": null,
+        "raw": "INSTRUCTION N° 06-09"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "INSTRUCTION N°01-2010 DU 10 JANVIER 2010 MODIFIANT ET COMPLETANT L'INSTRUCTION N° 06-09 RELATIVE A LA MISE EN PLACE D'UN DROIT",
+        "copied_from": "INS-01-10.fr"
+      },
+      "target_work_id": "INS-06-09"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "06-09",
+        "date": null,
+        "raw": "INSTRUCTION N° 06-09"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "INSTRUCTION N°01-2010 DU 10 JANVIER 2010 MODIFIANT ET COMPLETANT L'INSTRUCTION N° 06-09 RELATIVE A LA MISE EN PLACE D'UN DROIT",
+        "copied_from": "INS-01-10.fr"
+      },
+      "target_work_id": "INS-06-09"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-06-09",
+      "reference": "instruction n°06-2009",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2010 du 10 janvier 2010 modifiant et complétant l’instruction n°06-2009 relative à la mise en place d’un droit",
+        "copied_from": "INS-01-10.fr"
+      }
+    },
+    {
+      "work_id": "INS-06-09",
+      "reference": "INSTRUCTION N° 06-09",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "INSTRUCTION N°01-2010 DU 10 JANVIER 2010 MODIFIANT ET COMPLETANT L'INSTRUCTION N° 06-09 RELATIVE A LA MISE EN PLACE D'UN DROIT",
+        "copied_from": "INS-01-10.fr"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "INS-06-09",
+      "reference": "instruction n°06-2009",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2010 du 10 janvier 2010 modifiant et complétant l’instruction n°06-2009 relative à la mise en place d’un droit",
+        "copied_from": "INS-01-10.fr"
+      }
+    },
+    {
+      "work_id": "INS-06-09",
+      "reference": "INSTRUCTION N° 06-09",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "INSTRUCTION N°01-2010 DU 10 JANVIER 2010 MODIFIANT ET COMPLETANT L'INSTRUCTION N° 06-09 RELATIVE A LA MISE EN PLACE D'UN DROIT",
+        "copied_from": "INS-01-10.fr"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-01-10.fr",
+    "INS-01-10.fr~2"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "INS-06-09",
+      "reference": "instruction n°06-2009",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2010 du 10 janvier 2010 modifiant et complétant l’instruction n°06-2009 relative à la mise en place d’un droit",
+        "copied_from": "INS-01-10.fr"
+      }
+    },
+    {
+      "work_id": "INS-06-09",
+      "reference": "INSTRUCTION N° 06-09",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "INSTRUCTION N°01-2010 DU 10 JANVIER 2010 MODIFIANT ET COMPLETANT L'INSTRUCTION N° 06-09 RELATIVE A LA MISE EN PLACE D'UN DROIT",
+        "copied_from": "INS-01-10.fr"
+      }
+    }
+  ],
+  "ocr_numeric_check": {
+    "units": 3,
+    "units_flagged": 0,
+    "units_compared_with_french": 2,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تعليمة رقم 10-01 تعدل وتتمم التعليمة رقم 09-06 تتعلق بتأسيس حق صرف خاص لفائدة المواطنين المقيمين في إطار التنقل إلى الدورة النهائية لكأس أفريقيا للأمم 2010",
+      "paragraphs": [
+        {
+          "text": "تعليمة رقم 10-01 تعدل وتتمم التعليمة رقم 09-06 تتعلق بتأسيس حق صرف خاص لفائدة المواطنين المقيمين في إطار التنقل إلى الدورة النهائية لكأس أفريقيا للأمم 2010",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تعدل وتتمم المادتان 1 (الفقرة 2) و6 (الفقرة 1) من التعليمة رقم 09-06 المؤرخة في 8 ديسمبر 2009 المتعلقة بتأسيس حق صرف خاص لفائدة المواطنين المقيمين في إطار التنقل إلى الدورة النهائية لكأس أفريقيا للأمم 2010 كما يلي:\nلا يمكن ممارسة حق الصرف الخاص هذا إلا خلال الفترة الممتدة من 3 جانفي إلى 31 جانفي 0 .\nsad‏ 6: يتعين على البنوك» الوسطاء المعتمدين» إرسال وضعية مجمعة لمنح الصرف الخاصة المسلمة من طرف شبابيكها المعنية» تنفيذا لهذه التعليمة» إلى بنك الجزائر قبل 10 فيفري 2010.\n© ههه شه هشه هشه ههه شقهقهة هه هه هشه ههه قهقهةهة 8ه ش هشه ششهشهةه فقا ششهه هه ١85‏ 58886 55555\" ه ه58 ه65 هش هه هس ههه جه هه هههه شفهه هه هم م مه ماق مهم هم م هم وه م",
+      "paragraphs": [
+        {
+          "text": "تعدل وتتمم المادتان 1 (الفقرة 2) و6 (الفقرة 1) من التعليمة رقم 09-06 المؤرخة في 8 ديسمبر 2009 المتعلقة بتأسيس حق صرف خاص لفائدة المواطنين المقيمين في إطار التنقل إلى الدورة النهائية لكأس أفريقيا للأمم 2010 كما يلي:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "لا يمكن ممارسة حق الصرف الخاص هذا إلا خلال الفترة الممتدة من 3 جانفي إلى 31 جانفي 0 .",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "sad‏ 6: يتعين على البنوك» الوسطاء المعتمدين» إرسال وضعية مجمعة لمنح الصرف الخاصة المسلمة من طرف شبابيكها المعنية» تنفيذا لهذه التعليمة» إلى بنك الجزائر قبل 10 فيفري 2010.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "© ههه شه هشه هشه ههه شقهقهة هه هه هشه ههه قهقهةهة 8ه ش هشه ششهشهةه فقا ششهه هه ١85‏ 58886 55555\" ه ه58 ه65 هش هه هس ههه جه هه هههه شفهه هه هم م مه ماق مهم هم م هم وه م",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تدخل هذه التعليمة حيز التنفيذ اعتبارا من تاريخ التوقيع عليها.\nحرر بالجزائرء في 10 جانفي 2010 محمد لكصاسي 5 المحافظ !+ st Bank of Algeria The Governor",
+      "paragraphs": [
+        {
+          "text": "تدخل هذه التعليمة حيز التنفيذ اعتبارا من تاريخ التوقيع عليها.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "حرر بالجزائرء في 10 جانفي 2010 محمد لكصاسي 5 المحافظ !+ st Bank of Algeria The Governor",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.031,
+      "ocr_pages": [
+        1
+      ],
+      "ocr_mean_confidence": 75.7
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/INS-01-10.ar.txt"
+}

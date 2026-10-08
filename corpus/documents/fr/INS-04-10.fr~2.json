@@ -1,0 +1,498 @@
+{
+  "document_id": "INS-04-10.fr~2",
+  "work_id": "INS-04-10",
+  "title": "Instruction n°04-2010 du 15 décembre 2010 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligataires.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "04-2010",
+  "number_source": "en-tête du document",
+  "date": "2010-12-15",
+  "date_raw": "N°04-2010 DU 15 DECEMBRE 2010",
+  "date_source": "en-tête du document",
+  "publication_date": "2023-01-24",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Instruments de la politique monétaire",
+  "source_url": "https://www.bank-of-algeria.dz/marche-monetaire-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction042010.pdf",
+  "format": "pdf",
+  "file_hash": "4592c981baeff3ff8a9b79d6d26b325ab6ccec1bd2c1b5e0c285d985e14b8b9b",
+  "file_size": 34751,
+  "raw_path": "raw/4592c981baef__instruction042010.pdf",
+  "retrieved_at": "2026-10-05T13:25:56+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "ab7a4fb5f033ede7ee726b6f8dbe6808c102b5a978a655026b143cea2d499300",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/marche-monetaire-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - INSTRUCTION N06-2008",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20201012132421+01'00'",
+    "modDate": "D:20201012132421+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 797,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 3,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "meme_texte_plusieurs_fichiers"
+  ],
+  "title_document": "INSTRUCTION N°04-2010 DU 15 DECEMBRE 2010 MODIFIANT ET COMPLETANT L'INSTRUCTION N°02-2004 DU 13 MAI 2004 RELATIVE AU REGIME DES RESERVES OBLIGATAIRES",
+  "alias_urls": [],
+  "text_hash": "e733df47e829392ee9f559301962a278631b18e6b18ee133007e534a5032c418",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-2004",
+        "date": "2004-05-13",
+        "raw": "instruction n°02-2004 du 13 mai 2004"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°04-2010 du 15 décembre 2010 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      },
+      "target_work_id": "INS-02-04"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-2004",
+        "date": "2004-05-13",
+        "raw": "instruction n°02-2004 du 13 mai 2004"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°04-2010 du 15 décembre 2010 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      },
+      "target_work_id": "INS-02-04"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-2004",
+        "date": "2004-05-13",
+        "raw": "instruction n°02-2004 du 13 mai 2004"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      },
+      "target_work_id": "INS-02-04"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-2004",
+        "date": "2004-05-13",
+        "raw": "instruction n°02-2004 du 13 mai 2004"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      },
+      "target_work_id": "INS-02-04"
+    },
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "13-2007",
+        "date": "2007-12-24",
+        "raw": "instruction n°13-2007 du 24 décembre 2007"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions de l'instruction n°13-2007 du 24 décembre 2007. Elle prend effet à compter du 15 décem"
+      },
+      "target_work_id": "INS-13-07"
+    },
+    {
+      "relation": "remplace",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "13-2007",
+        "date": "2007-12-24",
+        "raw": "instruction n°13-2007 du 24 décembre 2007"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions de l'instruction n°13-2007 du 24 décembre 2007. Elle prend effet à compter du 15 décem"
+      },
+      "target_work_id": "INS-13-07"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "INS-13-07",
+      "reference": "instruction n°13-2007 du 24 décembre 2007",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions de l'instruction n°13-2007 du 24 décembre 2007. Elle prend effet à compter du 15 décem"
+      }
+    }
+  ],
+  "modifie": [
+    {
+      "work_id": "INS-02-04",
+      "reference": "instruction n°02-2004 du 13 mai 2004",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°04-2010 du 15 décembre 2010 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-04",
+      "reference": "instruction n°02-2004 du 13 mai 2004",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "INS-02-04",
+      "reference": "instruction n°02-2004 du 13 mai 2004",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°04-2010 du 15 décembre 2010 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-04",
+      "reference": "instruction n°02-2004 du 13 mai 2004",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    }
+  ],
+  "remplace": [
+    {
+      "work_id": "INS-13-07",
+      "reference": "instruction n°13-2007 du 24 décembre 2007",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions de l'instruction n°13-2007 du 24 décembre 2007. Elle prend effet à compter du 15 décem"
+      }
+    }
+  ],
+  "abroge_par": [
+    {
+      "work_id": "INS-01-12",
+      "document_id": "INS-01-12.fr",
+      "date": "2012-04-29",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions de l'instruction n° 04-2010 du 15 décembre 2010. Elle prend effet à compter du 15 mai 2"
+      }
+    }
+  ],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [
+    {
+      "work_id": "INS-01-12",
+      "document_id": "INS-01-12.fr",
+      "date": "2012-04-29",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions de l'instruction n° 04-2010 du 15 décembre 2010. Elle prend effet à compter du 15 mai 2"
+      }
+    }
+  ],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "INS-01-12",
+      "document_id": "INS-01-12.fr",
+      "date": "2012-04-29",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions de l'instruction n° 04-2010 du 15 décembre 2010. Elle prend effet à compter du 15 mai 2"
+      }
+    },
+    {
+      "work_id": "INS-01-12",
+      "document_id": "INS-01-12.fr",
+      "date": "2012-04-29",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions de l'instruction n° 04-2010 du 15 décembre 2010. Elle prend effet à compter du 15 mai 2"
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [
+    "INS-04-10.ar",
+    "INS-04-10.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [
+    {
+      "work_id": "INS-01-12",
+      "document_id": "INS-01-12.fr",
+      "date": "2012-04-29",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions de l'instruction n° 04-2010 du 15 décembre 2010. Elle prend effet à compter du 15 mai 2"
+      }
+    }
+  ],
+  "remplacé_par": [
+    {
+      "work_id": "INS-01-12",
+      "document_id": "INS-01-12.fr",
+      "date": "2012-04-29",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions de l'instruction n° 04-2010 du 15 décembre 2010. Elle prend effet à compter du 15 mai 2"
+      }
+    }
+  ],
+  "complète": [
+    {
+      "work_id": "INS-02-04",
+      "reference": "instruction n°02-2004 du 13 mai 2004",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°04-2010 du 15 décembre 2010 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-04",
+      "reference": "instruction n°02-2004 du 13 mai 2004",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    }
+  ],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°04-2010 DU 15 DECEMBRE 2010 MODIFIANT\nET COMPLETANT L'INSTRUCTION N°02-2004 DU 13 MAI 2004\nRELATIVE AU REGIME DES RESERVES OBLIGATAIRES",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°04-2010 DU 15 DECEMBRE 2010 MODIFIANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET COMPLETANT L'INSTRUCTION N°02-2004 DU 13 MAI 2004",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "RELATIVE AU REGIME DES RESERVES OBLIGATAIRES",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligatoires.",
+      "paragraphs": [
+        {
+          "text": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligatoires.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L'article 3 de l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligatoires est modifié et rédigé comme suit :\n« Article 3 : Le taux des réserves obligatoires est fixé à 9% de l'assiette des réserves définie dans l'article 2 ci-dessus ».",
+      "paragraphs": [
+        {
+          "text": "L'article 3 de l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligatoires est modifié et rédigé comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "« Article 3 : Le taux des réserves obligatoires est fixé à 9% de l'assiette des réserves définie dans l'article 2 ci-dessus ».",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction abroge et remplace les dispositions de l'instruction n°13-2007 du 24 décembre 2007. Elle prend effet à compter du 15 décembre 2010.\nLe Gouverneur\nMohammed LAKSACI",
+      "paragraphs": [
+        {
+          "text": "La présente instruction abroge et remplace les dispositions de l'instruction n°13-2007 du 24 décembre 2007. Elle prend effet à compter du 15 décembre 2010.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "meme_texte_plusieurs_fichiers"
+    ],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.045
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-04-10.fr~2.txt"
+}

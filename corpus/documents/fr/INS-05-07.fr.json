@@ -1,0 +1,317 @@
+{
+  "document_id": "INS-05-07.fr",
+  "work_id": "INS-05-07",
+  "title": "Instruction n°05-2007 11 juin 2007 modifiant et complétant l’instruction n°02-07 relative aux opérations liées aux transactions courantes avec l’étranger.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "05-2007",
+  "number_source": "en-tête du document",
+  "date": "2007-06-11",
+  "date_raw": "N°05-2007 11 JUIN 2007",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Règlementation des changes",
+  "source_url": "https://www.bank-of-algeria.dz/importations-exportations-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction052007.pdf",
+  "format": "pdf",
+  "file_hash": "0573de736e56dd691afa92b5f551f81533f141bf10e7864ead6190696f837aaf",
+  "file_size": 51095,
+  "raw_path": "raw/0573de736e56__instruction052007.pdf",
+  "retrieved_at": "2026-10-05T13:21:32+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "f80ac513e22a31dd24cac0160da96f318a9ab28456e86e6ba83c86f7c80d4480",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-2007/",
+    "https://www.bank-of-algeria.dz/importations-exportations-instruction/",
+    "https://www.bank-of-algeria.dz/transactions-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Microsoft Word - instruction052007",
+    "author": "chahra.yahiaoui",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "creationDate": "D:20210224155705+01'00'",
+    "modDate": "D:20210224155705+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 789,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 2,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°05-2007 11 JUIN 2007 MODIFIANT ET COMPLETANT L'INSTRUCTUION N°02-2007 DU 31 MAI 2007 RELATIVE AUX OPERATIONS LIEES AUX TRANSACTION COURANTES AVEC L’ETRANGER",
+  "alias_urls": [],
+  "text_hash": "60229f64ca532dab1e3cc2d9fb7c6f689187df37eabfb9128e1324e2fe404b64",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-07",
+        "date": null,
+        "raw": "instruction n°02-07"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°05-2007 11 juin 2007 modifiant et complétant l’instruction n°02-07 relative aux opérations liées aux trans"
+      },
+      "target_work_id": "INS-02-07"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-07",
+        "date": null,
+        "raw": "instruction n°02-07"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°05-2007 11 juin 2007 modifiant et complétant l’instruction n°02-07 relative aux opérations liées aux trans"
+      },
+      "target_work_id": "INS-02-07"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-07",
+        "date": "2007-05-31",
+        "raw": "instruction n°02-07 du 31 mai 2007"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le dernier alinéa de l’article 1er de l’instruction n°02-07 du 31 mai 2007 relative aux opérations liées aux trans"
+      },
+      "target_work_id": "INS-02-07"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-02-07",
+      "reference": "instruction n°02-07",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°05-2007 11 juin 2007 modifiant et complétant l’instruction n°02-07 relative aux opérations liées aux trans"
+      }
+    },
+    {
+      "work_id": "INS-02-07",
+      "reference": "instruction n°02-07 du 31 mai 2007",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le dernier alinéa de l’article 1er de l’instruction n°02-07 du 31 mai 2007 relative aux opérations liées aux trans"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "INS-02-07",
+      "reference": "instruction n°02-07",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°05-2007 11 juin 2007 modifiant et complétant l’instruction n°02-07 relative aux opérations liées aux trans"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-05-07.ar"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "INS-02-07",
+      "reference": "instruction n°02-07",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°05-2007 11 juin 2007 modifiant et complétant l’instruction n°02-07 relative aux opérations liées aux trans"
+      }
+    }
+  ],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°05-2007 11 JUIN 2007 MODIFIANT ET COMPLETANT\nL'INSTRUCTUION N°02-2007 DU 31 MAI 2007 RELATIVE AUX OPERATIONS\nLIEES AUX TRANSACTION COURANTES AVEC L’ETRANGER",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°05-2007 11 JUIN 2007 MODIFIANT ET COMPLETANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L'INSTRUCTUION N°02-2007 DU 31 MAI 2007 RELATIVE AUX OPERATIONS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "LIEES AUX TRANSACTION COURANTES AVEC L’ETRANGER",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le dernier alinéa de l’article 1er de l’instruction n°02-07 du 31 mai 2007 relative aux opérations liées aux transactions courantes avec l’étranger, est modifié et rédigé comme suit :\n« Les opérations d’importation de services initiées par des opérateurs de droit algérien, destinés à la revente en l’état et qui ne sont pas liés aux activités de production en\nAlgérie, n’entrent pas dans le champ d’application de la présente instruction. »",
+      "paragraphs": [
+        {
+          "text": "Le dernier alinéa de l’article 1er de l’instruction n°02-07 du 31 mai 2007 relative aux opérations liées aux transactions courantes avec l’étranger, est modifié et rédigé comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "« Les opérations d’importation de services initiées par des opérateurs de droit algérien, destinés à la revente en l’état et qui ne sont pas liés aux activités de production en",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Algérie, n’entrent pas dans le champ d’application de la présente instruction. »",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La Présente instruction prend effet à compter de la date de sa signature.\nLe Gouverneur\nMohammed LAKSACI\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "La Présente instruction prend effet à compter de la date de sa signature.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.039
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-05-07.fr.txt"
+}

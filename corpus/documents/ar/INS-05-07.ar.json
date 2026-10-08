@@ -1,0 +1,278 @@
+{
+  "document_id": "INS-05-07.ar",
+  "work_id": "INS-05-07",
+  "title": "تعليمة رقم 05-2007 المؤرخة في 11 جوان 2007، تعدل وتتمم التعليمة رقم 02-2007 المؤرخة في 31 ماي 2007، المتعلقة بالعمليات المرتبطة بالمعاملات الجارية مع الخارج.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "05-2007",
+  "number_source": "libelle",
+  "date": "2007-06-11",
+  "date_raw": "المؤرخة في 11 جوان 2007",
+  "date_source": "libelle",
+  "publication_date": "2023-03-02",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "instructions",
+  "subcategory": "تنظيم الصرف",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d9%88%d8%a7%d8%b1%d8%af%d8%a7%d8%aa-%d8%a7%d9%84%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/03/07-05.pdf",
+  "format": "pdf",
+  "file_hash": "d54eacb245c5863db4a4f88bdc4456c6eaa01e3467bfb8a8c90c31c38b45d9e1",
+  "file_size": 195854,
+  "raw_path": "raw/d54eacb245c5__07-05.pdf",
+  "retrieved_at": "2026-10-05T13:29:42+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 1,
+  "url_hash": "61350f2dbeaaf06cba78bcbc480e578d564a5ad7d115cb4b53805915be606eac",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d9%88%d8%a7%d8%b1%d8%af%d8%a7%d8%aa-%d8%a7%d9%84%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "producer": "Epson Scan 2",
+    "creationDate": "D:20230228153821+01'00'",
+    "modDate": "D:20230228153821+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 551,
+        "ocr_confidence": 72.85576923076923
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 1,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine",
+    "ocr_faible_confiance"
+  ],
+  "title_document": null,
+  "alias_urls": [],
+  "text_hash": "3134bfc9b34a5e689c3e961896621031a2b60953507783e0010bd0440cf58aeb",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-07",
+        "date": null,
+        "raw": "instruction n°02-07"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°05-2007 11 juin 2007 modifiant et complétant l’instruction n°02-07 relative aux opérations liées aux trans",
+        "copied_from": "INS-05-07.fr"
+      },
+      "target_work_id": "INS-02-07"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-07",
+        "date": null,
+        "raw": "instruction n°02-07"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°05-2007 11 juin 2007 modifiant et complétant l’instruction n°02-07 relative aux opérations liées aux trans",
+        "copied_from": "INS-05-07.fr"
+      },
+      "target_work_id": "INS-02-07"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-07",
+        "date": "2007-05-31",
+        "raw": "instruction n°02-07 du 31 mai 2007"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le dernier alinéa de l’article 1er de l’instruction n°02-07 du 31 mai 2007 relative aux opérations liées aux trans",
+        "copied_from": "INS-05-07.fr"
+      },
+      "target_work_id": "INS-02-07"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-02-07",
+      "reference": "instruction n°02-07",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°05-2007 11 juin 2007 modifiant et complétant l’instruction n°02-07 relative aux opérations liées aux trans",
+        "copied_from": "INS-05-07.fr"
+      }
+    },
+    {
+      "work_id": "INS-02-07",
+      "reference": "instruction n°02-07 du 31 mai 2007",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le dernier alinéa de l’article 1er de l’instruction n°02-07 du 31 mai 2007 relative aux opérations liées aux trans",
+        "copied_from": "INS-05-07.fr"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "INS-02-07",
+      "reference": "instruction n°02-07",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°05-2007 11 juin 2007 modifiant et complétant l’instruction n°02-07 relative aux opérations liées aux trans",
+        "copied_from": "INS-05-07.fr"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-05-07.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "INS-02-07",
+      "reference": "instruction n°02-07",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°05-2007 11 juin 2007 modifiant et complétant l’instruction n°02-07 relative aux opérations liées aux trans",
+        "copied_from": "INS-05-07.fr"
+      }
+    }
+  ],
+  "ocr_numeric_check": {
+    "units": 2,
+    "units_flagged": 0,
+    "units_compared_with_french": 1,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "التعليمة رقم 07-05 المؤرخة في 11 جوان 2007 تعدل ‏ 7 وتتمم التعليمة رقم 07-02 المؤرخة: في 31 ماي 2007",
+      "paragraphs": [
+        {
+          "text": "التعليمة رقم 07-05 المؤرخة في 11 جوان 2007 تعدل ‏ 7 وتتمم التعليمة رقم 07-02 المؤرخة: في 31 ماي 2007",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تعدل الفقرة الأخيرة مسن المادة Tr‏ مدن التعليمة 2 رقم 07-02 المؤرخة في 31 ماي 2007 المتعلقة بالعمليات À br pal‏ 2 dal‏ الجارية مع sie JAN‏ تخرر على 2e‏ اللي ب ش . . \"لا تدخل ضمن مجال تطبيق هذه التعليمة كل .عمليات “ei à d'a y‏ التي 'يقوم بها المتعاملين الخاضعين للقانون. als 5) js)‏ الإعسادة البيع على حالهاء والتي ا ترتبط بنشاطات + بالجزائرء' | المادة_02: US‏ هذه التعايية عيذ التطبيق Vie‏ كاز بخ إمضائها.\n: Bankof Algeria The Governor",
+      "paragraphs": [
+        {
+          "text": "تعدل الفقرة الأخيرة مسن المادة Tr‏ مدن التعليمة 2 رقم 07-02 المؤرخة في 31 ماي 2007 المتعلقة بالعمليات À br pal‏ 2 dal‏ الجارية مع sie JAN‏ تخرر على 2e‏ اللي ب ش . . \"لا تدخل ضمن مجال تطبيق هذه التعليمة كل .عمليات “ei à d'a y‏ التي 'يقوم بها المتعاملين الخاضعين للقانون. als 5) js)‏ الإعسادة البيع على حالهاء والتي ا ترتبط بنشاطات + بالجزائرء' | المادة_02: US‏ هذه التعايية عيذ التطبيق Vie‏ كاز بخ إمضائها.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": ": Bankof Algeria The Governor",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine",
+      "ocr_faible_confiance"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.072,
+      "ocr_pages": [
+        1
+      ],
+      "ocr_mean_confidence": 72.9
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/INS-05-07.ar.txt"
+}

@@ -1,0 +1,424 @@
+{
+  "document_id": "REG-09-07.fr",
+  "work_id": "REG-09-07",
+  "title": "Règlement n°2009-07 du 10 décembre 2009 modifiant le règlement n°95-01 du 28 février 1995 modifie portant dérogation en faveur de la caisse nationale de mutualité agricole «CNMA» pour effectuer des opérations de banque.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "2009-07",
+  "number_source": "en-tête du document",
+  "date": "2009-12-10",
+  "date_raw": "N°2009-07 DU 10 DECEMBRE 2009",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/reglement200907.pdf",
+      "uploaded": "2023-01-25T10:06:35"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Année 2009",
+  "source_url": "https://www.bank-of-algeria.dz/reglement-2010/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement200907.pdf",
+  "format": "pdf",
+  "file_hash": "093bdefdfe94acb4d24be8909f53c7de5e207a194ec0935915ed3c584bef7cba",
+  "file_size": 65992,
+  "raw_path": "raw/093bdefdfe94__reglement200907.pdf",
+  "retrieved_at": "2026-10-05T13:22:39+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "a64496f3841878cbdf63f2b5eee41ed61448e5ebe215a758ee6670b1c158b1aa",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%D8%A7%D9%84%D8%A8%D9%86%D9%83/",
+    "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d8%a8%d9%86%d9%83/",
+    "https://www.bank-of-algeria.dz/banques-reglement/",
+    "https://www.bank-of-algeria.dz/reglement-2010/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document20",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210214111650+01'00'",
+    "modDate": "D:20210214111650+01'00'"
+  },
+  "hijri_date_raw": "27 Joumada Ethania 1424",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 3169,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 4,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "meme_texte_plusieurs_fichiers"
+  ],
+  "title_document": "REGLEMENT N°2009-07 DU 10 DECEMBRE 2009 MODIFIANT LE REGLEMENT N°95-01 DU 28 FEVRIER 1995 MODIFIE, PORTANT DEROGATION EN FAVEUR DE LA CAISSE NATIONALE DE MUTUALITE AGRICOLE \"CNMA\" POUR EFFECTUER DES OPERATIONS DE BANQUE",
+  "alias_urls": [],
+  "text_hash": "f676a005ecd2be1d43998d5c627304a339309f1eb14abf4c3fad9945805fcf30",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "95-01",
+        "date": "1995-02-28",
+        "raw": "règlement n°95-01 du 28 février 1995"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2009-07 du 10 décembre 2009 modifiant le règlement n°95-01 du 28 février 1995 modifie portant dérogation en faveur de"
+      },
+      "target_work_id": "REG-95-01"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "95-01",
+        "date": "1995-02-28",
+        "raw": "Règlement n°95-01 du 28 Février 1995"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier le Règlement n°95-01 du 28 Février 1995 modifié susvisé."
+      },
+      "target_work_id": "REG-95-01"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "REG-95-01",
+      "reference": "règlement n°95-01 du 28 février 1995",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2009-07 du 10 décembre 2009 modifiant le règlement n°95-01 du 28 février 1995 modifie portant dérogation en faveur de"
+      }
+    },
+    {
+      "work_id": "REG-95-01",
+      "reference": "Règlement n°95-01 du 28 Février 1995",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier le Règlement n°95-01 du 28 Février 1995 modifié susvisé."
+      }
+    }
+  ],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-09-07.ar",
+    "REG-09-07.fr~2"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°2009-07 DU 10 DECEMBRE 2009 MODIFIANT LE REGLEMENT\nN°95-01 DU 28 FEVRIER 1995 MODIFIE, PORTANT DEROGATION\nEN FAVEUR DE LA CAISSE NATIONALE DE MUTUALITE AGRICOLE \"CNMA\"\nPOUR EFFECTUER DES OPERATIONS DE BANQUE\nLe Gouverneur de la Banque d'Algérie,\n- Vu l’Ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003 relative à la Monnaie et au Crédit, notamment ses articles 62, 63, 64, 65, 71, 88, 89, 90 ;\n- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 02 juin 2001 portant nomination du Gouverneur et de Vice-Gouverneurs de la Banque d’Algérie ;\n- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 02 juin 2001 portant nomination de membres du Conseil d’Administration de la Banque d’Algérie ;\n- Vu le décret présidentiel du 26 Chaâbane 1423 correspondant au 02 novembre 2002 portant nomination d’un Membre du Conseil d’Administration de la Banque d’Algérie ;\nVu le décret présidentiel du 24 Dhou El Kaada 1424 correspondant au 14 janvier 2004 portant nomination des Membres du Conseil de la Monnaie et du Crédit de la Banque d’Algérie ;\n- Vu le Décret Présidentiel du 5 Djoumada El Oula 1427 correspondant au 1er juin 2006, portant nomination d’un Vice-Gouverneur de la Banque d’Algérie ;\n- Vu le Règlement n°95-01 du 28 Février 1995 portant dérogation en faveur de la Caisse\nNationale de Mutualité Agricole « CNMA » pour effectuer des opérations de banque ;\n- Vu le Règlement n°05-02 du 05 mars 2005 modifiant et complétant le règlement n°95-01 du 28 février 1995 portant dérogation en faveur de la Caisse Nationale de Mutualité Agricole « CNMA » pour effectuer des opérations de banque ;\n- Vu le Règlement n°08-04 du 23 décembre 2008 relatif au capital minimum des banques et établissements financiers exerçant en Algérie ;\n- Après délibération du Conseil de la Monnaie et du Crédit en date du 10 décembre 2009 ;\nPromulgue le Règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°2009-07 DU 10 DECEMBRE 2009 MODIFIANT LE REGLEMENT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "N°95-01 DU 28 FEVRIER 1995 MODIFIE, PORTANT DEROGATION",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "EN FAVEUR DE LA CAISSE NATIONALE DE MUTUALITE AGRICOLE \"CNMA\"",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "POUR EFFECTUER DES OPERATIONS DE BANQUE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d'Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’Ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003 relative à la Monnaie et au Crédit, notamment ses articles 62, 63, 64, 65, 71, 88, 89, 90 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 02 juin 2001 portant nomination du Gouverneur et de Vice-Gouverneurs de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 02 juin 2001 portant nomination de membres du Conseil d’Administration de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 26 Chaâbane 1423 correspondant au 02 novembre 2002 portant nomination d’un Membre du Conseil d’Administration de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Vu le décret présidentiel du 24 Dhou El Kaada 1424 correspondant au 14 janvier 2004 portant nomination des Membres du Conseil de la Monnaie et du Crédit de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 5 Djoumada El Oula 1427 correspondant au 1er juin 2006, portant nomination d’un Vice-Gouverneur de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Règlement n°95-01 du 28 Février 1995 portant dérogation en faveur de la Caisse",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Nationale de Mutualité Agricole « CNMA » pour effectuer des opérations de banque ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Règlement n°05-02 du 05 mars 2005 modifiant et complétant le règlement n°95-01 du 28 février 1995 portant dérogation en faveur de la Caisse Nationale de Mutualité Agricole « CNMA » pour effectuer des opérations de banque ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Règlement n°08-04 du 23 décembre 2008 relatif au capital minimum des banques et établissements financiers exerçant en Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Après délibération du Conseil de la Monnaie et du Crédit en date du 10 décembre 2009 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le Règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le présent Règlement a pour objet de modifier le Règlement n°95-01 du 28\nFévrier 1995 modifié susvisé.",
+      "paragraphs": [
+        {
+          "text": "Le présent Règlement a pour objet de modifier le Règlement n°95-01 du 28",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Février 1995 modifié susvisé.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L’article 4 du Règlement n°95-01 du 28 Février 1995 modifié portant dérogation en faveur de la Caisse Nationale de Mutualité Agricole « CNMA » pour effectuer des opérations de banque est modifié comme suit :\n« Article 4 : Pour la mise en œuvre des dispositions de l’article 3 ci-dessus, la société par actions est soumise, dans sa fondation et son fonctionnement, à la législation et la réglementation bancaire en vigueur.\nLa société est autorisée à effectuer les opérations de banque dévolues aux établissements financiers tel que prévu par l’article 71 de l’Ordonnance n°03-11 du 26 août 2003 susvisée, à l’exclusion des opérations de change et de commerce extérieur ».",
+      "paragraphs": [
+        {
+          "text": "L’article 4 du Règlement n°95-01 du 28 Février 1995 modifié portant dérogation en faveur de la Caisse Nationale de Mutualité Agricole « CNMA » pour effectuer des opérations de banque est modifié comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "« Article 4 : Pour la mise en œuvre des dispositions de l’article 3 ci-dessus, la société par actions est soumise, dans sa fondation et son fonctionnement, à la législation et la réglementation bancaire en vigueur.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La société est autorisée à effectuer les opérations de banque dévolues aux établissements financiers tel que prévu par l’article 71 de l’Ordonnance n°03-11 du 26 août 2003 susvisée, à l’exclusion des opérations de change et de commerce extérieur ».",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Toutes les dispositions contraires au présent règlement sont abrogées.",
+      "paragraphs": [
+        {
+          "text": "Toutes les dispositions contraires au présent règlement sont abrogées.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le présent Règlement sera publié au Journal Officiel de la République Algérienne\nDémocratique et Populaire.\nLe Gouverneur\nMohammed LAKSACI\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "Le présent Règlement sera publié au Journal Officiel de la République Algérienne",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Démocratique et Populaire.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "meme_texte_plusieurs_fichiers"
+    ],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.038
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-09-07.fr.txt"
+}

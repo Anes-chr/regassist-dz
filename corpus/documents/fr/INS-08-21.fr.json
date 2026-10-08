@@ -1,0 +1,347 @@
+{
+  "document_id": "INS-08-21.fr",
+  "work_id": "INS-08-21",
+  "title": "Instruction n°08-2021 du 1er juillet 2021, modifiant et complétant l’instruction n°05-2020 du 6 avril 2020 portant mesures exceptionnelles d’allègement de certaines dispositions prudentielles applicables aux banques et établissements financiers.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "08-2021",
+  "number_source": "en-tête du document",
+  "date": "2021-07-01",
+  "date_raw": "N°08-2021, DU 1ER JUILLET 2021",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-11",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Normes prudentielles",
+  "source_url": "https://www.bank-of-algeria.dz/banque-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/11/instruction082021.pdf",
+  "format": "pdf",
+  "file_hash": "5813f621e193225fca3e15f1f2939edabe7cb570525e2baf7c0137b0dcd3e230",
+  "file_size": 49496,
+  "raw_path": "raw/5813f621e193__instruction082021.pdf",
+  "retrieved_at": "2026-10-05T13:24:56+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "c6093745ae2acf265ac4005bd1717fd1febd53e78c3315bb18764de204326fa4",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-2021/",
+    "https://www.bank-of-algeria.dz/banque-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Instruction 8-2021 Ar- Fr",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210701144127+01'00'",
+    "modDate": "D:20210701144127+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 643,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 2,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°08-2021, DU 1ER JUILLET 2021, MODIFIANT ET COMPLETANT L’INSTRUCTION N°05-2020 DU 6 AVRIL 2020, PORTANT MESURES EXCEPTIONNELLES D’ALLEGEMENT DE CERTAINES DISPOSITIONS PRUDENTIELLES APPLICABLES AUX BANQUES ET ETABLISSEMENTS FINANCIERS",
+  "alias_urls": [],
+  "text_hash": "8d879aaf050d1f43ec670705871abd1078bd22c19e4d0322597d09fe426b02f5",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "05-2020",
+        "date": "2020-04-06",
+        "raw": "instruction n°05-2020 du 6 avril 2020"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°08-2021 du 1er juillet 2021, modifiant et complétant l’instruction n°05-2020 du 6 avril 2020 portant mesures exceptionnelles d’allèg"
+      },
+      "target_work_id": "INS-05-20"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "05-2020",
+        "date": "2020-04-06",
+        "raw": "instruction n°05-2020 du 6 avril 2020"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°08-2021 du 1er juillet 2021, modifiant et complétant l’instruction n°05-2020 du 6 avril 2020 portant mesures exceptionnelles d’allèg"
+      },
+      "target_work_id": "INS-05-20"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "05-2020",
+        "date": "2020-04-06",
+        "raw": "instruction n°05-2020 du 6 avril 2020"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente Instruction a pour objet de modifier et compléter l’instruction n°05-2020 du 6 avril 2020, portant allègement de certaines dispos"
+      },
+      "target_work_id": "INS-05-20"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "05-2020",
+        "date": "2020-04-06",
+        "raw": "instruction n°05-2020 du 6 avril 2020"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente Instruction a pour objet de modifier et compléter l’instruction n°05-2020 du 6 avril 2020, portant allègement de certaines dispos"
+      },
+      "target_work_id": "INS-05-20"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-05-20",
+      "reference": "instruction n°05-2020 du 6 avril 2020",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°08-2021 du 1er juillet 2021, modifiant et complétant l’instruction n°05-2020 du 6 avril 2020 portant mesures exceptionnelles d’allèg"
+      }
+    },
+    {
+      "work_id": "INS-05-20",
+      "reference": "instruction n°05-2020 du 6 avril 2020",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente Instruction a pour objet de modifier et compléter l’instruction n°05-2020 du 6 avril 2020, portant allègement de certaines dispos"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "INS-05-20",
+      "reference": "instruction n°05-2020 du 6 avril 2020",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°08-2021 du 1er juillet 2021, modifiant et complétant l’instruction n°05-2020 du 6 avril 2020 portant mesures exceptionnelles d’allèg"
+      }
+    },
+    {
+      "work_id": "INS-05-20",
+      "reference": "instruction n°05-2020 du 6 avril 2020",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente Instruction a pour objet de modifier et compléter l’instruction n°05-2020 du 6 avril 2020, portant allègement de certaines dispos"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-08-21.ar"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "INS-05-20",
+      "reference": "instruction n°05-2020 du 6 avril 2020",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°08-2021 du 1er juillet 2021, modifiant et complétant l’instruction n°05-2020 du 6 avril 2020 portant mesures exceptionnelles d’allèg"
+      }
+    },
+    {
+      "work_id": "INS-05-20",
+      "reference": "instruction n°05-2020 du 6 avril 2020",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente Instruction a pour objet de modifier et compléter l’instruction n°05-2020 du 6 avril 2020, portant allègement de certaines dispos"
+      }
+    }
+  ],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°08-2021, DU 1ER JUILLET 2021, MODIFIANT\nET COMPLETANT L’INSTRUCTION N°05-2020 DU 6 AVRIL 2020,\nPORTANT MESURES EXCEPTIONNELLES D’ALLEGEMENT DE CERTAINES\nDISPOSITIONS PRUDENTIELLES APPLICABLES AUX BANQUES\nET ETABLISSEMENTS FINANCIERS",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°08-2021, DU 1ER JUILLET 2021, MODIFIANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET COMPLETANT L’INSTRUCTION N°05-2020 DU 6 AVRIL 2020,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "PORTANT MESURES EXCEPTIONNELLES D’ALLEGEMENT DE CERTAINES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DISPOSITIONS PRUDENTIELLES APPLICABLES AUX BANQUES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET ETABLISSEMENTS FINANCIERS",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente Instruction a pour objet de modifier et compléter l’instruction n°05-2020 du 6 avril 2020, portant allègement de certaines dispositions prudentielles applicables aux banques et établissements financiers.",
+      "paragraphs": [
+        {
+          "text": "La présente Instruction a pour objet de modifier et compléter l’instruction n°05-2020 du 6 avril 2020, portant allègement de certaines dispositions prudentielles applicables aux banques et établissements financiers.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les dispositions de l’instruction n°05-2020 du 6 avril 2020 susvisée, sont prorogées jusqu’au 30 septembre 2021.\nLe Gouverneur\nRosthom FADLI",
+      "paragraphs": [
+        {
+          "text": "Les dispositions de l’instruction n°05-2020 du 6 avril 2020 susvisée, sont prorogées jusqu’au 30 septembre 2021.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Rosthom FADLI",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.04
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-08-21.fr.txt"
+}

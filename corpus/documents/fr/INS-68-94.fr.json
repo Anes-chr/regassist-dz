@@ -1,0 +1,265 @@
+{
+  "document_id": "INS-68-94.fr",
+  "work_id": "INS-68-94",
+  "title": "Instruction n°68-94 du 25 octobre 1994 fixant le niveau des engagements extérieurs des banques.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "68-94",
+  "number_source": "en-tête du document",
+  "date": "1994-10-25",
+  "date_raw": "n°68-94 du 25 octobre 1994",
+  "date_source": "libelle",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Normes prudentielles",
+  "source_url": "https://www.bank-of-algeria.dz/banque-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction6894.pdf",
+  "format": "pdf",
+  "file_hash": "2516e5df9b863f7c8fda6cd815e14dfd6374c4db43aa2a3afa1171bc9db87bdc",
+  "file_size": 28429,
+  "raw_path": "raw/2516e5df9b86__instruction6894.pdf",
+  "retrieved_at": "2026-10-05T13:22:11+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "5fbcd58f306a2141138f98e4c7841e4a028b5cbb89b52947e3877ac7ffcb8d95",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-1994/",
+    "https://www.bank-of-algeria.dz/banque-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document7",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200810115228+01'00'",
+    "modDate": "D:20200810115228+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 942,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 3,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°68-94 DU 25 OCTORE 1994 FIXANT LE NIVEAU DES ENGAGEMENTS EXTERIEURS DES BANQUES",
+  "alias_urls": [],
+  "text_hash": "3a4a64cc5c7dbc877c72ca7d8cf60fa58cade6fd5c7b9f6f3f61614f641efd29",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [
+    {
+      "work_id": "INS-03-14",
+      "document_id": "INS-03-14.fr",
+      "date": "2014-11-23",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction annule et remplace l’instruction n°68-94 du 25 octobre 1994 fixant le niveau des engagements extéri"
+      }
+    }
+  ],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "INS-03-14",
+      "document_id": "INS-03-14.fr",
+      "date": "2014-11-23",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction annule et remplace l’instruction n°68-94 du 25 octobre 1994 fixant le niveau des engagements extéri"
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [
+    {
+      "work_id": "INS-03-14",
+      "document_id": "INS-03-14.fr",
+      "date": "2014-11-23",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction annule et remplace l’instruction n°68-94 du 25 octobre 1994 fixant le niveau des engagements extéri"
+      }
+    }
+  ],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°68-94 DU 25 OCTORE 1994 FIXANT\nLE NIVEAU DES ENGAGEMENTS EXTERIEURS DES BANQUES",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°68-94 DU 25 OCTORE 1994 FIXANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "LE NIVEAU DES ENGAGEMENTS EXTERIEURS DES BANQUES",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Conformément aux dispositions de l'article 4 de l'instruction n°20-94 du 12 avril 1994 fixant les conditions financières des opérations d'importation, la présente instruction a pour objet de définir le niveau autorisé des engagements extérieurs par signature des banques.",
+      "paragraphs": [
+        {
+          "text": "Conformément aux dispositions de l'article 4 de l'instruction n°20-94 du 12 avril 1994 fixant les conditions financières des opérations d'importation, la présente instruction a pour objet de définir le niveau autorisé des engagements extérieurs par signature des banques.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les nouveaux engagements extérieurs par signature des banques pris à compter du 1er octobre 1994, doivent être maintenus en permanence à un niveau n'excédant pas quatre (4) fois leurs fonds propres tels que définis par la réglementation prudentielle.",
+      "paragraphs": [
+        {
+          "text": "Les nouveaux engagements extérieurs par signature des banques pris à compter du 1er octobre 1994, doivent être maintenus en permanence à un niveau n'excédant pas quatre (4) fois leurs fonds propres tels que définis par la réglementation prudentielle.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Par \"engagements financiers au titre d'opérations d'importation\", il faut entendre l'ensemble des engagements par signature afférents aux opérations d'importation, déduction faite des dépôts de garantie et provisions constitués en dinars.\nLe Gouverneur\nAbdelouahab KERAMANE",
+      "paragraphs": [
+        {
+          "text": "Par \"engagements financiers au titre d'opérations d'importation\", il faut entendre l'ensemble des engagements par signature afférents aux opérations d'importation, déduction faite des dépôts de garantie et provisions constitués en dinars.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.033
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-68-94.fr.txt"
+}

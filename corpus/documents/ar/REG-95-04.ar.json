@@ -1,0 +1,551 @@
+{
+  "document_id": "REG-95-04.ar",
+  "work_id": "REG-95-04",
+  "title": "نظام رقم 95-04 المؤرخ في 20 أبريل 1995، يعدل ويتمم النظام رقم 91-09 المؤرخ في 14غشت 1991، الذي يحدد قواعد الحذر في تسيير البنوك والمؤسسات المالية.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "95-04",
+  "number_source": "libelle",
+  "date": "1995-04-20",
+  "date_raw": "المؤرخ في 20 أبريل 1995",
+  "date_source": "libelle",
+  "publication_date": "2023-02-28",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "règlements",
+  "subcategory": "المعايير الاحترازية المطبقة على البنوك و المؤسسات المالية",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%b9%d8%af-%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d8%b2%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d8%b7%d8%a8%d9%82%d8%a9-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%a8%d9%86%d9%88/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/02/04-95.pdf",
+  "format": "pdf",
+  "file_hash": "4a8e1252292c5590746c2d59b90fe2cff52ca21c7642f96d4aa2138d4fdaa079",
+  "file_size": 352103,
+  "raw_path": "raw/4a8e1252292c__04-95.pdf",
+  "retrieved_at": "2026-10-05T13:28:27+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 2,
+  "url_hash": "0ca9636f08fa8423430f129f2bf93b79ec34fc31902f864c12cf7ae032031b48",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%b9%d8%af-%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d8%b2%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d8%b7%d8%a8%d9%82%d8%a9-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%a8%d9%86%d9%88/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "author": "chahra yahiaoui",
+    "creator": "Microsoft® Word 2016",
+    "producer": "Microsoft® Word 2016",
+    "creationDate": "D:20230227111919+01'00'",
+    "modDate": "D:20230227111919+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 2088,
+        "ocr_confidence": 73.57631578947368
+      },
+      {
+        "page": 2,
+        "method": "ocr",
+        "chars": 1727,
+        "ocr_confidence": 73.63333333333334
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 3,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_uncertain_numbers:1",
+    "ocr_utilise_verification_humaine",
+    "ocr_faible_confiance",
+    "numerotation:articles_manquants:[3]",
+    "numerotation:premier_article=2"
+  ],
+  "title_document": "نظام رقم 5 9- 04 pute‏ فى 20 تي القعدة عام 1415الموافق 20 أبويل سنة 5 9 1بيعدل ويتمم النظام رقم 91- 09 المؤرخ gi‏ 14 غفشت سنة 1991 gill‏ يهدد قواعد الهذر في تسيير المصارف و المؤسيسات إن محافظ بنك الهزائر ‏ 19 بمقتضي القائون رقم 0- 10 المؤرخ في‎ -٠",
+  "alias_urls": [],
+  "text_hash": "b961161b5b49300b9fd10195b6398e72ca4aa52d796617c528a81b3936093b69",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "91-09",
+        "date": "1991-08-14",
+        "raw": "règlement n°91-09 du 14 août 1991"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°95-04 du 20 avril 1995 modifiant et complétant le règlement n°91-09 du 14 août 1991 fixant les règles prudentielles de gest",
+        "copied_from": "REG-95-04.fr"
+      },
+      "target_work_id": "REG-91-09"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "91-09",
+        "date": "1991-08-14",
+        "raw": "règlement n°91-09 du 14 août 1991"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°95-04 du 20 avril 1995 modifiant et complétant le règlement n°91-09 du 14 août 1991 fixant les règles prudentielles de gest",
+        "copied_from": "REG-95-04.fr"
+      },
+      "target_work_id": "REG-91-09"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "91-09",
+        "date": "1991-08-14",
+        "raw": "règlement n°91-09 du 14 août 1991"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°91-09 du 14 août 1991 fixant les règles prudentielles de gest",
+        "copied_from": "REG-95-04.fr"
+      },
+      "target_work_id": "REG-91-09"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "91-09",
+        "date": "1991-08-14",
+        "raw": "règlement n°91-09 du 14 août 1991"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°91-09 du 14 août 1991 fixant les règles prudentielles de gest",
+        "copied_from": "REG-95-04.fr"
+      },
+      "target_work_id": "REG-91-09"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "REG-91-09",
+      "reference": "règlement n°91-09 du 14 août 1991",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°95-04 du 20 avril 1995 modifiant et complétant le règlement n°91-09 du 14 août 1991 fixant les règles prudentielles de gest",
+        "copied_from": "REG-95-04.fr"
+      }
+    },
+    {
+      "work_id": "REG-91-09",
+      "reference": "règlement n°91-09 du 14 août 1991",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°91-09 du 14 août 1991 fixant les règles prudentielles de gest",
+        "copied_from": "REG-95-04.fr"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "REG-91-09",
+      "reference": "règlement n°91-09 du 14 août 1991",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°95-04 du 20 avril 1995 modifiant et complétant le règlement n°91-09 du 14 août 1991 fixant les règles prudentielles de gest",
+        "copied_from": "REG-95-04.fr"
+      }
+    },
+    {
+      "work_id": "REG-91-09",
+      "reference": "règlement n°91-09 du 14 août 1991",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°91-09 du 14 août 1991 fixant les règles prudentielles de gest",
+        "copied_from": "REG-95-04.fr"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-95-04.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "REG-91-09",
+      "reference": "règlement n°91-09 du 14 août 1991",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°95-04 du 20 avril 1995 modifiant et complétant le règlement n°91-09 du 14 août 1991 fixant les règles prudentielles de gest",
+        "copied_from": "REG-95-04.fr"
+      }
+    },
+    {
+      "work_id": "REG-91-09",
+      "reference": "règlement n°91-09 du 14 août 1991",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°91-09 du 14 août 1991 fixant les règles prudentielles de gest",
+        "copied_from": "REG-95-04.fr"
+      }
+    }
+  ],
+  "ocr_numeric_check": {
+    "units": 4,
+    "units_flagged": 1,
+    "units_compared_with_french": 2,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article ا",
+      "number": "ا",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "نظام رقم 5 9- 04 pute‏ فى 20 تي القعدة عام 1415الموافق 20 أبويل سنة 5 9 1بيعدل ويتمم النظام رقم 91- 09 المؤرخ gi‏ 14 غفشت سنة 1991 gill‏ يهدد قواعد الهذر في تسيير المصارف و المؤسيسات إن محافظ بنك الهزائر ‏ 19 بمقتضي القائون رقم 0- 10 المؤرخ في‎ -٠ 1980 رمضان عام 3314111410 14 أبريل سئة‎ الفقرة‎ 44 LUI Lu والمتعلق بالتقد والقرض.‎ 'ن' و” 4 dis‏\n- وبمقتشى المرسوم الرئاسي المؤْرخ في 20 pa‏ عام 1413المواقق 21 يوليو سسنة 1992 والمتضمن تعيين محافظ بنك الجزائر:\n- وبمقتضى المراسيم الرئاسيّة المؤرخة في 19 شوال عام gels 14 Galplit410‏ سثة 1990\n- ودمقاتش المرسوم التنفيذي المؤرخ في 19 ذي المجة عاع 1411 الموافق fai‏ يوليو سنة 1881\n- وبمقتضى النَظام رقم 0 - 1 المؤرخ فى 12 ذي الحجة عام 1410الموافق 4 يوليو سئة 1990 والمتضمن الحدٌ الأدئنى لرأس مال اليثرك والمؤسسات LL‏ العاهلة بالهزائر,\n- ويمقتشي النّظاء رقم 91- 09 المزرخ في 4 صفر ple‏ 1412 الموافق 14 غشت سنة 1881 الذي يحدد قواعد الحذر في تسيير الصار يف والمؤسئسات المالية,\n- وبمقتضى النظام رقم 92- 08 المؤرخ في 22 جمادى Lil‏ عام 1413 الموافق 17 نوفمبر سسنة 2 | والمتضمّن مخطط الحسايات المصرفيّة والقواعد المعاسبية المطبقة غلى البنوك والمؤّسسات الماليّة,\n- وبمقتضى التظام رقم 2- 08 المؤرخ في 22 جمادى الأولى عام 1413 الموافق 17 pates‏ ستة 2 والمتعلّق بإعداد العسابات الفرديّة السّنويّة للبنوك والمؤسّسات الماليّة. ونشرهاء\n- ويمقتضى النظام رقم 3 8 1 المؤرخ فى 10 رجب عام 1413 الموافق 3 يناير سنة 1993 الذي dis‏ شروط تأسيس بنك رمؤسسة مالية. وشروط\n- ويئاء على هداولة عهلس LRU‏ والقرض المؤرخة في 20 أبريل سنة 1895 بصصسلاو النتظام الآتى تصنه :",
+      "paragraphs": [
+        {
+          "text": "نظام رقم 5 9- 04 pute‏ فى 20 تي القعدة عام 1415الموافق 20 أبويل سنة 5 9 1بيعدل ويتمم النظام رقم 91- 09 المؤرخ gi‏ 14 غفشت سنة 1991 gill‏ يهدد قواعد الهذر في تسيير المصارف و المؤسيسات إن محافظ بنك الهزائر ‏ 19 بمقتضي القائون رقم 0- 10 المؤرخ في‎ -٠ 1980 رمضان عام 3314111410 14 أبريل سئة‎ الفقرة‎ 44 LUI Lu والمتعلق بالتقد والقرض.‎ 'ن' و” 4 dis‏",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتشى المرسوم الرئاسي المؤْرخ في 20 pa‏ عام 1413المواقق 21 يوليو سسنة 1992 والمتضمن تعيين محافظ بنك الجزائر:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى المراسيم الرئاسيّة المؤرخة في 19 شوال عام gels 14 Galplit410‏ سثة 1990",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- ودمقاتش المرسوم التنفيذي المؤرخ في 19 ذي المجة عاع 1411 الموافق fai‏ يوليو سنة 1881",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى النَظام رقم 0 - 1 المؤرخ فى 12 ذي الحجة عام 1410الموافق 4 يوليو سئة 1990 والمتضمن الحدٌ الأدئنى لرأس مال اليثرك والمؤسسات LL‏ العاهلة بالهزائر,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- ويمقتشي النّظاء رقم 91- 09 المزرخ في 4 صفر ple‏ 1412 الموافق 14 غشت سنة 1881 الذي يحدد قواعد الحذر في تسيير الصار يف والمؤسئسات المالية,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى النظام رقم 92- 08 المؤرخ في 22 جمادى Lil‏ عام 1413 الموافق 17 نوفمبر سسنة 2 | والمتضمّن مخطط الحسايات المصرفيّة والقواعد المعاسبية المطبقة غلى البنوك والمؤّسسات الماليّة,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى التظام رقم 2- 08 المؤرخ في 22 جمادى الأولى عام 1413 الموافق 17 pates‏ ستة 2 والمتعلّق بإعداد العسابات الفرديّة السّنويّة للبنوك والمؤسّسات الماليّة. ونشرهاء",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- ويمقتضى النظام رقم 3 8 1 المؤرخ فى 10 رجب عام 1413 الموافق 3 يناير سنة 1993 الذي dis‏ شروط تأسيس بنك رمؤسسة مالية. وشروط",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- ويئاء على هداولة عهلس LRU‏ والقرض المؤرخة في 20 أبريل سنة 1895 بصصسلاو النتظام الآتى تصنه :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article ا",
+      "number": "ا",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "لآولى : يعدل هذا النظام ويتمم النظام رقم 91- 08 المؤرخ في 14 نحشت Liu‏ 1991الذي يحدد قواعد الحذر في تسيير المصارف والوؤسّسات",
+      "paragraphs": [
+        {
+          "text": "لآولى : يعدل هذا النظام ويتمم النظام رقم 91- 08 المؤرخ في 14 نحشت Liu‏ 1991الذي يحدد قواعد الحذر في تسيير المصارف والوؤسّسات",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "fus:‏ المادة 3 من النّظام رقم 891- 089 المؤرخ في 14 غشت سنة 1991. المذكور volet‏ وتصرر ' المادة 3 : يقصد بالأموال الخاصنة؛ في مفيوم هذا النظام: مبلغ الأموال الخاصة القاعديًة والاموال Lola‏ وتشتمل الأموال الخاصصة ae La‏ على العناصر الآننة :\n- الاحتياطيات غير احتياطيات إعادة pri‏ الجائب hit‏\n- الاعتياطات المخصصة لتغطية الأخطار المصرفية La‏ + الريح المحدد عند تواريخ وسيطة حسب الشروط يجب أن تطرح من الأموال الشاهية القاعدية.\nاللحددة على هذا التحوء العناصر الآتية :\n- الحصمّة غير المحرّرة من رأس المال الاصلي,\n- الأسهم الشاصة المككتسية كسيا مباشرا أو شير مباشر.\n- الرصيد المثقول عن جديد عثدما يكون فى الجانب الدين:\n- الأصول غير المادية ومثها ثفقات التأسيس,\n- النتائج السلبية المسددة يتواريخ وسيطة. إن اقتضس opel‏\n- نقصان الاحتياطات المخصصة لتغطية أخطار الاعتماد كما يقدرة بنك الجزائر.\nاحتياطيات إعادة التقويف المقعول %s‏\n- يغعضن الغتاصبير الواردة في ميزائية البثك أو المؤسّسة المالية. والقابلة للاستعمال بهرية:؛ مشروطة.\nوتحدد تعليمة يصدرها بنك الجزائر خصائص وقد تحدد عند الاقتضاء: عناصر أخرى من الأمرال الخاصنة: بتعليمة بصدرها بثك الجزائو '.\n09-91 رقم‎ lil تتمّم المادة 4 من‎ : 3 Bull المؤرخ فى 14 غشت سنة 1991؛ المذكور أعلاه, كما‎ * المادة 4 : يقصد بالأخطار المترئية, في مفهوم هذا التظاء. العناصر الآتية :\n- قروض الزين,\n- مساهمات البثوك والمؤسسيات المالية,'\n- الالتزامات بالتوقيع, -التؤامات الدولة:\n- المستحقات الأخرى على الدولة:\n- الأموال الثابتة الصنافية من الاستهلاك.\nوالبثوك واللمؤسسات المالية.\n- مبلغ القممانات المحصلة من الدولة. وهيئات التثمسن والبثوك والمؤسسات المالية,\n- المبالغ المحصلة ضمانا من الرّبن في شكل ودائع أي أصول عالية يمكن تصفيتها دون أن js‏ قيمتياء و أو اتهفاض قيمة السئدات.\nأن تطبق فيما plats‏ بالأخطار المحددة أعلاه.\nكما قد تحدد: عند الاقتضاء؛ أخطار أخرى dla‏ يصدر ها ينك الجزائر \".",
+      "paragraphs": [
+        {
+          "text": "fus:‏ المادة 3 من النّظام رقم 891- 089 المؤرخ في 14 غشت سنة 1991. المذكور volet‏ وتصرر ' المادة 3 : يقصد بالأموال الخاصنة؛ في مفيوم هذا النظام: مبلغ الأموال الخاصة القاعديًة والاموال Lola‏ وتشتمل الأموال الخاصصة ae La‏ على العناصر الآننة :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- الاحتياطيات غير احتياطيات إعادة pri‏ الجائب hit‏",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- الاعتياطات المخصصة لتغطية الأخطار المصرفية La‏ + الريح المحدد عند تواريخ وسيطة حسب الشروط يجب أن تطرح من الأموال الشاهية القاعدية.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "اللحددة على هذا التحوء العناصر الآتية :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- الحصمّة غير المحرّرة من رأس المال الاصلي,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- الأسهم الشاصة المككتسية كسيا مباشرا أو شير مباشر.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- الرصيد المثقول عن جديد عثدما يكون فى الجانب الدين:",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- الأصول غير المادية ومثها ثفقات التأسيس,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- النتائج السلبية المسددة يتواريخ وسيطة. إن اقتضس opel‏",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- نقصان الاحتياطات المخصصة لتغطية أخطار الاعتماد كما يقدرة بنك الجزائر.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "احتياطيات إعادة التقويف المقعول %s‏",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- يغعضن الغتاصبير الواردة في ميزائية البثك أو المؤسّسة المالية. والقابلة للاستعمال بهرية:؛ مشروطة.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "وتحدد تعليمة يصدرها بنك الجزائر خصائص وقد تحدد عند الاقتضاء: عناصر أخرى من الأمرال الخاصنة: بتعليمة بصدرها بثك الجزائو '.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "09-91 رقم‎ lil تتمّم المادة 4 من‎ : 3 Bull المؤرخ فى 14 غشت سنة 1991؛ المذكور أعلاه, كما‎ * المادة 4 : يقصد بالأخطار المترئية, في مفهوم هذا التظاء. العناصر الآتية :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- قروض الزين,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- مساهمات البثوك والمؤسسيات المالية,'",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- الالتزامات بالتوقيع, -التؤامات الدولة:",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- المستحقات الأخرى على الدولة:",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- الأموال الثابتة الصنافية من الاستهلاك.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "والبثوك واللمؤسسات المالية.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- مبلغ القممانات المحصلة من الدولة. وهيئات التثمسن والبثوك والمؤسسات المالية,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- المبالغ المحصلة ضمانا من الرّبن في شكل ودائع أي أصول عالية يمكن تصفيتها دون أن js‏ قيمتياء و أو اتهفاض قيمة السئدات.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "أن تطبق فيما plats‏ بالأخطار المحددة أعلاه.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "كما قد تحدد: عند الاقتضاء؛ أخطار أخرى dla‏ يصدر ها ينك الجزائر \".",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "pales:‏ رقم 81--08المؤرخ.في 4 غشت سنة 1981 المذكور أعلاه. بمادة 4 مكرر ' الادة 4 : مكرر : العثاصر المعتمدة في عملية حهساب نسية تقطية الأشطار | نسبة القدرة على التسديد ) هي العناصر الواردة قي محاسية اليئوك والمؤسسات المالية \". :\nالماة 5 ؛ يتمم النّظام رقم 91- 09 المؤرخ في 14 غشت سنة 1991: المذكور أعلاه: بمادة 9 تهور كما استثناء. البنوك والمؤسسات LL‏ رخصة معوّفقتة تعفيها فن أحكام هذا النظام \".\nحرار بالجزائر في 20 ذي القعدة عام 1415 المواقق 20 Li pl‏ ستة 1995 عبد الوهاب كرمان",
+      "paragraphs": [
+        {
+          "text": "pales:‏ رقم 81--08المؤرخ.في 4 غشت سنة 1981 المذكور أعلاه. بمادة 4 مكرر ' الادة 4 : مكرر : العثاصر المعتمدة في عملية حهساب نسية تقطية الأشطار | نسبة القدرة على التسديد ) هي العناصر الواردة قي محاسية اليئوك والمؤسسات المالية \". :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "الماة 5 ؛ يتمم النّظام رقم 91- 09 المؤرخ في 14 غشت سنة 1991: المذكور أعلاه: بمادة 9 تهور كما استثناء. البنوك والمؤسسات LL‏ رخصة معوّفقتة تعفيها فن أحكام هذا النظام \".",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "حرار بالجزائر في 20 ذي القعدة عام 1415 المواقق 20 Li pl‏ ستة 1995 عبد الوهاب كرمان",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_uncertain_numbers:1",
+      "ocr_utilise_verification_humaine",
+      "ocr_faible_confiance",
+      "numerotation:articles_manquants:[3]",
+      "numerotation:premier_article=2"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.058,
+      "ocr_pages": [
+        1,
+        2
+      ],
+      "ocr_mean_confidence": 73.6
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/REG-95-04.ar.txt"
+}

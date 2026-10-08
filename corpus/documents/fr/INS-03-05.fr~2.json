@@ -1,0 +1,404 @@
+{
+  "document_id": "INS-03-05.fr~2",
+  "work_id": "INS-03-05",
+  "title": "Instruction n°03-2005 du 11 mars 2005 modifiant et complétant l’instruction n°08-2001 du 30 décembre 2001 fixant les conditions et les modalités d’émission des titres de transport aérien et de transfert des excédents de recettes.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "03-2005",
+  "number_source": "en-tête du document",
+  "date": "2005-03-11",
+  "date_raw": "N°03-2005 DU 11 MARS 2005",
+  "date_source": "en-tête du document",
+  "publication_date": "2023-01-24",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Règlementation des changes",
+  "source_url": "https://www.bank-of-algeria.dz/importations-exportations-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction032005.pdf",
+  "format": "pdf",
+  "file_hash": "845ff9bfdf712829ce80413ba243b097ec75ea96b79d71af2edbf1f928cce2ef",
+  "file_size": 43113,
+  "raw_path": "raw/845ff9bfdf71__instruction032005.pdf",
+  "retrieved_at": "2026-10-05T13:25:48+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "900f097942d2c5118ac14cda209c376a60637a4797154cfbfb136ad8ebb15bb5",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/importations-exportations-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document2",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200928092617+01'00'",
+    "modDate": "D:20200928092617+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 1596,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 4,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "meme_texte_plusieurs_fichiers"
+  ],
+  "title_document": "INSTRUCTION N°03-2005 DU 11 MARS 2005 MODIFIANT ET COMPLÉTANT L’INSTRUCTION N°08-2001 DU 30 DÉCEMBRE 2001 FIXANT LES CONDITIONS ET LES MODALITÉS D’ÉMISSION DES",
+  "alias_urls": [],
+  "text_hash": "6a545cdd357383d4bcd22108421dfb8b2d480ccec2971df97ae6bc213dfd4789",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "08-2001",
+        "date": "2001-12-30",
+        "raw": "instruction n°08-2001 du 30 décembre 2001"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°03-2005 du 11 mars 2005 modifiant et complétant l’instruction n°08-2001 du 30 décembre 2001 fixant les conditions et les modalités"
+      },
+      "target_work_id": "INS-08-01"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "08-2001",
+        "date": "2001-12-30",
+        "raw": "instruction n°08-2001 du 30 décembre 2001"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°03-2005 du 11 mars 2005 modifiant et complétant l’instruction n°08-2001 du 30 décembre 2001 fixant les conditions et les modalités"
+      },
+      "target_work_id": "INS-08-01"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "08-2001",
+        "date": "2001-12-30",
+        "raw": "instruction n°08-2001 du 30 décembre 2001"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "e instruction a pour objet de modifier les dispositions relatives au transfert des excédents de recettes, prévues par l’instruction n°08-2001 du 30 décembre 2001 fixant les conditions et les modalités"
+      },
+      "target_work_id": "INS-08-01"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-08-01",
+      "reference": "instruction n°08-2001 du 30 décembre 2001",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°03-2005 du 11 mars 2005 modifiant et complétant l’instruction n°08-2001 du 30 décembre 2001 fixant les conditions et les modalités"
+      }
+    },
+    {
+      "work_id": "INS-08-01",
+      "reference": "instruction n°08-2001 du 30 décembre 2001",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "e instruction a pour objet de modifier les dispositions relatives au transfert des excédents de recettes, prévues par l’instruction n°08-2001 du 30 décembre 2001 fixant les conditions et les modalités"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "INS-08-01",
+      "reference": "instruction n°08-2001 du 30 décembre 2001",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°03-2005 du 11 mars 2005 modifiant et complétant l’instruction n°08-2001 du 30 décembre 2001 fixant les conditions et les modalités"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [
+    {
+      "work_id": "INS-06-05",
+      "document_id": "INS-06-05.fr",
+      "date": "2005-06-23",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge les dispositions contraires notamment l’instruction n°03-05 du 31 mars 2005."
+      }
+    }
+  ],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "INS-06-05",
+      "document_id": "INS-06-05.fr",
+      "date": "2005-06-23",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge les dispositions contraires notamment l’instruction n°03-05 du 31 mars 2005."
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [
+    "INS-03-05.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [
+    {
+      "work_id": "INS-06-05",
+      "document_id": "INS-06-05.fr",
+      "date": "2005-06-23",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge les dispositions contraires notamment l’instruction n°03-05 du 31 mars 2005."
+      }
+    }
+  ],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "INS-08-01",
+      "reference": "instruction n°08-2001 du 30 décembre 2001",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°03-2005 du 11 mars 2005 modifiant et complétant l’instruction n°08-2001 du 30 décembre 2001 fixant les conditions et les modalités"
+      }
+    }
+  ],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°03-2005 DU 11 MARS 2005 MODIFIANT ET COMPLÉTANT\nL’INSTRUCTION N°08-2001 DU 30 DÉCEMBRE 2001 FIXANT LES CONDITIONS\nET LES MODALITÉS D’ÉMISSION DES TITRES DE TRANSPORT AÉRIEN\nET DE TRANSFERT DES EXCÉDENTS DE RECETTES",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°03-2005 DU 11 MARS 2005 MODIFIANT ET COMPLÉTANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L’INSTRUCTION N°08-2001 DU 30 DÉCEMBRE 2001 FIXANT LES CONDITIONS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET LES MODALITÉS D’ÉMISSION DES TITRES DE TRANSPORT AÉRIEN",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET DE TRANSFERT DES EXCÉDENTS DE RECETTES",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction a pour objet de modifier les dispositions relatives au transfert des excédents de recettes, prévues par l’instruction n°08-2001 du 30 décembre 2001 fixant les conditions et les modalités d’émission de titres de transport aérien et de transfert des excédents de recettes.",
+      "paragraphs": [
+        {
+          "text": "La présente instruction a pour objet de modifier les dispositions relatives au transfert des excédents de recettes, prévues par l’instruction n°08-2001 du 30 décembre 2001 fixant les conditions et les modalités d’émission de titres de transport aérien et de transfert des excédents de recettes.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les banques et les établissements financiers intermédiaires agréés sont autorisés à instruire et exécuter mensuellement les demandes de transfert des excédents de recettes sur les dépenses, dégagés par les compagnies aériennes étrangères installées en Algérie.\nLa constitution du dossier y afférent doit être conforme aux dispositions prévues à cet effet par l’instruction visée à l’article 1er ci-dessus. Le transfert des excédents de recettes ou le rapatriement en cas de déficit sont selon le cas soumis à la déclaration selon le modèle “4” ou “104”.",
+      "paragraphs": [
+        {
+          "text": "Les banques et les établissements financiers intermédiaires agréés sont autorisés à instruire et exécuter mensuellement les demandes de transfert des excédents de recettes sur les dépenses, dégagés par les compagnies aériennes étrangères installées en Algérie.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La constitution du dossier y afférent doit être conforme aux dispositions prévues à cet effet par l’instruction visée à l’article 1er ci-dessus. Le transfert des excédents de recettes ou le rapatriement en cas de déficit sont selon le cas soumis à la déclaration selon le modèle “4” ou “104”.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les dispositions prévues par l’instruction n°08-2001 du 30 décembre 2001 fixant les conditions et les modalités d’émission de titres de transport aérien et de transfert des excédents de recettes non modifiées par la présente demeurent en vigueur, notamment celles relatives au contrôle à posteriori qu’exerce la Banque d’Algérie.",
+      "paragraphs": [
+        {
+          "text": "Les dispositions prévues par l’instruction n°08-2001 du 30 décembre 2001 fixant les conditions et les modalités d’émission de titres de transport aérien et de transfert des excédents de recettes non modifiées par la présente demeurent en vigueur, notamment celles relatives au contrôle à posteriori qu’exerce la Banque d’Algérie.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction est applicable à compter de la date de sa signature.\nLe Gouverneur\nMohammed LAKSACI",
+      "paragraphs": [
+        {
+          "text": "La présente instruction est applicable à compter de la date de sa signature.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "meme_texte_plusieurs_fichiers"
+    ],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.027
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-03-05.fr~2.txt"
+}

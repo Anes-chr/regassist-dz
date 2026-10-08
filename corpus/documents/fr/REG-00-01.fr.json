@@ -1,0 +1,1226 @@
+{
+  "document_id": "REG-00-01.fr",
+  "work_id": "REG-00-01",
+  "title": "Règlement n°2000-01 du 13 février 2000 relatif aux opérations de réescompte et de crédit aux banques et établissements financiers.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "2000-01",
+  "number_source": "en-tête du document",
+  "date": "2000-02-13",
+  "date_raw": "N°2000-01 DU 13 FEVRIER 2000",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Instruments de la politique monétaire",
+  "source_url": "https://www.bank-of-algeria.dz/politique-monetaire-reglement/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement200001.pdf",
+  "format": "pdf",
+  "file_hash": "ee3fded3d7ed51c5d87f3ca689bbf1fcdcde8aa70b3e867fd8a48ceadb91049f",
+  "file_size": 84184,
+  "raw_path": "raw/ee3fded3d7ed__reglement200001.pdf",
+  "retrieved_at": "2026-10-05T13:22:17+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 5,
+  "url_hash": "f9f912e692cc72e7e88c5034c5c47eab2bd31a9dabccda268baee9f4a49cb4d4",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/banques-6/",
+    "https://www.bank-of-algeria.dz/politique-monetaire-reglement/",
+    "https://www.bank-of-algeria.dz/reglement-2000/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document20",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210216133056+01'00'",
+    "modDate": "D:20210216133056+01'00'"
+  },
+  "hijri_date_raw": "28 Rabie El Aouel 1419",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 5,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2532,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 2633,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 2473,
+        "ocr_confidence": null
+      },
+      {
+        "page": 4,
+        "method": "pdf_text",
+        "chars": 2739,
+        "ocr_confidence": null
+      },
+      {
+        "page": 5,
+        "method": "pdf_text",
+        "chars": 1229,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 25,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "REGLEMENT N°2000-01 DU 13 FEVRIER 2000 RELATIF AUX OPERATIONS DE REESCOMPTE ET DE CREDIT AUX BANQUES ET ETABLISSEMENTS FINANCIERS",
+  "alias_urls": [],
+  "text_hash": "5700ded93dc9d3e29ac05ffe9475fec295f197b09e036d27392bcdeafcd9a952",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [
+    {
+      "work_id": "REG-15-01",
+      "document_id": "REG-15-01.fr",
+      "date": "2015-02-19",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 4,
+        "quote": "Le présent règlement annule et remplace le règlement n°2000-01 du 13 février 2000 relatif aux opérations de réescompte et"
+      }
+    }
+  ],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "REG-15-01",
+      "document_id": "REG-15-01.fr",
+      "date": "2015-02-19",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 4,
+        "quote": "Le présent règlement annule et remplace le règlement n°2000-01 du 13 février 2000 relatif aux opérations de réescompte et"
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [
+    "REG-00-01.ar"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [
+    {
+      "work_id": "REG-15-01",
+      "document_id": "REG-15-01.fr",
+      "date": "2015-02-19",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 4,
+        "quote": "Le présent règlement annule et remplace le règlement n°2000-01 du 13 février 2000 relatif aux opérations de réescompte et"
+      }
+    }
+  ],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 16",
+      "number": "16",
+      "heading": null,
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 17",
+      "number": "17",
+      "heading": null,
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 18",
+      "number": "18",
+      "heading": null,
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 19",
+      "number": "19",
+      "heading": null,
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 20",
+      "number": "20",
+      "heading": null,
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 21",
+      "number": "21",
+      "heading": null,
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 22",
+      "number": "22",
+      "heading": null,
+      "page_start": 4,
+      "page_end": 5,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 23",
+      "number": "23",
+      "heading": null,
+      "page_start": 5,
+      "page_end": 5,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 24",
+      "number": "24",
+      "heading": null,
+      "page_start": 5,
+      "page_end": 5,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 25",
+      "number": "25",
+      "heading": null,
+      "page_start": 5,
+      "page_end": 5,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°2000-01 DU 13 FEVRIER 2000\nRELATIF AUX OPERATIONS DE REESCOMPTE ET DE CREDIT\nAUX BANQUES ET ETABLISSEMENTS FINANCIERS\nLe Gouverneur de la Banque d'Algérie,\n- Vu la Loi n°90-10 du 14 avril 1990 modifiée relative à la Monnaie et au Crédit notamment ses articles 44 (alinéa b), 47, 69 à 75, 77 et 84 ;\nVu le Décret Présidentiel du 28 Rabie El Aouel 1419 correspondant au 22 juillet 1998 portant nomination du Gouverneur de la Banque d'Algérie ;\n- Vu les Décrets Présidentiels du 14 Mai 1990 portant nomination de Vice-Gouverneurs de la\nBanque d'Algérie ;\n- Vu le Décret présidentiel du 17 Chaoual 1417 correspondant au 24 Février 1997 portant nomination d'un Vice-Gouverneur de la Banque d'Algérie ;\nVu le Décret Exécutif du 1er Juillet 1991 portant désignation de Membres Titulaires et\nSuppléants au Conseil de la Monnaie et du Crédit ;\n- Vu le Décret Exécutif du 15 Safar 1417 correspondant au 1er juillet 1996 portant désignation d'un Membre Titulaire au Conseil de la Monnaie et du Crédit ;\n- Vu les Délibérations du Conseil de la Monnaie et du Crédit en date du 26 Janvier 2000 ;\nPromulgue le Règlement dont la teneur suit :\nDISPOSITIONS GENERALES",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°2000-01 DU 13 FEVRIER 2000",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "RELATIF AUX OPERATIONS DE REESCOMPTE ET DE CREDIT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AUX BANQUES ET ETABLISSEMENTS FINANCIERS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d'Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la Loi n°90-10 du 14 avril 1990 modifiée relative à la Monnaie et au Crédit notamment ses articles 44 (alinéa b), 47, 69 à 75, 77 et 84 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Vu le Décret Présidentiel du 28 Rabie El Aouel 1419 correspondant au 22 juillet 1998 portant nomination du Gouverneur de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu les Décrets Présidentiels du 14 Mai 1990 portant nomination de Vice-Gouverneurs de la",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret présidentiel du 17 Chaoual 1417 correspondant au 24 Février 1997 portant nomination d'un Vice-Gouverneur de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Vu le Décret Exécutif du 1er Juillet 1991 portant désignation de Membres Titulaires et",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Suppléants au Conseil de la Monnaie et du Crédit ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Exécutif du 15 Safar 1417 correspondant au 1er juillet 1996 portant désignation d'un Membre Titulaire au Conseil de la Monnaie et du Crédit ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu les Délibérations du Conseil de la Monnaie et du Crédit en date du 26 Janvier 2000 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le Règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DISPOSITIONS GENERALES",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le présent Règlement a pour objet de fixer les normes et conditions des opérations de réescompte d'effets publics et privés et des opérations de crédit aux banques et établissements financiers.",
+      "paragraphs": [
+        {
+          "text": "Le présent Règlement a pour objet de fixer les normes et conditions des opérations de réescompte d'effets publics et privés et des opérations de crédit aux banques et établissements financiers.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La Banque d'Algérie peut réescompter aux banques et établissements financiers les effets représentatifs d'opérations commerciales, les effets de financement et les effets représentatifs de crédits à moyen terme.\nCes effets doivent :\n- remplir les conditions de fond et de forme prévues par le Code de Commerce ; - être conformes aux dispositions de la Loi n°90/10 modifiée du 14 Avril 1990 relative à la Monnaie et au Crédit ;\n- être créés pour des montants correspondant aux crédits effectivement utilisés par le bénéficiaire ;\n- être libellés en monnaie nationale.\nL'admissibilité effective des effets privés au réescompte est fonction de leur qualité, dont les modalités d'appréciation seront fixées dans le cadre d'une instruction de la Banque d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "La Banque d'Algérie peut réescompter aux banques et établissements financiers les effets représentatifs d'opérations commerciales, les effets de financement et les effets représentatifs de crédits à moyen terme.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Ces effets doivent :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- remplir les conditions de fond et de forme prévues par le Code de Commerce ; - être conformes aux dispositions de la Loi n°90/10 modifiée du 14 Avril 1990 relative à la Monnaie et au Crédit ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- être créés pour des montants correspondant aux crédits effectivement utilisés par le bénéficiaire ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- être libellés en monnaie nationale.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L'admissibilité effective des effets privés au réescompte est fonction de leur qualité, dont les modalités d'appréciation seront fixées dans le cadre d'une instruction de la Banque d'Algérie.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "La Banque d'Algérie peut également escompter les effets publics émis ou garantis par l'Etat, notamment :\n- bons du Trésor à court terme d'une durée inférieure ou égale à un an ;\n- bons du Trésor à moyen terme d'une durée de 2 à 5 ans ;\n- obligations à long terme d'une durée supérieure à 5 ans.\nBANK OF ALGERIA\nLes effets publics à moyen et long terme ne sont admis au refinancement que lorsque les échéances restant à courir sont égales ou inférieures à trois (03) ans.",
+      "paragraphs": [
+        {
+          "text": "La Banque d'Algérie peut également escompter les effets publics émis ou garantis par l'Etat, notamment :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- bons du Trésor à court terme d'une durée inférieure ou égale à un an ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- bons du Trésor à moyen terme d'une durée de 2 à 5 ans ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- obligations à long terme d'une durée supérieure à 5 ans.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les effets publics à moyen et long terme ne sont admis au refinancement que lorsque les échéances restant à courir sont égales ou inférieures à trois (03) ans.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "La liste des effets publics admis à l'escompte de la Banque d'Algérie est précisée périodiquement par le Conseil de la Monnaie et du Crédit.",
+      "paragraphs": [
+        {
+          "text": "La liste des effets publics admis à l'escompte de la Banque d'Algérie est précisée périodiquement par le Conseil de la Monnaie et du Crédit.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "La Banque d'Algérie peut, en outre, accorder aux banques et établissements financiers des avances sur des effets émis ou garantis par l'Etat ou sur des effets privés admissibles au réescompte, de même qu'elle peut accorder des crédits en compte courant gagés par des effets de même nature.",
+      "paragraphs": [
+        {
+          "text": "La Banque d'Algérie peut, en outre, accorder aux banques et établissements financiers des avances sur des effets émis ou garantis par l'Etat ou sur des effets privés admissibles au réescompte, de même qu'elle peut accorder des crédits en compte courant gagés par des effets de même nature.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le montant total en cours des opérations sur effets publics réalisées par la\nBanque d'Algérie ne peut, à aucun moment, dépasser vingt pour cent (20 %) des recettes ordinaires de l'Etat constatées au cours de l'année budgétaire écoulée.\nEFFETS PRIVES REESCOMPTABLES",
+      "paragraphs": [
+        {
+          "text": "Le montant total en cours des opérations sur effets publics réalisées par la",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Banque d'Algérie ne peut, à aucun moment, dépasser vingt pour cent (20 %) des recettes ordinaires de l'Etat constatées au cours de l'année budgétaire écoulée.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "EFFETS PRIVES REESCOMPTABLES",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les effets représentatifs d'opérations commerciales sur l'Algérie ou sur l'étranger sont revêtus de la signature d'au moins trois personnes physiques ou morales notoirement solvables, dont celle du cédant.\nUne des signatures peut être remplacée par une des garanties énumérées ci-après :\n- warrants ;\n- récépissés de marchandises ;\n- connaissements originaux de marchandises exportées d'Algérie à ordre accompagnées des documents d'usage.\nCes effets ne doivent pas avoir plus de six (06) mois à courir.",
+      "paragraphs": [
+        {
+          "text": "Les effets représentatifs d'opérations commerciales sur l'Algérie ou sur l'étranger sont revêtus de la signature d'au moins trois personnes physiques ou morales notoirement solvables, dont celle du cédant.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Une des signatures peut être remplacée par une des garanties énumérées ci-après :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- warrants ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- récépissés de marchandises ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- connaissements originaux de marchandises exportées d'Algérie à ordre accompagnées des documents d'usage.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Ces effets ne doivent pas avoir plus de six (06) mois à courir.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les effets de financement créés en représentation de crédits de trésorerie ou de crédits de campagne portent la signature d'au moins deux personnes physiques ou morales notoirement solvables.\nCes effets sont réescomptables pour des périodes de six (06) mois au maximum sans que la durée totale du concours de la Banque d'Algérie puisse excéder douze (12) mois.",
+      "paragraphs": [
+        {
+          "text": "Les effets de financement créés en représentation de crédits de trésorerie ou de crédits de campagne portent la signature d'au moins deux personnes physiques ou morales notoirement solvables.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Ces effets sont réescomptables pour des périodes de six (06) mois au maximum sans que la durée totale du concours de la Banque d'Algérie puisse excéder douze (12) mois.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les effets créés en représentation de crédits à moyen terme sont revêtus, en dehors de la signature du cédant, de deux signatures de personnes physiques ou morales notoirement solvables, dont l'une peut être remplacée par la garantie de l'Etat.\nCes effets sont réescomptables pour des périodes de six (06) mois au maximum renouvelables sans que la durée totale du concours de la Banque d'Algérie puisse excéder trois (03) années.\nCes effets ne peuvent pas être présentés au réescompte au cours des douze (12)\npremiers mois d'utilisation du crédit.",
+      "paragraphs": [
+        {
+          "text": "Les effets créés en représentation de crédits à moyen terme sont revêtus, en dehors de la signature du cédant, de deux signatures de personnes physiques ou morales notoirement solvables, dont l'une peut être remplacée par la garantie de l'Etat.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Ces effets sont réescomptables pour des périodes de six (06) mois au maximum renouvelables sans que la durée totale du concours de la Banque d'Algérie puisse excéder trois (03) années.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Ces effets ne peuvent pas être présentés au réescompte au cours des douze (12)",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "premiers mois d'utilisation du crédit.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 3,
+      "text": "Les crédits à moyen terme admis au réescompte doivent avoir l'un des objets suivants :\n- développement des moyens de production ;\n- financement d'exportations ;\n- construction d'immeubles d'habitation.\nLe développement des moyens de production comprend, notamment :\n- les investissements de création, d'extension ou de renouvellement ;\n- l'assainissement patrimonial au titre de la restructuration et/ou de la consolidation de créances.\nLe financement d'exportations couvre, notamment :\n- les créances nées constatées sur l'étranger (ventes effectives de marchandises à crédit conformes à la réglementation des changes) ;\n- les préfinancements destinés à la préparation de commandes d'exportations de marchandises ou de services ;\n- les crédits acheteurs selon des modalités qui seront fixées par une Instruction de la Banque d'Algérie.\nLe financement de construction d'immeubles d'habitation concerne les opérations de promotion immobilière telles que définies par la loi.",
+      "paragraphs": [
+        {
+          "text": "Les crédits à moyen terme admis au réescompte doivent avoir l'un des objets suivants :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- développement des moyens de production ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- financement d'exportations ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- construction d'immeubles d'habitation.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le développement des moyens de production comprend, notamment :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- les investissements de création, d'extension ou de renouvellement ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- l'assainissement patrimonial au titre de la restructuration et/ou de la consolidation de créances.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Le financement d'exportations couvre, notamment :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- les créances nées constatées sur l'étranger (ventes effectives de marchandises à crédit conformes à la réglementation des changes) ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- les préfinancements destinés à la préparation de commandes d'exportations de marchandises ou de services ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- les crédits acheteurs selon des modalités qui seront fixées par une Instruction de la Banque d'Algérie.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Le financement de construction d'immeubles d'habitation concerne les opérations de promotion immobilière telles que définies par la loi.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Le réescompte des effets visés aux articles 7 à 9 ci-dessus est limité à un maximum de 50% de leur valeur nominale, en fonction de leur qualité.",
+      "paragraphs": [
+        {
+          "text": "Le réescompte des effets visés aux articles 7 à 9 ci-dessus est limité à un maximum de 50% de leur valeur nominale, en fonction de leur qualité.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Les banques et établissements financiers, bénéficiaires du réescompte d'effets de financement et d'effets représentatifs des crédits à moyen terme, doivent transmettre à la Banque d'Algérie les dossiers de crédits correspondants selon les conditions et modalités qui seront fixées par une instruction de la Banque d' Algérie.\nEFFETS PUBLICS ESCOMPTABLES",
+      "paragraphs": [
+        {
+          "text": "Les banques et établissements financiers, bénéficiaires du réescompte d'effets de financement et d'effets représentatifs des crédits à moyen terme, doivent transmettre à la Banque d'Algérie les dossiers de crédits correspondants selon les conditions et modalités qui seront fixées par une instruction de la Banque d' Algérie.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "EFFETS PUBLICS ESCOMPTABLES",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "La Banque d'Algérie peut réaliser au profit des banques et établissements financiers les opérations d'escompte suivantes sur les effets publics émis ou garantis par l'Etat :\n- escompter des effets bancables ;\n- escompter à échéance conventionnelle des effets ayant plus de trois (03) mois à courir.\nLa négociation des effets se fait exclusivement sur les ordres de livraison de titres établis au profit de la Banque d'Algérie et portant sur les effets publics inscrits en compte courant et non engagés dans d'autres opérations.\nCes opérations ne peuvent en aucun cas être traitées au profit du Trésor ou des collectivités publiques.",
+      "paragraphs": [
+        {
+          "text": "La Banque d'Algérie peut réaliser au profit des banques et établissements financiers les opérations d'escompte suivantes sur les effets publics émis ou garantis par l'Etat :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- escompter des effets bancables ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- escompter à échéance conventionnelle des effets ayant plus de trois (03) mois à courir.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "La négociation des effets se fait exclusivement sur les ordres de livraison de titres établis au profit de la Banque d'Algérie et portant sur les effets publics inscrits en compte courant et non engagés dans d'autres opérations.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Ces opérations ne peuvent en aucun cas être traitées au profit du Trésor ou des collectivités publiques.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Les effets publics émis ou garantis par l'Etat sont bancables lorsque leur échéance restant à courir est égale ou inférieure à trois mois.",
+      "paragraphs": [
+        {
+          "text": "Les effets publics émis ou garantis par l'Etat sont bancables lorsque leur échéance restant à courir est égale ou inférieure à trois mois.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 4,
+      "text": "Les effets publics, dont l'échéance restant à courir est supérieure à trois\n(03) mois et inférieure ou égale à trois (03) ans, peuvent être admis à l'escompte à une échéance conventionnelle n'excédant pas soixante (60) jours. Cet escompte ne doit pas dépasser 90% de la valeur nominale des effets.\nAUTRES OPERATIONS SUR EFFETS PUBLICS ET PRIVES",
+      "paragraphs": [
+        {
+          "text": "Les effets publics, dont l'échéance restant à courir est supérieure à trois",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "(03) mois et inférieure ou égale à trois (03) ans, peuvent être admis à l'escompte à une échéance conventionnelle n'excédant pas soixante (60) jours. Cet escompte ne doit pas dépasser 90% de la valeur nominale des effets.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "AUTRES OPERATIONS SUR EFFETS PUBLICS ET PRIVES",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 16",
+      "number": "16",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "La Banque d'Algérie peut sur présentation des effets publics émis ou garantis par l'Etat accorder au profit des banques et établissements financiers des :\n- avances à trente jours ;\n- avances gagées ;\n- crédits en compte courant.",
+      "paragraphs": [
+        {
+          "text": "La Banque d'Algérie peut sur présentation des effets publics émis ou garantis par l'Etat accorder au profit des banques et établissements financiers des :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- avances à trente jours ;",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- avances gagées ;",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- crédits en compte courant.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 17",
+      "number": "17",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "La Banque d'Algérie peut accorder aux banques et établissements financiers des avances d'une durée maximale de trente (30) jours sur les effets publics émis ou garantis par l'Etat dont l'échéance restant à courir est supérieure à trois (3) mois et inférieure ou égale à trois (03) ans.\nLa quotité de l'avance ne doit pas dépasser 90 % de la valeur nominale des effets mis en nantissement.\nA moins qu'elle ne porte sur des titres différents, une avance arrivant à échéance ne peut être relayée par une autre avance sans une interruption minimale de cinq (5) jours ouvrables.",
+      "paragraphs": [
+        {
+          "text": "La Banque d'Algérie peut accorder aux banques et établissements financiers des avances d'une durée maximale de trente (30) jours sur les effets publics émis ou garantis par l'Etat dont l'échéance restant à courir est supérieure à trois (3) mois et inférieure ou égale à trois (03) ans.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "La quotité de l'avance ne doit pas dépasser 90 % de la valeur nominale des effets mis en nantissement.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "A moins qu'elle ne porte sur des titres différents, une avance arrivant à échéance ne peut être relayée par une autre avance sans une interruption minimale de cinq (5) jours ouvrables.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 18",
+      "number": "18",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "La Banque d'Algérie peut également accorder aux banques et établissements financiers des avances gagées sur des effets publics émis ou garantis par l'Etat dont l'échéance restant à courir est inférieure ou égale à trois (03) ans et ce , pour une durée n'excédant pas une année.\nLa quotité de l'avance ne doit pas dépasser 70 % de la valeur nominale des effets gagés.",
+      "paragraphs": [
+        {
+          "text": "La Banque d'Algérie peut également accorder aux banques et établissements financiers des avances gagées sur des effets publics émis ou garantis par l'Etat dont l'échéance restant à courir est inférieure ou égale à trois (03) ans et ce , pour une durée n'excédant pas une année.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "La quotité de l'avance ne doit pas dépasser 70 % de la valeur nominale des effets gagés.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 19",
+      "number": "19",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "La Banque d'Algérie peut accorder aux banques et établissements financiers des crédits en compte courant pour une durée d'un an au plus, garantis par des gages sur des bons du Trésor.\nLe montant du crédit ne doit pas dépasser un maximum de 70 % du montant du gage.",
+      "paragraphs": [
+        {
+          "text": "La Banque d'Algérie peut accorder aux banques et établissements financiers des crédits en compte courant pour une durée d'un an au plus, garantis par des gages sur des bons du Trésor.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Le montant du crédit ne doit pas dépasser un maximum de 70 % du montant du gage.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 20",
+      "number": "20",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "La Banque d'Algérie peut accorder aux banques et établissements financiers des crédits en compte courant pour une durée d'un an, au plus.\nLes crédits visés à l'alinéa 1er ci-dessus doivent être garantis par des gages sur des effets privés admissibles à l'escompte en vertu de l'article 7 ci-dessus.\nLe montant du crédit ne doit pas dépasser un maximum de 50 % du montant du gage.",
+      "paragraphs": [
+        {
+          "text": "La Banque d'Algérie peut accorder aux banques et établissements financiers des crédits en compte courant pour une durée d'un an, au plus.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Les crédits visés à l'alinéa 1er ci-dessus doivent être garantis par des gages sur des effets privés admissibles à l'escompte en vertu de l'article 7 ci-dessus.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Le montant du crédit ne doit pas dépasser un maximum de 50 % du montant du gage.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 21",
+      "number": "21",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Dans les cas prévus aux articles 18 à 20 ci-dessus, l'emprunteur souscrit envers la Banque d'Algérie l'engagement de rembourser à l'échéance le montant du crédit qui lui a été accordé. Dans le cas où la dépréciation de la valeur du gage atteint 10 %, l'emprunteur s'engage à couvrir la Banque d'Algérie de la fraction du crédit correspondant à la dépréciation.\nFaute par l'emprunteur de satisfaire à cet engagement, le montant du crédit devient exigible de plein droit.\nLa nature des gages additionnels est laissée à l'appréciation de la Banque d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "Dans les cas prévus aux articles 18 à 20 ci-dessus, l'emprunteur souscrit envers la Banque d'Algérie l'engagement de rembourser à l'échéance le montant du crédit qui lui a été accordé. Dans le cas où la dépréciation de la valeur du gage atteint 10 %, l'emprunteur s'engage à couvrir la Banque d'Algérie de la fraction du crédit correspondant à la dépréciation.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Faute par l'emprunteur de satisfaire à cet engagement, le montant du crédit devient exigible de plein droit.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "La nature des gages additionnels est laissée à l'appréciation de la Banque d'Algérie.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 22",
+      "number": "22",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 5,
+      "text": "Les supports des opérations visées aux articles 18 à 20 font l'objet de l'établissement d'un acte de nantissement au profit de la Banque d'Algérie.\nMOBILISATION DES EFFETS",
+      "paragraphs": [
+        {
+          "text": "Les supports des opérations visées aux articles 18 à 20 font l'objet de l'établissement d'un acte de nantissement au profit de la Banque d'Algérie.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "MOBILISATION DES EFFETS",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 23",
+      "number": "23",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 5,
+      "text": "A l'exception des effets publics présentés individuellement, la mobilisation des autres effets s'effectue par la remise de billets globaux de mobilisation souscrits par les banques et établissements financiers à l'ordre de la Banque d'Algérie.\nLe billet global de mobilisation doit être établi par nature de crédit, avoir une échéance maximale de six (06) mois et être appuyé d'un état des effets lui servant de support.\nLe montant des effets cédés à titre de garantie ne saurait être inférieur au double du montant du billet global de mobilisation souscrit. Les effets ne doivent pas être grevés d'une sûreté ou d'un privilège.\nLes règles et procédures de mobilisation des effets seront précisées par une instruction de la Banque d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "A l'exception des effets publics présentés individuellement, la mobilisation des autres effets s'effectue par la remise de billets globaux de mobilisation souscrits par les banques et établissements financiers à l'ordre de la Banque d'Algérie.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Le billet global de mobilisation doit être établi par nature de crédit, avoir une échéance maximale de six (06) mois et être appuyé d'un état des effets lui servant de support.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Le montant des effets cédés à titre de garantie ne saurait être inférieur au double du montant du billet global de mobilisation souscrit. Les effets ne doivent pas être grevés d'une sûreté ou d'un privilège.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Les règles et procédures de mobilisation des effets seront précisées par une instruction de la Banque d'Algérie.",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 24",
+      "number": "24",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 5,
+      "text": "La Banque d'Algérie peut demander à la banque ou établissement financier souscripteur la transmission des effets servant de support au billet global de mobilisation ou de vérifier sur place et sur pièce l'existence et la conformité de ces effets.",
+      "paragraphs": [
+        {
+          "text": "La Banque d'Algérie peut demander à la banque ou établissement financier souscripteur la transmission des effets servant de support au billet global de mobilisation ou de vérifier sur place et sur pièce l'existence et la conformité de ces effets.",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 25",
+      "number": "25",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 5,
+      "text": "Le présent Règlement sera publié au Journal Officiel de la République\nAlgérienne Démocratique et Populaire.\nLe Gouverneur\nAbdelouahab KERAMANE",
+      "paragraphs": [
+        {
+          "text": "Le présent Règlement sera publié au Journal Officiel de la République",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Algérienne Démocratique et Populaire.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.036
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-00-01.fr.txt"
+}

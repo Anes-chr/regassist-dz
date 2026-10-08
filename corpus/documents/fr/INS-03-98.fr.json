@@ -1,0 +1,332 @@
+{
+  "document_id": "INS-03-98.fr",
+  "work_id": "INS-03-98",
+  "title": "Instruction n°03-98 du 21 mai 1998 complétant l’instruction n°22-94 fixant le pourcentage des recettes d’exportation hors hydrocarbures et produit miniers ouvrant droit a l’inscription au (x) compte (s) devises des personnes morales.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "03-98",
+  "number_source": "en-tête du document",
+  "date": "1998-05-21",
+  "date_raw": "N°03-98 DU 21 MAI 1998",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Règlementation des changes",
+  "source_url": "https://www.bank-of-algeria.dz/importations-exportations-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction0398.pdf",
+  "format": "pdf",
+  "file_hash": "87a885e60a4d88c5de777063a8abbb9e0d7d3cadd14c4f51af097d539f6826af",
+  "file_size": 24364,
+  "raw_path": "raw/87a885e60a4d__instruction0398.pdf",
+  "retrieved_at": "2026-10-05T13:21:21+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "6b1ce22669a66dfbb643e133212db3fa22569cc5ba9d5fca00700f2dc6118ff3",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-1998/",
+    "https://www.bank-of-algeria.dz/ar/%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%AC%D9%86%D8%A8%D9%8A%D8%A9/",
+    "https://www.bank-of-algeria.dz/ar/%d8%ad%d8%b3%d8%a7%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%85%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d8%ac%d9%86%d8%a8%d9%8a%d8%a9/",
+    "https://www.bank-of-algeria.dz/comptes-devises-instruction/",
+    "https://www.bank-of-algeria.dz/importations-exportations-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Microsoft Word - instruction0398",
+    "author": "chahra.yahiaoui",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "creationDate": "D:20210304101409+01'00'",
+    "modDate": "D:20210304101409+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 1386,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 3,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°03-98 DU 21 MAI 1998 COMPLETANT L'INSTRUCTION N°22-94 FIXANT LE POURCENTAGE DES RECETTES D'EXPORTATION HORS HYDROCARBURES ET PRODUIT MINIERS OUVRANT DROIT A L'INSCRIPTION AU(X) COMPTE(S) DEVISES DES PERSONNES MORALES",
+  "alias_urls": [],
+  "text_hash": "181e779ccc45c76d77b6f90a69376744f9e57adfaac83933043c3840342b055a",
+  "relations_out": [
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "22-94",
+        "date": null,
+        "raw": "instruction n°22-94"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°03-98 du 21 mai 1998 complétant l’instruction n°22-94 fixant le pourcentage des recettes d’ex"
+      },
+      "target_work_id": "INS-22-94"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "22-94",
+        "date": "1994-04-12",
+        "raw": "instruction n°22-94 du 12 avril 1994"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet, de compléter l'instruction n°22-94 du 12 avril 1994 fixant le pourcentage des recettes d'ex"
+      },
+      "target_work_id": "INS-22-94"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [
+    {
+      "work_id": "INS-22-94",
+      "reference": "instruction n°22-94",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°03-98 du 21 mai 1998 complétant l’instruction n°22-94 fixant le pourcentage des recettes d’ex"
+      }
+    },
+    {
+      "work_id": "INS-22-94",
+      "reference": "instruction n°22-94 du 12 avril 1994",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet, de compléter l'instruction n°22-94 du 12 avril 1994 fixant le pourcentage des recettes d'ex"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "INS-22-94",
+      "reference": "instruction n°22-94",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°03-98 du 21 mai 1998 complétant l’instruction n°22-94 fixant le pourcentage des recettes d’ex"
+      }
+    },
+    {
+      "work_id": "INS-22-94",
+      "reference": "instruction n°22-94 du 12 avril 1994",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet, de compléter l'instruction n°22-94 du 12 avril 1994 fixant le pourcentage des recettes d'ex"
+      }
+    }
+  ],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°03-98 DU 21 MAI 1998 COMPLETANT L'INSTRUCTION\nN°22-94 FIXANT LE POURCENTAGE DES RECETTES D'EXPORTATION HORS\nHYDROCARBURES ET PRODUIT MINIERS OUVRANT DROIT A L'INSCRIPTION\nAU(X) COMPTE(S) DEVISES DES PERSONNES MORALES",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°03-98 DU 21 MAI 1998 COMPLETANT L'INSTRUCTION",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "N°22-94 FIXANT LE POURCENTAGE DES RECETTES D'EXPORTATION HORS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "HYDROCARBURES ET PRODUIT MINIERS OUVRANT DROIT A L'INSCRIPTION",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AU(X) COMPTE(S) DEVISES DES PERSONNES MORALES",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction a pour objet, de compléter l'instruction n°22-94 du 12 avril 1994 fixant le pourcentage des recettes d'exportation hors hydrocarbures et produits miniers ouvrant droit à l'inscription au(x) compte(s) devises des personnes morales.",
+      "paragraphs": [
+        {
+          "text": "La présente instruction a pour objet, de compléter l'instruction n°22-94 du 12 avril 1994 fixant le pourcentage des recettes d'exportation hors hydrocarbures et produits miniers ouvrant droit à l'inscription au(x) compte(s) devises des personnes morales.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L'instruction n°22-94 du 12 avril 1994 fixant le pourcentage des recettes d'exportation hors hydrocarbures et produits miniers, ouvrant droit à l'inscription au(x)\ncompte(s) devises des personnes morales, est complétée par un article 2 bis ainsi rédigé :\n\"Art.2 bis : Un montant en devises limité à 10 % d'exportation hors hydrocarbures et produits miniers rapatriées prélevé sur le pourcentage visé à l'article 2 ci-dessus, peut être utilisé à la discrétion de l'exportateur et sous sa responsabilité dans le cadre de la promotion de ses exportations\".",
+      "paragraphs": [
+        {
+          "text": "L'instruction n°22-94 du 12 avril 1994 fixant le pourcentage des recettes d'exportation hors hydrocarbures et produits miniers, ouvrant droit à l'inscription au(x)",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "compte(s) devises des personnes morales, est complétée par un article 2 bis ainsi rédigé :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "\"Art.2 bis : Un montant en devises limité à 10 % d'exportation hors hydrocarbures et produits miniers rapatriées prélevé sur le pourcentage visé à l'article 2 ci-dessus, peut être utilisé à la discrétion de l'exportateur et sous sa responsabilité dans le cadre de la promotion de ses exportations\".",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction entre en vigueur à compter de la date de sa signature et s'applique exclusivement aux recettes d'exportation hors hydrocarbures et produits minier ayant donné lieu à rapatriement effectif à ladite date.\nLe Gouverneur\nAbdelouahab KERAMANE\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "La présente instruction entre en vigueur à compter de la date de sa signature et s'applique exclusivement aux recettes d'exportation hors hydrocarbures et produits minier ayant donné lieu à rapatriement effectif à ladite date.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.044
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-03-98.fr.txt"
+}

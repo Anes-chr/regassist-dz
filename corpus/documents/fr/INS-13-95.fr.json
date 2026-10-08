@@ -1,0 +1,369 @@
+{
+  "document_id": "INS-13-95.fr",
+  "work_id": "INS-13-95",
+  "title": "Instruction n°13-95 du 22 mars 1995 portant modification de l’instruction n°22-92 du 10 juin 1992 relative aux indemnités compensatrices de frais engagés à l’occasion de missions temporaires à l’étranger.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "13-95",
+  "number_source": "en-tête du document",
+  "date": "1995-03-22",
+  "date_raw": "N°13-95 DU 22 MARS 1995",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2025/12/instruction1395.pdf",
+      "uploaded": "2025-12-10T14:30:15"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Année 1995",
+  "source_url": "https://www.bank-of-algeria.dz/annee-1995/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction1395.pdf",
+  "format": "pdf",
+  "file_hash": "c77eeb981ee0c06114c7808ed2a7a289fd30ba10c6a3cac38a7ed811f274fc4e",
+  "file_size": 30807,
+  "raw_path": "raw/c77eeb981ee0__instruction1395.pdf",
+  "retrieved_at": "2026-10-05T14:17:24+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "a3d8fc53de3b9e711b8df67402ad49badf741b764382e5c5f425f05712f2497e",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-1995/",
+    "https://www.bank-of-algeria.dz/importations-exportations-instruction/",
+    "https://www.bank-of-algeria.dz/indemnites-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document7",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200811144750+01'00'",
+    "modDate": "D:20200811144750+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 1118,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 5,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°13-95 DU 22 MARS 1995 PORTANT MODIFICATION DE L'INSTRUCTION N°22-92 DU 10 JUIN 1992 RELATIVE AUX INDEMNITES COMPENSATRICES DE FRAIS ENGAGES A L'OCCASION DE MISSIONS TEMPORAIRES A L'ETRANGER",
+  "alias_urls": [
+    {
+      "document_url": "https://www.bank-of-algeria.dz/stoodroa/2025/12/instruction1395.pdf",
+      "source_url": "https://www.bank-of-algeria.dz/importations-exportations-instruction/",
+      "title": "Instruction n°13-95 du 22 mars 1995 portant modification de l’instruction n°22-92 du 10 juin 1992 relative aux indemnités compensatrices de frais engagés à l’occasion de missions temporaires à l’étranger."
+    }
+  ],
+  "text_hash": "24cad344fcf838d995dd1c8a597340888501511df66666382a7458fe49974607",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "22-92",
+        "date": "1992-06-10",
+        "raw": "instruction n°22-92 du 10 juin 1992"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°13-95 du 22 mars 1995 portant modification de l’instruction n°22-92 du 10 juin 1992 relative aux indemnités compensatrices"
+      },
+      "target_work_id": "INS-22-92"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "22-92",
+        "date": "1992-06-10",
+        "raw": "Instruction N° 22/92 du 10 Juin 1992"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier les dispositions du paragraphe III - Alinéas 3.1.1 et 3.1.2 de l'Instruction N° 22/92 du 10 Juin 1992 relative aux indemnités compensatrices"
+      },
+      "target_work_id": "INS-22-92"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-22-92",
+      "reference": "instruction n°22-92 du 10 juin 1992",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°13-95 du 22 mars 1995 portant modification de l’instruction n°22-92 du 10 juin 1992 relative aux indemnités compensatrices"
+      }
+    },
+    {
+      "work_id": "INS-22-92",
+      "reference": "Instruction N° 22/92 du 10 Juin 1992",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier les dispositions du paragraphe III - Alinéas 3.1.1 et 3.1.2 de l'Instruction N° 22/92 du 10 Juin 1992 relative aux indemnités compensatrices"
+      }
+    }
+  ],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°13-95 DU 22 MARS 1995 PORTANT MODIFICATION\nDE L'INSTRUCTION N°22-92 DU 10 JUIN 1992 RELATIVE AUX INDEMNITES\nCOMPENSATRICES DE FRAIS ENGAGES A L'OCCASION\nDE MISSIONS TEMPORAIRES A L'ETRANGER",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°13-95 DU 22 MARS 1995 PORTANT MODIFICATION",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DE L'INSTRUCTION N°22-92 DU 10 JUIN 1992 RELATIVE AUX INDEMNITES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "COMPENSATRICES DE FRAIS ENGAGES A L'OCCASION",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DE MISSIONS TEMPORAIRES A L'ETRANGER",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction a pour objet de modifier les dispositions du paragraphe III - Alinéas 3.1.1 et 3.1.2 de l'Instruction N° 22/92 du 10 Juin 1992 relative aux indemnités compensatrices de frais engagés à l'occasion de missions temporaires à l'étranger.",
+      "paragraphs": [
+        {
+          "text": "La présente instruction a pour objet de modifier les dispositions du paragraphe III - Alinéas 3.1.1 et 3.1.2 de l'Instruction N° 22/92 du 10 Juin 1992 relative aux indemnités compensatrices de frais engagés à l'occasion de missions temporaires à l'étranger.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L'Alinéa 3.1.1 est modifié et rédigé comme suit :\n\"3.1.1 Pays de la Catégorie A\" 1)- Cadres statutaires et /ou dirigeants 8.000 DA 2)- Cadres supérieurs 7.000 DA 3)- Cadres techniques 6.000 DA",
+      "paragraphs": [
+        {
+          "text": "L'Alinéa 3.1.1 est modifié et rédigé comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "\"3.1.1 Pays de la Catégorie A\" 1)- Cadres statutaires et /ou dirigeants 8.000 DA 2)- Cadres supérieurs 7.000 DA 3)- Cadres techniques 6.000 DA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L'alinéa 3.1.2 est modifié et rédigé comme suit :\n\"3.1.2 - Pays de la Catégorie B\" 1)- Cadres statutaires et/ou dirigeants 7.000 DA 2)- Cadres supérieurs 6.000 DA 3)- Cadres techniques 5.000 DA",
+      "paragraphs": [
+        {
+          "text": "L'alinéa 3.1.2 est modifié et rédigé comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "\"3.1.2 - Pays de la Catégorie B\" 1)- Cadres statutaires et/ou dirigeants 7.000 DA 2)- Cadres supérieurs 6.000 DA 3)- Cadres techniques 5.000 DA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les autres dispositions non modifiées par la présente demeurent applicables.",
+      "paragraphs": [
+        {
+          "text": "Les autres dispositions non modifiées par la présente demeurent applicables.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction est applicable à compter de la date de sa signature.\nLe Gouverneur\nAbdelouahab KERAMANE",
+      "paragraphs": [
+        {
+          "text": "La présente instruction est applicable à compter de la date de sa signature.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.067
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-13-95.fr.txt"
+}

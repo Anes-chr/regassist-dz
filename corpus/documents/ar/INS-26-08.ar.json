@@ -1,0 +1,562 @@
+{
+  "document_id": "INS-26-08.ar",
+  "work_id": "INS-26-08",
+  "title": "التعليمة رقم 2026-08 المؤرخة في 10 أوت 2026، المتعلقة بتمويل عمليات التصدير",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "2026-08",
+  "number_source": "libelle",
+  "date": "2026-08-10",
+  "date_raw": "المؤرخة في 10 أوت 2026",
+  "date_source": "libelle",
+  "publication_date": "2026-08-11",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "instructions",
+  "subcategory": "تمويل المؤسسات",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%aa%d9%85%d9%88%d9%8a%d9%84-%d8%a7%d9%84%d9%85%d8%a4%d8%b3%d8%b3%d8%a7%d8%aa-2/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2026/08/instruction-08-26-ar.pdf",
+  "format": "pdf",
+  "file_hash": "89ff7e5c907cf3d06218d5310fe1f7b3580c2e43c02a8cd4424e7252e36b848f",
+  "file_size": 803554,
+  "raw_path": "raw/89ff7e5c907c__instruction-08-26-ar.pdf",
+  "retrieved_at": "2026-10-05T13:32:21+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 3,
+  "url_hash": "4dc353cff8049a0a962e58860450e8fcd63b1035fd424e63eda98b126c3cb25e",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/",
+    "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d8%b1%d8%a6%d9%8a%d8%b3%d9%8a%d8%a9/",
+    "https://www.bank-of-algeria.dz/ar/%d8%aa%d9%85%d9%88%d9%8a%d9%84-%d8%a7%d9%84%d9%85%d8%a4%d8%b3%d8%b3%d8%a7%d8%aa-2/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "~[1][7c2c9215]Instruction 08-26 financ des opérations d'exporat",
+    "author": "imene.khemici",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20260810200819+01'00'",
+    "modDate": "D:20260810200819+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 3,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 1484,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 1378,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 402,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": [
+      {
+        "page": 3,
+        "removed": "1",
+        "why": "numéro de page"
+      }
+    ]
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 10,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "numerotation:articles_dupliques:[1]",
+    "numerotation:ordre_non_croissant"
+  ],
+  "title_document": null,
+  "alias_urls": [],
+  "text_hash": "1833906f8a41ab1fa2a48cbdb9f9aa23d3f862e891b231607596940c2981b84b",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "ال تعليمة رقم08 - 2026 المؤرخة في 10 أوت 2026\nالم تعلق ة بتمويل عمليات التصدير.",
+      "paragraphs": [
+        {
+          "text": "ال تعليمة رقم08 - 2026 المؤرخة في 10 أوت 2026",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الم تعلق ة بتمويل عمليات التصدير.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "ًتطبيقا لأحكام النظام رقم07 - 01 المؤرخ في 15\nمحر َّ م1428 الموافق 3 فبراير 2007 المعد َّ ، والمتم َّ ل م، والمتعلق بالقواعد المطبقة على المعاملات الجارية مع الخارج و ال حسابات ب العملة الصعبة ؛ تهدف هذه التعليمة إلى تحديد ش روط ،التمويل من قبل ا لبنوك الوسطاء المعتمدين ،لا حتياجات الخزينة ال متعلقة رينِّبالمصد و المرتبطة مباشرة بتنفيذ ع.مليات التصدير الخاصة بهم",
+      "paragraphs": [
+        {
+          "text": "ًتطبيقا لأحكام النظام رقم07 - 01 المؤرخ في 15",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "محر َّ م1428 الموافق 3 فبراير 2007 المعد َّ ، والمتم َّ ل م، والمتعلق بالقواعد المطبقة على المعاملات الجارية مع الخارج و ال حسابات ب العملة الصعبة ؛ تهدف هذه التعليمة إلى تحديد ش روط ،التمويل من قبل ا لبنوك الوسطاء المعتمدين ،لا حتياجات الخزينة ال متعلقة رينِّبالمصد و المرتبطة مباشرة بتنفيذ ع.مليات التصدير الخاصة بهم",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": ":\nالعمليات الم ؤهلة للاستفادة من التمويل، المنصوص عليه بموجب أحكام هذه ،التعليمة هي عمليات التصدير المنجزة باعتماد مستندي غير قابل للإلغاء ومؤكد أو بواسطة تحصيل مستندي حالي لفائدة كل متعامل اقتصادي مسجل في السجل التجاري، وتندرج رموز نش ا طه ضمن الصنف1 )الإ نتاج( والصنف7 )التصدير(.",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "العمليات الم ؤهلة للاستفادة من التمويل، المنصوص عليه بموجب أحكام هذه ،التعليمة هي عمليات التصدير المنجزة باعتماد مستندي غير قابل للإلغاء ومؤكد أو بواسطة تحصيل مستندي حالي لفائدة كل متعامل اقتصادي مسجل في السجل التجاري، وتندرج رموز نش ا طه ضمن الصنف1 )الإ نتاج( والصنف7 )التصدير(.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": ":\nيتم تمويل عمليات التصدير عن طريق قرض قصير الأجل يمنحه البنك الوسيط المعتمد،، بالدينار الجزائري ِّللمصد ر لتغطية احتياجات الخزينة المرتبطة مباشرة بتنفيذ عملية ال،تصدير لا سيما فيما يخص ،اقتناء السلع الموجهة للتصدير والتموين بالمواد الأولية، والتصنيع، والتوضيب، وكذا المصاريف الأخرى إلى غاية شحن البضائع.",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "يتم تمويل عمليات التصدير عن طريق قرض قصير الأجل يمنحه البنك الوسيط المعتمد،، بالدينار الجزائري ِّللمصد ر لتغطية احتياجات الخزينة المرتبطة مباشرة بتنفيذ عملية ال،تصدير لا سيما فيما يخص ،اقتناء السلع الموجهة للتصدير والتموين بالمواد الأولية، والتصنيع، والتوضيب، وكذا المصاريف الأخرى إلى غاية شحن البضائع.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": ": ُي حد َّ د مبلغ التمويل من طرف البنك الوسيط المعتمد بالنظر إلى احتياجات الخزينة الخاصة ب ِّالمصد ر و المرتبطة بعملية التصدير وتقييم خطر القرض.",
+      "paragraphs": [
+        {
+          "text": ": ُي حد َّ د مبلغ التمويل من طرف البنك الوسيط المعتمد بالنظر إلى احتياجات الخزينة الخاصة ب ِّالمصد ر و المرتبطة بعملية التصدير وتقييم خطر القرض.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": ": ت تم تعبئة للشروط اًوفق التمويل المنصوص عليها في بنود عقد التمويل، بعد ُت التي الوثائق تقديم ِّمك ن البنك الوسيط المعتمد من التأكد من حقيقة عملية التصدير.\nيتضمن ،الملف على ،وجه الخصوص الوثائق التالية:\n-\nسجل تجاري نّمحي.\n- شهادة أداء المستحقات لدى الصندوق الوطني للتأمينات الاجتماعية للعمال الأجراء (CNAS)\nوشهادة تحيين الوضعية تجاه الصندوق الوطني للضمان الاجتماعي لغير الأجراء (CASNOS)، مع تسوية الوضعية.\n-\nمستخرج من ال جدول الضر يبي (Extrait de rôle) مع تسوية الوضعية.\n-\nمحر َّ فاتورة ِالمنت طرف من رة توف ُّ تثبت ،ج َالمنت ر ،ج ًمؤشرة ُوتكون ب عبارة \"قابل للتصدي.\"ر -\nعقد تصدير أو.طلبية، بنسخة ورقية أو إلكترونية، مع الإمضاء -\nوثيقة تثبت فتح خطاب الاعتماد.\n- وثيقة النقل.\n-\nوثيقة ضمان صادر ة عن شركة تأمين لفائدة عملية التصدي.ر ي تعين على البنك الوسيط المعتمد التحقق ال مسبق من كون َالمنت ج، موضوع عملية التصدير، ع ًمدرجا المخص َّ المنصة لى صة للتصدير.",
+      "paragraphs": [
+        {
+          "text": ": ت تم تعبئة للشروط اًوفق التمويل المنصوص عليها في بنود عقد التمويل، بعد ُت التي الوثائق تقديم ِّمك ن البنك الوسيط المعتمد من التأكد من حقيقة عملية التصدير.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "يتضمن ،الملف على ،وجه الخصوص الوثائق التالية:",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "-",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "سجل تجاري نّمحي.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- شهادة أداء المستحقات لدى الصندوق الوطني للتأمينات الاجتماعية للعمال الأجراء (CNAS)",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "وشهادة تحيين الوضعية تجاه الصندوق الوطني للضمان الاجتماعي لغير الأجراء (CASNOS)، مع تسوية الوضعية.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "-",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "مستخرج من ال جدول الضر يبي (Extrait de rôle) مع تسوية الوضعية.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "-",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "محر َّ فاتورة ِالمنت طرف من رة توف ُّ تثبت ،ج َالمنت ر ،ج ًمؤشرة ُوتكون ب عبارة \"قابل للتصدي.\"ر -",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "عقد تصدير أو.طلبية، بنسخة ورقية أو إلكترونية، مع الإمضاء -",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "وثيقة تثبت فتح خطاب الاعتماد.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- وثيقة النقل.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "-",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "وثيقة ضمان صادر ة عن شركة تأمين لفائدة عملية التصدي.ر ي تعين على البنك الوسيط المعتمد التحقق ال مسبق من كون َالمنت ج، موضوع عملية التصدير، ع ًمدرجا المخص َّ المنصة لى صة للتصدير.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": ":\nيجب ألا ي تجاوز البنك الوسيط المعتمد عند معالجة طلب َأجل الاعتماد سبعة )\n7 ًكاملا الملف استلام تاريخ من ًابتداء ،أيام ( .",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "يجب ألا ي تجاوز البنك الوسيط المعتمد عند معالجة طلب َأجل الاعتماد سبعة )",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "7 ًكاملا الملف استلام تاريخ من ًابتداء ،أيام ( .",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": ": تحدد مدة التمويل من طرف البنك الوسيط المعتمد بالنظر إلى طبيعة ع ملية التصدير، ودورة إنجازها، و أجل تسوية ديون التصدير، به المعمول للتنظيم ًطبقا.\nِّالمصد يلتزم َالمستح الدين تسوية عن النظر بصرف ،أجله حلول عند التمويل بتسديد ر ق له على المشتري الأجنبي.\nيمكن ُتمديد ،التمويل عقد في عليها المنصوص للشروط اًوفق ،المعتمد الوسيط للبنك هذا .الأجل",
+      "paragraphs": [
+        {
+          "text": ": تحدد مدة التمويل من طرف البنك الوسيط المعتمد بالنظر إلى طبيعة ع ملية التصدير، ودورة إنجازها، و أجل تسوية ديون التصدير، به المعمول للتنظيم ًطبقا.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "ِّالمصد يلتزم َالمستح الدين تسوية عن النظر بصرف ،أجله حلول عند التمويل بتسديد ر ق له على المشتري الأجنبي.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "يمكن ُتمديد ،التمويل عقد في عليها المنصوص للشروط اًوفق ،المعتمد الوسيط للبنك هذا .الأجل",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": ":\nِّالمصد يلتزم ر بترحيل والآجال للشروط اًوفق التصدير عملية عائدات المتفق عليها، ل ًطبقا.لتنظيم المعمول به",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "ِّالمصد يلتزم ر بترحيل والآجال للشروط اًوفق التصدير عملية عائدات المتفق عليها، ل ًطبقا.لتنظيم المعمول به",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": ":\nينص َّ أن يمكن عقد التمويل على أولوية تخصيص إيرادات عملية التصدير ل تسديد التمويل.\nالمادة 10 : يلتزم ِّالمصد ر بإعلام البنك ٍحدث بأي ،تأخير دون ،\nمن شأنه التأثير على تنفيذ عملية التصدير، ويوافي َالبنك عند طلب ه، بالمعلومات والوثائق اللازمة لمتابعة هذه ال.عملية",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "ينص َّ أن يمكن عقد التمويل على أولوية تخصيص إيرادات عملية التصدير ل تسديد التمويل.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "المادة 10 : يلتزم ِّالمصد ر بإعلام البنك ٍحدث بأي ،تأخير دون ،",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "من شأنه التأثير على تنفيذ عملية التصدير، ويوافي َالبنك عند طلب ه، بالمعلومات والوثائق اللازمة لمتابعة هذه ال.عملية",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": ": تدخل هذه التعليمة حيز التنفيذ توقيعها تاريخ من ًابتداء.\nالمحافظ محمد لمين لبو",
+      "paragraphs": [
+        {
+          "text": ": تدخل هذه التعليمة حيز التنفيذ توقيعها تاريخ من ًابتداء.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "المحافظ محمد لمين لبو",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "numerotation:articles_dupliques:[1]",
+      "numerotation:ordre_non_croissant"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.059
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/INS-26-08.ar.txt"
+}

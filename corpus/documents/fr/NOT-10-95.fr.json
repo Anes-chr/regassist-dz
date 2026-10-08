@@ -1,0 +1,735 @@
+{
+  "document_id": "NOT-10-95.fr",
+  "work_id": "NOT-10-95",
+  "title": "Note n°10-95 du 20 juin 1995 fixant les modalités de traitement par les banques intermédiaires agréés des versements et retraits de billets de banque étrangers.",
+  "document_type": "note",
+  "type_code": "NOT",
+  "type_source": "label",
+  "number": "10-95",
+  "number_source": "en-tête du document",
+  "date": "1995-06-20",
+  "date_raw": "N°10-95 DU 20 JUIN 1995",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-05",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "notes_aux_banques",
+  "subcategory": "Année 1995",
+  "source_url": "https://www.bank-of-algeria.dz/les-notes-aux-banques-1995/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/05/note1095.pdf",
+  "format": "pdf",
+  "file_hash": "ca92030063a530e6b6e0f08369912f37c750e52d0643682dccf64ae4795d73e6",
+  "file_size": 76707,
+  "raw_path": "raw/ca92030063a5__note1095.pdf",
+  "retrieved_at": "2026-10-05T13:24:09+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 4,
+  "url_hash": "cef400668f9f0e694bc17d44563fb1b751267280d9cd59abbd2f2d085f942bd2",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/les-notes-aux-banques-1995/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document1",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210301114605+01'00'",
+    "modDate": "D:20210301114605+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 4,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2788,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 3281,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 1146,
+        "ocr_confidence": null
+      },
+      {
+        "page": 4,
+        "method": "pdf_text",
+        "chars": 494,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 0,
+    "annex_count": 2
+  },
+  "quality_flags": [],
+  "title_document": "NOTE N°10-95 DU 20 JUIN 1995 FIXANT LES MODALITES DE TRAITEMENT PAR LES BANQUES INTERMEDIAIRES AGREES DES VERSEMENTS ET RETRAITS DE BILLETS DE BANQUE ETRANGERS PAR LES TITULAIRES DE COMPTES DEVISES",
+  "alias_urls": [],
+  "text_hash": "069062305e79736a0f9eee9ca48067b79eddfb78bc31c02318a2523ee4d11f05",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe I",
+      "number": "I",
+      "heading": "A LA NOTE AUX B.I.A. N°10-95 DU 20 JUIN 1995",
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe II",
+      "number": "II",
+      "heading": "A LA NOTE AUX B.I.A. N°10-95 DU 20 JUIN 1995",
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "NOTE N°10-95 DU 20 JUIN 1995 FIXANT LES MODALITES\nDE TRAITEMENT PAR LES BANQUES INTERMEDIAIRES AGREES\nDES VERSEMENTS ET RETRAITS DE BILLETS DE BANQUE ETRANGERS\nPAR LES TITULAIRES DE COMPTES DEVISES\nSuite aux réunions consacrées à l'examen du dossier afférent aux pertes de change enregistrées par les banques intermédiaires agréés dans la gestion des comptes devises, la présente note a pour objet de fixer de nouvelles modalités de traitement des opérations de versements et de retraits de billets de banque étrangers réalisées par les titulaires de comptes devises.\nI/- RELATIONS BANQUES INTERMEDIAIRES AGREES/TITULAIRES COMPTES DEVISES\nA - Opérations de versements\n- Les billets de banque étrangers versés par les titulaires de comptes devises seront maintenus par dévers les banques intermédiaires agréés durant la période de référence et serviront exclusivement à la satisfaction des demandes de retraits introduits par les titulaires de comptes devises durant ladite période.\nIl est entendu par période de référence, la période s'écoulant du dimanche au jeudi inclus de chaque semaine.\nPour les versements de billets de banque étrangers libellés en la devise de tenue de compte devises, les banques intermédiaires agréées auront à créditer du montant en devises effectivement versé les comptes devises de la clientèle concernée.\n- Lorsque les billets de banque étrangers sont libellés en une devise autre que celle de tenue de compte devises, le montant à inscrire au crédit du compte devises concerné sera déterminé sur la base d'un cours de change obtenu par application de la formule suivante :\nCours « achat » contre dinars de la devise de versement\nCours « vente » contre dinars de la devise de tenue de compte\nLe cours de change ressortant de l'application de la formule ci-dessus, doit faire apparaître, quatre chiffres après la virgule, le cinquième chiffre étant automatiquement exclu et ne peut à cet égard servir à un quelconque arrondi du 4ème chiffre.\nB - Opérations de Retraits\n- Les demandes de retraits de billets de banque étrangers exprimées par les titulaires de comptes devises sont satisfaites par utilisation de l'encaisse constituée lors des opérations de versement visées au point A ci-dessus.\n- Le montant à inscrire au débit du compte devises du client est celui correspondant au retrait lorsque les billets de banque étrangers retirés sont libellés dans la même devise que celle de tenue de compte devises.\n- Lorsque les demandes de retraits sont exprimées en une devise autre que celle de tenue de compte devises, le montant à inscrire au débit du compte devises concerné sera déterminé sur la base d'un cours de change obtenu par application de la formule suivante :\nBANK OF ALGERIA\nCours \"vente\" contre dinars de la devise retirée\nCours \"achat\" contre dinars de la devise de tenue de compte\n- Le cours de change ressortant de l'application de la formule ci-dessus, doit faire apparaître quatre chiffres après la virgule, le cinquième chiffre étant automatiquement exclu et ne peut à cet égard servir à un quelconque arrondi du 4ème chiffre",
+      "paragraphs": [
+        {
+          "text": "NOTE N°10-95 DU 20 JUIN 1995 FIXANT LES MODALITES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DE TRAITEMENT PAR LES BANQUES INTERMEDIAIRES AGREES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DES VERSEMENTS ET RETRAITS DE BILLETS DE BANQUE ETRANGERS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "PAR LES TITULAIRES DE COMPTES DEVISES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Suite aux réunions consacrées à l'examen du dossier afférent aux pertes de change enregistrées par les banques intermédiaires agréés dans la gestion des comptes devises, la présente note a pour objet de fixer de nouvelles modalités de traitement des opérations de versements et de retraits de billets de banque étrangers réalisées par les titulaires de comptes devises.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "I/- RELATIONS BANQUES INTERMEDIAIRES AGREES/TITULAIRES COMPTES DEVISES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "A - Opérations de versements",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Les billets de banque étrangers versés par les titulaires de comptes devises seront maintenus par dévers les banques intermédiaires agréés durant la période de référence et serviront exclusivement à la satisfaction des demandes de retraits introduits par les titulaires de comptes devises durant ladite période.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Il est entendu par période de référence, la période s'écoulant du dimanche au jeudi inclus de chaque semaine.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Pour les versements de billets de banque étrangers libellés en la devise de tenue de compte devises, les banques intermédiaires agréées auront à créditer du montant en devises effectivement versé les comptes devises de la clientèle concernée.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Lorsque les billets de banque étrangers sont libellés en une devise autre que celle de tenue de compte devises, le montant à inscrire au crédit du compte devises concerné sera déterminé sur la base d'un cours de change obtenu par application de la formule suivante :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Cours « achat » contre dinars de la devise de versement",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Cours « vente » contre dinars de la devise de tenue de compte",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le cours de change ressortant de l'application de la formule ci-dessus, doit faire apparaître, quatre chiffres après la virgule, le cinquième chiffre étant automatiquement exclu et ne peut à cet égard servir à un quelconque arrondi du 4ème chiffre.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "B - Opérations de Retraits",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Les demandes de retraits de billets de banque étrangers exprimées par les titulaires de comptes devises sont satisfaites par utilisation de l'encaisse constituée lors des opérations de versement visées au point A ci-dessus.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Le montant à inscrire au débit du compte devises du client est celui correspondant au retrait lorsque les billets de banque étrangers retirés sont libellés dans la même devise que celle de tenue de compte devises.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Lorsque les demandes de retraits sont exprimées en une devise autre que celle de tenue de compte devises, le montant à inscrire au débit du compte devises concerné sera déterminé sur la base d'un cours de change obtenu par application de la formule suivante :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Cours \"vente\" contre dinars de la devise retirée",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Cours \"achat\" contre dinars de la devise de tenue de compte",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Le cours de change ressortant de l'application de la formule ci-dessus, doit faire apparaître quatre chiffres après la virgule, le cinquième chiffre étant automatiquement exclu et ne peut à cet égard servir à un quelconque arrondi du 4ème chiffre",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "C",
+          "heading": "Modalités de couverture du Besoin Résiduel",
+          "label": "Section C"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Lorsque le montant des versements s'avère insuffisant pour couvrir les retraits de la clientèle pour une même période, les banques intermédiaires agréées pourront financer le besoin résiduel par utilisation de leur encaisse propre et/ou procéder à des retraits par débit de leurs comptes devises ouverts sur les livres de la Banque d'Algérie.\nIl demeure entendu que le montant de l'encaisse propre ayant servi au financement dudit besoin sera reconstitué après et/ou au moment de l'accomplissement des formalités de retrait et/ou de versement auprès de la Banque d'Algérie et ce telles que décrites au point II ci-dessous.",
+      "paragraphs": [
+        {
+          "text": "Lorsque le montant des versements s'avère insuffisant pour couvrir les retraits de la clientèle pour une même période, les banques intermédiaires agréées pourront financer le besoin résiduel par utilisation de leur encaisse propre et/ou procéder à des retraits par débit de leurs comptes devises ouverts sur les livres de la Banque d'Algérie.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Il demeure entendu que le montant de l'encaisse propre ayant servi au financement dudit besoin sera reconstitué après et/ou au moment de l'accomplissement des formalités de retrait et/ou de versement auprès de la Banque d'Algérie et ce telles que décrites au point II ci-dessous.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "II",
+          "heading": "RELATIONS BANQUES INTERMEDIAIRES AGREES/BANQUE D'ALGERIE",
+          "label": "Section II"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Comme indiqué au point (I.A) ci-dessus, les billets de banque étrangers versé par les titulaires de comptes devises sont maintenus par dévers les banques intermédiaires agréés aux fins de constitution d'une encaisse en devises destinées exclusivement à la satisfaction des demandes de retrait des titulaires de ces comptes.\nLorsque le montant des versements en une devise donnée s'avère insuffisant pour couvrir les demandes de retrait exprimées en la même devise, les banques intermédiaires agréés ont la possibilité de financer le montant résiduel conformément aux conditions prévues au point I « C »\nci-dessus.\nLes opérations de versements et retraits de billets de banque étrangers réalisées par les titulaires de comptes devises durant la semaine de référence seront globalement transcrites sur la situation y afférente établie selon le modèle joint en annexe I à la présente.\nCette situation et celle établie selon le modèle joint en annexe II qui doivent impérativement être déposées auprès de la structure concernée de la Banque d'Algérie au plus tard dans la semaine qui suit celle au titre de laquelle elles ont été établies, permettront :\n- aux banques intermédiaires agréés la réalisation d'opérations de versements et/ou retraits de billets de banque étrangers ressortant de la compensation des opérations de même nature effectuée par leur clientèle détentrice de comptes devises durant la semaine de référence,\n- à la Banque d'Algérie, la comptabilisation aux comptes devises des banques intermédiaires agréées sur ses livres, des contreparties correspondantes.",
+      "paragraphs": [
+        {
+          "text": "Comme indiqué au point (I.A) ci-dessus, les billets de banque étrangers versé par les titulaires de comptes devises sont maintenus par dévers les banques intermédiaires agréés aux fins de constitution d'une encaisse en devises destinées exclusivement à la satisfaction des demandes de retrait des titulaires de ces comptes.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Lorsque le montant des versements en une devise donnée s'avère insuffisant pour couvrir les demandes de retrait exprimées en la même devise, les banques intermédiaires agréés ont la possibilité de financer le montant résiduel conformément aux conditions prévues au point I « C »",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "ci-dessus.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Les opérations de versements et retraits de billets de banque étrangers réalisées par les titulaires de comptes devises durant la semaine de référence seront globalement transcrites sur la situation y afférente établie selon le modèle joint en annexe I à la présente.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Cette situation et celle établie selon le modèle joint en annexe II qui doivent impérativement être déposées auprès de la structure concernée de la Banque d'Algérie au plus tard dans la semaine qui suit celle au titre de laquelle elles ont été établies, permettront :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- aux banques intermédiaires agréés la réalisation d'opérations de versements et/ou retraits de billets de banque étrangers ressortant de la compensation des opérations de même nature effectuée par leur clientèle détentrice de comptes devises durant la semaine de référence,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- à la Banque d'Algérie, la comptabilisation aux comptes devises des banques intermédiaires agréées sur ses livres, des contreparties correspondantes.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "III",
+          "heading": "AUTRES DISPOSITIONS",
+          "label": "Section III"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les cours de change applicables aux opérations de conversion visées aux points I.A - I.B et I.C ci-dessus sont ceux ressortant de la cotation (billets de banque étrangers) de la Banque d'Algérie en vigueur durant la semaine de référence.\nToutes autres dispositions contraires notamment celles prévues aux points I.1 et II.1 de la note n°64 du 14 juillet 1988 sont abrogées.\nLes dispositions de la présente note sont applicables à compter du 6 août 1995.\nLe Directeur du Contrôle des Changes\nD. SAIDI",
+      "paragraphs": [
+        {
+          "text": "Les cours de change applicables aux opérations de conversion visées aux points I.A - I.B et I.C ci-dessus sont ceux ressortant de la cotation (billets de banque étrangers) de la Banque d'Algérie en vigueur durant la semaine de référence.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Toutes autres dispositions contraires notamment celles prévues aux points I.1 et II.1 de la note n°64 du 14 juillet 1988 sont abrogées.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Les dispositions de la présente note sont applicables à compter du 6 août 1995.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Directeur du Contrôle des Changes",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "D. SAIDI",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe I",
+      "number": "I",
+      "heading": "A LA NOTE AUX B.I.A. N°10-95 DU 20 JUIN 1995",
+      "context": {},
+      "annexe": {
+        "number": "I",
+        "heading": "A LA NOTE AUX B.I.A. N°10-95 DU 20 JUIN 1995",
+        "label": "Annexe I"
+      },
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Situation des versements et retraits de billets de banque étrangers réalisés par les détenteurs de comptes devises durant la semaine du.....................................au....................................\nVERSEMENTS\nVersements effectifs\nDevises\nA - Contre portée au crédit comptes devises de la clientèle, libellées en :\nUSD\nFRF\nDEM\nITL\n........\nUSD\nFRF\nDEM\n--\n--\nTOTAUX A\nRETRAITS\nVersements effectifs\nDevises\nB - Contre portée au débit comptes devises de la clientèle, libellées en :\nUSD\nFRF\nDEM\nITL\n........\nUSD\nFRF\nDEM\n--\n--\nTOTAUX B\n* Différence entre les taux A et B\n+ -\n+ -\n+ -\n+ -\n+ -\nNB : (*) Les montants positifs (+) ou négatifs (-) résultant de cette différence seront enregistré au crédit ou débit selon le cas, des comptes devises concernés des B.I.A. auprès de la Banque d’Algérie.",
+      "paragraphs": [
+        {
+          "text": "Situation des versements et retraits de billets de banque étrangers réalisés par les détenteurs de comptes devises durant la semaine du.....................................au....................................",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "VERSEMENTS",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Versements effectifs",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Devises",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "A - Contre portée au crédit comptes devises de la clientèle, libellées en :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "USD",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "FRF",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "DEM",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "ITL",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "........",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "USD",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "FRF",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "DEM",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "--",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "--",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "TOTAUX A",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "RETRAITS",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Versements effectifs",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Devises",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "B - Contre portée au débit comptes devises de la clientèle, libellées en :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "USD",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "FRF",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "DEM",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "ITL",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "........",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "USD",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "FRF",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "DEM",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "--",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "--",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "TOTAUX B",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "* Différence entre les taux A et B",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "+ -",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "+ -",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "+ -",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "+ -",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "+ -",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "NB : (*) Les montants positifs (+) ou négatifs (-) résultant de cette différence seront enregistré au crédit ou débit selon le cas, des comptes devises concernés des B.I.A. auprès de la Banque d’Algérie.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe II",
+      "number": "II",
+      "heading": "A LA NOTE AUX B.I.A. N°10-95 DU 20 JUIN 1995",
+      "context": {},
+      "annexe": {
+        "number": "II",
+        "heading": "A LA NOTE AUX B.I.A. N°10-95 DU 20 JUIN 1995",
+        "label": "Annexe II"
+      },
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Situation récapitulative des mouvements globaux sur billets de banque étrangers réalisés par les détenteurs de comptes devises durant la semaine\ndu.....................................au....................................\nDevises\nMouvements de\nDifférence à verser ou à retirer de la Banque d’Algérie\nVersements\nRetraits\nA verser\nA retirer\nUSD\nFRF\nDEM\n--\n--",
+      "paragraphs": [
+        {
+          "text": "Situation récapitulative des mouvements globaux sur billets de banque étrangers réalisés par les détenteurs de comptes devises durant la semaine",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "du.....................................au....................................",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Devises",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Mouvements de",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Différence à verser ou à retirer de la Banque d’Algérie",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Versements",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Retraits",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "A verser",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "A retirer",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "USD",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "FRF",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "DEM",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "--",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "--",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [
+    {
+      "page": 3,
+      "tables": [
+        "|Versements<br>effectifs|Devises|A - Contre portée au crédit comptes devises de la clientèle,<br>libellées en :|Col4|Col5|Col6|Col7|\n|---|---|---|---|---|---|---|\n|**Versements**<br>**effectifs**|**Devises**|**USD**|**FRF**|**DEM**|**ITL**|**........**|\n||**USD**<br>**FRF**<br>**DEM**<br>**--**<br>**--**||||||\n|**TOTAUX A**|**TOTAUX A**||||||\n\n",
+        "|Versements<br>effectifs|Devises|B - Contre portée au débit comptes devises de la clientèle,<br>libellées en :|Col4|Col5|Col6|Col7|\n|---|---|---|---|---|---|---|\n|**Versements**<br>**effectifs**|<br>**Devises**|**USD**|**FRF**|**DEM**|**ITL**|**........**|\n||**USD**<br>**FRF**<br>**DEM**<br>**--**<br>**--**||||||\n|**TOTAUX B**|**TOTAUX B**||||||\n|*** Différence entre**<br>**les taux A et B**|*** Différence entre**<br>**les taux A et B**|+<br>-|+<br>-|+<br>-|+<br>-|+<br>-|\n\n"
+      ]
+    },
+    {
+      "page": 4,
+      "tables": [
+        "|Devises|Mouvements de|Col3|Différence à verser ou à retirer de<br>la Banque d’Algérie|Col5|\n|---|---|---|---|---|\n||**Versements**|**Retraits**|**A verser**|**A retirer**|\n|**USD**<br>**FRF**<br>**DEM**<br>**--**<br>**--**|||||\n\n"
+      ]
+    }
+  ],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.054
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/NOT-10-95.fr.txt"
+}

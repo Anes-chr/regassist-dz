@@ -1,0 +1,416 @@
+{
+  "document_id": "REG-98-03.ar",
+  "work_id": "REG-98-03",
+  "title": "نظام رقم 98-03 المؤرخ في 10 يونيو 1998، يعدل ويتمم النظام رقم 96-01 المؤرخ في 13 مارس 1996، والمتضمن إصدار ورقة نقدية بقيمة خمسمائة (500) دينار جزائري وتداولها.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "98-03",
+  "number_source": "libelle",
+  "date": "1998-06-10",
+  "date_raw": "المؤرخ في 10 يونيو 1998",
+  "date_source": "libelle",
+  "publication_date": "2023-02-28",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "règlements",
+  "subcategory": "إصدار و تداول الأوراق النقدية",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-%d9%88-%d8%aa%d8%af%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d8%a7%d9%82-%d8%a7%d9%84%d9%86%d9%82%d8%af%d9%8a%d8%a9-%d8%a3%d9%86%d8%b8%d9%85%d8%a9/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/02/03-98.pdf",
+  "format": "pdf",
+  "file_hash": "91e6f6893f620a937ae89a2dd8b6575f3c38892951e396641fa9cd62b1f9d40a",
+  "file_size": 294505,
+  "raw_path": "raw/91e6f6893f62__03-98.pdf",
+  "retrieved_at": "2026-10-05T13:28:16+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 2,
+  "url_hash": "02def1060be2b6bd98961f83aa25e1be2fde96e581c764df457167a7afb88bdb",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-%d9%88-%d8%aa%d8%af%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d8%a7%d9%82-%d8%a7%d9%84%d9%86%d9%82%d8%af%d9%8a%d8%a9-%d8%a3%d9%86%d8%b8%d9%85%d8%a9/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "author": "chahra yahiaoui",
+    "creator": "Microsoft® Word 2016",
+    "producer": "Microsoft® Word 2016",
+    "creationDate": "D:20230227144728+01'00'",
+    "modDate": "D:20230227144728+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 1559,
+        "ocr_confidence": 79.45117845117845
+      },
+      {
+        "page": 2,
+        "method": "ocr",
+        "chars": 705,
+        "ocr_confidence": 80.08695652173913
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 1,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine",
+    "numerotation:premier_article=3"
+  ],
+  "title_document": "نظام رقم 03-98 هؤرخ في 15 صفر هام 9 الموافق 10 يوئيو Liu‏ 1998, يعدل ويتهم التّظام رقم 01-96 المؤرخ فى 23 شؤال عام 1416 الموافق 13 هارس is‏ 1996 والمتضدين اصدار ورقة نقدية بقيمة خمسمائة )500 ) دينار جزائري وتداولها. إن مفاقظ بنك المِرائر,",
+  "alias_urls": [],
+  "text_hash": "bb01f707ef548be893b3e810e314c1ac35dbfd119031b42c9478ddd6f9632854",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "96-01",
+        "date": "1996-03-13",
+        "raw": "règlement n°96-01 du 13 mars 1996"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°98-03 du 10 juin 1998 modifiant et complétant le règlement n°96-01 du 13 mars 1996 portant émission et mise en circulation",
+        "copied_from": "REG-98-03.fr"
+      },
+      "target_work_id": "REG-96-01"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "96-01",
+        "date": "1996-03-13",
+        "raw": "règlement n°96-01 du 13 mars 1996"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°98-03 du 10 juin 1998 modifiant et complétant le règlement n°96-01 du 13 mars 1996 portant émission et mise en circulation",
+        "copied_from": "REG-98-03.fr"
+      },
+      "target_work_id": "REG-96-01"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "96-01",
+        "date": "1996-03-13",
+        "raw": "Règlement n°96-01 du 13 Mars 1996"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter l'article 2 du Règlement n°96-01 du 13 Mars 1996 susvisé.",
+        "copied_from": "REG-98-03.fr"
+      },
+      "target_work_id": "REG-96-01"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "96-01",
+        "date": "1996-03-13",
+        "raw": "Règlement n°96-01 du 13 Mars 1996"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter l'article 2 du Règlement n°96-01 du 13 Mars 1996 susvisé.",
+        "copied_from": "REG-98-03.fr"
+      },
+      "target_work_id": "REG-96-01"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "REG-96-01",
+      "reference": "règlement n°96-01 du 13 mars 1996",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°98-03 du 10 juin 1998 modifiant et complétant le règlement n°96-01 du 13 mars 1996 portant émission et mise en circulation",
+        "copied_from": "REG-98-03.fr"
+      }
+    },
+    {
+      "work_id": "REG-96-01",
+      "reference": "Règlement n°96-01 du 13 Mars 1996",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter l'article 2 du Règlement n°96-01 du 13 Mars 1996 susvisé.",
+        "copied_from": "REG-98-03.fr"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "REG-96-01",
+      "reference": "règlement n°96-01 du 13 mars 1996",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°98-03 du 10 juin 1998 modifiant et complétant le règlement n°96-01 du 13 mars 1996 portant émission et mise en circulation",
+        "copied_from": "REG-98-03.fr"
+      }
+    },
+    {
+      "work_id": "REG-96-01",
+      "reference": "Règlement n°96-01 du 13 Mars 1996",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter l'article 2 du Règlement n°96-01 du 13 Mars 1996 susvisé.",
+        "copied_from": "REG-98-03.fr"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-98-03.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "REG-96-01",
+      "reference": "règlement n°96-01 du 13 mars 1996",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°98-03 du 10 juin 1998 modifiant et complétant le règlement n°96-01 du 13 mars 1996 portant émission et mise en circulation",
+        "copied_from": "REG-98-03.fr"
+      }
+    },
+    {
+      "work_id": "REG-96-01",
+      "reference": "Règlement n°96-01 du 13 Mars 1996",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter l'article 2 du Règlement n°96-01 du 13 Mars 1996 susvisé.",
+        "copied_from": "REG-98-03.fr"
+      }
+    }
+  ],
+  "ocr_numeric_check": {
+    "units": 2,
+    "units_flagged": 0,
+    "units_compared_with_french": 1,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "نظام رقم 03-98 هؤرخ في 15 صفر هام 9 الموافق 10 يوئيو Liu‏ 1998, يعدل ويتهم التّظام رقم 01-96 المؤرخ فى 23 شؤال عام 1416 الموافق 13 هارس is‏ 1996 والمتضدين اصدار ورقة نقدية بقيمة خمسمائة )500 )\nدينار جزائري وتداولها.\nإن مفاقظ بنك المِرائر,\n- بمقتضى القانون رقم 10-90 المؤرخ في 19 رمضان عام 1410 الموافق 14 أبريل سنة 1990 والمتعلق بالنقد as Us‏ المعدل. لاسيما أحكام كتابه الأرّل والموادَ 44 أ ر47 و107 منه.\n- وبمقتضى المرسوع الرئاسي المؤْرخ في 20\n- وبمقتضى المرسوغ الرئاسي المؤرخ في 17 شوال عام 1417 الموافق 24 قبراير سنة 1997 الجزائر.\nوبمقتضى المرسوع التنفيذي المؤرغ في 19 gi‏ الحمجة عام 1411 المرافق أول يوليو سنة 1991 والمستفمن تعيين ele}‏ الدائمين والأعضاء\n- وبعمقتضى المرسوم التنفيذي المؤرَغ في 15 صفر عام 1417الموافق أول بولبو سثة 1996 والمتضمن تعيين عضو دائم في مجلس التقد\n- وبمقتضى النظام رقم 01-96 المؤرخ في 3 شوال عام 1416 الموافق 13 مارس ستة 1996 والعتضمن إصدار ورقة ثقدية بقيمة خمسمائة )500( ديثار جزائري sis‏ بتاريخ 10 يونيو سنة 1998, يصدر التظام الآتي ai‏ :\n2 من النظام رقم 96 -01 المؤرغ في 23 شوال عام 6 الموافق 13 مارس dis‏ 1996 والمذكور أعلان.\n01-6 المؤرخ في 23 شوال عام 1416 الموافق 3 هارس سنة 1996 والمذكور أعلان , كما بأتي :\n\" المادة 2 : تهدد إشارات تعريق هذه الورقة gi - ب‎ 8 ) هفولوغرام : يوضع ' هولوفرام ' عرضه 13 الأيسر لوجه الورقة الثقدية les‏ يسار النّص ' بنك الجزائر ' ( باللّغة الوطنية ).\nيمثل ' الهولوغرام ' يصفة متواصلة وعلى Janus‏ عرض الورقة النقدية من الأعلى إلى الأسفل أ- في زاوية:\nاليسار, .) الوطنيّة‎ RL)\" الجؤائر‎ gañll- ' الصف الأعلى ليوغورطة ناظرا نحو اليسار.‎ - : ب - في زاوية أخرى‎\n- النص ' الجزائر ' ( ياللّغة الوطنية )؛\n- التُصف الأعلى ليوغورطة ناظرا ثهو اليمين.\nall -‏ بنك * ( باللّفة (ab ll‏\n- الصف الأعلى للأمير عبد القادر ناظرا نحو ج ) يكرر على الجانب الأيمن من ' الهولوغرام ' العدد \" 500 ' بصفة متواصسلة.\n6)' بيك '( PEAK‏ ( : يوضع شكل خطّي من صنف ' بيك ' ( PEAK‏ ) على الجانب العلوي لمنطقة العلامة الماشة, العدد ' 500 ' المكرر على مجمل مساحة المستطيل والبارز في شكل ضوء ملامس.\n6 - خيط الأمن : وهو من نوغ ' ويندو ثريد ' WindowThread (‏ ) بطباعة مصفرة, يظهر في الجبة يتعاقب فيها اللّوثان الفضيان اللّمّاع والداكن ويظهر الخيط بشفافية على وجه الورقة التقديّة وظهرها.",
+      "paragraphs": [
+        {
+          "text": "نظام رقم 03-98 هؤرخ في 15 صفر هام 9 الموافق 10 يوئيو Liu‏ 1998, يعدل ويتهم التّظام رقم 01-96 المؤرخ فى 23 شؤال عام 1416 الموافق 13 هارس is‏ 1996 والمتضدين اصدار ورقة نقدية بقيمة خمسمائة )500 )",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "دينار جزائري وتداولها.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "إن مفاقظ بنك المِرائر,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- بمقتضى القانون رقم 10-90 المؤرخ في 19 رمضان عام 1410 الموافق 14 أبريل سنة 1990 والمتعلق بالنقد as Us‏ المعدل. لاسيما أحكام كتابه الأرّل والموادَ 44 أ ر47 و107 منه.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى المرسوع الرئاسي المؤْرخ في 20",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى المرسوغ الرئاسي المؤرخ في 17 شوال عام 1417 الموافق 24 قبراير سنة 1997 الجزائر.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى المرسوع التنفيذي المؤرغ في 19 gi‏ الحمجة عام 1411 المرافق أول يوليو سنة 1991 والمستفمن تعيين ele}‏ الدائمين والأعضاء",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبعمقتضى المرسوم التنفيذي المؤرَغ في 15 صفر عام 1417الموافق أول بولبو سثة 1996 والمتضمن تعيين عضو دائم في مجلس التقد",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى النظام رقم 01-96 المؤرخ في 3 شوال عام 1416 الموافق 13 مارس ستة 1996 والعتضمن إصدار ورقة ثقدية بقيمة خمسمائة )500( ديثار جزائري sis‏ بتاريخ 10 يونيو سنة 1998, يصدر التظام الآتي ai‏ :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "2 من النظام رقم 96 -01 المؤرغ في 23 شوال عام 6 الموافق 13 مارس dis‏ 1996 والمذكور أعلان.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "01-6 المؤرخ في 23 شوال عام 1416 الموافق 3 هارس سنة 1996 والمذكور أعلان , كما بأتي :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "\" المادة 2 : تهدد إشارات تعريق هذه الورقة gi - ب‎ 8 ) هفولوغرام : يوضع ' هولوفرام ' عرضه 13 الأيسر لوجه الورقة الثقدية les‏ يسار النّص ' بنك الجزائر ' ( باللّغة الوطنية ).",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "يمثل ' الهولوغرام ' يصفة متواصلة وعلى Janus‏ عرض الورقة النقدية من الأعلى إلى الأسفل أ- في زاوية:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "اليسار, .) الوطنيّة‎ RL)\" الجؤائر‎ gañll- ' الصف الأعلى ليوغورطة ناظرا نحو اليسار.‎ - : ب - في زاوية أخرى‎",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- النص ' الجزائر ' ( ياللّغة الوطنية )؛",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- التُصف الأعلى ليوغورطة ناظرا ثهو اليمين.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "all -‏ بنك * ( باللّفة (ab ll‏",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- الصف الأعلى للأمير عبد القادر ناظرا نحو ج ) يكرر على الجانب الأيمن من ' الهولوغرام ' العدد \" 500 ' بصفة متواصسلة.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "6)' بيك '( PEAK‏ ( : يوضع شكل خطّي من صنف ' بيك ' ( PEAK‏ ) على الجانب العلوي لمنطقة العلامة الماشة, العدد ' 500 ' المكرر على مجمل مساحة المستطيل والبارز في شكل ضوء ملامس.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "6 - خيط الأمن : وهو من نوغ ' ويندو ثريد ' WindowThread (‏ ) بطباعة مصفرة, يظهر في الجبة يتعاقب فيها اللّوثان الفضيان اللّمّاع والداكن ويظهر الخيط بشفافية على وجه الورقة التقديّة وظهرها.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "ينشر هذا التظام في الجريدة الرسمية للجمهوريّة الجزائريّة الديمقراطية ىو حرر بالجزائر في 15 صقر عام 1419 الموافق 10 يونيو سنة 1998 عيد الوهاب كرهان",
+      "paragraphs": [
+        {
+          "text": "ينشر هذا التظام في الجريدة الرسمية للجمهوريّة الجزائريّة الديمقراطية ىو حرر بالجزائر في 15 صقر عام 1419 الموافق 10 يونيو سنة 1998 عيد الوهاب كرهان",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine",
+      "numerotation:premier_article=3"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.074,
+      "ocr_pages": [
+        1,
+        2
+      ],
+      "ocr_mean_confidence": 79.8
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/REG-98-03.ar.txt"
+}

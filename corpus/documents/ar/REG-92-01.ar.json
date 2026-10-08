@@ -1,0 +1,484 @@
+{
+  "document_id": "REG-92-01.ar",
+  "work_id": "REG-92-01",
+  "title": "نظام رقم 92-01 المؤرخ في 22 مارس 1992، يتضمن تنظيم مركزية الاخطار وعملها.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "92-01",
+  "number_source": "libelle",
+  "date": "1992-03-22",
+  "date_raw": "المؤرخ في 22 مارس 1992",
+  "date_source": "libelle",
+  "publication_date": "2023-02-28",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "règlements",
+  "subcategory": "مركزية المخاطر، المبالغ غير المدفوعة و الميزانيات و الشيكات بدون رصيد",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d9%85%d8%b1%d9%83%d8%b2%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d8%ae%d8%a7%d8%b7%d8%b1%d8%8c-%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d9%84%d8%ba-%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d8%af%d9%81%d9%88%d8%b9%d8%a9-2/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/02/01-92.pdf",
+  "format": "pdf",
+  "file_hash": "0c7c758b0bfe14e5f717324ec2838dd60d22d20fd2b5c04584bca487baeb33ae",
+  "file_size": 507682,
+  "raw_path": "raw/0c7c758b0bfe__01-92.pdf",
+  "retrieved_at": "2026-10-05T13:27:41+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 2,
+  "url_hash": "6fd00bf8397fe52f917881ddda1cc40cff782ce4520dc6fdc571dd068cba8ece",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d9%85%d8%b1%d9%83%d8%b2%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d8%ae%d8%a7%d8%b7%d8%b1%d8%8c-%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d9%84%d8%ba-%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d8%af%d9%81%d9%88%d8%b9%d8%a9-2/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "author": "lynda benhaha",
+    "creator": "Microsoft® Word 2016",
+    "producer": "Microsoft® Word 2016",
+    "creationDate": "D:20230226143237+01'00'",
+    "modDate": "D:20230226143237+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 1758,
+        "ocr_confidence": 86.18506493506493
+      },
+      {
+        "page": 2,
+        "method": "ocr",
+        "chars": 424,
+        "ocr_confidence": 86.86486486486487
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 8,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine",
+    "numerotation:articles_manquants:[3, 4, 9]",
+    "numerotation:ordre_non_croissant"
+  ],
+  "title_document": "نظام رقم 01-92 مؤرخ في 17 رمضان عام 2 الموافق 22 مارس سئة 1992 يتضمن تنظيم مركزية الأخطار وعملها. ان محافظ بنك الجزائر: والمتعلق بالنقد والقرض لا سيما المادتان 122 و160 فنة: رمضان عام 1410 الموافق 15 أبريل سنة 1990 شوال عام 1410 الموافق 14 مايو سنة 1990",
+  "alias_urls": [],
+  "text_hash": "e60101a64b46fa49cb7c26bcdeee272f9d5aebdcd47b671cd05800f393e8e1bf",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [
+    {
+      "work_id": "INS-02-99",
+      "document_id": "INS-02-99.fr",
+      "date": "1999-04-07",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "es Risques de la Banque d'Algérie les crédits consentis à ses dirigeants et actionnaires, conformément à l'article 4 du règlement n°92-01 du 22 mars 1992 portant organisation et fonctionnement"
+      }
+    }
+  ],
+  "complete_par": [],
+  "remplace_par": [
+    {
+      "work_id": "REG-12-01",
+      "document_id": "REG-12-01.fr",
+      "date": "2012-02-20",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "Le présent règlement annule et remplace le règlement n°92-01 du 22 mars 1992 portant organisation et fonctionnement"
+      }
+    }
+  ],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "REG-12-01",
+      "document_id": "REG-12-01.fr",
+      "date": "2012-02-20",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "Le présent règlement annule et remplace le règlement n°92-01 du 22 mars 1992 portant organisation et fonctionnement"
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [
+    "REG-92-01.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [
+    {
+      "work_id": "INS-02-99",
+      "document_id": "INS-02-99.fr",
+      "date": "1999-04-07",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "es Risques de la Banque d'Algérie les crédits consentis à ses dirigeants et actionnaires, conformément à l'article 4 du règlement n°92-01 du 22 mars 1992 portant organisation et fonctionnement"
+      }
+    }
+  ],
+  "abrogé_par": [],
+  "remplacé_par": [
+    {
+      "work_id": "REG-12-01",
+      "document_id": "REG-12-01.fr",
+      "date": "2012-02-20",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "Le présent règlement annule et remplace le règlement n°92-01 du 22 mars 1992 portant organisation et fonctionnement"
+      }
+    }
+  ],
+  "complète": [],
+  "ocr_numeric_check": {
+    "units": 9,
+    "units_flagged": 0,
+    "units_compared_with_french": 8,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "نظام رقم 01-92 مؤرخ في 17 رمضان عام 2 الموافق 22 مارس سئة 1992 يتضمن تنظيم مركزية الأخطار وعملها.\nان محافظ بنك الجزائر:\nوالمتعلق بالنقد والقرض لا سيما المادتان 122 و160 فنة:\nرمضان عام 1410 الموافق 15 أبريل سنة 1990 شوال عام 1410 الموافق 14 مايو سنة 1990 .والمتضمنة تعيين ثواب محافظ بنك الجزائر,\n- وبمقتضى المرسوم التنفيذي المؤرخ في 19 ذي الحجة عام 1411 الموافق أول يوليو Liu‏ 1991 والمتضمن تعيين أعضاء دائمين وأعضاء إضافيين في مجلس النقد والقرض»\n- وبناء على مداولة مجلس النقد رالقرض المؤرخة في 17 رمضان عام 1412 الموافق 22 مارس à.‏ 1992 يصدر النظام التالي نصه ؛ ' مركزية الأخطار ' تطبيقا للمادة 160 من القانون رقم 10-90 المؤرخ في 14 أبريل سنة 1990 والمتعلق بالثقد والقرض.\nويحدد هذا النظام مبادىء تنظيمها وعملها.",
+      "paragraphs": [
+        {
+          "text": "نظام رقم 01-92 مؤرخ في 17 رمضان عام 2 الموافق 22 مارس سئة 1992 يتضمن تنظيم مركزية الأخطار وعملها.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ان محافظ بنك الجزائر:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتعلق بالنقد والقرض لا سيما المادتان 122 و160 فنة:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "رمضان عام 1410 الموافق 15 أبريل سنة 1990 شوال عام 1410 الموافق 14 مايو سنة 1990 .والمتضمنة تعيين ثواب محافظ بنك الجزائر,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى المرسوم التنفيذي المؤرخ في 19 ذي الحجة عام 1411 الموافق أول يوليو Liu‏ 1991 والمتضمن تعيين أعضاء دائمين وأعضاء إضافيين في مجلس النقد والقرض»",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبناء على مداولة مجلس النقد رالقرض المؤرخة في 17 رمضان عام 1412 الموافق 22 مارس à.‏ 1992 يصدر النظام التالي نصه ؛ ' مركزية الأخطار ' تطبيقا للمادة 160 من القانون رقم 10-90 المؤرخ في 14 أبريل سنة 1990 والمتعلق بالثقد والقرض.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ويحدد هذا النظام مبادىء تنظيمها وعملها.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تضطلع مركزية الأخطار بمهمة التعرف على الأخطار المصرفية وعمليات القرض الإيجاري التي تتدخل فيها أجهزة القرض وتجمعها يقصد بمؤسسة القرض في مفهوم هذا النظام البنوك والمؤسسات المالية وأية مؤسسة قرض أخرى.\nنشاطها في التراب الوطني أن تنضم الى مركزية الأخطار التابفة لبنك الجزائر وتحترم قواعد عملها احتراما دقيقا.\nHU‏ 4 : تعلن أجهزة القرض المساعدات التي فيها الأشخاص المذكورون في المادة 168 من القانون رقم 90 - 10 المؤرخ في 14 أبريل سنة 1990 المذكور أعلاة.",
+      "paragraphs": [
+        {
+          "text": "تضطلع مركزية الأخطار بمهمة التعرف على الأخطار المصرفية وعمليات القرض الإيجاري التي تتدخل فيها أجهزة القرض وتجمعها يقصد بمؤسسة القرض في مفهوم هذا النظام البنوك والمؤسسات المالية وأية مؤسسة قرض أخرى.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "نشاطها في التراب الوطني أن تنضم الى مركزية الأخطار التابفة لبنك الجزائر وتحترم قواعد عملها احتراما دقيقا.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "HU‏ 4 : تعلن أجهزة القرض المساعدات التي فيها الأشخاص المذكورون في المادة 168 من القانون رقم 90 - 10 المؤرخ في 14 أبريل سنة 1990 المذكور أعلاة.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يجمم بنك الجزائر الإعلانات المنصوص عليها في المادة 4 أعلاة: ويبلغ دوريا أجهزة القرض مبلغ المساعدات المسجلة باسم كل مدين التي أعلنتها هذه الأجهزة.\nيحدد بنك الجزائر شكل هذه الإعلانات وتوقيتها بتعليمة. كما تنص على ذلك المادة 11 أدناه.",
+      "paragraphs": [
+        {
+          "text": "يجمم بنك الجزائر الإعلانات المنصوص عليها في المادة 4 أعلاة: ويبلغ دوريا أجهزة القرض مبلغ المساعدات المسجلة باسم كل مدين التي أعلنتها هذه الأجهزة.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "يحدد بنك الجزائر شكل هذه الإعلانات وتوقيتها بتعليمة. كما تنص على ذلك المادة 11 أدناه.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يمكن أجهزة القرض أن ess‏ بواسطة طلب lis‏ على المعلومات Lila ll‏ بالمساعدات المسجلة باسم المديئين التي لم تعلنها شريطة أن تبرم اتفاقا كتابيا مع هؤلاء المدينين يسمع لها بتقديم هذا الطلب لبنك الجزائر ويسمع له بتبليفها المعلومات المطلوبة.",
+      "paragraphs": [
+        {
+          "text": "يمكن أجهزة القرض أن ess‏ بواسطة طلب lis‏ على المعلومات Lila ll‏ بالمساعدات المسجلة باسم المديئين التي لم تعلنها شريطة أن تبرم اتفاقا كتابيا مع هؤلاء المدينين يسمع لها بتقديم هذا الطلب لبنك الجزائر ويسمع له بتبليفها المعلومات المطلوبة.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "المعلرمات التي يبلغها بنك الجزائر باسم مركزية الأخطار سرية جدا ومخصصة اجهاز القرض المعني.",
+      "paragraphs": [
+        {
+          "text": "المعلرمات التي يبلغها بنك الجزائر باسم مركزية الأخطار سرية جدا ومخصصة اجهاز القرض المعني.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "لايمكن جهاز القرض أن يقدم أي قرض خاضع للإعلان لزبون جديد دون أن يستشير مقدما مركزية الأخطار التابعة لبنك الجزائر.",
+      "paragraphs": [
+        {
+          "text": "لايمكن جهاز القرض أن يقدم أي قرض خاضع للإعلان لزبون جديد دون أن يستشير مقدما مركزية الأخطار التابعة لبنك الجزائر.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "9 : تتحمل أجهزة القرض التكاليف المباشرة المتعلقة بتسيير مركزية الأخطار.",
+      "paragraphs": [
+        {
+          "text": "9 : تتحمل أجهزة القرض التكاليف المباشرة المتعلقة بتسيير مركزية الأخطار.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "يثم إعلام اللجنة المصرفية بمخالفات أحكام هذا النظام وأحكام النصوص اللاحقة.",
+      "paragraphs": [
+        {
+          "text": "يثم إعلام اللجنة المصرفية بمخالفات أحكام هذا النظام وأحكام النصوص اللاحقة.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "يحدد بنك الجزائر يتعليمة كيفيات حزر بالجزائر في 17 رمضان عام 1412 الموافق 2 مارس سنة 1992.\nعبد الرهمن رستمي الحاج الناصر",
+      "paragraphs": [
+        {
+          "text": "يحدد بنك الجزائر يتعليمة كيفيات حزر بالجزائر في 17 رمضان عام 1412 الموافق 2 مارس سنة 1992.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "عبد الرهمن رستمي الحاج الناصر",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine",
+      "numerotation:articles_manquants:[3, 4, 9]",
+      "numerotation:ordre_non_croissant"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.025,
+      "ocr_pages": [
+        1,
+        2
+      ],
+      "ocr_mean_confidence": 86.5
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/REG-92-01.ar.txt"
+}

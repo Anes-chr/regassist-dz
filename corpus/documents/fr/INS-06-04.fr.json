@@ -1,0 +1,469 @@
+{
+  "document_id": "INS-06-04.fr",
+  "work_id": "INS-06-04",
+  "title": "Instruction n°06-2004 du 02 août 2004 portant identification bancaire.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "06-2004",
+  "number_source": "en-tête du document",
+  "date": "2004-08-02",
+  "date_raw": "N°06-2004 DU 02 AOÛT 2004",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Divers",
+  "source_url": "https://www.bank-of-algeria.dz/deplacements-des-groupements-sportifs-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction062004.pdf",
+  "format": "pdf",
+  "file_hash": "e998c4ea92611491e78aabf85d1818126dbe17e15123096c1228b6e9a669506b",
+  "file_size": 59813,
+  "raw_path": "raw/e998c4ea9261__instruction062004.pdf",
+  "retrieved_at": "2026-10-05T13:21:36+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "2e7e88278f0e9c9bad07e6c1289d25d954d0c8b8a8ed5532b2fa7f9642c965c1",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-2004/",
+    "https://www.bank-of-algeria.dz/deplacements-des-groupements-sportifs-instruction/",
+    "https://www.bank-of-algeria.dz/identification-bancaire-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Microsoft Word - instruction062004",
+    "author": "chahra.yahiaoui",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "creationDate": "D:20210225153735+01'00'",
+    "modDate": "D:20210225153735+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2277,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 832,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 8,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°06-2004 DU 02 AOÛT 2004 PORTANT IDENTIFICATION BANCAIRE",
+  "alias_urls": [],
+  "text_hash": "a3d93d8029d41d3c65b1c23099c1950b6f13447b856fab54aaa81bce638849c8",
+  "relations_out": [
+    {
+      "relation": "remplace",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "62-94",
+        "date": "1994-09-28",
+        "raw": "instruction n°62-94 du 28 septembre 1994"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "La présente instruction annule et remplace l’instruction n°62-94 du 28 septembre 1994 portant « identification bancaire »."
+      },
+      "target_work_id": "INS-62-94"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [
+    {
+      "work_id": "INS-62-94",
+      "reference": "instruction n°62-94 du 28 septembre 1994",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "La présente instruction annule et remplace l’instruction n°62-94 du 28 septembre 1994 portant « identification bancaire »."
+      }
+    }
+  ],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°06-2004 DU 02 AOÛT 2004\nPORTANT IDENTIFICATION BANCAIRE",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°06-2004 DU 02 AOÛT 2004",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "PORTANT IDENTIFICATION BANCAIRE",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction a pour objet de définir les normes en matière d’identité bancaire de la clientèle des banques et de toutes autres institutions émettrices d’instruments de paiement en conformité avec les dispositions du règlement n°94-12 du 2 juin 1994 relatif aux principes de gestion et d’établissement de normes dans le secteur bancaire.",
+      "paragraphs": [
+        {
+          "text": "La présente instruction a pour objet de définir les normes en matière d’identité bancaire de la clientèle des banques et de toutes autres institutions émettrices d’instruments de paiement en conformité avec les dispositions du règlement n°94-12 du 2 juin 1994 relatif aux principes de gestion et d’établissement de normes dans le secteur bancaire.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les normes définies par la présente instruction portent sur la normalisation :\n- du numéro de compte bancaire attribué à la clientèle,\n- du relevé d’identité bancaire.",
+      "paragraphs": [
+        {
+          "text": "Les normes définies par la présente instruction portent sur la normalisation :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- du numéro de compte bancaire attribué à la clientèle,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- du relevé d’identité bancaire.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le numéro d’identité bancaire attribué à la clientèle des banques et autres institutions émettrices d’instruments de paiement est composé de vingt (20) caractères numériques repartis impérativement dans l’ordre suivant :\n- 03 caractères pour le code banque,\n- 05 caractères pour le code agence,\n- 10 caractères pour le numéro de compte individuel du client,\n- 02 caractères pour la clé de contrôle du numéro de compte.\nLa clé de contrôle du numéro de compte est générée par l’application de la méthode\nModulo 97 donnée en annexe jointe à cette instruction.",
+      "paragraphs": [
+        {
+          "text": "Le numéro d’identité bancaire attribué à la clientèle des banques et autres institutions émettrices d’instruments de paiement est composé de vingt (20) caractères numériques repartis impérativement dans l’ordre suivant :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- 03 caractères pour le code banque,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- 05 caractères pour le code agence,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- 10 caractères pour le numéro de compte individuel du client,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- 02 caractères pour la clé de contrôle du numéro de compte.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La clé de contrôle du numéro de compte est générée par l’application de la méthode",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Modulo 97 donnée en annexe jointe à cette instruction.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le code banque est attribué par la Banque d’Algérie à chaque banque et toute autre institution émettrice d’instruments de paiement.\nLe code agence est attribué par la banque ou institution émettrice d’instruments de paiement à chacune de ces agences ; la Banque d’Algérie étant informée de ces numéros qui font partie du référentiel pour les systèmes de paiement.\nLe numéro de compte individuel du client est attribué à la clientèle par l’agence bancaire ou l’agence de l’institution émettrice des instruments de paiement qui a procédé à l’ouverture du compte. Il s’agit d’un numéro attribué selon une procédure unique organisée par la banque qui évite l’attribution de plusieurs comptes de même nature à un client.",
+      "paragraphs": [
+        {
+          "text": "Le code banque est attribué par la Banque d’Algérie à chaque banque et toute autre institution émettrice d’instruments de paiement.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le code agence est attribué par la banque ou institution émettrice d’instruments de paiement à chacune de ces agences ; la Banque d’Algérie étant informée de ces numéros qui font partie du référentiel pour les systèmes de paiement.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le numéro de compte individuel du client est attribué à la clientèle par l’agence bancaire ou l’agence de l’institution émettrice des instruments de paiement qui a procédé à l’ouverture du compte. Il s’agit d’un numéro attribué selon une procédure unique organisée par la banque qui évite l’attribution de plusieurs comptes de même nature à un client.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "Le Relevé d’Identité Bancaire (RIB) est un document réunissant les principales informations nécessaires à l’identification d’un client. Ce relevé doit être présenté par le client chaque fois que le banquier ou autre institution émetteur d’instruments de paiement veut s’assurer de son identité.\nLes éléments composant le relevé d’identité bancaire sont :\n- les nom et prénoms ou dénomination sociale du titulaire du compte,\n- l’intitulé en clair de l’établissement et de l’agence domiciliataire,\n- le numéro d’identité bancaire composé de 20 caractères numériques structurés impérativement dans l’ordre indiqué dans l’article 3 ci-dessus.",
+      "paragraphs": [
+        {
+          "text": "Le Relevé d’Identité Bancaire (RIB) est un document réunissant les principales informations nécessaires à l’identification d’un client. Ce relevé doit être présenté par le client chaque fois que le banquier ou autre institution émetteur d’instruments de paiement veut s’assurer de son identité.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les éléments composant le relevé d’identité bancaire sont :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les nom et prénoms ou dénomination sociale du titulaire du compte,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- l’intitulé en clair de l’établissement et de l’agence domiciliataire,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- le numéro d’identité bancaire composé de 20 caractères numériques structurés impérativement dans l’ordre indiqué dans l’article 3 ci-dessus.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le relevé d’identité bancaire tel que défini à l’article 5 ci-dessus représente les éléments nécessaires au règlement des instruments de paiement scripturaux (support papier ou électronique).",
+      "paragraphs": [
+        {
+          "text": "Le relevé d’identité bancaire tel que défini à l’article 5 ci-dessus représente les éléments nécessaires au règlement des instruments de paiement scripturaux (support papier ou électronique).",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "La présente instruction annule et remplace l’instruction n°62-94 du 28 septembre 1994 portant « identification bancaire ».",
+      "paragraphs": [
+        {
+          "text": "La présente instruction annule et remplace l’instruction n°62-94 du 28 septembre 1994 portant « identification bancaire ».",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "La présente instruction entre en vigueur à compter de la date de sa signature.\nLe Gouverneur\nMohammed LAKSACI",
+      "paragraphs": [
+        {
+          "text": "La présente instruction entre en vigueur à compter de la date de sa signature.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.036
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-06-04.fr.txt"
+}

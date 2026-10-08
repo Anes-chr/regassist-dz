@@ -1,0 +1,451 @@
+{
+  "document_id": "REG-05-03.fr~2",
+  "work_id": "REG-05-03",
+  "title": "Règlement n°2005-03 du 6 JUIN 2005 relatif aux investissements étrangers.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "2005-03",
+  "number_source": "en-tête du document",
+  "date": "2005-06-06",
+  "date_raw": "N°2005-03 DU 6 JUIN 2005",
+  "date_source": "en-tête du document",
+  "publication_date": "2023-01-25",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Règlementation des changes",
+  "source_url": "https://www.bank-of-algeria.dz/devises-reglement/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/reglement200503.pdf",
+  "format": "pdf",
+  "file_hash": "f3de2ef429223c1044514acc446828dd630f28bffb05a0763e6753c1c7567f87",
+  "file_size": 44565,
+  "raw_path": "raw/f3de2ef42922__reglement200503.pdf",
+  "retrieved_at": "2026-10-05T13:26:44+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "7f7976237982430191ce457fbe5d79808bba5a993a6151cc5e0423a0aabe7c1f",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/devises-reglement/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document4",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200714162411+01'00'",
+    "modDate": "D:20200714162411+01'00'"
+  },
+  "hijri_date_raw": "27 Joumada Ethania 1424",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 3301,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 711,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 8,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "meme_texte_plusieurs_fichiers"
+  ],
+  "title_document": "REGLEMENT N°2005-03 DU 6 JUIN 2005 RELATIF AUX INVESTISSEMENTS ETRANGERS",
+  "alias_urls": [],
+  "text_hash": "2ee5b8686e4b4b1a5bba80336712c5cffb8b820fe2e74f704528f101a6c4e53e",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-05-03.ar",
+    "REG-05-03.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°2005-03 DU 6 JUIN 2005\nRELATIF AUX INVESTISSEMENTS ETRANGERS\nLe Gouverneur de la Banque d’Algérie,\n- Vu l’ordonnance n° 03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003 relative à la monnaie et au crédit, notamment ses articles 32, 38, 62, alinéa a,63 et 64 ;\n- Vu l’ordonnance n° 01-03 du Aouel Joumada Ethania 1422 correspondant au 20 août 2001 relative au développement de l’investissement, notamment ses articles 1, 2 et 31 ;\n- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 2 juin 2001 portant nomination du\nGouverneur et des vice-Gouverneurs de la Banque d’Algérie ;\n- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 2 juin 2001 portant nomination des membres du conseil d’administration de la Banque d’Algérie ;\n- Vu le décret exécutif n° 97-39 du 9 Ramadhan 1417 correspondant au 18 janvier 1997, modifié et complété, relatif à la nomenclature des activités économiques soumises à l’inscription au registre de commerce ;\n- Après délibération du conseil de la monnaie et du crédit en date du 28 Rabie\nEthani 1426 correspondant au 6 juin 2005 ;\nPromulgue le règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°2005-03 DU 6 JUIN 2005",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "RELATIF AUX INVESTISSEMENTS ETRANGERS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d’Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’ordonnance n° 03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003 relative à la monnaie et au crédit, notamment ses articles 32, 38, 62, alinéa a,63 et 64 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’ordonnance n° 01-03 du Aouel Joumada Ethania 1422 correspondant au 20 août 2001 relative au développement de l’investissement, notamment ses articles 1, 2 et 31 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 2 juin 2001 portant nomination du",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Gouverneur et des vice-Gouverneurs de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 2 juin 2001 portant nomination des membres du conseil d’administration de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret exécutif n° 97-39 du 9 Ramadhan 1417 correspondant au 18 janvier 1997, modifié et complété, relatif à la nomenclature des activités économiques soumises à l’inscription au registre de commerce ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Après délibération du conseil de la monnaie et du crédit en date du 28 Rabie",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Ethani 1426 correspondant au 6 juin 2005 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le présent règlement a pour objet de définir les modalités de transfert des dividendes, bénéfices et produits réels nets de la cession ou de la liquidation des investissements étrangers réalisés, dans le cadre de l’ordonnance n° 01-03 du Aouel\nJoumada Ethania 1422 correspondant au 20 août 2001 relative au développement de l’investissement, dans les activités économiques de production de biens et de services.",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement a pour objet de définir les modalités de transfert des dividendes, bénéfices et produits réels nets de la cession ou de la liquidation des investissements étrangers réalisés, dans le cadre de l’ordonnance n° 01-03 du Aouel",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Joumada Ethania 1422 correspondant au 20 août 2001 relative au développement de l’investissement, dans les activités économiques de production de biens et de services.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les investissements définis par l’article 2 de l’ordonnance n° 01-03 du Aouel\nJoumada Ethania 1422 correspondant au 20 août 2001 susvisée, réalisés à partir d’apports extérieurs, bénéficient de la garantie de transfert des revenus du capital investi et des produits réels nets de la cession ou de la liquidation, conformément aux dispositions de l’article 31 de l’ordonnance n° 01-03 du Aouel Joumada Ethania 1422 correspondant au 20 août 2001 susvisée.",
+      "paragraphs": [
+        {
+          "text": "Les investissements définis par l’article 2 de l’ordonnance n° 01-03 du Aouel",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Joumada Ethania 1422 correspondant au 20 août 2001 susvisée, réalisés à partir d’apports extérieurs, bénéficient de la garantie de transfert des revenus du capital investi et des produits réels nets de la cession ou de la liquidation, conformément aux dispositions de l’article 31 de l’ordonnance n° 01-03 du Aouel Joumada Ethania 1422 correspondant au 20 août 2001 susvisée.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les banques et établissements financiers, intermédiaires agréés, sont habilités à instruire les demandes de transfert et à exécuter sans délai les transferts au titre des dividendes, bénéfices, produits de la cession des investissements étrangers ainsi que celui des jetons de présence et tantièmes pour les administrateurs étrangers.",
+      "paragraphs": [
+        {
+          "text": "Les banques et établissements financiers, intermédiaires agréés, sont habilités à instruire les demandes de transfert et à exécuter sans délai les transferts au titre des dividendes, bénéfices, produits de la cession des investissements étrangers ainsi que celui des jetons de présence et tantièmes pour les administrateurs étrangers.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les bénéfices et dividendes produits par des investissements mixtes (nationaux et étrangers) sont transférables, par le biais des banques et établissements financiers, intermédiaires agréés, pour un montant correspondant à l’apport étranger, dûment constaté, dans le capital.\nLes produits réels nets de la cession ou de la liquidation des investissements mixtes (nationaux et étrangers) sont transférables, par le biais des banques et établissements financiers, intermédiaires agréés, pour un montant correspondant à la part de l’investissement étranger, dûment constatée, dans la structure de l’investissement total réalisé.",
+      "paragraphs": [
+        {
+          "text": "Les bénéfices et dividendes produits par des investissements mixtes (nationaux et étrangers) sont transférables, par le biais des banques et établissements financiers, intermédiaires agréés, pour un montant correspondant à l’apport étranger, dûment constaté, dans le capital.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les produits réels nets de la cession ou de la liquidation des investissements mixtes (nationaux et étrangers) sont transférables, par le biais des banques et établissements financiers, intermédiaires agréés, pour un montant correspondant à la part de l’investissement étranger, dûment constatée, dans la structure de l’investissement total réalisé.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le dossier en appui de la demande de transfert est défini par une instruction de la banque d’Algérie. Il doit être conservé par l’intermédiaire agréé durant une période de cinq (5) ans.",
+      "paragraphs": [
+        {
+          "text": "Le dossier en appui de la demande de transfert est défini par une instruction de la banque d’Algérie. Il doit être conservé par l’intermédiaire agréé durant une période de cinq (5) ans.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les transferts effectués par les banques et établissements financiers en application de ce règlement sont, au même titre que les autres opérations de commerce extérieur et de change, soumis au dispositif de contrôle a posteriori de la Banque d’Algérie.\nLes banques et établissements financiers, intermédiaires agréés, sont tenus d’en faire déclaration à la Banque d’Algérie, selon un canevas qui sera défini par instruction de la\nBanque d’Algérie.",
+      "paragraphs": [
+        {
+          "text": "Les transferts effectués par les banques et établissements financiers en application de ce règlement sont, au même titre que les autres opérations de commerce extérieur et de change, soumis au dispositif de contrôle a posteriori de la Banque d’Algérie.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Les banques et établissements financiers, intermédiaires agréés, sont tenus d’en faire déclaration à la Banque d’Algérie, selon un canevas qui sera défini par instruction de la",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Banque d’Algérie.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Sont abrogées toutes les dispositions contraires au présent règlement.",
+      "paragraphs": [
+        {
+          "text": "Sont abrogées toutes les dispositions contraires au présent règlement.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le présent règlement sera publié au Journal officiel de la République algérienne démocratique et populaire.\nLe Gouverneur\nMohammed LAKSACI",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement sera publié au Journal officiel de la République algérienne démocratique et populaire.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "meme_texte_plusieurs_fichiers"
+    ],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.034
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-05-03.fr~2.txt"
+}

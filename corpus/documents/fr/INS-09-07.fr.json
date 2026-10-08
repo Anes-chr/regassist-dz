@@ -1,0 +1,520 @@
+{
+  "document_id": "INS-09-07.fr",
+  "work_id": "INS-09-07",
+  "title": "Instruction n°09-2007 du 25 octobre 2007 modifiant et complétant l’instruction n°74-94 du 29 novembre 1994 relative à la fixation des règles prudentielles de gestion des banques et établissent financiers.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "09-2007",
+  "number_source": "en-tête du document",
+  "date": "2007-10-25",
+  "date_raw": "N°09-2007 DU 25 OCTOBRE 2007",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Normes prudentielles",
+  "source_url": "https://www.bank-of-algeria.dz/banque-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction092007.pdf",
+  "format": "pdf",
+  "file_hash": "d4ff0aa9cb57d12e6b15e057ed8cc8c5e80559541cb9a815ed0f17c3c13cc7b1",
+  "file_size": 56097,
+  "raw_path": "raw/d4ff0aa9cb57__instruction092007.pdf",
+  "retrieved_at": "2026-10-05T13:21:53+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "4e6598470bf365104e5a3fb78c1ff4fb92448f66f20797cc4f5188e90934c107",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-2007/",
+    "https://www.bank-of-algeria.dz/banque-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Microsoft Word - instruction092007",
+    "author": "chahra.yahiaoui",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "creationDate": "D:20210224162226+01'00'",
+    "modDate": "D:20210224162226+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2881,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 1062,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 5,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°09-2007 DU 25 OCTOBRE 2007 MODIFIANT ET COMPLETANT L’INSTRUCTION N°74-94 DU 29 NOVEMBRE 1994 RELATIVE A LA FIXATION DES REGLES PRUDENTIELLES DE GESTION DES BANQUES ET ETABLISSENT FINANCIERS",
+  "alias_urls": [],
+  "text_hash": "11d8c39223fb47928598d3c032595417ae404ad04fe10db91c55b0319b50b016",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "74-94",
+        "date": "1994-11-29",
+        "raw": "instruction n°74-94 du 29 novembre 1994"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°09-2007 du 25 octobre 2007 modifiant et complétant l’instruction n°74-94 du 29 novembre 1994 relative à la fixation des règles prude"
+      },
+      "target_work_id": "INS-74-94"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "74-94",
+        "date": "1994-11-29",
+        "raw": "instruction n°74-94 du 29 novembre 1994"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°09-2007 du 25 octobre 2007 modifiant et complétant l’instruction n°74-94 du 29 novembre 1994 relative à la fixation des règles prude"
+      },
+      "target_work_id": "INS-74-94"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "74-94",
+        "date": "1994-11-29",
+        "raw": "instruction n° 74-94 du 29 novembre 1994"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l’instruction n° 74-94 du 29 novembre 1994 relative à la fixation des règles prude"
+      },
+      "target_work_id": "INS-74-94"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "74-94",
+        "date": "1994-11-29",
+        "raw": "instruction n° 74-94 du 29 novembre 1994"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l’instruction n° 74-94 du 29 novembre 1994 relative à la fixation des règles prude"
+      },
+      "target_work_id": "INS-74-94"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "97-01",
+        "date": "1997-02-08",
+        "raw": "règlement n°97-01 du 08 février 1997"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "cle 2 bis : Le coût d’acquisition des titres de transaction à revenu fixe, répondant aux dispositions de l’article 5 du règlement n°97-01 du 08 février 1997 portant comptabilisation des opérations"
+      },
+      "target_work_id": "REG-97-01"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-74-94",
+      "reference": "instruction n°74-94 du 29 novembre 1994",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°09-2007 du 25 octobre 2007 modifiant et complétant l’instruction n°74-94 du 29 novembre 1994 relative à la fixation des règles prude"
+      }
+    },
+    {
+      "work_id": "INS-74-94",
+      "reference": "instruction n° 74-94 du 29 novembre 1994",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l’instruction n° 74-94 du 29 novembre 1994 relative à la fixation des règles prude"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "INS-74-94",
+      "reference": "instruction n°74-94 du 29 novembre 1994",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°09-2007 du 25 octobre 2007 modifiant et complétant l’instruction n°74-94 du 29 novembre 1994 relative à la fixation des règles prude"
+      }
+    },
+    {
+      "work_id": "INS-74-94",
+      "reference": "instruction n° 74-94 du 29 novembre 1994",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l’instruction n° 74-94 du 29 novembre 1994 relative à la fixation des règles prude"
+      }
+    },
+    {
+      "work_id": "REG-97-01",
+      "reference": "règlement n°97-01 du 08 février 1997",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "cle 2 bis : Le coût d’acquisition des titres de transaction à revenu fixe, répondant aux dispositions de l’article 5 du règlement n°97-01 du 08 février 1997 portant comptabilisation des opérations"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-09-07.ar"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "INS-74-94",
+      "reference": "instruction n°74-94 du 29 novembre 1994",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°09-2007 du 25 octobre 2007 modifiant et complétant l’instruction n°74-94 du 29 novembre 1994 relative à la fixation des règles prude"
+      }
+    },
+    {
+      "work_id": "INS-74-94",
+      "reference": "instruction n° 74-94 du 29 novembre 1994",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l’instruction n° 74-94 du 29 novembre 1994 relative à la fixation des règles prude"
+      }
+    },
+    {
+      "work_id": "REG-97-01",
+      "reference": "règlement n°97-01 du 08 février 1997",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "cle 2 bis : Le coût d’acquisition des titres de transaction à revenu fixe, répondant aux dispositions de l’article 5 du règlement n°97-01 du 08 février 1997 portant comptabilisation des opérations"
+      }
+    }
+  ],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°09-2007 DU 25 OCTOBRE 2007 MODIFIANT\nET COMPLETANT L’INSTRUCTION N°74-94 DU 29 NOVEMBRE 1994\nRELATIVE A LA FIXATION DES REGLES PRUDENTIELLES\nDE GESTION DES BANQUES ET ETABLISSENT FINANCIERS",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°09-2007 DU 25 OCTOBRE 2007 MODIFIANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET COMPLETANT L’INSTRUCTION N°74-94 DU 29 NOVEMBRE 1994",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "RELATIVE A LA FIXATION DES REGLES PRUDENTIELLES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DE GESTION DES BANQUES ET ETABLISSENT FINANCIERS",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction a pour objet de modifier et de compléter l’instruction n° 74-94 du 29 novembre 1994 relative à la fixation des règles prudentielles de gestion des banques et établissements financiers.",
+      "paragraphs": [
+        {
+          "text": "La présente instruction a pour objet de modifier et de compléter l’instruction n° 74-94 du 29 novembre 1994 relative à la fixation des règles prudentielles de gestion des banques et établissements financiers.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L’article 2 de l’instruction n°74-94 du 29 novembre 1994 citée ci-dessus est complété par un article 2 bis rédigé comme suit :\n\"Article 2 bis : Le coût d’acquisition des titres de transaction à revenu fixe, répondant aux dispositions de l’article 5 du règlement n°97-01 du 08 février 1997 portant comptabilisation des opérations sur titres, ne s’ajoutent pas aux risques encourus, sur l’entreprise émettrice de ces titres ou sur le groupe auquel cette entreprise appartient conformément à la définition du groupe indiquée dans l’article 2 de l’instruction n°74-94 du 29 novembre 1994, et ce pour l’évaluation du ratio de division de risques de l’entreprise ou du groupe concerné.\nDans le cas où le coût d’acquisition des titres de placements à revenu fixe répondant aux dispositions de l’article 9 du règlement n°97-01 du 08 février 1997 cité ci-dessus est supérieur ou égal à 10% des fonds propres de la banque ou établissement financier concerné, il s’ajoute aux risques encourus, sur l’entreprise émettrice de ces titres ou sur le groupe auquel cette entreprise appartient conformément à la définition du groupe indiquée dans l’article 2 de l’instruction n°74-94 du 29 novembre 1994, pour l’évaluation du ratio de division de risques.\nLe coût d’acquisition des titres d’investissement répondant aux dispositions de l’article 13 du règlement n°97-01 du 08 février 1997 suscité, s’ajoute aux risques encourus, sur l’entreprise émettrice de ces titres ou sur le groupe auquel cette entreprise appartient conformément à la définition du groupe indiquée dans l’article 2 de l’instruction n°74-94, pour l’évaluation du ratio de division de risques de l’entreprise ou groupe concerné.\"",
+      "paragraphs": [
+        {
+          "text": "L’article 2 de l’instruction n°74-94 du 29 novembre 1994 citée ci-dessus est complété par un article 2 bis rédigé comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "\"Article 2 bis : Le coût d’acquisition des titres de transaction à revenu fixe, répondant aux dispositions de l’article 5 du règlement n°97-01 du 08 février 1997 portant comptabilisation des opérations sur titres, ne s’ajoutent pas aux risques encourus, sur l’entreprise émettrice de ces titres ou sur le groupe auquel cette entreprise appartient conformément à la définition du groupe indiquée dans l’article 2 de l’instruction n°74-94 du 29 novembre 1994, et ce pour l’évaluation du ratio de division de risques de l’entreprise ou du groupe concerné.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Dans le cas où le coût d’acquisition des titres de placements à revenu fixe répondant aux dispositions de l’article 9 du règlement n°97-01 du 08 février 1997 cité ci-dessus est supérieur ou égal à 10% des fonds propres de la banque ou établissement financier concerné, il s’ajoute aux risques encourus, sur l’entreprise émettrice de ces titres ou sur le groupe auquel cette entreprise appartient conformément à la définition du groupe indiquée dans l’article 2 de l’instruction n°74-94 du 29 novembre 1994, pour l’évaluation du ratio de division de risques.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le coût d’acquisition des titres d’investissement répondant aux dispositions de l’article 13 du règlement n°97-01 du 08 février 1997 suscité, s’ajoute aux risques encourus, sur l’entreprise émettrice de ces titres ou sur le groupe auquel cette entreprise appartient conformément à la définition du groupe indiquée dans l’article 2 de l’instruction n°74-94, pour l’évaluation du ratio de division de risques de l’entreprise ou groupe concerné.\"",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L’article 2 de l’instruction n°74-94 du 29 novembre 1994 citée ci-dessus est complété par un article 2 bis 1 rédigé comme suit :\n\"Article 2 bis 1 : Les crédits distribués pour financer les projets de réalisation par la technique dite \"project financing\" ne s’ajoutant pas aux risques encourus sur les actionnaires des entités créées pour la réalisation de ces projets, sous condition qu’il n’y ait pas de garanties croisées entre les actionnaires et l’entité créée.\nEn cas de difficulté rencontrée pour classer les dossiers de crédit en catégorie de dossiers de \"project financing\", la banque ou l’établissement financier concerné doit demander l’avis de la Commission Bancaire\".\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "L’article 2 de l’instruction n°74-94 du 29 novembre 1994 citée ci-dessus est complété par un article 2 bis 1 rédigé comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "\"Article 2 bis 1 : Les crédits distribués pour financer les projets de réalisation par la technique dite \"project financing\" ne s’ajoutant pas aux risques encourus sur les actionnaires des entités créées pour la réalisation de ces projets, sous condition qu’il n’y ait pas de garanties croisées entre les actionnaires et l’entité créée.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "En cas de difficulté rencontrée pour classer les dossiers de crédit en catégorie de dossiers de \"project financing\", la banque ou l’établissement financier concerné doit demander l’avis de la Commission Bancaire\".",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "L’article 11 de l’instruction n°74-94 du 29 novembre 1994 citée ci-dessus et complété comme suit :\n\"Article 11 : Les risques encourus.......... sans changement a) Taux de pondération à 100% sans changement ;\nIl est inséré à la suite du point a), un point a1 rédigé comme suit :\na.1) Taux de pondération de 50% * prêts consentis pour l’acquisition de logements, qui sont ou seront occupés ou donnés en location par l’emprunteur, intégralement garantis par des hypothèques de premier rang, sous condition que les prêts représentent un montant égal ou inférieur à 70 % de la valeur hypothécaire des biens acquis. Dans le cas contraire, le taux de pondération applicable est de 100% ;\n* crédit-bail immobilier sous condition que le prêt ne dépasse pas 50 % de la valeur hypothécaire du bien. Dans le cas contraire, le taux de pondération applicable est de 100 %.\nLe reste (point b et suivants) sans changement\".",
+      "paragraphs": [
+        {
+          "text": "L’article 11 de l’instruction n°74-94 du 29 novembre 1994 citée ci-dessus et complété comme suit :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "\"Article 11 : Les risques encourus.......... sans changement a) Taux de pondération à 100% sans changement ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Il est inséré à la suite du point a), un point a1 rédigé comme suit :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "a.1) Taux de pondération de 50% * prêts consentis pour l’acquisition de logements, qui sont ou seront occupés ou donnés en location par l’emprunteur, intégralement garantis par des hypothèques de premier rang, sous condition que les prêts représentent un montant égal ou inférieur à 70 % de la valeur hypothécaire des biens acquis. Dans le cas contraire, le taux de pondération applicable est de 100% ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "* crédit-bail immobilier sous condition que le prêt ne dépasse pas 50 % de la valeur hypothécaire du bien. Dans le cas contraire, le taux de pondération applicable est de 100 %.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le reste (point b et suivants) sans changement\".",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "La présente instruction prend effet à compter de la date de sa signature.\nLe Gouverneur\nMohammed LAKSACI",
+      "paragraphs": [
+        {
+          "text": "La présente instruction prend effet à compter de la date de sa signature.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.045
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-09-07.fr.txt"
+}

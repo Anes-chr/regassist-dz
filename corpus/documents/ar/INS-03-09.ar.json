@@ -1,0 +1,297 @@
+{
+  "document_id": "INS-03-09.ar",
+  "work_id": "INS-03-09",
+  "title": "تعليمة رقم 03-2009 المؤرخة في 25 فيفري 2009، المعدلة للتعليمة رقم 02-2008، المتعلقة بنظام الاحتياطات الإجبارية.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "03-2009",
+  "number_source": "libelle",
+  "date": "2009-02-25",
+  "date_raw": "المؤرخة في 25 فيفري 2009",
+  "date_source": "libelle",
+  "publication_date": "2023-03-02",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "instructions",
+  "subcategory": "أدوات السياسة النقدية",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a3%d8%af%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d9%86%d9%82%d8%af%d9%8a%d8%a9/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/03/09-03.pdf",
+  "format": "pdf",
+  "file_hash": "f8cecaec25c877aa1d743f89832ec0751fb51b43bbc1ed485dd55366b66ba1b3",
+  "file_size": 124956,
+  "raw_path": "raw/f8cecaec25c8__09-03.pdf",
+  "retrieved_at": "2026-10-05T13:29:59+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 1,
+  "url_hash": "1d9350eaa222106a0490fdd3fe45454fd5077da8810deab19fead877d00cebb1",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%a3%d8%af%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d9%86%d9%82%d8%af%d9%8a%d8%a9/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "producer": "Epson Scan 2",
+    "creationDate": "D:20230301094653+01'00'",
+    "modDate": "D:20230301094653+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 379,
+        "ocr_confidence": 86.77611940298507
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 3,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_uncertain_numbers:1",
+    "ocr_utilise_verification_humaine"
+  ],
+  "title_document": "تعليمة رقم 09-03 تعدل التعليمة رقم 08-02 المادة الأولى: تهدف هذه التعليمة إلى تعديل سعر الفائدة المشار إليه في المادة 2 من التعليمة رقم 08-02 تتعلق بنظام الاحتياطي الإلزامي. المادة 2 : يبحدد سعر الفائدة على الاحتياطي الإلزامي لحب 700,50 سنويا. 0ك المادة 3 : تدخل هذه التعليمة حيز التطبيق ابتداء من 15 مارس 2009. حرر بالجزائر «à‏ 25 فيفري 2009 Bank of Algeria",
+  "alias_urls": [],
+  "text_hash": "d59b00ad7da31d5511b0e17f14637af32227e4fc5b898159c3b969441f12ab90",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-2008",
+        "date": null,
+        "raw": "instruction n°02-2008"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°03-2009 du 25 février 2009 modifiant l’instruction n°02-2008 relative au régime des réserves obligat",
+        "copied_from": "INS-03-09.fr"
+      },
+      "target_work_id": "INS-02-08"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-08",
+        "date": null,
+        "raw": "instruction n°02-08"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier le taux de rémunération visé à l'article 2 de l’instruction n°02-08 relative au régime des réserves obligat",
+        "copied_from": "INS-03-09.fr"
+      },
+      "target_work_id": "INS-02-08"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-02-08",
+      "reference": "instruction n°02-2008",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°03-2009 du 25 février 2009 modifiant l’instruction n°02-2008 relative au régime des réserves obligat",
+        "copied_from": "INS-03-09.fr"
+      }
+    },
+    {
+      "work_id": "INS-02-08",
+      "reference": "instruction n°02-08",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier le taux de rémunération visé à l'article 2 de l’instruction n°02-08 relative au régime des réserves obligat",
+        "copied_from": "INS-03-09.fr"
+      }
+    }
+  ],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-03-09.fr",
+    "INS-03-09.fr~2"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "ocr_numeric_check": {
+    "units": 4,
+    "units_flagged": 1,
+    "units_compared_with_french": 3,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "المحافظ تعليمة رقم 09-03 تعدل التعليمة رقم 08-02",
+      "paragraphs": [
+        {
+          "text": "المحافظ تعليمة رقم 09-03 تعدل التعليمة رقم 08-02",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تهدف هذه التعليمة إلى تعديل سعر الفائدة المشار إليه في المادة 2 من التعليمة رقم 08-02 تتعلق بنظام الاحتياطي الإلزامي.",
+      "paragraphs": [
+        {
+          "text": "تهدف هذه التعليمة إلى تعديل سعر الفائدة المشار إليه في المادة 2 من التعليمة رقم 08-02 تتعلق بنظام الاحتياطي الإلزامي.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يبحدد سعر الفائدة على الاحتياطي الإلزامي لحب 700,50 سنويا.\n0ك",
+      "paragraphs": [
+        {
+          "text": "يبحدد سعر الفائدة على الاحتياطي الإلزامي لحب 700,50 سنويا.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "0ك",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تدخل هذه التعليمة حيز التطبيق ابتداء من 15 مارس 2009.\nحرر بالجزائر «à‏ 25 فيفري 2009 Bank of Algeria The Governor",
+      "paragraphs": [
+        {
+          "text": "تدخل هذه التعليمة حيز التطبيق ابتداء من 15 مارس 2009.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "حرر بالجزائر «à‏ 25 فيفري 2009 Bank of Algeria The Governor",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_uncertain_numbers:1",
+      "ocr_utilise_verification_humaine"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.038,
+      "ocr_pages": [
+        1
+      ],
+      "ocr_mean_confidence": 86.8
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/INS-03-09.ar.txt"
+}

@@ -1,0 +1,329 @@
+{
+  "document_id": "REG-02-04.fr",
+  "work_id": "REG-02-04",
+  "title": "Règlement n°2002-04 du 9 janvier 2003 complétant le règlement n°91-08 du 14 août 1991 portant organisation du marché monétaire.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "2002-04",
+  "number_source": "en-tête du document",
+  "date": "2003-01-09",
+  "date_raw": "n°2002-04 du 9 janvier 2003",
+  "date_source": "libelle",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Organisation et fonctionnement du marché monétaire",
+  "source_url": "https://www.bank-of-algeria.dz/organisation-et-fonctionnement-du-marche-monetaire-reglement/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement200204.pdf",
+  "format": "pdf",
+  "file_hash": "3b65b8e581739afdf5550a64c4e180fb925f17a36fd54189e2318e8ac288aa6f",
+  "file_size": 53458,
+  "raw_path": "raw/3b65b8e58173__reglement200204.pdf",
+  "retrieved_at": "2026-10-05T13:22:21+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "4a39faec7f3485aea6da70ab3c1dab64e109d90b2ce719e4146c084d7071ad3d",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/organisation-et-fonctionnement-du-marche-monetaire-reglement/",
+    "https://www.bank-of-algeria.dz/reglement-2003/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document20",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210216120500+01'00'",
+    "modDate": "D:20210216120500+01'00'"
+  },
+  "hijri_date_raw": "10 Rabie El Aouel 1422",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 1548,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 2,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "REGLEMENT N°2002-04 COMPLETANT LE REGLEMENT N°91-08 DU 14 AOUT 1991 PORTANT ORGANISATION DU MARCHE MONETAIRE",
+  "alias_urls": [],
+  "text_hash": "735d93530e3c5aa0d83debeae73fa5cbf0563bfe7d913b374c947eabf57dbec9",
+  "relations_out": [
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "91-08",
+        "date": "1991-08-14",
+        "raw": "règlement n°91-08 du 14 août 1991"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2002-04 du 9 janvier 2003 complétant le règlement n°91-08 du 14 août 1991 portant organisation du marché monétair"
+      },
+      "target_work_id": "REG-91-08"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "91-08",
+        "date": "1991-08-14",
+        "raw": "règlement n°91-08 du 14 août 1991"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Les dispositions du règlement n°91-08 du 14 août 1991, susvisé, sont complétées par un articl"
+      },
+      "target_work_id": "REG-91-08"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [
+    {
+      "work_id": "REG-91-08",
+      "reference": "règlement n°91-08 du 14 août 1991",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2002-04 du 9 janvier 2003 complétant le règlement n°91-08 du 14 août 1991 portant organisation du marché monétair"
+      }
+    },
+    {
+      "work_id": "REG-91-08",
+      "reference": "règlement n°91-08 du 14 août 1991",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Les dispositions du règlement n°91-08 du 14 août 1991, susvisé, sont complétées par un articl"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-02-04.ar"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "REG-91-08",
+      "reference": "règlement n°91-08 du 14 août 1991",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2002-04 du 9 janvier 2003 complétant le règlement n°91-08 du 14 août 1991 portant organisation du marché monétair"
+      }
+    },
+    {
+      "work_id": "REG-91-08",
+      "reference": "règlement n°91-08 du 14 août 1991",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Les dispositions du règlement n°91-08 du 14 août 1991, susvisé, sont complétées par un articl"
+      }
+    }
+  ],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°2002-04 COMPLETANT LE REGLEMENT N°91-08\nDU 14 AOUT 1991 PORTANT ORGANISATION DU MARCHE MONETAIRE\nLe Gouverneur de la Banque d'Algérie,\n- Vu la loi n°90-10 du 14 avril 1990, modifiée et complétée, relative à la monnaie et au crédit, notamment ses articles 43 bis, 44, 47 et 55 ;\n- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 2 juin 2001 portant nomination du Gouverneur et des Vice-Gouverneurs de la Banque d'Algérie ;\n- Vu le décret présidentiel du 10 Rabie El Aouled 1422 correspondant au 2 juin 2001 portant nomination des membres du conseil d'administration de la Banque d'Algérie ;\n- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 2 juin 2001 portant nomination des membres du conseil de la monnaie et du crédit ;\n- Vu le règlement n°91-08 du 14 août 1991 portant organisation du marché monétaire ;\n- Vu les délibérations du conseil de la monnaie et du crédit du 19 décembre 2002 ;\nPromulgue le règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°2002-04 COMPLETANT LE REGLEMENT N°91-08",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DU 14 AOUT 1991 PORTANT ORGANISATION DU MARCHE MONETAIRE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d'Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la loi n°90-10 du 14 avril 1990, modifiée et complétée, relative à la monnaie et au crédit, notamment ses articles 43 bis, 44, 47 et 55 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 2 juin 2001 portant nomination du Gouverneur et des Vice-Gouverneurs de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 10 Rabie El Aouled 1422 correspondant au 2 juin 2001 portant nomination des membres du conseil d'administration de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 2 juin 2001 portant nomination des membres du conseil de la monnaie et du crédit ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n°91-08 du 14 août 1991 portant organisation du marché monétaire ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu les délibérations du conseil de la monnaie et du crédit du 19 décembre 2002 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les dispositions du règlement n°91-08 du 14 août 1991, susvisé, sont complétées par un article 9 bis ainsi rédigé :\n« Article 9 bis : Les opérations de prêt et/ou emprunts ainsi que les achats et ventes fermes d'effets entre banques et établissements financiers doivent se nouer, obligatoirement, sur le marché monétaire ».",
+      "paragraphs": [
+        {
+          "text": "Les dispositions du règlement n°91-08 du 14 août 1991, susvisé, sont complétées par un article 9 bis ainsi rédigé :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "« Article 9 bis : Les opérations de prêt et/ou emprunts ainsi que les achats et ventes fermes d'effets entre banques et établissements financiers doivent se nouer, obligatoirement, sur le marché monétaire ».",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le président règlement sera publié au Journal officiel de la République algérienne démocratique et populaire.\nLe Gouverneur\nMohammed LAKSACI\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "Le président règlement sera publié au Journal officiel de la République algérienne démocratique et populaire.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.039
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-02-04.fr.txt"
+}

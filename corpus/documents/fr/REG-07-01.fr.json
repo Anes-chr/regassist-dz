@@ -1,0 +1,4587 @@
+{
+  "document_id": "REG-07-01.fr",
+  "work_id": "REG-07-01",
+  "title": "Règlement n°2007-01 du 3 février 2007 relatif aux règles applicabales aux transactions courantes avec l’étranger et aux comptes devises.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "2007-01",
+  "number_source": "en-tête du document",
+  "date": "2007-02-03",
+  "date_raw": "N°2007-01 DU 03 FÉVRIER 2007",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/reglement200701.pdf",
+      "uploaded": "2023-01-25T11:15:14"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Année 2007",
+  "source_url": "https://www.bank-of-algeria.dz/reglement-2007/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement200701.pdf",
+  "format": "pdf",
+  "file_hash": "8c95e0d427620809a6469130bfe58287a8366a64e45b763a82f4567a6e408040",
+  "file_size": 130115,
+  "raw_path": "raw/8c95e0d42762__reglement200701.pdf",
+  "retrieved_at": "2026-10-05T13:22:32+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 13,
+  "url_hash": "2873a520aaeb6106f921fc2be21acb5fa9932a67419ed42e160135c71f2822ca",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/reglement-2007/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document20",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210214143350+01'00'",
+    "modDate": "D:20210214143350+01'00'"
+  },
+  "hijri_date_raw": "27 Joumada Ethania 1424",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 13,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 3252,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 3063,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 3127,
+        "ocr_confidence": null
+      },
+      {
+        "page": 4,
+        "method": "pdf_text",
+        "chars": 2614,
+        "ocr_confidence": null
+      },
+      {
+        "page": 5,
+        "method": "pdf_text",
+        "chars": 3088,
+        "ocr_confidence": null
+      },
+      {
+        "page": 6,
+        "method": "pdf_text",
+        "chars": 3077,
+        "ocr_confidence": null
+      },
+      {
+        "page": 7,
+        "method": "pdf_text",
+        "chars": 2782,
+        "ocr_confidence": null
+      },
+      {
+        "page": 8,
+        "method": "pdf_text",
+        "chars": 2775,
+        "ocr_confidence": null
+      },
+      {
+        "page": 9,
+        "method": "pdf_text",
+        "chars": 2921,
+        "ocr_confidence": null
+      },
+      {
+        "page": 10,
+        "method": "pdf_text",
+        "chars": 3027,
+        "ocr_confidence": null
+      },
+      {
+        "page": 11,
+        "method": "pdf_text",
+        "chars": 2533,
+        "ocr_confidence": null
+      },
+      {
+        "page": 12,
+        "method": "pdf_text",
+        "chars": 2808,
+        "ocr_confidence": null
+      },
+      {
+        "page": 13,
+        "method": "pdf_text",
+        "chars": 1753,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 87,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "meme_texte_plusieurs_fichiers"
+  ],
+  "title_document": "REGLEMENT N°2007-01 DU 03 FÉVRIER 2007 RELATIF AUX RÈGLES APPLICABLES AUX TRANSACTIONS COURANTES AVEC L'ÉTRANGER ET AUX COMPTES DEVISES",
+  "alias_urls": [],
+  "text_hash": "bba06e31150a889fc0a1588aef4584903c7f418e562c7ab3f18b7999d05158f3",
+  "relations_out": [
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "91-13",
+        "date": "1991-08-14",
+        "raw": "règlement n°91-13 du 14 août 1991"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 13,
+        "quote": "glement sont abrogées, notamment les règlements n°91-12 du 14 août 1991 relatif à la domiciliation des importations, le règlement n°91-13 du 14 août 1991 relatif à la domiciliation et au règlem"
+      },
+      "target_work_id": "REG-91-13"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "REG-91-13",
+      "reference": "règlement n°91-13 du 14 août 1991",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 13,
+        "quote": "glement sont abrogées, notamment les règlements n°91-12 du 14 août 1991 relatif à la domiciliation des importations, le règlement n°91-13 du 14 août 1991 relatif à la domiciliation et au règlem"
+      }
+    }
+  ],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [
+    {
+      "work_id": "REG-16-02",
+      "document_id": "REG-16-02.fr",
+      "date": "2016-04-21",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Toutes dispositions contraires au présent règlement, notamment les articles 19 et 20 du règlement n° 07-01 février 2007 susvisé, sont abrogées."
+      }
+    },
+    {
+      "work_id": "REG-23-01",
+      "document_id": "REG-23-01.fr",
+      "date": "2023-09-21",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "Sont abrogées, toutes dispositions contraires au présent règlement, notamment celles de l’article 21 du règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007, modifi"
+      }
+    }
+  ],
+  "modifie_par": [
+    {
+      "work_id": "NOT-01-DGC-26",
+      "document_id": "NOT-01-DGC-26.fr",
+      "date": "2026-05-14",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "banques intermédiaires agréés qu'en application des dispositions de l'alinéa 3 de l'article 29, modifié et complété, du règlement n°07-01 du 03 février 2007 modifié et complété relatif aux règles"
+      }
+    },
+    {
+      "work_id": "REG-11-06",
+      "document_id": "REG-11-06.fr",
+      "date": "2011-10-19",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2011-06 du 19 octobre 2011 modifiant et complétant le règlement n°07-01 du 15 muharram 1428 correspondant au 03 février 2007 relati"
+      }
+    },
+    {
+      "work_id": "REG-11-06",
+      "document_id": "REG-11-06.fr",
+      "date": "2011-10-19",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 03 février 2007 relatif aux règles applicables aux tran"
+      }
+    },
+    {
+      "work_id": "REG-16-01",
+      "document_id": "REG-16-01.fr",
+      "date": "2016-03-06",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2016-01 du 6 mars 2016 modifiant et complétant le règlement n°2007-01 du 3 février 2007 relatif aux règles applicables aux tran"
+      }
+    },
+    {
+      "work_id": "REG-16-01",
+      "document_id": "REG-16-01.fr",
+      "date": "2016-03-06",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007, modifi"
+      }
+    },
+    {
+      "work_id": "REG-16-04",
+      "document_id": "REG-16-04.fr",
+      "date": "2016-11-17",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2016-04 du 17 novembre 2016 modifiant et complétant le règlement n°2007-01 du 3 février 2007 relatif aux règles applicables aux tran"
+      }
+    },
+    {
+      "work_id": "REG-16-04",
+      "document_id": "REG-16-04.fr",
+      "date": "2016-11-17",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modif"
+      }
+    },
+    {
+      "work_id": "REG-17-02",
+      "document_id": "REG-17-02.fr",
+      "date": "2017-09-25",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2017-02 du 25 septembre 2017 modifiant et complétant le règlement n°2007-01 du 03 février 2007 relatif aux règles applicables aux tran"
+      }
+    },
+    {
+      "work_id": "REG-17-02",
+      "document_id": "REG-17-02.fr",
+      "date": "2017-09-25",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modif"
+      }
+    },
+    {
+      "work_id": "REG-21-01",
+      "document_id": "REG-21-01.fr",
+      "date": "2021-03-28",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2021-01 du 28 mars 2021 modifiant et complétant le règlement n°2007-01 du 03 février 2007 relatif aux règles applicables aux tran"
+      }
+    },
+    {
+      "work_id": "REG-21-01",
+      "document_id": "REG-21-01.fr",
+      "date": "2021-03-28",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modif"
+      }
+    },
+    {
+      "work_id": "REG-26-02",
+      "document_id": "REG-26-02.fr",
+      "date": "2026-07-23",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n° 26-02 du 23 juillet 2026 modifiant et complétant le règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007 relatif"
+      }
+    },
+    {
+      "work_id": "REG-26-02",
+      "document_id": "REG-26-02.fr",
+      "date": "2026-07-23",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007, modifi"
+      }
+    }
+  ],
+  "complete_par": [
+    {
+      "work_id": "NOT-01-DGC-26",
+      "document_id": "NOT-01-DGC-26.fr",
+      "date": "2026-05-14",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "banques intermédiaires agréés qu'en application des dispositions de l'alinéa 3 de l'article 29, modifié et complété, du règlement n°07-01 du 03 février 2007 modifié et complété relatif aux règles"
+      }
+    },
+    {
+      "work_id": "REG-11-06",
+      "document_id": "REG-11-06.fr",
+      "date": "2011-10-19",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2011-06 du 19 octobre 2011 modifiant et complétant le règlement n°07-01 du 15 muharram 1428 correspondant au 03 février 2007 relati"
+      }
+    },
+    {
+      "work_id": "REG-11-06",
+      "document_id": "REG-11-06.fr",
+      "date": "2011-10-19",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 03 février 2007 relatif aux règles applicables aux tran"
+      }
+    },
+    {
+      "work_id": "REG-16-01",
+      "document_id": "REG-16-01.fr",
+      "date": "2016-03-06",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2016-01 du 6 mars 2016 modifiant et complétant le règlement n°2007-01 du 3 février 2007 relatif aux règles applicables aux tran"
+      }
+    },
+    {
+      "work_id": "REG-16-01",
+      "document_id": "REG-16-01.fr",
+      "date": "2016-03-06",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007, modifi"
+      }
+    },
+    {
+      "work_id": "REG-16-04",
+      "document_id": "REG-16-04.fr",
+      "date": "2016-11-17",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2016-04 du 17 novembre 2016 modifiant et complétant le règlement n°2007-01 du 3 février 2007 relatif aux règles applicables aux tran"
+      }
+    },
+    {
+      "work_id": "REG-16-04",
+      "document_id": "REG-16-04.fr",
+      "date": "2016-11-17",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modif"
+      }
+    },
+    {
+      "work_id": "REG-17-02",
+      "document_id": "REG-17-02.fr",
+      "date": "2017-09-25",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2017-02 du 25 septembre 2017 modifiant et complétant le règlement n°2007-01 du 03 février 2007 relatif aux règles applicables aux tran"
+      }
+    },
+    {
+      "work_id": "REG-17-02",
+      "document_id": "REG-17-02.fr",
+      "date": "2017-09-25",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modif"
+      }
+    },
+    {
+      "work_id": "REG-21-01",
+      "document_id": "REG-21-01.fr",
+      "date": "2021-03-28",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2021-01 du 28 mars 2021 modifiant et complétant le règlement n°2007-01 du 03 février 2007 relatif aux règles applicables aux tran"
+      }
+    },
+    {
+      "work_id": "REG-21-01",
+      "document_id": "REG-21-01.fr",
+      "date": "2021-03-28",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modif"
+      }
+    },
+    {
+      "work_id": "REG-26-02",
+      "document_id": "REG-26-02.fr",
+      "date": "2026-07-23",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n° 26-02 du 23 juillet 2026 modifiant et complétant le règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007 relatif"
+      }
+    },
+    {
+      "work_id": "REG-26-02",
+      "document_id": "REG-26-02.fr",
+      "date": "2026-07-23",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007, modifi"
+      }
+    }
+  ],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "REG-16-02",
+      "document_id": "REG-16-02.fr",
+      "date": "2016-04-21",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Toutes dispositions contraires au présent règlement, notamment les articles 19 et 20 du règlement n° 07-01 février 2007 susvisé, sont abrogées."
+      }
+    },
+    {
+      "work_id": "REG-23-01",
+      "document_id": "REG-23-01.fr",
+      "date": "2023-09-21",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "Sont abrogées, toutes dispositions contraires au présent règlement, notamment celles de l’article 21 du règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007, modifi"
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [
+    "REG-07-01.ar",
+    "REG-07-01.fr~2"
+  ],
+  "complété_par": [
+    {
+      "work_id": "NOT-01-DGC-26",
+      "document_id": "NOT-01-DGC-26.fr",
+      "date": "2026-05-14",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "banques intermédiaires agréés qu'en application des dispositions de l'alinéa 3 de l'article 29, modifié et complété, du règlement n°07-01 du 03 février 2007 modifié et complété relatif aux règles"
+      }
+    },
+    {
+      "work_id": "REG-11-06",
+      "document_id": "REG-11-06.fr",
+      "date": "2011-10-19",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2011-06 du 19 octobre 2011 modifiant et complétant le règlement n°07-01 du 15 muharram 1428 correspondant au 03 février 2007 relati"
+      }
+    },
+    {
+      "work_id": "REG-11-06",
+      "document_id": "REG-11-06.fr",
+      "date": "2011-10-19",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 03 février 2007 relatif aux règles applicables aux tran"
+      }
+    },
+    {
+      "work_id": "REG-16-01",
+      "document_id": "REG-16-01.fr",
+      "date": "2016-03-06",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2016-01 du 6 mars 2016 modifiant et complétant le règlement n°2007-01 du 3 février 2007 relatif aux règles applicables aux tran"
+      }
+    },
+    {
+      "work_id": "REG-16-01",
+      "document_id": "REG-16-01.fr",
+      "date": "2016-03-06",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007, modifi"
+      }
+    },
+    {
+      "work_id": "REG-16-04",
+      "document_id": "REG-16-04.fr",
+      "date": "2016-11-17",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2016-04 du 17 novembre 2016 modifiant et complétant le règlement n°2007-01 du 3 février 2007 relatif aux règles applicables aux tran"
+      }
+    },
+    {
+      "work_id": "REG-16-04",
+      "document_id": "REG-16-04.fr",
+      "date": "2016-11-17",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modif"
+      }
+    },
+    {
+      "work_id": "REG-17-02",
+      "document_id": "REG-17-02.fr",
+      "date": "2017-09-25",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2017-02 du 25 septembre 2017 modifiant et complétant le règlement n°2007-01 du 03 février 2007 relatif aux règles applicables aux tran"
+      }
+    },
+    {
+      "work_id": "REG-17-02",
+      "document_id": "REG-17-02.fr",
+      "date": "2017-09-25",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modif"
+      }
+    },
+    {
+      "work_id": "REG-21-01",
+      "document_id": "REG-21-01.fr",
+      "date": "2021-03-28",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2021-01 du 28 mars 2021 modifiant et complétant le règlement n°2007-01 du 03 février 2007 relatif aux règles applicables aux tran"
+      }
+    },
+    {
+      "work_id": "REG-21-01",
+      "document_id": "REG-21-01.fr",
+      "date": "2021-03-28",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modif"
+      }
+    },
+    {
+      "work_id": "REG-26-02",
+      "document_id": "REG-26-02.fr",
+      "date": "2026-07-23",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n° 26-02 du 23 juillet 2026 modifiant et complétant le règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007 relatif"
+      }
+    },
+    {
+      "work_id": "REG-26-02",
+      "document_id": "REG-26-02.fr",
+      "date": "2026-07-23",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007, modifi"
+      }
+    }
+  ],
+  "modifié_par": [
+    {
+      "work_id": "NOT-01-DGC-26",
+      "document_id": "NOT-01-DGC-26.fr",
+      "date": "2026-05-14",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "banques intermédiaires agréés qu'en application des dispositions de l'alinéa 3 de l'article 29, modifié et complété, du règlement n°07-01 du 03 février 2007 modifié et complété relatif aux règles"
+      }
+    },
+    {
+      "work_id": "REG-11-06",
+      "document_id": "REG-11-06.fr",
+      "date": "2011-10-19",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2011-06 du 19 octobre 2011 modifiant et complétant le règlement n°07-01 du 15 muharram 1428 correspondant au 03 février 2007 relati"
+      }
+    },
+    {
+      "work_id": "REG-11-06",
+      "document_id": "REG-11-06.fr",
+      "date": "2011-10-19",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 03 février 2007 relatif aux règles applicables aux tran"
+      }
+    },
+    {
+      "work_id": "REG-16-01",
+      "document_id": "REG-16-01.fr",
+      "date": "2016-03-06",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2016-01 du 6 mars 2016 modifiant et complétant le règlement n°2007-01 du 3 février 2007 relatif aux règles applicables aux tran"
+      }
+    },
+    {
+      "work_id": "REG-16-01",
+      "document_id": "REG-16-01.fr",
+      "date": "2016-03-06",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007, modifi"
+      }
+    },
+    {
+      "work_id": "REG-16-04",
+      "document_id": "REG-16-04.fr",
+      "date": "2016-11-17",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2016-04 du 17 novembre 2016 modifiant et complétant le règlement n°2007-01 du 3 février 2007 relatif aux règles applicables aux tran"
+      }
+    },
+    {
+      "work_id": "REG-16-04",
+      "document_id": "REG-16-04.fr",
+      "date": "2016-11-17",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modif"
+      }
+    },
+    {
+      "work_id": "REG-17-02",
+      "document_id": "REG-17-02.fr",
+      "date": "2017-09-25",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2017-02 du 25 septembre 2017 modifiant et complétant le règlement n°2007-01 du 03 février 2007 relatif aux règles applicables aux tran"
+      }
+    },
+    {
+      "work_id": "REG-17-02",
+      "document_id": "REG-17-02.fr",
+      "date": "2017-09-25",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modif"
+      }
+    },
+    {
+      "work_id": "REG-21-01",
+      "document_id": "REG-21-01.fr",
+      "date": "2021-03-28",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2021-01 du 28 mars 2021 modifiant et complétant le règlement n°2007-01 du 03 février 2007 relatif aux règles applicables aux tran"
+      }
+    },
+    {
+      "work_id": "REG-21-01",
+      "document_id": "REG-21-01.fr",
+      "date": "2021-03-28",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modif"
+      }
+    },
+    {
+      "work_id": "REG-26-02",
+      "document_id": "REG-26-02.fr",
+      "date": "2026-07-23",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n° 26-02 du 23 juillet 2026 modifiant et complétant le règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007 relatif"
+      }
+    },
+    {
+      "work_id": "REG-26-02",
+      "document_id": "REG-26-02.fr",
+      "date": "2026-07-23",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007, modifi"
+      }
+    }
+  ],
+  "abrogé_par": [
+    {
+      "work_id": "REG-16-02",
+      "document_id": "REG-16-02.fr",
+      "date": "2016-04-21",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Toutes dispositions contraires au présent règlement, notamment les articles 19 et 20 du règlement n° 07-01 février 2007 susvisé, sont abrogées."
+      }
+    },
+    {
+      "work_id": "REG-23-01",
+      "document_id": "REG-23-01.fr",
+      "date": "2023-09-21",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "Sont abrogées, toutes dispositions contraires au présent règlement, notamment celles de l’article 21 du règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007, modifi"
+      }
+    }
+  ],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "titre",
+      "label": "Titre I",
+      "number": null,
+      "heading": "DES PRINCIPES GÉNÉRAUX",
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 2",
+          "number": "2",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 3",
+          "number": "3",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 4",
+          "number": "4",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 5",
+          "number": "5",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 6",
+          "number": "6",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 7",
+          "number": "7",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 8",
+          "number": "8",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 9",
+          "number": "9",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 10",
+          "number": "10",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "titre",
+      "label": "Titre II",
+      "number": null,
+      "heading": "DES INTERMÉDIAIRES AGRÉES",
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 11",
+          "number": "11",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 12",
+          "number": "12",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 13",
+          "number": "13",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 14",
+          "number": "14",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 15",
+          "number": "15",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 16",
+          "number": "16",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "titre",
+      "label": "Titre III",
+      "number": null,
+      "heading": "DES MOYENS DE PAIEMENT ÉTRANGERS",
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 17",
+          "number": "17",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 18",
+          "number": "18",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 4,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 19",
+          "number": "19",
+          "heading": null,
+          "page_start": 4,
+          "page_end": 4,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 20",
+          "number": "20",
+          "heading": null,
+          "page_start": 4,
+          "page_end": 4,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 21",
+          "number": "21",
+          "heading": null,
+          "page_start": 4,
+          "page_end": 4,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "titre",
+      "label": "Titre IV",
+      "number": null,
+      "heading": "DES COMPTES DEVISES",
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 22",
+          "number": "22",
+          "heading": null,
+          "page_start": 4,
+          "page_end": 4,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 23",
+          "number": "23",
+          "heading": null,
+          "page_start": 4,
+          "page_end": 4,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 24",
+          "number": "24",
+          "heading": null,
+          "page_start": 4,
+          "page_end": 4,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 25",
+          "number": "25",
+          "heading": null,
+          "page_start": 4,
+          "page_end": 4,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 26",
+          "number": "26",
+          "heading": null,
+          "page_start": 5,
+          "page_end": 5,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 27",
+          "number": "27",
+          "heading": null,
+          "page_start": 5,
+          "page_end": 5,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 28",
+          "number": "28",
+          "heading": null,
+          "page_start": 5,
+          "page_end": 5,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 29",
+          "number": "29",
+          "heading": null,
+          "page_start": 5,
+          "page_end": 5,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 30",
+          "number": "30",
+          "heading": null,
+          "page_start": 5,
+          "page_end": 5,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 31",
+          "number": "31",
+          "heading": null,
+          "page_start": 5,
+          "page_end": 5,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 32",
+          "number": "32",
+          "heading": null,
+          "page_start": 5,
+          "page_end": 5,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 33",
+          "number": "33",
+          "heading": null,
+          "page_start": 5,
+          "page_end": 6,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 34",
+          "number": "34",
+          "heading": null,
+          "page_start": 6,
+          "page_end": 6,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 35",
+          "number": "35",
+          "heading": null,
+          "page_start": 6,
+          "page_end": 6,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 36",
+          "number": "36",
+          "heading": null,
+          "page_start": 6,
+          "page_end": 6,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 37",
+          "number": "37",
+          "heading": null,
+          "page_start": 6,
+          "page_end": 6,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 38",
+          "number": "38",
+          "heading": null,
+          "page_start": 6,
+          "page_end": 6,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 39",
+          "number": "39",
+          "heading": null,
+          "page_start": 6,
+          "page_end": 6,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 40",
+          "number": "40",
+          "heading": null,
+          "page_start": 6,
+          "page_end": 6,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 41",
+          "number": "41",
+          "heading": null,
+          "page_start": 6,
+          "page_end": 7,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 42",
+          "number": "42",
+          "heading": null,
+          "page_start": 7,
+          "page_end": 7,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 43",
+          "number": "43",
+          "heading": null,
+          "page_start": 7,
+          "page_end": 7,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 44",
+          "number": "44",
+          "heading": null,
+          "page_start": 7,
+          "page_end": 7,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 45",
+          "number": "45",
+          "heading": null,
+          "page_start": 7,
+          "page_end": 7,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 46",
+          "number": "46",
+          "heading": null,
+          "page_start": 7,
+          "page_end": 7,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 47",
+          "number": "47",
+          "heading": null,
+          "page_start": 7,
+          "page_end": 7,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 48",
+          "number": "48",
+          "heading": null,
+          "page_start": 8,
+          "page_end": 8,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 49",
+          "number": "49",
+          "heading": null,
+          "page_start": 8,
+          "page_end": 8,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 50",
+          "number": "50",
+          "heading": null,
+          "page_start": 8,
+          "page_end": 8,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 51",
+          "number": "51",
+          "heading": null,
+          "page_start": 8,
+          "page_end": 8,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 52",
+          "number": "52",
+          "heading": null,
+          "page_start": 8,
+          "page_end": 8,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 53",
+          "number": "53",
+          "heading": null,
+          "page_start": 8,
+          "page_end": 9,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 54",
+          "number": "54",
+          "heading": null,
+          "page_start": 9,
+          "page_end": 9,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 55",
+          "number": "55",
+          "heading": null,
+          "page_start": 9,
+          "page_end": 9,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 56",
+          "number": "56",
+          "heading": null,
+          "page_start": 9,
+          "page_end": 9,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 57",
+          "number": "57",
+          "heading": null,
+          "page_start": 9,
+          "page_end": 9,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 58",
+          "number": "58",
+          "heading": null,
+          "page_start": 9,
+          "page_end": 9,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 59",
+          "number": "59",
+          "heading": null,
+          "page_start": 9,
+          "page_end": 9,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 60",
+          "number": "60",
+          "heading": null,
+          "page_start": 9,
+          "page_end": 9,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 61",
+          "number": "61",
+          "heading": null,
+          "page_start": 10,
+          "page_end": 10,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 62",
+          "number": "62",
+          "heading": null,
+          "page_start": 10,
+          "page_end": 10,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 63",
+          "number": "63",
+          "heading": null,
+          "page_start": 10,
+          "page_end": 10,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 64",
+          "number": "64",
+          "heading": null,
+          "page_start": 10,
+          "page_end": 10,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 65",
+          "number": "65",
+          "heading": null,
+          "page_start": 10,
+          "page_end": 10,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 66",
+          "number": "66",
+          "heading": null,
+          "page_start": 10,
+          "page_end": 10,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 67",
+          "number": "67",
+          "heading": null,
+          "page_start": 10,
+          "page_end": 10,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 68",
+          "number": "68",
+          "heading": null,
+          "page_start": 11,
+          "page_end": 11,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 69",
+          "number": "69",
+          "heading": null,
+          "page_start": 11,
+          "page_end": 11,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 70",
+          "number": "70",
+          "heading": null,
+          "page_start": 11,
+          "page_end": 11,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 71",
+          "number": "71",
+          "heading": null,
+          "page_start": 11,
+          "page_end": 11,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 72",
+          "number": "72",
+          "heading": null,
+          "page_start": 11,
+          "page_end": 11,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 73",
+          "number": "73",
+          "heading": null,
+          "page_start": 11,
+          "page_end": 11,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 74",
+          "number": "74",
+          "heading": null,
+          "page_start": 11,
+          "page_end": 11,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "titre",
+      "label": "Titre VI",
+      "number": null,
+      "heading": "AUTRES OPÉRATIONS COURANTES",
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 75",
+          "number": "75",
+          "heading": null,
+          "page_start": 12,
+          "page_end": 12,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 76",
+          "number": "76",
+          "heading": null,
+          "page_start": 12,
+          "page_end": 12,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 77",
+          "number": "77",
+          "heading": null,
+          "page_start": 12,
+          "page_end": 12,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 78",
+          "number": "78",
+          "heading": null,
+          "page_start": 12,
+          "page_end": 12,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 79",
+          "number": "79",
+          "heading": null,
+          "page_start": 12,
+          "page_end": 12,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 80",
+          "number": "80",
+          "heading": null,
+          "page_start": 12,
+          "page_end": 12,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 81",
+          "number": "81",
+          "heading": null,
+          "page_start": 12,
+          "page_end": 12,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "titre",
+      "label": "Titre VII",
+      "number": null,
+      "heading": "DISPOSITIONS DIVERSES",
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 82",
+          "number": "82",
+          "heading": null,
+          "page_start": 13,
+          "page_end": 13,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 83",
+          "number": "83",
+          "heading": null,
+          "page_start": 13,
+          "page_end": 13,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 84",
+          "number": "84",
+          "heading": null,
+          "page_start": 13,
+          "page_end": 13,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 85",
+          "number": "85",
+          "heading": null,
+          "page_start": 13,
+          "page_end": 13,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 86",
+          "number": "86",
+          "heading": null,
+          "page_start": 13,
+          "page_end": 13,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 87",
+          "number": "87",
+          "heading": null,
+          "page_start": 13,
+          "page_end": 13,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°2007-01 DU 03 FÉVRIER 2007 RELATIF\nAUX RÈGLES APPLICABLES AUX TRANSACTIONS COURANTES\nAVEC L'ÉTRANGER ET AUX COMPTES DEVISES\nLe Gouverneur de la Banque d'Algérie,\n- Vu l'Ordonnance n° 03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003 relative à la monnaie et au crédit, notamment son article 62, point m ;\n- Vu l'Ordonnance n° 75-59 du 26 septembre 1975, portant code de commerce, modifiée et complétée ;\n- Vu la Loi de finances pour 1985, en son article 156, modifiée ;\n- Vu l'Ordonnance n° 96-09 du 19 chaâbane 1416 correspondant au 10 Janvier 1996 relative au crédit-bail ;\n- Vu l'Ordonnance n° 96-22 du 23 Safar 1417 correspondant au 9 juillet 1996 relative à la répression de l'infraction à la législation et à la réglementation des changes et des mouvements de capitaux de et vers l'étranger, modifiée et complétée ;\n- Vu la Loi n° 98-10 du 29 Rabie Ethani 1419 correspondant au 22 août 1998 modifiant et complétant la Loi n° 79-07 du 21 juillet 1979 portant code des douanes, modifiée et complétée ;\n- Vu l'Ordonnance n° 01-03 du Aouel Joumada Ethania 1422 correspondant au 20 août 2001 relative au développement des investissements ;\n- Vu l'Ordonnance n° 03-04 du 19 Joumada El Oula 1424 correspondant au 19 juillet 2003 relative aux règles générales applicables aux opérations d'importation et d'exportation de marchandises ;\n- Vu la Loi n° 05-01 du 27 Dhou El Hidja 1425 correspondant au 6 février 2005 relative à la prévention et à la lutte contre le blanchiment d'argent et le financement du terrorisme ;\n- Vu l'Ordonnance n° 05-05 du 18 Joumada Ethania 1426 correspondant au 25 juillet 2005 portant Loi de finances complémentaire pour 2005 ;\n- Vu la Loi n°05-07 du 19 Rabie El Aouel 1426 correspondant au 28 Avril 2005 relative aux hydrocarbures, modifiée et complétée ;\n- Vu le Décret Présidentiel du 10 Rabie El Aouel 1422 correspondant au 2 juin 2001 portant nomination du Gouverneur et Vice-Gouverneurs de la Banque d'Algérie ;\n- Vu le Décret Présidentiel du 10 Rabie El Aouel 1422 correspondant au 2 juin 2001 portant nomination des membres du Conseil d'Administration de la Banque d'Algérie ;\n- Vu le Décret Présidentiel du 26 Chaâbane 1423 correspondant au 02 novembre 2002 portant nomination d'un membre du Conseil d'Administration de la Banque d'Algérie ;\n- Vu le Décret Présidentiel du 24 Dhu Al Quida 1424 correspondant au 14 janvier 2004 portant nomination des membres du Conseil de la Monnaie et du Crédit de la Banque d'Algérie ;\n- Vu le Décret Présidentiel du 05 Djoumada El Oula 1427 correspondant au 1ier\nJuin 2006, portant nomination d'un Vice-Gouverneur de la Banque d'Algérie ;\n- Vu le Règlement n° 95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n° 92-04 du 22 mars 1992 relatif au contrôle des changes ;\n- Vu le Règlement n° 91-12 du 14 août 1991 relatif à la domiciliation des importations ;\n- Vu le Règlement n° 91-13 du 14 août 1991 relatif à la domiciliation et au règlement financier des exportations hors hydrocarbures ;\n- Vu les délibérations du Conseil de la Monnaie et du Crédit en date du 09 Janvier 2007 et 03\nFévrier 2007 ;\nPromulgue le règlement dont la teneur suit :\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°2007-01 DU 03 FÉVRIER 2007 RELATIF",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AUX RÈGLES APPLICABLES AUX TRANSACTIONS COURANTES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AVEC L'ÉTRANGER ET AUX COMPTES DEVISES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d'Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l'Ordonnance n° 03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003 relative à la monnaie et au crédit, notamment son article 62, point m ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l'Ordonnance n° 75-59 du 26 septembre 1975, portant code de commerce, modifiée et complétée ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la Loi de finances pour 1985, en son article 156, modifiée ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l'Ordonnance n° 96-09 du 19 chaâbane 1416 correspondant au 10 Janvier 1996 relative au crédit-bail ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l'Ordonnance n° 96-22 du 23 Safar 1417 correspondant au 9 juillet 1996 relative à la répression de l'infraction à la législation et à la réglementation des changes et des mouvements de capitaux de et vers l'étranger, modifiée et complétée ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la Loi n° 98-10 du 29 Rabie Ethani 1419 correspondant au 22 août 1998 modifiant et complétant la Loi n° 79-07 du 21 juillet 1979 portant code des douanes, modifiée et complétée ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l'Ordonnance n° 01-03 du Aouel Joumada Ethania 1422 correspondant au 20 août 2001 relative au développement des investissements ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l'Ordonnance n° 03-04 du 19 Joumada El Oula 1424 correspondant au 19 juillet 2003 relative aux règles générales applicables aux opérations d'importation et d'exportation de marchandises ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la Loi n° 05-01 du 27 Dhou El Hidja 1425 correspondant au 6 février 2005 relative à la prévention et à la lutte contre le blanchiment d'argent et le financement du terrorisme ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l'Ordonnance n° 05-05 du 18 Joumada Ethania 1426 correspondant au 25 juillet 2005 portant Loi de finances complémentaire pour 2005 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la Loi n°05-07 du 19 Rabie El Aouel 1426 correspondant au 28 Avril 2005 relative aux hydrocarbures, modifiée et complétée ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 10 Rabie El Aouel 1422 correspondant au 2 juin 2001 portant nomination du Gouverneur et Vice-Gouverneurs de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 10 Rabie El Aouel 1422 correspondant au 2 juin 2001 portant nomination des membres du Conseil d'Administration de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 26 Chaâbane 1423 correspondant au 02 novembre 2002 portant nomination d'un membre du Conseil d'Administration de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 24 Dhu Al Quida 1424 correspondant au 14 janvier 2004 portant nomination des membres du Conseil de la Monnaie et du Crédit de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 05 Djoumada El Oula 1427 correspondant au 1ier",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Juin 2006, portant nomination d'un Vice-Gouverneur de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Règlement n° 95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n° 92-04 du 22 mars 1992 relatif au contrôle des changes ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Règlement n° 91-12 du 14 août 1991 relatif à la domiciliation des importations ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Règlement n° 91-13 du 14 août 1991 relatif à la domiciliation et au règlement financier des exportations hors hydrocarbures ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu les délibérations du Conseil de la Monnaie et du Crédit en date du 09 Janvier 2007 et 03",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Février 2007 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le présent règlement a pour objet de définir le principe de la convertibilité de la monnaie nationale pour les transactions internationales courantes et les règles applicables en matière de transfert de et vers l'étranger liées à ces transactions ainsi que les droits et obligations des opérateurs du commerce extérieur et des intermédiaires agréés en la matière.",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement a pour objet de définir le principe de la convertibilité de la monnaie nationale pour les transactions internationales courantes et les règles applicables en matière de transfert de et vers l'étranger liées à ces transactions ainsi que les droits et obligations des opérateurs du commerce extérieur et des intermédiaires agréés en la matière.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "I",
+          "heading": "DES PRINCIPES GÉNÉRAUX",
+          "label": "Titre I"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Au sens du présent règlement, sont considérées comme :\n- résidentes en Algérie les personnes physiques et morales qui y ont le centre principal de leurs activités économiques ;\n- non résidentes les personnes physiques et morales dont le centre principal des activités économiques est situé hors d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "Au sens du présent règlement, sont considérées comme :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- résidentes en Algérie les personnes physiques et morales qui y ont le centre principal de leurs activités économiques ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- non résidentes les personnes physiques et morales dont le centre principal des activités économiques est situé hors d'Algérie.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "I",
+          "heading": "DES PRINCIPES GÉNÉRAUX",
+          "label": "Titre I"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Sans préjudice des dispositions légales et réglementaires en vigueur, les paiements et transferts afférents aux transactions internationales courantes sont libres.\nIls s'effectuent par les intermédiaires agréés.",
+      "paragraphs": [
+        {
+          "text": "Sans préjudice des dispositions légales et réglementaires en vigueur, les paiements et transferts afférents aux transactions internationales courantes sont libres.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Ils s'effectuent par les intermédiaires agréés.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "I",
+          "heading": "DES PRINCIPES GÉNÉRAUX",
+          "label": "Titre I"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Il est entendu, au sens du présent règlement, par paiements et transferts afférents aux transactions internationales courantes, notamment :\n- les paiements et transferts effectués au titre des opérations du commerce extérieur sur les biens, les services notamment l'assistance technique et les opérations courantes liées à la production ;\n- les paiements effectués au titre d'intérêts sur des prêts et revenus nets d'autres investissements ;\n- les remboursements d'emprunts.",
+      "paragraphs": [
+        {
+          "text": "Il est entendu, au sens du présent règlement, par paiements et transferts afférents aux transactions internationales courantes, notamment :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les paiements et transferts effectués au titre des opérations du commerce extérieur sur les biens, les services notamment l'assistance technique et les opérations courantes liées à la production ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les paiements effectués au titre d'intérêts sur des prêts et revenus nets d'autres investissements ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les remboursements d'emprunts.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "I",
+          "heading": "DES PRINCIPES GÉNÉRAUX",
+          "label": "Titre I"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Toute facturation ou vente de biens et services sur le territoire douanier national s'effectue en dinars algériens sauf cas prévus par la réglementation en vigueur.",
+      "paragraphs": [
+        {
+          "text": "Toute facturation ou vente de biens et services sur le territoire douanier national s'effectue en dinars algériens sauf cas prévus par la réglementation en vigueur.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "I",
+          "heading": "DES PRINCIPES GÉNÉRAUX",
+          "label": "Titre I"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Sauf autorisation expresse de la Banque d'Algérie, l'exportation de même que l'importation de tout titre de créance, valeur mobilière ou moyen de paiement libellé en monnaie nationale sont interdites.\nToutefois, les voyageurs sont autorisés à exporter et/ou importer la monnaie fiduciaire en dinars algériens, dans la limite d'un montant fixé par instruction de la Banque d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "Sauf autorisation expresse de la Banque d'Algérie, l'exportation de même que l'importation de tout titre de créance, valeur mobilière ou moyen de paiement libellé en monnaie nationale sont interdites.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Toutefois, les voyageurs sont autorisés à exporter et/ou importer la monnaie fiduciaire en dinars algériens, dans la limite d'un montant fixé par instruction de la Banque d'Algérie.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "I",
+          "heading": "DES PRINCIPES GÉNÉRAUX",
+          "label": "Titre I"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le Conseil de la Monnaie et du Crédit délègue l'application de la réglementation des changes aux banques et établissements financiers, intermédiaires agréés, seuls habilités à traiter les opérations de commerce extérieur et de change. Ces derniers doivent veiller à leur régularité au regard de la législation et de la réglementation en vigueur.\nLes services financiers d'Algérie Poste sont habilités, dans la limite des prérogatives qui leurs sont dévolues par la loi qui leur est applicable, à effectuer certains paiements et transferts/rapatriements de fonds.\nLa Banque d'Algérie exerce un contrôle a posteriori pour s'assurer de la régularité des opérations effectuées dans le cadre du présent règlement.",
+      "paragraphs": [
+        {
+          "text": "Le Conseil de la Monnaie et du Crédit délègue l'application de la réglementation des changes aux banques et établissements financiers, intermédiaires agréés, seuls habilités à traiter les opérations de commerce extérieur et de change. Ces derniers doivent veiller à leur régularité au regard de la législation et de la réglementation en vigueur.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Les services financiers d'Algérie Poste sont habilités, dans la limite des prérogatives qui leurs sont dévolues par la loi qui leur est applicable, à effectuer certains paiements et transferts/rapatriements de fonds.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "La Banque d'Algérie exerce un contrôle a posteriori pour s'assurer de la régularité des opérations effectuées dans le cadre du présent règlement.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "I",
+          "heading": "DES PRINCIPES GÉNÉRAUX",
+          "label": "Titre I"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Hormis les cas expressément prévus par l'article 126 de l'Ordonnance N°0311 susvisée, la constitution d'avoirs monétaires, financiers et immobiliers à l'étranger par les résidents à partir de leurs activités en Algérie est interdite.",
+      "paragraphs": [
+        {
+          "text": "Hormis les cas expressément prévus par l'article 126 de l'Ordonnance N°0311 susvisée, la constitution d'avoirs monétaires, financiers et immobiliers à l'étranger par les résidents à partir de leurs activités en Algérie est interdite.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "I",
+          "heading": "DES PRINCIPES GÉNÉRAUX",
+          "label": "Titre I"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Toutes les ressources en devises rapatriées provenant des exportations des hydrocarbures et produits miniers ainsi que celles des emprunts bilatéraux, multilatéraux ou libres destinées au financement de la balance des paiements sont obligatoirement cédées à la Banque d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "Toutes les ressources en devises rapatriées provenant des exportations des hydrocarbures et produits miniers ainsi que celles des emprunts bilatéraux, multilatéraux ou libres destinées au financement de la balance des paiements sont obligatoirement cédées à la Banque d'Algérie.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "I",
+          "heading": "DES PRINCIPES GÉNÉRAUX",
+          "label": "Titre I"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "La gestion des ressources en devises du pays provenant du rapatriement des recettes des exportations des hydrocarbures et produits miniers ainsi que celles provenant des emprunts bilatéraux, multilatéraux ou libres et destinés au financement de la balance des paiements relève des attributions de la Banque d'Algérie.\nLa gestion des ressources en devises du pays laissées par la Banque d'Algérie à la disposition des intermédiaires agréés relève des attributions de ces derniers.",
+      "paragraphs": [
+        {
+          "text": "La gestion des ressources en devises du pays provenant du rapatriement des recettes des exportations des hydrocarbures et produits miniers ainsi que celles provenant des emprunts bilatéraux, multilatéraux ou libres et destinés au financement de la balance des paiements relève des attributions de la Banque d'Algérie.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "La gestion des ressources en devises du pays laissées par la Banque d'Algérie à la disposition des intermédiaires agréés relève des attributions de ces derniers.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "II",
+          "heading": "DES INTERMÉDIAIRES AGRÉES",
+          "label": "Titre II"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Toute banque et tout établissement financier autorisé conformément aux dispositions du titre IV de l'Ordonnance n°03-11 susvisée, peut avoir la qualité d'intermédiaire agréé pour effectuer les opérations de commerce extérieur et de change.",
+      "paragraphs": [
+        {
+          "text": "Toute banque et tout établissement financier autorisé conformément aux dispositions du titre IV de l'Ordonnance n°03-11 susvisée, peut avoir la qualité d'intermédiaire agréé pour effectuer les opérations de commerce extérieur et de change.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "II",
+          "heading": "DES INTERMÉDIAIRES AGRÉES",
+          "label": "Titre II"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "La qualité d'intermédiaire agréé est obtenue dans le cadre de l'agrément délivré par le Gouverneur de la Banque d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "La qualité d'intermédiaire agréé est obtenue dans le cadre de l'agrément délivré par le Gouverneur de la Banque d'Algérie.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "II",
+          "heading": "DES INTERMÉDIAIRES AGRÉES",
+          "label": "Titre II"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "L'agrément visé à l'article 12 fait l'objet d'une publication au Journal Officiel et d'une notification.\nA l'effet de traiter des opérations de commerce extérieur et de change, chaque guichet des intermédiaires agréés est soumis à une immatriculation par la Banque d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "L'agrément visé à l'article 12 fait l'objet d'une publication au Journal Officiel et d'une notification.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "A l'effet de traiter des opérations de commerce extérieur et de change, chaque guichet des intermédiaires agréés est soumis à une immatriculation par la Banque d'Algérie.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "II",
+          "heading": "DES INTERMÉDIAIRES AGRÉES",
+          "label": "Titre II"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Les intermédiaires agréés sont tenus d'assurer à leurs clients, en toute égalité de traitement, les opérations objet du présent Règlement, pour lesquelles ils sont agréés.\nSauf cas d'insolvabilité établie, le client dispose d'un droit de recours auprès de la\nCommission Bancaire pour tout litige en la matière qui l'oppose à l'intermédiaire agréé.",
+      "paragraphs": [
+        {
+          "text": "Les intermédiaires agréés sont tenus d'assurer à leurs clients, en toute égalité de traitement, les opérations objet du présent Règlement, pour lesquelles ils sont agréés.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Sauf cas d'insolvabilité établie, le client dispose d'un droit de recours auprès de la",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Commission Bancaire pour tout litige en la matière qui l'oppose à l'intermédiaire agréé.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "II",
+          "heading": "DES INTERMÉDIAIRES AGRÉES",
+          "label": "Titre II"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "La Banque d'Algérie peut prononcer des mesures à titre conservatoire à l'encontre de tout guichet ou opérateur de commerce extérieur qui contrevient aux dispositions de la législation et la réglementation des changes.",
+      "paragraphs": [
+        {
+          "text": "La Banque d'Algérie peut prononcer des mesures à titre conservatoire à l'encontre de tout guichet ou opérateur de commerce extérieur qui contrevient aux dispositions de la législation et la réglementation des changes.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 16",
+      "number": "16",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "II",
+          "heading": "DES INTERMÉDIAIRES AGRÉES",
+          "label": "Titre II"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "La Commission Bancaire peut décider du retrait de la qualité d'intermédiaire agréé, au titre des opérations du commerce extérieur et de change, au titulaire de cette qualité, en cas de pratiques contraires à la législation et la réglementation des changes.",
+      "paragraphs": [
+        {
+          "text": "La Commission Bancaire peut décider du retrait de la qualité d'intermédiaire agréé, au titre des opérations du commerce extérieur et de change, au titulaire de cette qualité, en cas de pratiques contraires à la législation et la réglementation des changes.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 17",
+      "number": "17",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "III",
+          "heading": "DES MOYENS DE PAIEMENT ÉTRANGERS",
+          "label": "Titre III"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Tout résident est autorisé à acquérir et détenir en Algérie, dans les conditions prévues ci-après, des moyens de paiement libellés en monnaies étrangères librement convertibles.\nCes moyens de paiement ne peuvent être acquis, négociés et déposés en Algérie qu'auprès des intermédiaires agréés, sauf les cas prévus par la réglementation en vigueur ou autorisés par la Banque d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "Tout résident est autorisé à acquérir et détenir en Algérie, dans les conditions prévues ci-après, des moyens de paiement libellés en monnaies étrangères librement convertibles.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Ces moyens de paiement ne peuvent être acquis, négociés et déposés en Algérie qu'auprès des intermédiaires agréés, sauf les cas prévus par la réglementation en vigueur ou autorisés par la Banque d'Algérie.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 18",
+      "number": "18",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "III",
+          "heading": "DES MOYENS DE PAIEMENT ÉTRANGERS",
+          "label": "Titre III"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 4,
+      "text": "Constituent des moyens de paiement au sens de l'article 17 ci-dessus :\n- les billets de banque ;\n- les chèques de voyage ;\n- les chèques bancaires ou postaux ;\n- les lettres de crédit ;\n- les effets de commerce ;\n- tout autre moyen ou instrument de paiement libellé en monnaie étrangère librement convertible, quel que soit le support utilisé.",
+      "paragraphs": [
+        {
+          "text": "Constituent des moyens de paiement au sens de l'article 17 ci-dessus :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- les billets de banque ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- les chèques de voyage ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- les chèques bancaires ou postaux ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- les lettres de crédit ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- les effets de commerce ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- tout autre moyen ou instrument de paiement libellé en monnaie étrangère librement convertible, quel que soit le support utilisé.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 19",
+      "number": "19",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "III",
+          "heading": "DES MOYENS DE PAIEMENT ÉTRANGERS",
+          "label": "Titre III"
+        }
+      },
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Tout voyageur entrant en Algérie est autorisé à importer des billets de banque étrangers et des chèques de voyage, sous réserve d'une déclaration en douanes pour tout montant supérieure à un seuil fixé par Instruction de la Banque d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "Tout voyageur entrant en Algérie est autorisé à importer des billets de banque étrangers et des chèques de voyage, sous réserve d'une déclaration en douanes pour tout montant supérieure à un seuil fixé par Instruction de la Banque d'Algérie.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 20",
+      "number": "20",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "III",
+          "heading": "DES MOYENS DE PAIEMENT ÉTRANGERS",
+          "label": "Titre III"
+        }
+      },
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Tout voyageur sortant d'Algérie est autorisé à exporter tout montant en billets de banque étrangers ou en chèques de voyage, à concurrence :\n- pour les non-résidents : du montant déclaré à l'entrée diminué des sommes régulièrement cédées aux intermédiaires agréés et bureaux de change ;\n- pour les résidents : des prélèvements effectués sur comptes devises dans la limite du plafond fixé par Instruction de la Banque d'Algérie et/ou des montants couverts par une autorisation de change.",
+      "paragraphs": [
+        {
+          "text": "Tout voyageur sortant d'Algérie est autorisé à exporter tout montant en billets de banque étrangers ou en chèques de voyage, à concurrence :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- pour les non-résidents : du montant déclaré à l'entrée diminué des sommes régulièrement cédées aux intermédiaires agréés et bureaux de change ;",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- pour les résidents : des prélèvements effectués sur comptes devises dans la limite du plafond fixé par Instruction de la Banque d'Algérie et/ou des montants couverts par une autorisation de change.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 21",
+      "number": "21",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "III",
+          "heading": "DES MOYENS DE PAIEMENT ÉTRANGERS",
+          "label": "Titre III"
+        }
+      },
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Les opérations de change entre dinars algériens et monnaies étrangères librement convertibles ne peuvent être effectuées qu'auprès d'intermédiaires agréés et/ou de la Banque d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "Les opérations de change entre dinars algériens et monnaies étrangères librement convertibles ne peuvent être effectuées qu'auprès d'intermédiaires agréés et/ou de la Banque d'Algérie.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 22",
+      "number": "22",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Toute personne physique ou morale, résidente ou non résidente, est autorisée à ouvrir un ou plusieurs comptes devises à vue et/ou à terme auprès des banques intermédiaires agréés.\nLes intermédiaires agréés peuvent détenir des comptes devises auprès de la Banque d'Algérie.\nLes comptes devises sont alimentés en moyens de paiements étrangers au sens de l'article 18 du présent règlement.",
+      "paragraphs": [
+        {
+          "text": "Toute personne physique ou morale, résidente ou non résidente, est autorisée à ouvrir un ou plusieurs comptes devises à vue et/ou à terme auprès des banques intermédiaires agréés.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Les intermédiaires agréés peuvent détenir des comptes devises auprès de la Banque d'Algérie.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Les comptes devises sont alimentés en moyens de paiements étrangers au sens de l'article 18 du présent règlement.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 23",
+      "number": "23",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Les conditions de fonctionnement et de gestion des comptes devises sont définies par Instruction de la Banque d'Algérie.\nTITRES V - DES RÈGLES APPLICABLES AUX OPÉRATIONS DE COMMERCE\nEXTÉRIEUR SUR BIENS ET SERVICES\n1. Règles générales :",
+      "paragraphs": [
+        {
+          "text": "Les conditions de fonctionnement et de gestion des comptes devises sont définies par Instruction de la Banque d'Algérie.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "TITRES V - DES RÈGLES APPLICABLES AUX OPÉRATIONS DE COMMERCE",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "EXTÉRIEUR SUR BIENS ET SERVICES",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "1. Règles générales :",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 24",
+      "number": "24",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Les opérateurs de commerce extérieur visés à l'article 1er ci-dessus sont :\n- les personnes physiques ou morales exerçant une activité économique conformément à la législation et à la réglementation en vigueur ;\n- les administrations, organismes et institutions de l'Etat.",
+      "paragraphs": [
+        {
+          "text": "Les opérateurs de commerce extérieur visés à l'article 1er ci-dessus sont :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- les personnes physiques ou morales exerçant une activité économique conformément à la législation et à la réglementation en vigueur ;",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- les administrations, organismes et institutions de l'Etat.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 25",
+      "number": "25",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Les opérations de commerce extérieur sont les transactions sur biens et services régies par un contrat commercial, dont :\n- le montant, les droits et obligations des parties contractantes sont définis et fixés ;\n- la contrepartie du transfert et la régularité de l'opération sont définies et établies.\nLes dispositions du présent règlement s'appliquent également aux prestations liées aux opérations de transformation, de traitement à façon, d'ouvraison ou de réparation.",
+      "paragraphs": [
+        {
+          "text": "Les opérations de commerce extérieur sont les transactions sur biens et services régies par un contrat commercial, dont :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- le montant, les droits et obligations des parties contractantes sont définis et fixés ;",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- la contrepartie du transfert et la régularité de l'opération sont définies et établies.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Les dispositions du présent règlement s'appliquent également aux prestations liées aux opérations de transformation, de traitement à façon, d'ouvraison ou de réparation.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 26",
+      "number": "26",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 5,
+      "text": "Le contrat commercial ou tout autre document tenant lieu de justificatif du transfert de propriété et/ou de cession d'un bien ou de prestation de service entre un opérateur résident et un opérateur non-résident, doit indiquer notamment :\n- les noms et adresses des cocontractants ;\n- le pays d'origine, de provenance et de destination des biens ou services ;\n- la nature des biens et services ;\n- la quantité, la qualité et les spécifications techniques ;\n- le prix de cession des biens et des services dans la monnaie de facturation et de paiement du contrat ;\n- les délais de livraison pour les biens et de réalisation pour les services ;\n- les clauses du contrat pour la prise en charge des risques et autres frais accessoires ;\n- les conditions de paiement.",
+      "paragraphs": [
+        {
+          "text": "Le contrat commercial ou tout autre document tenant lieu de justificatif du transfert de propriété et/ou de cession d'un bien ou de prestation de service entre un opérateur résident et un opérateur non-résident, doit indiquer notamment :",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- les noms et adresses des cocontractants ;",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- le pays d'origine, de provenance et de destination des biens ou services ;",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- la nature des biens et services ;",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- la quantité, la qualité et les spécifications techniques ;",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- le prix de cession des biens et des services dans la monnaie de facturation et de paiement du contrat ;",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- les délais de livraison pour les biens et de réalisation pour les services ;",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- les clauses du contrat pour la prise en charge des risques et autres frais accessoires ;",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- les conditions de paiement.",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 27",
+      "number": "27",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 5,
+      "text": "Sauf dispositions législatives ou réglementaires contraires, l'ensemble des termes commerciaux (INCOTERM) repris dans les Règles et Usances de la Chambre du\nCommerce International peut être inscrit dans les contrats commerciaux.",
+      "paragraphs": [
+        {
+          "text": "Sauf dispositions législatives ou réglementaires contraires, l'ensemble des termes commerciaux (INCOTERM) repris dans les Règles et Usances de la Chambre du",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Commerce International peut être inscrit dans les contrats commerciaux.",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 28",
+      "number": "28",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 5,
+      "text": "Les modes de règlement sont ceux universellement admis.\nL'intermédiaire agréé doit s'assurer de la véracité des documents fournis, de la licéité du contrat commercial et de sa réalisation.",
+      "paragraphs": [
+        {
+          "text": "Les modes de règlement sont ceux universellement admis.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "L'intermédiaire agréé doit s'assurer de la véracité des documents fournis, de la licéité du contrat commercial et de sa réalisation.",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 29",
+      "number": "29",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 5,
+      "text": "A l'exception des opérations en transit et des opérations visées à l'article 33 ci-dessous, toute opération d'importation ou d'exportation de biens ou de services est soumise à l'obligation de domiciliation auprès d'un intermédiaire agréé.\nLa domiciliation est préalable à tout transfert/rapatriement de fonds, engagement et/ou au dédouanement.",
+      "paragraphs": [
+        {
+          "text": "A l'exception des opérations en transit et des opérations visées à l'article 33 ci-dessous, toute opération d'importation ou d'exportation de biens ou de services est soumise à l'obligation de domiciliation auprès d'un intermédiaire agréé.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "La domiciliation est préalable à tout transfert/rapatriement de fonds, engagement et/ou au dédouanement.",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 30",
+      "number": "30",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 5,
+      "text": "La domiciliation consiste en l'ouverture d'un dossier qui donne lieu à l'attribution d'un numéro de domiciliation par l'intermédiaire agréé domiciliataire de l'opération commerciale. Ce dossier doit contenir l'ensemble des documents relatifs à l'opération commerciale.\nL'opérateur choisit l'intermédiaire agréé auprès duquel il s'engage à effectuer toutes les procédures et formalités bancaires liées à l'opération.",
+      "paragraphs": [
+        {
+          "text": "La domiciliation consiste en l'ouverture d'un dossier qui donne lieu à l'attribution d'un numéro de domiciliation par l'intermédiaire agréé domiciliataire de l'opération commerciale. Ce dossier doit contenir l'ensemble des documents relatifs à l'opération commerciale.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "L'opérateur choisit l'intermédiaire agréé auprès duquel il s'engage à effectuer toutes les procédures et formalités bancaires liées à l'opération.",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 31",
+      "number": "31",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 5,
+      "text": "Le guichet de l'intermédiaire agréé habilité à domicilier l'opération de commerce extérieur doit tenir un répertoire des dossiers domiciliés, coté et paraphé par une personne habilitée à cet effet, et en assurer leurs suivis financiers.",
+      "paragraphs": [
+        {
+          "text": "Le guichet de l'intermédiaire agréé habilité à domicilier l'opération de commerce extérieur doit tenir un répertoire des dossiers domiciliés, coté et paraphé par une personne habilitée à cet effet, et en assurer leurs suivis financiers.",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 32",
+      "number": "32",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 5,
+      "text": "Le document commercial servant de base à la domiciliation bancaire peut revêtir différentes formes telles que, contrat, facture pro-forma, bon de commande ferme, confirmation définitive d'achat, échange de correspondances où sont incluses toutes les indications nécessaires à l'identification des parties, ainsi que la nature de l'opération commerciale.",
+      "paragraphs": [
+        {
+          "text": "Le document commercial servant de base à la domiciliation bancaire peut revêtir différentes formes telles que, contrat, facture pro-forma, bon de commande ferme, confirmation définitive d'achat, échange de correspondances où sont incluses toutes les indications nécessaires à l'identification des parties, ainsi que la nature de l'opération commerciale.",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 33",
+      "number": "33",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 6,
+      "text": "Sont dispensées de la domiciliation bancaire :\n- les importations/exportations dites sans paiements réalisés par les voyageurs pour leur usage personnel, conformément aux dispositions des lois de finances ;\n- les importations dites sans paiements réalisés par les nationaux immatriculés auprès des représentations diplomatiques et consulaires algériennes à l'étranger\nlors de leur retour définitif en Algérie conformément aux dispositions des lois de finances ;\n- les importations dites sans paiements réalisés par les agents diplomatiques et consulaires et assimilés ainsi que ceux des représentations des entreprises et des établissements publiques à l'étranger lors de leur retour en Algérie ;\n- les importations/exportations d'une valeur inférieure à la contre-valeur de 100.000 DA en valeur FOB ;\n- les importations/exportations d'échantillons, de dons et marchandises reçues dans le cas de la mise en jeu de la garantie ;\n- les importations de marchandises réalisées sous le régime douanier suspensif.\nLes déclarations en douanes relatives aux importations/exportations visées ci-dessus et à l'article 58 ci-après doivent être revêtues de la mention \"importation/exportation non domiciliée\".",
+      "paragraphs": [
+        {
+          "text": "Sont dispensées de la domiciliation bancaire :",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- les importations/exportations dites sans paiements réalisés par les voyageurs pour leur usage personnel, conformément aux dispositions des lois de finances ;",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- les importations dites sans paiements réalisés par les nationaux immatriculés auprès des représentations diplomatiques et consulaires algériennes à l'étranger",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "lors de leur retour définitif en Algérie conformément aux dispositions des lois de finances ;",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "- les importations dites sans paiements réalisés par les agents diplomatiques et consulaires et assimilés ainsi que ceux des représentations des entreprises et des établissements publiques à l'étranger lors de leur retour en Algérie ;",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "- les importations/exportations d'une valeur inférieure à la contre-valeur de 100.000 DA en valeur FOB ;",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "- les importations/exportations d'échantillons, de dons et marchandises reçues dans le cas de la mise en jeu de la garantie ;",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "- les importations de marchandises réalisées sous le régime douanier suspensif.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Les déclarations en douanes relatives aux importations/exportations visées ci-dessus et à l'article 58 ci-après doivent être revêtues de la mention \"importation/exportation non domiciliée\".",
+          "page_start": 6,
+          "page_end": 6
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 34",
+      "number": "34",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 6,
+      "page_end": 6,
+      "text": "Sans préjudice d'autres dispositions réglementaires, toute modification du contrat domicilié doit faire l'objet d'un avenant qui sera domicilié dans les mêmes conditions que le contrat principal.",
+      "paragraphs": [
+        {
+          "text": "Sans préjudice d'autres dispositions réglementaires, toute modification du contrat domicilié doit faire l'objet d'un avenant qui sera domicilié dans les mêmes conditions que le contrat principal.",
+          "page_start": 6,
+          "page_end": 6
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 35",
+      "number": "35",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 6,
+      "page_end": 6,
+      "text": "L'intermédiaire agréé ne peut refuser la domiciliation d'un contrat d'exportation ou d'importation lorsque l'ensemble des conditions prévues par le présent règlement sont réunies. L'opérateur, le cas échéant, dispose d'un droit de recours auprès de la Commission Bancaire.",
+      "paragraphs": [
+        {
+          "text": "L'intermédiaire agréé ne peut refuser la domiciliation d'un contrat d'exportation ou d'importation lorsque l'ensemble des conditions prévues par le présent règlement sont réunies. L'opérateur, le cas échéant, dispose d'un droit de recours auprès de la Commission Bancaire.",
+          "page_start": 6,
+          "page_end": 6
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 36",
+      "number": "36",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 6,
+      "page_end": 6,
+      "text": "Les importations/exportations d'équipements et/ou de matériels sous le régime du crédit-bail (leasing) sont assimilées à des importations/exportations à paiements différés. Elles obéissent aux conditions de domiciliation et de paiements applicables à ces opérations.",
+      "paragraphs": [
+        {
+          "text": "Les importations/exportations d'équipements et/ou de matériels sous le régime du crédit-bail (leasing) sont assimilées à des importations/exportations à paiements différés. Elles obéissent aux conditions de domiciliation et de paiements applicables à ces opérations.",
+          "page_start": 6,
+          "page_end": 6
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 37",
+      "number": "37",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 6,
+      "page_end": 6,
+      "text": "Les banques et établissements financiers, intermédiaires agréés, sont seuls habilités à exécuter pour le compte de leur clientèle les transferts et rapatriements liés aux transactions sur les biens et services préalablement domiciliés auprès de leurs guichets.\nLes services financiers d'Algérie Poste peuvent exécuter les transferts/rapatriements liés aux opérations pour lesquelles ils sont habilités.",
+      "paragraphs": [
+        {
+          "text": "Les banques et établissements financiers, intermédiaires agréés, sont seuls habilités à exécuter pour le compte de leur clientèle les transferts et rapatriements liés aux transactions sur les biens et services préalablement domiciliés auprès de leurs guichets.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Les services financiers d'Algérie Poste peuvent exécuter les transferts/rapatriements liés aux opérations pour lesquelles ils sont habilités.",
+          "page_start": 6,
+          "page_end": 6
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 38",
+      "number": "38",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 6,
+      "page_end": 6,
+      "text": "L'intermédiaire agréé cède au comptant ou à terme des devises aux importateurs de biens et de services dans le respect de la réglementation en vigueur.",
+      "paragraphs": [
+        {
+          "text": "L'intermédiaire agréé cède au comptant ou à terme des devises aux importateurs de biens et de services dans le respect de la réglementation en vigueur.",
+          "page_start": 6,
+          "page_end": 6
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 39",
+      "number": "39",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 6,
+      "page_end": 6,
+      "text": "L'apurement du dossier de commerce extérieur consiste pour l'intermédiaire agrée à s'assurer de la régularité et de la conformité de la réalisation des contrats commerciaux et du bon déroulement des flux financiers auxquels ils donnent lieu au regard de la réglementation des changes en vigueur.",
+      "paragraphs": [
+        {
+          "text": "L'apurement du dossier de commerce extérieur consiste pour l'intermédiaire agrée à s'assurer de la régularité et de la conformité de la réalisation des contrats commerciaux et du bon déroulement des flux financiers auxquels ils donnent lieu au regard de la réglementation des changes en vigueur.",
+          "page_start": 6,
+          "page_end": 6
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 40",
+      "number": "40",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 6,
+      "page_end": 6,
+      "text": "L'intermédiaire agréé doit veiller à l'apurement des dossiers domiciliés à son niveau dans les délais prescrits.\nIl doit saisir, sans délai, la Banque d'Algérie, de toute irrégularité ou retard dans l'exécution des mouvements de fonds de et vers l'étranger.\n2 - Règles relatives aux importations de biens et services :",
+      "paragraphs": [
+        {
+          "text": "L'intermédiaire agréé doit veiller à l'apurement des dossiers domiciliés à son niveau dans les délais prescrits.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Il doit saisir, sans délai, la Banque d'Algérie, de toute irrégularité ou retard dans l'exécution des mouvements de fonds de et vers l'étranger.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "2 - Règles relatives aux importations de biens et services :",
+          "page_start": 6,
+          "page_end": 6
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 41",
+      "number": "41",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 6,
+      "page_end": 7,
+      "text": "L'intermédiaire agréé domiciliataire doit ouvrir un dossier de domiciliation lui permettant d'assurer le suivi de l'opération d'importation.\nIl remet à l'importateur résident, un exemplaire du contrat revêtu du visa de domiciliation. Ce visa est apposé sur toutes les factures afférentes au contrat.\nLe visa de domiciliation permet :\n- d'engager la procédure de dédouanement des marchandises ;\n- d'avaliser les effets acceptés ou souscrits par l'importateur résident ;\n- d'exécuter les paiements en dinars et les transferts en devises ; et\n- d'établir, à l'échéance de la domiciliation, un compte rendu d'apurement du dossier à adresser à la Banque d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "L'intermédiaire agréé domiciliataire doit ouvrir un dossier de domiciliation lui permettant d'assurer le suivi de l'opération d'importation.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Il remet à l'importateur résident, un exemplaire du contrat revêtu du visa de domiciliation. Ce visa est apposé sur toutes les factures afférentes au contrat.",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Le visa de domiciliation permet :",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "- d'engager la procédure de dédouanement des marchandises ;",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "- d'avaliser les effets acceptés ou souscrits par l'importateur résident ;",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "- d'exécuter les paiements en dinars et les transferts en devises ; et",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "- d'établir, à l'échéance de la domiciliation, un compte rendu d'apurement du dossier à adresser à la Banque d'Algérie.",
+          "page_start": 7,
+          "page_end": 7
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 42",
+      "number": "42",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 7,
+      "page_end": 7,
+      "text": "Pour l'acceptation des dossiers de domiciliation et de tout engagement devant mener à un paiement par transfert de devises vers l'étranger, l'intermédiaire agréé doit tenir compte, notamment :\n- de la régularité de l'opération concernée au regard de la législation et de la réglementation en vigueur ;\n- et de la surface financière de son client.",
+      "paragraphs": [
+        {
+          "text": "Pour l'acceptation des dossiers de domiciliation et de tout engagement devant mener à un paiement par transfert de devises vers l'étranger, l'intermédiaire agréé doit tenir compte, notamment :",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "- de la régularité de l'opération concernée au regard de la législation et de la réglementation en vigueur ;",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "- et de la surface financière de son client.",
+          "page_start": 7,
+          "page_end": 7
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 43",
+      "number": "43",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 7,
+      "page_end": 7,
+      "text": "L'intermédiaire agréé peut accepter les documents parvenus par plis cartable lorsqu'il s'agit de produits dangereux ou périssables. L'appréciation de l'urgence relève des services portuaires et/ou des services des douanes qualifiés.",
+      "paragraphs": [
+        {
+          "text": "L'intermédiaire agréé peut accepter les documents parvenus par plis cartable lorsqu'il s'agit de produits dangereux ou périssables. L'appréciation de l'urgence relève des services portuaires et/ou des services des douanes qualifiés.",
+          "page_start": 7,
+          "page_end": 7
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 44",
+      "number": "44",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 7,
+      "page_end": 7,
+      "text": "Tout règlement ou engagement financier prévu au contrat commercial ne peut être effectué que lorsque l'intermédiaire agréé dispose, notamment :\n- des factures définitives ;\n- des documents d'expédition ou du (des) document(s) douanier(s) de mise à la consommation pour l'importation de biens ;\n- des attestations de service fait pour l'importation de services.",
+      "paragraphs": [
+        {
+          "text": "Tout règlement ou engagement financier prévu au contrat commercial ne peut être effectué que lorsque l'intermédiaire agréé dispose, notamment :",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "- des factures définitives ;",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "- des documents d'expédition ou du (des) document(s) douanier(s) de mise à la consommation pour l'importation de biens ;",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "- des attestations de service fait pour l'importation de services.",
+          "page_start": 7,
+          "page_end": 7
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 45",
+      "number": "45",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 7,
+      "page_end": 7,
+      "text": "Les paiements des importations sont effectués par les banques et établissements financiers, intermédiaires agréés, à partir des ressources en devises :\n- leur appartenant ;\n- acquises auprès de leurs clients ;\n- acquises sur le marché interbancaire des changes ;\n- ou provenant de tout crédit financier extérieur.",
+      "paragraphs": [
+        {
+          "text": "Les paiements des importations sont effectués par les banques et établissements financiers, intermédiaires agréés, à partir des ressources en devises :",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "- leur appartenant ;",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "- acquises auprès de leurs clients ;",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "- acquises sur le marché interbancaire des changes ;",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "- ou provenant de tout crédit financier extérieur.",
+          "page_start": 7,
+          "page_end": 7
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 46",
+      "number": "46",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 7,
+      "page_end": 7,
+      "text": "Les transferts en devises sont réalisés dans le respect de la législation et la réglementation en vigueur, conformément aux clauses contractuelles et en conformité avec les règles et usages internationaux.\nLe montant à transférer ne peut excéder ni la part transférable prévue par le contrat et son avenant, ni le montant des factures définitives du bien ou du service importé. Tout écart, par rapport aux montants initialement indiqués doit être dûment justifié.",
+      "paragraphs": [
+        {
+          "text": "Les transferts en devises sont réalisés dans le respect de la législation et la réglementation en vigueur, conformément aux clauses contractuelles et en conformité avec les règles et usages internationaux.",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Le montant à transférer ne peut excéder ni la part transférable prévue par le contrat et son avenant, ni le montant des factures définitives du bien ou du service importé. Tout écart, par rapport aux montants initialement indiqués doit être dûment justifié.",
+          "page_start": 7,
+          "page_end": 7
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 47",
+      "number": "47",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 7,
+      "page_end": 7,
+      "text": "Lorsque l'importation fait l'objet d'un financement extérieur, l'intermédiaire agréé doit s'assurer, lors de la domiciliation du contrat, que le financement et les conditions qui lui sont attachées sont en adéquation avec les modalités définies par la\nBanque d'Algérie.\nUne déclaration de la dette extérieure est transmise à la Banque d'Algérie suivant les règles et procédures en vigueur.",
+      "paragraphs": [
+        {
+          "text": "Lorsque l'importation fait l'objet d'un financement extérieur, l'intermédiaire agréé doit s'assurer, lors de la domiciliation du contrat, que le financement et les conditions qui lui sont attachées sont en adéquation avec les modalités définies par la",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Banque d'Algérie.",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Une déclaration de la dette extérieure est transmise à la Banque d'Algérie suivant les règles et procédures en vigueur.",
+          "page_start": 7,
+          "page_end": 7
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 48",
+      "number": "48",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 8,
+      "page_end": 8,
+      "text": "L'intermédiaire agréé exécute, sur ordre de l'opérateur, tout transfert à destination de l'étranger sous réserve de la remise par cet opérateur des documents attestant l'expédition des marchandises à destination exclusive du territoire douanier national et les factures définitives y relatives.\nLe transfert peut également s'effectuer sur la base des factures définitives et des documents douaniers de mise à la consommation des marchandises.",
+      "paragraphs": [
+        {
+          "text": "L'intermédiaire agréé exécute, sur ordre de l'opérateur, tout transfert à destination de l'étranger sous réserve de la remise par cet opérateur des documents attestant l'expédition des marchandises à destination exclusive du territoire douanier national et les factures définitives y relatives.",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "Le transfert peut également s'effectuer sur la base des factures définitives et des documents douaniers de mise à la consommation des marchandises.",
+          "page_start": 8,
+          "page_end": 8
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 49",
+      "number": "49",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 8,
+      "page_end": 8,
+      "text": "Le transfert à l'étranger de devises, pour le paiement des importations d'une valeur égale ou supérieure à la contre-valeur de 100 000 DA, par le débit d'un compte devises doit être exécuté par l'intermédiaire agréé dans les mêmes conditions que celles arrêtées à l'article 48 ci-dessus.",
+      "paragraphs": [
+        {
+          "text": "Le transfert à l'étranger de devises, pour le paiement des importations d'une valeur égale ou supérieure à la contre-valeur de 100 000 DA, par le débit d'un compte devises doit être exécuté par l'intermédiaire agréé dans les mêmes conditions que celles arrêtées à l'article 48 ci-dessus.",
+          "page_start": 8,
+          "page_end": 8
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 50",
+      "number": "50",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 8,
+      "page_end": 8,
+      "text": "L'intermédiaire agréé domiciliataire peut procéder au versement d'acomptes dans une limite de 15 % du montant global du contrat, pour l'importation de biens et services, dans la mesure où une clause conforme aux règles et usances internationales y relative est prévue dans le contrat commercial, sous réserve de la présentation d'une caution de restitution d'avance d'égale valeur délivrée par une banque de premier ordre.\nAu-delà de la limite prévue à l'alinéa ci-dessus, l'autorisation de la Banque d'Algérie est requise.",
+      "paragraphs": [
+        {
+          "text": "L'intermédiaire agréé domiciliataire peut procéder au versement d'acomptes dans une limite de 15 % du montant global du contrat, pour l'importation de biens et services, dans la mesure où une clause conforme aux règles et usances internationales y relative est prévue dans le contrat commercial, sous réserve de la présentation d'une caution de restitution d'avance d'égale valeur délivrée par une banque de premier ordre.",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "Au-delà de la limite prévue à l'alinéa ci-dessus, l'autorisation de la Banque d'Algérie est requise.",
+          "page_start": 8,
+          "page_end": 8
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 51",
+      "number": "51",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 8,
+      "page_end": 8,
+      "text": "Le transfert pour règlement des importations de services, au titre de l'article 4 du présent règlement, s'effectue sur la base du contrat et/ou de la facture définitive dûment visée par l'importateur résident accompagné(s) de l'attestation de service fait ainsi que de toute autre pièce ou autorisation éventuellement requise, délivrée par l'administration compétente.\nLe transfert au titre d'importation de services dans le cadre d'une sous-traitance doit être expressément prévu par le contrat de base.",
+      "paragraphs": [
+        {
+          "text": "Le transfert pour règlement des importations de services, au titre de l'article 4 du présent règlement, s'effectue sur la base du contrat et/ou de la facture définitive dûment visée par l'importateur résident accompagné(s) de l'attestation de service fait ainsi que de toute autre pièce ou autorisation éventuellement requise, délivrée par l'administration compétente.",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "Le transfert au titre d'importation de services dans le cadre d'une sous-traitance doit être expressément prévu par le contrat de base.",
+          "page_start": 8,
+          "page_end": 8
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 52",
+      "number": "52",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 8,
+      "page_end": 8,
+      "text": "Le contrôle des dossiers de domiciliation et de transfert par l'intermédiaire agréé domiciliataire, s'effectue comme indiqué ci-après.\nPour les importations de biens, sur la base :\n- du contrat commercial et/ou des factures définitives,\n- des documents d'expédition,\n- des documents douaniers (exemplaire banque) ou document admis comme équivalent,\n- de la copie du message Swift y afférent,\n- de la formule statistique adressée à la Banque d'Algérie.\nPour les importations de services, sur la base :\n- du contrat commercial et/ou des factures définitives, - de l'attestation de service fait,\n- des pièces ou autorisations éventuellement requises,\n- de la copie du message Swift y afférent,\n- de la formule statistique adressée à la Banque d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "Le contrôle des dossiers de domiciliation et de transfert par l'intermédiaire agréé domiciliataire, s'effectue comme indiqué ci-après.",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "Pour les importations de biens, sur la base :",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "- du contrat commercial et/ou des factures définitives,",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "- des documents d'expédition,",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "- des documents douaniers (exemplaire banque) ou document admis comme équivalent,",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "- de la copie du message Swift y afférent,",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "- de la formule statistique adressée à la Banque d'Algérie.",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "Pour les importations de services, sur la base :",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "- du contrat commercial et/ou des factures définitives, - de l'attestation de service fait,",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "- des pièces ou autorisations éventuellement requises,",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "- de la copie du message Swift y afférent,",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "- de la formule statistique adressée à la Banque d'Algérie.",
+          "page_start": 8,
+          "page_end": 8
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 53",
+      "number": "53",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 8,
+      "page_end": 9,
+      "text": "Le contrôle des dossiers de domiciliation et de transfert des opérations d'importation doit s'achever :\n- pour les contrats commerciaux réglés au comptant, dans un délai maximum de trois mois suivant le règlement financier de l'opération ;\n- pour les contrats commerciaux réalisés par paiements différés, dans un délai maximum de trente jours suivant le dernier règlement.",
+      "paragraphs": [
+        {
+          "text": "Le contrôle des dossiers de domiciliation et de transfert des opérations d'importation doit s'achever :",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "- pour les contrats commerciaux réglés au comptant, dans un délai maximum de trois mois suivant le règlement financier de l'opération ;",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "- pour les contrats commerciaux réalisés par paiements différés, dans un délai maximum de trente jours suivant le dernier règlement.",
+          "page_start": 9,
+          "page_end": 9
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 54",
+      "number": "54",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 9,
+      "page_end": 9,
+      "text": "Durant la période de contrôle, en l'absence du document douanier (exemplaire banque), l'intermédiaire agréé domiciliataire doit le réclamer au bureau d'émission des douanes concerné. Il fournit à cet effet, toutes les indications nécessaires pour l'identification de la déclaration concernée ainsi que les références communiquées par l'opérateur.\nUne copie de la réclamation est adressée, pour information, à la Direction Générale des\nDouanes.\nLa copie certifiée conforme à l'original \"Prima\", établie par le bureau des douanes et transmise au guichet domiciliataire concerné ou le document admis comme équivalent, peut être prise en considération par ce dernier pour l'apurement du dossier d'importation.",
+      "paragraphs": [
+        {
+          "text": "Durant la période de contrôle, en l'absence du document douanier (exemplaire banque), l'intermédiaire agréé domiciliataire doit le réclamer au bureau d'émission des douanes concerné. Il fournit à cet effet, toutes les indications nécessaires pour l'identification de la déclaration concernée ainsi que les références communiquées par l'opérateur.",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "Une copie de la réclamation est adressée, pour information, à la Direction Générale des",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "Douanes.",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "La copie certifiée conforme à l'original \"Prima\", établie par le bureau des douanes et transmise au guichet domiciliataire concerné ou le document admis comme équivalent, peut être prise en considération par ce dernier pour l'apurement du dossier d'importation.",
+          "page_start": 9,
+          "page_end": 9
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 55",
+      "number": "55",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 9,
+      "page_end": 9,
+      "text": "Au terme de la période de contrôle des dossiers de domiciliation des opérations à l'importation, l'intermédiaire agréé domiciliataire :\na) apure le dossier s'il est régulier et conforme aux dispositions réglementaires ;\nb) adresse les observations nécessaires à l'importateur résident pour l'amener à compléter le dossier ou à le régulariser s'il présente des excédents de règlement ;\nc) transmet à la Banque d'Algérie une copie du dossier, après un délai supplémentaire de 30 jours, en cas de non régularisation et/ou si l'excédent de règlement dépasse la contre-valeur de 100 000 DA.\n3 - Règles relatives aux exportations de biens et de services :",
+      "paragraphs": [
+        {
+          "text": "Au terme de la période de contrôle des dossiers de domiciliation des opérations à l'importation, l'intermédiaire agréé domiciliataire :",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "a) apure le dossier s'il est régulier et conforme aux dispositions réglementaires ;",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "b) adresse les observations nécessaires à l'importateur résident pour l'amener à compléter le dossier ou à le régulariser s'il présente des excédents de règlement ;",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "c) transmet à la Banque d'Algérie une copie du dossier, après un délai supplémentaire de 30 jours, en cas de non régularisation et/ou si l'excédent de règlement dépasse la contre-valeur de 100 000 DA.",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "3 - Règles relatives aux exportations de biens et de services :",
+          "page_start": 9,
+          "page_end": 9
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 56",
+      "number": "56",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 9,
+      "page_end": 9,
+      "text": "Les exportations de biens en vente ferme ou en consignation ainsi que les exportations de services, à l'exception de celles prévues dans l'article 58 ci-dessous, sont soumises à l'obligation de domiciliation.",
+      "paragraphs": [
+        {
+          "text": "Les exportations de biens en vente ferme ou en consignation ainsi que les exportations de services, à l'exception de celles prévues dans l'article 58 ci-dessous, sont soumises à l'obligation de domiciliation.",
+          "page_start": 9,
+          "page_end": 9
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 57",
+      "number": "57",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 9,
+      "page_end": 9,
+      "text": "Les règles de domiciliation des contrats d'exportations de service, l'encaissement et le rapatriement de leur produit sont les mêmes que celles applicables aux exportations de biens.",
+      "paragraphs": [
+        {
+          "text": "Les règles de domiciliation des contrats d'exportations de service, l'encaissement et le rapatriement de leur produit sont les mêmes que celles applicables aux exportations de biens.",
+          "page_start": 9,
+          "page_end": 9
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 58",
+      "number": "58",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 9,
+      "page_end": 9,
+      "text": "Outre les exemptions prévues à l'article 33 ci-dessus, la domiciliation des contrats d'exportation n'est pas requise pour :\n- les exportations temporaires, sauf si elles donnent lieu à paiement de prestations par rapatriement de devises ;\n- les exportations contre remboursement d'une valeur inférieure ou égale à la contre-valeur de 100 000 DA, faites par l'entremise d'Algérie Poste.",
+      "paragraphs": [
+        {
+          "text": "Outre les exemptions prévues à l'article 33 ci-dessus, la domiciliation des contrats d'exportation n'est pas requise pour :",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "- les exportations temporaires, sauf si elles donnent lieu à paiement de prestations par rapatriement de devises ;",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "- les exportations contre remboursement d'une valeur inférieure ou égale à la contre-valeur de 100 000 DA, faites par l'entremise d'Algérie Poste.",
+          "page_start": 9,
+          "page_end": 9
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 59",
+      "number": "59",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 9,
+      "page_end": 9,
+      "text": "La domiciliation ainsi que le rapatriement du produit des exportations d'hydrocarbures et produits miniers sont soumis à une réglementation spécifique.",
+      "paragraphs": [
+        {
+          "text": "La domiciliation ainsi que le rapatriement du produit des exportations d'hydrocarbures et produits miniers sont soumis à une réglementation spécifique.",
+          "page_start": 9,
+          "page_end": 9
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 60",
+      "number": "60",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 9,
+      "page_end": 9,
+      "text": "La domiciliation des exportations de produits frais, périssables et/ou dangereux peut avoir lieu durant les cinq (5) jours ouvrés qui suivent la date d'expédition et de déclaration en douanes.",
+      "paragraphs": [
+        {
+          "text": "La domiciliation des exportations de produits frais, périssables et/ou dangereux peut avoir lieu durant les cinq (5) jours ouvrés qui suivent la date d'expédition et de déclaration en douanes.",
+          "page_start": 9,
+          "page_end": 9
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 61",
+      "number": "61",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 10,
+      "page_end": 10,
+      "text": "Le contrat d'exportation peut être établi au comptant ou à crédit.\nLorsque l'exportation a lieu au comptant, l'exportateur doit rapatrier la recette provenant de l'exportation dans un délai n'excédant pas cent vingt (120) jours, à compter de la date d'expédition pour les biens ou de la date de réalisation pour les services.\nLorsque le paiement de l'exportation est exigible dans un délai excédent cent vingt (120)\njours, l'exportation ne peut avoir lieu qu'après autorisation des services compétents de la\nBanque d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "Le contrat d'exportation peut être établi au comptant ou à crédit.",
+          "page_start": 10,
+          "page_end": 10
+        },
+        {
+          "text": "Lorsque l'exportation a lieu au comptant, l'exportateur doit rapatrier la recette provenant de l'exportation dans un délai n'excédant pas cent vingt (120) jours, à compter de la date d'expédition pour les biens ou de la date de réalisation pour les services.",
+          "page_start": 10,
+          "page_end": 10
+        },
+        {
+          "text": "Lorsque le paiement de l'exportation est exigible dans un délai excédent cent vingt (120)",
+          "page_start": 10,
+          "page_end": 10
+        },
+        {
+          "text": "jours, l'exportation ne peut avoir lieu qu'après autorisation des services compétents de la",
+          "page_start": 10,
+          "page_end": 10
+        },
+        {
+          "text": "Banque d'Algérie.",
+          "page_start": 10,
+          "page_end": 10
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 62",
+      "number": "62",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 10,
+      "page_end": 10,
+      "text": "L'exportateur demande l'ouverture d'un dossier de domiciliation en présentant à l'intermédiaire agréé l'original et deux copies du contrat commercial ou de tout autre document y tenant lieu, et tout autre document éventuellement exigé.\nAprès vérification de la concordance entre l'original et les copies, une de ces dernières, revêtue du numéro du dossier de domiciliation et du cachet de l'intermédiaire agréé, est restituée à l'exportateur.",
+      "paragraphs": [
+        {
+          "text": "L'exportateur demande l'ouverture d'un dossier de domiciliation en présentant à l'intermédiaire agréé l'original et deux copies du contrat commercial ou de tout autre document y tenant lieu, et tout autre document éventuellement exigé.",
+          "page_start": 10,
+          "page_end": 10
+        },
+        {
+          "text": "Après vérification de la concordance entre l'original et les copies, une de ces dernières, revêtue du numéro du dossier de domiciliation et du cachet de l'intermédiaire agréé, est restituée à l'exportateur.",
+          "page_start": 10,
+          "page_end": 10
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 63",
+      "number": "63",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 10,
+      "page_end": 10,
+      "text": "L'exportateur est tenu d'indiquer, sur la déclaration douanière, les références de la domiciliation bancaire du contrat d'exportation, exception faite des exportations visées à l'article 58 ci-dessus. Cette indication intervient au plus tard dans les cinq (5) jours ouvrés qui suivent l'expédition.",
+      "paragraphs": [
+        {
+          "text": "L'exportateur est tenu d'indiquer, sur la déclaration douanière, les références de la domiciliation bancaire du contrat d'exportation, exception faite des exportations visées à l'article 58 ci-dessus. Cette indication intervient au plus tard dans les cinq (5) jours ouvrés qui suivent l'expédition.",
+          "page_start": 10,
+          "page_end": 10
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 64",
+      "number": "64",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 10,
+      "page_end": 10,
+      "text": "L'exemplaire « banque » de la déclaration en douanes est adressé par les services des douanes à l'intermédiaire agréé domiciliataire de l'exportation.",
+      "paragraphs": [
+        {
+          "text": "L'exemplaire « banque » de la déclaration en douanes est adressé par les services des douanes à l'intermédiaire agréé domiciliataire de l'exportation.",
+          "page_start": 10,
+          "page_end": 10
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 65",
+      "number": "65",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 10,
+      "page_end": 10,
+      "text": "Les recettes provenant des exportations hors hydrocarbures et hors produits miniers ne peuvent être encaissées qu'auprès de l'intermédiaire agréé domiciliataire du contrat.\nL'exportateur est tenu de rapatrier le produit de l'exportation dans les délais fixés par la réglementation en vigueur. Tout retard de paiement et de rapatriement doit être justifié.\nLe respect de l'obligation de rapatriement des recettes provenant des exportations incombe à l'exportateur. Tout retard de paiement et de rapatriement doit être déclaré par l'intermédiaire agréé à la Banque d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "Les recettes provenant des exportations hors hydrocarbures et hors produits miniers ne peuvent être encaissées qu'auprès de l'intermédiaire agréé domiciliataire du contrat.",
+          "page_start": 10,
+          "page_end": 10
+        },
+        {
+          "text": "L'exportateur est tenu de rapatrier le produit de l'exportation dans les délais fixés par la réglementation en vigueur. Tout retard de paiement et de rapatriement doit être justifié.",
+          "page_start": 10,
+          "page_end": 10
+        },
+        {
+          "text": "Le respect de l'obligation de rapatriement des recettes provenant des exportations incombe à l'exportateur. Tout retard de paiement et de rapatriement doit être déclaré par l'intermédiaire agréé à la Banque d'Algérie.",
+          "page_start": 10,
+          "page_end": 10
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 66",
+      "number": "66",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 10,
+      "page_end": 10,
+      "text": "L'obligation de rapatriement porte sur le montant facturé ainsi que sur le montant des frais accessoires contractuels lorsque ces derniers ne sont pas incorporés dans le prix de vente. Le montant, objet de l'obligation de rapatriement, inclut toute indemnité ou pénalité contractuelle éventuelle.",
+      "paragraphs": [
+        {
+          "text": "L'obligation de rapatriement porte sur le montant facturé ainsi que sur le montant des frais accessoires contractuels lorsque ces derniers ne sont pas incorporés dans le prix de vente. Le montant, objet de l'obligation de rapatriement, inclut toute indemnité ou pénalité contractuelle éventuelle.",
+          "page_start": 10,
+          "page_end": 10
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 67",
+      "number": "67",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 10,
+      "page_end": 10,
+      "text": "Dès le rapatriement des recettes d'exportation, hors hydrocarbures et produits miniers, de biens et de services, l'intermédiaire agréé met à la disposition de l'exportateur :\n- la partie en devises qui lui revient, conformément à la réglementation en vigueur, et qui est logée dans son compte devises ;\n- la contre-valeur en dinars du solde des recettes provenant de l'exportation soumise à l'obligation de cession.\nLes recettes des exportations non domiciliées et celles rapatriées hors délais n'ouvrent pas droit au bénéfice de la rétrocession en devises.",
+      "paragraphs": [
+        {
+          "text": "Dès le rapatriement des recettes d'exportation, hors hydrocarbures et produits miniers, de biens et de services, l'intermédiaire agréé met à la disposition de l'exportateur :",
+          "page_start": 10,
+          "page_end": 10
+        },
+        {
+          "text": "- la partie en devises qui lui revient, conformément à la réglementation en vigueur, et qui est logée dans son compte devises ;",
+          "page_start": 10,
+          "page_end": 10
+        },
+        {
+          "text": "- la contre-valeur en dinars du solde des recettes provenant de l'exportation soumise à l'obligation de cession.",
+          "page_start": 10,
+          "page_end": 10
+        },
+        {
+          "text": "Les recettes des exportations non domiciliées et celles rapatriées hors délais n'ouvrent pas droit au bénéfice de la rétrocession en devises.",
+          "page_start": 10,
+          "page_end": 10
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 68",
+      "number": "68",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 11,
+      "page_end": 11,
+      "text": "Le paiement des exportations en consignation est exigible au fur et à mesure des ventes réalisées par le dépositaire ou le commissionnaire.\nL'exportateur est tenu de fournir à l'intermédiaire agréé domiciliataire de l'opération un relevé mensuel des comptes des ventes accompagné des duplicata des factures tirées sur les acheteurs étrangers.\nLes rapatriements doivent intervenir dans les délais réglementaires décomptés à partir de la date de vente.",
+      "paragraphs": [
+        {
+          "text": "Le paiement des exportations en consignation est exigible au fur et à mesure des ventes réalisées par le dépositaire ou le commissionnaire.",
+          "page_start": 11,
+          "page_end": 11
+        },
+        {
+          "text": "L'exportateur est tenu de fournir à l'intermédiaire agréé domiciliataire de l'opération un relevé mensuel des comptes des ventes accompagné des duplicata des factures tirées sur les acheteurs étrangers.",
+          "page_start": 11,
+          "page_end": 11
+        },
+        {
+          "text": "Les rapatriements doivent intervenir dans les délais réglementaires décomptés à partir de la date de vente.",
+          "page_start": 11,
+          "page_end": 11
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 69",
+      "number": "69",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 11,
+      "page_end": 11,
+      "text": "Le contrôle du rapatriement des exportations s'effectue par l'intermédiaire agréé domiciliataire sur la base des documents transmis par l'exportateur et les services des douanes.",
+      "paragraphs": [
+        {
+          "text": "Le contrôle du rapatriement des exportations s'effectue par l'intermédiaire agréé domiciliataire sur la base des documents transmis par l'exportateur et les services des douanes.",
+          "page_start": 11,
+          "page_end": 11
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 70",
+      "number": "70",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 11,
+      "page_end": 11,
+      "text": "Les services des douanes transmettent au guichet de l'intermédiaire agréé domiciliataire du dossier d'exportation, tout document utile au contrôle de l'opération d'exportation, notamment :\n- la déclaration en douanes « exemplaire banque » ou le document admis comme équivalent ;\n- les documents rectificatifs attestant de toute modification dans le dossier d'exportation ;\n- les documents se rapportant à la réimportation des marchandises, s'il y a lieu.",
+      "paragraphs": [
+        {
+          "text": "Les services des douanes transmettent au guichet de l'intermédiaire agréé domiciliataire du dossier d'exportation, tout document utile au contrôle de l'opération d'exportation, notamment :",
+          "page_start": 11,
+          "page_end": 11
+        },
+        {
+          "text": "- la déclaration en douanes « exemplaire banque » ou le document admis comme équivalent ;",
+          "page_start": 11,
+          "page_end": 11
+        },
+        {
+          "text": "- les documents rectificatifs attestant de toute modification dans le dossier d'exportation ;",
+          "page_start": 11,
+          "page_end": 11
+        },
+        {
+          "text": "- les documents se rapportant à la réimportation des marchandises, s'il y a lieu.",
+          "page_start": 11,
+          "page_end": 11
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 71",
+      "number": "71",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 11,
+      "page_end": 11,
+      "text": "L'apurement du dossier d'exportation est effectué par l'intermédiaire agréé domiciliataire sur la base :\n- de l'exemplaire banque de la déclaration en douanes, pour les biens transmis par les services des douanes ;\n- des justificatifs de rapatriements reçus ;\n- de la formule statistique transmise à la Banque d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "L'apurement du dossier d'exportation est effectué par l'intermédiaire agréé domiciliataire sur la base :",
+          "page_start": 11,
+          "page_end": 11
+        },
+        {
+          "text": "- de l'exemplaire banque de la déclaration en douanes, pour les biens transmis par les services des douanes ;",
+          "page_start": 11,
+          "page_end": 11
+        },
+        {
+          "text": "- des justificatifs de rapatriements reçus ;",
+          "page_start": 11,
+          "page_end": 11
+        },
+        {
+          "text": "- de la formule statistique transmise à la Banque d'Algérie.",
+          "page_start": 11,
+          "page_end": 11
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 72",
+      "number": "72",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 11,
+      "page_end": 11,
+      "text": "L'intermédiaire agréé est tenu d'apurer les dossiers d'exportation domiciliés durant le trimestre suivant le délai réglementaire de rapatriement. A cet effet, il doit veiller au respect des échéances de paiement et de rapatriement des opérations prévues au contrat commercial.",
+      "paragraphs": [
+        {
+          "text": "L'intermédiaire agréé est tenu d'apurer les dossiers d'exportation domiciliés durant le trimestre suivant le délai réglementaire de rapatriement. A cet effet, il doit veiller au respect des échéances de paiement et de rapatriement des opérations prévues au contrat commercial.",
+          "page_start": 11,
+          "page_end": 11
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 73",
+      "number": "73",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 11,
+      "page_end": 11,
+      "text": "Au terme de la période prévue à l'article 72 ci-dessus, l'intermédiaire agréé domiciliataire :\na) apure le dossier s'il est régulier et conforme aux dispositions réglementaires ;\nb) adresse les observations nécessaires à l'exportateur pour l'amener à compléter le dossier ou à le régulariser s'il présente des insuffisances de rapatriement ;\nc) transmet aux services compétents de la Banque d'Algérie une copie du dossier, après un délai supplémentaire de 30 jours, en cas de non régularisation.",
+      "paragraphs": [
+        {
+          "text": "Au terme de la période prévue à l'article 72 ci-dessus, l'intermédiaire agréé domiciliataire :",
+          "page_start": 11,
+          "page_end": 11
+        },
+        {
+          "text": "a) apure le dossier s'il est régulier et conforme aux dispositions réglementaires ;",
+          "page_start": 11,
+          "page_end": 11
+        },
+        {
+          "text": "b) adresse les observations nécessaires à l'exportateur pour l'amener à compléter le dossier ou à le régulariser s'il présente des insuffisances de rapatriement ;",
+          "page_start": 11,
+          "page_end": 11
+        },
+        {
+          "text": "c) transmet aux services compétents de la Banque d'Algérie une copie du dossier, après un délai supplémentaire de 30 jours, en cas de non régularisation.",
+          "page_start": 11,
+          "page_end": 11
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 74",
+      "number": "74",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "IV",
+          "heading": "DES COMPTES DEVISES",
+          "label": "Titre IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 11,
+      "page_end": 11,
+      "text": "Les intermédiaires agréés sont tenus d'adresser à la Banque d'Algérie, un compte rendu des résultats d'apurement des dossiers d'exportation dans le mois qui suit le trimestre considéré.",
+      "paragraphs": [
+        {
+          "text": "Les intermédiaires agréés sont tenus d'adresser à la Banque d'Algérie, un compte rendu des résultats d'apurement des dossiers d'exportation dans le mois qui suit le trimestre considéré.",
+          "page_start": 11,
+          "page_end": 11
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 75",
+      "number": "75",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "VI",
+          "heading": "AUTRES OPÉRATIONS COURANTES",
+          "label": "Titre VI"
+        }
+      },
+      "annexe": null,
+      "page_start": 12,
+      "page_end": 12,
+      "text": "Le voyage des nationaux résidents à l'occasion du Hadj ouvre droit à une allocation de change dont le montant et les modalités d'attribution sont fixés, chaque année, par voie réglementaire.",
+      "paragraphs": [
+        {
+          "text": "Le voyage des nationaux résidents à l'occasion du Hadj ouvre droit à une allocation de change dont le montant et les modalités d'attribution sont fixés, chaque année, par voie réglementaire.",
+          "page_start": 12,
+          "page_end": 12
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 76",
+      "number": "76",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "VI",
+          "heading": "AUTRES OPÉRATIONS COURANTES",
+          "label": "Titre VI"
+        }
+      },
+      "annexe": null,
+      "page_start": 12,
+      "page_end": 12,
+      "text": "Les voyages à l'étranger de résidents, à titre professionnel, à l'occasion de missions temporaires, ouvrent droit à un change au titre des indemnités journalières compensatrices des frais engagés, dont les conditions sont fixées par voie réglementaire.\nLes banques intermédiaires agréés sont habilitées à instruire et exécuter les demandes de leurs clients en la matière.",
+      "paragraphs": [
+        {
+          "text": "Les voyages à l'étranger de résidents, à titre professionnel, à l'occasion de missions temporaires, ouvrent droit à un change au titre des indemnités journalières compensatrices des frais engagés, dont les conditions sont fixées par voie réglementaire.",
+          "page_start": 12,
+          "page_end": 12
+        },
+        {
+          "text": "Les banques intermédiaires agréés sont habilitées à instruire et exécuter les demandes de leurs clients en la matière.",
+          "page_start": 12,
+          "page_end": 12
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 77",
+      "number": "77",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "VI",
+          "heading": "AUTRES OPÉRATIONS COURANTES",
+          "label": "Titre VI"
+        }
+      },
+      "annexe": null,
+      "page_start": 12,
+      "page_end": 12,
+      "text": "Les voyages à l'étranger de nationaux résidents pour soins ouvrent droit à une allocation de change dont le montant et les modalités d'attribution sont fixés par\nInstruction de la Banque d'Algérie. Cette allocation de change est délivrée par les banques intermédiaires agréés.\nUne allocation de change pour études est attribuée aux nationaux résidents poursuivant des études auprès d'un établissement d'enseignement supérieur ou subissant des soins de longue durée et scolarisés dans un établissement normal ou spécialisé. Le montant et les modalités d'attribution sont fixés par Instruction de la Banque d'Algérie.\nLes transferts au titre de l'allocation d'études s'effectuent par l'entremise d'une banque intermédiaire agréé, ou des services financiers d'Algérie Poste.\nLes nationaux résidents bénéficient, au titre de voyage à l'étranger, d'un droit de change annuel, dont le montant et les modalités d'attribution sont définies par Instruction de la\nBanque d'Algérie. Cette allocation de change est délivrée par les banques intermédiaires agréés.\nLa Banque d'Algérie examine et autorise toute demande de devises de bonne foi au-delà des seuils fixés aux droits et allocations de change définis dans le cadre du présent article.",
+      "paragraphs": [
+        {
+          "text": "Les voyages à l'étranger de nationaux résidents pour soins ouvrent droit à une allocation de change dont le montant et les modalités d'attribution sont fixés par",
+          "page_start": 12,
+          "page_end": 12
+        },
+        {
+          "text": "Instruction de la Banque d'Algérie. Cette allocation de change est délivrée par les banques intermédiaires agréés.",
+          "page_start": 12,
+          "page_end": 12
+        },
+        {
+          "text": "Une allocation de change pour études est attribuée aux nationaux résidents poursuivant des études auprès d'un établissement d'enseignement supérieur ou subissant des soins de longue durée et scolarisés dans un établissement normal ou spécialisé. Le montant et les modalités d'attribution sont fixés par Instruction de la Banque d'Algérie.",
+          "page_start": 12,
+          "page_end": 12
+        },
+        {
+          "text": "Les transferts au titre de l'allocation d'études s'effectuent par l'entremise d'une banque intermédiaire agréé, ou des services financiers d'Algérie Poste.",
+          "page_start": 12,
+          "page_end": 12
+        },
+        {
+          "text": "Les nationaux résidents bénéficient, au titre de voyage à l'étranger, d'un droit de change annuel, dont le montant et les modalités d'attribution sont définies par Instruction de la",
+          "page_start": 12,
+          "page_end": 12
+        },
+        {
+          "text": "Banque d'Algérie. Cette allocation de change est délivrée par les banques intermédiaires agréés.",
+          "page_start": 12,
+          "page_end": 12
+        },
+        {
+          "text": "La Banque d'Algérie examine et autorise toute demande de devises de bonne foi au-delà des seuils fixés aux droits et allocations de change définis dans le cadre du présent article.",
+          "page_start": 12,
+          "page_end": 12
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 78",
+      "number": "78",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "VI",
+          "heading": "AUTRES OPÉRATIONS COURANTES",
+          "label": "Titre VI"
+        }
+      },
+      "annexe": null,
+      "page_start": 12,
+      "page_end": 12,
+      "text": "Sous réserve de la législation et de la réglementation relative aux conditions de recrutement et d'emploi des étrangers en Algérie, les travailleurs étrangers recrutés par les administrations et les agents économiques de droit algérien bénéficient d'un droit de transfert des économies sur salaire dans les conditions définies par instruction de la\nBanque d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "Sous réserve de la législation et de la réglementation relative aux conditions de recrutement et d'emploi des étrangers en Algérie, les travailleurs étrangers recrutés par les administrations et les agents économiques de droit algérien bénéficient d'un droit de transfert des économies sur salaire dans les conditions définies par instruction de la",
+          "page_start": 12,
+          "page_end": 12
+        },
+        {
+          "text": "Banque d'Algérie.",
+          "page_start": 12,
+          "page_end": 12
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 79",
+      "number": "79",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "VI",
+          "heading": "AUTRES OPÉRATIONS COURANTES",
+          "label": "Titre VI"
+        }
+      },
+      "annexe": null,
+      "page_start": 12,
+      "page_end": 12,
+      "text": "Les modalités de transferts liés aux activités de transport maritime, aérien et terrestre sont fixées par Instruction de la Banque d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "Les modalités de transferts liés aux activités de transport maritime, aérien et terrestre sont fixées par Instruction de la Banque d'Algérie.",
+          "page_start": 12,
+          "page_end": 12
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 80",
+      "number": "80",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "VI",
+          "heading": "AUTRES OPÉRATIONS COURANTES",
+          "label": "Titre VI"
+        }
+      },
+      "annexe": null,
+      "page_start": 12,
+      "page_end": 12,
+      "text": "Les transferts au titre des revenus des investissements étrangers sont exécutés par les intermédiaires agréés conformément à la législation et la réglementation en vigueur.",
+      "paragraphs": [
+        {
+          "text": "Les transferts au titre des revenus des investissements étrangers sont exécutés par les intermédiaires agréés conformément à la législation et la réglementation en vigueur.",
+          "page_start": 12,
+          "page_end": 12
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 81",
+      "number": "81",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "VI",
+          "heading": "AUTRES OPÉRATIONS COURANTES",
+          "label": "Titre VI"
+        }
+      },
+      "annexe": null,
+      "page_start": 12,
+      "page_end": 12,
+      "text": "Les transferts courants des administrations publiques sont effectués par l'entremise des intermédiaires agréés.",
+      "paragraphs": [
+        {
+          "text": "Les transferts courants des administrations publiques sont effectués par l'entremise des intermédiaires agréés.",
+          "page_start": 12,
+          "page_end": 12
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 82",
+      "number": "82",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "VII",
+          "heading": "DISPOSITIONS DIVERSES",
+          "label": "Titre VII"
+        }
+      },
+      "annexe": null,
+      "page_start": 13,
+      "page_end": 13,
+      "text": "Les personnes physiques et associations légalement constituées peuvent, pour un usage personnel ou en conformité avec leurs statuts, importer un bien ou un service à caractère non commercial. Ces importations sont soumises aux mêmes obligations que celles réalisées par les personnes physiques et morales visées à l'article 24 ci-dessus.",
+      "paragraphs": [
+        {
+          "text": "Les personnes physiques et associations légalement constituées peuvent, pour un usage personnel ou en conformité avec leurs statuts, importer un bien ou un service à caractère non commercial. Ces importations sont soumises aux mêmes obligations que celles réalisées par les personnes physiques et morales visées à l'article 24 ci-dessus.",
+          "page_start": 13,
+          "page_end": 13
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 83",
+      "number": "83",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "VII",
+          "heading": "DISPOSITIONS DIVERSES",
+          "label": "Titre VII"
+        }
+      },
+      "annexe": null,
+      "page_start": 13,
+      "page_end": 13,
+      "text": "Pour l'exercice du contrôle sur pièces par la Banque d'Algérie, les conditions et les modalités pratiques de déclaration et de reporting des transactions internationales courantes par les intermédiaires agréés sont fixées par Instruction de la Banque d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "Pour l'exercice du contrôle sur pièces par la Banque d'Algérie, les conditions et les modalités pratiques de déclaration et de reporting des transactions internationales courantes par les intermédiaires agréés sont fixées par Instruction de la Banque d'Algérie.",
+          "page_start": 13,
+          "page_end": 13
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 84",
+      "number": "84",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "VII",
+          "heading": "DISPOSITIONS DIVERSES",
+          "label": "Titre VII"
+        }
+      },
+      "annexe": null,
+      "page_start": 13,
+      "page_end": 13,
+      "text": "Les intermédiaires agréés, sans préjudice des dispositions contraires, doivent conserver les dossiers de domiciliation et de transfert et tous autres documents justificatifs relatifs aux opérations courantes objet du présent règlement, durant une période de cinq (5) années au moins, à compter de la date de leur apurement ou exécution.",
+      "paragraphs": [
+        {
+          "text": "Les intermédiaires agréés, sans préjudice des dispositions contraires, doivent conserver les dossiers de domiciliation et de transfert et tous autres documents justificatifs relatifs aux opérations courantes objet du présent règlement, durant une période de cinq (5) années au moins, à compter de la date de leur apurement ou exécution.",
+          "page_start": 13,
+          "page_end": 13
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 85",
+      "number": "85",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "VII",
+          "heading": "DISPOSITIONS DIVERSES",
+          "label": "Titre VII"
+        }
+      },
+      "annexe": null,
+      "page_start": 13,
+      "page_end": 13,
+      "text": "Le non-respect des dispositions du présent règlement expose le contrevenant aux dispositions légales en vigueur.",
+      "paragraphs": [
+        {
+          "text": "Le non-respect des dispositions du présent règlement expose le contrevenant aux dispositions légales en vigueur.",
+          "page_start": 13,
+          "page_end": 13
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 86",
+      "number": "86",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "VII",
+          "heading": "DISPOSITIONS DIVERSES",
+          "label": "Titre VII"
+        }
+      },
+      "annexe": null,
+      "page_start": 13,
+      "page_end": 13,
+      "text": "Les dispositions contraires au présent règlement sont abrogées, notamment les règlements n°91-12 du 14 août 1991 relatif à la domiciliation des importations, le règlement n°91-13 du 14 août 1991 relatif à la domiciliation et au règlement financier des exportations hors hydrocarbures et le règlement n°95-07 modifiant et remplaçant le règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes.",
+      "paragraphs": [
+        {
+          "text": "Les dispositions contraires au présent règlement sont abrogées, notamment les règlements n°91-12 du 14 août 1991 relatif à la domiciliation des importations, le règlement n°91-13 du 14 août 1991 relatif à la domiciliation et au règlement financier des exportations hors hydrocarbures et le règlement n°95-07 modifiant et remplaçant le règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes.",
+          "page_start": 13,
+          "page_end": 13
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 87",
+      "number": "87",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "VII",
+          "heading": "DISPOSITIONS DIVERSES",
+          "label": "Titre VII"
+        }
+      },
+      "annexe": null,
+      "page_start": 13,
+      "page_end": 13,
+      "text": "Le présent règlement sera publié au Journal Officiel de la République\nAlgérienne Démocratique et Populaire.\nLe Gouverneur\nMohammed LAKSACI",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement sera publié au Journal Officiel de la République",
+          "page_start": 13,
+          "page_end": 13
+        },
+        {
+          "text": "Algérienne Démocratique et Populaire.",
+          "page_start": 13,
+          "page_end": 13
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 13,
+          "page_end": 13
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 13,
+          "page_end": 13
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "meme_texte_plusieurs_fichiers"
+    ],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.036
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-07-01.fr.txt"
+}

@@ -1,0 +1,248 @@
+{
+  "document_id": "LOI-16-14.fr",
+  "work_id": "LOI-16-14",
+  "title": "قانون رقم 16-14 مؤرخ في 28 ربيع الاول عام 1438 الموافق 28 ديسمبر سنة 2016 ، يتضمن قانون المالية لسنة 2017",
+  "document_type": "loi",
+  "type_code": "LOI",
+  "type_source": "label",
+  "number": "16-14",
+  "number_source": "en-tête du document",
+  "date": "2016-12-28",
+  "date_raw": "CORRESPONDANT AU 28 DECEMBRE 2016",
+  "date_source": "en-tête du document",
+  "publication_date": "2022-03-30",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": null,
+  "issuer_note": "Émetteur non établi par la source (publié sur le site de la Banque d'Algérie).",
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "lois",
+  "subcategory": "منشورات سابقة",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d9%82%d8%a7%d9%86%d9%88%d9%86-%d8%a7%d9%84%d9%86%d9%82%d8%af-%d9%88-%d8%a7%d9%84%d9%82%d8%b1%d8%b6/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2022/03/loi1614.pdf",
+  "format": "pdf",
+  "file_hash": "cc62b376f8979e4b219491b97990ffec2fd957853f79246af1f58d976bda4ba2",
+  "file_size": 42586,
+  "raw_path": "raw/cc62b376f897__loi1614.pdf",
+  "retrieved_at": "2026-10-05T13:24:59+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "afd42d2025297ae97da3ba998299b8529b9992d4691a2303470608ad35d88cd8",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D9%86%D9%82%D8%AF-%D9%88-%D8%A7%D9%84%D9%82%D8%B1%D8%B6/",
+    "https://www.bank-of-algeria.dz/ar/%d9%82%d8%a7%d9%86%d9%88%d9%86-%d8%a7%d9%84%d9%86%d9%82%d8%af-%d9%88-%d8%a7%d9%84%d9%82%d8%b1%d8%b6/",
+    "https://www.bank-of-algeria.dz/loi-monnaie-et-credit/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document14",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210204155257+01'00'",
+    "modDate": "D:20210204155257+01'00'"
+  },
+  "hijri_date_raw": "28 Rabie El Aouel 1438",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 1571,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 1,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "numerotation:premier_article=102"
+  ],
+  "title_document": "LOI N°16-14 DU 28 RABIE EL AOUEL 1438 CORRESPONDANT AU 28 DECEMBRE 2016 PORTANT LOI DE FINANCES POUR 2017 (J.O N°77 DU 29 DECEMBRE 2016) Art. 102. – Les articles 28 et 28 bis de l’ordonnance n°03-11 du 26 août 2003, relative à la monnaie et au crédit, sont modifiés et rédigés comme suit : « Art. 28. – Les comptes de la Banque d’Algérie sont arrêtés le 31 décembre de chaque année. Les produits nets de tous amortissements, charges et provisions constituent les bénéfices",
+  "alias_urls": [],
+  "text_hash": "d7da90c8070ae5214bc84f58c816057ede2ed8460ecbc20f2854116431afe052",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "ORD",
+        "number": "03-11",
+        "date": "2003-08-26",
+        "raw": "ordonnance n°03-11 du 26 août 2003"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Les articles 28 et 28 bis de l’ordonnance n°03-11 du 26 août 2003, relative à la monnaie et au crédit, so"
+      },
+      "target_work_id": "ORD-03-11"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "ORD-03-11",
+      "reference": "ordonnance n°03-11 du 26 août 2003",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Les articles 28 et 28 bis de l’ordonnance n°03-11 du 26 août 2003, relative à la monnaie et au crédit, so"
+      }
+    }
+  ],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 102",
+      "number": "102",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "LOI N°16-14 DU 28 RABIE EL AOUEL 1438 CORRESPONDANT\nAU 28 DECEMBRE 2016 PORTANT LOI DE FINANCES POUR 2017 (J.O N°77 DU 29 DECEMBRE 2016)",
+      "paragraphs": [
+        {
+          "text": "LOI N°16-14 DU 28 RABIE EL AOUEL 1438 CORRESPONDANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AU 28 DECEMBRE 2016 PORTANT LOI DE FINANCES POUR 2017 (J.O N°77 DU 29 DECEMBRE 2016)",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 102",
+      "number": "102",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les articles 28 et 28 bis de l’ordonnance n°03-11 du 26 août 2003, relative à la monnaie et au crédit, sont modifiés et rédigés comme suit :\n« Art. 28. – Les comptes de la Banque d’Algérie sont arrêtés le 31 décembre de chaque année.\nLes produits nets de tous amortissements, charges et provisions constituent les bénéfices annuels.\nSur ces bénéfices, il est obligatoirement prélevé 10% au profit de la réserve légale dans la limite d’un montant égal au capital.\nAprès constitution des dotations jugées nécessaires par le conseil d’administration, aux provisions dont le montant est plafonné à trois fois le montant du capital et à toutes autres réserves générales et spéciales, le solde est versé au Trésor.\nLe conseil d’administration peut décider aussi du versement total du solde restant après le prélèvement obligatoire, au profit du Trésor.\nLes réserves peuvent être affectées à des augmentations de capital ».\n« Art. 28 bis. - Si l’arrêté des comptes au 31 décembre de la Banque d’Algérie se solde par une perte, cette perte est amortie par imputation sur les réserves générales ou spéciales et, s’il y a lieu, sur la réserve légale.\nSi l’ensemble de ces réserves ne permet pas d’amortir intégralement la perte, le reliquat qui subsiste est couvert par le Trésor dans un délai de trois (3) mois ».\nFait à Alger, le 28 Rabie El Aouel 1438 correspondant au 28 décembre 2016\nAbdelaziz BOUTEFLIKA",
+      "paragraphs": [
+        {
+          "text": "Les articles 28 et 28 bis de l’ordonnance n°03-11 du 26 août 2003, relative à la monnaie et au crédit, sont modifiés et rédigés comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "« Art. 28. – Les comptes de la Banque d’Algérie sont arrêtés le 31 décembre de chaque année.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les produits nets de tous amortissements, charges et provisions constituent les bénéfices annuels.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Sur ces bénéfices, il est obligatoirement prélevé 10% au profit de la réserve légale dans la limite d’un montant égal au capital.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Après constitution des dotations jugées nécessaires par le conseil d’administration, aux provisions dont le montant est plafonné à trois fois le montant du capital et à toutes autres réserves générales et spéciales, le solde est versé au Trésor.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le conseil d’administration peut décider aussi du versement total du solde restant après le prélèvement obligatoire, au profit du Trésor.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les réserves peuvent être affectées à des augmentations de capital ».",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "« Art. 28 bis. - Si l’arrêté des comptes au 31 décembre de la Banque d’Algérie se solde par une perte, cette perte est amortie par imputation sur les réserves générales ou spéciales et, s’il y a lieu, sur la réserve légale.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Si l’ensemble de ces réserves ne permet pas d’amortir intégralement la perte, le reliquat qui subsiste est couvert par le Trésor dans un délai de trois (3) mois ».",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Fait à Alger, le 28 Rabie El Aouel 1438 correspondant au 28 décembre 2016",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Abdelaziz BOUTEFLIKA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "numerotation:premier_article=102"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.043
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/LOI-16-14.fr.txt"
+}

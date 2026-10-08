@@ -1,0 +1,515 @@
+{
+  "document_id": "INS-04-11.fr",
+  "work_id": "INS-04-11",
+  "title": "Instruction n°04-2011 du 19 octobre 2011 modifiant et complétant l’instruction n°79-95 du 27 décembre 1995 portant organisation et fonctionnement du marché interbancaire des changes",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "04-2011",
+  "number_source": "en-tête du document",
+  "date": "2011-10-19",
+  "date_raw": "N°04-2011 DU 19 OCTOBRE 2011",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-02",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Organisation et fonctionnement du marché interbancaire des  changes",
+  "source_url": "https://www.bank-of-algeria.dz/changes-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/02/instruction042011.pdf",
+  "format": "pdf",
+  "file_hash": "a33a79cb7a3265c012e778877c8a0257cc35939173a15702994b1d52dc0f53ce",
+  "file_size": 78053,
+  "raw_path": "raw/a33a79cb7a32__instruction042011.pdf",
+  "retrieved_at": "2026-10-05T13:20:34+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "60cbab53acea6d259b942c98701367791e83f70568ee1287274353f8599fc15f",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-2011/",
+    "https://www.bank-of-algeria.dz/changes-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Microsoft Word - instruction042011",
+    "author": "chahra.yahiaoui",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "creationDate": "D:20210210145126+01'00'",
+    "modDate": "D:20210210145126+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2091,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 9,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°04-2011 DU 19 OCTOBRE 2011 MODIFIANT ET COMPLETANT L'INSTRUCTION N°79-95 DU 27 DÉCEMBRE 1995 PORTANT ORGANISATION ET FONCTIONNEMENT DU MARCHE INTERBANCAIRE DES CHANGES",
+  "alias_urls": [],
+  "text_hash": "a212406573d552b5c26ab0a569bb1bb6e5f9187be2793fecfe8d37f8215215ca",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "79-95",
+        "date": "1995-12-27",
+        "raw": "instruction n°79-95 du 27 décembre 1995"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°04-2011 du 19 octobre 2011 modifiant et complétant l’instruction n°79-95 du 27 décembre 1995 portant organisation et fonctionnement"
+      },
+      "target_work_id": "INS-79-95"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "79-95",
+        "date": "1995-12-27",
+        "raw": "instruction n°79-95 du 27 décembre 1995"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°04-2011 du 19 octobre 2011 modifiant et complétant l’instruction n°79-95 du 27 décembre 1995 portant organisation et fonctionnement"
+      },
+      "target_work_id": "INS-79-95"
+    },
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "79-95",
+        "date": "1995-12-27",
+        "raw": "instruction n°79-95 du 27 décembre 1995"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Les dispositions de l'article 42 de l'instruction n°79-95 du 27 décembre 1995 ainsi que toute autre disposition contr"
+      },
+      "target_work_id": "INS-79-95"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "INS-79-95",
+      "reference": "instruction n°79-95 du 27 décembre 1995",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Les dispositions de l'article 42 de l'instruction n°79-95 du 27 décembre 1995 ainsi que toute autre disposition contr"
+      }
+    }
+  ],
+  "modifie": [
+    {
+      "work_id": "INS-79-95",
+      "reference": "instruction n°79-95 du 27 décembre 1995",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°04-2011 du 19 octobre 2011 modifiant et complétant l’instruction n°79-95 du 27 décembre 1995 portant organisation et fonctionnement"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "INS-79-95",
+      "reference": "instruction n°79-95 du 27 décembre 1995",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°04-2011 du 19 octobre 2011 modifiant et complétant l’instruction n°79-95 du 27 décembre 1995 portant organisation et fonctionnement"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-04-11.ar"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "INS-79-95",
+      "reference": "instruction n°79-95 du 27 décembre 1995",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°04-2011 du 19 octobre 2011 modifiant et complétant l’instruction n°79-95 du 27 décembre 1995 portant organisation et fonctionnement"
+      }
+    }
+  ],
+  "dead_source_urls": [
+    {
+      "url": "https://www.bank-of-algeria.dz/pdf/instructions2011/instruction042011.pdf",
+      "status": "MOVED_OFFICIAL",
+      "listed_on": [
+        "https://www.bank-of-algeria.dz/organisation-et-fonctionnement-du-marche-interbancaire-des-changes-2/"
+      ]
+    }
+  ],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°04-2011 DU 19 OCTOBRE 2011 MODIFIANT ET COMPLETANT\nL'INSTRUCTION N°79-95 DU 27 DÉCEMBRE 1995 PORTANT ORGANISATION ET\nFONCTIONNEMENT DU MARCHE INTERBANCAIRE DES CHANGES",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°04-2011 DU 19 OCTOBRE 2011 MODIFIANT ET COMPLETANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L'INSTRUCTION N°79-95 DU 27 DÉCEMBRE 1995 PORTANT ORGANISATION ET",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "FONCTIONNEMENT DU MARCHE INTERBANCAIRE DES CHANGES",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les banques sont autorisées à effectuer entre-elles des opérations de prêt/emprunt en devises librement convertible. Elles peuvent également placer des dépôts en devises librement convertibles auprès de la Banque d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "Les banques sont autorisées à effectuer entre-elles des opérations de prêt/emprunt en devises librement convertible. Elles peuvent également placer des dépôts en devises librement convertibles auprès de la Banque d'Algérie.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les opérations de prêt/emprunt visées à l'article 1er ci-dessus peuvent porter sur une période de 1 jour à 180 jours.\nLes placements de dépôts en devises visés à l'article 1er ci-dessus peuvent porter sur une période de 1 jour à 2 ans.",
+      "paragraphs": [
+        {
+          "text": "Les opérations de prêt/emprunt visées à l'article 1er ci-dessus peuvent porter sur une période de 1 jour à 180 jours.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les placements de dépôts en devises visés à l'article 1er ci-dessus peuvent porter sur une période de 1 jour à 2 ans.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "En application de l'alinéa 4 de l'article 4 du règlement n°95-08 du 23 décembre 1995 portant marché des changes, les ressources en comptes devises \"personnes morales\" sont laissées à la disposition des banques.",
+      "paragraphs": [
+        {
+          "text": "En application de l'alinéa 4 de l'article 4 du règlement n°95-08 du 23 décembre 1995 portant marché des changes, les ressources en comptes devises \"personnes morales\" sont laissées à la disposition des banques.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les opérations de change à terme visées à l'article 13 de l'instruction n°79-95 du 27 décembre 1995 doivent porter sur des périodes identiques à celles des opérations de prêt/emprunt visées à l'article 2 ci-dessus.",
+      "paragraphs": [
+        {
+          "text": "Les opérations de change à terme visées à l'article 13 de l'instruction n°79-95 du 27 décembre 1995 doivent porter sur des périodes identiques à celles des opérations de prêt/emprunt visées à l'article 2 ci-dessus.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les opérations de prêt/emprunt en devises visées à l'article 1er ci-dessus doivent être dédiées exclusivement aux opérations de change à terme.",
+      "paragraphs": [
+        {
+          "text": "Les opérations de prêt/emprunt en devises visées à l'article 1er ci-dessus doivent être dédiées exclusivement aux opérations de change à terme.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les opérations de change à terme visées à l'article 13 de l'instruction n°79-95 du 27 décembre 1995 sont exclusivement dédiées à la couverture du risque de change sur les opérations d'importation et d'exportation de biens.",
+      "paragraphs": [
+        {
+          "text": "Les opérations de change à terme visées à l'article 13 de l'instruction n°79-95 du 27 décembre 1995 sont exclusivement dédiées à la couverture du risque de change sur les opérations d'importation et d'exportation de biens.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les banques sont tenues de maintenir, à tout moment, en compte courant auprès de la Banque d'Algérie l'équivalent d'au moins 30% de l'encours total des comptes devises des personnes morales.\nCes comptes sont rémunérés aux conditions de la Banque d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "Les banques sont tenues de maintenir, à tout moment, en compte courant auprès de la Banque d'Algérie l'équivalent d'au moins 30% de l'encours total des comptes devises des personnes morales.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Ces comptes sont rémunérés aux conditions de la Banque d'Algérie.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les dispositions de l'article 42 de l'instruction n°79-95 du 27 décembre 1995 ainsi que toute autre disposition contraire sont abrogées",
+      "paragraphs": [
+        {
+          "text": "Les dispositions de l'article 42 de l'instruction n°79-95 du 27 décembre 1995 ainsi que toute autre disposition contraire sont abrogées",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction prend effet à compter de la date de sa signature.\nLe Gouverneur\nMohammed LAKSACI\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "La présente instruction prend effet à compter de la date de sa signature.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.039
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-04-11.fr.txt"
+}

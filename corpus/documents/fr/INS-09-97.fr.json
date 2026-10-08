@@ -1,0 +1,234 @@
+{
+  "document_id": "INS-09-97.fr",
+  "work_id": "INS-09-97",
+  "title": "Instruction n°09-97 du 17 novembre 1997 fixant le taux de réescompte.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "09-97",
+  "number_source": "en-tête du document",
+  "date": "1997-11-17",
+  "date_raw": "N°09-97 DU 17 NOVEMBRE 1997",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction0997.pdf",
+      "uploaded": "2023-01-24T10:41:35"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Année 1997",
+  "source_url": "https://www.bank-of-algeria.dz/annee-1997/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction0997.pdf",
+  "format": "pdf",
+  "file_hash": "e30b23a9141c8f0414516b8fa44e7e1ebec044a87bcc97de550c9b0da5e223d5",
+  "file_size": 25880,
+  "raw_path": "raw/e30b23a9141c__instruction0997.pdf",
+  "retrieved_at": "2026-10-05T13:21:54+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "3ecc6a024acd19f02c4f822e903d9fce74fd62d429dba7f4a79f109389011e82",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-1997/",
+    "https://www.bank-of-algeria.dz/marche-monetaire-instruction/",
+    "https://www.bank-of-algeria.dz/reescompte-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document2",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200813151042+01'00'",
+    "modDate": "D:20200813151042+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 393,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": false,
+    "article_count": 0,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°09-97 DU 17 NOVEMBRE 1997 FIXANT LE TAUX DE REESCOMPTE",
+  "alias_urls": [
+    {
+      "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction0997.pdf",
+      "source_url": "https://www.bank-of-algeria.dz/marche-monetaire-instruction/",
+      "title": "Instruction n°09-97 du 17 novembre 1997 fixant le taux de réescompte."
+    }
+  ],
+  "text_hash": "49f7421d46de78a1d47fe57895eea60860bf1d753f9c0029f9f5f843f0379c97",
+  "relations_out": [
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "05-97",
+        "date": "1997-06-28",
+        "raw": "instruction n°05-97 du 28 juin 1997"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "n date du 17 novembre 1997, le taux de réescompte est fixé à 11 %. La présente instruction abroge les dispositions de l'instruction n°05-97 du 28 juin 1997 et entre en vigueur à compter du 18 nov"
+      },
+      "target_work_id": "INS-05-97"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "INS-05-97",
+      "reference": "instruction n°05-97 du 28 juin 1997",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "n date du 17 novembre 1997, le taux de réescompte est fixé à 11 %. La présente instruction abroge les dispositions de l'instruction n°05-97 du 28 juin 1997 et entre en vigueur à compter du 18 nov"
+      }
+    }
+  ],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [
+    {
+      "work_id": "INS-01-98",
+      "document_id": "INS-01-98.fr",
+      "date": "1998-02-08",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "en date du 8 février 1998, le taux de réescompte est fixé à 9,5 %. La présente instruction abroge les dispositions de l'instruction n°09-97 du 17 novembre 1997 et entre en vigueur à compter du 09 fév"
+      }
+    }
+  ],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "INS-01-98",
+      "document_id": "INS-01-98.fr",
+      "date": "1998-02-08",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "en date du 8 février 1998, le taux de réescompte est fixé à 9,5 %. La présente instruction abroge les dispositions de l'instruction n°09-97 du 17 novembre 1997 et entre en vigueur à compter du 09 fév"
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [
+    {
+      "work_id": "INS-01-98",
+      "document_id": "INS-01-98.fr",
+      "date": "1998-02-08",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "en date du 8 février 1998, le taux de réescompte est fixé à 9,5 %. La présente instruction abroge les dispositions de l'instruction n°09-97 du 17 novembre 1997 et entre en vigueur à compter du 09 fév"
+      }
+    }
+  ],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°09-97 DU 17 NOVEMBRE 1997\nFIXANT LE TAUX DE REESCOMPTE\nEn application de la délibération du Conseil de la Monnaie et du Crédit en date du 17 novembre 1997, le taux de réescompte est fixé à 11 %.\nLa présente instruction abroge les dispositions de l'instruction n°05-97 du 28 juin 1997 et entre en vigueur à compter du 18 novembre 1997.\nLe Gouverneur\nAbdelouahab KERAMANE",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°09-97 DU 17 NOVEMBRE 1997",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "FIXANT LE TAUX DE REESCOMPTE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "En application de la délibération du Conseil de la Monnaie et du Crédit en date du 17 novembre 1997, le taux de réescompte est fixé à 11 %.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La présente instruction abroge les dispositions de l'instruction n°05-97 du 28 juin 1997 et entre en vigueur à compter du 18 novembre 1997.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.028
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-09-97.fr.txt"
+}

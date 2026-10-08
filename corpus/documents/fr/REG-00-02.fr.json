@@ -1,0 +1,734 @@
+{
+  "document_id": "REG-00-02.fr",
+  "work_id": "REG-00-02",
+  "title": "Règlement n°2000-02 du 2 Avril 2000 modifiant et complétant le Règlement n°93-01 du 03 Janvier 1993 fixant les conditions de constitution de banque et d’établissement financier et d’installation de succursale de banque et d’établissement financier étranger.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "2000-02",
+  "number_source": "en-tête du document",
+  "date": "2000-04-02",
+  "date_raw": "N°2000-02 DU 02 AVRIL 2000",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Conditions de constitution et d'installation de banques, d'établissements financiers de PSP et capital minimum",
+  "source_url": "https://www.bank-of-algeria.dz/importations-exportations-reglement/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement200002.pdf",
+  "format": "pdf",
+  "file_hash": "da3054da0113fceeb165ba01b37e90c34ad74303b189895af37969da007ba5c9",
+  "file_size": 74732,
+  "raw_path": "raw/da3054da0113__reglement200002.pdf",
+  "retrieved_at": "2026-10-05T13:22:18+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 3,
+  "url_hash": "b58e725474b590e3e2e0ed25d43c00dbd3cd169d72bfdacfecfe781ab17c5e53",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%D8%A7%D9%84%D8%A8%D9%86%D9%83/",
+    "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d8%a8%d9%86%d9%83/",
+    "https://www.bank-of-algeria.dz/banques-6/",
+    "https://www.bank-of-algeria.dz/banques-reglement/",
+    "https://www.bank-of-algeria.dz/importations-exportations-reglement/",
+    "https://www.bank-of-algeria.dz/reglement-2000/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document20",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210216134620+01'00'",
+    "modDate": "D:20210216134620+01'00'"
+  },
+  "hijri_date_raw": "28 Rabie El Aouel 1419",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 3,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 3024,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 3600,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 624,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 8,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "REGLEMENT N°2000-02 DU 02 AVRIL 2000 MODIFIANT ET COMPLETANT LE REGLEMENT N°93-01 DU 3 JANVIER 1993 FIXANT LES CONDITIONS DE CONSTITUTION DE BANQUE ET D'ETABLISSEMENT FINANCIER ET D'INSTALLATION DE SUCCURSALE DE BANQUE ET D'ETABLISSEMENT FINANCIER ETRANGER",
+  "alias_urls": [],
+  "text_hash": "1769621f49aacf72cb72df95675878c29fd6e9d11941caefedbbf695fa6db7bc",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "93-01",
+        "date": "1993-01-03",
+        "raw": "Règlement n°93-01 du 03 Janvier 1993"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2000-02 du 2 Avril 2000 modifiant et complétant le Règlement n°93-01 du 03 Janvier 1993 fixant les conditions de constitution d"
+      },
+      "target_work_id": "REG-93-01"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "93-01",
+        "date": "1993-01-03",
+        "raw": "Règlement n°93-01 du 03 Janvier 1993"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2000-02 du 2 Avril 2000 modifiant et complétant le Règlement n°93-01 du 03 Janvier 1993 fixant les conditions de constitution d"
+      },
+      "target_work_id": "REG-93-01"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "93-01",
+        "date": "1993-01-03",
+        "raw": "règlement n°93-01 du 3 Janvier 1993"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le règlement n°93-01 du 3 Janvier 1993 fixant les conditions de constitution d"
+      },
+      "target_work_id": "REG-93-01"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "93-01",
+        "date": "1993-01-03",
+        "raw": "règlement n°93-01 du 3 Janvier 1993"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le règlement n°93-01 du 3 Janvier 1993 fixant les conditions de constitution d"
+      },
+      "target_work_id": "REG-93-01"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "LOI",
+        "number": "90-10",
+        "date": "1990-04-14",
+        "raw": "Loi n°90-10 du 14 avril 1990"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "icle 5 ci-dessus est tenu de requérir auprès du Gouverneur de la Banque d'Algérie l'agrément visé à l'article 137 de la Loi n°90-10 du 14 avril 1990 susvisée. La demande d'agrément appuyée"
+      },
+      "target_work_id": null
+    }
+  ],
+  "unresolved_references": [
+    {
+      "type_code": "LOI",
+      "number": "90-10",
+      "date": "1990-04-14",
+      "raw": "Loi n°90-10 du 14 avril 1990",
+      "relation": "modifie"
+    }
+  ],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "REG-93-01",
+      "reference": "Règlement n°93-01 du 03 Janvier 1993",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2000-02 du 2 Avril 2000 modifiant et complétant le Règlement n°93-01 du 03 Janvier 1993 fixant les conditions de constitution d"
+      }
+    },
+    {
+      "work_id": "REG-93-01",
+      "reference": "règlement n°93-01 du 3 Janvier 1993",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le règlement n°93-01 du 3 Janvier 1993 fixant les conditions de constitution d"
+      }
+    },
+    {
+      "work_id": null,
+      "reference": "Loi n°90-10 du 14 avril 1990",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "icle 5 ci-dessus est tenu de requérir auprès du Gouverneur de la Banque d'Algérie l'agrément visé à l'article 137 de la Loi n°90-10 du 14 avril 1990 susvisée. La demande d'agrément appuyée"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "REG-93-01",
+      "reference": "Règlement n°93-01 du 03 Janvier 1993",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2000-02 du 2 Avril 2000 modifiant et complétant le Règlement n°93-01 du 03 Janvier 1993 fixant les conditions de constitution d"
+      }
+    },
+    {
+      "work_id": "REG-93-01",
+      "reference": "règlement n°93-01 du 3 Janvier 1993",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le règlement n°93-01 du 3 Janvier 1993 fixant les conditions de constitution d"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-00-02.ar"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "REG-93-01",
+      "reference": "Règlement n°93-01 du 03 Janvier 1993",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2000-02 du 2 Avril 2000 modifiant et complétant le Règlement n°93-01 du 03 Janvier 1993 fixant les conditions de constitution d"
+      }
+    },
+    {
+      "work_id": "REG-93-01",
+      "reference": "règlement n°93-01 du 3 Janvier 1993",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le règlement n°93-01 du 3 Janvier 1993 fixant les conditions de constitution d"
+      }
+    }
+  ],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°2000-02 DU 02 AVRIL 2000 MODIFIANT ET\nCOMPLETANT LE REGLEMENT N°93-01 DU 3 JANVIER 1993 FIXANT\nLES CONDITIONS DE CONSTITUTION DE BANQUE ET D'ETABLISSEMENT\nFINANCIER ET D'INSTALLATION DE SUCCURSALE DE BANQUE\nET D'ETABLISSEMENT FINANCIER ETRANGER\nLe Gouverneur de la Banque d'Algérie,\n- Vu la Loi n° 90-10 du 14 avril 1990, relative à la Monnaie et au Crédit, notamment ses articles 44, 47, 91, 95, 114, 115, 126, 129, 130, 132, 136, 137, 139 et 140 ;\n- Vu l'Ordonnance n°75-59 du 26 septembre 1975 modifiée et complétée portant Code de\nCommerce ;\n- Vu le Décret Présidentiel du 28 Rabie El Aouel 1419 correspondant au 22 juillet 1998 portant nomination du Gouverneur de la Banque d'Algérie ;\n- Vu les Décrets Présidentiels du 14 mai 1990 portant nomination de Vice-Gouverneurs de la\nBanque d'Algérie ;\n- Vu le Décret présidentiel du 17 Chaoual 1417 correspondant au 24 février 1997 portant nomination d'un Vice-Gouverneur de la Banque d'Algérie ;\n- Vu le Décret Exécutif du 1er juillet 1991 portant désignation de membres titulaires et suppléants au Conseil de la Monnaie et du Crédit ;\n- Vu le Décret Exécutif du 15 Safar 1417 correspondant au 1er juillet 1996 portant désignation d'un Membre Titulaire au Conseil de la Monnaie et du Crédit ;\n- Vu le Règlement n°90-01 du 4 Juillet 1990 modifié et complété par le règlement n°93-03 du 4 juillet 1993 relatif au capital minimum des banques et établissements financiers ;\n- Vu le règlement n°92-05 du 22 mars 1992 concernant les conditions que doivent remplir les fondateurs, dirigeants et représentants des banques et établissements financiers ;\n- Vu le Règlement n°93-01 du 3 janvier 1993 fixant les conditions de constitution de banque et d'établissement financier et d'installation de succursale de banque et d'établissement financier étranger ;\n- Vu le règlement n°95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes ;\n- Vu la délibération du Conseil de la Monnaie et du Crédit en date du 19 mars 2000 ;\nPromulgue le Règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°2000-02 DU 02 AVRIL 2000 MODIFIANT ET",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "COMPLETANT LE REGLEMENT N°93-01 DU 3 JANVIER 1993 FIXANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "LES CONDITIONS DE CONSTITUTION DE BANQUE ET D'ETABLISSEMENT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "FINANCIER ET D'INSTALLATION DE SUCCURSALE DE BANQUE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET D'ETABLISSEMENT FINANCIER ETRANGER",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d'Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la Loi n° 90-10 du 14 avril 1990, relative à la Monnaie et au Crédit, notamment ses articles 44, 47, 91, 95, 114, 115, 126, 129, 130, 132, 136, 137, 139 et 140 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l'Ordonnance n°75-59 du 26 septembre 1975 modifiée et complétée portant Code de",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Commerce ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 28 Rabie El Aouel 1419 correspondant au 22 juillet 1998 portant nomination du Gouverneur de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu les Décrets Présidentiels du 14 mai 1990 portant nomination de Vice-Gouverneurs de la",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret présidentiel du 17 Chaoual 1417 correspondant au 24 février 1997 portant nomination d'un Vice-Gouverneur de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Exécutif du 1er juillet 1991 portant désignation de membres titulaires et suppléants au Conseil de la Monnaie et du Crédit ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Exécutif du 15 Safar 1417 correspondant au 1er juillet 1996 portant désignation d'un Membre Titulaire au Conseil de la Monnaie et du Crédit ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Règlement n°90-01 du 4 Juillet 1990 modifié et complété par le règlement n°93-03 du 4 juillet 1993 relatif au capital minimum des banques et établissements financiers ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n°92-05 du 22 mars 1992 concernant les conditions que doivent remplir les fondateurs, dirigeants et représentants des banques et établissements financiers ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Règlement n°93-01 du 3 janvier 1993 fixant les conditions de constitution de banque et d'établissement financier et d'installation de succursale de banque et d'établissement financier étranger ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n°95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la délibération du Conseil de la Monnaie et du Crédit en date du 19 mars 2000 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le Règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le présent Règlement a pour objet de modifier et de compléter le règlement n°93-01 du 3 Janvier 1993 fixant les conditions de constitution de banque et d'établissement financier et d'installation de succursale de banque et d'établissement financier étranger.",
+      "paragraphs": [
+        {
+          "text": "Le présent Règlement a pour objet de modifier et de compléter le règlement n°93-01 du 3 Janvier 1993 fixant les conditions de constitution de banque et d'établissement financier et d'installation de succursale de banque et d'établissement financier étranger.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L'article 5 du règlement n°93-01 du 3 janvier 1993 susvisé est modifié comme suit :\n« Article 5 : L'autorisation de constitution de banque ou d'établissement financier ou d'installation de succursale de banque ou d'établissement financier étranger est accordée au requérant au plus tard deux (2) mois après remise de tous les éléments et informations constitutifs du dossier visés aux articles 2 et 3 ci-dessus. Elle prend effet à compter de la date de sa notification ».",
+      "paragraphs": [
+        {
+          "text": "L'article 5 du règlement n°93-01 du 3 janvier 1993 susvisé est modifié comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "« Article 5 : L'autorisation de constitution de banque ou d'établissement financier ou d'installation de succursale de banque ou d'établissement financier étranger est accordée au requérant au plus tard deux (2) mois après remise de tous les éléments et informations constitutifs du dossier visés aux articles 2 et 3 ci-dessus. Elle prend effet à compter de la date de sa notification ».",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "L'article 8 du règlement n°93-01 du 3 Janvier 1993 susvisé est modifié comme suit :\nBANK OF ALGERIA\n« Article 8 : La banque ou l'établissement financier ou la succursale d'une banque ou d'un établissement financier étranger qui a obtenu l'autorisation prévue à l'article 5 ci-dessus est tenu de requérir auprès du Gouverneur de la Banque d'Algérie l'agrément visé à l'article 137 de la Loi n°90-10 du 14 avril 1990 susvisée.\nLa demande d'agrément appuyée des documents et informations légalement et réglementairement requis doit être adressée au Gouverneur de la Banque d'Algérie, au plus tard, douze (12) mois à partir de la date de la notification de l'autorisation susvisée.\nLa nature des documents et le contenu des informations visées à l'alinéa précédent sont déterminés par une Instruction de la Banque d'Algérie.\nAvant l'obtention de l'agrément visé à l'alinéa 1er ci-dessus, il est interdit à la banque ou à l'établissement financier ou à la succursale de la banque ou de l'établissement financier étranger d'effectuer toute opération de banque ».",
+      "paragraphs": [
+        {
+          "text": "L'article 8 du règlement n°93-01 du 3 Janvier 1993 susvisé est modifié comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "« Article 8 : La banque ou l'établissement financier ou la succursale d'une banque ou d'un établissement financier étranger qui a obtenu l'autorisation prévue à l'article 5 ci-dessus est tenu de requérir auprès du Gouverneur de la Banque d'Algérie l'agrément visé à l'article 137 de la Loi n°90-10 du 14 avril 1990 susvisée.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "La demande d'agrément appuyée des documents et informations légalement et réglementairement requis doit être adressée au Gouverneur de la Banque d'Algérie, au plus tard, douze (12) mois à partir de la date de la notification de l'autorisation susvisée.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "La nature des documents et le contenu des informations visées à l'alinéa précédent sont déterminés par une Instruction de la Banque d'Algérie.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Avant l'obtention de l'agrément visé à l'alinéa 1er ci-dessus, il est interdit à la banque ou à l'établissement financier ou à la succursale de la banque ou de l'établissement financier étranger d'effectuer toute opération de banque ».",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "L'article 9 du règlement n°93-01 du 3 janvier 1993 susvisé est modifié comme suit :\n« Article 9 : L'agrément est accordé par décision du Gouverneur de la Banque d'Algérie dans la mesure où le requérant a rempli toutes les conditions de constitution ou d'installation, selon le cas, telles que déterminées par la législation et la réglementation en vigueur ainsi que les éventuelles conditions spéciales dont l'autorisation est assortie.\nLa décision d'agrément confère à son bénéficiaire la qualité d'intermédiaire agréé.\nL'exercice des opérations de change et de commerce extérieur est toutefois, subordonné à l'immatriculation par la Direction Générale des Changes, dans les conditions prévues par le règlement n°95-07 du 23 Décembre 1995 susvisé ».",
+      "paragraphs": [
+        {
+          "text": "L'article 9 du règlement n°93-01 du 3 janvier 1993 susvisé est modifié comme suit :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "« Article 9 : L'agrément est accordé par décision du Gouverneur de la Banque d'Algérie dans la mesure où le requérant a rempli toutes les conditions de constitution ou d'installation, selon le cas, telles que déterminées par la législation et la réglementation en vigueur ainsi que les éventuelles conditions spéciales dont l'autorisation est assortie.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "La décision d'agrément confère à son bénéficiaire la qualité d'intermédiaire agréé.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "L'exercice des opérations de change et de commerce extérieur est toutefois, subordonné à l'immatriculation par la Direction Générale des Changes, dans les conditions prévues par le règlement n°95-07 du 23 Décembre 1995 susvisé ».",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "L'article 10 du règlement n°93-01 du 03 janvier 1993 est modifié et complété comme suit :\n« Article 10 : Toute modification des statuts portant sur l'objet ou le capital d'une banque ou d'un établissement financier intervenant avant ou après l'obtention de l'agrément doit être soumise au Conseil de la Monnaie et du Crédit et doit obéir aux mêmes conditions que celle définies aux articles 2 et 3 ci-dessus.\nLes modifications relatives à la dotation en capital d'une succursale de banque ou d'un établissement financier étranger intervenant avant ou après l'obtention de l'agrément doit être soumise au Conseil de la Monnaie et du Crédit et doit obéir aux mêmes conditions que celles définies aux articles 2 et 3 ci-dessus. En outre, les modifications des statuts portant sur l'objet de leur maison mère ne sont exécutoires en Algérie qu'après leur approbation par le Conseil de la Monnaie et du Crédit ».",
+      "paragraphs": [
+        {
+          "text": "L'article 10 du règlement n°93-01 du 03 janvier 1993 est modifié et complété comme suit :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "« Article 10 : Toute modification des statuts portant sur l'objet ou le capital d'une banque ou d'un établissement financier intervenant avant ou après l'obtention de l'agrément doit être soumise au Conseil de la Monnaie et du Crédit et doit obéir aux mêmes conditions que celle définies aux articles 2 et 3 ci-dessus.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Les modifications relatives à la dotation en capital d'une succursale de banque ou d'un établissement financier étranger intervenant avant ou après l'obtention de l'agrément doit être soumise au Conseil de la Monnaie et du Crédit et doit obéir aux mêmes conditions que celles définies aux articles 2 et 3 ci-dessus. En outre, les modifications des statuts portant sur l'objet de leur maison mère ne sont exécutoires en Algérie qu'après leur approbation par le Conseil de la Monnaie et du Crédit ».",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 3,
+      "text": "Le règlement n°93-01 du 3 janvier 1993 susvisé est complété par un article 13 nouveau ainsi rédigé :\n« Article 13 : La liste des membres du Conseil d'Administration ou du Conseil de\nSurveillance désignés par l'Assemblée Générale Constitutive des banques ou des établissements financiers accompagnée de leur Curriculum Vitae doit être adressée au\nGouverneur de la Banque d'Algérie aux fins d'approbation.\nLa qualité de membre du Conseil d'Administration ou du Conseil de Surveillance doit être approuvée par le Gouverneur de la Banque d'Algérie avant l'enregistrement des statuts.\nDans le cas où cette liste est modifiée avant ou après l'obtention de la décision d'agrément, la banque ou l'établissement financier doit, en application de l'article 139 de la Loi n°90-10 du 14 avril 1990 susvisée, solliciter l'approbation préalable du Gouverneur de la Banque d'Algérie.\nLes dispositions des alinéas 2 et 3 ci-dessus s'appliquent aux dirigeants des succursales de banques ou d'établissements financiers étrangers ».",
+      "paragraphs": [
+        {
+          "text": "Le règlement n°93-01 du 3 janvier 1993 susvisé est complété par un article 13 nouveau ainsi rédigé :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "« Article 13 : La liste des membres du Conseil d'Administration ou du Conseil de",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Surveillance désignés par l'Assemblée Générale Constitutive des banques ou des établissements financiers accompagnée de leur Curriculum Vitae doit être adressée au",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Gouverneur de la Banque d'Algérie aux fins d'approbation.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "La qualité de membre du Conseil d'Administration ou du Conseil de Surveillance doit être approuvée par le Gouverneur de la Banque d'Algérie avant l'enregistrement des statuts.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Dans le cas où cette liste est modifiée avant ou après l'obtention de la décision d'agrément, la banque ou l'établissement financier doit, en application de l'article 139 de la Loi n°90-10 du 14 avril 1990 susvisée, solliciter l'approbation préalable du Gouverneur de la Banque d'Algérie.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Les dispositions des alinéas 2 et 3 ci-dessus s'appliquent aux dirigeants des succursales de banques ou d'établissements financiers étrangers ».",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Le règlement n°93-01 du 3 janvier 1993 susvisé est complété par un article 14 ainsi rédigé : « la procédure visée à l'alinéa 1 de l'article 13 ci-dessus s'applique au\nDirecteur Général ou aux Directeurs Généraux non membre(s) du Conseil d'Administration, ainsi qu'aux membres du Directoire ».",
+      "paragraphs": [
+        {
+          "text": "Le règlement n°93-01 du 3 janvier 1993 susvisé est complété par un article 14 ainsi rédigé : « la procédure visée à l'alinéa 1 de l'article 13 ci-dessus s'applique au",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Directeur Général ou aux Directeurs Généraux non membre(s) du Conseil d'Administration, ainsi qu'aux membres du Directoire ».",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Le Présent règlement sera publié au Journal Officiel de la République\nAlgérienne Démocratique et Populaire.\nLe Gouverneur\nAbdelouahab KERAMANE",
+      "paragraphs": [
+        {
+          "text": "Le Présent règlement sera publié au Journal Officiel de la République",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Algérienne Démocratique et Populaire.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.04
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-00-02.fr.txt"
+}

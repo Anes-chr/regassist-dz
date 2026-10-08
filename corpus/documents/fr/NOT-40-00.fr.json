@@ -1,0 +1,230 @@
+{
+  "document_id": "NOT-40-00.fr",
+  "work_id": "NOT-40-00",
+  "title": "Note n°40-2000 du 31 mai 2000 relative à la domiciliation auprès des guichets des banques et des établissements financiers d’importation de services à la réparation et à la maintenance des équipements d’aéronefs.",
+  "document_type": "note",
+  "type_code": "NOT",
+  "type_source": "label",
+  "number": "40-2000",
+  "number_source": "en-tête du document",
+  "date": "2000-05-31",
+  "date_raw": "N°40-2000 DU 31 MAI 2000",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-05",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "notes_aux_banques",
+  "subcategory": "Année 2000",
+  "source_url": "https://www.bank-of-algeria.dz/les-notes-aux-banques-2000/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/05/note402000.pdf",
+  "format": "pdf",
+  "file_hash": "cd040ad588b39b55de2da7e5c387472a7a2f1e645cc5d2bbd72756488a04ecb1",
+  "file_size": 57794,
+  "raw_path": "raw/cd040ad588b3__note402000.pdf",
+  "retrieved_at": "2026-10-05T13:24:37+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "8ea0062593bb3f6312986de4e25de6055e64c2faa86e4157ee9763166e5fff25",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/les-notes-aux-banques-2000/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document1",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210228140914+01'00'",
+    "modDate": "D:20210228140914+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 1986,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": false,
+    "article_count": 0,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "NOTE N°40-2000 DU 31 MAI 2000 AUX BANQUES ET ETABLISSEMENTS FINANCIERS INTERMEDIAIRES AGREES Par dérogation à l'article 37 du règlement n°95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes, la présente note a pour objet de faire connaître qu'au titre des opérations de services liées directement à la réparation et la maintenance des équipements intégrés aux aéronefs, les banques et les établissements financiers intermédiaires agrées sont habilités à domicilier auprès de leur guichets cette catégorie d'importation de services in",
+  "alias_urls": [],
+  "text_hash": "1b7efa5c2ee7b557a10e1ca033037c57d742ebb5f5218057588fc1f37714d665",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "92-04",
+        "date": "1992-03-22",
+        "raw": "règlement n°92-04 du 22 mars 1992"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "INTERMEDIAIRES AGREES Par dérogation à l'article 37 du règlement n°95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes, la pré"
+      },
+      "target_work_id": "REG-92-04"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "REG-92-04",
+      "reference": "règlement n°92-04 du 22 mars 1992",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "INTERMEDIAIRES AGREES Par dérogation à l'article 37 du règlement n°95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes, la pré"
+      }
+    }
+  ],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "NOTE N°40-2000 DU 31 MAI 2000 AUX BANQUES\nET ETABLISSEMENTS FINANCIERS INTERMEDIAIRES AGREES\nPar dérogation à l'article 37 du règlement n°95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes, la présente note a pour objet de faire connaître qu'au titre des opérations de services liées directement à la réparation et la maintenance des équipements intégrés aux aéronefs, les banques et les établissements financiers intermédiaires agrées sont habilités à domicilier auprès de leur guichets cette catégorie d'importation de services initiée exclusivement par les compagnies aériennes nationales.\nCette domiciliation qui constitue l'opération préalable à tout début d'exécution physique et financière, est réalisée par la compagnie aérienne en fournissant à sa banque domiciliataire les documents ci-après :\n- la demande y afférente formulée par la compagnie aérienne nationale,\n- le contrat commercial ou la facture proforma ou une lettre de commande ferme ou un échange de correspondance comportant toutes les indications nécessaires indiquant clairement qu'il y a conclusion de contrat.\nA cet effet, les banques et les établissements financiers intermédiaires agrées sont autorisés à exécuter et après services faits, le transfert des frais correspondant sous réserve de la production par la compagnie aérienne nationale concernée des documents ci-après :\n- la facture définitive dûment signée et approuvée par l'organe habilité de la compagnie concernée,\n- l'attestation de services faits,\n- les documents douaniers justifiant l'exportation temporaire et la réimportation de l'équipement ou du matériel réparé.\nL'apurement des opérations susvisées doit obéir aux règles et procédures définies par la réglementation en vigueur.\nLa présente note entre en application à partir de la date de sa signature.\nLe Directeur Général des Changes\nAli TOUATI\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "NOTE N°40-2000 DU 31 MAI 2000 AUX BANQUES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET ETABLISSEMENTS FINANCIERS INTERMEDIAIRES AGREES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Par dérogation à l'article 37 du règlement n°95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes, la présente note a pour objet de faire connaître qu'au titre des opérations de services liées directement à la réparation et la maintenance des équipements intégrés aux aéronefs, les banques et les établissements financiers intermédiaires agrées sont habilités à domicilier auprès de leur guichets cette catégorie d'importation de services initiée exclusivement par les compagnies aériennes nationales.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Cette domiciliation qui constitue l'opération préalable à tout début d'exécution physique et financière, est réalisée par la compagnie aérienne en fournissant à sa banque domiciliataire les documents ci-après :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- la demande y afférente formulée par la compagnie aérienne nationale,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- le contrat commercial ou la facture proforma ou une lettre de commande ferme ou un échange de correspondance comportant toutes les indications nécessaires indiquant clairement qu'il y a conclusion de contrat.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "A cet effet, les banques et les établissements financiers intermédiaires agrées sont autorisés à exécuter et après services faits, le transfert des frais correspondant sous réserve de la production par la compagnie aérienne nationale concernée des documents ci-après :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- la facture définitive dûment signée et approuvée par l'organe habilité de la compagnie concernée,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- l'attestation de services faits,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- les documents douaniers justifiant l'exportation temporaire et la réimportation de l'équipement ou du matériel réparé.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L'apurement des opérations susvisées doit obéir aux règles et procédures définies par la réglementation en vigueur.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La présente note entre en application à partir de la date de sa signature.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Directeur Général des Changes",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Ali TOUATI",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.024
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/NOT-40-00.fr.txt"
+}

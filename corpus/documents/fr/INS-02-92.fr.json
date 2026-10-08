@@ -1,0 +1,256 @@
+{
+  "document_id": "INS-02-92.fr",
+  "work_id": "INS-02-92",
+  "title": "Instruction n°02-92 du 15 avril 1992 modifiant l’instruction n°06-91 du 17 octobre 1991 fixant les modalités de règlement des importations dites “sans paiement” de marchandises réalisées dans le cadre des articles 40 et 41 de la loi de finances complémentaire pour 1990.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "02-92",
+  "number_source": "en-tête du document",
+  "date": "1992-04-15",
+  "date_raw": "N°02-92 DU 15 AVRIL 1992",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Règlementation des changes",
+  "source_url": "https://www.bank-of-algeria.dz/importations-exportations-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction0292.pdf",
+  "format": "pdf",
+  "file_hash": "cf484c35dc2e2d249fcdefe80ece6f588b7439242a505301ed7fef2118094ee6",
+  "file_size": 31304,
+  "raw_path": "raw/cf484c35dc2e__instruction0292.pdf",
+  "retrieved_at": "2026-10-05T13:21:10+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "75126f6bc18797031e32fdb7d602dc58d9c8414efa7d8287e9328fedb306ceb9",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-1992/",
+    "https://www.bank-of-algeria.dz/importations-exportations-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - INSTRUCTION 32-91",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200806102728+01'00'",
+    "modDate": "D:20200806102728+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 1929,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": false,
+    "article_count": 0,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°02-92 DU 15 AVRIL 1992 MODIFIANT L'INSTRUCTION N°06-91 DU 17 OCTORE 1991 FIXANT LES MODALITES DE REGLEMENT DES IMPORTATIONS DITES \"SANS PAIEMENT\" DE MARCHANDISES REALISEES DANS LE CADRE DES ARTICLES 40 ET 41 DE LA LOI DE FINANCES COMPLEMENTAIRE POUR 1990",
+  "alias_urls": [],
+  "text_hash": "a5323d7d981cb454c7ce7cd1070ffbb111d591d4486bbc69793c4fe189a434ef",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "06-91",
+        "date": "1991-10-17",
+        "raw": "instruction n°06-91 du 17 octobre 1991"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°02-92 du 15 avril 1992 modifiant l’instruction n°06-91 du 17 octobre 1991 fixant les modalités de règlement des i"
+      },
+      "target_work_id": "INS-06-91"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-06-91",
+      "reference": "instruction n°06-91 du 17 octobre 1991",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°02-92 du 15 avril 1992 modifiant l’instruction n°06-91 du 17 octobre 1991 fixant les modalités de règlement des i"
+      }
+    }
+  ],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°02-92 DU 15 AVRIL 1992 MODIFIANT L'INSTRUCTION\nN°06-91 DU 17 OCTORE 1991 FIXANT LES MODALITES DE REGLEMENT DES\nIMPORTATIONS DITES \"SANS PAIEMENT\" DE MARCHANDISES REALISEES\nDANS LE CADRE DES ARTICLES 40 ET 41 DE LA LOI DE FINANCES\nCOMPLEMENTAIRE POUR 1990\nLa présente Instruction a pour objet de modifier les dispositions des alinéas 4 paragraphe\nI \"dispositions générales\" 6 paragraphe II \"règlement des marchandises\" et 1 paragraphe\nIV \"autres dispositions\" ;\nI/- DISPOSITIONS GENERALES\nL'alinéa 4 est modifié et remplacé par le présent :\n4 - Toute importation de marchandises réalisée dans le cadre des articles 40 et 41 de la loi susvisée doit faire l'objet d'un règlement par débit du compte devises \"particulier\" de l'importateur. La justification bancaire du règlement est systématiquement fournie aux services des douanes lorsque le montant des marchandises importées est égal ou supérieur à la contre-valeur de 30.000 DA.\nToutefois, les services de douanes peuvent en cas de nécessité exiger de l'importateur la justification bancaire de règlement pour toute importation dont le montant est inférieur à la contre-valeur de 30.000 DA.\nII/- REGLEMENT DES MARCHANDISES\nL'alinéa 6 est modifié et remplacé par le présent :\n6 - La Banque domiciliataire signataire de l'engagement de paiement visé à l'alinéa 5 ci-dessus est responsable de la solvabilité en devises de l'importateur pour la réalisation à la date prévue par ledit engagement du règlement des importations bénéficiant d'un différé de paiement.\nIII/- AUTRES DISPOSITIONS\nL'alinéa 1 est modifié et remplacé par le présent :\n1 - Les services de la Direction Générale des douanes transmettront à la Banque d'Algérie (direction Générale des Changes) toutes informations utiles permettant le contrôle du respect par les intervenants des dispositions de la présente Instruction.\nLe Directeur Général des Changes\nAli TOUATI",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°02-92 DU 15 AVRIL 1992 MODIFIANT L'INSTRUCTION",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "N°06-91 DU 17 OCTORE 1991 FIXANT LES MODALITES DE REGLEMENT DES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "IMPORTATIONS DITES \"SANS PAIEMENT\" DE MARCHANDISES REALISEES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DANS LE CADRE DES ARTICLES 40 ET 41 DE LA LOI DE FINANCES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "COMPLEMENTAIRE POUR 1990",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La présente Instruction a pour objet de modifier les dispositions des alinéas 4 paragraphe",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "I \"dispositions générales\" 6 paragraphe II \"règlement des marchandises\" et 1 paragraphe",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "IV \"autres dispositions\" ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "I/- DISPOSITIONS GENERALES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L'alinéa 4 est modifié et remplacé par le présent :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "4 - Toute importation de marchandises réalisée dans le cadre des articles 40 et 41 de la loi susvisée doit faire l'objet d'un règlement par débit du compte devises \"particulier\" de l'importateur. La justification bancaire du règlement est systématiquement fournie aux services des douanes lorsque le montant des marchandises importées est égal ou supérieur à la contre-valeur de 30.000 DA.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Toutefois, les services de douanes peuvent en cas de nécessité exiger de l'importateur la justification bancaire de règlement pour toute importation dont le montant est inférieur à la contre-valeur de 30.000 DA.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "II/- REGLEMENT DES MARCHANDISES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L'alinéa 6 est modifié et remplacé par le présent :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "6 - La Banque domiciliataire signataire de l'engagement de paiement visé à l'alinéa 5 ci-dessus est responsable de la solvabilité en devises de l'importateur pour la réalisation à la date prévue par ledit engagement du règlement des importations bénéficiant d'un différé de paiement.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "III/- AUTRES DISPOSITIONS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L'alinéa 1 est modifié et remplacé par le présent :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "1 - Les services de la Direction Générale des douanes transmettront à la Banque d'Algérie (direction Générale des Changes) toutes informations utiles permettant le contrôle du respect par les intervenants des dispositions de la présente Instruction.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Directeur Général des Changes",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Ali TOUATI",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.033
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-02-92.fr.txt"
+}

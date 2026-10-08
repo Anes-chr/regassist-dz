@@ -1,0 +1,526 @@
+{
+  "document_id": "REG-96-02.fr",
+  "work_id": "REG-96-02",
+  "title": "Règlement n°96-02 du 13 mars portant émission et mise en circulation d’un billet de banque de deux cents (200) dinars algériens.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "96-02",
+  "number_source": "en-tête du document",
+  "date": "1996-03-13",
+  "date_raw": "N°96-02 DU 13 MARS 1996",
+  "date_source": "en-tête du document",
+  "publication_date": "2023-01-25",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "règlements",
+  "subcategory": "Billets: Émission et mise en circulation de billets de banque",
+  "source_url": "https://www.bank-of-algeria.dz/billets-emission-et-mise-en-circulation-de-billets-de-banque/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/reglement9602.pdf",
+  "format": "pdf",
+  "file_hash": "2a0274e2b45723e58319ff1ab24b9805f1119965929982413b174c47e6962cf7",
+  "file_size": 48428,
+  "raw_path": "raw/2a0274e2b457__reglement9602.pdf",
+  "retrieved_at": "2026-10-05T13:27:23+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "7e36c639f69273fe8980bd0438e9759d4451034676d6b0ce7e16bfa7f1ded1da",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/billets-emission-et-mise-en-circulation-de-billets-de-banque/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document4",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200713092233+01'00'",
+    "modDate": "D:20200713092233+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2393,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 1818,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 4,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "REGLEMENT N°96-02 DU 13 MARS 1996 PORTANT EMISSION ET MISE EN CIRCULATION D'UN BILLET DE BANQUE DE DEUX CENTS (200) DINARS ALGERIENS",
+  "alias_urls": [],
+  "text_hash": "6768a0f3a95ef3e923cf21604a30eb2e4aced4b86a2f8ec8fc5b865bff2bc894",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-96-02.ar"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "section",
+      "label": "Section C",
+      "number": null,
+      "heading": "Verso : en trois (3) couleurs juxtaposées :",
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 3",
+          "number": "3",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 4",
+          "number": "4",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°96-02 DU 13 MARS 1996 PORTANT EMISSION\nET MISE EN CIRCULATION D'UN BILLET DE BANQUE\nDE DEUX CENTS (200) DINARS ALGERIENS\nLe Gouverneur de la Banque d'Algérie,\n- Vu la Loi n°90-10 du 14 Avril 1990 relative à la monnaie et au crédit notamment les dispositions de son livre I et de ses articles 44 alinéa a, 47 et 107 ;\n- Vu le Décret Présidentiel du 21 Juillet 1992 portant nomination du Gouverneur de la Banque d'Algérie ;\n- Vu les Décrets Présidentiels du 14 Mai 1990 portant nomination de Vice\nGouverneurs de la Banque d'Algérie ;\n- Vu le Décret Exécutif du 1er Juillet 1991 portant désignation de Membres\nTitulaires et Suppléants au Conseil de la Monnaie et du Crédit ;\n- Vu le Règlement n°92-06 du 21 Mai 1992 portant création d'une série de billets de banque de mille (1000), cinq cents (500), deux cents (200), cent (100) et cinquante (50) dinars algériens ;\n- Après Délibération du Conseil de la Monnaie et du Crédit en date du 13 Mars 1996 ;\nPromulgue le Règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°96-02 DU 13 MARS 1996 PORTANT EMISSION",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET MISE EN CIRCULATION D'UN BILLET DE BANQUE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DE DEUX CENTS (200) DINARS ALGERIENS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d'Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la Loi n°90-10 du 14 Avril 1990 relative à la monnaie et au crédit notamment les dispositions de son livre I et de ses articles 44 alinéa a, 47 et 107 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 21 Juillet 1992 portant nomination du Gouverneur de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu les Décrets Présidentiels du 14 Mai 1990 portant nomination de Vice",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Gouverneurs de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Exécutif du 1er Juillet 1991 portant désignation de Membres",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Titulaires et Suppléants au Conseil de la Monnaie et du Crédit ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Règlement n°92-06 du 21 Mai 1992 portant création d'une série de billets de banque de mille (1000), cinq cents (500), deux cents (200), cent (100) et cinquante (50) dinars algériens ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Après Délibération du Conseil de la Monnaie et du Crédit en date du 13 Mars 1996 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le Règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Dans le cadre du Règlement n°92.06 du 21 Mai 1992 portant création d'une série de billets de banque de mille (1000), cinq cents (500, deux cents (200), cent (100)\net cinquante (50) dinars algériens, la Banque d'Algérie émet un billet de Deux cents\n(200) dinars algériens.\nCe nouveau billet sera mis en circulation après la promulgation du présent Règlement.",
+      "paragraphs": [
+        {
+          "text": "Dans le cadre du Règlement n°92.06 du 21 Mai 1992 portant création d'une série de billets de banque de mille (1000), cinq cents (500, deux cents (200), cent (100)",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "et cinquante (50) dinars algériens, la Banque d'Algérie émet un billet de Deux cents",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "(200) dinars algériens.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Ce nouveau billet sera mis en circulation après la promulgation du présent Règlement.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "Les signes récognitifs notamment les caractéristiques techniques détaillées de ce billet sont fixés ainsi qu'il suit :\n1 - Dimensions :\n- hors tout : 140 mm X 71,7 mm,\n- vignette : 100 mm X 61,7 mm.\n2 - Tonalité : brun rougeâtre.\n3 - Papier : filigrané, de type billet de banque, teint dans la masse en rose pâle.\n4 - Description :\nA - Thème général : Histoire de l'Algérie, période de la pénétration de l'Islam.\nB - Recto : en trois (3) couleurs juxtaposées :\n1/ fonds de sécurité : composé de figures géométriques, guilloches, micro impressions et, en numismatique graphique, textes et motifs décoratifs de la période considérée.\nLe fonds de sécurité couvre la zone de la vignette et la bande filigranée.\n2/ vignette : elle reproduit une scène de lecture du Coran dans une école traditionnelle ainsi que des Kalam (symboles de la pénétration de l'Islam en Algérie comme ils l'ont été au début du message coranique).\n3/ textes en langue nationale :\n\"Banque d'Algérie\", \"Deux cents dinars\".\n4/ chiffres \"200\" positionnés horizontalement sur les deux angles - supérieur droit et inférieur gauche - de la vignette.\n5/ signatures.\n6/ numéros.\n7/ date.",
+      "paragraphs": [
+        {
+          "text": "Les signes récognitifs notamment les caractéristiques techniques détaillées de ce billet sont fixés ainsi qu'il suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "1 - Dimensions :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- hors tout : 140 mm X 71,7 mm,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- vignette : 100 mm X 61,7 mm.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "2 - Tonalité : brun rougeâtre.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "3 - Papier : filigrané, de type billet de banque, teint dans la masse en rose pâle.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "4 - Description :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "A - Thème général : Histoire de l'Algérie, période de la pénétration de l'Islam.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "B - Recto : en trois (3) couleurs juxtaposées :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "1/ fonds de sécurité : composé de figures géométriques, guilloches, micro impressions et, en numismatique graphique, textes et motifs décoratifs de la période considérée.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le fonds de sécurité couvre la zone de la vignette et la bande filigranée.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "2/ vignette : elle reproduit une scène de lecture du Coran dans une école traditionnelle ainsi que des Kalam (symboles de la pénétration de l'Islam en Algérie comme ils l'ont été au début du message coranique).",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "3/ textes en langue nationale :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "\"Banque d'Algérie\", \"Deux cents dinars\".",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "4/ chiffres \"200\" positionnés horizontalement sur les deux angles - supérieur droit et inférieur gauche - de la vignette.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "5/ signatures.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "6/ numéros.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "7/ date.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "C",
+          "heading": "Verso : en trois (3) couleurs juxtaposées :",
+          "label": "Section C"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "1/ fonds de sécurité : composé de figures géométriques, guilloches, micro impressions et, en numismatique graphique, textes et motifs décoratifs de la période considérée.\nLe fonds de sécurité couvre la zone de la vignette et de la bande filigranée.\n2/ vignette : elle reproduit des motifs décoratifs et des symboles issus du message coranique (Mosquée - 7 cercles concentriques symbolisant les 7 cieux superposés - branches de figuier et d'olivier).\n3/ textes en langue nationale :\n\"Banque d'Algérie\", \"Deux cents dinars\".\n4/ chiffres \"200\" positionnés horizontalement sur les deux angles - supérieur droit et inférieur gauche - de la vignette.\n5/ mention en langue nationale : \"l'article 197 du Code Pénal punit les contrefacteurs\".\n5 - Filigrane : en continu, à l'intérieur d'une bande verticale située à gauche du billet au recto et à droite au verso.\nLe filigrane reproduit des têtes de cheval barbe.\n6 - Fil de sécurité : de type \"WINDOW-THREAD\", micro imprimé, apparaissant dans la partie centrale droite du recto, en zones alternativement argentées brillantes et sombres.\nLe fil est visible par transparence, tant au recto qu'au verso.",
+      "paragraphs": [
+        {
+          "text": "1/ fonds de sécurité : composé de figures géométriques, guilloches, micro impressions et, en numismatique graphique, textes et motifs décoratifs de la période considérée.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le fonds de sécurité couvre la zone de la vignette et de la bande filigranée.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "2/ vignette : elle reproduit des motifs décoratifs et des symboles issus du message coranique (Mosquée - 7 cercles concentriques symbolisant les 7 cieux superposés - branches de figuier et d'olivier).",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "3/ textes en langue nationale :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "\"Banque d'Algérie\", \"Deux cents dinars\".",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "4/ chiffres \"200\" positionnés horizontalement sur les deux angles - supérieur droit et inférieur gauche - de la vignette.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "5/ mention en langue nationale : \"l'article 197 du Code Pénal punit les contrefacteurs\".",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "5 - Filigrane : en continu, à l'intérieur d'une bande verticale située à gauche du billet au recto et à droite au verso.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le filigrane reproduit des têtes de cheval barbe.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "6 - Fil de sécurité : de type \"WINDOW-THREAD\", micro imprimé, apparaissant dans la partie centrale droite du recto, en zones alternativement argentées brillantes et sombres.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le fil est visible par transparence, tant au recto qu'au verso.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "C",
+          "heading": "Verso : en trois (3) couleurs juxtaposées :",
+          "label": "Section C"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les nouveaux billets de banque circuleront concomitamment avec ceux des anciennes séries.",
+      "paragraphs": [
+        {
+          "text": "Les nouveaux billets de banque circuleront concomitamment avec ceux des anciennes séries.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "C",
+          "heading": "Verso : en trois (3) couleurs juxtaposées :",
+          "label": "Section C"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le présent Règlement sera publié au Journal Officiel de la République\nAlgérienne Démocratique et Populaire.\nLe Gouverneur\nAbdelouahab KERAMANE",
+      "paragraphs": [
+        {
+          "text": "Le présent Règlement sera publié au Journal Officiel de la République",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Algérienne Démocratique et Populaire.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.06
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-96-02.fr.txt"
+}

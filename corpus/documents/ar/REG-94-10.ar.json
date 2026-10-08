@@ -1,0 +1,311 @@
+{
+  "document_id": "REG-94-10.ar",
+  "work_id": "REG-94-10",
+  "title": "نظام رقم 94-10 المؤرخ في 12 أبريل 1994 يعدل النظام رقم 90-02 المؤرخ في 8 سبتمبر 1990 الذي يحدد شروط فتح وسير حسابات بالعملة الصعبة للأشخاص المعنويين.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "94-10",
+  "number_source": "libelle",
+  "date": "1994-04-12",
+  "date_raw": "المؤرخ في 12 أبريل 1994",
+  "date_source": "libelle",
+  "publication_date": "2023-02-28",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "règlements",
+  "subcategory": "تنظيم الصرف",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%aa%d9%86%d8%b8%d9%8a%d9%85-%d8%a7%d9%84%d8%b5%d8%b1%d9%81-2/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/02/10-94.pdf",
+  "format": "pdf",
+  "file_hash": "c8dd21930f564b005621e9d0c236acf972d006f550522afe9b868b52c90e941f",
+  "file_size": 379043,
+  "raw_path": "raw/c8dd21930f56__10-94.pdf",
+  "retrieved_at": "2026-10-05T13:29:01+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 1,
+  "url_hash": "5c6c3617f5c29d0288f2bb27bd69712f9d52adc95f385f4d8d03830f08f9c75a",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%aa%d9%86%d8%b8%d9%8a%d9%85-%d8%a7%d9%84%d8%b5%d8%b1%d9%81-2/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "author": "lynda benhaha",
+    "creator": "Microsoft® Word 2016",
+    "producer": "Microsoft® Word 2016",
+    "creationDate": "D:20230227095232+01'00'",
+    "modDate": "D:20230227095232+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 1426,
+        "ocr_confidence": 87.19702602230483
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 1,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine"
+  ],
+  "title_document": "نظام رقم 94- 10 مؤرخ في أول ذي القعدة عام 1414 الموافق 12 أبريل Liu‏ 1994 يعدل النظام رقم 02-90 المؤرخ في 8 سبتمبر Lin‏ 1990 الذي يحدد شروط فتع وسير حسابات بالعملة الصعبة إن محافظ بنك الجزائر, - بمقتضى القانون رقم 10-90 المؤرخ في 19 رمضان عام 1410 الموافق 14 أبريل سنة 1990",
+  "alias_urls": [],
+  "text_hash": "3732e39cff849b7ca9fab7f9bc3b8269240ebc91c8be77ba0f566d9244d86c17",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "92-02",
+        "date": "1990-09-08",
+        "raw": "règlement n°92-02 du 8 septembre 1990"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°94-10 du 13 avril 1994 modifiant le règlement n°92-02 du 8 septembre 1990 fixant les conditions d’ouverture et de",
+        "copied_from": "REG-94-10.fr"
+      },
+      "target_work_id": "REG-92-02"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "90-02",
+        "date": "1990-09-08",
+        "raw": "REGLEMENT N°90-02 DU 08 SEPTEMBRE 1990"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "REGLEMENT N°94-10 DU 12 AVRIL 1994 MODIFIANT LE REGLEMENT N°90-02 DU 08 SEPTEMBRE 1990 FIXANT LES CONDITIONS D'OUVERTURE ET DE",
+        "copied_from": "REG-94-10.fr"
+      },
+      "target_work_id": "REG-90-02"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "90-02",
+        "date": "1990-09-08",
+        "raw": "Règlement n°90-02 du 08 Septembre 1990"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "ie et du Crédit en date du 12 avril 1994 ; Promulgue le Règlement dont la teneur suit : Article unique : L'article 7 du Règlement n°90-02 du 08 Septembre 1990 fixant les conditions d'ouverture et de",
+        "copied_from": "REG-94-10.fr"
+      },
+      "target_work_id": "REG-90-02"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "REG-92-02",
+      "reference": "règlement n°92-02 du 8 septembre 1990",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°94-10 du 13 avril 1994 modifiant le règlement n°92-02 du 8 septembre 1990 fixant les conditions d’ouverture et de",
+        "copied_from": "REG-94-10.fr"
+      }
+    },
+    {
+      "work_id": "REG-90-02",
+      "reference": "REGLEMENT N°90-02 DU 08 SEPTEMBRE 1990",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "REGLEMENT N°94-10 DU 12 AVRIL 1994 MODIFIANT LE REGLEMENT N°90-02 DU 08 SEPTEMBRE 1990 FIXANT LES CONDITIONS D'OUVERTURE ET DE",
+        "copied_from": "REG-94-10.fr"
+      }
+    },
+    {
+      "work_id": "REG-90-02",
+      "reference": "Règlement n°90-02 du 08 Septembre 1990",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "ie et du Crédit en date du 12 avril 1994 ; Promulgue le Règlement dont la teneur suit : Article unique : L'article 7 du Règlement n°90-02 du 08 Septembre 1990 fixant les conditions d'ouverture et de",
+        "copied_from": "REG-94-10.fr"
+      }
+    }
+  ],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-94-10.fr",
+    "REG-94-10.fr~2"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "ocr_numeric_check": {
+    "units": 2,
+    "units_flagged": 0,
+    "units_compared_with_french": 0,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article و",
+      "number": "و",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "نظام رقم 94- 10 مؤرخ في أول ذي القعدة عام 1414 الموافق 12 أبريل Liu‏ 1994 يعدل النظام رقم 02-90 المؤرخ في 8 سبتمبر Lin‏ 1990 الذي يحدد شروط فتع وسير حسابات بالعملة الصعبة إن محافظ بنك الجزائر,\n- بمقتضى القانون رقم 10-90 المؤرخ في 19 رمضان عام 1410 الموافق 14 أبريل سنة 1990 والمتعلق بالنقد والقرض, لا سيما المواد 32 إلى 41 والمواد 44 ك و193 الى 199 منه؛\n- وبمقتضى المرسوم الرئاسي المؤرخ في 20 محرم عام 1413 الموافق 21 يوليو سنة 1992 والمتضمن تعيين محافظ بنك الجزائر,\n- وبمقتضى المراسيم الرئاسية المؤرخة.في 19 شوال عام 0 الموافق 14 مايو un‏ 1990 والمتضمنة تعيين نواب محافظ البنك المركزي الجزائري»\n- وبمقتضى المرسوم التنفيذي المؤرخ في 18 ذي الحجة عام 1411 الموافق Jai‏ يوليو سنة 1991 مجلس النقد والقرض»؛\n- وبمقتضى النظام رقم 90 - 02 المؤرخ في 18 صفر عام 1411 الموافق 8 سبتمبر سنة 1990 الذي يحدد شروط فتعح وسير حسابات بالمملة الصعبة للأشخاص المعنويين,\n- وبمقتضى النظام رقم 92 - 04 المؤرخ في 17 رمضان عام 1412 الموافق 22 مارس سنة 1992 والمتعلق بمراقبة الصرف,\n- وبعد مداولة مجلس النقد والقرض المؤرخة في أول ذى القعدة عام 4 الموافق 12 أبريل سنة 1994 ! Lai gl يصدر النظام‎",
+      "paragraphs": [
+        {
+          "text": "نظام رقم 94- 10 مؤرخ في أول ذي القعدة عام 1414 الموافق 12 أبريل Liu‏ 1994 يعدل النظام رقم 02-90 المؤرخ في 8 سبتمبر Lin‏ 1990 الذي يحدد شروط فتع وسير حسابات بالعملة الصعبة إن محافظ بنك الجزائر,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- بمقتضى القانون رقم 10-90 المؤرخ في 19 رمضان عام 1410 الموافق 14 أبريل سنة 1990 والمتعلق بالنقد والقرض, لا سيما المواد 32 إلى 41 والمواد 44 ك و193 الى 199 منه؛",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى المرسوم الرئاسي المؤرخ في 20 محرم عام 1413 الموافق 21 يوليو سنة 1992 والمتضمن تعيين محافظ بنك الجزائر,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى المراسيم الرئاسية المؤرخة.في 19 شوال عام 0 الموافق 14 مايو un‏ 1990 والمتضمنة تعيين نواب محافظ البنك المركزي الجزائري»",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى المرسوم التنفيذي المؤرخ في 18 ذي الحجة عام 1411 الموافق Jai‏ يوليو سنة 1991 مجلس النقد والقرض»؛",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى النظام رقم 90 - 02 المؤرخ في 18 صفر عام 1411 الموافق 8 سبتمبر سنة 1990 الذي يحدد شروط فتعح وسير حسابات بالمملة الصعبة للأشخاص المعنويين,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى النظام رقم 92 - 04 المؤرخ في 17 رمضان عام 1412 الموافق 22 مارس سنة 1992 والمتعلق بمراقبة الصرف,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبعد مداولة مجلس النقد والقرض المؤرخة في أول ذى القعدة عام 4 الموافق 12 أبريل سنة 1994 ! Lai gl يصدر النظام‎",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article و",
+      "number": "و",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "حيدة : تعدل المادة 7 من النظام رقم المعنويين وتحرر كما يلي :\n' المادة 7: تعطي الصادرات من المواد والبضائع والخدمات غير تلك المشار إليها في المادة 6 أعلاة؛ الحق للمصدر أن يقيد كلا أو جزءا من المبالغ المرحلة إلى الجزائر فى الحسابات بالعملات الصعبة 'للأشخاص من بنك الجزائر\".\nحرر بالجزائر في أول ذي القعدة عام 1414 الموافق 12 أبريل سنة 1994.\nعبد الوهاب كرمان",
+      "paragraphs": [
+        {
+          "text": "حيدة : تعدل المادة 7 من النظام رقم المعنويين وتحرر كما يلي :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "' المادة 7: تعطي الصادرات من المواد والبضائع والخدمات غير تلك المشار إليها في المادة 6 أعلاة؛ الحق للمصدر أن يقيد كلا أو جزءا من المبالغ المرحلة إلى الجزائر فى الحسابات بالعملات الصعبة 'للأشخاص من بنك الجزائر\".",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "حرر بالجزائر في أول ذي القعدة عام 1414 الموافق 12 أبريل سنة 1994.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "عبد الوهاب كرمان",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.032,
+      "ocr_pages": [
+        1
+      ],
+      "ocr_mean_confidence": 87.2
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/REG-94-10.ar.txt"
+}

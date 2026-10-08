@@ -1,0 +1,398 @@
+{
+  "document_id": "INS-01-08.fr",
+  "work_id": "INS-01-08",
+  "title": "Instruction n°01-2008 du 09 mars 2008 relative a la collecte des renseignements concernant les crédits consentis aux particuliers par les banques, les établissements financiers et les coopératives d’épargne et de crédit.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "01-2008",
+  "number_source": "en-tête du document",
+  "date": "2008-03-09",
+  "date_raw": "N°01-2008 DU 09 MARS 2008",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-02",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Règles comptables et déclarations statistiques par les banques et établissements financiers",
+  "source_url": "https://www.bank-of-algeria.dz/situations-comptables-mensuelles-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/02/instruction012008.pdf",
+  "format": "pdf",
+  "file_hash": "41a6016f8a7f556ea3affde62816cecebe8fa922e627dbe6ad08ec1102eb1881",
+  "file_size": 52564,
+  "raw_path": "raw/41a6016f8a7f__instruction012008.pdf",
+  "retrieved_at": "2026-10-05T13:20:03+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "e46f9112657e44478d4cab1dac6d1c2c116d3ebb1ca95dbcb9eecd1b88ab81e8",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-2008/",
+    "https://www.bank-of-algeria.dz/situations-comptables-mensuelles-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Microsoft Word - instruction012008",
+    "author": "chahra.yahiaoui",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "creationDate": "D:20210211143805+01'00'",
+    "modDate": "D:20210211143805+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2201,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 6,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°01-2008 DU 09 MARS 2008 RELATIVE A LA COLLECTE DES RENSEIGNEMENTS CONCERNANT LES CRÉDITS CONSENTIS AUX PARTICULIERS PAR LES BANQUES, LES ÉTABLISSEMENTS FINANCIERS ET LES COOPÉRATIVES D’ÉPARGNE ET DE CRÉDIT",
+  "alias_urls": [],
+  "text_hash": "950cd9c1b9f0763df7a5d98c732e7528d22f58883b72f9c3ddbfb5eb3f739529",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [
+    {
+      "work_id": "INS-04-19",
+      "document_id": "INS-04-19.fr",
+      "date": "2019-12-31",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 6,
+        "quote": "ée, respectivement par l’instruction n°56-94 du 07 septembre 1994, l’instruction n°07-2005 du 11 août 2005, ainsi que l’instruction n°01-2008 du 9 mars 2008, sont abrogées."
+      }
+    }
+  ],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "INS-04-19",
+      "document_id": "INS-04-19.fr",
+      "date": "2019-12-31",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 6,
+        "quote": "ée, respectivement par l’instruction n°56-94 du 07 septembre 1994, l’instruction n°07-2005 du 11 août 2005, ainsi que l’instruction n°01-2008 du 9 mars 2008, sont abrogées."
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [
+    "INS-01-08.ar"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [
+    {
+      "work_id": "INS-04-19",
+      "document_id": "INS-04-19.fr",
+      "date": "2019-12-31",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 6,
+        "quote": "ée, respectivement par l’instruction n°56-94 du 07 septembre 1994, l’instruction n°07-2005 du 11 août 2005, ainsi que l’instruction n°01-2008 du 9 mars 2008, sont abrogées."
+      }
+    }
+  ],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°01-2008 DU 09 MARS 2008 RELATIVE A LA COLLECTE\nDES RENSEIGNEMENTS CONCERNANT LES CRÉDITS CONSENTIS\nAUX PARTICULIERS PAR LES BANQUES, LES ÉTABLISSEMENTS FINANCIERS ET\nLES COOPÉRATIVES D’ÉPARGNE ET DE CRÉDIT",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°01-2008 DU 09 MARS 2008 RELATIVE A LA COLLECTE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DES RENSEIGNEMENTS CONCERNANT LES CRÉDITS CONSENTIS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AUX PARTICULIERS PAR LES BANQUES, LES ÉTABLISSEMENTS FINANCIERS ET",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "LES COOPÉRATIVES D’ÉPARGNE ET DE CRÉDIT",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Conformément à l’ordonnance n°03-11 du 26 août 2003, relative à la monnaie et au crédit et en application du Règlement n°92-01 du 22 mars 1992, portant organisation et fonctionnement de la Centrale des risques, la présente instruction a pour objet de fixer les modalités de collecte par la Banque d’Algérie, des renseignements relatifs aux crédits consentis aux particuliers dans un but privé par les banques, les établissements financiers ainsi que les coopératives d’épargne et de crédit.",
+      "paragraphs": [
+        {
+          "text": "Conformément à l’ordonnance n°03-11 du 26 août 2003, relative à la monnaie et au crédit et en application du Règlement n°92-01 du 22 mars 1992, portant organisation et fonctionnement de la Centrale des risques, la présente instruction a pour objet de fixer les modalités de collecte par la Banque d’Algérie, des renseignements relatifs aux crédits consentis aux particuliers dans un but privé par les banques, les établissements financiers ainsi que les coopératives d’épargne et de crédit.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les banques, les établissements financiers ainsi que les coopératives d’épargne et de crédit sont tenues de communiquer périodiquement à la Banque d’Algérie, au titre de la centrale des risques, la liste des personnes physiques bénéficiaires de crédits ainsi que les montants des crédits consentis.\nCes déclarations sont effectuées par les guichets qui octroient les crédits. Elles font l’objet d’une transmission à leurs sièges sociaux, qui en assurent une remise centralisée de la Banque d’Algérie.",
+      "paragraphs": [
+        {
+          "text": "Les banques, les établissements financiers ainsi que les coopératives d’épargne et de crédit sont tenues de communiquer périodiquement à la Banque d’Algérie, au titre de la centrale des risques, la liste des personnes physiques bénéficiaires de crédits ainsi que les montants des crédits consentis.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Ces déclarations sont effectuées par les guichets qui octroient les crédits. Elles font l’objet d’une transmission à leurs sièges sociaux, qui en assurent une remise centralisée de la Banque d’Algérie.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les crédits sont déclarés mensuellement à la Banque d’Algérie. Ces déclarations doivent parvenir dans les quinze (15) jours qui suivent la clôture du mois de référence.",
+      "paragraphs": [
+        {
+          "text": "Les crédits sont déclarés mensuellement à la Banque d’Algérie. Ces déclarations doivent parvenir dans les quinze (15) jours qui suivent la clôture du mois de référence.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les banqués, les établissements financiers ainsi que les coopératives d’épargne et de crédit communiquent à la Banque d’Algérie la liste des particuliers ayant bénéficié de crédit (s) à titre privé.\nPour chaque bénéficiaire de crédit, les banques, les établissements financiers ainsi que les coopératives d’épargne et de crédit doivent communiquer :\n- les nom et prénom(s) ;\n- la date et lieu de naissance ;\n- l’adresse ;\n- le numéro de sécurité sociale ;\n- montant(s) du crédit.",
+      "paragraphs": [
+        {
+          "text": "Les banqués, les établissements financiers ainsi que les coopératives d’épargne et de crédit communiquent à la Banque d’Algérie la liste des particuliers ayant bénéficié de crédit (s) à titre privé.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Pour chaque bénéficiaire de crédit, les banques, les établissements financiers ainsi que les coopératives d’épargne et de crédit doivent communiquer :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- les nom et prénom(s) ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- la date et lieu de naissance ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- l’adresse ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- le numéro de sécurité sociale ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- montant(s) du crédit.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les informations sont à communiquer à la Banque d’Algérie sur support magnétique, par type de crédit.",
+      "paragraphs": [
+        {
+          "text": "Les informations sont à communiquer à la Banque d’Algérie sur support magnétique, par type de crédit.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente Instruction prend effet à compter du 16 mars 2008.\nLe Gouverneur\nMohammed LAKSACI\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "La présente Instruction prend effet à compter du 16 mars 2008.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.038
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-01-08.fr.txt"
+}

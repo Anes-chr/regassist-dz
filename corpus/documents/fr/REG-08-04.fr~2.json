@@ -1,0 +1,456 @@
+{
+  "document_id": "REG-08-04.fr~2",
+  "work_id": "REG-08-04",
+  "title": "Règlement n°2008-04 du 23 décembre 2008 relatif au capital minimum des banques et établissements financiers exerçant en Algérie.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "2008-04",
+  "number_source": "en-tête du document",
+  "date": "2008-12-23",
+  "date_raw": "N°2008-04 DU 23 DECEMBRE 2008",
+  "date_source": "en-tête du document",
+  "publication_date": "2023-01-25",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Conditions de constitution et d'installation de banques, d'établissements financiers de PSP et capital minimum",
+  "source_url": "https://www.bank-of-algeria.dz/importations-exportations-reglement/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/reglement200804.pdf",
+  "format": "pdf",
+  "file_hash": "9c5fbf4af45187f4e87df4cbe3f3ded80ece67d95da13f17f52b5ad631941c5f",
+  "file_size": 51374,
+  "raw_path": "raw/9c5fbf4af451__reglement200804.pdf",
+  "retrieved_at": "2026-10-05T13:26:46+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "0fa9d4a7cffbf753e74bdf72e1b59c90a259d448aea5b7797a78e5b2cd1db557",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/importations-exportations-reglement/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - 1",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200722113102+01'00'",
+    "modDate": "D:20200722113102+01'00'"
+  },
+  "hijri_date_raw": "27 Joumada Ethania 1424",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 3013,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 339,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 6,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "meme_texte_plusieurs_fichiers"
+  ],
+  "title_document": "REGLEMENT N°2008-04 DU 23 DECEMBRE 2008 RELATIF AU CAPITAL MINIMUM DES BANQUES ET ETABLISSEMENTS FINANCIERS EXERÇANT EN ALGERIE",
+  "alias_urls": [],
+  "text_hash": "db009e53971081e2eab4b9cbc1b060c7fba6f617bf44e1dc9a35d17536bcaf46",
+  "relations_out": [
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "04-01",
+        "date": "2004-03-04",
+        "raw": "Règlement n°04-01 du 4 mars 2004"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Les dispositions du Règlement n°04-01 du 4 mars 2004 relatif au capital minimum des banques"
+      },
+      "target_work_id": "REG-04-01"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "REG-04-01",
+      "reference": "Règlement n°04-01 du 4 mars 2004",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Les dispositions du Règlement n°04-01 du 4 mars 2004 relatif au capital minimum des banques"
+      }
+    }
+  ],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [
+    {
+      "work_id": "REG-18-03",
+      "document_id": "REG-18-03.fr",
+      "date": "2018-11-04",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Les dispositions du Règlement n°08-04 du 23 décembre 2008 relatif au capital minimum des banques"
+      }
+    }
+  ],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "REG-18-03",
+      "document_id": "REG-18-03.fr",
+      "date": "2018-11-04",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Les dispositions du Règlement n°08-04 du 23 décembre 2008 relatif au capital minimum des banques"
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [
+    "REG-08-04.ar",
+    "REG-08-04.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [
+    {
+      "work_id": "REG-18-03",
+      "document_id": "REG-18-03.fr",
+      "date": "2018-11-04",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Les dispositions du Règlement n°08-04 du 23 décembre 2008 relatif au capital minimum des banques"
+      }
+    }
+  ],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°2008-04 DU 23 DECEMBRE 2008 RELATIF\nAU CAPITAL MINIMUM DES BANQUES\nET ETABLISSEMENTS FINANCIERS EXERÇANT EN ALGERIE\nLe Gouverneur de la Banque d'Algérie,\n- Vu l’Ordonnance n° 03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003 relative à la monnaie et au crédit, notamment ses articles 62, 63, 64, 65 et 88 ;\n- Vu le Décret Présidentiel du 10 Rabie El Aouel 1422 correspondant au 02 juin 2001 portant nomination du Gouverneur et Vice-Gouverneurs de la Banque d’Algérie ;\n- Vu le Décret Présidentiel du 10 Rabie El Aouel 1422 correspondant au 2 juin 2001 portant nomination des membres du Conseil d’Administration de la Banque d’Algérie ;\n- Vu le Décret Présidentiel du 05 Djoumada El Aouel 1427 correspondant au 1er juin 2006 portant nomination d’un Vice-Gouverneur de la Banque d’Algérie ;\n- Vu le Règlement n°04-01 du 4 mars 2004 relatif au capital minimum des banques et établissements financiers exerçant en Algérie ;\n- Vu la délibération du Conseil de la monnaie et du crédit du 23 décembre 2008 ;\nPromulgue le Règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°2008-04 DU 23 DECEMBRE 2008 RELATIF",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AU CAPITAL MINIMUM DES BANQUES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET ETABLISSEMENTS FINANCIERS EXERÇANT EN ALGERIE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d'Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’Ordonnance n° 03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003 relative à la monnaie et au crédit, notamment ses articles 62, 63, 64, 65 et 88 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 10 Rabie El Aouel 1422 correspondant au 02 juin 2001 portant nomination du Gouverneur et Vice-Gouverneurs de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 10 Rabie El Aouel 1422 correspondant au 2 juin 2001 portant nomination des membres du Conseil d’Administration de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 05 Djoumada El Aouel 1427 correspondant au 1er juin 2006 portant nomination d’un Vice-Gouverneur de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Règlement n°04-01 du 4 mars 2004 relatif au capital minimum des banques et établissements financiers exerçant en Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la délibération du Conseil de la monnaie et du crédit du 23 décembre 2008 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le Règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le présent Règlement a pour objet de fixer le capital minimum que doivent libérer, à leur constitution, les banques et établissements financiers exerçant en Algérie.",
+      "paragraphs": [
+        {
+          "text": "Le présent Règlement a pour objet de fixer le capital minimum que doivent libérer, à leur constitution, les banques et établissements financiers exerçant en Algérie.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les banques et établissements financiers, constitués sous forme de société par actions de droit algérien, doivent disposer, à leur constitution, d’un capital libéré en totalité et en numéraire au moins égal à :\na- Dix milliards de dinars (10 000 000 000 DA) pour les banques visées à l’article 70 de l’Ordonnance n° 03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003 susvisée ;\nb- Trois milliards cinq cent millions de dinars (3 500 000 000 DA) pour les établissements financiers définis à l’article 71 de l’ordonnance n° 03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003 susvisée.",
+      "paragraphs": [
+        {
+          "text": "Les banques et établissements financiers, constitués sous forme de société par actions de droit algérien, doivent disposer, à leur constitution, d’un capital libéré en totalité et en numéraire au moins égal à :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "a- Dix milliards de dinars (10 000 000 000 DA) pour les banques visées à l’article 70 de l’Ordonnance n° 03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003 susvisée ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "b- Trois milliards cinq cent millions de dinars (3 500 000 000 DA) pour les établissements financiers définis à l’article 71 de l’ordonnance n° 03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003 susvisée.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les banques et établissements financiers dont le siège social est à l’étranger sont tenus d’affecter à leurs succursales, autorisées par le Conseil de la monnaie et du crédit pour effectuer des opérations de banque en Algérie, une dotation au moins égale au capital minimum exigé pour la constitution des banques et établissements financiers de droit algérien relevant de la même catégorie, pour laquelle la succursale a été autorisée.\nCette dotation doit être libérée dans les mêmes conditions que celles prévues à l’article 2 ci-dessus.",
+      "paragraphs": [
+        {
+          "text": "Les banques et établissements financiers dont le siège social est à l’étranger sont tenus d’affecter à leurs succursales, autorisées par le Conseil de la monnaie et du crédit pour effectuer des opérations de banque en Algérie, une dotation au moins égale au capital minimum exigé pour la constitution des banques et établissements financiers de droit algérien relevant de la même catégorie, pour laquelle la succursale a été autorisée.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Cette dotation doit être libérée dans les mêmes conditions que celles prévues à l’article 2 ci-dessus.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les banques et établissements financiers en activité disposent d’un délai de douze (12) mois, à compter de la date de promulgation du présent règlement, pour se mettre en conformité.\nA l’expiration du délai prévu à l’alinéa 1er ci-dessus, les banques et établissements financiers qui ne se seront pas conformés aux prescriptions du présent Règlement se verront retirer l’agrément dans le cadre de l’article 95 de l’Ordonnance n° 03-11 du 27\nJoumada Ethania 1424 correspondant au 26 août 2003 susvisée.",
+      "paragraphs": [
+        {
+          "text": "Les banques et établissements financiers en activité disposent d’un délai de douze (12) mois, à compter de la date de promulgation du présent règlement, pour se mettre en conformité.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "A l’expiration du délai prévu à l’alinéa 1er ci-dessus, les banques et établissements financiers qui ne se seront pas conformés aux prescriptions du présent Règlement se verront retirer l’agrément dans le cadre de l’article 95 de l’Ordonnance n° 03-11 du 27",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Joumada Ethania 1424 correspondant au 26 août 2003 susvisée.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les dispositions du Règlement n°04-01 du 4 mars 2004 relatif au capital minimum des banques et établissements financiers exerçant en Algérie susvisé, sont abrogées.",
+      "paragraphs": [
+        {
+          "text": "Les dispositions du Règlement n°04-01 du 4 mars 2004 relatif au capital minimum des banques et établissements financiers exerçant en Algérie susvisé, sont abrogées.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le présent Règlement sera publié au Journal Officiel de la République algérienne démocratique et populaire.\nLe Gouverneur\nMohammed LAKSACI",
+      "paragraphs": [
+        {
+          "text": "Le présent Règlement sera publié au Journal Officiel de la République algérienne démocratique et populaire.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "meme_texte_plusieurs_fichiers"
+    ],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.034
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-08-04.fr~2.txt"
+}

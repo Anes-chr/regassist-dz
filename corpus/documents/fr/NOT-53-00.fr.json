@@ -1,0 +1,265 @@
+{
+  "document_id": "NOT-53-00.fr",
+  "work_id": "NOT-53-00",
+  "title": "ote n°53-2000 du 27 novembre 2000 relative à la codification de la domiciliation bancaire à l’importation.",
+  "document_type": "note",
+  "type_code": "NOT",
+  "type_source": "filename",
+  "number": "53-2000",
+  "number_source": "en-tête du document",
+  "date": "2000-11-27",
+  "date_raw": "N°53-2000 DU 27 NOVEMBRE 2000",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-05",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "notes_aux_banques",
+  "subcategory": "Année 2000",
+  "source_url": "https://www.bank-of-algeria.dz/les-notes-aux-banques-2000/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/05/note532000.pdf",
+  "format": "pdf",
+  "file_hash": "88602335703250b2caa594e5945c00cc2c48f339203a6da544cde58d3422ac86",
+  "file_size": 541718,
+  "raw_path": "raw/886023357032__note532000.pdf",
+  "retrieved_at": "2026-10-05T13:24:40+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "3ebc3b3df307b154e41a2cc12950563c13ef3beb4b674708fcc3399bcd6cecaf",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/les-notes-aux-banques-2000/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document1",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210228143743+01'00'",
+    "modDate": "D:20210228143743+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2033,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 46,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": false,
+    "article_count": 0,
+    "annex_count": 1
+  },
+  "quality_flags": [],
+  "title_document": "NOTE N°53-2000 DU 27 NOVEMBRE 2000 AUX BANQUES ET ETABLISSEMENTS FINANCIERS INTERMEDIAIRES AGREES Objet : Circulaires n°s 43 et 43 bis aux intermédiaires agréés des 26 décembre 1975 et 20 janvier 1976, relatives à la codification de la domiciliation bancaire à l'importation.",
+  "alias_urls": [],
+  "text_hash": "40fba3f66a67340df33939ba7faadce9919404af1e6c244df3939ed1900a9282",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe A",
+      "number": "A",
+      "heading": "LA NOTE N°53-2000 DU 27 NOVEMBRE 2000",
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "NOTE N°53-2000 DU 27 NOVEMBRE 2000 AUX BANQUES\nET ETABLISSEMENTS FINANCIERS INTERMEDIAIRES AGREES\nObjet : Circulaires n°s 43 et 43 bis aux intermédiaires agréés des 26 décembre 1975 et 20 janvier 1976, relatives à la codification de la domiciliation bancaire à l'importation.\nDans le cadre de l'uniformisation de la domiciliation bancaire à l'importation et dans le souci d'améliorer le circuit d'information et de rendre plus efficient l'exploitation des données statistiques, il a été décidé d'apporter les correctifs nécessaires aux dispositions des circulaires n°s 43 et 43 bis suscitées.\nPour permettre une application uniforme au niveau de tous les guichets domiciliataires, les banques et établissements financiers, intermédiaires agréés sont invités à instruire l'ensemble de leur réseau de ce qui suit :\n- La codification de la domiciliation bancaire réaménagée est composée de vingt et un chiffres et se décompose dans l'ordre suivant :\na b c d e f g h\na) - deux chiffres qui correspondent au lieu d'implantation géographique de la banque déterminée par le code wilaya ;\nb) - deux chiffres qui correspondent au code agrément banque ;\nc) - deux chiffres qui correspondent au code agrément du guichet domiciliataire ;\nd) - quatre chiffres qui correspondent à l'année ;\ne) - un chiffre qui correspond au trimestre d'ouverture du dossier de domiciliation ;\nf) - deux chiffres qui indiquent la nature du contrat ;\ng) - cinq chiffres qui indiquent le numéro d'ordre chronologique des dossiers de domiciliation ouverts durant un même trimestre ;\nh) - trois positions qui indiquent la monnaie de facturation selon la norme (ISO cf. annexe I).\nToute difficulté d'application de la présente note doit être portée à la connaissance de la Banque d'Algérie (Direction du Contrôle des Changes).\nLa présente note entre en application à partir du 02 janvier 2001.\nLe Directeur du Contrôle des Changes\nH. Ahmed OUAMEUR\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "NOTE N°53-2000 DU 27 NOVEMBRE 2000 AUX BANQUES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET ETABLISSEMENTS FINANCIERS INTERMEDIAIRES AGREES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Objet : Circulaires n°s 43 et 43 bis aux intermédiaires agréés des 26 décembre 1975 et 20 janvier 1976, relatives à la codification de la domiciliation bancaire à l'importation.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Dans le cadre de l'uniformisation de la domiciliation bancaire à l'importation et dans le souci d'améliorer le circuit d'information et de rendre plus efficient l'exploitation des données statistiques, il a été décidé d'apporter les correctifs nécessaires aux dispositions des circulaires n°s 43 et 43 bis suscitées.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Pour permettre une application uniforme au niveau de tous les guichets domiciliataires, les banques et établissements financiers, intermédiaires agréés sont invités à instruire l'ensemble de leur réseau de ce qui suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- La codification de la domiciliation bancaire réaménagée est composée de vingt et un chiffres et se décompose dans l'ordre suivant :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "a b c d e f g h",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "a) - deux chiffres qui correspondent au lieu d'implantation géographique de la banque déterminée par le code wilaya ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "b) - deux chiffres qui correspondent au code agrément banque ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "c) - deux chiffres qui correspondent au code agrément du guichet domiciliataire ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "d) - quatre chiffres qui correspondent à l'année ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "e) - un chiffre qui correspond au trimestre d'ouverture du dossier de domiciliation ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "f) - deux chiffres qui indiquent la nature du contrat ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "g) - cinq chiffres qui indiquent le numéro d'ordre chronologique des dossiers de domiciliation ouverts durant un même trimestre ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "h) - trois positions qui indiquent la monnaie de facturation selon la norme (ISO cf. annexe I).",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Toute difficulté d'application de la présente note doit être portée à la connaissance de la Banque d'Algérie (Direction du Contrôle des Changes).",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La présente note entre en application à partir du 02 janvier 2001.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Directeur du Contrôle des Changes",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "H. Ahmed OUAMEUR",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe A",
+      "number": "A",
+      "heading": "LA NOTE N°53-2000 DU 27 NOVEMBRE 2000",
+      "context": {},
+      "annexe": {
+        "number": "A",
+        "heading": "LA NOTE N°53-2000 DU 27 NOVEMBRE 2000",
+        "label": "Annexe A"
+      },
+      "page_start": 2,
+      "page_end": 2,
+      "text": "",
+      "paragraphs": []
+    }
+  ],
+  "tables_markdown": [
+    {
+      "page": 1,
+      "tables": [
+        "|a|b|c|d|e|f|g|h|\n|---|---|---|---|---|---|---|---|\n\n"
+      ]
+    }
+  ],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.038
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/NOT-53-00.fr.txt"
+}

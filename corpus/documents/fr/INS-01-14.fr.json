@@ -1,0 +1,245 @@
+{
+  "document_id": "INS-01-14.fr",
+  "work_id": "INS-01-14",
+  "title": "Instruction n°01-2014 du 06 mars 2014 relative au document équivalent au document douanier « exemplaire banque ».",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "01-2014",
+  "number_source": "en-tête du document",
+  "date": "2014-03-06",
+  "date_raw": "N°01-2014 DU 06 MARS 2014",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-02",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction012014.pdf",
+      "uploaded": "2023-01-24T13:52:11"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Année 2014",
+  "source_url": "https://www.bank-of-algeria.dz/annee-2014/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/02/instruction012014.pdf",
+  "format": "pdf",
+  "file_hash": "388952e1fb3955a3343c70ed929d0e6df359a6a9202fd6f1a4108bd2b0330ee3",
+  "file_size": 45453,
+  "raw_path": "raw/388952e1fb39__instruction012014.pdf",
+  "retrieved_at": "2026-10-05T13:20:08+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "a2d4fe877a0a8e388ee02fceea9333d3508b1b2ee0e7e23dc80d373fad339a63",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-2014/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document20",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210211091818+01'00'",
+    "modDate": "D:20210211091818+01'00'"
+  },
+  "hijri_date_raw": "25 safar\n1435",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 892,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 3,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "meme_texte_plusieurs_fichiers"
+  ],
+  "title_document": "INSTRUCTION N°01-2014 DU 06 MARS 2014 RELATIVE AU DOCUMENT EQUIVALENT AU DOCUMENT DOUANIER « EXEMPLAIRE BANQUE »",
+  "alias_urls": [],
+  "text_hash": "b79a4b211bc6ac0af8714c264ca60b501092a10eb3f618e0589bf3f69e745cd7",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-01-14.ar",
+    "INS-01-14.fr~2"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°01-2014 DU 06 MARS 2014 RELATIVE\nAU DOCUMENT EQUIVALENT AU DOCUMENT DOUANIER « EXEMPLAIRE BANQUE »",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°01-2014 DU 06 MARS 2014 RELATIVE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AU DOCUMENT EQUIVALENT AU DOCUMENT DOUANIER « EXEMPLAIRE BANQUE »",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "En application des articles 54 et 70 du règlement n°01-07 du 03 février 2007 relatif aux règles applicables aux transactions courantes avec l’étranger et aux comptes devises, la présente instruction a pour objet de définir le document équivalent au document douanier « exemplaire banque ».",
+      "paragraphs": [
+        {
+          "text": "En application des articles 54 et 70 du règlement n°01-07 du 03 février 2007 relatif aux règles applicables aux transactions courantes avec l’étranger et aux comptes devises, la présente instruction a pour objet de définir le document équivalent au document douanier « exemplaire banque ».",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Au sens des articles 54 et 70 visés à l’article 1er ci-dessus, il est entendu que le document équivalent au document douanier « exemplaire banque » est celui institué par décision de la Direction Générale des Douanes n°371/DGD/SP/DE.400 du 25 safar 1435 correspondant au 29 décembre 2013.",
+      "paragraphs": [
+        {
+          "text": "Au sens des articles 54 et 70 visés à l’article 1er ci-dessus, il est entendu que le document équivalent au document douanier « exemplaire banque » est celui institué par décision de la Direction Générale des Douanes n°371/DGD/SP/DE.400 du 25 safar 1435 correspondant au 29 décembre 2013.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction prend effet à compter de la date de sa signature.\nLe Gouverneur\nMohammed LAKSACI\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "La présente instruction prend effet à compter de la date de sa signature.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "meme_texte_plusieurs_fichiers"
+    ],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.036
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-01-14.fr.txt"
+}

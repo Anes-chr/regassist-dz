@@ -1,0 +1,670 @@
+{
+  "document_id": "REG-00-02.ar",
+  "work_id": "REG-00-02",
+  "title": "نظام رقم 2000-02 المؤرخ في 2 أبريل 2000، يعدل ويتمم النظام رقم 93-01 المؤرخ في 3 يناير 1993 والذي يحدد شروط تأسيس بنك ومؤسسة مالية وشروط إقامة فرع البنك ومؤسسة مالية أجنبية.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "2000-02",
+  "number_source": "libelle",
+  "date": "2000-04-02",
+  "date_raw": "المؤرخ في 2 أبريل 2000",
+  "date_source": "libelle",
+  "publication_date": "2023-02-28",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "règlements",
+  "subcategory": "شروط تأسيس و إنشاء البنوك و المؤسسات المالية و الحد الادنى لرأس المال",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%b4%d8%b1%d9%88%d8%b7-%d8%aa%d8%a3%d8%b3%d9%8a%d8%b3-%d9%88-%d8%a5%d9%86%d8%b4%d8%a7%d8%a1-%d8%a7%d9%84%d8%a8%d9%86%d9%88%d9%83-%d9%88-%d8%a7%d9%84%d9%85%d8%a4%d8%b3%d8%b3%d8%a7%d8%aa-%d8%a7%d9%84/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/02/02-2000.pdf",
+  "format": "pdf",
+  "file_hash": "4e815b10ca8ad701751a61dfbed753f4aa1df2f49060a3bc5ff706fa4acf79a7",
+  "file_size": 907299,
+  "raw_path": "raw/4e815b10ca8a__02-2000.pdf",
+  "retrieved_at": "2026-10-05T13:27:50+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 3,
+  "url_hash": "af030f995fd47544ae8abb14af21c143e7757662c7180782b5d0768e5cbbacec",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%b4%d8%b1%d9%88%d8%b7-%d8%aa%d8%a3%d8%b3%d9%8a%d8%b3-%d9%88-%d8%a5%d9%86%d8%b4%d8%a7%d8%a1-%d8%a7%d9%84%d8%a8%d9%86%d9%88%d9%83-%d9%88-%d8%a7%d9%84%d9%85%d8%a4%d8%b3%d8%b3%d8%a7%d8%aa-%d8%a7%d9%84/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "author": "lynda benhaha",
+    "creator": "Microsoft® Word 2016",
+    "producer": "Microsoft® Word 2016",
+    "creationDate": "D:20230227140916+01'00'",
+    "modDate": "D:20230227140916+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 3,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 1886,
+        "ocr_confidence": 80.56456456456456
+      },
+      {
+        "page": 2,
+        "method": "ocr",
+        "chars": 2237,
+        "ocr_confidence": 81.39225181598063
+      },
+      {
+        "page": 3,
+        "method": "ocr",
+        "chars": 900,
+        "ocr_confidence": 85.21341463414635
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 8,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine",
+    "numerotation:articles_manquants:[3, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]",
+    "numerotation:ordre_non_croissant"
+  ],
+  "title_document": "نظام رقم 2000- 02 to‏ في 27 ذي الحجة عام 1420 الموافق 2 أبريل Liu‏ Joss 2000‏ ويتمّم النظام رقم 01-93 المؤرغ في 10 رجب عام 1413 الموافق 3 يناير سنة 1993 الذي dons‏ شروط تأسيس بنك ومؤسّسة ماليّة وشروط إقامة فرع بئك ومؤسسة Lil‏ أجئبيّة. إن Rôles‏ بنك الجزائر,",
+  "alias_urls": [],
+  "text_hash": "94f68e42fff37baba8b77409b5d93927f2a1c5bdf2ac16a6dec1792c5e789714",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "93-01",
+        "date": "1993-01-03",
+        "raw": "Règlement n°93-01 du 03 Janvier 1993"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2000-02 du 2 Avril 2000 modifiant et complétant le Règlement n°93-01 du 03 Janvier 1993 fixant les conditions de constitution d",
+        "copied_from": "REG-00-02.fr"
+      },
+      "target_work_id": "REG-93-01"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "93-01",
+        "date": "1993-01-03",
+        "raw": "Règlement n°93-01 du 03 Janvier 1993"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2000-02 du 2 Avril 2000 modifiant et complétant le Règlement n°93-01 du 03 Janvier 1993 fixant les conditions de constitution d",
+        "copied_from": "REG-00-02.fr"
+      },
+      "target_work_id": "REG-93-01"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "93-01",
+        "date": "1993-01-03",
+        "raw": "règlement n°93-01 du 3 Janvier 1993"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le règlement n°93-01 du 3 Janvier 1993 fixant les conditions de constitution d",
+        "copied_from": "REG-00-02.fr"
+      },
+      "target_work_id": "REG-93-01"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "93-01",
+        "date": "1993-01-03",
+        "raw": "règlement n°93-01 du 3 Janvier 1993"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le règlement n°93-01 du 3 Janvier 1993 fixant les conditions de constitution d",
+        "copied_from": "REG-00-02.fr"
+      },
+      "target_work_id": "REG-93-01"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "LOI",
+        "number": "90-10",
+        "date": "1990-04-14",
+        "raw": "Loi n°90-10 du 14 avril 1990"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "icle 5 ci-dessus est tenu de requérir auprès du Gouverneur de la Banque d'Algérie l'agrément visé à l'article 137 de la Loi n°90-10 du 14 avril 1990 susvisée. La demande d'agrément appuyée",
+        "copied_from": "REG-00-02.fr"
+      },
+      "target_work_id": null
+    }
+  ],
+  "unresolved_references": [
+    {
+      "type_code": "LOI",
+      "number": "90-10",
+      "date": "1990-04-14",
+      "raw": "Loi n°90-10 du 14 avril 1990",
+      "relation": "modifie"
+    }
+  ],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "REG-93-01",
+      "reference": "Règlement n°93-01 du 03 Janvier 1993",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2000-02 du 2 Avril 2000 modifiant et complétant le Règlement n°93-01 du 03 Janvier 1993 fixant les conditions de constitution d",
+        "copied_from": "REG-00-02.fr"
+      }
+    },
+    {
+      "work_id": "REG-93-01",
+      "reference": "règlement n°93-01 du 3 Janvier 1993",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le règlement n°93-01 du 3 Janvier 1993 fixant les conditions de constitution d",
+        "copied_from": "REG-00-02.fr"
+      }
+    },
+    {
+      "work_id": null,
+      "reference": "Loi n°90-10 du 14 avril 1990",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "icle 5 ci-dessus est tenu de requérir auprès du Gouverneur de la Banque d'Algérie l'agrément visé à l'article 137 de la Loi n°90-10 du 14 avril 1990 susvisée. La demande d'agrément appuyée",
+        "copied_from": "REG-00-02.fr"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "REG-93-01",
+      "reference": "Règlement n°93-01 du 03 Janvier 1993",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2000-02 du 2 Avril 2000 modifiant et complétant le Règlement n°93-01 du 03 Janvier 1993 fixant les conditions de constitution d",
+        "copied_from": "REG-00-02.fr"
+      }
+    },
+    {
+      "work_id": "REG-93-01",
+      "reference": "règlement n°93-01 du 3 Janvier 1993",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le règlement n°93-01 du 3 Janvier 1993 fixant les conditions de constitution d",
+        "copied_from": "REG-00-02.fr"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-00-02.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "REG-93-01",
+      "reference": "Règlement n°93-01 du 03 Janvier 1993",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2000-02 du 2 Avril 2000 modifiant et complétant le Règlement n°93-01 du 03 Janvier 1993 fixant les conditions de constitution d",
+        "copied_from": "REG-00-02.fr"
+      }
+    },
+    {
+      "work_id": "REG-93-01",
+      "reference": "règlement n°93-01 du 3 Janvier 1993",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le règlement n°93-01 du 3 Janvier 1993 fixant les conditions de constitution d",
+        "copied_from": "REG-00-02.fr"
+      }
+    }
+  ],
+  "ocr_numeric_check": {
+    "units": 9,
+    "units_flagged": 0,
+    "units_compared_with_french": 7,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 137",
+      "number": "137",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "نظام رقم 2000- 02 to‏ في 27 ذي الحجة عام 1420 الموافق 2 أبريل Liu‏ Joss 2000‏ ويتمّم النظام رقم 01-93 المؤرغ في 10 رجب عام 1413 الموافق 3 يناير سنة 1993 الذي dons‏ شروط تأسيس بنك ومؤسّسة ماليّة وشروط إقامة فرع بئك ومؤسسة Lil‏ أجئبيّة.\nإن Rôles‏ بنك الجزائر,\n- بمقتضى الأمر رقم 59-75 المؤرخ في 25 ر مضان عام 1395 الموافق 26 سيتمير سنة 1975 والمتضمّن القانون التَّجارِي. المعدّل والمتمّم\n- وبمقتضى القانون رقم 10-90 المؤرًخ في 19 رمضان عام 1410 الموافق 14 أيريل :2 1990 والمتعلّق بالتقد والقرض. المعدّل, لا سيّماالموادٌ 4 ,9 و95 و114صو115و130,129,126 و132و136و137و140,139مثه.\n- وبمقتضى المرسوم الرئاسي المؤرخ في 28 ربيع الأول عام 1419الموافق 22 يوليو سنة 1998 والمتضمن تمديد تعيين محافظ البنك المركزيي\n- وبمقتضى المراسيم الرئاسيّة المؤرخة في 19 شوال عام 1410المواقق 14 مايو سنة 1990\n- وبمقتضى المرسوم الرئاسي المؤرخ في 17 شوال عام 1417 الموافق 24 قفبراير سئة 1997\n- وبمقتضى المرسوم التنفيذي المؤرخ في 19 ذي الحجة عام 1411 الموافق أول يوليو Zi‏ 1991 والمتضمن تعيين الأعضاء الدائمين والأعضاء المستخلفين في مجلس النقد والقرضء.\n- وبمقتضى المرسوم التنفيذي المؤرخ في 15 صفر عام 1417 الموافق أول يوليو 2 1996 والقرض:؛\n- وبمقتضى النظام رقم 01-90 المؤرخ فى 12 ذي الحجة عام 1410 الموافق 4 يوليو سنة 1990 والمتعلق بالحد الأدنى لرأس مال البنوك والمؤسّسات ٠‏ المالية.المعدّل والمتمم,\n- وبمقتضى التظام رقم 05-92 المؤرخ في 17 رمضان عام 1412الموافق 22 مارس سئة 1992 والمتعلق بالشروط التي يجب أن تتوفر في مؤسّسي البنوك والمؤسسات الماليّة ومسيّريها وممثليها.\n- وبمقتضى النظام رقم 01-93 المؤرخ في 10 رجب عام 1413 الموافق 3 يناير سنة 1993 الذي\n- وبمقتضى paul‏ رقم 07-95 المؤرخ في 30 ple se,‏ 1416 الموافق 23 ديسمبر die‏ 1995 الذي يعدل ويعوض النظام رقم 2 04-9 المؤرخ في 22 مارس سنة 1992 والمتعلّق بمراقبة الصّرف.\n: Lai FALL يصدر التظام‎",
+      "paragraphs": [
+        {
+          "text": "نظام رقم 2000- 02 to‏ في 27 ذي الحجة عام 1420 الموافق 2 أبريل Liu‏ Joss 2000‏ ويتمّم النظام رقم 01-93 المؤرغ في 10 رجب عام 1413 الموافق 3 يناير سنة 1993 الذي dons‏ شروط تأسيس بنك ومؤسّسة ماليّة وشروط إقامة فرع بئك ومؤسسة Lil‏ أجئبيّة.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "إن Rôles‏ بنك الجزائر,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- بمقتضى الأمر رقم 59-75 المؤرخ في 25 ر مضان عام 1395 الموافق 26 سيتمير سنة 1975 والمتضمّن القانون التَّجارِي. المعدّل والمتمّم",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى القانون رقم 10-90 المؤرًخ في 19 رمضان عام 1410 الموافق 14 أيريل :2 1990 والمتعلّق بالتقد والقرض. المعدّل, لا سيّماالموادٌ 4 ,9 و95 و114صو115و130,129,126 و132و136و137و140,139مثه.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى المرسوم الرئاسي المؤرخ في 28 ربيع الأول عام 1419الموافق 22 يوليو سنة 1998 والمتضمن تمديد تعيين محافظ البنك المركزيي",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى المراسيم الرئاسيّة المؤرخة في 19 شوال عام 1410المواقق 14 مايو سنة 1990",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى المرسوم الرئاسي المؤرخ في 17 شوال عام 1417 الموافق 24 قفبراير سئة 1997",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى المرسوم التنفيذي المؤرخ في 19 ذي الحجة عام 1411 الموافق أول يوليو Zi‏ 1991 والمتضمن تعيين الأعضاء الدائمين والأعضاء المستخلفين في مجلس النقد والقرضء.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى المرسوم التنفيذي المؤرخ في 15 صفر عام 1417 الموافق أول يوليو 2 1996 والقرض:؛",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى النظام رقم 01-90 المؤرخ فى 12 ذي الحجة عام 1410 الموافق 4 يوليو سنة 1990 والمتعلق بالحد الأدنى لرأس مال البنوك والمؤسّسات ٠‏ المالية.المعدّل والمتمم,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى التظام رقم 05-92 المؤرخ في 17 رمضان عام 1412الموافق 22 مارس سئة 1992 والمتعلق بالشروط التي يجب أن تتوفر في مؤسّسي البنوك والمؤسسات الماليّة ومسيّريها وممثليها.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى النظام رقم 01-93 المؤرخ في 10 رجب عام 1413 الموافق 3 يناير سنة 1993 الذي",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى paul‏ رقم 07-95 المؤرخ في 30 ple se,‏ 1416 الموافق 23 ديسمبر die‏ 1995 الذي يعدل ويعوض النظام رقم 2 04-9 المؤرخ في 22 مارس سنة 1992 والمتعلّق بمراقبة الصّرف.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": ": Lai FALL يصدر التظام‎",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يعدل هذا pal‏ ويتمّم النُظام رقم 01-93 المؤرخ في 10 رجب عام 1413 الموافق 3 يناير سنة 1993 الذي يحدد شروط تأسيس بنك ومؤسسة ماليّة وشروط إقامة فرع بنك ومؤسّسة",
+      "paragraphs": [
+        {
+          "text": "يعدل هذا pal‏ ويتمّم النُظام رقم 01-93 المؤرخ في 10 رجب عام 1413 الموافق 3 يناير سنة 1993 الذي يحدد شروط تأسيس بنك ومؤسسة ماليّة وشروط إقامة فرع بنك ومؤسّسة",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "تعدل المادة 5 من التظام رقم 01-93 المؤرخ في 10 رجب عام 1413 الموافق 3 يناير سنة 1993 والمذكور أعلاه. كما يأتي :\nبتأسيس بئك أو مؤسسة مالية أو إقامة فرع بنك أو مؤسسة tuile‏ أجنبية في أجل أقصاه شهرين )2( بعد تسليم JE‏ العناصر والمعلومات التي يتشكّل منها الملف والمنصوص عليها في المادتين 2 و3 أعلاه.\nالمادة 01-3 المؤرخ في 10 رجب عام 1418 الموافق 3 يناير سنة 1993 والمذكور أعلاه. كما يأتي :\n3 : تعدل المادة 8 من pal‏ رقم '\"المادة 8 : يجب على البنك أو المؤسّسة الماليّة أى فرع بنك أو مؤسسة ماليّة أجنبيّة: التي تحصلت على التّرخيص الوارد في المادة 5 أعلاه. أن تطلب لدى محافظ بنك الجزائر الاعتماد المنصوص عليه في",
+      "paragraphs": [
+        {
+          "text": "تعدل المادة 5 من التظام رقم 01-93 المؤرخ في 10 رجب عام 1413 الموافق 3 يناير سنة 1993 والمذكور أعلاه. كما يأتي :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "بتأسيس بئك أو مؤسسة مالية أو إقامة فرع بنك أو مؤسسة tuile‏ أجنبية في أجل أقصاه شهرين )2( بعد تسليم JE‏ العناصر والمعلومات التي يتشكّل منها الملف والمنصوص عليها في المادتين 2 و3 أعلاه.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "المادة 01-3 المؤرخ في 10 رجب عام 1418 الموافق 3 يناير سنة 1993 والمذكور أعلاه. كما يأتي :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "3 : تعدل المادة 8 من pal‏ رقم '\"المادة 8 : يجب على البنك أو المؤسّسة الماليّة أى فرع بنك أو مؤسسة ماليّة أجنبيّة: التي تحصلت على التّرخيص الوارد في المادة 5 أعلاه. أن تطلب لدى محافظ بنك الجزائر الاعتماد المنصوص عليه في",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 137",
+      "number": "137",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "من القانون رقم 10-90 المؤرخ في 14 أبريل سئة 1990 والمذكور أعلاه, يجب أن يرسل طلب الاعتماد المرفق بالمستندات والمعلومات المطلوبية حسب القوانين والأنظمة إلى محافظ بنك الجزائر في أجل أقصاه اثنا عشر )12( شهراء ابتداء من تاريخ تبليغ الترخيص المذكور أعلاة.\nالوثائق ومحثوى المغلومات المذكورة في الفقرة السايقة. | pis‏ البنك أو المؤسسة المالية أو فرع البنك أو dia ins‏ قبل الحصول على الاعتماد المنصوص عليه فى الفقرة الأولى Joel‏",
+      "paragraphs": [
+        {
+          "text": "من القانون رقم 10-90 المؤرخ في 14 أبريل سئة 1990 والمذكور أعلاه, يجب أن يرسل طلب الاعتماد المرفق بالمستندات والمعلومات المطلوبية حسب القوانين والأنظمة إلى محافظ بنك الجزائر في أجل أقصاه اثنا عشر )12( شهراء ابتداء من تاريخ تبليغ الترخيص المذكور أعلاة.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "الوثائق ومحثوى المغلومات المذكورة في الفقرة السايقة. | pis‏ البنك أو المؤسسة المالية أو فرع البنك أو dia ins‏ قبل الحصول على الاعتماد المنصوص عليه فى الفقرة الأولى Joel‏",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "تعدل SL all‏ 9 من التظام رقم 01-3 المؤرَخ في 10 رجب عام 1418 الموافق 3 بنك الجزائر فى حالة اسثيفاء صاحب الطلب JS‏ محددة في التّشريع والتنظيم المعمول بهما بمافي ذلك الشّروط المحتملة الخاصة التي يخضع لها pas‏ مقرر الاعتماد صفة الوسيط المعتمد غير أنَ ممارسة عمليّات الصّرف والتجارة الخارجيّة تخضع إلى التّسجيل من طرف المديرية العامّة للصّرف وفقا للشروط التي ينص عليها النظام رقم 07-95 المؤرخ في 23 ديسمبر سنة 1995 والمذكور أعلاه\".",
+      "paragraphs": [
+        {
+          "text": "تعدل SL all‏ 9 من التظام رقم 01-3 المؤرَخ في 10 رجب عام 1418 الموافق 3 بنك الجزائر فى حالة اسثيفاء صاحب الطلب JS‏ محددة في التّشريع والتنظيم المعمول بهما بمافي ذلك الشّروط المحتملة الخاصة التي يخضع لها pas‏ مقرر الاعتماد صفة الوسيط المعتمد غير أنَ ممارسة عمليّات الصّرف والتجارة الخارجيّة تخضع إلى التّسجيل من طرف المديرية العامّة للصّرف وفقا للشروط التي ينص عليها النظام رقم 07-95 المؤرخ في 23 ديسمبر سنة 1995 والمذكور أعلاه\".",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "تعدل المادة 10 من التّظام رقم 01-93 المؤرخ في 10 رجب عام 1413 الموافق 3 \"المادة 10 : يجب إحالة JS‏ تعديل في القوانين الأساسيّة (Glass‏ بموضوع أو ر أسمال لبئك أو لمؤسّسة Le‏ يتم قبل الحصول أو بعد الحصول على الترخيص, إلى مجلس التقد والقرض ويتبفئ أن يخضع لنقس الشروط المحددة في المادتين 2 و3 أعلاه.\nرأسمال لفرع بنك أو مؤسّسة ماليّة أجنبيّة؛ يتم قبل الحصول أو بعد الحصول على ans ji‏ إلى مجلس sal‏ والقرض وينبفي أن يخضع لنفس الشروط المحددة في المادّتين 2 و3 أعلاه. إضافة إلى هذاء التعديلات في القوانين الأساسيّة للمؤسسة الأم والمتعلّقة بموضوعها لا تصبح نافذة المفعول في الجزائر إلآ بعد أن يصادق عليها مجلس التّقد والقرض\". ,",
+      "paragraphs": [
+        {
+          "text": "تعدل المادة 10 من التّظام رقم 01-93 المؤرخ في 10 رجب عام 1413 الموافق 3 \"المادة 10 : يجب إحالة JS‏ تعديل في القوانين الأساسيّة (Glass‏ بموضوع أو ر أسمال لبئك أو لمؤسّسة Le‏ يتم قبل الحصول أو بعد الحصول على الترخيص, إلى مجلس التقد والقرض ويتبفئ أن يخضع لنقس الشروط المحددة في المادتين 2 و3 أعلاه.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "رأسمال لفرع بنك أو مؤسّسة ماليّة أجنبيّة؛ يتم قبل الحصول أو بعد الحصول على ans ji‏ إلى مجلس sal‏ والقرض وينبفي أن يخضع لنفس الشروط المحددة في المادّتين 2 و3 أعلاه. إضافة إلى هذاء التعديلات في القوانين الأساسيّة للمؤسسة الأم والمتعلّقة بموضوعها لا تصبح نافذة المفعول في الجزائر إلآ بعد أن يصادق عليها مجلس التّقد والقرض\". ,",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 3,
+      "text": "pti pan:‏ رقم 01-93 المؤرخ في 10 رجب عام 1418 Galgall‏ 3 يناير سنة 3 والمذكور أعلاه. بمادّة 13 جديدة تحرر كما \"المادة 13 : يجب إرسال قائمة أعضضماء مجلس الإدارة أو مجلس المراقبة المعيّنين من قبل الجمعية العامة التأسيسيًة للبنوك أو المؤسّسات الماليّة الجزائر قصد المصادقة عليها.\nعضو في مجسس الإدارة أو مجلس المراقبة قبل تسجيل القوانين الأساسية.\nفي حالة إجراء تعديل في هذه القائمة قبل أو بعد الحصول على مقرر الاعتماد. يجب على البنك أو المؤسّسة الماليّة» طبقا للمادة 139 من القانون رقم\n0- 10 المؤرخ في 14 أبريل سنة 1990 والمذكؤر الجزائر. | تطبق أحكام الفقرتين 2 و3 المذكورتين أعلاه, على مسيري فروع البنوك أو المؤسّسات الماليّة",
+      "paragraphs": [
+        {
+          "text": "pti pan:‏ رقم 01-93 المؤرخ في 10 رجب عام 1418 Galgall‏ 3 يناير سنة 3 والمذكور أعلاه. بمادّة 13 جديدة تحرر كما \"المادة 13 : يجب إرسال قائمة أعضضماء مجلس الإدارة أو مجلس المراقبة المعيّنين من قبل الجمعية العامة التأسيسيًة للبنوك أو المؤسّسات الماليّة الجزائر قصد المصادقة عليها.",
+          "page_start": 2,
+          "page_end": 3
+        },
+        {
+          "text": "عضو في مجسس الإدارة أو مجلس المراقبة قبل تسجيل القوانين الأساسية.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "في حالة إجراء تعديل في هذه القائمة قبل أو بعد الحصول على مقرر الاعتماد. يجب على البنك أو المؤسّسة الماليّة» طبقا للمادة 139 من القانون رقم",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "0- 10 المؤرخ في 14 أبريل سنة 1990 والمذكؤر الجزائر. | تطبق أحكام الفقرتين 2 و3 المذكورتين أعلاه, على مسيري فروع البنوك أو المؤسّسات الماليّة",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "يتمم النظام رقم 01-93 المؤرخ في 10 رجب عام 1413 الموافق 3 يناير سنة 4993 والمذكور أعلاه؛ بمادة 14 جديدة تحرر كما يأتي :\n\"المادة 4 : يطبق الإجراء المشار إليه في الفقرة الأولى من المادة 13 أعلاه. على المدير العام أو المديرين العامين غمير الأعضاء في مجلس الإدارة",
+      "paragraphs": [
+        {
+          "text": "يتمم النظام رقم 01-93 المؤرخ في 10 رجب عام 1413 الموافق 3 يناير سنة 4993 والمذكور أعلاه؛ بمادة 14 جديدة تحرر كما يأتي :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "\"المادة 4 : يطبق الإجراء المشار إليه في الفقرة الأولى من المادة 13 أعلاه. على المدير العام أو المديرين العامين غمير الأعضاء في مجلس الإدارة",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "ينشر هذا URI‏ في الجريدة حرر بالجزائر في 27 ذي الحجّة عام 1420 الموافق 2 أبريل سنة 2000.\nعبد الوهاب كرمان",
+      "paragraphs": [
+        {
+          "text": "ينشر هذا URI‏ في الجريدة حرر بالجزائر في 27 ذي الحجّة عام 1420 الموافق 2 أبريل سنة 2000.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "عبد الوهاب كرمان",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine",
+      "numerotation:articles_manquants:[3, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]",
+      "numerotation:ordre_non_croissant"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.048,
+      "ocr_pages": [
+        1,
+        2,
+        3
+      ],
+      "ocr_mean_confidence": 82.4
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/REG-00-02.ar.txt"
+}

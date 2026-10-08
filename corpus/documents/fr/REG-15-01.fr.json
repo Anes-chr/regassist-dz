@@ -1,0 +1,1341 @@
+{
+  "document_id": "REG-15-01.fr",
+  "work_id": "REG-15-01",
+  "title": "Règlement n°2015-01 du 19 février 2015 relatif aux opérations d’escompte d’effets publics, de réescompte d’effets privés, d’avances et crédits aux banques et établissements financiers.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "15-01",
+  "number_source": "en-tête du document",
+  "date": "2015-02-19",
+  "date_raw": "N° 15-01 DU 19 FEVRIER 2015",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Instruments de la politique monétaire",
+  "source_url": "https://www.bank-of-algeria.dz/politique-monetaire-reglement/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement201501.pdf",
+  "format": "pdf",
+  "file_hash": "65abb79be2e4ae9e8a08a936d455d2fb472940c7b7aba6ed211d639e8ee47d0e",
+  "file_size": 70898,
+  "raw_path": "raw/65abb79be2e4__reglement201501.pdf",
+  "retrieved_at": "2026-10-05T13:22:50+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 4,
+  "url_hash": "26dcd4518e7cedebc6b4033ca0e8826d191ab91a6f66087e23ee28d52a870ca8",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/apercu-sur-la-politique-monetaire-2/",
+    "https://www.bank-of-algeria.dz/politique-monetaire-reglement/",
+    "https://www.bank-of-algeria.dz/reglement-2015/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - 1",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200727141721+01'00'",
+    "modDate": "D:20200727141721+01'00'"
+  },
+  "hijri_date_raw": "27 Joumada Ethania 1424",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 4,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 3377,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 2796,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 3053,
+        "ocr_confidence": null
+      },
+      {
+        "page": 4,
+        "method": "pdf_text",
+        "chars": 2875,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 23,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "REGLEMENT N° 15-01 DU 19 FEVRIER 2015 RELATIF AUX OPERATIONS D’ESCOMPTE D’EFFETS PUBLICS, DE REESCOMPTE D’EFFETS PRIVES, D’AVANCES ET CREDITS AUX BANQUES ET ETABLISSEMENTS FINANCIERS",
+  "label_number": "2015-01",
+  "alias_urls": [],
+  "text_hash": "a67e4b3bfa3b0d28c9bd7d07ee3a79563ea152cfdfc184c826231e74c4c005dc",
+  "relations_out": [
+    {
+      "relation": "remplace",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "2000-01",
+        "date": "2000-02-13",
+        "raw": "règlement n°2000-01 du 13 février 2000"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 4,
+        "quote": "Le présent règlement annule et remplace le règlement n°2000-01 du 13 février 2000 relatif aux opérations de réescompte et"
+      },
+      "target_work_id": "REG-00-01"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [
+    {
+      "work_id": "REG-00-01",
+      "reference": "règlement n°2000-01 du 13 février 2000",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 4,
+        "quote": "Le présent règlement annule et remplace le règlement n°2000-01 du 13 février 2000 relatif aux opérations de réescompte et"
+      }
+    }
+  ],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [
+    {
+      "work_id": "INS-02-17",
+      "document_id": "INS-02-17.fr",
+      "date": "2017-03-01",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "L’article 8 de l’instruction n° 02-2016 est complété comme suit : « Article 8 : En vertu des articles 9 à 12 du règlement n° 15-01 complété, la Banque d’Algérie peut rées"
+      }
+    },
+    {
+      "work_id": "REG-16-03",
+      "document_id": "REG-16-03.fr",
+      "date": "2016-07-28",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2016-03 du 28 juillet 2016 complétant le règlement n°2015-01 du 19 février 2015 relatif aux opérations d’escompte d’eff"
+      }
+    },
+    {
+      "work_id": "REG-16-03",
+      "document_id": "REG-16-03.fr",
+      "date": "2016-07-28",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de compléter le règlement n°15-01 du 19 février 2015 relatif aux opérations d’escompte d’eff"
+      }
+    }
+  ],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée. Ce texte a été modifié/complété : consulter aussi les textes listés dans modifié_par / complété_par.",
+  "same_work_documents": [
+    "REG-15-01.ar"
+  ],
+  "complété_par": [
+    {
+      "work_id": "INS-02-17",
+      "document_id": "INS-02-17.fr",
+      "date": "2017-03-01",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "L’article 8 de l’instruction n° 02-2016 est complété comme suit : « Article 8 : En vertu des articles 9 à 12 du règlement n° 15-01 complété, la Banque d’Algérie peut rées"
+      }
+    },
+    {
+      "work_id": "REG-16-03",
+      "document_id": "REG-16-03.fr",
+      "date": "2016-07-28",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2016-03 du 28 juillet 2016 complétant le règlement n°2015-01 du 19 février 2015 relatif aux opérations d’escompte d’eff"
+      }
+    },
+    {
+      "work_id": "REG-16-03",
+      "document_id": "REG-16-03.fr",
+      "date": "2016-07-28",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de compléter le règlement n°15-01 du 19 février 2015 relatif aux opérations d’escompte d’eff"
+      }
+    }
+  ],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "section",
+      "label": "Section I",
+      "number": null,
+      "heading": "Dispositions générales",
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 1",
+          "number": "1",
+          "heading": null,
+          "page_start": 1,
+          "page_end": 1,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 2",
+          "number": "2",
+          "heading": null,
+          "page_start": 1,
+          "page_end": 1,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 3",
+          "number": "3",
+          "heading": null,
+          "page_start": 1,
+          "page_end": 1,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 4",
+          "number": "4",
+          "heading": null,
+          "page_start": 1,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 5",
+          "number": "5",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "label": "Section II",
+      "number": null,
+      "heading": "Escompte d’effets publics",
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 6",
+          "number": "6",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 7",
+          "number": "7",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 8",
+          "number": "8",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "label": "Section III",
+      "number": null,
+      "heading": "Réescompte d’effets privés",
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 9",
+          "number": "9",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 10",
+          "number": "10",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 11",
+          "number": "11",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 12",
+          "number": "12",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 13",
+          "number": "13",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 14",
+          "number": "14",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "label": "Section IV",
+      "number": null,
+      "heading": "Avances et crédits en compte courant sur effets publics et privés",
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 15",
+          "number": "15",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 16",
+          "number": "16",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 4,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "label": "Section V",
+      "number": null,
+      "heading": "Modalités de mobilisation des effets",
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 17",
+          "number": "17",
+          "heading": null,
+          "page_start": 4,
+          "page_end": 4,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "label": "Section VI",
+      "number": null,
+      "heading": "Procédures de règlement",
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 18",
+          "number": "18",
+          "heading": null,
+          "page_start": 4,
+          "page_end": 4,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 19",
+          "number": "19",
+          "heading": null,
+          "page_start": 4,
+          "page_end": 4,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "label": "Section VII",
+      "number": null,
+      "heading": "Autres dispositions",
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 20",
+          "number": "20",
+          "heading": null,
+          "page_start": 4,
+          "page_end": 4,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 21",
+          "number": "21",
+          "heading": null,
+          "page_start": 4,
+          "page_end": 4,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 22",
+          "number": "22",
+          "heading": null,
+          "page_start": 4,
+          "page_end": 4,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 23",
+          "number": "23",
+          "heading": null,
+          "page_start": 4,
+          "page_end": 4,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N° 15-01 DU 19 FEVRIER 2015 RELATIF\nAUX OPERATIONS D’ESCOMPTE D’EFFETS PUBLICS,\nDE REESCOMPTE D’EFFETS PRIVES, D’AVANCES ET CREDITS\nAUX BANQUES ET ETABLISSEMENTS FINANCIERS\nLe Gouverneur de la Banque d’Algérie,\n- Vu l’ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 Août 2003 relative à la monnaie et au crédit, modifiée et complétée par l’ordonnance n°10-04 du 26 août 2010, notamment ses articles 41 à 44, 62 (points b, c) et 68 (alinéa 2) ;\n- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 02 juin 2001 portant nomination du Gouverneur et de Vice-Gouverneurs de la Banque d’Algérie ;\n- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 02 juin 2001 portant nomination des membres du conseil d’administration de la Banque d’Algérie ;\n- Vu le décret présidentiel du 26 Chaâbane 1423 correspondant au 02 novembre 2002 portant nomination d’un membre du conseil d’administration de la Banque d’Algérie ;\n- Vu le décret présidentiel du 24 Dhou El Kaâda 1424 correspondant au 14 janvier 2004 portant nomination des membres du conseil de la monnaie et du crédit de la Banque d’Algérie ;\n- Vu le décret présidentiel du 05 Joumada El Oula 1427 correspondant au 1er juin 2006 portant nomination d’un Vice-Gouverneur de la Banque d’Algérie ;\n- Vu le règlement n°2000-01 du 13 février 2000 relatifs aux opérations de réescompte et de crédit aux banques et établissements financiers ;\n- Vu le règlement n°05-04 du 10 Ramadhan 1426 correspondant au 13 octobre 2005 portant sur le système de règlements bruts en temps réel de gros montants et paiements urgents ;\n- Vu le règlement n°05-07 du 26 Dhou El Kaada 1426 correspondant au 28 décembre 2005 sur la sécurité des systèmes de paiement ;\n- Vu le règlement n°09-02 du 26 mai 2009 relatif aux opérations, instruments et procédures de politique monétaire ;\n- Vu les délibérations du Conseil de la Monnaie et du Crédit en date du 19 février 2015,\nPromulgue le règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N° 15-01 DU 19 FEVRIER 2015 RELATIF",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AUX OPERATIONS D’ESCOMPTE D’EFFETS PUBLICS,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DE REESCOMPTE D’EFFETS PRIVES, D’AVANCES ET CREDITS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AUX BANQUES ET ETABLISSEMENTS FINANCIERS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d’Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 Août 2003 relative à la monnaie et au crédit, modifiée et complétée par l’ordonnance n°10-04 du 26 août 2010, notamment ses articles 41 à 44, 62 (points b, c) et 68 (alinéa 2) ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 02 juin 2001 portant nomination du Gouverneur et de Vice-Gouverneurs de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 02 juin 2001 portant nomination des membres du conseil d’administration de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 26 Chaâbane 1423 correspondant au 02 novembre 2002 portant nomination d’un membre du conseil d’administration de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 24 Dhou El Kaâda 1424 correspondant au 14 janvier 2004 portant nomination des membres du conseil de la monnaie et du crédit de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 05 Joumada El Oula 1427 correspondant au 1er juin 2006 portant nomination d’un Vice-Gouverneur de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n°2000-01 du 13 février 2000 relatifs aux opérations de réescompte et de crédit aux banques et établissements financiers ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n°05-04 du 10 Ramadhan 1426 correspondant au 13 octobre 2005 portant sur le système de règlements bruts en temps réel de gros montants et paiements urgents ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n°05-07 du 26 Dhou El Kaada 1426 correspondant au 28 décembre 2005 sur la sécurité des systèmes de paiement ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n°09-02 du 26 mai 2009 relatif aux opérations, instruments et procédures de politique monétaire ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu les délibérations du Conseil de la Monnaie et du Crédit en date du 19 février 2015,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "I",
+          "heading": "Dispositions générales",
+          "label": "Section I"
+        }
+      },
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le présent règlement a pour objet de définir les règles, les conditions et les procédures applicables par la Banque d’Algérie aux opérations d’escompte d’effets publics, de réescompte d’effets privés, d’avances et de crédits en compte courant en faveur des banques et des établissements financiers.",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement a pour objet de définir les règles, les conditions et les procédures applicables par la Banque d’Algérie aux opérations d’escompte d’effets publics, de réescompte d’effets privés, d’avances et de crédits en compte courant en faveur des banques et des établissements financiers.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "I",
+          "heading": "Dispositions générales",
+          "label": "Section I"
+        }
+      },
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La Banque d’Algérie peut escompter aux banques et établissements financiers les effets publics émis ou garantis par l’Etat, notamment :\n- les bons du Trésor à court terme d’une durée inférieure ou égale à un (1) an ;\n- les bons du Trésor à moyen terme d’une durée de deux (2) à cinq (5) ans.\nLes effets publics à moyen terme ne sont admis à l’escompte que lorsque leur échéance restant à courir est égale ou inférieure à trois (3) ans.",
+      "paragraphs": [
+        {
+          "text": "La Banque d’Algérie peut escompter aux banques et établissements financiers les effets publics émis ou garantis par l’Etat, notamment :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- les bons du Trésor à court terme d’une durée inférieure ou égale à un (1) an ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- les bons du Trésor à moyen terme d’une durée de deux (2) à cinq (5) ans.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les effets publics à moyen terme ne sont admis à l’escompte que lorsque leur échéance restant à courir est égale ou inférieure à trois (3) ans.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "I",
+          "heading": "Dispositions générales",
+          "label": "Section I"
+        }
+      },
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La Banque d’Algérie peut également réescompter les effets privés représentatifs d’opérations commerciales et d’opérations de financement à court et moyen termes effectuées par les banques et établissements financiers.",
+      "paragraphs": [
+        {
+          "text": "La Banque d’Algérie peut également réescompter les effets privés représentatifs d’opérations commerciales et d’opérations de financement à court et moyen termes effectuées par les banques et établissements financiers.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "I",
+          "heading": "Dispositions générales",
+          "label": "Section I"
+        }
+      },
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "Pour être réescomptables par la Banque d’Algérie, les effets commerciaux privés doivent satisfaire aux critères suivants :\n- remplir les conditions de fonds et de forme prévues par le code de commerce ;\n- correspondre aux montants effectivement utilisés par le bénéficiaire ;\n- être libellés en monnaie nationale.",
+      "paragraphs": [
+        {
+          "text": "Pour être réescomptables par la Banque d’Algérie, les effets commerciaux privés doivent satisfaire aux critères suivants :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- remplir les conditions de fonds et de forme prévues par le code de commerce ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- correspondre aux montants effectivement utilisés par le bénéficiaire ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- être libellés en monnaie nationale.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "I",
+          "heading": "Dispositions générales",
+          "label": "Section I"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "La Banque d’Algérie peut aussi accorder aux banques des avances et crédits en compte courant pour une durée d’un an au plus.\nCes crédits doivent être garantis par des gages sur des bons du Trésor, de l’or, des devises étrangères ou des effets publics et privés admissibles au réescompte.",
+      "paragraphs": [
+        {
+          "text": "La Banque d’Algérie peut aussi accorder aux banques des avances et crédits en compte courant pour une durée d’un an au plus.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Ces crédits doivent être garantis par des gages sur des bons du Trésor, de l’or, des devises étrangères ou des effets publics et privés admissibles au réescompte.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "II",
+          "heading": "Escompte d’effets publics",
+          "label": "Section II"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "La Banque d’Algérie peut effectuer des opérations d’escompte sur effets publics émis ou garantis par l’Etat au profit des banques et établissements financiers.\nLes opérations d’escompte concernent :\n- les effets bancables dont la maturité est égale ou inférieure à trois (3) mois ;\n- les effets à échéance conventionnelle supérieure à trois (3) mois et inférieure ou égale à trois (3) ans pour une durée n’excédant pas soixante (60) jours.\nLe concours de la Banque d’Algérie pour cette catégorie d’effets ne peut dépasser 90 % de leur valeur nominale.",
+      "paragraphs": [
+        {
+          "text": "La Banque d’Algérie peut effectuer des opérations d’escompte sur effets publics émis ou garantis par l’Etat au profit des banques et établissements financiers.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Les opérations d’escompte concernent :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les effets bancables dont la maturité est égale ou inférieure à trois (3) mois ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les effets à échéance conventionnelle supérieure à trois (3) mois et inférieure ou égale à trois (3) ans pour une durée n’excédant pas soixante (60) jours.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le concours de la Banque d’Algérie pour cette catégorie d’effets ne peut dépasser 90 % de leur valeur nominale.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "II",
+          "heading": "Escompte d’effets publics",
+          "label": "Section II"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les effets publics admissibles à l’escompte sont les effets dématérialisés, inscrits en comptes courants des banques et établissements financiers à la Banque d’Algérie ou chez le dépositaire central et non-engagés dans d’autres opérations.",
+      "paragraphs": [
+        {
+          "text": "Les effets publics admissibles à l’escompte sont les effets dématérialisés, inscrits en comptes courants des banques et établissements financiers à la Banque d’Algérie ou chez le dépositaire central et non-engagés dans d’autres opérations.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "II",
+          "heading": "Escompte d’effets publics",
+          "label": "Section II"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le montant total des opérations sur effets publics que peut accepter la\nBanque d’Algérie est précisé périodiquement par le Conseil de la Monnaie et du Crédit conformément aux objectifs de la politique monétaire.",
+      "paragraphs": [
+        {
+          "text": "Le montant total des opérations sur effets publics que peut accepter la",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Banque d’Algérie est précisé périodiquement par le Conseil de la Monnaie et du Crédit conformément aux objectifs de la politique monétaire.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "III",
+          "heading": "Réescompte d’effets privés",
+          "label": "Section III"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les effets privés réescomptables correspondent à des opérations commerciales sur l’Algérie ou sur l’étranger, leur échéance restant à courir n’excédant pas six (06) mois.\nIls doivent revêtir la signature d’au moins trois personnes physiques ou morales solvables dont celle du cédant et ce, conformément au code de commerce.\nUne de ces signatures peut être remplacée par des garanties représentées par des warrants, des récépissés de marchandises ou des connaissements originaux de marchandises .",
+      "paragraphs": [
+        {
+          "text": "Les effets privés réescomptables correspondent à des opérations commerciales sur l’Algérie ou sur l’étranger, leur échéance restant à courir n’excédant pas six (06) mois.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Ils doivent revêtir la signature d’au moins trois personnes physiques ou morales solvables dont celle du cédant et ce, conformément au code de commerce.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Une de ces signatures peut être remplacée par des garanties représentées par des warrants, des récépissés de marchandises ou des connaissements originaux de marchandises .",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "III",
+          "heading": "Réescompte d’effets privés",
+          "label": "Section III"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les effets de financement créés, représentatifs de crédits de trésorerie ou de crédits de campagne, sont réescomptables pour une période de six (6) mois au maximum sans que la durée totale du concours de la Banque d’Algérie n’excède douze\n(12) mois.\nCes effets doivent porter la signature d’au moins deux personnes physiques ou morales solvables.",
+      "paragraphs": [
+        {
+          "text": "Les effets de financement créés, représentatifs de crédits de trésorerie ou de crédits de campagne, sont réescomptables pour une période de six (6) mois au maximum sans que la durée totale du concours de la Banque d’Algérie n’excède douze",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "(12) mois.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Ces effets doivent porter la signature d’au moins deux personnes physiques ou morales solvables.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "III",
+          "heading": "Réescompte d’effets privés",
+          "label": "Section III"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 3,
+      "text": "Les effets de financement représentatifs de crédits à moyen terme sont réescomptables pour des périodes de six (6) mois sans que la durée totale du concours de la Banque d’Algérie n’excède trois (3) ans.\nCes effets réescomptés en contrepartie de crédits consentis à des entreprises clientèle des banques et établissements financiers, cotés favorablement par la Banque d’Algérie,\ndoivent revêtir la signature de deux personnes physiques ou morales solvables dont l’une peut être remplacée par la garantie de l’Etat.\nCes effets ne peuvent pas être présentés au réescompte au cours des douze (12)\npremiers mois d’utilisation du crédit.",
+      "paragraphs": [
+        {
+          "text": "Les effets de financement représentatifs de crédits à moyen terme sont réescomptables pour des périodes de six (6) mois sans que la durée totale du concours de la Banque d’Algérie n’excède trois (3) ans.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Ces effets réescomptés en contrepartie de crédits consentis à des entreprises clientèle des banques et établissements financiers, cotés favorablement par la Banque d’Algérie,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "doivent revêtir la signature de deux personnes physiques ou morales solvables dont l’une peut être remplacée par la garantie de l’Etat.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Ces effets ne peuvent pas être présentés au réescompte au cours des douze (12)",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "premiers mois d’utilisation du crédit.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "III",
+          "heading": "Réescompte d’effets privés",
+          "label": "Section III"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Les crédits à moyen terme admis au réescompte concernent le financement d’investissement de développement des moyens de production (création, extension ou renouvellement d’équipements), l’exportation de biens (préfinancement de commandes d’exportation), la construction de logements dans le cadre de la promotion immobilière et les opérations de crédit-bail sur les biens de production assorties d’options d’achat.",
+      "paragraphs": [
+        {
+          "text": "Les crédits à moyen terme admis au réescompte concernent le financement d’investissement de développement des moyens de production (création, extension ou renouvellement d’équipements), l’exportation de biens (préfinancement de commandes d’exportation), la construction de logements dans le cadre de la promotion immobilière et les opérations de crédit-bail sur les biens de production assorties d’options d’achat.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "III",
+          "heading": "Réescompte d’effets privés",
+          "label": "Section III"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Les concours de la Banque d’Algérie aux opérations de réescompte objet des articles 9 à 12 ci-dessus, déterminés selon la qualité des effets présentés, sont plafonnés à hauteur de 70 % pour les opérations commerciales et à 50 % de leur valeur nominale pour les autres opérations.",
+      "paragraphs": [
+        {
+          "text": "Les concours de la Banque d’Algérie aux opérations de réescompte objet des articles 9 à 12 ci-dessus, déterminés selon la qualité des effets présentés, sont plafonnés à hauteur de 70 % pour les opérations commerciales et à 50 % de leur valeur nominale pour les autres opérations.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "III",
+          "heading": "Réescompte d’effets privés",
+          "label": "Section III"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Afin que les effets mis en garantie soient éligibles aux opérations de réescompte, les banques et établissements financiers sont tenus de transmettre à la\nBanque d’Algérie les dossiers de crédit correspondants à ces effets.",
+      "paragraphs": [
+        {
+          "text": "Afin que les effets mis en garantie soient éligibles aux opérations de réescompte, les banques et établissements financiers sont tenus de transmettre à la",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Banque d’Algérie les dossiers de crédit correspondants à ces effets.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "IV",
+          "heading": "Avances et crédits en compte courant sur effets publics et privés",
+          "label": "Section IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "La Banque d’Algérie peut consentir aux banques :\na) des avances à trente (30) jours sur effets publics escomptables, dont la maturité restant à courir est supérieure à trois (3) mois et inférieure ou égale à trois (3) ans.\nUne avance parvenue à échéance ne peut être relayée par une autre avance sans une interruption minimale de cinq (5) jours ouvrables, sauf présentation d’autres effets publics escomptables.\nLa quotité de ce type d’avance ne peut pas dépasser 90% de la valeur nominale des effets mis en nantissement ;\nb) des avances gagées sur des effets publics émis ou garantis par l’Etat dont l’échéance restant à courir est supérieure à un (1) an et inférieure ou égale à trois (3) ans et ce, pour une durée n’excédant pas une (1) année.\nLa quotité de ces avances gagées ne peut pas dépasser 70% de la valeur nominale des effets mis en nantissement ;\nc) des crédits en compte courant pour une durée d’un (1) an au plus garantis par :\n- des gages sur bons et obligations du Trésor dont la quotité des crédits n’excède pas 70 % de leur valeur nominale ;\n- des gages sur des effets privés admissibles au réescompte dont la quotité du crédit n’excède pas 50 % du montant gagé.\nPour les banques en situation de besoin de liquidité mais solvables, conformément au cadre d’évaluation de la solvabilité mis en place par la Banque d’Algérie, les crédits en compte courant s’effectuent aux conditions de garantie et de taux d’intérêt fixées par la\nBanque d’Algérie.",
+      "paragraphs": [
+        {
+          "text": "La Banque d’Algérie peut consentir aux banques :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "a) des avances à trente (30) jours sur effets publics escomptables, dont la maturité restant à courir est supérieure à trois (3) mois et inférieure ou égale à trois (3) ans.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Une avance parvenue à échéance ne peut être relayée par une autre avance sans une interruption minimale de cinq (5) jours ouvrables, sauf présentation d’autres effets publics escomptables.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "La quotité de ce type d’avance ne peut pas dépasser 90% de la valeur nominale des effets mis en nantissement ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "b) des avances gagées sur des effets publics émis ou garantis par l’Etat dont l’échéance restant à courir est supérieure à un (1) an et inférieure ou égale à trois (3) ans et ce, pour une durée n’excédant pas une (1) année.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "La quotité de ces avances gagées ne peut pas dépasser 70% de la valeur nominale des effets mis en nantissement ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "c) des crédits en compte courant pour une durée d’un (1) an au plus garantis par :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- des gages sur bons et obligations du Trésor dont la quotité des crédits n’excède pas 70 % de leur valeur nominale ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- des gages sur des effets privés admissibles au réescompte dont la quotité du crédit n’excède pas 50 % du montant gagé.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Pour les banques en situation de besoin de liquidité mais solvables, conformément au cadre d’évaluation de la solvabilité mis en place par la Banque d’Algérie, les crédits en compte courant s’effectuent aux conditions de garantie et de taux d’intérêt fixées par la",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Banque d’Algérie.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 16",
+      "number": "16",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "IV",
+          "heading": "Avances et crédits en compte courant sur effets publics et privés",
+          "label": "Section IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 4,
+      "text": "Dans les situations prévues à l’article 15 ci-dessus, l’emprunteur s’engage expressément envers la Banque d’Algérie à rembourser à l’échéance le montant du crédit ou de l’avance consentis.\nDans le cas de décote de la valeur du gage sur crédit-bail, l’emprunteur s’engage à couvrir, en faveur de la Banque d’Algérie, la fraction du crédit correspondante.\nLes effets supports des opérations visées à l’article 15 ci-dessus font l’objet de l’établissement d’un acte de nantissement au profit de la Banque d’Algérie.",
+      "paragraphs": [
+        {
+          "text": "Dans les situations prévues à l’article 15 ci-dessus, l’emprunteur s’engage expressément envers la Banque d’Algérie à rembourser à l’échéance le montant du crédit ou de l’avance consentis.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Dans le cas de décote de la valeur du gage sur crédit-bail, l’emprunteur s’engage à couvrir, en faveur de la Banque d’Algérie, la fraction du crédit correspondante.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Les effets supports des opérations visées à l’article 15 ci-dessus font l’objet de l’établissement d’un acte de nantissement au profit de la Banque d’Algérie.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 17",
+      "number": "17",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "V",
+          "heading": "Modalités de mobilisation des effets",
+          "label": "Section V"
+        }
+      },
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "La mobilisation d’effets publics s’effectue par la transmission de ces effets au profit de la Banque d’Algérie par l’intermédiaire des comptes de règlement de titres inscrits soit sur les livres de la Banque d’Algérie soit sur les livres du dépositaire central.\nLa mobilisation des effets privés fait l’objet de la présentation par des banques et établissements financiers concernés de billets globaux de mobilisation souscrits à l’ordre de la Banque d’Algérie. Le billet global doit être établi par nature de crédits accordés à la clientèle, avoir une échéance maximale de six (6) mois, correspondre à des quotités réescomptables et être appuyé d’un état des effets servant de support.\nLe montant total des effets privés cédés doit représenter au minimum une valeur représentant le double de celle du billet global de mobilisation, sauf pour les effets représentatifs d’opérations commerciales dont le montant total doit être au moins égal à une fois et demi le montant du billet global de mobilisation.",
+      "paragraphs": [
+        {
+          "text": "La mobilisation d’effets publics s’effectue par la transmission de ces effets au profit de la Banque d’Algérie par l’intermédiaire des comptes de règlement de titres inscrits soit sur les livres de la Banque d’Algérie soit sur les livres du dépositaire central.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "La mobilisation des effets privés fait l’objet de la présentation par des banques et établissements financiers concernés de billets globaux de mobilisation souscrits à l’ordre de la Banque d’Algérie. Le billet global doit être établi par nature de crédits accordés à la clientèle, avoir une échéance maximale de six (6) mois, correspondre à des quotités réescomptables et être appuyé d’un état des effets servant de support.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Le montant total des effets privés cédés doit représenter au minimum une valeur représentant le double de celle du billet global de mobilisation, sauf pour les effets représentatifs d’opérations commerciales dont le montant total doit être au moins égal à une fois et demi le montant du billet global de mobilisation.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 18",
+      "number": "18",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "VI",
+          "heading": "Procédures de règlement",
+          "label": "Section VI"
+        }
+      },
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Comme pour toute opération de politique monétaire, le règlement des opérations d’escompte ou de réescompte d’effets publics et privés s’effectue par le mouvement des comptes de règlement ouverts dans le système de règlements bruts en temps réel de gros montants et paiements urgents (ARTS) et repris dans les livres de la\nBanque d’Algérie.",
+      "paragraphs": [
+        {
+          "text": "Comme pour toute opération de politique monétaire, le règlement des opérations d’escompte ou de réescompte d’effets publics et privés s’effectue par le mouvement des comptes de règlement ouverts dans le système de règlements bruts en temps réel de gros montants et paiements urgents (ARTS) et repris dans les livres de la",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Banque d’Algérie.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 19",
+      "number": "19",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "VI",
+          "heading": "Procédures de règlement",
+          "label": "Section VI"
+        }
+      },
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Le règlement des opérations d’escompte ou de réescompte intervient le jour convenu avec la Banque d’Algérie, consécutivement au transfert irrévocable des effets publics ou privés mis en garantie. La Banque d’Algérie se réserve le droit de vérifier l’existence et la validité des effets donnés en garantie.",
+      "paragraphs": [
+        {
+          "text": "Le règlement des opérations d’escompte ou de réescompte intervient le jour convenu avec la Banque d’Algérie, consécutivement au transfert irrévocable des effets publics ou privés mis en garantie. La Banque d’Algérie se réserve le droit de vérifier l’existence et la validité des effets donnés en garantie.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 20",
+      "number": "20",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "VII",
+          "heading": "Autres dispositions",
+          "label": "Section VII"
+        }
+      },
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Le taux d’escompte/réescompte des effets publics et privés est fixé par une instruction de la Banque d’Algérie, conformément aux orientations du Conseil de la\nMonnaie et du Crédit.",
+      "paragraphs": [
+        {
+          "text": "Le taux d’escompte/réescompte des effets publics et privés est fixé par une instruction de la Banque d’Algérie, conformément aux orientations du Conseil de la",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Monnaie et du Crédit.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 21",
+      "number": "21",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "VII",
+          "heading": "Autres dispositions",
+          "label": "Section VII"
+        }
+      },
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Les modalités d’application du présent règlement sont précisées, chaque fois que de besoin, par voie d’instruction de la Banque d’Algérie.",
+      "paragraphs": [
+        {
+          "text": "Les modalités d’application du présent règlement sont précisées, chaque fois que de besoin, par voie d’instruction de la Banque d’Algérie.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 22",
+      "number": "22",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "VII",
+          "heading": "Autres dispositions",
+          "label": "Section VII"
+        }
+      },
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Le présent règlement annule et remplace le règlement n°2000-01 du 13 février 2000 relatif aux opérations de réescompte et crédit aux banques et établissements financiers.",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement annule et remplace le règlement n°2000-01 du 13 février 2000 relatif aux opérations de réescompte et crédit aux banques et établissements financiers.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 23",
+      "number": "23",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "VII",
+          "heading": "Autres dispositions",
+          "label": "Section VII"
+        }
+      },
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Le présent règlement sera publié au Journal Officiel de la République algérienne démocratique et populaire.\nLe Gouverneur,\nMohammed LAKSACI",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement sera publié au Journal Officiel de la République algérienne démocratique et populaire.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Le Gouverneur,",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.038
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-15-01.fr.txt"
+}

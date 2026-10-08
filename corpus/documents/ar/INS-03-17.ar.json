@@ -1,0 +1,185 @@
+{
+  "document_id": "INS-03-17.ar",
+  "work_id": "INS-03-17",
+  "title": "تعليمة رقم 03-2017 المؤرخة في 12 افريل 2017، تحدد سعر إعادة الخصم.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "03-2017",
+  "number_source": "libelle",
+  "date": "2017-04-12",
+  "date_raw": "المؤرخة في 12 افريل 2017",
+  "date_source": "libelle",
+  "publication_date": "2023-03-02",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "instructions",
+  "subcategory": "أدوات السياسة النقدية",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a3%d8%af%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d9%86%d9%82%d8%af%d9%8a%d8%a9/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/03/03-17.pdf",
+  "format": "pdf",
+  "file_hash": "00adabbc6221c81060794d4fef8a8cf43b03aca1659862cf951e7aa42f7fdf19",
+  "file_size": 194939,
+  "raw_path": "raw/00adabbc6221__03-17.pdf",
+  "retrieved_at": "2026-10-05T13:29:24+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 1,
+  "url_hash": "b4d6b5888d389061eb8f8d296660007899bb6268cc649984b47dea072ecd7f75",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%a3%d8%af%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d9%86%d9%82%d8%af%d9%8a%d8%a9/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "author": "lynda benhaha",
+    "creator": "Microsoft® Word 2016",
+    "producer": "Microsoft® Word 2016",
+    "creationDate": "D:20230301101436+01'00'",
+    "modDate": "D:20230301101436+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 270,
+        "ocr_confidence": 79.50943396226415
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": false,
+    "article_count": 0,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "texte_anormalement_court",
+    "ocr_utilise_verification_humaine"
+  ],
+  "title_document": null,
+  "alias_urls": [],
+  "text_hash": "a314d5f56f6cd468f4d7a0cfc8d1da6df630082ec95791d6a00c346de30afbfc",
+  "relations_out": [
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "05-2016",
+        "date": "2016-09-01",
+        "raw": "instruction n°05-2016 du 01 septembre 2016"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "en date du 30 mars 2017, le taux de réescompte est fixé à 3,75 %. La présente Instruction abroge les dispositions de l’instruction n°05-2016 du 01 septembre 2016 et entre en vigueur à compter du 02 mai",
+        "copied_from": "INS-03-17.fr"
+      },
+      "target_work_id": "INS-05-16"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "INS-05-16",
+      "reference": "instruction n°05-2016 du 01 septembre 2016",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "en date du 30 mars 2017, le taux de réescompte est fixé à 3,75 %. La présente Instruction abroge les dispositions de l’instruction n°05-2016 du 01 septembre 2016 et entre en vigueur à compter du 02 mai",
+        "copied_from": "INS-03-17.fr"
+      }
+    }
+  ],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-03-17.fr",
+    "INS-03-17.fr~2"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "ocr_numeric_check": {
+    "units": 1,
+    "units_flagged": 0,
+    "units_compared_with_french": 0,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "التعليمة رقم 17-03 المؤرخة في 12 أفريل 2017 تحدد سعر إعادةٌ الخصسم us‏ لمداولة مجلس النقد و ua JA‏ بتاريخ 30 مارس 2017 يحدد سعر Se)‏ الخصم ب 903,75.\nتلغي هذه التعليمة أحكام التعليمة رقم 16-05 المؤرخة في 01 سبتمبر 2016 و Ml js JS‏ ابتداء من 02 ماي 2017 المحافظ محمد لوكال",
+      "paragraphs": [
+        {
+          "text": "التعليمة رقم 17-03 المؤرخة في 12 أفريل 2017 تحدد سعر إعادةٌ الخصسم us‏ لمداولة مجلس النقد و ua JA‏ بتاريخ 30 مارس 2017 يحدد سعر Se)‏ الخصم ب 903,75.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "تلغي هذه التعليمة أحكام التعليمة رقم 16-05 المؤرخة في 01 سبتمبر 2016 و Ml js JS‏ ابتداء من 02 ماي 2017 المحافظ محمد لوكال",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "texte_anormalement_court",
+      "ocr_utilise_verification_humaine"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.046,
+      "ocr_pages": [
+        1
+      ],
+      "ocr_mean_confidence": 79.5
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/INS-03-17.ar.txt"
+}

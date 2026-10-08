@@ -1,0 +1,192 @@
+{
+  "document_id": "INS-03-17.fr~2",
+  "work_id": "INS-03-17",
+  "title": "Instruction n° 03 -2017 du 12 avril 2017 fixant le taux de réescompte.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "03-2017",
+  "number_source": "en-tête du document",
+  "date": "2017-04-12",
+  "date_raw": "N°03-2017 DU 12 AVRIL 2017",
+  "date_source": "en-tête du document",
+  "publication_date": "2023-01-24",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Instruments de la politique monétaire",
+  "source_url": "https://www.bank-of-algeria.dz/marche-monetaire-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction032017.pdf",
+  "format": "pdf",
+  "file_hash": "0269a37bf0fca5be6fd19f309cc055050d06c41c5ac14e0d5858c09cd5a6e257",
+  "file_size": 39202,
+  "raw_path": "raw/0269a37bf0fc__instruction032017.pdf",
+  "retrieved_at": "2026-10-05T13:25:51+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "7cd77339c666326cfafa3e6896106a82d60fada53a31ee726767c440978fbb38",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/marche-monetaire-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document11",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20201026120659+01'00'",
+    "modDate": "D:20201026120659+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 385,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": false,
+    "article_count": 0,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "meme_texte_plusieurs_fichiers"
+  ],
+  "title_document": "INSTRUCTION N°03-2017 DU 12 AVRIL 2017 FIXANT LE TAUX DE REESCOMPTE",
+  "alias_urls": [],
+  "text_hash": "196462fbbfdd6d6a436e62549d2d096029421e5d820bbf1e424aea1d962f8d51",
+  "relations_out": [
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "05-16",
+        "date": "2016-09-01",
+        "raw": "instruction n°05-16 du 01 septembre 2016"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "t en date du 30 mars 2017, le taux de réescompte est fixé à 3,75%. La présente Instruction abroge les dispositions de l’instruction n°05-16 du 01 septembre 2016 et entre en vigueur à compter du 02 mai"
+      },
+      "target_work_id": "INS-05-16"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "INS-05-16",
+      "reference": "instruction n°05-16 du 01 septembre 2016",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "t en date du 30 mars 2017, le taux de réescompte est fixé à 3,75%. La présente Instruction abroge les dispositions de l’instruction n°05-16 du 01 septembre 2016 et entre en vigueur à compter du 02 mai"
+      }
+    }
+  ],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-03-17.ar",
+    "INS-03-17.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°03-2017 DU 12 AVRIL 2017\nFIXANT LE TAUX DE REESCOMPTE\nEn application de la délibération du Conseil de Monnaie et du Crédit en date du 30 mars 2017, le taux de réescompte est fixé à 3,75%.\nLa présente Instruction abroge les dispositions de l’instruction n°05-16 du 01 septembre 2016 et entre en vigueur à compter du 02 mai 2017.\nLe Gouverneur\nMohamed LOUKAL",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°03-2017 DU 12 AVRIL 2017",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "FIXANT LE TAUX DE REESCOMPTE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "En application de la délibération du Conseil de Monnaie et du Crédit en date du 30 mars 2017, le taux de réescompte est fixé à 3,75%.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La présente Instruction abroge les dispositions de l’instruction n°05-16 du 01 septembre 2016 et entre en vigueur à compter du 02 mai 2017.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Mohamed LOUKAL",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "meme_texte_plusieurs_fichiers"
+    ],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.033
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-03-17.fr~2.txt"
+}

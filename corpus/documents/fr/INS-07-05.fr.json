@@ -1,0 +1,531 @@
+{
+  "document_id": "INS-07-05.fr",
+  "work_id": "INS-07-05",
+  "title": "Instruction n°07-2005 du 11 août 2005 modifiant et complétant l’instruction n°70/92 relative a la centralisation des risques bancaires et des opérations de crédit-bail.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "07-2005",
+  "number_source": "en-tête du document",
+  "date": "2005-08-11",
+  "date_raw": "N°07-2005 DU 11 AOUT 2005",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Centrales des Risques, des Impayés et des Bilans et chèques sans provision",
+  "source_url": "https://www.bank-of-algeria.dz/cheques-sans-provision-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction072005.pdf",
+  "format": "pdf",
+  "file_hash": "a88f3a623becfc64c75bbf7de2414fedddb09c448aa73503d44096efd24d0699",
+  "file_size": 52306,
+  "raw_path": "raw/a88f3a623bec__instruction072005.pdf",
+  "retrieved_at": "2026-10-05T13:21:43+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "84ddc222025810c126fc24078a7f299f6267306f01e5dbdfc5f940cb20799b76",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-2005/",
+    "https://www.bank-of-algeria.dz/ar/%D8%A7%D9%84%D9%85%D8%AE%D8%A7%D8%B7%D8%B1-%D8%A7%D9%84%D8%A8%D9%86%D9%83%D9%8A%D8%A9/",
+    "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d9%85%d8%ae%d8%a7%d8%b7%d8%b1-%d8%a7%d9%84%d8%a8%d9%86%d9%83%d9%8a%d8%a9/",
+    "https://www.bank-of-algeria.dz/cheques-sans-provision-instruction/",
+    "https://www.bank-of-algeria.dz/risques-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Microsoft Word - instruction072005",
+    "author": "chahra.yahiaoui",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "creationDate": "D:20210225140258+01'00'",
+    "modDate": "D:20210225140258+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 1874,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 5,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°07-2005 DU 11 AOUT 2005 MODIFIANT ET COMPLETANT L'INSTRUCTION N°70-92 DU 24 NOVEMBRE 1992 RELATIVE A LA CENTRALISATION DES RISQUES BANCAIRES ET DES OPERATIONS DE CREDIT BAIL",
+  "alias_urls": [],
+  "text_hash": "c3148117d508baadaaa06776680f94032c760c43ead09c51410f61f0c018a3b4",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "70-92",
+        "date": null,
+        "raw": "instruction n°70/92"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°07-2005 du 11 août 2005 modifiant et complétant l’instruction n°70/92 relative a la centralisation des risque"
+      },
+      "target_work_id": "INS-70-92"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "70-92",
+        "date": null,
+        "raw": "instruction n°70/92"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°07-2005 du 11 août 2005 modifiant et complétant l’instruction n°70/92 relative a la centralisation des risque"
+      },
+      "target_work_id": "INS-70-92"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "70-92",
+        "date": "1992-11-24",
+        "raw": "instruction n°70-92 du 24 novembre 1992"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter les dispositions de l'instruction n°70-92 du 24 novembre 1992 relative à la centralisation des risque"
+      },
+      "target_work_id": "INS-70-92"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "70-92",
+        "date": "1992-11-24",
+        "raw": "instruction n°70-92 du 24 novembre 1992"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter les dispositions de l'instruction n°70-92 du 24 novembre 1992 relative à la centralisation des risque"
+      },
+      "target_work_id": "INS-70-92"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "74-94",
+        "date": "1994-11-29",
+        "raw": "Instruction n°74 -94 du 29 novembre 1994"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "s et litigieuses, visées à l'article 5 ci-dessus, s’entendent au sens de créances classées définies à l’article 17 de l’Instruction n°74 -94 du 29 novembre 1994 relative à la fixation des règles prude"
+      },
+      "target_work_id": "INS-74-94"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-70-92",
+      "reference": "instruction n°70/92",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°07-2005 du 11 août 2005 modifiant et complétant l’instruction n°70/92 relative a la centralisation des risque"
+      }
+    },
+    {
+      "work_id": "INS-70-92",
+      "reference": "instruction n°70-92 du 24 novembre 1992",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter les dispositions de l'instruction n°70-92 du 24 novembre 1992 relative à la centralisation des risque"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "INS-70-92",
+      "reference": "instruction n°70/92",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°07-2005 du 11 août 2005 modifiant et complétant l’instruction n°70/92 relative a la centralisation des risque"
+      }
+    },
+    {
+      "work_id": "INS-70-92",
+      "reference": "instruction n°70-92 du 24 novembre 1992",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter les dispositions de l'instruction n°70-92 du 24 novembre 1992 relative à la centralisation des risque"
+      }
+    },
+    {
+      "work_id": "INS-74-94",
+      "reference": "Instruction n°74 -94 du 29 novembre 1994",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "s et litigieuses, visées à l'article 5 ci-dessus, s’entendent au sens de créances classées définies à l’article 17 de l’Instruction n°74 -94 du 29 novembre 1994 relative à la fixation des règles prude"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [
+    {
+      "work_id": "INS-04-19",
+      "document_id": "INS-04-19.fr",
+      "date": "2019-12-31",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 6,
+        "quote": "des opérations de crédit-bail, modifiée et complétée, respectivement par l’instruction n°56-94 du 07 septembre 1994, l’instruction n°07-2005 du 11 août 2005, ainsi que l’instruction n°01-2008 du 9"
+      }
+    }
+  ],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "INS-04-19",
+      "document_id": "INS-04-19.fr",
+      "date": "2019-12-31",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 6,
+        "quote": "des opérations de crédit-bail, modifiée et complétée, respectivement par l’instruction n°56-94 du 07 septembre 1994, l’instruction n°07-2005 du 11 août 2005, ainsi que l’instruction n°01-2008 du 9"
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [
+    {
+      "work_id": "INS-04-19",
+      "document_id": "INS-04-19.fr",
+      "date": "2019-12-31",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 6,
+        "quote": "des opérations de crédit-bail, modifiée et complétée, respectivement par l’instruction n°56-94 du 07 septembre 1994, l’instruction n°07-2005 du 11 août 2005, ainsi que l’instruction n°01-2008 du 9"
+      }
+    }
+  ],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "INS-70-92",
+      "reference": "instruction n°70/92",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°07-2005 du 11 août 2005 modifiant et complétant l’instruction n°70/92 relative a la centralisation des risque"
+      }
+    },
+    {
+      "work_id": "INS-70-92",
+      "reference": "instruction n°70-92 du 24 novembre 1992",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter les dispositions de l'instruction n°70-92 du 24 novembre 1992 relative à la centralisation des risque"
+      }
+    },
+    {
+      "work_id": "INS-74-94",
+      "reference": "Instruction n°74 -94 du 29 novembre 1994",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "s et litigieuses, visées à l'article 5 ci-dessus, s’entendent au sens de créances classées définies à l’article 17 de l’Instruction n°74 -94 du 29 novembre 1994 relative à la fixation des règles prude"
+      }
+    }
+  ],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°07-2005 DU 11 AOUT 2005 MODIFIANT ET COMPLETANT\nL'INSTRUCTION N°70-92 DU 24 NOVEMBRE 1992 RELATIVE\nA LA CENTRALISATION DES RISQUES BANCAIRES ET DES\nOPERATIONS DE CREDIT BAIL",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°07-2005 DU 11 AOUT 2005 MODIFIANT ET COMPLETANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L'INSTRUCTION N°70-92 DU 24 NOVEMBRE 1992 RELATIVE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "A LA CENTRALISATION DES RISQUES BANCAIRES ET DES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "OPERATIONS DE CREDIT BAIL",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction a pour objet de modifier et de compléter les dispositions de l'instruction n°70-92 du 24 novembre 1992 relative à la centralisation des risques bancaires et des opérations de crédit-bail.",
+      "paragraphs": [
+        {
+          "text": "La présente instruction a pour objet de modifier et de compléter les dispositions de l'instruction n°70-92 du 24 novembre 1992 relative à la centralisation des risques bancaires et des opérations de crédit-bail.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les dispositions de l'article 5 de l'instruction susvisée sont modifiées et complétées comme suit :\n«Les banques et établissements financiers sont tenus de déclarer à la Centrale des\nRisques, l'ensemble des crédits impayés, en vue de permettre une appréciation qualitative du portefeuille client.\nUne déclaration doit être établie et doit regrouper, pour chaque bénéficiaire de crédit, l'ensemble des concours ouverts et utilisés.\nLes conventions de fusion de comptes ne sont autorisées qu'à l'intérieure d’un même guichet.\nLes créances douteuses et litigieuses sont déclarées distinctement dans un fichier de la\nCentrale des Risques.»",
+      "paragraphs": [
+        {
+          "text": "Les dispositions de l'article 5 de l'instruction susvisée sont modifiées et complétées comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "«Les banques et établissements financiers sont tenus de déclarer à la Centrale des",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Risques, l'ensemble des crédits impayés, en vue de permettre une appréciation qualitative du portefeuille client.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Une déclaration doit être établie et doit regrouper, pour chaque bénéficiaire de crédit, l'ensemble des concours ouverts et utilisés.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les conventions de fusion de comptes ne sont autorisées qu'à l'intérieure d’un même guichet.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les créances douteuses et litigieuses sont déclarées distinctement dans un fichier de la",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Centrale des Risques.»",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les dispositions de l’instruction n°70-92 du 24 novembre 1992 sont complétées par un article 5 bis, rédigé comme suit «Article 5 bis : Les créances douteuses et litigieuses, visées à l'article 5 ci-dessus, s’entendent au sens de créances classées définies à l’article 17 de l’Instruction n°74 -94 du 29 novembre 1994 relative à la fixation des règles prudentielles de gestion des banques et établissements financiers.»",
+      "paragraphs": [
+        {
+          "text": "Les dispositions de l’instruction n°70-92 du 24 novembre 1992 sont complétées par un article 5 bis, rédigé comme suit «Article 5 bis : Les créances douteuses et litigieuses, visées à l'article 5 ci-dessus, s’entendent au sens de créances classées définies à l’article 17 de l’Instruction n°74 -94 du 29 novembre 1994 relative à la fixation des règles prudentielles de gestion des banques et établissements financiers.»",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les autres dispositions de l'instruction n°70-92 du 24 novembre 1992 relative à la centralisation des risques bancaires et des opérations de crédit-bail, demeurent sans changement.",
+      "paragraphs": [
+        {
+          "text": "Les autres dispositions de l'instruction n°70-92 du 24 novembre 1992 relative à la centralisation des risques bancaires et des opérations de crédit-bail, demeurent sans changement.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction prend effet à compter de la date de signature.\nLe Gouverneur\nMohammed LAKSACI\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "La présente instruction prend effet à compter de la date de signature.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.037
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-07-05.fr.txt"
+}

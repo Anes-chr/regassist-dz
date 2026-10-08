@@ -1,0 +1,260 @@
+{
+  "document_id": "INS-05-11.fr",
+  "work_id": "INS-05-11",
+  "title": "Instruction n°05-2011 du 19 octobre 2011 modifiant les dispositions de l’instruction n°22-94 du 12 avril 1994 modifiée et complétée fixant le pourcentage des recettes d’exportation hors hydrocarbures et produits miniers ouvrant droit à l’inscription au(x) compte(s) devises des personnes morales.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "05-2011",
+  "number_source": "en-tête du document",
+  "date": "2011-10-19",
+  "date_raw": "N°05-2011 DU 19 OCTOBRE 2011",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-02",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Règlementation des changes",
+  "source_url": "https://www.bank-of-algeria.dz/importations-exportations-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/02/instruction052011.pdf",
+  "format": "pdf",
+  "file_hash": "091d45bda3d32b42875e5400e9f671b049dee60e25a74b6c9e33a9e18776a60f",
+  "file_size": 65637,
+  "raw_path": "raw/091d45bda3d3__instruction052011.pdf",
+  "retrieved_at": "2026-10-05T13:20:39+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "3f287ca203ff79890f6a996a235eb95b5d92fdd089ed24ba6ce833101c68a6ba",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-2011/",
+    "https://www.bank-of-algeria.dz/ar/%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%AC%D9%86%D8%A8%D9%8A%D8%A9/",
+    "https://www.bank-of-algeria.dz/ar/%d8%ad%d8%b3%d8%a7%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%85%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d8%ac%d9%86%d8%a8%d9%8a%d8%a9/",
+    "https://www.bank-of-algeria.dz/comptes-devises-instruction/",
+    "https://www.bank-of-algeria.dz/importations-exportations-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Microsoft Word - instruction052011",
+    "author": "chahra.yahiaoui",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "creationDate": "D:20210210145553+01'00'",
+    "modDate": "D:20210210145553+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 1124,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 2,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°05-2011 DU 19 OCTOBRE 2011 MODIFIANT LES DISPOSITIONS DE L'INSTRUCTION N°22-94 DU 12 AVRIL 1994 MODIFIEE ET COMPLETEE FIXANT LE POURCENTAGE DES RECETTES D'EXPORTATION HORS HYDROCARBURES ET PRODUITS MINIERS OUVRANT DROIT A L'INSCRIPTION AU(X) COMPTE(S) DEVISESDES PERSONNES MORALES",
+  "alias_urls": [],
+  "text_hash": "dcfc423069f497ad07780e8fa0ab6ca0c8a41f94025b26105082be45856d3a75",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "22-94",
+        "date": "1994-04-12",
+        "raw": "instruction n°22-94 du 12 avril 1994"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°05-2011 du 19 octobre 2011 modifiant les dispositions de l’instruction n°22-94 du 12 avril 1994 modifiée et complétée fixant le pourcen"
+      },
+      "target_work_id": "INS-22-94"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-22-94",
+      "reference": "instruction n°22-94 du 12 avril 1994",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°05-2011 du 19 octobre 2011 modifiant les dispositions de l’instruction n°22-94 du 12 avril 1994 modifiée et complétée fixant le pourcen"
+      }
+    }
+  ],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-05-11.ar"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°05-2011 DU 19 OCTOBRE 2011 MODIFIANT\nLES DISPOSITIONS DE L'INSTRUCTION N°22-94 DU 12 AVRIL 1994 MODIFIEE\nET COMPLETEE FIXANT LE POURCENTAGE DES RECETTES D'EXPORTATION HORS\nHYDROCARBURES ET PRODUITS MINIERS OUVRANT DROIT A L'INSCRIPTION\nAU(X) COMPTE(S) DEVISESDES PERSONNES MORALES",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°05-2011 DU 19 OCTOBRE 2011 MODIFIANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "LES DISPOSITIONS DE L'INSTRUCTION N°22-94 DU 12 AVRIL 1994 MODIFIEE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET COMPLETEE FIXANT LE POURCENTAGE DES RECETTES D'EXPORTATION HORS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "HYDROCARBURES ET PRODUITS MINIERS OUVRANT DROIT A L'INSCRIPTION",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AU(X) COMPTE(S) DEVISESDES PERSONNES MORALES",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L'article 2 bis de l'instruction n°22-94 du 12 avril 1994 modifiée et complétée, fixant le pourcentage des recettes d'exportation hors hydrocarbures et produits miniers ouvrant droit à l'inscription au(x) compte(s) devises des personnes morales, est modifié comme suit :\n\"Article 2 bis : Un montant en devises limité à 40%, prélevé sur la part des recettes d'exportation hors hydrocarbures et produits miniers effectivement rapatriées et ouvrant droit à l'inscription au(x) compte(s) devises des personnes morales, peut être utilisé librement à la discrétion de l'exportateur et sous sa responsabilité dans le cadre de la promotion de ses exportations.\"",
+      "paragraphs": [
+        {
+          "text": "L'article 2 bis de l'instruction n°22-94 du 12 avril 1994 modifiée et complétée, fixant le pourcentage des recettes d'exportation hors hydrocarbures et produits miniers ouvrant droit à l'inscription au(x) compte(s) devises des personnes morales, est modifié comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "\"Article 2 bis : Un montant en devises limité à 40%, prélevé sur la part des recettes d'exportation hors hydrocarbures et produits miniers effectivement rapatriées et ouvrant droit à l'inscription au(x) compte(s) devises des personnes morales, peut être utilisé librement à la discrétion de l'exportateur et sous sa responsabilité dans le cadre de la promotion de ses exportations.\"",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction entre en vigueur à compter de la date de sa signature.\nLe Gouverneur\nMohammed LAKSACI\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "La présente instruction entre en vigueur à compter de la date de sa signature.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.044
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-05-11.fr.txt"
+}

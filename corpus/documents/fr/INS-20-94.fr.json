@@ -1,0 +1,669 @@
+{
+  "document_id": "INS-20-94.fr",
+  "work_id": "INS-20-94",
+  "title": "Instruction n°20-94 du 12 avril 1994 fixant les conditions financières des opérations d’importations.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "20-94",
+  "number_source": "en-tête du document",
+  "date": "1994-04-12",
+  "date_raw": "N°20-94 DU 12 AVRIL 1994",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2025/12/instruction2094.pdf",
+      "uploaded": "2025-12-10T15:41:14"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Année 1994",
+  "source_url": "https://www.bank-of-algeria.dz/annee-1994/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction2094.pdf",
+  "format": "pdf",
+  "file_hash": "94b622b3d7d2d5c81c761efcb37a43af9558e81c79cb622ebb0981d6cc2536e7",
+  "file_size": 35770,
+  "raw_path": "raw/94b622b3d7d2__instruction2094.pdf",
+  "retrieved_at": "2026-10-05T14:17:29+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "f7640ac7ff54cb71a3aae572777a725c6fe650978a9ad74ade207e6ba3e209f4",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-1994/",
+    "https://www.bank-of-algeria.dz/importations-exportations-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - INSTRUCTION 32-91",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200809103146+01'00'",
+    "modDate": "D:20200809103146+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2908,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 818,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 10,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°20-94 DU 12 AVRIL 1994 FIXANT LES CONDITIONS FINANCIERES DES OPERATIONS D'IMPORTATIONS",
+  "alias_urls": [
+    {
+      "document_url": "https://www.bank-of-algeria.dz/stoodroa/2025/12/instruction2094.pdf",
+      "source_url": "https://www.bank-of-algeria.dz/importations-exportations-instruction/",
+      "title": "Instruction n°20-94 du 12 avril 1994 fixant les conditions financières des opérations d’importations."
+    }
+  ],
+  "text_hash": "6bab927e2a03784d2f2d03547f708261194d8694b352a77e0980fafd11d9f9b9",
+  "relations_out": [
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "58-92",
+        "date": "1992-10-27",
+        "raw": "instruction n°58-92 du 27 Octobre 1992"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "La présente instruction abroge toutes les dispositions contraires antérieures, notamment celles de l'instruction n°58-92 du 27 Octobre 1992 et s'applique aux domiciliations postér"
+      },
+      "target_work_id": "INS-58-92"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "INS-58-92",
+      "reference": "instruction n°58-92 du 27 Octobre 1992",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "La présente instruction abroge toutes les dispositions contraires antérieures, notamment celles de l'instruction n°58-92 du 27 Octobre 1992 et s'applique aux domiciliations postér"
+      }
+    }
+  ],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [
+    {
+      "work_id": "INS-08-02",
+      "document_id": "INS-08-02.fr",
+      "date": "2002-12-26",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "a présente Instruction abroge toutes les dispositions contraires antérieures, notamment, l'alinéa 2 de l'article 5 de l'Instruction n° 20-94 fixant les conditions financières des o"
+      }
+    },
+    {
+      "work_id": "INS-29-95",
+      "document_id": "INS-29-95.fr",
+      "date": "1995-04-22",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge les dispositions de l'article 6 de l'Instruction n°20-94 du 12 avril 1994 fixant les conditions financières des o"
+      }
+    }
+  ],
+  "modifie_par": [
+    {
+      "work_id": "INS-07-01",
+      "document_id": "INS-07-01.fr",
+      "date": "2001-12-06",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°07-2001 du 6 décembre 2001 modifiant et complétant l’instruction n°20-94 du 12 avril 1994 fixant les conditions financières des o"
+      }
+    },
+    {
+      "work_id": "INS-07-97",
+      "document_id": "INS-07-97.fr",
+      "date": "1997-08-17",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "L'article 7 de l'instruction n°20-94 du 12 avril 1994 suscitée est modifié et complété comme"
+      }
+    },
+    {
+      "work_id": "INS-29-95",
+      "document_id": "INS-29-95.fr",
+      "date": "1995-04-22",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°29-95 du 22 avril 1995 modifiant l’instruction n°20-94 du 12 avril 1994 fixant les conditions financières des o"
+      }
+    }
+  ],
+  "complete_par": [
+    {
+      "work_id": "INS-07-01",
+      "document_id": "INS-07-01.fr",
+      "date": "2001-12-06",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°07-2001 du 6 décembre 2001 modifiant et complétant l’instruction n°20-94 du 12 avril 1994 fixant les conditions financières des o"
+      }
+    }
+  ],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "INS-08-02",
+      "document_id": "INS-08-02.fr",
+      "date": "2002-12-26",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "a présente Instruction abroge toutes les dispositions contraires antérieures, notamment, l'alinéa 2 de l'article 5 de l'Instruction n° 20-94 fixant les conditions financières des o"
+      }
+    },
+    {
+      "work_id": "INS-29-95",
+      "document_id": "INS-29-95.fr",
+      "date": "1995-04-22",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge les dispositions de l'article 6 de l'Instruction n°20-94 du 12 avril 1994 fixant les conditions financières des o"
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [],
+  "complété_par": [
+    {
+      "work_id": "INS-07-01",
+      "document_id": "INS-07-01.fr",
+      "date": "2001-12-06",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°07-2001 du 6 décembre 2001 modifiant et complétant l’instruction n°20-94 du 12 avril 1994 fixant les conditions financières des o"
+      }
+    }
+  ],
+  "modifié_par": [
+    {
+      "work_id": "INS-07-01",
+      "document_id": "INS-07-01.fr",
+      "date": "2001-12-06",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°07-2001 du 6 décembre 2001 modifiant et complétant l’instruction n°20-94 du 12 avril 1994 fixant les conditions financières des o"
+      }
+    },
+    {
+      "work_id": "INS-07-97",
+      "document_id": "INS-07-97.fr",
+      "date": "1997-08-17",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "L'article 7 de l'instruction n°20-94 du 12 avril 1994 suscitée est modifié et complété comme"
+      }
+    },
+    {
+      "work_id": "INS-29-95",
+      "document_id": "INS-29-95.fr",
+      "date": "1995-04-22",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°29-95 du 22 avril 1995 modifiant l’instruction n°20-94 du 12 avril 1994 fixant les conditions financières des o"
+      }
+    }
+  ],
+  "abrogé_par": [
+    {
+      "work_id": "INS-08-02",
+      "document_id": "INS-08-02.fr",
+      "date": "2002-12-26",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "a présente Instruction abroge toutes les dispositions contraires antérieures, notamment, l'alinéa 2 de l'article 5 de l'Instruction n° 20-94 fixant les conditions financières des o"
+      }
+    },
+    {
+      "work_id": "INS-29-95",
+      "document_id": "INS-29-95.fr",
+      "date": "1995-04-22",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge les dispositions de l'article 6 de l'Instruction n°20-94 du 12 avril 1994 fixant les conditions financières des o"
+      }
+    }
+  ],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°20-94 DU 12 AVRIL 1994 FIXANT\nLES CONDITIONS FINANCIERES DES OPERATIONS D'IMPORTATIONS",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°20-94 DU 12 AVRIL 1994 FIXANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "LES CONDITIONS FINANCIERES DES OPERATIONS D'IMPORTATIONS",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "En matière d'importation, l'accès à la devise est libre pour tous les agents économiques titulaires d'un registre de commerce et les administrations dans le strict respect de la réglementation du commerce extérieur et des changes.",
+      "paragraphs": [
+        {
+          "text": "En matière d'importation, l'accès à la devise est libre pour tous les agents économiques titulaires d'un registre de commerce et les administrations dans le strict respect de la réglementation du commerce extérieur et des changes.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les banques intermédiaires agréés doivent nécessairement s'assurer que l'importateur possède la surface financière suffisante ou des garanties adéquates pour faire face au paiement du prix de l'importation et/ou au service de la dette éventuellement contractée pour son compte.",
+      "paragraphs": [
+        {
+          "text": "Les banques intermédiaires agréés doivent nécessairement s'assurer que l'importateur possède la surface financière suffisante ou des garanties adéquates pour faire face au paiement du prix de l'importation et/ou au service de la dette éventuellement contractée pour son compte.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les engagements financiers des banques au titre d'opérations d'importation (remises documentaires, crédits documentaires, avals, cautions, garanties de commerce extérieur, acceptations, etc...) doivent être fondés sur la solvabilité de leur client/ importateur.\nL'appréciation par une banque de la solvabilité de l'importateur doit reposer sur la structure de son patrimoine et de ses obligations ainsi que sur sa rentabilité présente et future. En tout état de cause, la banque peut, avant tout engagement, exiger toute garantie qu'elle jugera utile.",
+      "paragraphs": [
+        {
+          "text": "Les engagements financiers des banques au titre d'opérations d'importation (remises documentaires, crédits documentaires, avals, cautions, garanties de commerce extérieur, acceptations, etc...) doivent être fondés sur la solvabilité de leur client/ importateur.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L'appréciation par une banque de la solvabilité de l'importateur doit reposer sur la structure de son patrimoine et de ses obligations ainsi que sur sa rentabilité présente et future. En tout état de cause, la banque peut, avant tout engagement, exiger toute garantie qu'elle jugera utile.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Au titre des importations, les banques doivent veiller en permanence à maintenir le niveau de l'encours de leurs nouveaux engagements extérieurs dans une limite, par rapport à leurs propres fonds, qui sera fixée ultérieurement par voie d'instruction.",
+      "paragraphs": [
+        {
+          "text": "Au titre des importations, les banques doivent veiller en permanence à maintenir le niveau de l'encours de leurs nouveaux engagements extérieurs dans une limite, par rapport à leurs propres fonds, qui sera fixée ultérieurement par voie d'instruction.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les banques qui s'engagent au titre des opérations de commerce extérieur doivent disposer :\n- d'un système de surveillance et de gestion des risques encourus ;\n- d'un système de contrôle permanent visant à vérifier le respect du ratio prévu dans l'article 4 précité.\nLes banques doivent adresser à la Banque d'Algérie par trimestre et dans un délai de 30 jours à compter de la fin du trimestre concerné, les déclarations des engagements pris et ce selon un canevas qui sera communiqué.",
+      "paragraphs": [
+        {
+          "text": "Les banques qui s'engagent au titre des opérations de commerce extérieur doivent disposer :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- d'un système de surveillance et de gestion des risques encourus ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- d'un système de contrôle permanent visant à vérifier le respect du ratio prévu dans l'article 4 précité.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les banques doivent adresser à la Banque d'Algérie par trimestre et dans un délai de 30 jours à compter de la fin du trimestre concerné, les déclarations des engagements pris et ce selon un canevas qui sera communiqué.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L'importation de biens d'équipement, tant pour la revente en l'état que pour l'investissement doit être financée au moyen de crédits répondant au minimum aux conditions consensuelles et d'une durée en relation avec la nature du bien importé et qui ne saurait, en tout état de cause, être inférieure à trois ans.\nL'obligation de financement ne s'impose par dans le cas des importations se réalisant par débit de comptes devises.",
+      "paragraphs": [
+        {
+          "text": "L'importation de biens d'équipement, tant pour la revente en l'état que pour l'investissement doit être financée au moyen de crédits répondant au minimum aux conditions consensuelles et d'une durée en relation avec la nature du bien importé et qui ne saurait, en tout état de cause, être inférieure à trois ans.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L'obligation de financement ne s'impose par dans le cas des importations se réalisant par débit de comptes devises.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "Pour l'importation des autres produits autorisés, l'opérateur, en concertation avec sa banque, à la possibilité :\n- soit de la régler au comptant ;\n- soit de la financer, par imputation sur une ligne de crédit multilatérale ou gouvernementale ;\n- soit de la financer par recours, en cas d'épuisement de telles lignes ou d'inéligibilité de l'opération à celles-ci, à un crédit export garanti dont les conditions sont conformes aux normes internationales.\nL'importation de ces autres produits autorisés peut également être réglée par débit de comptes devises.",
+      "paragraphs": [
+        {
+          "text": "Pour l'importation des autres produits autorisés, l'opérateur, en concertation avec sa banque, à la possibilité :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- soit de la régler au comptant ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- soit de la financer, par imputation sur une ligne de crédit multilatérale ou gouvernementale ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- soit de la financer par recours, en cas d'épuisement de telles lignes ou d'inéligibilité de l'opération à celles-ci, à un crédit export garanti dont les conditions sont conformes aux normes internationales.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L'importation de ces autres produits autorisés peut également être réglée par débit de comptes devises.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les dépôts de garantie et provisions éventuellement constitués en dinars auprès des banques donnent lieu de la part de celles-ci à la rémunération aux taux en vigueur.",
+      "paragraphs": [
+        {
+          "text": "Les dépôts de garantie et provisions éventuellement constitués en dinars auprès des banques donnent lieu de la part de celles-ci à la rémunération aux taux en vigueur.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les dispositions de la présente ne s'appliquent pas aux importations de véhicules automobiles pouvant être effectuées par des particuliers au moyen de débit de comptes devises dans le cadre des dispositions de la loi de finances 1994.",
+      "paragraphs": [
+        {
+          "text": "Les dispositions de la présente ne s'appliquent pas aux importations de véhicules automobiles pouvant être effectuées par des particuliers au moyen de débit de comptes devises dans le cadre des dispositions de la loi de finances 1994.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "La présente instruction abroge toutes les dispositions contraires antérieures, notamment celles de l'instruction n°58-92 du 27 Octobre 1992 et s'applique aux domiciliations postérieures à la date de la signature de la présente.\nLe Gouverneur\nAbdelouahab KERAMANE",
+      "paragraphs": [
+        {
+          "text": "La présente instruction abroge toutes les dispositions contraires antérieures, notamment celles de l'instruction n°58-92 du 27 Octobre 1992 et s'applique aux domiciliations postérieures à la date de la signature de la présente.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.034
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-20-94.fr.txt"
+}

@@ -1,0 +1,339 @@
+{
+  "document_id": "INS-03-07.ar",
+  "work_id": "INS-03-07",
+  "title": "تعليمة رقم 03-2007 المؤرخة في 31 ماي 2007، المتعلقة بإجراءات التصريح ومتابعة ملفات التوطين المصرفي للمعاملات الجارية مع الخارج.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "03-2007",
+  "number_source": "libelle",
+  "date": "2007-05-31",
+  "date_raw": "المؤرخة في 31 ماي 2007",
+  "date_source": "libelle",
+  "publication_date": "2023-03-02",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "instructions",
+  "subcategory": "تنظيم الصرف",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d9%88%d8%a7%d8%b1%d8%af%d8%a7%d8%aa-%d8%a7%d9%84%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/03/07-03.pdf",
+  "format": "pdf",
+  "file_hash": "63f12159548006988b7b1b44cb426fae5b0e9da4263c0911940324ae13f4c1fd",
+  "file_size": 576603,
+  "raw_path": "raw/63f121595480__07-03.pdf",
+  "retrieved_at": "2026-10-05T13:29:41+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 3,
+  "url_hash": "e16089bac33c6350236b9cc81677855898d0839b472bae43b70a8e208ebf299e",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d9%88%d8%a7%d8%b1%d8%af%d8%a7%d8%aa-%d8%a7%d9%84%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "producer": "Epson Scan 2",
+    "creationDate": "D:20230228153502+01'00'",
+    "modDate": "D:20230228153502+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 3,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 1072,
+        "ocr_confidence": 84.24691358024691
+      },
+      {
+        "page": 2,
+        "method": "ocr",
+        "chars": 881,
+        "ocr_confidence": 86.69375
+      },
+      {
+        "page": 3,
+        "method": "ocr",
+        "chars": 337,
+        "ocr_confidence": 82.54838709677419
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 5,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine"
+  ],
+  "title_document": null,
+  "alias_urls": [],
+  "text_hash": "5a9907c1b30fdaa04c923874526987361135c21a32a523fab6e5eeced30a7b5d",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-03-07.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "ocr_numeric_check": {
+    "units": 6,
+    "units_flagged": 0,
+    "units_compared_with_french": 1,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 02",
+      "number": "02",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 03",
+      "number": "03",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 04",
+      "number": "04",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 05",
+      "number": "05",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 3,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "المحافظ التعليمة رقم 07-03 المؤرخة في 31 ماي 2007 المتعلقة بإجراءات التصريح ومتابعة ملفات التوطين المصرفي - للمعاملات الجارية مع الخارج",
+      "paragraphs": [
+        {
+          "text": "المحافظ التعليمة رقم 07-03 المؤرخة في 31 ماي 2007 المتعلقة بإجراءات التصريح ومتابعة ملفات التوطين المصرفي - للمعاملات الجارية مع الخارج",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تهدف هذه التعليمة» تطبيقا للنظام رقم 01-07 المؤرخ فى 03 فيفري 2007 المتعلق بالقواعد المطبقة على المعاملات الجارية مع الخارج والحسابات بالعملة الصعبة؛ إلى تحديد شروط وكيفيات التصريحات من قبل البنوك والمؤسسات المالية» الوسطاء المعتمدين»\nبوضعية ملفات التوطين المصرفي لعمليات استيراد وتصدير السلع والخدمات وتصفيتها.",
+      "paragraphs": [
+        {
+          "text": "تهدف هذه التعليمة» تطبيقا للنظام رقم 01-07 المؤرخ فى 03 فيفري 2007 المتعلق بالقواعد المطبقة على المعاملات الجارية مع الخارج والحسابات بالعملة الصعبة؛ إلى تحديد شروط وكيفيات التصريحات من قبل البنوك والمؤسسات المالية» الوسطاء المعتمدين»",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "بوضعية ملفات التوطين المصرفي لعمليات استيراد وتصدير السلع والخدمات وتصفيتها.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 02",
+      "number": "02",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يجب على البنوك والمؤسسات المالية: الوسطاء المعتمدين؛ أن ترسل إلى بنك الجزائر (المديرية العامة للصرف) شهريا وذلك في غضون الأسبوعين المواليين للشهر المرجعي؛ تصريحات فتح وتصفية ملفات التوطين المصرفي لاستيراد وتصدير السلع والخدمات» المنجزة حسب الحالة» طبقا للنماذج» المشار إليها فيما يلي» والمرفقة في والخدمات cl: Gate}‏\n- التصريح بملفات التوطين المصرفي. لاستيراد وتصدير السلع والحهئات: البفبقاة \"الملحق 3\n- التصريح بملفات التوطين. المصرفي لاستيراد وتصدير السلع والخدمات المرسلة وغير المصفاة» والتي تبرز حسب الحالة إما وضعية فائض في التسوية أو نقص في الترحيل \"الملحق 3\".\n__ Bank of Algeria The Governor",
+      "paragraphs": [
+        {
+          "text": "يجب على البنوك والمؤسسات المالية: الوسطاء المعتمدين؛ أن ترسل إلى بنك الجزائر (المديرية العامة للصرف) شهريا وذلك في غضون الأسبوعين المواليين للشهر المرجعي؛ تصريحات فتح وتصفية ملفات التوطين المصرفي لاستيراد وتصدير السلع والخدمات» المنجزة حسب الحالة» طبقا للنماذج» المشار إليها فيما يلي» والمرفقة في والخدمات cl: Gate}‏",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- التصريح بملفات التوطين المصرفي. لاستيراد وتصدير السلع والحهئات: البفبقاة \"الملحق 3",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- التصريح بملفات التوطين. المصرفي لاستيراد وتصدير السلع والخدمات المرسلة وغير المصفاة» والتي تبرز حسب الحالة إما وضعية فائض في التسوية أو نقص في الترحيل \"الملحق 3\".",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "__ Bank of Algeria The Governor",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 03",
+      "number": "03",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "يجب أن يتم إرسال التصريحات؛, المشار إليها في المادة: 2 cel‏ في إرسالية تتكون من:\nsi -‏ ورقية موقعة بشكل قانوني من طرف المسؤول OA‏ أو ممثله المفوض قانوناء للبنك أو المؤسسة المالية» الوسيط المعتمد:\n- بطاقية معلوماتية حسب مقاس مجدول (XLS)‏ محمول في قرص {CDN EE.‏ ظ",
+      "paragraphs": [
+        {
+          "text": "يجب أن يتم إرسال التصريحات؛, المشار إليها في المادة: 2 cel‏ في إرسالية تتكون من:",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "si -‏ ورقية موقعة بشكل قانوني من طرف المسؤول OA‏ أو ممثله المفوض قانوناء للبنك أو المؤسسة المالية» الوسيط المعتمد:",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- بطاقية معلوماتية حسب مقاس مجدول (XLS)‏ محمول في قرص {CDN EE.‏ ظ",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 04",
+      "number": "04",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "إن التصريحات المنصوص عليها في المادة 2 أعلاه تخص المصرفي. ظ",
+      "paragraphs": [
+        {
+          "text": "إن التصريحات المنصوص عليها في المادة 2 أعلاه تخص المصرفي. ظ",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 05",
+      "number": "05",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 3,
+      "text": "إن ملفات التوطين المصرفي الخاصة بالاستيراد والتصدير التي تبرز فائض في التسوية أو نقص في الترحيل بمبلغ يساوي أو يقل عن 100.000 د.ج. يجب التصريح بها لدى بنك الجزائر ويحتفظ بها هؤلاء مع اتخاذ كل التدابير لتصفيتها. | أو نقصا في التسوية مع الاحتفاظ بها من طرف الشبابيك الموطنة من أجل تصفية لاحقة.\nالتوطين «à pal‏ التي تبرز فائضا في التسوية أو نقصا في الترحيل يفوق الحدود المشار إليها في المادة 5 أعلاه» في نسخة إلى بنك الجزائر (المديرية العامة للصرف) من طرف الوسيط المعتمد.ء وذلك خلال الشهر الذي يلي انقضاء أجل صلاحية الملف المعنى.\nAa!‏ 6 07: 26-5 التصريح يملفات النوطين المصرفي المفتوحة وشير المصفاة بعد عند تاريخ سريان مفعول هذه التعليمة وفقا للنماذج والأدوات المنصوص عليها في المادتين 2 و3 أعلاه في غضون الثلاثين يوما التي تلي تاريخ دخول هذه التعليمة حيز التطبيق.\nsil e من تاريخ‎ | Lie | تدخل هذه التعليمة حير التطبيق‎ :08 5 ball عليها.‎ حرر بالجزائرء في 31 ماي 2007",
+      "paragraphs": [
+        {
+          "text": "إن ملفات التوطين المصرفي الخاصة بالاستيراد والتصدير التي تبرز فائض في التسوية أو نقص في الترحيل بمبلغ يساوي أو يقل عن 100.000 د.ج. يجب التصريح بها لدى بنك الجزائر ويحتفظ بها هؤلاء مع اتخاذ كل التدابير لتصفيتها. | أو نقصا في التسوية مع الاحتفاظ بها من طرف الشبابيك الموطنة من أجل تصفية لاحقة.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "التوطين «à pal‏ التي تبرز فائضا في التسوية أو نقصا في الترحيل يفوق الحدود المشار إليها في المادة 5 أعلاه» في نسخة إلى بنك الجزائر (المديرية العامة للصرف) من طرف الوسيط المعتمد.ء وذلك خلال الشهر الذي يلي انقضاء أجل صلاحية الملف المعنى.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Aa!‏ 6 07: 26-5 التصريح يملفات النوطين المصرفي المفتوحة وشير المصفاة بعد عند تاريخ سريان مفعول هذه التعليمة وفقا للنماذج والأدوات المنصوص عليها في المادتين 2 و3 أعلاه في غضون الثلاثين يوما التي تلي تاريخ دخول هذه التعليمة حيز التطبيق.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "sil e من تاريخ‎ | Lie | تدخل هذه التعليمة حير التطبيق‎ :08 5 ball عليها.‎ حرر بالجزائرء في 31 ماي 2007",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.042,
+      "ocr_pages": [
+        1,
+        2,
+        3
+      ],
+      "ocr_mean_confidence": 84.5
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/INS-03-07.ar.txt"
+}

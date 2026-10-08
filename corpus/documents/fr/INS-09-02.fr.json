@@ -1,0 +1,309 @@
+{
+  "document_id": "INS-09-02.fr",
+  "work_id": "INS-09-02",
+  "title": "Instruction n°09-2002 du 26 décembre 2002 fixant les délais de déclaration par les banques et établissements financiers de leur ratio de solvabilité.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "09-2002",
+  "number_source": "en-tête du document",
+  "date": "2002-12-26",
+  "date_raw": "N°09-2002 DU 26 DECEMBRE 2002",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Normes prudentielles",
+  "source_url": "https://www.bank-of-algeria.dz/banque-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction092002.pdf",
+  "format": "pdf",
+  "file_hash": "304275b5d2103ca6669c6aedd83a929014ef60ea196da36648bb95ca7cceec1c",
+  "file_size": 38414,
+  "raw_path": "raw/304275b5d210__instruction092002.pdf",
+  "retrieved_at": "2026-10-05T13:21:52+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "70c896546d2632470b7669828cba14ebb5b90dd0741281ea6f33b8b552f3ebb1",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-2002/",
+    "https://www.bank-of-algeria.dz/banque-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Microsoft Word - instruction092002",
+    "author": "chahra.yahiaoui",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "creationDate": "D:20210228115507+01'00'",
+    "modDate": "D:20210228115507+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 1623,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 4,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°09-2002 DU 26 DECEMBRE 2002 FIXANT LES DELAIS DE DECLARATION PAR LES BANQUES ET ETABLISSEMENTS FINANCIERS DE LEUR RATIO DE SOLVABILITE",
+  "alias_urls": [],
+  "text_hash": "ded9025dc0d525abe7725ba70325bd40d4a75ea81c949d78e4c5989f5e99cd7d",
+  "relations_out": [
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "74-94",
+        "date": "1994-11-29",
+        "raw": "instruction n°74-94 du 29 novembre 1994"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Sont abrogées en application de la présente instruction les dispositions de l'alinéa premier de l'article 13 de l'instruction n°74-94 du 29 novembre 1994 relative à la fixation des règles prude"
+      },
+      "target_work_id": "INS-74-94"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "INS-74-94",
+      "reference": "instruction n°74-94 du 29 novembre 1994",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Sont abrogées en application de la présente instruction les dispositions de l'alinéa premier de l'article 13 de l'instruction n°74-94 du 29 novembre 1994 relative à la fixation des règles prude"
+      }
+    }
+  ],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°09-2002 DU 26 DECEMBRE 2002 FIXANT\nLES DELAIS DE DECLARATION PAR LES BANQUES ET ETABLISSEMENTS\nFINANCIERS DE LEUR RATIO DE SOLVABILITE",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°09-2002 DU 26 DECEMBRE 2002 FIXANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "LES DELAIS DE DECLARATION PAR LES BANQUES ET ETABLISSEMENTS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "FINANCIERS DE LEUR RATIO DE SOLVABILITE",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les banques et établissements financiers doivent déclarer, trimestriellement, leur ratio de solvabilité.\nLa Commission bancaire peut demander à toute banque ou tout établissement financier de déclarer son ratio de solvabilité à d'autres dates déterminées par elle-même en fonction des impératifs de surveillance.",
+      "paragraphs": [
+        {
+          "text": "Les banques et établissements financiers doivent déclarer, trimestriellement, leur ratio de solvabilité.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La Commission bancaire peut demander à toute banque ou tout établissement financier de déclarer son ratio de solvabilité à d'autres dates déterminées par elle-même en fonction des impératifs de surveillance.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les modèles prévus à l'instruction n°04-99 du 12 août 1999 portant modèles de déclaration par les banques et établissements financiers des ratios de couverture et de division de risques doivent être renseignés au 31 mars, au 30 juin, au 30 septembre et 31 décembre de chaque année.\nCes états renseignés doivent être adressés, en double exemplaire, à la Banque d'Algérie -\nDirection Générale de l'Inspection Générale - dans un délai de 30 jours à partir de chacune de ces périodes.",
+      "paragraphs": [
+        {
+          "text": "Les modèles prévus à l'instruction n°04-99 du 12 août 1999 portant modèles de déclaration par les banques et établissements financiers des ratios de couverture et de division de risques doivent être renseignés au 31 mars, au 30 juin, au 30 septembre et 31 décembre de chaque année.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Ces états renseignés doivent être adressés, en double exemplaire, à la Banque d'Algérie -",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Direction Générale de l'Inspection Générale - dans un délai de 30 jours à partir de chacune de ces périodes.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Sont abrogées en application de la présente instruction les dispositions de l'alinéa premier de l'article 13 de l'instruction n°74-94 du 29 novembre 1994 relative à la fixation des règles prudentielles de gestion des banques et établissements financiers et celles de l'article 3 de l'instruction n°04-99 du 12 août 1999 portant modèles de déclaration par les banques et établissements financiers des ratios de couverture et de division de risques.",
+      "paragraphs": [
+        {
+          "text": "Sont abrogées en application de la présente instruction les dispositions de l'alinéa premier de l'article 13 de l'instruction n°74-94 du 29 novembre 1994 relative à la fixation des règles prudentielles de gestion des banques et établissements financiers et celles de l'article 3 de l'instruction n°04-99 du 12 août 1999 portant modèles de déclaration par les banques et établissements financiers des ratios de couverture et de division de risques.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction entre en vigueur à compter de la date de sa signature.\nLe Gouverneur\nMohammed LAKSACI\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "La présente instruction entre en vigueur à compter de la date de sa signature.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.027
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-09-02.fr.txt"
+}

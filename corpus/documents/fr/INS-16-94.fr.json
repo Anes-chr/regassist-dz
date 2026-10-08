@@ -1,0 +1,565 @@
+{
+  "document_id": "INS-16-94.fr",
+  "work_id": "INS-16-94",
+  "title": "Instruction n°16-94 du 09 avril 1994 relative aux instruments de conduite de la politique monétaire et au refinancement des banques.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "16-94",
+  "number_source": "en-tête du document",
+  "date": "1994-04-09",
+  "date_raw": "N°16-94 DU 09 AVRIL 1994",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Instruments de la politique monétaire",
+  "source_url": "https://www.bank-of-algeria.dz/marche-monetaire-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction1694.pdf",
+  "format": "pdf",
+  "file_hash": "312fb3e526ae096330bee3d43ba3bdb10765768103778fe07f1432c494c9908b",
+  "file_size": 42986,
+  "raw_path": "raw/312fb3e526ae__instruction1694.pdf",
+  "retrieved_at": "2026-10-05T13:22:01+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 3,
+  "url_hash": "5b9cd78d735c4616360007324681c88ae70078d250d5a82f37213bc08edb1519",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-1994/",
+    "https://www.bank-of-algeria.dz/ar/%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84/",
+    "https://www.bank-of-algeria.dz/ar/%d8%a5%d8%b9%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%aa%d9%85%d9%88%d9%8a%d9%84/",
+    "https://www.bank-of-algeria.dz/marche-monetaire-instruction/",
+    "https://www.bank-of-algeria.dz/refinancement-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - INSTRUCTION 32-91",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200809094803+01'00'",
+    "modDate": "D:20200809094803+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 3,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2792,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 3169,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 1608,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": false,
+    "article_count": 0,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°16-94 DU 09 AVRIL 1994 RELATIVE AUX INSTRUMENTS DE CONDUITE DE LA POLITIQUE MONETAIRE ET AU REFINANCEMENT DES BANQUES Préambule Les performances, réalisées entre 1991 et 1993 en matière d’assainissement des portefeuilles des banques et de résorption de l'excédent monétaire, mettent désormais en avant principalement trois tendances : - une amélioration de la liquidité des banques, en raison des rachats au comptant,",
+  "alias_urls": [],
+  "text_hash": "6669444080ca29969a6389275a541e915ae03c3e9820f929a56b7fd1d4758039",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [
+    {
+      "work_id": "INS-03-99",
+      "document_id": "INS-03-99.fr",
+      "date": "1999-07-28",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "'Algérie aux banques et établissements financiers est fixé à 19 %. La présente instruction abroge les dispositions de l'instruction n°16-94 du 09 avril 1994 relatives à la fixation de ce taux et e"
+      }
+    }
+  ],
+  "modifie_par": [
+    {
+      "work_id": "INS-05-96",
+      "document_id": "INS-05-96.fr",
+      "date": "1996-08-27",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°05-96 du 27 août 1996 modifiant l’Instruction n°16-94 du 09 avril 1994 relative aux instruments de conduite de"
+      }
+    },
+    {
+      "work_id": "INS-06-97",
+      "document_id": "INS-06-97.fr",
+      "date": "1997-06-28",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°06-97 du 28 juin 1997 modifiant l’instruction n°16-94 du 09 avril 1994 relative aux instruments de conduite de"
+      }
+    },
+    {
+      "work_id": "INS-55-95",
+      "document_id": "INS-55-95.fr",
+      "date": "1995-08-01",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°55-95 du 1er août 1995 modifiant l’instruction n°16-94 du 09 avril 1994 relative aux instruments de conduite de"
+      }
+    },
+    {
+      "work_id": "INS-77-95",
+      "document_id": "INS-77-95.fr",
+      "date": "1995-12-25",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°77-95 du 25 décembre 1995 modifiant et complétant l’instruction n°16-94 du 09 avril 1994 relative aux instruments de conduite de"
+      }
+    },
+    {
+      "work_id": "INS-77-95",
+      "document_id": "INS-77-95.fr",
+      "date": "1995-12-25",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "s et les établissements financiers aux opérations avec la clientèle, la présente instruction a pour objet de modifier l'instruction N° 16/94 du 09 Avril 1994 relative aux instruments de conduite de"
+      }
+    }
+  ],
+  "complete_par": [
+    {
+      "work_id": "INS-77-95",
+      "document_id": "INS-77-95.fr",
+      "date": "1995-12-25",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°77-95 du 25 décembre 1995 modifiant et complétant l’instruction n°16-94 du 09 avril 1994 relative aux instruments de conduite de"
+      }
+    }
+  ],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "INS-03-99",
+      "document_id": "INS-03-99.fr",
+      "date": "1999-07-28",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "'Algérie aux banques et établissements financiers est fixé à 19 %. La présente instruction abroge les dispositions de l'instruction n°16-94 du 09 avril 1994 relatives à la fixation de ce taux et e"
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [],
+  "complété_par": [
+    {
+      "work_id": "INS-77-95",
+      "document_id": "INS-77-95.fr",
+      "date": "1995-12-25",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°77-95 du 25 décembre 1995 modifiant et complétant l’instruction n°16-94 du 09 avril 1994 relative aux instruments de conduite de"
+      }
+    }
+  ],
+  "modifié_par": [
+    {
+      "work_id": "INS-05-96",
+      "document_id": "INS-05-96.fr",
+      "date": "1996-08-27",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°05-96 du 27 août 1996 modifiant l’Instruction n°16-94 du 09 avril 1994 relative aux instruments de conduite de"
+      }
+    },
+    {
+      "work_id": "INS-06-97",
+      "document_id": "INS-06-97.fr",
+      "date": "1997-06-28",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°06-97 du 28 juin 1997 modifiant l’instruction n°16-94 du 09 avril 1994 relative aux instruments de conduite de"
+      }
+    },
+    {
+      "work_id": "INS-55-95",
+      "document_id": "INS-55-95.fr",
+      "date": "1995-08-01",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°55-95 du 1er août 1995 modifiant l’instruction n°16-94 du 09 avril 1994 relative aux instruments de conduite de"
+      }
+    },
+    {
+      "work_id": "INS-77-95",
+      "document_id": "INS-77-95.fr",
+      "date": "1995-12-25",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°77-95 du 25 décembre 1995 modifiant et complétant l’instruction n°16-94 du 09 avril 1994 relative aux instruments de conduite de"
+      }
+    },
+    {
+      "work_id": "INS-77-95",
+      "document_id": "INS-77-95.fr",
+      "date": "1995-12-25",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "s et les établissements financiers aux opérations avec la clientèle, la présente instruction a pour objet de modifier l'instruction N° 16/94 du 09 Avril 1994 relative aux instruments de conduite de"
+      }
+    }
+  ],
+  "abrogé_par": [
+    {
+      "work_id": "INS-03-99",
+      "document_id": "INS-03-99.fr",
+      "date": "1999-07-28",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "'Algérie aux banques et établissements financiers est fixé à 19 %. La présente instruction abroge les dispositions de l'instruction n°16-94 du 09 avril 1994 relatives à la fixation de ce taux et e"
+      }
+    }
+  ],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 3,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 3,
+      "text": "INSTRUCTION N°16-94 DU 09 AVRIL 1994 RELATIVE\nAUX INSTRUMENTS DE CONDUITE DE LA POLITIQUE MONETAIRE\nET AU REFINANCEMENT DES BANQUES\nPréambule\nLes performances, réalisées entre 1991 et 1993 en matière d’assainissement des portefeuilles des banques et de résorption de l'excédent monétaire, mettent désormais en avant principalement trois tendances :\n- une amélioration de la liquidité des banques, en raison des rachats au comptant, d'une partie de leurs créances non performantes ;\n- une part relativement accrue et significative des effets publics dans les actifs bancaires ;\n- une augmentation rapide de la dette intérieure du Trésor.\nL'amenuisement de l'éviction financière, escomptée à partir de 1994, renforce le rôle de la politique monétaire dans la conduite de la stabilisation macro-économique où le taux de change nominal du dinar sert d'ancrage essentiel.\nL'objectif principal de la politique monétaire est, de facto, la maîtrise du rythme d'inflation au moyen notamment d'un contrôle prudent de l'expansion monétaire et du crédit relativement à l'objectif d'inflation et de croissance. A cette fin, un plafond de croissance des avoirs intérieurs nets du système bancaire et un plafond de croissance des avoirs intérieurs nets de la Banque d'Algérie sont mis en place.\nL'option retenue en matière de gestion de la dette intérieure du Trésor, influe, dans une certaine mesure, l'efficacité de la conduite de la politique monétaire ainsi que les performances financières des banques.\nEn particulier la démonétisation de la dette intérieure du Trésor et le désendettement du\nTrésor à l'égard des banques commerciales constituent un appui à la régulation monétaire et à la décélération du rythme d'inflation principalement au terme de la stabilisation. Cela s'inscrit dans la conduite de l'objectif de limiter la croissance des avoirs intérieurs nets du système bancaire.\nC'est dans un tel contexte qu'une réforme des instruments de la politique monétaire prend une importance particulière.\nEn application de la délibéralisation du Conseil de la Monnaie et du Crédit en date du 09\nAvril 1994, les instruments de la politique monétaire, en matière de rééquilibrage de la structure des taux d'intérêt sont :\n- suppression du plafond sur les taux d'intérêt débiteurs traduisant une libéralisation relative des taux débiteurs appliqués par les banques et établissements financiers et ce, en cohérence avec la libéralisation des taux créditeurs introduite en 1990.\nIl est rappelé que toute bonification de taux d'intérêt appliquée aux crédits bancaires à l'économie est prise en charge par le budget de l'Etat ;\n- fixation du taux de réescompte à 15 % ;\n- fixation du taux pivot d'intervention de la Banque d'Algérie sur le marché monétaire à 20 % ;\n- fixation du taux d'intérêt des crédits en compte courant accordés par la Banque d'Algérie aux banques à 24 % ;\n- suppression du plafond du taux sur le marché interbancaire qui devient librement négociable ;\n- mise en place d'une marge bancaire maximum de 5 points au-dessus du coût moyen des ressources bancaires. L'encadrement des marges des banques vise à endiguer tout renchérissement excessif du coût du crédit en contexte de stabilisation et en l'absence de compétition suffisante en matière d'intermédiation.\nLes modes de calcul du coût de ces ressources ainsi que les procédures d'information entre les banques et la Banque d'Algérie seront déterminés par un texte réglementaire ultérieur.\nA titre transitoire, en relation avec le suivi des critères de performances des banques et en corrélation avec le développement du marché de crédit, la détermination d'un plafond de refinancement global et d'un plafond de réescompte par banque est nécessaire. Ces plafonds par banque sont fixés au début de chaque trimestre sur la base de ratios de performance relative et de transformations financières.\nLes paramètres utilisés à cette fin sont les niveaux :\n- des dépôts à vue et des dépôts à terme (y compris les bons de caisse),\n- des crédits à moyen et long terme distribués sur les ressources de la banque,\n- des créances sur l'Etat sous forme d'effets publics (obligations du Trésor).\nL'utilisation des plafonds de réescompte par les banques est subordonnée :\n- à la présentation des catégories d'effets instituées par la Loi n° 90-10 du 14\nAvril 1990 relative à la Monnaie et au Crédit ;\n- à l'appréciation, par la Banque d'Algérie, de la qualité des effets présentés au réescompte sur la base notamment des conditions définies par la Loi n° 90-10 du 14 Avril 1990 relative à la Monnaie et au Crédit.\nLe rôle des plafonds de réescompte, en tant qu'instrument indirect de politique monétaire, sera revu progressivement dans le sens de son amenuisement.\nA titre transitoire, le maintien d'un instrument de contrôle direct du crédit est nécessaire.\nIl s'agit d'un plafonnement par banque des flux de crédit aux entreprises non autonomes.\nPour contribuer efficacement à une allocation de crédit à l'économie, aussi bonne que possible, les banques doivent veiller à une application prudente des normes en matière de division de risques encourus. Les performances relatives des banques, en la matière, constituent un élément dans l'appréciation, par la Banque d'Algérie, des effets créés notamment en représentation de crédits à moyen terme et présentés au réescompte.\nLes interventions de la Banque d'Algérie sur le marché monétaire visent à réguler la liquidité bancaire et le refinancement des crédits bancaires en phase avec l'objectif d'expansion monétaire et de crédit.\nLa Banque d'Algérie intervient sur le marché monétaire au moyen des opérations de prise et/ou de mise en pension définies par le règlement n°91-08 du 14 Août 1991 portant organisation du marché monétaire en stimulant celles dont la maturité est supérieure à 24 heures. Le mode opératoire sera défini par un texte réglementaire de la Banque d'Algérie.\nDès 1994, la Banque d'Algérie intervient progressivement sur le marché monétaire au moyen des opérations d'appels d'offres sous forme d'adjudications de crédits. La mise en œuvre de cet instrument indirect et flexible de la politique monétaire sera appuyée par des mesures de développement du marché de crédits bancaires. Le mode opératoire sera défini par un texte réglementaire de la Banque d'Algérie.\nDans le cadre de l'activation des instruments indirects de la politique monétaire, la réserve obligatoire, visée à l'article 93 de la Loi n° 90-10 du 14 Avril 1990 relative à la\nMonnaie et au Crédit, sera mise en œuvre à partir de septembre 1994.\nCette réserve a pour objectif de contrôler la liquidité des banques et de réguler leur capacité de fonds prêtables et les risques crédits inhérents.\nLes réserves obligatoires des banques auprès de la Banque d'Algérie seront rémunérées aux taux de 11,5%.\nLe mode opératoire de cet instrument sera défini par un texte réglementaire de la\nBanque d'Algérie.\nDans le but de réactiver les innovations sur le marché monétaire et, en conformité avec les dispositions de la Loi n°90-10 du 14 Avril 1990 relative à la Monnaie et au Crédit et du règlement n°91-08 suscité, la Banque d'Algérie œuvrera dans le sens de l'intervention du Trésor sur ce marché dans le cadre d'une gestion prudente de sa dette intérieure et en relation avec la conduite de la politique monétaire.\nLa présente instruction entre en vigueur à compter du 10 Avril 1994 et abroge toutes dispositions réglementaires antérieures contraires.\nLe Gouverneur\nAbdelouahab KERAMANE",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°16-94 DU 09 AVRIL 1994 RELATIVE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AUX INSTRUMENTS DE CONDUITE DE LA POLITIQUE MONETAIRE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET AU REFINANCEMENT DES BANQUES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Préambule",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les performances, réalisées entre 1991 et 1993 en matière d’assainissement des portefeuilles des banques et de résorption de l'excédent monétaire, mettent désormais en avant principalement trois tendances :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- une amélioration de la liquidité des banques, en raison des rachats au comptant, d'une partie de leurs créances non performantes ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- une part relativement accrue et significative des effets publics dans les actifs bancaires ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- une augmentation rapide de la dette intérieure du Trésor.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L'amenuisement de l'éviction financière, escomptée à partir de 1994, renforce le rôle de la politique monétaire dans la conduite de la stabilisation macro-économique où le taux de change nominal du dinar sert d'ancrage essentiel.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L'objectif principal de la politique monétaire est, de facto, la maîtrise du rythme d'inflation au moyen notamment d'un contrôle prudent de l'expansion monétaire et du crédit relativement à l'objectif d'inflation et de croissance. A cette fin, un plafond de croissance des avoirs intérieurs nets du système bancaire et un plafond de croissance des avoirs intérieurs nets de la Banque d'Algérie sont mis en place.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L'option retenue en matière de gestion de la dette intérieure du Trésor, influe, dans une certaine mesure, l'efficacité de la conduite de la politique monétaire ainsi que les performances financières des banques.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "En particulier la démonétisation de la dette intérieure du Trésor et le désendettement du",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Trésor à l'égard des banques commerciales constituent un appui à la régulation monétaire et à la décélération du rythme d'inflation principalement au terme de la stabilisation. Cela s'inscrit dans la conduite de l'objectif de limiter la croissance des avoirs intérieurs nets du système bancaire.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "C'est dans un tel contexte qu'une réforme des instruments de la politique monétaire prend une importance particulière.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "En application de la délibéralisation du Conseil de la Monnaie et du Crédit en date du 09",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Avril 1994, les instruments de la politique monétaire, en matière de rééquilibrage de la structure des taux d'intérêt sont :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- suppression du plafond sur les taux d'intérêt débiteurs traduisant une libéralisation relative des taux débiteurs appliqués par les banques et établissements financiers et ce, en cohérence avec la libéralisation des taux créditeurs introduite en 1990.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Il est rappelé que toute bonification de taux d'intérêt appliquée aux crédits bancaires à l'économie est prise en charge par le budget de l'Etat ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- fixation du taux de réescompte à 15 % ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- fixation du taux pivot d'intervention de la Banque d'Algérie sur le marché monétaire à 20 % ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- fixation du taux d'intérêt des crédits en compte courant accordés par la Banque d'Algérie aux banques à 24 % ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- suppression du plafond du taux sur le marché interbancaire qui devient librement négociable ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- mise en place d'une marge bancaire maximum de 5 points au-dessus du coût moyen des ressources bancaires. L'encadrement des marges des banques vise à endiguer tout renchérissement excessif du coût du crédit en contexte de stabilisation et en l'absence de compétition suffisante en matière d'intermédiation.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Les modes de calcul du coût de ces ressources ainsi que les procédures d'information entre les banques et la Banque d'Algérie seront déterminés par un texte réglementaire ultérieur.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "A titre transitoire, en relation avec le suivi des critères de performances des banques et en corrélation avec le développement du marché de crédit, la détermination d'un plafond de refinancement global et d'un plafond de réescompte par banque est nécessaire. Ces plafonds par banque sont fixés au début de chaque trimestre sur la base de ratios de performance relative et de transformations financières.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Les paramètres utilisés à cette fin sont les niveaux :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- des dépôts à vue et des dépôts à terme (y compris les bons de caisse),",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- des crédits à moyen et long terme distribués sur les ressources de la banque,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- des créances sur l'Etat sous forme d'effets publics (obligations du Trésor).",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "L'utilisation des plafonds de réescompte par les banques est subordonnée :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- à la présentation des catégories d'effets instituées par la Loi n° 90-10 du 14",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Avril 1990 relative à la Monnaie et au Crédit ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- à l'appréciation, par la Banque d'Algérie, de la qualité des effets présentés au réescompte sur la base notamment des conditions définies par la Loi n° 90-10 du 14 Avril 1990 relative à la Monnaie et au Crédit.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le rôle des plafonds de réescompte, en tant qu'instrument indirect de politique monétaire, sera revu progressivement dans le sens de son amenuisement.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "A titre transitoire, le maintien d'un instrument de contrôle direct du crédit est nécessaire.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Il s'agit d'un plafonnement par banque des flux de crédit aux entreprises non autonomes.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Pour contribuer efficacement à une allocation de crédit à l'économie, aussi bonne que possible, les banques doivent veiller à une application prudente des normes en matière de division de risques encourus. Les performances relatives des banques, en la matière, constituent un élément dans l'appréciation, par la Banque d'Algérie, des effets créés notamment en représentation de crédits à moyen terme et présentés au réescompte.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Les interventions de la Banque d'Algérie sur le marché monétaire visent à réguler la liquidité bancaire et le refinancement des crédits bancaires en phase avec l'objectif d'expansion monétaire et de crédit.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "La Banque d'Algérie intervient sur le marché monétaire au moyen des opérations de prise et/ou de mise en pension définies par le règlement n°91-08 du 14 Août 1991 portant organisation du marché monétaire en stimulant celles dont la maturité est supérieure à 24 heures. Le mode opératoire sera défini par un texte réglementaire de la Banque d'Algérie.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Dès 1994, la Banque d'Algérie intervient progressivement sur le marché monétaire au moyen des opérations d'appels d'offres sous forme d'adjudications de crédits. La mise en œuvre de cet instrument indirect et flexible de la politique monétaire sera appuyée par des mesures de développement du marché de crédits bancaires. Le mode opératoire sera défini par un texte réglementaire de la Banque d'Algérie.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Dans le cadre de l'activation des instruments indirects de la politique monétaire, la réserve obligatoire, visée à l'article 93 de la Loi n° 90-10 du 14 Avril 1990 relative à la",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Monnaie et au Crédit, sera mise en œuvre à partir de septembre 1994.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Cette réserve a pour objectif de contrôler la liquidité des banques et de réguler leur capacité de fonds prêtables et les risques crédits inhérents.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Les réserves obligatoires des banques auprès de la Banque d'Algérie seront rémunérées aux taux de 11,5%.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Le mode opératoire de cet instrument sera défini par un texte réglementaire de la",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Banque d'Algérie.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Dans le but de réactiver les innovations sur le marché monétaire et, en conformité avec les dispositions de la Loi n°90-10 du 14 Avril 1990 relative à la Monnaie et au Crédit et du règlement n°91-08 suscité, la Banque d'Algérie œuvrera dans le sens de l'intervention du Trésor sur ce marché dans le cadre d'une gestion prudente de sa dette intérieure et en relation avec la conduite de la politique monétaire.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "La présente instruction entre en vigueur à compter du 10 Avril 1994 et abroge toutes dispositions réglementaires antérieures contraires.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.03
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-16-94.fr.txt"
+}

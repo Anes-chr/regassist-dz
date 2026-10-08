@@ -1,0 +1,844 @@
+{
+  "document_id": "REG-20-01-20260514.fr",
+  "work_id": "REG-20-01-20260514",
+  "title": "Recueil des produits et services bancaires autorisés par la Banque d’Algérie au 14 mai 2026",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "texte_du_document",
+  "number": "2020-01",
+  "number_source": "texte_du_document",
+  "date": "2026-05-14",
+  "date_raw": "14 mai 2026",
+  "date_source": "libelle",
+  "publication_date": "2026-06-17",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": null,
+  "issuer_note": "Émetteur non établi par la source (publié sur le site de la Banque d'Algérie).",
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": null,
+  "subcategory": "Année 2026",
+  "source_url": "https://www.bank-of-algeria.dz/notes-2026/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2026/06/RECUEIL-ACTUALISE-DES-PRODUITS-ET-SERVICES-BANCAIRES-AUTORISES-AU-14-05-2026-1.pdf",
+  "format": "pdf",
+  "file_hash": "9803691bbc892f26e57e60686ce0f3489602b74964abc5c75f841cd3b4d78e3e",
+  "file_size": 124451,
+  "raw_path": "raw/9803691bbc89__RECUEIL-ACTUALISE-DES-PRODUITS-ET-SERVICES-BANCAIRES-AUTORISES-AU-14-05-2026-1.pdf",
+  "retrieved_at": "2026-10-05T13:32:16+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 6,
+  "url_hash": "528fe57729de7d68750bf8b850dd50561ab4cbbabd2867ec88906c234ab741f1",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/notes-2026/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - RECUEIL ACTUALISE DES PRODUITS ET SERVICES BANCAIRES AUTORISES AU 14-05-2026",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20260617095304+01'00'",
+    "modDate": "D:20260617095304+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 6,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 263,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 1005,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 1078,
+        "ocr_confidence": null
+      },
+      {
+        "page": 4,
+        "method": "pdf_text",
+        "chars": 1009,
+        "ocr_confidence": null
+      },
+      {
+        "page": 5,
+        "method": "pdf_text",
+        "chars": 966,
+        "ocr_confidence": null
+      },
+      {
+        "page": 6,
+        "method": "pdf_text",
+        "chars": 676,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": [
+      {
+        "page": 1,
+        "removed": "1",
+        "why": "numéro de page"
+      },
+      {
+        "page": 2,
+        "removed": "2",
+        "why": "numéro de page"
+      },
+      {
+        "page": 2,
+        "removed": "Classe",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 2,
+        "removed": "Support",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 2,
+        "removed": "Description",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 3,
+        "removed": "3",
+        "why": "numéro de page"
+      },
+      {
+        "page": 3,
+        "removed": "Classe",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 3,
+        "removed": "Support",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 3,
+        "removed": "Description",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 4,
+        "removed": "4",
+        "why": "numéro de page"
+      },
+      {
+        "page": 4,
+        "removed": "Classe",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 4,
+        "removed": "Support",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 4,
+        "removed": "Description",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 5,
+        "removed": "5",
+        "why": "numéro de page"
+      },
+      {
+        "page": 5,
+        "removed": "Classe",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 5,
+        "removed": "Support",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 5,
+        "removed": "Description",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 6,
+        "removed": "6",
+        "why": "numéro de page"
+      },
+      {
+        "page": 6,
+        "removed": "Classe",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 6,
+        "removed": "Support",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 6,
+        "removed": "Description",
+        "why": "en-tête/pied répété"
+      }
+    ]
+  },
+  "structure_info": {
+    "structure_detected": false,
+    "article_count": 0,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "aucun_article_detecte"
+  ],
+  "title_document": null,
+  "alias_urls": [],
+  "text_hash": "ae0de26fb6165322e35ee86983e4e8c226177b316750a84fdff0f027285af63a",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 6,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 6,
+      "text": "RECUEIL DES PRODUITS ET SERVICES BANCAIRES AUTORISES PAR LA\nBANQUE D’ALGERIE AU 14 MAI 2026\n(Article 7 du règlement n°2020-01 du 15 mars 2020 fixant les règles générales en matière de conditions de banque applicables aux opérations de banque)\nSERVICES\nE-Banking / Digital Banking\nPC\nONLINE-BANKING :\n- Consultation des comptes (courant, d’épargne et de dépôt), des bons de caisse, des prêts, des chèques et des cours de devises.\n- Consultation et édition de l’historique des comptes.\n- Téléchargement des relevés de comptes et d’opérations.\n- Virements de : compte à compte, interbancaires, intra-bancaires, permanents et multiples.\n- Paiement des factures.\n- Commande de carte bancaire et chéquier.\nSmartphone\nMOBILE-BANKING :\n- Ouverture de compte.\n- Commande de carte bancaire et chéquier.\n- Consultation des comptes et relevés des comptes.\n- SMS Banking : messagerie, situation de compte, information sur la disponibilité de carte bancaire et de chéquier.\n- Virements, paiement de factures et signature des virements.\n- Retrait et versement en agence.\n- Envoi des relevés des comptes par Swift.\n- Suivi des cours de change et conversion de monnaie.\nSERVICES\nMoyen de paiement\nCartes Bancaires\nCARTE DOMESTIQUE :\n1- Carte CIB :\n- Consultation de solde.\n- Virements, retraits et versement d’espèces.\n- Remise de chèque.\n- Paiements des achats au niveau des commerçants dotés de TPE, affiliés aux banques adhérentes au Réseau\nMonétique Interbancaire.\n- Paiements sur internet au bénéfice des web-marchands agréés, affiliés au Réseau Monétique Interbancaire (e-paiement).\n2- Carte CIB « Prépayée » :\nDestinée aux clients, personnes physiques, titulaires de comptes chèques ou de comptes épargne pour :\n- Paiement de produits et services au niveau des commerçants dotés de TPE connectés au réseau monétique interbancaire.\n- Paiement sur internet pour les web-marchands adhérent au réseau monétique interbancaire.\n- Retrait d’espèces.\n- Consultation du solde et des dernières opérations monétiques du compte « Prepaid » sur les Distributeurs\nAutomatiques de Billets (DAB) connectés au réseau monétique interbancaire et les Guichets Automatiques de\nBanques (GAB).\nSERVICES\nMoyen de paiement\nCartes Bancaires\n3- Carte CIB Corporate « Business » / Affaires:\n- Retrait d’espèces au niveau de tous les DAB / GAB.\n- Paiement des achats au niveau des commerçants dotés de\nTPE, affiliés aux banques adhérentes au Réseau\nMonétique Interbancaire.\n- Paiement sur internet au bénéfice des web-marchands agréés, affiliés au Réseau Monétique Interbancaire (e-paiement).\n- Télépaiement d’impôts et taxes à distance via la plateforme « JIBAYATIC » via le site www.jibayatic.dz sur le portail e-Banking.\n4- Carte épargne :\n- Consultation de solde.\n- Retrait sur DAB/GAB.\n5- Carte CIB à débit différé :\nCarte destinée aux particuliers titulaires de comptes chèques. Le débit des transactions mensuelles est reporté à une date fixe pendant le mois, dans la limite d’un plafond.\nElle est utilisée pour les :\n- Paiements de proximité.\n- Paiements sur internet.\n- Consultations (solde, opération, plafond…).\nSERVICES\nMoyen de paiement\nCartes Internationales\nCartes\nInternationales :\nParticuliers,\nCorporate,\nBusiness et Signature :\n1. Visa / MasterCard /AMEX :\n- Opérations de paiement et de retrait en devises sur l’ensemble du réseau « Visa / MasterCard / AMEX »\nà l’international.\n- Transactions à l’international sur internet (e-paiement).\n2. Acceptation des paiements des titulaires de cartes émises par les banques étrangères, permettant aux web-marchands de droit algérien de commercialiser leurs produits ou services en ligne.\nMoyen de paiement\nPaiement Mobile\nMobile QR-code en Intra-bancaire :\n1. Client particulier, professionnel et commerçant :\n- Opérations de paiements.\n- Opérations de virements.\n- Transfert d’argent entre les clients abonnés à l’application.\n- Consultation du solde du compte.\n2. Client entreprise :\n- Opérations de paiement.\n- Consultation du solde du compte.\nSERVICES\nMoyen de paiement\nMobile Paiement\nMobile QR-code en interbancaire :\n\u0001 Client particulier, professionnel et commerçant :\n- Opérations de transfert P2P.\n- Opérations de paiement P2B.\n- Operations de remboursement B2P.\nPRODUITS\nFinancement\nContrat\nFINANCEMENT / CREDIT :\n- Leasing mobilier.\n- Leasing immobilier.\n- Crédit de location.\n- Crédit à la consommation destiné à l’acquisition de biens par les ménages.\nBancassurance\nContrat\n- Assurance multirisque habitation.\n- Assurance-crédit immobilier.\n- Assurance catastrophes naturelles.\n- Assurance de personnes.",
+      "paragraphs": [
+        {
+          "text": "RECUEIL DES PRODUITS ET SERVICES BANCAIRES AUTORISES PAR LA",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANQUE D’ALGERIE AU 14 MAI 2026",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "(Article 7 du règlement n°2020-01 du 15 mars 2020 fixant les règles générales en matière de conditions de banque applicables aux opérations de banque)",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "SERVICES",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "E-Banking / Digital Banking",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "PC",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "ONLINE-BANKING :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Consultation des comptes (courant, d’épargne et de dépôt), des bons de caisse, des prêts, des chèques et des cours de devises.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Consultation et édition de l’historique des comptes.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Téléchargement des relevés de comptes et d’opérations.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Virements de : compte à compte, interbancaires, intra-bancaires, permanents et multiples.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Paiement des factures.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Commande de carte bancaire et chéquier.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Smartphone",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "MOBILE-BANKING :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Ouverture de compte.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Commande de carte bancaire et chéquier.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Consultation des comptes et relevés des comptes.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- SMS Banking : messagerie, situation de compte, information sur la disponibilité de carte bancaire et de chéquier.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Virements, paiement de factures et signature des virements.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Retrait et versement en agence.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Envoi des relevés des comptes par Swift.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Suivi des cours de change et conversion de monnaie.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "SERVICES",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Moyen de paiement",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Cartes Bancaires",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "CARTE DOMESTIQUE :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "1- Carte CIB :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- Consultation de solde.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- Virements, retraits et versement d’espèces.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- Remise de chèque.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- Paiements des achats au niveau des commerçants dotés de TPE, affiliés aux banques adhérentes au Réseau",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Monétique Interbancaire.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- Paiements sur internet au bénéfice des web-marchands agréés, affiliés au Réseau Monétique Interbancaire (e-paiement).",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "2- Carte CIB « Prépayée » :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Destinée aux clients, personnes physiques, titulaires de comptes chèques ou de comptes épargne pour :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- Paiement de produits et services au niveau des commerçants dotés de TPE connectés au réseau monétique interbancaire.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- Paiement sur internet pour les web-marchands adhérent au réseau monétique interbancaire.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- Retrait d’espèces.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- Consultation du solde et des dernières opérations monétiques du compte « Prepaid » sur les Distributeurs",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Automatiques de Billets (DAB) connectés au réseau monétique interbancaire et les Guichets Automatiques de",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Banques (GAB).",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "SERVICES",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Moyen de paiement",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Cartes Bancaires",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "3- Carte CIB Corporate « Business » / Affaires:",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- Retrait d’espèces au niveau de tous les DAB / GAB.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- Paiement des achats au niveau des commerçants dotés de",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "TPE, affiliés aux banques adhérentes au Réseau",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Monétique Interbancaire.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- Paiement sur internet au bénéfice des web-marchands agréés, affiliés au Réseau Monétique Interbancaire (e-paiement).",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- Télépaiement d’impôts et taxes à distance via la plateforme « JIBAYATIC » via le site www.jibayatic.dz sur le portail e-Banking.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "4- Carte épargne :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- Consultation de solde.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- Retrait sur DAB/GAB.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "5- Carte CIB à débit différé :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Carte destinée aux particuliers titulaires de comptes chèques. Le débit des transactions mensuelles est reporté à une date fixe pendant le mois, dans la limite d’un plafond.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Elle est utilisée pour les :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- Paiements de proximité.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- Paiements sur internet.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- Consultations (solde, opération, plafond…).",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "SERVICES",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Moyen de paiement",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Cartes Internationales",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Cartes",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Internationales :",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Particuliers,",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Corporate,",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Business et Signature :",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "1. Visa / MasterCard /AMEX :",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- Opérations de paiement et de retrait en devises sur l’ensemble du réseau « Visa / MasterCard / AMEX »",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "à l’international.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- Transactions à l’international sur internet (e-paiement).",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "2. Acceptation des paiements des titulaires de cartes émises par les banques étrangères, permettant aux web-marchands de droit algérien de commercialiser leurs produits ou services en ligne.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Moyen de paiement",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Paiement Mobile",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Mobile QR-code en Intra-bancaire :",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "1. Client particulier, professionnel et commerçant :",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- Opérations de paiements.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- Opérations de virements.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- Transfert d’argent entre les clients abonnés à l’application.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- Consultation du solde du compte.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "2. Client entreprise :",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- Opérations de paiement.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- Consultation du solde du compte.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "SERVICES",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Moyen de paiement",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Mobile Paiement",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Mobile QR-code en interbancaire :",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "\u0001 Client particulier, professionnel et commerçant :",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "- Opérations de transfert P2P.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "- Opérations de paiement P2B.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "- Operations de remboursement B2P.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "PRODUITS",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Financement",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Contrat",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "FINANCEMENT / CREDIT :",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "- Leasing mobilier.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "- Leasing immobilier.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "- Crédit de location.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "- Crédit à la consommation destiné à l’acquisition de biens par les ménages.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Bancassurance",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Contrat",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "- Assurance multirisque habitation.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "- Assurance-crédit immobilier.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "- Assurance catastrophes naturelles.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "- Assurance de personnes.",
+          "page_start": 6,
+          "page_end": 6
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [
+    {
+      "page": 1,
+      "tables": [
+        "|1|Col2|\n|---|---|\n|||\n\n"
+      ]
+    },
+    {
+      "page": 2,
+      "tables": [
+        "|Classe|Support|Description|Col4|Col5|\n|---|---|---|---|---|\n|**SERVICES**|**SERVICES**|**SERVICES**|**SERVICES**|**SERVICES**|\n|**E-Banking / Digital  Banking**|**PC**|**ONLINE-BANKING : **<br>- Consultation des comptes (courant, d’épargne et de<br>dépôt), des bons de caisse, des prêts, des chèques et des<br>cours de devises.<br>- Consultation et édition de l’historique des comptes.<br>- Téléchargement des relevés de comptes et d’opérations.<br>- Virements de : compte à compte, interbancaires, intra-<br>bancaires, permanents et multiples.<br>- Paiement des factures.<br>- Commande de carte bancaire et chéquier.|**ONLINE-BANKING : **<br>- Consultation des comptes (courant, d’épargne et de<br>dépôt), des bons de caisse, des prêts, des chèques et des<br>cours de devises.<br>- Consultation et édition de l’historique des comptes.<br>- Téléchargement des relevés de comptes et d’opérations.<br>- Virements de : compte à compte, interbancaires, intra-<br>bancaires, permanents et multiples.<br>- Paiement des factures.<br>- Commande de carte bancaire et chéquier.|**ONLINE-BANKING : **<br>- Consultation des comptes (courant, d’épargne et de<br>dépôt), des bons de caisse, des prêts, des chèques et des<br>cours de devises.<br>- Consultation et édition de l’historique des comptes.<br>- Téléchargement des relevés de comptes et d’opérations.<br>- Virements de : compte à compte, interbancaires, intra-<br>bancaires, permanents et multiples.<br>- Paiement des factures.<br>- Commande de carte bancaire et chéquier.|\n|**E-Banking / Digital  Banking**|**Smartphone**||**MOBILE-BANKING : **|<br> <br>|\n|**E-Banking / Digital  Banking**|**Smartphone**||- Ouverture de compte.<br>|- Ouverture de compte.<br>|\n|**E-Banking / Digital  Banking**|**Smartphone**||- Commande de carte bancaire et chéquier.<br>|- Commande de carte bancaire et chéquier.<br>|\n|**E-Banking / Digital  Banking**|**Smartphone**||- Consultation des comptes et relevés des comptes.<br>|- Consultation des comptes et relevés des comptes.<br>|\n|**E-Banking / Digital  Banking**|**Smartphone**||- SMS Banking : messagerie, situation de compte,|- SMS Banking : messagerie, situation de compte,|\n|**E-Banking / Digital  Banking**|**Smartphone**||information sur la disponibilité de carte bancaire et de|information sur la disponibilité de carte bancaire et de|\n|**E-Banking / Digital  Banking**|**Smartphone**||chéquier.<br>|chéquier.<br>|\n|**E-Banking / Digital  Banking**|**Smartphone**||- Virements, paiement de factures et signature des|- Virements, paiement de factures et signature des|\n|**E-Banking / Digital  Banking**|**Smartphone**||virements.<br>|virements.<br>|\n|**E-Banking / Digital  Banking**|**Smartphone**||- Retrait et versement en agence.<br>|- Retrait et versement en agence.<br>|\n|**E-Banking / Digital  Banking**|**Smartphone**||- Envoi des relevés des comptes par Swift.<br>|- Envoi des relevés des comptes par Swift.<br>|\n|**E-Banking / Digital  Banking**|**Smartphone**||- Suivi des cours de change et conversion de monnaie.|- Suivi des cours de change et conversion de monnaie.|\n|**E-Banking / Digital  Banking**|**Smartphone**||||\n\n",
+        "|2|Col2|\n|---|---|\n|||\n\n"
+      ]
+    },
+    {
+      "page": 3,
+      "tables": [
+        "|Classe|Support|Description|\n|---|---|---|\n|**SERVICES **|**SERVICES **|**SERVICES **|\n|**Moyen de paiement**|**Cartes Bancaires**|**CARTE DOMESTIQUE :**<br>**1- Carte CIB : **<br>- Consultation de solde.<br>- Virements, retraits et versement d’espèces.<br>- Remise de chèque.<br>- Paiements des achats au niveau des commerçants dotés<br>de TPE, affiliés aux banques adhérentes au Réseau<br>Monétique Interbancaire.<br>- Paiements sur internet au bénéfice des web-marchands<br>agréés, affiliés au Réseau Monétique Interbancaire (e-<br>paiement).<br>**2- Carte CIB « Prépayée**» : <br>Destinée aux clients, personnes physiques, titulaires de<br>comptes  chèques ou de comptes épargne pour :<br>- Paiement de produits et services au niveau des<br>commerçants dotés de TPE connectés au réseau<br>monétique interbancaire.<br>- Paiement sur internet pour les web-marchands adhérent<br>au réseau monétique interbancaire.<br>- Retrait d’espèces.<br>- Consultation du solde et des dernières opérations<br>monétiques du compte « Prepaid » sur les Distributeurs<br>Automatiques de Billets (DAB) connectés au réseau<br>monétique interbancaire et les Guichets Automatiques de<br>Banques(GAB).|\n\n",
+        "|3|Col2|\n|---|---|\n|||\n\n"
+      ]
+    },
+    {
+      "page": 4,
+      "tables": [
+        "|Classe|Support|Description|\n|---|---|---|\n|**SERVICES **|**SERVICES **|**SERVICES **|\n|**Moyen de paiement**|**Cartes Bancaires**|**3- Carte CIB Corporate « Business » / Affaires:**<br>- Retrait d’espèces au niveau de tous les DAB / GAB.<br>- Paiement des achats au niveau des commerçants dotés de<br>TPE, affiliés aux banques adhérentes au Réseau<br>Monétique Interbancaire.<br>- Paiement sur internet au bénéfice des web-marchands<br>agréés, affiliés au Réseau Monétique Interbancaire<br>(e-paiement).<br>- Télépaiement d’impôts et taxes à distance via la<br>plateforme<br>« JIBAYATIC » via le site www.jibayatic.dz sur le<br>portail e-Banking.<br>**4- Carte épargne :**<br>- Consultation de solde.<br>- Retrait sur DAB/GAB.<br>**5- Carte CIB à débit différé :**<br>Carte destinée aux particuliers titulaires de comptes<br>chèques. Le débit des transactions mensuelles est reporté à<br>une date fixe pendant le mois, dans la limite d’un plafond.<br>Elle est utilisée pour les :<br>- Paiements de proximité.<br>- Paiements sur internet.<br>- Consultations(solde, opération,plafond…).|\n\n",
+        "|4|Col2|\n|---|---|\n|||\n\n"
+      ]
+    },
+    {
+      "page": 5,
+      "tables": [
+        "|Classe|Support|Description|Col4|Col5|\n|---|---|---|---|---|\n|**SERVICES **|**SERVICES **|**SERVICES **|**SERVICES **|**SERVICES **|\n|**Moyen de paiement**|**Cartes Internationales**||**Cartes**<br>**Internationales**<br>**: **<br>**Particuliers,**<br>**Corporate,**|<br> <br>|\n|**Moyen de paiement**|**Cartes Internationales**||**Business et Signature :**|**Business et Signature :**|\n|**Moyen de paiement**|**Cartes Internationales**||**1. **Visa / MasterCard /AMEX** :**|**1. **Visa / MasterCard /AMEX** :**|\n|**Moyen de paiement**|**Cartes Internationales**||- Opérations de paiement et de retrait en devises sur|- Opérations de paiement et de retrait en devises sur|\n|**Moyen de paiement**|**Cartes Internationales**||l’ensemble du réseau « Visa / MasterCard / AMEX »|l’ensemble du réseau « Visa / MasterCard / AMEX »|\n|**Moyen de paiement**|**Cartes Internationales**||à l’international.<br>|à l’international.<br>|\n|**Moyen de paiement**|**Cartes Internationales**||- Transactions à l’international sur internet (e-paiement).|- Transactions à l’international sur internet (e-paiement).|\n|**Moyen de paiement**|**Cartes Internationales**||||\n|**Moyen de paiement**|**Cartes Internationales**||**2. **Acceptation des paiements des titulaires de cartes émises|**2. **Acceptation des paiements des titulaires de cartes émises|\n|**Moyen de paiement**|**Cartes Internationales**||par les banques étrangères, permettant aux web-|par les banques étrangères, permettant aux web-|\n|**Moyen de paiement**|**Cartes Internationales**||marchands de droit algérien de commercialiser leurs|marchands de droit algérien de commercialiser leurs|\n|**Moyen de paiement**|**Cartes Internationales**||produits ou services en ligne.|produits ou services en ligne.|\n|**Moyen de paiement**|**Paiement Mobile**|**Mobile QR-code en Intra-bancaire : **<br>**1. **Client particulier, professionnel et commerçant :<br>- Opérations de paiements.<br>- Opérations de virements.<br>- Transfert<br>d’argent<br>entre<br>les<br>clients<br>abonnés à<br>l’application.<br>- Consultation du solde du compte.<br>**2. **Client entreprise :<br>- Opérations de paiement.<br>- Consultation du solde du compte.|**Mobile QR-code en Intra-bancaire : **<br>**1. **Client particulier, professionnel et commerçant :<br>- Opérations de paiements.<br>- Opérations de virements.<br>- Transfert<br>d’argent<br>entre<br>les<br>clients<br>abonnés à<br>l’application.<br>- Consultation du solde du compte.<br>**2. **Client entreprise :<br>- Opérations de paiement.<br>- Consultation du solde du compte.|**Mobile QR-code en Intra-bancaire : **<br>**1. **Client particulier, professionnel et commerçant :<br>- Opérations de paiements.<br>- Opérations de virements.<br>- Transfert<br>d’argent<br>entre<br>les<br>clients<br>abonnés à<br>l’application.<br>- Consultation du solde du compte.<br>**2. **Client entreprise :<br>- Opérations de paiement.<br>- Consultation du solde du compte.|\n\n",
+        "|5|Col2|\n|---|---|\n|||\n\n"
+      ]
+    },
+    {
+      "page": 6,
+      "tables": [
+        "|Classe|Support|Description|\n|---|---|---|\n|**SERVICES**|**SERVICES**|**SERVICES**|\n|**Moyen de paiement**|**Mobile Paiement**|**Mobile QR-code en interbancaire :** <br>\u0001 Client particulier, professionnel et commerçant :<br>- Opérations de transfert P2P.<br>- Opérations de paiement P2B. <br>- Operations de remboursement B2P.|\n|** PRODUITS**|** PRODUITS**|** PRODUITS**|\n|**Financement**|**Contrat**|**FINANCEMENT / CREDIT : **<br>- Leasing mobilier.<br>- Leasing immobilier.<br>- Crédit de location.<br>- Crédit à la consommation destiné à l’acquisition de biens<br>par les ménages.|\n|**Bancassurance**|**Contrat**|- Assurance multirisque habitation.<br>- Assurance-crédit immobilier.<br>- Assurance catastrophes naturelles.<br>- Assurance depersonnes.|\n\n",
+        "|6|Col2|\n|---|---|\n|||\n\n"
+      ]
+    }
+  ],
+  "quality": {
+    "flags": [
+      "aucun_article_detecte"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.06
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-20-01-20260514.fr.txt"
+}

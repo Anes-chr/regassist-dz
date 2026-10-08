@@ -1,0 +1,236 @@
+{
+  "document_id": "INS-01-04.fr",
+  "work_id": "INS-01-04",
+  "title": "Instruction n°01-2004 du 04 mars 2004 fixant le taux de réescompte.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "01-2004",
+  "number_source": "en-tête du document",
+  "date": "2004-03-04",
+  "date_raw": "N°01-2004 DU 04 MARS 2004",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Année 2004",
+  "source_url": "https://www.bank-of-algeria.dz/annee-2004/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction012004.pdf",
+  "format": "pdf",
+  "file_hash": "39a8aaad5e77689c1ead7f1a3260e6e42a237abf6de048f3e9245cc0b60274e9",
+  "file_size": 37158,
+  "raw_path": "raw/39a8aaad5e77__instruction012004.pdf",
+  "retrieved_at": "2026-10-05T13:21:00+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "6a5cdf90210008671bbdbc67ebdef204191eddf2267c03818cf3ab27e81e82de",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-2004/",
+    "https://www.bank-of-algeria.dz/reescompte-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Microsoft Word - instruction012004",
+    "author": "chahra.yahiaoui",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "creationDate": "D:20210225142632+01'00'",
+    "modDate": "D:20210225142632+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 406,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": false,
+    "article_count": 0,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°01-2004 DU 04 MARS 2004 FIXANT LE TAUX DE REESCOMPTE",
+  "alias_urls": [],
+  "text_hash": "17cb3a05029734f601be022be597c30497333ed15862c77f0c60e2d41b971abc",
+  "relations_out": [
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-2003",
+        "date": "2003-05-29",
+        "raw": "instruction n°02-2003 du 29 mai 2003"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "édit en date du 04 mars 2004, le taux de réescompte est fixé à 4%. La présente instruction abroge les dispositions de l'instruction n°02-2003 du 29 mai 2003 et entre en vigueur à compter du 07 mar"
+      },
+      "target_work_id": "INS-02-03"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "INS-02-03",
+      "reference": "instruction n°02-2003 du 29 mai 2003",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "édit en date du 04 mars 2004, le taux de réescompte est fixé à 4%. La présente instruction abroge les dispositions de l'instruction n°02-2003 du 29 mai 2003 et entre en vigueur à compter du 07 mar"
+      }
+    }
+  ],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [
+    {
+      "work_id": "INS-05-16",
+      "document_id": "INS-05-16.fr",
+      "date": "2016-09-01",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge les dispositions de l’instruction n°01-2004 du 4 mars 2004 et entre en vigueur à compter du 02 oct"
+      }
+    }
+  ],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "INS-05-16",
+      "document_id": "INS-05-16.fr",
+      "date": "2016-09-01",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge les dispositions de l’instruction n°01-2004 du 4 mars 2004 et entre en vigueur à compter du 02 oct"
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [
+    {
+      "work_id": "INS-05-16",
+      "document_id": "INS-05-16.fr",
+      "date": "2016-09-01",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge les dispositions de l’instruction n°01-2004 du 4 mars 2004 et entre en vigueur à compter du 02 oct"
+      }
+    }
+  ],
+  "remplacé_par": [],
+  "complète": [],
+  "dead_source_urls": [
+    {
+      "url": "https://www.bank-of-algeria.dz/pdf/instructions2004/instruction012004.pdf",
+      "status": "MOVED_OFFICIAL",
+      "listed_on": [
+        "https://www.bank-of-algeria.dz/marche-monetaire-instruction/"
+      ]
+    }
+  ],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°01-2004 DU 04 MARS 2004\nFIXANT LE TAUX DE REESCOMPTE\nEn application de la délibération du Conseil de la Monnaie et du Crédit en date du 04 mars 2004, le taux de réescompte est fixé à 4%.\nLa présente instruction abroge les dispositions de l'instruction n°02-2003 du 29 mai 2003 et entre en vigueur à compter du 07 mars 2004.\nLe Gouverneur\nMohammed LAKSACI\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°01-2004 DU 04 MARS 2004",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "FIXANT LE TAUX DE REESCOMPTE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "En application de la délibération du Conseil de la Monnaie et du Crédit en date du 04 mars 2004, le taux de réescompte est fixé à 4%.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La présente instruction abroge les dispositions de l'instruction n°02-2003 du 29 mai 2003 et entre en vigueur à compter du 07 mars 2004.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.028
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-01-04.fr.txt"
+}

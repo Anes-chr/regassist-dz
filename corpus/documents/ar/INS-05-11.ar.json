@@ -1,0 +1,241 @@
+{
+  "document_id": "INS-05-11.ar",
+  "work_id": "INS-05-11",
+  "title": "تعليمة رقم 05-2011 المؤرخة في 19 أكتوبر 2011، تعدل أحكام التعليمة رقم 22-94 المؤرخة في 12 أفريل 1994، المعدلة والمتممة والمحددة لنسبة إيرادات الصادرات من غير المحروقات والمنتجات المنجمية التي تمنح الحق في القيد في حسابات بالعملة الصعبة للأشخاص المعنويين.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "05-2011",
+  "number_source": "libelle",
+  "date": "2011-10-19",
+  "date_raw": "المؤرخة في 19 أكتوبر 2011",
+  "date_source": "libelle",
+  "publication_date": "2023-03-02",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "instructions",
+  "subcategory": "تنظيم الصرف",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d9%88%d8%a7%d8%b1%d8%af%d8%a7%d8%aa-%d8%a7%d9%84%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/03/11-05.pdf",
+  "format": "pdf",
+  "file_hash": "1acf51de275a1a7bc1b9a10dcd7ede0ea32d3792008dd8aae0493994a4d13ffa",
+  "file_size": 189151,
+  "raw_path": "raw/1acf51de275a__11-05.pdf",
+  "retrieved_at": "2026-10-05T13:30:11+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 1,
+  "url_hash": "4192082561a1c528b36ddb5a2a6cd9e3c7ca69ca4062c1d23f4fa67eae22fb46",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d9%88%d8%a7%d8%b1%d8%af%d8%a7%d8%aa-%d8%a7%d9%84%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "producer": "Epson Scan 2",
+    "creationDate": "D:20230301095423+01'00'",
+    "modDate": "D:20230301095423+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 869,
+        "ocr_confidence": 90.40131578947368
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 2,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_uncertain_numbers:1",
+    "ocr_utilise_verification_humaine"
+  ],
+  "title_document": "تعليمة رقم 05 -11 تعدل أحكام التعليمة رقم 94-22 المؤرخة في 12 أفريل 4 المعدلة و المتممة و المحددة لنسبة إيرادات الصادرات من غير المحروقات و المنتجات المنجمية االقلني تمنح الحق في القيد في حسابات بالعملة الصعبة للأشخاص المعنويين المادة الأولى : تعدل المادة 2 مكرر من التعليمة رقم 94-22 المؤرخة في 12 أفريل 1994 المعدلة و المتممة و المحددة لنسبة إيرادات الصادرات من غير المحروقات و المنتجات المنجمية التي تمنح الحق في القيد في حسابات بالعملة الصعبة للأشخاص المعنويين» و تحرر كما يلي:",
+  "alias_urls": [],
+  "text_hash": "d70393992a3105de4c5a5122e177071f98eeb2adb12503838f1dd18907bd45eb",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "22-94",
+        "date": "1994-04-12",
+        "raw": "instruction n°22-94 du 12 avril 1994"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°05-2011 du 19 octobre 2011 modifiant les dispositions de l’instruction n°22-94 du 12 avril 1994 modifiée et complétée fixant le pourcen",
+        "copied_from": "INS-05-11.fr"
+      },
+      "target_work_id": "INS-22-94"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-22-94",
+      "reference": "instruction n°22-94 du 12 avril 1994",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°05-2011 du 19 octobre 2011 modifiant les dispositions de l’instruction n°22-94 du 12 avril 1994 modifiée et complétée fixant le pourcen",
+        "copied_from": "INS-05-11.fr"
+      }
+    }
+  ],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-05-11.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "ocr_numeric_check": {
+    "units": 3,
+    "units_flagged": 1,
+    "units_compared_with_french": 2,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "المحافظ تعليمة رقم 05 -11 تعدل أحكام التعليمة رقم 94-22 المؤرخة في 12 أفريل 4 المعدلة و المتممة و المحددة لنسبة إيرادات الصادرات من غير المحروقات و المنتجات المنجمية االقلني تمنح الحق في القيد في حسابات بالعملة الصعبة للأشخاص المعنويين",
+      "paragraphs": [
+        {
+          "text": "المحافظ تعليمة رقم 05 -11 تعدل أحكام التعليمة رقم 94-22 المؤرخة في 12 أفريل 4 المعدلة و المتممة و المحددة لنسبة إيرادات الصادرات من غير المحروقات و المنتجات المنجمية االقلني تمنح الحق في القيد في حسابات بالعملة الصعبة للأشخاص المعنويين",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تعدل المادة 2 مكرر من التعليمة رقم 94-22 المؤرخة في 12 أفريل 1994 المعدلة و المتممة و المحددة لنسبة إيرادات الصادرات من غير المحروقات و المنتجات المنجمية التي تمنح الحق في القيد في حسابات بالعملة الصعبة للأشخاص المعنويين» و تحرر كما يلي:\n'المادة 2 مكرر: يمكن استعمال مبلغ بالعملة الصعبة محدد بنسبة 40 %o‏ من المعنويين» يقتطع من إيرادات الصادرات من غير المحروقات و المنتجات المنجمية التي تم ترحيلها بالفعل و ذلك بكل حرية من طرف المصدرء حسب تقديره و تحت مسئوليته في إطار ترقية صادراته\".",
+      "paragraphs": [
+        {
+          "text": "تعدل المادة 2 مكرر من التعليمة رقم 94-22 المؤرخة في 12 أفريل 1994 المعدلة و المتممة و المحددة لنسبة إيرادات الصادرات من غير المحروقات و المنتجات المنجمية التي تمنح الحق في القيد في حسابات بالعملة الصعبة للأشخاص المعنويين» و تحرر كما يلي:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "'المادة 2 مكرر: يمكن استعمال مبلغ بالعملة الصعبة محدد بنسبة 40 %o‏ من المعنويين» يقتطع من إيرادات الصادرات من غير المحروقات و المنتجات المنجمية التي تم ترحيلها بالفعل و ذلك بكل حرية من طرف المصدرء حسب تقديره و تحت مسئوليته في إطار ترقية صادراته\".",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تدخل هذه التعليمة حيز التنفيذ اعتبارا من تاريخ التوقيع عليها.\nحرر بالجزائر «à‏ 19 أكتوبر1 201 Bank of Algeria The Governor",
+      "paragraphs": [
+        {
+          "text": "تدخل هذه التعليمة حيز التنفيذ اعتبارا من تاريخ التوقيع عليها.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "حرر بالجزائر «à‏ 19 أكتوبر1 201 Bank of Algeria The Governor",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_uncertain_numbers:1",
+      "ocr_utilise_verification_humaine"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.024,
+      "ocr_pages": [
+        1
+      ],
+      "ocr_mean_confidence": 90.4
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/INS-05-11.ar.txt"
+}

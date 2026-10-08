@@ -1,0 +1,706 @@
+{
+  "document_id": "REG-91-08.ar",
+  "work_id": "REG-91-08",
+  "title": "نظام رقم 91-08 المؤرخ في 14 غشت 1991 يتضمن تنظيم السوق النقدية.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "91-08",
+  "number_source": "libelle",
+  "date": "1991-08-14",
+  "date_raw": "المؤرخ في 14 غشت 1991",
+  "date_source": "libelle",
+  "publication_date": "2023-02-28",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "règlements",
+  "subcategory": "تنظيم و تسيير السوق النقدية",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%aa%d9%86%d8%b8%d9%8a%d9%85-%d9%88-%d8%aa%d8%b3%d9%8a%d9%8a%d8%b1-%d8%a7%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d9%86%d9%82%d8%af%d9%8a%d8%a9-2/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/02/08-91.pdf",
+  "format": "pdf",
+  "file_hash": "8d4ff830b0a8b88e8f678d36dd502fdfc2be2198e23cb15bd103ae9d3b0ce67f",
+  "file_size": 430804,
+  "raw_path": "raw/8d4ff830b0a8__08-91.pdf",
+  "retrieved_at": "2026-10-05T13:28:55+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 2,
+  "url_hash": "25cb8c244a121d8fb279f7fb5fbc78ce8880339d2e4bd04e122babfaa99cec43",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%aa%d9%86%d8%b8%d9%8a%d9%85-%d9%88-%d8%aa%d8%b3%d9%8a%d9%8a%d8%b1-%d8%a7%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d9%86%d9%82%d8%af%d9%8a%d8%a9-2/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "author": "lynda benhaha",
+    "creator": "Microsoft® Word 2016",
+    "producer": "Microsoft® Word 2016",
+    "creationDate": "D:20230226141331+01'00'",
+    "modDate": "D:20230226141331+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 1916,
+        "ocr_confidence": 87.0140056022409
+      },
+      {
+        "page": 2,
+        "method": "ocr",
+        "chars": 1948,
+        "ocr_confidence": 82.6096866096866
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 8,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine",
+    "numerotation:articles_manquants:[5, 9, 10, 12, 13, 14, 15, 17, 18, 19, 20, 22]",
+    "numerotation:premier_article=4"
+  ],
+  "title_document": "نظام رقم 91 - 08 مؤرخ في 4 صفر عام 1412 الموافق 14 غشت سنة 1991, ينضمن تنظيم السوق النقدية. إن محافظ بنك الجزائر, - بمقتضى القانون رقم 10-90 المؤرخ في 19 رمضان عام 1410 الموافق 14 يولبو سنة 1990 والمتعلق بالنقد ail,‏ - وبمقتض الامر رقم 59-75 المؤرخ في 23",
+  "alias_urls": [],
+  "text_hash": "57f78d6330692ba6d924ebf4bbef619c4c9952f40ad79baf71c93b3110dc408a",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [
+    {
+      "work_id": "REG-02-04",
+      "document_id": "REG-02-04.fr",
+      "date": "2003-01-09",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2002-04 du 9 janvier 2003 complétant le règlement n°91-08 du 14 août 1991 portant organisation du marché monétair"
+      }
+    },
+    {
+      "work_id": "REG-02-04",
+      "document_id": "REG-02-04.fr",
+      "date": "2003-01-09",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Les dispositions du règlement n°91-08 du 14 août 1991, susvisé, sont complétées par un articl"
+      }
+    }
+  ],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée. Ce texte a été modifié/complété : consulter aussi les textes listés dans modifié_par / complété_par.",
+  "same_work_documents": [
+    "REG-91-08.fr"
+  ],
+  "complété_par": [
+    {
+      "work_id": "REG-02-04",
+      "document_id": "REG-02-04.fr",
+      "date": "2003-01-09",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2002-04 du 9 janvier 2003 complétant le règlement n°91-08 du 14 août 1991 portant organisation du marché monétair"
+      }
+    },
+    {
+      "work_id": "REG-02-04",
+      "document_id": "REG-02-04.fr",
+      "date": "2003-01-09",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Les dispositions du règlement n°91-08 du 14 août 1991, susvisé, sont complétées par un articl"
+      }
+    }
+  ],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "ocr_numeric_check": {
+    "units": 11,
+    "units_flagged": 0,
+    "units_compared_with_french": 8,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "titre",
+      "label": "Titre الأول",
+      "number": null,
+      "heading": "احكام Labs‏",
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 4",
+          "number": "4",
+          "heading": null,
+          "page_start": 1,
+          "page_end": 1,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "titre",
+      "label": "Titre الثاني",
+      "number": null,
+      "heading": null,
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 6",
+          "number": "6",
+          "heading": null,
+          "page_start": 1,
+          "page_end": 1,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 7",
+          "number": "7",
+          "heading": null,
+          "page_start": 1,
+          "page_end": 1,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 8",
+          "number": "8",
+          "heading": null,
+          "page_start": 1,
+          "page_end": 1,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "titre",
+      "label": "Titre الثالث",
+      "number": null,
+      "heading": "تدخل بنك الجزائر '",
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 11",
+          "number": "11",
+          "heading": null,
+          "page_start": 1,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 16",
+          "number": "16",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 21",
+          "number": "21",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "titre",
+      "label": "Titre en‏",
+      "number": null,
+      "heading": null,
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 23",
+          "number": "23",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "نظام رقم 91 - 08 مؤرخ في 4 صفر عام 1412 الموافق 14 غشت سنة 1991, ينضمن تنظيم السوق النقدية.\nإن محافظ بنك الجزائر,\n- بمقتضى القانون رقم 10-90 المؤرخ في 19 رمضان عام 1410 الموافق 14 يولبو سنة 1990 والمتعلق بالنقد ail,‏\n- وبمقتض الامر رقم 59-75 المؤرخ في 23 رمضان عام 1395 الموافق 29 سبتمبر سنة 1975 المعدل والمثمم, والمتضمن القانون التجاري» 0 عام 1410 الموافق 15 أبريل سنة 1990 والتعلق بنعيين محافظ بنك الجزائر,\n- وبمقتضى المراسيم الرئاسية المؤرخة في 19 Jui‏ عام 1410 الموافق 14 مايو سنة 1990 والمتضمنة تعيين\n- وبمقتض المرسوم التنفيذي المؤرخ في 19 شوال عام 0 الموافق 14 مايو سنة 1990 والمنضمن تعيين الأعضاء الدائمين والاعضاء الاضافيين ÿ‏ مجلس النقد والفرض»\n- وبناء على مداولات مجلس النقد والقرض المؤرخة في 14 غشت سنة 1991, بصدر النظام fl‏ نصه :",
+      "paragraphs": [
+        {
+          "text": "نظام رقم 91 - 08 مؤرخ في 4 صفر عام 1412 الموافق 14 غشت سنة 1991, ينضمن تنظيم السوق النقدية.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "إن محافظ بنك الجزائر,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- بمقتضى القانون رقم 10-90 المؤرخ في 19 رمضان عام 1410 الموافق 14 يولبو سنة 1990 والمتعلق بالنقد ail,‏",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتض الامر رقم 59-75 المؤرخ في 23 رمضان عام 1395 الموافق 29 سبتمبر سنة 1975 المعدل والمثمم, والمتضمن القانون التجاري» 0 عام 1410 الموافق 15 أبريل سنة 1990 والتعلق بنعيين محافظ بنك الجزائر,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى المراسيم الرئاسية المؤرخة في 19 Jui‏ عام 1410 الموافق 14 مايو سنة 1990 والمتضمنة تعيين",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتض المرسوم التنفيذي المؤرخ في 19 شوال عام 0 الموافق 14 مايو سنة 1990 والمنضمن تعيين الأعضاء الدائمين والاعضاء الاضافيين ÿ‏ مجلس النقد والفرض»",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبناء على مداولات مجلس النقد والقرض المؤرخة في 14 غشت سنة 1991, بصدر النظام fl‏ نصه :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "الأول",
+          "heading": "احكام Labs‏",
+          "label": "Titre الأول"
+        }
+      },
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "الملدة الأولى : Lun‏ هذا النظام تنظيم السوق Gulli‏ 2 : يضمن بنك الجزائر سير السوق النقدية, ويقوم انتقاليا بدور الوسبط.\nأخرى يرخص لها صراحة مجلس sil‏ والقرض,",
+      "paragraphs": [
+        {
+          "text": "الملدة الأولى : Lun‏ هذا النظام تنظيم السوق Gulli‏ 2 : يضمن بنك الجزائر سير السوق النقدية, ويقوم انتقاليا بدور الوسبط.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "أخرى يرخص لها صراحة مجلس sil‏ والقرض,",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "الأول",
+          "heading": "احكام Labs‏",
+          "label": "Titre الأول"
+        }
+      },
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يمكن' بنك الجزائر أن يشتري أو يبيع سندات عامة يقل سريانها عن ستة أشهر كما يمكنه أن الملدة 5 : تتدخل الخزينة العامة في السوق النقدية عن طريق التوظيف وفي عرض سندات الخزينة للبيع بالمزايدة.",
+      "paragraphs": [
+        {
+          "text": "يمكن' بنك الجزائر أن يشتري أو يبيع سندات عامة يقل سريانها عن ستة أشهر كما يمكنه أن الملدة 5 : تتدخل الخزينة العامة في السوق النقدية عن طريق التوظيف وفي عرض سندات الخزينة للبيع بالمزايدة.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "الثاني",
+          "heading": null,
+          "label": "Titre الثاني"
+        }
+      },
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تتم تبادلات السيولة بين المتدخلين المقبولين في السوق النقدية عن طريق ما يأتي :\n- الشراء أو البيع البات للسندات العامة والخاصة أو لأي دعم آخر di‏ الاطراف», سندات عامة وخاصة أو أي دعم آخر يقبله الاطراف:\n- قروض وتوظيفات مدعومة بضمانات, |\n- عملية صوايس SWAPS‏ للعملة الوطنية مقابل الخاصة يها.",
+      "paragraphs": [
+        {
+          "text": "تتم تبادلات السيولة بين المتدخلين المقبولين في السوق النقدية عن طريق ما يأتي :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- الشراء أو البيع البات للسندات العامة والخاصة أو لأي دعم آخر di‏ الاطراف», سندات عامة وخاصة أو أي دعم آخر يقبله الاطراف:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- قروض وتوظيفات مدعومة بضمانات, |",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- عملية صوايس SWAPS‏ للعملة الوطنية مقابل الخاصة يها.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "الثاني",
+          "heading": null,
+          "label": "Titre الثاني"
+        }
+      },
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تتعزز عمليات الرهن بتقديم اتفاقية مكان يوقعها مختلف الاطراف.",
+      "paragraphs": [
+        {
+          "text": "تتعزز عمليات الرهن بتقديم اتفاقية مكان يوقعها مختلف الاطراف.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "الثاني",
+          "heading": null,
+          "label": "Titre الثاني"
+        }
+      },
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يمكن أن تتم المعاملات في السوق النقدية لآجال تتراوح بين أربع وعشرين ( 24 ) ساعة وسنتين.\nالملدة 9 : يجب أن يكون لكل متدخل حساب جار مفتوح لدى بنك الجزائرء بأحوال السوق النقدية عن طريق نشرة احصائية شهرية ترسل الى كل متدخل,",
+      "paragraphs": [
+        {
+          "text": "يمكن أن تتم المعاملات في السوق النقدية لآجال تتراوح بين أربع وعشرين ( 24 ) ساعة وسنتين.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الملدة 9 : يجب أن يكون لكل متدخل حساب جار مفتوح لدى بنك الجزائرء بأحوال السوق النقدية عن طريق نشرة احصائية شهرية ترسل الى كل متدخل,",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "الثالث",
+          "heading": "تدخل بنك الجزائر '",
+          "label": "Titre الثالث"
+        }
+      },
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "يتدخل بنك الجزائر حسب أهدافه النقدية عن طريق عمليات الأخذ أو الرهن مدة أربع وعشرين ) 24 )\nساعة؛ وهذا التدخل ليس LUE‏ ولا بتكلفة ثابتة.\nيمكن أن يعمل بالمبلغ القياس للتدخل الذي يحدده بنك الجزائر بمبادرة منه فقط في أي فترة من انعقاد جلسة السوق النقدية, | St)‏ 12 : يترتب على القروض التي يمنحها بنك الجزائر تقديم سندات اجمائية تعبوية تصدرها البنوك Lis |‏ ستدات التعبثة الاجمالية يابران الستدات\n- المعاملات التجارية الخاصة بالجزائر أو بالخار 5 ceana‏ ا ا المتنازل ويجب ٠‏ أن لا\n- القروض الموسمية أوقروض الخزيتة ويجب أن تحمل على الاقل هذه الاوراق المالية توقيع شخصين طبيعيين عشرة )12( شهرا.\nيجب أن تتضمن الاوراق المالية الخاصة ما يأتي :\n)2( طبعيين أو معنويين معروفين parus‏ وتكون قايلة لاعادة التمويل عندما Glam‏ الامر باعتمادات على المدى المتوسط مدة ستة أاشهر قابلة للتجديد طوال ثلاث ستين:.\n— وتستوق grill‏ المنصوص lee‏ في\n- تطايق أحكام القانون رقم 90 — 10 المؤرخ في 14 أبريل ستة 1990« يمكن أن تستعمل المستحقات من أصل الدين وحدها Les‏ في اكتتاب السندات الاحمالية التعبوية.\nطبيعة الاعتماد, و وتد عم its,‏ للاوراق يستخدم. دعما لها.\nالا LE‏ أن يقل مبلغ الاوراق المالية tt‏ عتها ' الملدة 14 : اذا تبين أن ميلغ الاوراق المالية المتنازل Wie‏ ضمانا يقل عن المبلغ المطلوب» فان هذه العملية تعتير باطلة في مجملها.\nواذا كان البنك المعني قد قيد مبلغ الرهن في الجانب الفائدة المعمول eds‏ الستدات Lis y!‏ التعيوية قيل Jet‏ الاستحقاق. 1 التسديد Las‏ لعدى ali‏ الرهن القعلي.",
+      "paragraphs": [
+        {
+          "text": "يتدخل بنك الجزائر حسب أهدافه النقدية عن طريق عمليات الأخذ أو الرهن مدة أربع وعشرين ) 24 )",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ساعة؛ وهذا التدخل ليس LUE‏ ولا بتكلفة ثابتة.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "يمكن أن يعمل بالمبلغ القياس للتدخل الذي يحدده بنك الجزائر بمبادرة منه فقط في أي فترة من انعقاد جلسة السوق النقدية, | St)‏ 12 : يترتب على القروض التي يمنحها بنك الجزائر تقديم سندات اجمائية تعبوية تصدرها البنوك Lis |‏ ستدات التعبثة الاجمالية يابران الستدات",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- المعاملات التجارية الخاصة بالجزائر أو بالخار 5 ceana‏ ا ا المتنازل ويجب ٠‏ أن لا",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- القروض الموسمية أوقروض الخزيتة ويجب أن تحمل على الاقل هذه الاوراق المالية توقيع شخصين طبيعيين عشرة )12( شهرا.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "يجب أن تتضمن الاوراق المالية الخاصة ما يأتي :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": ")2( طبعيين أو معنويين معروفين parus‏ وتكون قايلة لاعادة التمويل عندما Glam‏ الامر باعتمادات على المدى المتوسط مدة ستة أاشهر قابلة للتجديد طوال ثلاث ستين:.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "— وتستوق grill‏ المنصوص lee‏ في",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- تطايق أحكام القانون رقم 90 — 10 المؤرخ في 14 أبريل ستة 1990« يمكن أن تستعمل المستحقات من أصل الدين وحدها Les‏ في اكتتاب السندات الاحمالية التعبوية.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "طبيعة الاعتماد, و وتد عم its,‏ للاوراق يستخدم. دعما لها.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "الا LE‏ أن يقل مبلغ الاوراق المالية tt‏ عتها ' الملدة 14 : اذا تبين أن ميلغ الاوراق المالية المتنازل Wie‏ ضمانا يقل عن المبلغ المطلوب» فان هذه العملية تعتير باطلة في مجملها.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "واذا كان البنك المعني قد قيد مبلغ الرهن في الجانب الفائدة المعمول eds‏ الستدات Lis y!‏ التعيوية قيل Jet‏ الاستحقاق. 1 التسديد Las‏ لعدى ali‏ الرهن القعلي.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 16",
+      "number": "16",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "الثالث",
+          "heading": "تدخل بنك الجزائر '",
+          "label": "Titre الثالث"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "يمكن ينك الجزائر أن يقوم بعمليات الرهن مدة (24 ) ساعة ومدة (7 ) pli‏ في المادة 16 أعلاهء بتسليم سند اجمالي تعبوي مدعوم بكشف الاوراق المالية Le‏ تستعمل دعما له.\nالسند الاجمالي التعيوي مطروحة . منه القوائد المستحقة ‏ فق اجل | الاستحقاق.\nشكل جديد من أشكال التدخل.",
+      "paragraphs": [
+        {
+          "text": "يمكن ينك الجزائر أن يقوم بعمليات الرهن مدة (24 ) ساعة ومدة (7 ) pli‏ في المادة 16 أعلاهء بتسليم سند اجمالي تعبوي مدعوم بكشف الاوراق المالية Le‏ تستعمل دعما له.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "السند الاجمالي التعيوي مطروحة . منه القوائد المستحقة ‏ فق اجل | الاستحقاق.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "شكل جديد من أشكال التدخل.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 21",
+      "number": "21",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "الثالث",
+          "heading": "تدخل بنك الجزائر '",
+          "label": "Titre الثالث"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "يمكن أن نكم التدخلات المنتظمة لبنك الجزائر في كل وقت لكن لقائدة الينوك فقط.\nالمادة",
+      "paragraphs": [
+        {
+          "text": "يمكن أن نكم التدخلات المنتظمة لبنك الجزائر في كل وقت لكن لقائدة الينوك فقط.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "المادة",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "en‏",
+          "heading": null,
+          "label": "Titre en‏"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "احكام مختلفة.",
+      "paragraphs": [
+        {
+          "text": "احكام مختلفة.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 23",
+      "number": "23",
+      "heading": null,
+      "context": {
+        "titre": {
+          "number": "en‏",
+          "heading": null,
+          "label": "Titre en‏"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "عملا بالقاثون رقم 90 - 10 المؤرخ في لقانونية العمليات ومشتملات الدعائم المستعملة في المعاملات, يمكن بنك الجزائر آن يقوم بالتقتيش في عين المكان ويناء على الوثائق لدى المؤسسات التي تلتجىء الى السوق النقدية:\nSol‏ 24 : يحدد بنك الجزائر المدة اليومية للسوق وتوقيتها.\nحرر بالجزائر في 4 صقر عام 1412 الموافق 14 غشت à.‏ 1991.\nالتقدية",
+      "paragraphs": [
+        {
+          "text": "عملا بالقاثون رقم 90 - 10 المؤرخ في لقانونية العمليات ومشتملات الدعائم المستعملة في المعاملات, يمكن بنك الجزائر آن يقوم بالتقتيش في عين المكان ويناء على الوثائق لدى المؤسسات التي تلتجىء الى السوق النقدية:",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Sol‏ 24 : يحدد بنك الجزائر المدة اليومية للسوق وتوقيتها.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "حرر بالجزائر في 4 صقر عام 1412 الموافق 14 غشت à.‏ 1991.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "التقدية",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine",
+      "numerotation:articles_manquants:[5, 9, 10, 12, 13, 14, 15, 17, 18, 19, 20, 22]",
+      "numerotation:premier_article=4"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.044,
+      "ocr_pages": [
+        1,
+        2
+      ],
+      "ocr_mean_confidence": 84.8
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/REG-91-08.ar.txt"
+}

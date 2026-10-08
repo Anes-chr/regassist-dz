@@ -1,0 +1,460 @@
+{
+  "document_id": "REG-20-09.fr",
+  "work_id": "REG-20-09",
+  "title": "Règlement n°2020-09 du 28 décembre 2020 modifiant et complétant le règlement n°2009-02 du 26 mai 2009, modifié et complété, relatif aux opérations, instruments et procédures de politique monétaire.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "2020-09",
+  "number_source": "en-tête du document",
+  "date": "2020-12-28",
+  "date_raw": "N°2020-09 DU 28 DECEMBRE 2020",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Instruments de la politique monétaire",
+  "source_url": "https://www.bank-of-algeria.dz/politique-monetaire-reglement/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement202009.pdf",
+  "format": "pdf",
+  "file_hash": "eb336b32875bf68a94784fd8bf4c47887d3edf38841a789b49aed5bb4e7579dd",
+  "file_size": 96184,
+  "raw_path": "raw/eb336b32875b__reglement202009.pdf",
+  "retrieved_at": "2026-10-05T13:22:59+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "fe0df9fe281debbf75ab27bf776b83bd447b66f681b845d997a8edacecd85d90",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/politique-monetaire-reglement/",
+    "https://www.bank-of-algeria.dz/reglement-2020/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - REG.20-09.FR",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210211155604+01'00'",
+    "modDate": "D:20210211155604+01'00'"
+  },
+  "hijri_date_raw": "27 joumada Ethania 1424",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2680,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 295,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 3,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "REGLEMENT N°2020-09 DU 28 DECEMBRE 2020 MODIFIANT ET COMPLETANT LE REGLEMENT N°2009-02 DU 26 MAI 2009, MODIFIE ET COMPLETE, RELATIF AUX OPERATIONS, INSTRUMENTS ET PROCEDURES DE POLITIQUE MONETAIRE",
+  "alias_urls": [],
+  "text_hash": "75f420a6e37c4dddccd0a51c05d3625d748ba494222ae805949fe6cc26636dd8",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "2009-02",
+        "date": "2009-05-26",
+        "raw": "règlement n°2009-02 du 26 mai 2009"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2020-09 du 28 décembre 2020 modifiant et complétant le règlement n°2009-02 du 26 mai 2009, modifié et complété, relatif aux opéra"
+      },
+      "target_work_id": "REG-09-02"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "2009-02",
+        "date": "2009-05-26",
+        "raw": "règlement n°2009-02 du 26 mai 2009"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2020-09 du 28 décembre 2020 modifiant et complétant le règlement n°2009-02 du 26 mai 2009, modifié et complété, relatif aux opéra"
+      },
+      "target_work_id": "REG-09-02"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "09-02",
+        "date": null,
+        "raw": "Règlement n°09-02"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le Règlement n°09-02 du aouel joumada ethania 1430 correspon"
+      },
+      "target_work_id": "REG-09-02"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "09-02",
+        "date": null,
+        "raw": "Règlement n°09-02"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le Règlement n°09-02 du aouel joumada ethania 1430 correspon"
+      },
+      "target_work_id": "REG-09-02"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "REG-09-02",
+      "reference": "règlement n°2009-02 du 26 mai 2009",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2020-09 du 28 décembre 2020 modifiant et complétant le règlement n°2009-02 du 26 mai 2009, modifié et complété, relatif aux opéra"
+      }
+    },
+    {
+      "work_id": "REG-09-02",
+      "reference": "Règlement n°09-02",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le Règlement n°09-02 du aouel joumada ethania 1430 correspon"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "REG-09-02",
+      "reference": "règlement n°2009-02 du 26 mai 2009",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2020-09 du 28 décembre 2020 modifiant et complétant le règlement n°2009-02 du 26 mai 2009, modifié et complété, relatif aux opéra"
+      }
+    },
+    {
+      "work_id": "REG-09-02",
+      "reference": "Règlement n°09-02",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le Règlement n°09-02 du aouel joumada ethania 1430 correspon"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-20-09.ar"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "REG-09-02",
+      "reference": "règlement n°2009-02 du 26 mai 2009",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2020-09 du 28 décembre 2020 modifiant et complétant le règlement n°2009-02 du 26 mai 2009, modifié et complété, relatif aux opéra"
+      }
+    },
+    {
+      "work_id": "REG-09-02",
+      "reference": "Règlement n°09-02",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le Règlement n°09-02 du aouel joumada ethania 1430 correspon"
+      }
+    }
+  ],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°2020-09 DU 28 DECEMBRE 2020 MODIFIANT\nET COMPLETANT LE REGLEMENT N°2009-02 DU 26 MAI 2009,\nMODIFIE ET COMPLETE, RELATIF AUX OPERATIONS, INSTRUMENTS\nET PROCEDURES DE POLITIQUE MONETAIRE\nLe Gouverneur de la Banque d’Algérie,\n- Vu l’ordonnance n°75-59 du 26 septembre 1975, modifiée et complétée, portant code de commerce ;\n- Vu l’ordonnance n°03-11 du 27 joumada Ethania 1424 correspondant au 26 août 2003 relative à la monnaie et au crédit, notamment ses articles 41 à 45 et 62, alinéas b et c ;\n- Vu le décret présidentiel du 5 safar 1437 correspondant au 17 novembre 2015 portant nomination des membres du Conseil d’Administration de la Banque d’Algérie ;\n- Vu le décret présidentiel du 27 moharram 1442 correspondant au 15 septembre 2020 portant nomination du Gouverneur de la Banque d'Algérie ;\n- Vu le décret présidentiel du 17 safar 1438 correspondant au 17 novembre 2016 portant nomination de vice-gouverneurs de la Banque d'Algérie ;\n- Vu le décret présidentiel du 18 rabie ethani 1441 correspondant au 15 décembre 2019 portant nomination de vice-gouverneurs de la Banque d'Algérie ;\n- Vu le règlement n°05-04 du 10 Ramadhan 1426 correspondant au 13 octobre 2005 portant sur le système de règlements bruts en temps réel de gros montants et paiements urgents ;\n- Vu le règlement n°05-07 du 26 Dhou El Kaâda 1426 correspondant au 28 décembre 2005 portant sur la sécurité des systèmes de paiement ;\n- Vu le règlement n°09-02 du Aouel Joumada Ethania 1430 correspondant au 26 mai 2009, modifié et complété, relatif aux opérations, instruments et procédures de politique monétaire ;\n- Vu le règlement n°15-01 du 30 rabie ethani 1436 correspondant au 19 février 2015, modifié et complété, relatif aux opérations d’escompte d’effet publics, de réescompte d’effets privés, d’avances et crédits aux banques et établissements financiers ;\n- Vu les délibérations du Conseil de la Monnaie et du Crédit en date du 28 décembre 2020 ;\nPromulgue le Règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°2020-09 DU 28 DECEMBRE 2020 MODIFIANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET COMPLETANT LE REGLEMENT N°2009-02 DU 26 MAI 2009,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "MODIFIE ET COMPLETE, RELATIF AUX OPERATIONS, INSTRUMENTS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET PROCEDURES DE POLITIQUE MONETAIRE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d’Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’ordonnance n°75-59 du 26 septembre 1975, modifiée et complétée, portant code de commerce ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’ordonnance n°03-11 du 27 joumada Ethania 1424 correspondant au 26 août 2003 relative à la monnaie et au crédit, notamment ses articles 41 à 45 et 62, alinéas b et c ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 5 safar 1437 correspondant au 17 novembre 2015 portant nomination des membres du Conseil d’Administration de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 27 moharram 1442 correspondant au 15 septembre 2020 portant nomination du Gouverneur de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 17 safar 1438 correspondant au 17 novembre 2016 portant nomination de vice-gouverneurs de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 18 rabie ethani 1441 correspondant au 15 décembre 2019 portant nomination de vice-gouverneurs de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n°05-04 du 10 Ramadhan 1426 correspondant au 13 octobre 2005 portant sur le système de règlements bruts en temps réel de gros montants et paiements urgents ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n°05-07 du 26 Dhou El Kaâda 1426 correspondant au 28 décembre 2005 portant sur la sécurité des systèmes de paiement ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n°09-02 du Aouel Joumada Ethania 1430 correspondant au 26 mai 2009, modifié et complété, relatif aux opérations, instruments et procédures de politique monétaire ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n°15-01 du 30 rabie ethani 1436 correspondant au 19 février 2015, modifié et complété, relatif aux opérations d’escompte d’effet publics, de réescompte d’effets privés, d’avances et crédits aux banques et établissements financiers ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu les délibérations du Conseil de la Monnaie et du Crédit en date du 28 décembre 2020 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le Règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le présent Règlement a pour objet de modifier et de compléter le\nRèglement n°09-02 du aouel joumada ethania 1430 correspondant au 26 mai 2009, modifié et complété, relatif aux opérations, instruments et procédures de politique monétaire.",
+      "paragraphs": [
+        {
+          "text": "Le présent Règlement a pour objet de modifier et de compléter le",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Règlement n°09-02 du aouel joumada ethania 1430 correspondant au 26 mai 2009, modifié et complété, relatif aux opérations, instruments et procédures de politique monétaire.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "Le Règlement n°09-02 du aouel joumada ethania 1430 correspondant au 26 mai 2009, modifié et complété, relatif aux opérations, instruments et procédures de politique monétaire est complété par l'article 20 bis ainsi rédigé :\n« Article 20 bis : Le taux d’intérêt applicable aux opérations principales de refinancement est le taux directeur de la Banque d’Algérie.\nBANK OF ALGERIA\nLe taux d'intérêt des opérations principales de refinancement est fixé et publié périodiquement par instruction de la Banque d’Algérie ».",
+      "paragraphs": [
+        {
+          "text": "Le Règlement n°09-02 du aouel joumada ethania 1430 correspondant au 26 mai 2009, modifié et complété, relatif aux opérations, instruments et procédures de politique monétaire est complété par l'article 20 bis ainsi rédigé :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "« Article 20 bis : Le taux d’intérêt applicable aux opérations principales de refinancement est le taux directeur de la Banque d’Algérie.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le taux d'intérêt des opérations principales de refinancement est fixé et publié périodiquement par instruction de la Banque d’Algérie ».",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le présent Règlement sera publié au Journal officiel de la République algérienne démocratique et populaire.\nLe Gouverneur\nRosthom FADLI",
+      "paragraphs": [
+        {
+          "text": "Le présent Règlement sera publié au Journal officiel de la République algérienne démocratique et populaire.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Rosthom FADLI",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.039
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-20-09.fr.txt"
+}

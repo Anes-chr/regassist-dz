@@ -1,0 +1,350 @@
+{
+  "document_id": "INS-02-11.ar",
+  "work_id": "INS-02-11",
+  "title": "تعليمة رقم 02-2011 المؤرخة في 16 ماي 2011، تعدل وتتمم التعليمة رقم 08-2001 المؤرخة في 30 ديسمبر 2001، المحددة لشروط وكيفيات إصدار سندات النقل الجوي وتحويل فائض الإيرادات المعدلة.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "02-2011",
+  "number_source": "libelle",
+  "date": "2011-05-16",
+  "date_raw": "المؤرخة في 16 ماي 2011",
+  "date_source": "libelle",
+  "publication_date": "2023-03-02",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "instructions",
+  "subcategory": "تنظيم الصرف",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d9%88%d8%a7%d8%b1%d8%af%d8%a7%d8%aa-%d8%a7%d9%84%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/03/11-02.pdf",
+  "format": "pdf",
+  "file_hash": "d15b2507e40e4a3e4ff0fd16e6b9729f7c4a45725db2668c03ee12b23205509c",
+  "file_size": 168928,
+  "raw_path": "raw/d15b2507e40e__11-02.pdf",
+  "retrieved_at": "2026-10-05T13:30:09+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 1,
+  "url_hash": "2161dec13f2ab18f4582fc4f639c6d474dfaf64307c53e3d71df744ef8a576e0",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d9%88%d8%a7%d8%b1%d8%af%d8%a7%d8%aa-%d8%a7%d9%84%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "producer": "Epson Scan 2",
+    "creationDate": "D:20230301095147+01'00'",
+    "modDate": "D:20230301095147+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 581,
+        "ocr_confidence": 88.91752577319588
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 2,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine",
+    "numerotation:articles_manquants:[2]"
+  ],
+  "title_document": null,
+  "alias_urls": [],
+  "text_hash": "951edb743ebe986f1d78268d32378d4b61db5a1892a05f3261c3532ed4035d1d",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "08-2001",
+        "date": "2001-12-30",
+        "raw": "instruction n°08-2001 du 30 décembre 2001"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°02-2011 du 16 mai 2011 modifiant et complétant l’instruction n°08-2001 du 30 décembre 2001 fixant les conditions et les modalités",
+        "copied_from": "INS-02-11.fr"
+      },
+      "target_work_id": "INS-08-01"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "08-2001",
+        "date": "2001-12-30",
+        "raw": "instruction n°08-2001 du 30 décembre 2001"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°02-2011 du 16 mai 2011 modifiant et complétant l’instruction n°08-2001 du 30 décembre 2001 fixant les conditions et les modalités",
+        "copied_from": "INS-02-11.fr"
+      },
+      "target_work_id": "INS-08-01"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "08-2001",
+        "date": "2001-12-30",
+        "raw": "instruction n°08-2001 du 30 décembre 2001"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et compléter l'instruction n°08-2001 du 30 décembre 2001 fixant les conditions et les modalités",
+        "copied_from": "INS-02-11.fr"
+      },
+      "target_work_id": "INS-08-01"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "08-2001",
+        "date": "2001-12-30",
+        "raw": "instruction n°08-2001 du 30 décembre 2001"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et compléter l'instruction n°08-2001 du 30 décembre 2001 fixant les conditions et les modalités",
+        "copied_from": "INS-02-11.fr"
+      },
+      "target_work_id": "INS-08-01"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-08-01",
+      "reference": "instruction n°08-2001 du 30 décembre 2001",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°02-2011 du 16 mai 2011 modifiant et complétant l’instruction n°08-2001 du 30 décembre 2001 fixant les conditions et les modalités",
+        "copied_from": "INS-02-11.fr"
+      }
+    },
+    {
+      "work_id": "INS-08-01",
+      "reference": "instruction n°08-2001 du 30 décembre 2001",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et compléter l'instruction n°08-2001 du 30 décembre 2001 fixant les conditions et les modalités",
+        "copied_from": "INS-02-11.fr"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "INS-08-01",
+      "reference": "instruction n°08-2001 du 30 décembre 2001",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°02-2011 du 16 mai 2011 modifiant et complétant l’instruction n°08-2001 du 30 décembre 2001 fixant les conditions et les modalités",
+        "copied_from": "INS-02-11.fr"
+      }
+    },
+    {
+      "work_id": "INS-08-01",
+      "reference": "instruction n°08-2001 du 30 décembre 2001",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et compléter l'instruction n°08-2001 du 30 décembre 2001 fixant les conditions et les modalités",
+        "copied_from": "INS-02-11.fr"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-02-11.fr",
+    "INS-02-11.fr~2"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "INS-08-01",
+      "reference": "instruction n°08-2001 du 30 décembre 2001",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°02-2011 du 16 mai 2011 modifiant et complétant l’instruction n°08-2001 du 30 décembre 2001 fixant les conditions et les modalités",
+        "copied_from": "INS-02-11.fr"
+      }
+    },
+    {
+      "work_id": "INS-08-01",
+      "reference": "instruction n°08-2001 du 30 décembre 2001",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et compléter l'instruction n°08-2001 du 30 décembre 2001 fixant les conditions et les modalités",
+        "copied_from": "INS-02-11.fr"
+      }
+    }
+  ],
+  "ocr_numeric_check": {
+    "units": 3,
+    "units_flagged": 0,
+    "units_compared_with_french": 1,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 03",
+      "number": "03",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "التعليمة رقم 02 /11 المعدلة والمتممة للتعليمة رقم 2001-08 المؤرخة في 30 ديسمبر 2001 المحددة لشروط و كيفيات إصدار سندات النقل الجوي و تحويل فائض الاإيرادات» المعدلة",
+      "paragraphs": [
+        {
+          "text": "التعليمة رقم 02 /11 المعدلة والمتممة للتعليمة رقم 2001-08 المؤرخة في 30 ديسمبر 2001 المحددة لشروط و كيفيات إصدار سندات النقل الجوي و تحويل فائض الاإيرادات» المعدلة",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تهدف هذه التعليمة إلى تعديل وإتمام التعليمة رقم 2001-08 المؤرخة في 30 ديسمبر 2001 المحددة للشروط وكيفيات إصدار سندات النقل الجوي و تحويل فائض الإيرادات»؛ المعدلة.\nالمادة_02 : تكمل العبارة \" خارج الضريبة \" المذكورة في التعليمة رقم 2001-8 والملاحق التابعة لها المشار إليها في المادة الأولى أعلاهء كما",
+      "paragraphs": [
+        {
+          "text": "تهدف هذه التعليمة إلى تعديل وإتمام التعليمة رقم 2001-08 المؤرخة في 30 ديسمبر 2001 المحددة للشروط وكيفيات إصدار سندات النقل الجوي و تحويل فائض الإيرادات»؛ المعدلة.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المادة_02 : تكمل العبارة \" خارج الضريبة \" المذكورة في التعليمة رقم 2001-8 والملاحق التابعة لها المشار إليها في المادة الأولى أعلاهء كما",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 03",
+      "number": "03",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تدخل هذه التعليمة js‏ التنفيذ اعتبارا من تاريخ التوقيع عليها.\nBank of Algeria The Governor",
+      "paragraphs": [
+        {
+          "text": "تدخل هذه التعليمة js‏ التنفيذ اعتبارا من تاريخ التوقيع عليها.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Bank of Algeria The Governor",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine",
+      "numerotation:articles_manquants:[2]"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.033,
+      "ocr_pages": [
+        1
+      ],
+      "ocr_mean_confidence": 88.9
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/INS-02-11.ar.txt"
+}

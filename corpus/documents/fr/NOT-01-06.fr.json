@@ -1,0 +1,202 @@
+{
+  "document_id": "NOT-01-06.fr",
+  "work_id": "NOT-01-06",
+  "title": "Note n°01-2006 du 17 février 2006 portant procédure de traitement des paiements sur comptes devises.",
+  "document_type": "note",
+  "type_code": "NOT",
+  "type_source": "label",
+  "number": "01-2006",
+  "number_source": "en-tête du document",
+  "date": "2006-02-17",
+  "date_raw": "N°01-2006 DU 17 FEVRIER 2006",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-05",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "notes_aux_banques",
+  "subcategory": "Année 2006",
+  "source_url": "https://www.bank-of-algeria.dz/les-notes-aux-banques-2006/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/05/note012006.pdf",
+  "format": "pdf",
+  "file_hash": "1f1c3638e4b559364ec8f5ac1a50711a3a1b9f7c58515b1b6c8d343260cbf569",
+  "file_size": 53527,
+  "raw_path": "raw/1f1c3638e4b5__note012006.pdf",
+  "retrieved_at": "2026-10-05T13:23:39+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "58f187fae3ba4d6cf23fa5da06a23ed5f4fd60b9e616fa670acd8e5e0b10faee",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/les-notes-aux-banques-2006/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document1",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210228104934+01'00'",
+    "modDate": "D:20210228104934+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 1429,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": false,
+    "article_count": 0,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "NOTE N°01-2006 DU 17 FEVRIER 2006 AUX BANQUES ET ETABLISSEMENTS FINANCIERS, INTERMEDIAIRES AGREES",
+  "alias_urls": [],
+  "text_hash": "8fda3965c1b0a3302a7d63b287750f399bb897cd429e543d497a64732ec517c9",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "NOTE N°01-2006 DU 17 FEVRIER 2006 AUX BANQUES\nET ETABLISSEMENTS FINANCIERS, INTERMEDIAIRES AGREES\nObjet : Procédure de traitement des paiements sur comptes devises (annexe VIII) de la note n°04-94 du 02 août 1994\nEn application des dispositions de l’instruction n°02-96 du 06 février 1996, relative à la déclaration à la Banque d’Algérie des opérations de change, et notamment ses articles 3, 6 et 7, nous informons les banques intermédiaires agréés que les dossiers de bourse au titre de l’annexe VIII (paiements sur comptes devises) ne devront plus être adressés à la\nDirection de la Gestion des Avoirs et des Opérations Extérieures, mais déposés directement auprès de la Direction de la Balance des Paiements 24 h suivant la date de leur exécution.\nLes montants à payer doivent être déclarés à la Direction de la Gestion des Avoirs et des\nOpérations Extérieures, à l’instar des autres catégories, trois (03) jours ouvrés avant la date de valeur considérée, sur l’annexe 10 A de la note n°94-04 du 02 août 1994.\nLes instructions de paiements concernant ces montants, doivent être transmises à la\nDirection de la Gestion des Avoirs et des Opérations Extérieures par message swift (mt\n202) exclusivement.\nLes dispositions de la présente note sont applicables à compter du 27 février 2006.\nLe Directeur Général des\nRelations Financières Extérieures\nRosthom FADLI\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "NOTE N°01-2006 DU 17 FEVRIER 2006 AUX BANQUES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET ETABLISSEMENTS FINANCIERS, INTERMEDIAIRES AGREES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Objet : Procédure de traitement des paiements sur comptes devises (annexe VIII) de la note n°04-94 du 02 août 1994",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "En application des dispositions de l’instruction n°02-96 du 06 février 1996, relative à la déclaration à la Banque d’Algérie des opérations de change, et notamment ses articles 3, 6 et 7, nous informons les banques intermédiaires agréés que les dossiers de bourse au titre de l’annexe VIII (paiements sur comptes devises) ne devront plus être adressés à la",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Direction de la Gestion des Avoirs et des Opérations Extérieures, mais déposés directement auprès de la Direction de la Balance des Paiements 24 h suivant la date de leur exécution.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les montants à payer doivent être déclarés à la Direction de la Gestion des Avoirs et des",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Opérations Extérieures, à l’instar des autres catégories, trois (03) jours ouvrés avant la date de valeur considérée, sur l’annexe 10 A de la note n°94-04 du 02 août 1994.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les instructions de paiements concernant ces montants, doivent être transmises à la",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Direction de la Gestion des Avoirs et des Opérations Extérieures par message swift (mt",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "202) exclusivement.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les dispositions de la présente note sont applicables à compter du 27 février 2006.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Directeur Général des",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Relations Financières Extérieures",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Rosthom FADLI",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.031
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/NOT-01-06.fr.txt"
+}

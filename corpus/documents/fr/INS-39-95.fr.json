@@ -1,0 +1,380 @@
+{
+  "document_id": "INS-39-95.fr",
+  "work_id": "INS-39-95",
+  "title": "Instruction n°39-95 du 24 mai 1995 portant modification de l’instruction n°22-92 modifiée du 10 juin 1992 relative aux Indemnités compensatrices de frais engagés à l’occasion de missions temporaires à l’étranger.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "39-95",
+  "number_source": "en-tête du document",
+  "date": "1995-05-24",
+  "date_raw": "N°39-95 DU 24 MAI 1995",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2025/12/instruction3995.pdf",
+      "uploaded": "2025-12-10T16:00:46"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Année 1995",
+  "source_url": "https://www.bank-of-algeria.dz/annee-1995/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction3995.pdf",
+  "format": "pdf",
+  "file_hash": "fafcbbd0d908713b59c45c1e10534089880dc7b10e04b9f1b3b89101c68e8d74",
+  "file_size": 34303,
+  "raw_path": "raw/fafcbbd0d908__instruction3995.pdf",
+  "retrieved_at": "2026-10-05T14:17:39+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "b0f8ed50e77b260615a19aec6a96899c98e05206968dc8e6844616b712a66179",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-1995/",
+    "https://www.bank-of-algeria.dz/importations-exportations-instruction/",
+    "https://www.bank-of-algeria.dz/indemnites-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document2",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200812125103+01'00'",
+    "modDate": "D:20200812125103+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 3041,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 3,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°39-95 DU 24 MAI 1995 PORTANT MODIFICATION DE L'INSTRUCTION N°22-92 MODIFIEE DU 10 JUIN 1992 RELATIVE AUX INDEMNITES COMPENSATRICES DE FRAIS ENGAGES A L'OCCASION DE MISSIONS TEMPORAIRES A L'ETRANGER",
+  "alias_urls": [
+    {
+      "document_url": "https://www.bank-of-algeria.dz/stoodroa/2025/12/instruction3995.pdf",
+      "source_url": "https://www.bank-of-algeria.dz/importations-exportations-instruction/",
+      "title": "Instruction n°39-95 du 24 mai 1995 portant modification de l’instruction n°22-92 du 10 juin 1992 relative aux indemnités compensatrices de frais engagés à l’occasion de missions temporaires à l’étranger."
+    }
+  ],
+  "text_hash": "e574793b05a4b168df14960511428124334edc1b82eb11b8abc9fcf97a918bfd",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "22-92",
+        "date": null,
+        "raw": "instruction n°22-92"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°39-95 du 24 mai 1995 portant modification de l’instruction n°22-92 modifiée du 10 juin 1992 relative aux I"
+      },
+      "target_work_id": "INS-22-92"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "22-92",
+        "date": null,
+        "raw": "instruction n°22-92"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier les dispositions des paragraphes 2.3 et 2.4 de l'instruction n°22-92 modifiée du 10 Juin 1992 relative aux i"
+      },
+      "target_work_id": "INS-22-92"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-22-92",
+      "reference": "instruction n°22-92",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°39-95 du 24 mai 1995 portant modification de l’instruction n°22-92 modifiée du 10 juin 1992 relative aux I"
+      }
+    },
+    {
+      "work_id": "INS-22-92",
+      "reference": "instruction n°22-92",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier les dispositions des paragraphes 2.3 et 2.4 de l'instruction n°22-92 modifiée du 10 Juin 1992 relative aux i"
+      }
+    }
+  ],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°39-95 DU 24 MAI 1995 PORTANT MODIFICATION\nDE L'INSTRUCTION N°22-92 MODIFIEE DU 10 JUIN 1992 RELATIVE\nAUX INDEMNITES COMPENSATRICES DE FRAIS ENGAGES A L'OCCASION\nDE MISSIONS TEMPORAIRES A L'ETRANGER",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°39-95 DU 24 MAI 1995 PORTANT MODIFICATION",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DE L'INSTRUCTION N°22-92 MODIFIEE DU 10 JUIN 1992 RELATIVE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AUX INDEMNITES COMPENSATRICES DE FRAIS ENGAGES A L'OCCASION",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DE MISSIONS TEMPORAIRES A L'ETRANGER",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction a pour objet de modifier les dispositions des paragraphes 2.3 et 2.4 de l'instruction n°22-92 modifiée du 10 Juin 1992 relative aux indemnités compensatrices de frais engagés à l'occasion de missions temporaires à l'Etranger.",
+      "paragraphs": [
+        {
+          "text": "La présente instruction a pour objet de modifier les dispositions des paragraphes 2.3 et 2.4 de l'instruction n°22-92 modifiée du 10 Juin 1992 relative aux indemnités compensatrices de frais engagés à l'occasion de missions temporaires à l'Etranger.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les dispositions des paragraphes 2.3 et 2.4 sont modifiées et rédigées comme suit :\n\"2.3 Les entreprises économiques de production de biens ou de services remplissant les conditions de bancabilité auprès de leur banque, qui ont un capital compris entre 3.000.000 DA (Trois Millions de Dinars) et 30.000.000 DA (Trente Millions de Dinars), qui emploient un effectif égal ou supérieur à 100 personnes et qui réalisent un chiffre d'affaires comme suit :\n- pour les entreprises de production de biens : 90.000.000 DA (Quatre Vingt dix\nMillions de Dinars) ou plus :\n- pour les entreprises de production de services : 45.000.000 DA (Quarante Cinq\nMillions de Dinars) ou plus :\nCes catégories d'entreprises sont éligibles au droit de change dans les conditions fixées aux articles III à VIII ci-après, et dans les limites suivantes :\n- 1.800.000 DA (Un Million Huit Cent Mille Dinars) par an pour les entreprises réalisant un chiffre d'affaires de plus de 225 Millions de dinars pour les biens ou de plus de 113 Millions de Dinars pour les services.\n- 1.400.000 DA (Un Million Quatre Cent Mille Dinars) par an pour les entreprises réalisant un chiffre d'affaires de 150 à 225 millions de dinars pour les biens ou de 75 à 113 millions de dinars pour les services.\n- 1.000.000 DA (Un Million de Dinars) par an pour les Entreprises réalisant un chiffre d'affaires de 120 à 150 Millions de Dinars pour les biens ou de 60 à 75 millions de dinars pour les services.\n- 600.000 DA (Six Cent Mille Dinars) par an pour les Entreprises réalisant un chiffre d'affaires de 90 à 120 Millions de Dinars pour les biens ou de 45 à 60\nMillions de Dinars pour les Services\".\n\"2.4 Les Entreprises économiques remplissant les conditions de bancabilité auprès de leur banque, qui ont un capital compris entre 300.000 DA (Trois Cent Mille Dinars) et 3.000.000 DA (Trois Millions de Dinars), et qui emploient un effectif au moins égal à 20 personnes sont éligibles au droit de change dans les limites suivantes (en fonction de l'effectif réel qu'elles emploient) :\n- 500.000 DA (Cinq Cent Mille Dinars) par an pour les Entreprises employant un effectif de 70 à 99 personnes.\n- 400.000 DA (Quatre Cent Mille Dinars) par an pour les Entreprises employant un effectif de 40 à 69 personnes.\n- 300.000 DA (Trois Cent Mille Dinars) par an pour les Entreprises employant un effectif de 20 à 39 personnes\".",
+      "paragraphs": [
+        {
+          "text": "Les dispositions des paragraphes 2.3 et 2.4 sont modifiées et rédigées comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "\"2.3 Les entreprises économiques de production de biens ou de services remplissant les conditions de bancabilité auprès de leur banque, qui ont un capital compris entre 3.000.000 DA (Trois Millions de Dinars) et 30.000.000 DA (Trente Millions de Dinars), qui emploient un effectif égal ou supérieur à 100 personnes et qui réalisent un chiffre d'affaires comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- pour les entreprises de production de biens : 90.000.000 DA (Quatre Vingt dix",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Millions de Dinars) ou plus :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- pour les entreprises de production de services : 45.000.000 DA (Quarante Cinq",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Millions de Dinars) ou plus :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Ces catégories d'entreprises sont éligibles au droit de change dans les conditions fixées aux articles III à VIII ci-après, et dans les limites suivantes :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- 1.800.000 DA (Un Million Huit Cent Mille Dinars) par an pour les entreprises réalisant un chiffre d'affaires de plus de 225 Millions de dinars pour les biens ou de plus de 113 Millions de Dinars pour les services.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- 1.400.000 DA (Un Million Quatre Cent Mille Dinars) par an pour les entreprises réalisant un chiffre d'affaires de 150 à 225 millions de dinars pour les biens ou de 75 à 113 millions de dinars pour les services.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- 1.000.000 DA (Un Million de Dinars) par an pour les Entreprises réalisant un chiffre d'affaires de 120 à 150 Millions de Dinars pour les biens ou de 60 à 75 millions de dinars pour les services.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- 600.000 DA (Six Cent Mille Dinars) par an pour les Entreprises réalisant un chiffre d'affaires de 90 à 120 Millions de Dinars pour les biens ou de 45 à 60",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Millions de Dinars pour les Services\".",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "\"2.4 Les Entreprises économiques remplissant les conditions de bancabilité auprès de leur banque, qui ont un capital compris entre 300.000 DA (Trois Cent Mille Dinars) et 3.000.000 DA (Trois Millions de Dinars), et qui emploient un effectif au moins égal à 20 personnes sont éligibles au droit de change dans les limites suivantes (en fonction de l'effectif réel qu'elles emploient) :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- 500.000 DA (Cinq Cent Mille Dinars) par an pour les Entreprises employant un effectif de 70 à 99 personnes.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- 400.000 DA (Quatre Cent Mille Dinars) par an pour les Entreprises employant un effectif de 40 à 69 personnes.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- 300.000 DA (Trois Cent Mille Dinars) par an pour les Entreprises employant un effectif de 20 à 39 personnes\".",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente Instruction est applicable à compter de la date de sa signature.\nLe Gouverneur\nAbdelouahab KERAMANE",
+      "paragraphs": [
+        {
+          "text": "La présente Instruction est applicable à compter de la date de sa signature.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.046
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-39-95.fr.txt"
+}

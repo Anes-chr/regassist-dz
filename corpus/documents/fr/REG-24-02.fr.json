@@ -1,0 +1,427 @@
+{
+  "document_id": "REG-24-02.fr",
+  "work_id": "REG-24-02",
+  "title": "Règlement N°24-02 DU 25 RADJAB 1445 correspondant au 06 février 2024 relatif au capital minimum de banques et établissement financiers éxerçant en algerie",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "24-02",
+  "number_source": "en-tête du document",
+  "date": "2024-02-06",
+  "date_raw": "CORRESPONDANT AU 6 FEVRIER 2024",
+  "date_source": "en-tête du document",
+  "publication_date": "2024-05-12",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2024/08/REG.24-02.pdf",
+      "uploaded": "2024-08-20T09:57:22"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Conditions de constitution et d'installation de banques, d'établissements financiers de PSP et capital minimum",
+  "source_url": "https://www.bank-of-algeria.dz/importations-exportations-reglement/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2024/05/REG.24-02.pdf",
+  "format": "pdf",
+  "file_hash": "6792a05769c324d3a0638c79cf0a5035b9dfee29322b2c4e61db2af89de2e669",
+  "file_size": 76770,
+  "raw_path": "raw/6792a05769c3__REG.24-02.pdf",
+  "retrieved_at": "2026-10-05T13:30:35+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "5698a1530c36e5390c5a42e3591cfbf82e4bdfc23b2c69db8e28662592d289db",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/importations-exportations-reglement/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - REG.24-02 final",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20240331105418+01'00'",
+    "modDate": "D:20240331105418+01'00'"
+  },
+  "hijri_date_raw": "3 Dhou El Hidja 1444",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 1727,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 1646,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": [
+      {
+        "page": 2,
+        "removed": "2/2",
+        "why": "numéro de page"
+      }
+    ]
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 5,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "REGLEMENT N°24-02 DU 25 RADJAB 1445 CORRESPONDANT AU 6 FEVRIER 2024 RELATIF AU CAPITAL MINIMUM DE BANQUES ET ETABLISSEMENTS FINANCIERS EXERÇANT EN ALGERIE",
+  "alias_urls": [],
+  "text_hash": "3851c39ac2dee0671f35eca097b844bf193981d0f288565b0765634aa8ece022",
+  "relations_out": [
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "18-03",
+        "date": null,
+        "raw": "règlement n°18-03 du 26 Safar 1440"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Toutes les dispositions contraires au présent règlement sont abrogées, notamment celles du règlement n°18-03 du 26 Safar 1440 correspondant au 4 novembre 2018, modif"
+      },
+      "target_work_id": "REG-18-03"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "REG-18-03",
+      "reference": "règlement n°18-03 du 26 Safar 1440",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Toutes les dispositions contraires au présent règlement sont abrogées, notamment celles du règlement n°18-03 du 26 Safar 1440 correspondant au 4 novembre 2018, modif"
+      }
+    }
+  ],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°24-02 DU 25 RADJAB 1445 CORRESPONDANT\nAU 6 FEVRIER 2024 RELATIF AU CAPITAL MINIMUM DE BANQUES\nET ETABLISSEMENTS FINANCIERS EXERÇANT EN ALGERIE\nLe Gouverneur de la Banque d'Algérie,\n- Vu la loi n°23-09 du 3 Dhou El Hidja 1444 correspondant au 21 juin 2023 portant Loi monétaire et bancaire, notamment son article 96 ;\n- Vu le décret présidentiel du 5 Safar 1437 correspondant au 17 novembre 2015 portant nomination de membres du Conseil d’administration de la Banque d’Algérie ;\n- Vu le décret présidentiel du 18 Rabie Ethani 1441 correspondant au 15 décembre 2019 portant nomination de Vice-gouverneurs de la\nBanque d’Algérie ;\n- Vu le décret présidentiel du 6 Ramadhan 1443 correspondant au 7 avril 2022 portant nomination de membres du Conseil d’administration de la Banque d’Algérie ;\n- Vu le décret présidentiel du 22 Chaoual 1443 correspondant au 23 mai 2022 portant nomination du Gouverneur de la Banque d’Algérie ;\n- Vu le décret présidentiel du 12 Joumada El Oula 1444 correspondant au 6 décembre 2022 portant nomination d’un membre du Conseil de la monnaie et du crédit ;\n- Vu le décret présidentiel du 18 Joumada Ethania 1445 correspondant au 31 décembre 2023 portant nomination de vice-gouverneurs de la\nBanque d’Algérie ;\n- Vu le règlement n°18-03 du 26 Safar 1440 correspondant au 04 novembre 2018, modifié et complété, relatif au capital minimum des banques et établissements financiers exerçant en Algérie ;\n- Après délibération du Conseil monétaire et bancaire en date du 06 février 2024 ;\nPromulgue le règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°24-02 DU 25 RADJAB 1445 CORRESPONDANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AU 6 FEVRIER 2024 RELATIF AU CAPITAL MINIMUM DE BANQUES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET ETABLISSEMENTS FINANCIERS EXERÇANT EN ALGERIE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d'Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la loi n°23-09 du 3 Dhou El Hidja 1444 correspondant au 21 juin 2023 portant Loi monétaire et bancaire, notamment son article 96 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 5 Safar 1437 correspondant au 17 novembre 2015 portant nomination de membres du Conseil d’administration de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 18 Rabie Ethani 1441 correspondant au 15 décembre 2019 portant nomination de Vice-gouverneurs de la",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 6 Ramadhan 1443 correspondant au 7 avril 2022 portant nomination de membres du Conseil d’administration de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 22 Chaoual 1443 correspondant au 23 mai 2022 portant nomination du Gouverneur de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 12 Joumada El Oula 1444 correspondant au 6 décembre 2022 portant nomination d’un membre du Conseil de la monnaie et du crédit ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 18 Joumada Ethania 1445 correspondant au 31 décembre 2023 portant nomination de vice-gouverneurs de la",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n°18-03 du 26 Safar 1440 correspondant au 04 novembre 2018, modifié et complété, relatif au capital minimum des banques et établissements financiers exerçant en Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Après délibération du Conseil monétaire et bancaire en date du 06 février 2024 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le présent règlement a pour objet de fixer les exigences en matière de capital minimum auxquelles doivent satisfaire les banques et établissements financiers ainsi que les succursales de banques et d’établissements financiers étrangers, exerçant en Algérie.",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement a pour objet de fixer les exigences en matière de capital minimum auxquelles doivent satisfaire les banques et établissements financiers ainsi que les succursales de banques et d’établissements financiers étrangers, exerçant en Algérie.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les banques et établissements financiers doivent détenir, à tout moment, un capital minimum ou une dotation d’égal montant dans le cas des succursales de banques et établissements financiers étrangers, fixé comme suit :\na. Banque : vingt milliards de dinars algériens (20 000 000 000 DA) ;\nb. Banque d'affaires: vingt milliards de dinars algériens (20 000 000 000 DA) ;\nc. Banque digitale : dix milliards de dinars algériens (10 000 000 000 DA) ;\nd. Etablissement financier : six milliards cinq cent millions de dinars algériens (6 500 000 000 DA).",
+      "paragraphs": [
+        {
+          "text": "Les banques et établissements financiers doivent détenir, à tout moment, un capital minimum ou une dotation d’égal montant dans le cas des succursales de banques et établissements financiers étrangers, fixé comme suit :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "a. Banque : vingt milliards de dinars algériens (20 000 000 000 DA) ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "b. Banque d'affaires: vingt milliards de dinars algériens (20 000 000 000 DA) ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "c. Banque digitale : dix milliards de dinars algériens (10 000 000 000 DA) ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "d. Etablissement financier : six milliards cinq cent millions de dinars algériens (6 500 000 000 DA).",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le montant du capital minimum ou de la dotation, visé à l’article 2 ci-dessus, doit être libéré préalablement à l’introduction de la demande d’agrément, en totalité et en numéraire.",
+      "paragraphs": [
+        {
+          "text": "Le montant du capital minimum ou de la dotation, visé à l’article 2 ci-dessus, doit être libéré préalablement à l’introduction de la demande d’agrément, en totalité et en numéraire.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Toutes les dispositions contraires au présent règlement sont abrogées, notamment celles du règlement n°18-03 du 26 Safar 1440 correspondant au 4 novembre 2018, modifié et complété, relatif au capital minimum des banques et établissements financiers exerçant en Algérie.",
+      "paragraphs": [
+        {
+          "text": "Toutes les dispositions contraires au présent règlement sont abrogées, notamment celles du règlement n°18-03 du 26 Safar 1440 correspondant au 4 novembre 2018, modifié et complété, relatif au capital minimum des banques et établissements financiers exerçant en Algérie.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le présent règlement sera publié au Journal Officiel de la\nRépublique algérienne démocratique et populaire.\nFait à Alger, le 25 Rajab 1445 correspondant au 6 février 2024.\nLe Gouverneur\nSalah-Eddine TALEB.",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement sera publié au Journal Officiel de la",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "République algérienne démocratique et populaire.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Fait à Alger, le 25 Rajab 1445 correspondant au 6 février 2024.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Salah-Eddine TALEB.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.036
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-24-02.fr.txt"
+}

@@ -1,0 +1,1283 @@
+{
+  "document_id": "REG-21-01.ar",
+  "work_id": "REG-21-01",
+  "title": "نظام رقم 2021-01 المؤرخ في 28 مارس 2021، يعدل ويتمم النظام رقم 07-01 المؤرخ في 3 فبراير سنة 2007 والمتعلق بالقواعد المطبقة على المعاملات الجارية مع الخارج والحسابات بالعملة الصعبة.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "2021-01",
+  "number_source": "libelle",
+  "date": "2021-03-28",
+  "date_raw": "28 مارس 2021",
+  "date_source": "en-tête du document",
+  "publication_date": "2023-02-28",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "règlements",
+  "subcategory": "تنظيم الصرف",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%aa%d9%86%d8%b8%d9%8a%d9%85-%d8%a7%d9%84%d8%b5%d8%b1%d9%81-2/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/02/01-2021.pdf",
+  "format": "pdf",
+  "file_hash": "56d301b86a6dd6e9a7c618c156156714f66e2e1b0024727a7d096fffa9ef2940",
+  "file_size": 75155,
+  "raw_path": "raw/56d301b86a6d__01-2021.pdf",
+  "retrieved_at": "2026-10-05T13:27:38+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "5b2d873d8fd211d8db686d097093958ac566b6991097e6312af7469266792e08",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%aa%d9%86%d8%b8%d9%8a%d9%85-%d8%a7%d9%84%d8%b5%d8%b1%d9%81-2/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - reglements2021arabe",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20230226133559+01'00'",
+    "modDate": "D:20230226133559+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 3019,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 2790,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": [
+      {
+        "page": 1,
+        "removed": "01",
+        "why": "numéro de page"
+      }
+    ]
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 8,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "numerotation:articles_manquants:[7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]",
+    "numerotation:premier_article=2",
+    "numerotation:ordre_non_croissant"
+  ],
+  "title_document": "نظام رقم2021 - م ؤرخ في 28 مارس 2021",
+  "alias_urls": [],
+  "text_hash": "cf1ceda562106127b41faecf8f030d7f296d5ea656c1e66184483e327e81be08",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "2007-01",
+        "date": "2007-02-03",
+        "raw": "règlement n°2007-01 du 03 février 2007"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2021-01 du 28 mars 2021 modifiant et complétant le règlement n°2007-01 du 03 février 2007 relatif aux règles applicables aux tran",
+        "copied_from": "REG-21-01.fr"
+      },
+      "target_work_id": "REG-07-01"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "2007-01",
+        "date": "2007-02-03",
+        "raw": "règlement n°2007-01 du 03 février 2007"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2021-01 du 28 mars 2021 modifiant et complétant le règlement n°2007-01 du 03 février 2007 relatif aux règles applicables aux tran",
+        "copied_from": "REG-21-01.fr"
+      },
+      "target_work_id": "REG-07-01"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "07-01",
+        "date": null,
+        "raw": "règlement n°07-01 du 15 Moharram 1428"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modif",
+        "copied_from": "REG-21-01.fr"
+      },
+      "target_work_id": "REG-07-01"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "07-01",
+        "date": null,
+        "raw": "règlement n°07-01 du 15 Moharram 1428"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modif",
+        "copied_from": "REG-21-01.fr"
+      },
+      "target_work_id": "REG-07-01"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n°2007-01 du 03 février 2007",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2021-01 du 28 mars 2021 modifiant et complétant le règlement n°2007-01 du 03 février 2007 relatif aux règles applicables aux tran",
+        "copied_from": "REG-21-01.fr"
+      }
+    },
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n°07-01 du 15 Moharram 1428",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modif",
+        "copied_from": "REG-21-01.fr"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n°2007-01 du 03 février 2007",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2021-01 du 28 mars 2021 modifiant et complétant le règlement n°2007-01 du 03 février 2007 relatif aux règles applicables aux tran",
+        "copied_from": "REG-21-01.fr"
+      }
+    },
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n°07-01 du 15 Moharram 1428",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modif",
+        "copied_from": "REG-21-01.fr"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-21-01.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n°2007-01 du 03 février 2007",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2021-01 du 28 mars 2021 modifiant et complétant le règlement n°2007-01 du 03 février 2007 relatif aux règles applicables aux tran",
+        "copied_from": "REG-21-01.fr"
+      }
+    },
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n°07-01 du 15 Moharram 1428",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modif",
+        "copied_from": "REG-21-01.fr"
+      }
+    }
+  ],
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 57",
+      "number": "57",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 63",
+      "number": "63",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 67",
+      "number": "67",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "نظام رقم2021 - م ؤرخ في 28 مارس 2021\nيعدّل ويتمّم\nا لنظام رقم 07 20 - 01 المؤرخ في 3\nفبراير سنة2007\nوالم تعلق ب ال قواعد المطبقة على المعاملات الجارية مع الخارج والحسابات بالعملة الصعبة .\nإن محافظ بنك الجزائر ،\n-\nبمقتضى الأمر رقم75 - 59\nالمؤرّخ في20\nرمضان عام 1395\nالموافق26\nسبتمبر سنة1975\nوالمتضمن القانون التجاري، المعدّل والمتمّم،\n-\nوبمقتضى القانون79 - 07\nالمؤرخ في 26\nشعبان عام1399\nالموافق21\nيوليو سنة1979\n،والمتضمن قانون الجمارك المعدل والمتمّم ، -\nوبمقتضى الأمر رقم 96 - 09\nالمؤرخ في 19\nشعبان عام1416\nالموافق10\nيناير سنة1996\nوالمتعلق بالاعتماد الايجاري ، -\nوبمقتضى الأمر رقم96 - 22\nالمؤرخ في 23\nصفر عام1417\nالموافق09\nيوليو سنة1996\nوالمتعلق بقمع مخالفة التشريع والتنظيم الخاصين بالصرف وحركة رؤوس الأموال من وإلى الخارج،\nالمعدّل والمتمّم\n-\nوبمقتضى الأمر رقم03 - 04\nالمؤرخ في 19\nجمادى الأولى عام1424\nالموافق19\nيوليو سنة2003\nوالمتعلق بالقواعد العامة المطبقة على عمليات استيراد البضائع وتصديرها ، المعدل والمتمّم ، -\nبمقتضى الأمر رقم03 - 11 الم ؤرخ في 27\nجمادى الثانية عام1424\nالموافق26 غ ــشت ة ـنـس2003\nوالمتعلق بالنقد لوا قرض، المعدّل والمتمّم، لا سيما المادة 62 )ال نقطة م ( منه ، -\nوبمقتضى القانون رقم05 - 01\nالمؤرخ في 27\nذي الحجة عام1425\nالموافق06\nفبراير سنة2005\nالمتعلق بالوقاية من تبييض الأّموال وتمويل الإرهاب ومكافحته ما، المع دّل والمتمّم ، - بمقتضى الأ مر رقم 05 - 05\nالمؤرخ في18\nجمادى الثانية عام1426 المـ وا فق 25\nيوليو ة ـنـس2005\nوالمتضمن قانون المالية التكميلي لسنة 2005 ،\n- بمقتضى القانون رقم 05 - 07\nالمؤرخ في19\nربيع الأول عام1426\nالموافق28\nابريل سنة 2005\nوالمتعلق بالمحروقات ، المعدّل والمتمّم ، -\nوبمقتضى القانون رقم16 - 09 الم ؤرخ في 29\nشوال عام1437\nالموافق3 غ شت سنة 2016 و المتعلق بترقية الاستثمار، المعدّل والمتمّم ، -\nوبمقتضى القانون رقم19 - 13\nالمؤرخ في14\nربيع الثاني عام1441\nالموافق11 ديسمبر\nسنة 2019 ذال ي ينظم نشاطات المحروقات،\n-\nوبمقتضى المرسوم الرئاسي المؤرخ في 27\nمحرم عام1442\nالموافق15\nسبتمبر سنة2020\nوالمتضمن تعيين محافظ بنك الجزائر ، -\nوبمقتضى المرسوم الرئاسي المؤرخ في 17\nصفر عام1438\nالموافق17\nنوفمبر سنة2016\nوالمتضمن تعيين نائبين لمحافظ بنك الجزائر ، -\nوبمقتضى المرسوم الرئاسي المؤرخ في 18\nربيع الثاني عام1441\nالموافق15\nديسمبر سنة2019\nوالمتضمن تعيين نائبين لمحافظ بنك الجزائر ، -\nوبمقتضى المرسوم الرئاسي المؤرخ في05\nصفر عام1437\nالموافق17\nنوفمبر سنة2015\nوالمتضمن تعيين أعضاء في مجلس إدارة بنك الجزائر،\n-\nوبمقتضى ال نظام رقم 07 - 01\nالمؤرخ في15\nمحرم عام1428\nالموافق3\nفبراير سنة2007 ، والمتعلق بالقواعد المطبقة على المعاملات الجارية مع الخارج والحسابات بالعملة الصعبة،\n-\nوبمقتضى ال نظام رقم 12 - 03\nالمؤرخ في 14\nمحرم عام1434\nالموافق28\nنوفمبر سنة2012\nوالمتعلق بالوقاية من تبييض الأمو ال وتمويل الإرهاب ومكافحته ما، -\nوبعد الاطلاع على مداولات مجلس النقد والقرض بتاريخ28 مارس 2021 ،\n:يصدر النظام الآتي نصه\n:المادة الأولى\nيهدف هذا النظام الى تعديل و تتميم\nالنظام رقم 07 - 01 ا لمؤرخ في 15\nمحرم1428 الموافق 3\nفبراير سنة 2007 ، المعدل والمتمّم و المتعلق بالقواعد المطبقة على المعاملات الجارية مع الخارج\nوالحسابات بالعملة الصعبة.",
+      "paragraphs": [
+        {
+          "text": "نظام رقم2021 - م ؤرخ في 28 مارس 2021",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "يعدّل ويتمّم",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ا لنظام رقم 07 20 - 01 المؤرخ في 3",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "فبراير سنة2007",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والم تعلق ب ال قواعد المطبقة على المعاملات الجارية مع الخارج والحسابات بالعملة الصعبة .",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "إن محافظ بنك الجزائر ،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "بمقتضى الأمر رقم75 - 59",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرّخ في20",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "رمضان عام 1395",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق26",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "سبتمبر سنة1975",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتضمن القانون التجاري، المعدّل والمتمّم،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى القانون79 - 07",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرخ في 26",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "شعبان عام1399",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق21",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "يوليو سنة1979",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "،والمتضمن قانون الجمارك المعدل والمتمّم ، -",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى الأمر رقم 96 - 09",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرخ في 19",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "شعبان عام1416",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق10",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "يناير سنة1996",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتعلق بالاعتماد الايجاري ، -",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى الأمر رقم96 - 22",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرخ في 23",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "صفر عام1417",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق09",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "يوليو سنة1996",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتعلق بقمع مخالفة التشريع والتنظيم الخاصين بالصرف وحركة رؤوس الأموال من وإلى الخارج،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المعدّل والمتمّم",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى الأمر رقم03 - 04",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرخ في 19",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "جمادى الأولى عام1424",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق19",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "يوليو سنة2003",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتعلق بالقواعد العامة المطبقة على عمليات استيراد البضائع وتصديرها ، المعدل والمتمّم ، -",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "بمقتضى الأمر رقم03 - 11 الم ؤرخ في 27",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "جمادى الثانية عام1424",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق26 غ ــشت ة ـنـس2003",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتعلق بالنقد لوا قرض، المعدّل والمتمّم، لا سيما المادة 62 )ال نقطة م ( منه ، -",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى القانون رقم05 - 01",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرخ في 27",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ذي الحجة عام1425",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق06",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "فبراير سنة2005",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المتعلق بالوقاية من تبييض الأّموال وتمويل الإرهاب ومكافحته ما، المع دّل والمتمّم ، - بمقتضى الأ مر رقم 05 - 05",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرخ في18",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "جمادى الثانية عام1426 المـ وا فق 25",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "يوليو ة ـنـس2005",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتضمن قانون المالية التكميلي لسنة 2005 ،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- بمقتضى القانون رقم 05 - 07",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرخ في19",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ربيع الأول عام1426",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق28",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ابريل سنة 2005",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتعلق بالمحروقات ، المعدّل والمتمّم ، -",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى القانون رقم16 - 09 الم ؤرخ في 29",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "شوال عام1437",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق3 غ شت سنة 2016 و المتعلق بترقية الاستثمار، المعدّل والمتمّم ، -",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى القانون رقم19 - 13",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرخ في14",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ربيع الثاني عام1441",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق11 ديسمبر",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "سنة 2019 ذال ي ينظم نشاطات المحروقات،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى المرسوم الرئاسي المؤرخ في 27",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "محرم عام1442",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق15",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "سبتمبر سنة2020",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتضمن تعيين محافظ بنك الجزائر ، -",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى المرسوم الرئاسي المؤرخ في 17",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "صفر عام1438",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق17",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "نوفمبر سنة2016",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتضمن تعيين نائبين لمحافظ بنك الجزائر ، -",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى المرسوم الرئاسي المؤرخ في 18",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ربيع الثاني عام1441",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق15",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ديسمبر سنة2019",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتضمن تعيين نائبين لمحافظ بنك الجزائر ، -",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى المرسوم الرئاسي المؤرخ في05",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "صفر عام1437",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق17",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "نوفمبر سنة2015",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتضمن تعيين أعضاء في مجلس إدارة بنك الجزائر،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى ال نظام رقم 07 - 01",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرخ في15",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "محرم عام1428",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق3",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "فبراير سنة2007 ، والمتعلق بالقواعد المطبقة على المعاملات الجارية مع الخارج والحسابات بالعملة الصعبة،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى ال نظام رقم 12 - 03",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرخ في 14",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "محرم عام1434",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق28",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "نوفمبر سنة2012",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتعلق بالوقاية من تبييض الأمو ال وتمويل الإرهاب ومكافحته ما، -",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبعد الاطلاع على مداولات مجلس النقد والقرض بتاريخ28 مارس 2021 ،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": ":يصدر النظام الآتي نصه",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": ":المادة الأولى",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "يهدف هذا النظام الى تعديل و تتميم",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "النظام رقم 07 - 01 ا لمؤرخ في 15",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "محرم1428 الموافق 3",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "فبراير سنة 2007 ، المعدل والمتمّم و المتعلق بالقواعد المطبقة على المعاملات الجارية مع الخارج",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "والحسابات بالعملة الصعبة.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": ":\nّتعدل وتتم م المادة 57\nمن النظام رقم07 - 01\nالمؤرخ في3\nفبراير2007\n،والمذكور اعلاه كما يأتي:\n»",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "ّتعدل وتتم م المادة 57",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "من النظام رقم07 - 01",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "المؤرخ في3",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "فبراير2007",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "،والمذكور اعلاه كما يأتي:",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "»",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 57",
+      "number": "57",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": ": ت طبق على التوطين المصرفي لعقود تصدير الخدمات و التحصيل\nوترحيل نواتجها ، نفس القواعد المطب قة على الصادرات من السلع.\nتُعفى من إجراءات التوطين المصرفي صادرات الخدمات الرقمية عبر\nالانترنت ، وخدمات المؤسسات الناشئة، و كذا صادرات الخدمات ا لخاصة بالمهنيين غير التجاريين.\nيتعيّن على مقدّمي هذه الخدمات ان يودعوا ، لدى المصارف التي قاموا بالتوطين على مستواها، تصريحا\nيتضمن وصف اً ل لمشروع أو المشاريع مع الإشارة ، بالإضافة إلى معلومات أخرى،\nإلى سعر الوحدة وتاريخ وضعها على الانترنت .\nوفي إطار هذه العمليات، يجب أن يُرحّل كل دفع تمّ تحصيله كمقابل لخدمات مصدّرة ، لدى مصرف مت واجد بالجزائر.\nويسجّل هذا الدفع في الجانب الدائن ل لحساب بالعملة الصعبة ل لمُصدِّر\n)تاجر أو مهني غير تاجر( ، ليستعمل\nكأول وية وبصفة حصرية لتلبية احتياجات نشاطه.\nغير أنّه، يتم تحصيل إيرادات\nالصادرات الناجمة عن المشاريع غير المصرّ ح بها مسبقاً لدى المصرف الموطّن بالدي نار الجزائري.\n«",
+      "paragraphs": [
+        {
+          "text": ": ت طبق على التوطين المصرفي لعقود تصدير الخدمات و التحصيل",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "وترحيل نواتجها ، نفس القواعد المطب قة على الصادرات من السلع.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "تُعفى من إجراءات التوطين المصرفي صادرات الخدمات الرقمية عبر",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "الانترنت ، وخدمات المؤسسات الناشئة، و كذا صادرات الخدمات ا لخاصة بالمهنيين غير التجاريين.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "يتعيّن على مقدّمي هذه الخدمات ان يودعوا ، لدى المصارف التي قاموا بالتوطين على مستواها، تصريحا",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "يتضمن وصف اً ل لمشروع أو المشاريع مع الإشارة ، بالإضافة إلى معلومات أخرى،",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "إلى سعر الوحدة وتاريخ وضعها على الانترنت .",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "وفي إطار هذه العمليات، يجب أن يُرحّل كل دفع تمّ تحصيله كمقابل لخدمات مصدّرة ، لدى مصرف مت واجد بالجزائر.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "ويسجّل هذا الدفع في الجانب الدائن ل لحساب بالعملة الصعبة ل لمُصدِّر",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": ")تاجر أو مهني غير تاجر( ، ليستعمل",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "كأول وية وبصفة حصرية لتلبية احتياجات نشاطه.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "غير أنّه، يتم تحصيل إيرادات",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "الصادرات الناجمة عن المشاريع غير المصرّ ح بها مسبقاً لدى المصرف الموطّن بالدي نار الجزائري.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "«",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": ":\nّتعدل وتتم م المادة 60\nمن النظام رقم07 - 01\nالمؤرخ في3\nفبراير سنة 2007 والمذكور اعلاه ، وتحرر كما يأتي:\n»\nالما دة 60 : يمكن أ ن يتم التوطين المصرفي ل لصادرات من المنتجات الطازجة ، القابلة للتلف و / أو الخطيرة بعد تاري خ الإرسال والتصريح لدى الجمارك في غضون الآجال المحددة بموجب تعليمة من بنك الجزائر.\n«",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "ّتعدل وتتم م المادة 60",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "من النظام رقم07 - 01",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "المؤرخ في3",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "فبراير سنة 2007 والمذكور اعلاه ، وتحرر كما يأتي:",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "»",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "الما دة 60 : يمكن أ ن يتم التوطين المصرفي ل لصادرات من المنتجات الطازجة ، القابلة للتلف و / أو الخطيرة بعد تاري خ الإرسال والتصريح لدى الجمارك في غضون الآجال المحددة بموجب تعليمة من بنك الجزائر.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "«",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": ":\nّتعدل وتتم م المادة 63\nمن النظام رقم07 - 01\nالمؤرخ في3 فبراير سنة 2007 ، والمذكور اعلاه، وتحرر كما يأتي:\n»",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "ّتعدل وتتم م المادة 63",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "من النظام رقم07 - 01",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "المؤرخ في3 فبراير سنة 2007 ، والمذكور اعلاه، وتحرر كما يأتي:",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "»",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 63",
+      "number": "63",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": ": يتعيّن\nعلى المصدِ ر أن يشير\nفي التصريح الجمركي إلى مراجع التوطين المصرفي لعقد الت صدير ، باستثناء الصادرات المنصوص عليها في المادة 58\n.أعلاه وتتم الإشارة إ لى هذه المراجع في الأجل المحدد بموجب تعليمة من بنك الجزائر ، كأقصى أجل «.",
+      "paragraphs": [
+        {
+          "text": ": يتعيّن",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "على المصدِ ر أن يشير",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "في التصريح الجمركي إلى مراجع التوطين المصرفي لعقد الت صدير ، باستثناء الصادرات المنصوص عليها في المادة 58",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": ".أعلاه وتتم الإشارة إ لى هذه المراجع في الأجل المحدد بموجب تعليمة من بنك الجزائر ، كأقصى أجل «.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": ":\nتعدل وتتمّم المادة67\nمن النظام رقم07 - 01\nالمؤرخ في3\nفبراير2007 والمذكور اعلاه ، وتحرّر كما يأتي:\n»",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "تعدل وتتمّم المادة67",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "من النظام رقم07 - 01",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "المؤرخ في3",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "فبراير2007 والمذكور اعلاه ، وتحرّر كما يأتي:",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "»",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 67",
+      "number": "67",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": ":\nبمجرد تحقيق ترحيل الإيرادات الناجمة عن الصادرات من غير المحروقات والصادرات من غير المنتجات المنجمية للسلع والخدمات، يسجل المصرف بأمر من المصدِ ر، مبلغ هذه الايرادات المتحصّل عليها في ال حساب )\nاحسلا بات( بالعملة الصعبة التي يحوزها ، مع الالتزام ب الكيفيات المحدّ دة بموجب تعليمة من بنك الجزائر.\nغير أنّه، يتم تحصيل\nالإيرادات\nالناجمة عن ال صادرات غير الموطّ نة وتلك التي تم ترحيلها خارج الآ جال القانونية، بالدي نار الجزائري .«",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "بمجرد تحقيق ترحيل الإيرادات الناجمة عن الصادرات من غير المحروقات والصادرات من غير المنتجات المنجمية للسلع والخدمات، يسجل المصرف بأمر من المصدِ ر، مبلغ هذه الايرادات المتحصّل عليها في ال حساب )",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "احسلا بات( بالعملة الصعبة التي يحوزها ، مع الالتزام ب الكيفيات المحدّ دة بموجب تعليمة من بنك الجزائر.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "غير أنّه، يتم تحصيل",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "الإيرادات",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "الناجمة عن ال صادرات غير الموطّ نة وتلك التي تم ترحيلها خارج الآ جال القانونية، بالدي نار الجزائري .«",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": ":\n.ينشر هذا النظام في الجريدة الرسمية للجمهورية الجزائرية الديمقراطية الشعبية\nالمحافظ\nرستم فضلي",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": ".ينشر هذا النظام في الجريدة الرسمية للجمهورية الجزائرية الديمقراطية الشعبية",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "المحافظ",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "رستم فضلي",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "numerotation:articles_manquants:[7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]",
+      "numerotation:premier_article=2",
+      "numerotation:ordre_non_croissant"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.043
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/REG-21-01.ar.txt"
+}

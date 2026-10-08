@@ -1,0 +1,273 @@
+{
+  "document_id": "INS-29-95.fr",
+  "work_id": "INS-29-95",
+  "title": "Instruction n°29-95 du 22 avril 1995 modifiant l’instruction n°20-94 du 12 avril 1994 fixant les conditions financières des opérations d’importations.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "29-95",
+  "number_source": "en-tête du document",
+  "date": "1995-04-22",
+  "date_raw": "N°29-95 DU 22 AVRIL 1995",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2025/12/instruction2995.pdf",
+      "uploaded": "2025-12-11T14:07:41"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Année 1995",
+  "source_url": "https://www.bank-of-algeria.dz/annee-1995/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction2995.pdf",
+  "format": "pdf",
+  "file_hash": "ee4e674dbbf1aae81ea1cda86f539c5e1e42ff7015287f364ed178ba389b6e93",
+  "file_size": 26383,
+  "raw_path": "raw/ee4e674dbbf1__instruction2995.pdf",
+  "retrieved_at": "2026-10-05T14:17:36+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "78f22cd9a00632769503247ff3a4f3d124602a5e6b267ddea7f12be7595545f8",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-1995/",
+    "https://www.bank-of-algeria.dz/taux-excessifs-instruction-2/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document2",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200812124345+01'00'",
+    "modDate": "D:20200812124345+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 580,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 2,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°29-95 DU 22 AVRIL 1995 MODIFIANT L'INSTRUCTION N°20-94 DU 12 AVRIL 1994 FIXANT LES CONDITIONS FINANCIERES DES OPERATIONS D'IMPORTATIONS",
+  "alias_urls": [
+    {
+      "document_url": "https://www.bank-of-algeria.dz/stoodroa/2025/12/instruction2995.pdf",
+      "source_url": "https://www.bank-of-algeria.dz/taux-excessifs-instruction-2/",
+      "title": "Instruction n°29-95 du 22 avril 1995 modifiant l’instruction n°20-94 du 12 avril 1994 fixant les conditions financières des opérations d’importation."
+    }
+  ],
+  "text_hash": "047affa928d2c4bb03fb730a797d8d9f7a02fdd8430a29ea7b6d5773f6b80725",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "20-94",
+        "date": "1994-04-12",
+        "raw": "instruction n°20-94 du 12 avril 1994"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°29-95 du 22 avril 1995 modifiant l’instruction n°20-94 du 12 avril 1994 fixant les conditions financières des o"
+      },
+      "target_work_id": "INS-20-94"
+    },
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "20-94",
+        "date": "1994-04-12",
+        "raw": "Instruction n°20-94 du 12 avril 1994"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge les dispositions de l'article 6 de l'Instruction n°20-94 du 12 avril 1994 fixant les conditions financières des o"
+      },
+      "target_work_id": "INS-20-94"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "INS-20-94",
+      "reference": "Instruction n°20-94 du 12 avril 1994",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge les dispositions de l'article 6 de l'Instruction n°20-94 du 12 avril 1994 fixant les conditions financières des o"
+      }
+    }
+  ],
+  "modifie": [
+    {
+      "work_id": "INS-20-94",
+      "reference": "instruction n°20-94 du 12 avril 1994",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°29-95 du 22 avril 1995 modifiant l’instruction n°20-94 du 12 avril 1994 fixant les conditions financières des o"
+      }
+    }
+  ],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°29-95 DU 22 AVRIL 1995 MODIFIANT\nL'INSTRUCTION N°20-94 DU 12 AVRIL 1994 FIXANT LES CONDITIONS\nFINANCIERES DES OPERATIONS D'IMPORTATIONS",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°29-95 DU 22 AVRIL 1995 MODIFIANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L'INSTRUCTION N°20-94 DU 12 AVRIL 1994 FIXANT LES CONDITIONS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "FINANCIERES DES OPERATIONS D'IMPORTATIONS",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L'importation des biens d'équipement n'est plus soumise à l'obligation d'obtention des crédits d'au moins trois années d'échéance.",
+      "paragraphs": [
+        {
+          "text": "L'importation des biens d'équipement n'est plus soumise à l'obligation d'obtention des crédits d'au moins trois années d'échéance.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction abroge les dispositions de l'article 6 de l'Instruction n°20-94 du 12 avril 1994 fixant les conditions financières des opérations d’importations et s'applique aux domiciliations à compter du 21 mai 1995.\nLe Gouverneur\nAbdelouahab KERAMANE",
+      "paragraphs": [
+        {
+          "text": "La présente instruction abroge les dispositions de l'article 6 de l'Instruction n°20-94 du 12 avril 1994 fixant les conditions financières des opérations d’importations et s'applique aux domiciliations à compter du 21 mai 1995.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.047
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-29-95.fr.txt"
+}

@@ -1,0 +1,1052 @@
+{
+  "document_id": "REG-97-04.fr",
+  "work_id": "REG-97-04",
+  "title": "Règlement n°97-01 du 31 décembre 1997 relatif au système de garantie des dépôts bancaires.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "97-04",
+  "number_source": "en-tête du document",
+  "date": "1997-12-31",
+  "date_raw": "N°97-04 DU 31 DECEMBRE 1997",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2022/04/reglement9704.pdf",
+      "uploaded": "2022-04-20T13:18:10"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Année 1997",
+  "source_url": "https://www.bank-of-algeria.dz/reglement-1997/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement9704.pdf",
+  "format": "pdf",
+  "file_hash": "f0e0d6b9d76a238a7c2d7c40a328eb0e9f21554ed91e91cb1e900ab4d94ca134",
+  "file_size": 82189,
+  "raw_path": "raw/f0e0d6b9d76a__reglement9704.pdf",
+  "retrieved_at": "2026-10-05T13:23:37+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 4,
+  "url_hash": "fc9f4a02e7b99cd44e784e733d5c3f52d67dba378a21f92c026646dbee6003d0",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/reglement-1997/",
+    "https://www.bank-of-algeria.dz/stabilite-financiere-reglement/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document20",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210216163628+01'00'",
+    "modDate": "D:20210216163628+01'00'"
+  },
+  "hijri_date_raw": "17 Chaoual 1417",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 4,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 3109,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 2930,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 2896,
+        "ocr_confidence": null
+      },
+      {
+        "page": 4,
+        "method": "pdf_text",
+        "chars": 2549,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 21,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "incoherence_libelle_vs_document:numero"
+  ],
+  "title_document": "REGLEMENT N°97-04 DU 31 DECEMBRE 1997 RELATIF AU SYSTEME DE GARANTIE DES DEPOTS BANCAIRES",
+  "label_number": "97-01",
+  "alias_urls": [
+    {
+      "document_url": "https://www.bank-of-algeria.dz/stoodroa/2022/04/reglement9704.pdf",
+      "source_url": "https://www.bank-of-algeria.dz/stabilite-financiere-reglement/",
+      "title": "Règlement n°97-04 du 31 décembre 1997 relatif au système de garantie des dépôts bancaires."
+    }
+  ],
+  "text_hash": "70164d72bb79af09096612cb469fa4cacf90611dbc1caec6b9cfdcac32d16c9a",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [
+    {
+      "work_id": "REG-04-03",
+      "document_id": "REG-04-03.fr",
+      "date": "2004-03-04",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 4,
+        "quote": "Les dispositions du règlement n°97-04 du 2 Ramadhan 1418 correspondant au 31 décembre 1997, susv"
+      }
+    }
+  ],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "REG-04-03",
+      "document_id": "REG-04-03.fr",
+      "date": "2004-03-04",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 4,
+        "quote": "Les dispositions du règlement n°97-04 du 2 Ramadhan 1418 correspondant au 31 décembre 1997, susv"
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [
+    "REG-97-04.ar"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [
+    {
+      "work_id": "REG-04-03",
+      "document_id": "REG-04-03.fr",
+      "date": "2004-03-04",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 4,
+        "quote": "Les dispositions du règlement n°97-04 du 2 Ramadhan 1418 correspondant au 31 décembre 1997, susv"
+      }
+    }
+  ],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 16",
+      "number": "16",
+      "heading": null,
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 17",
+      "number": "17",
+      "heading": null,
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 18",
+      "number": "18",
+      "heading": null,
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 19",
+      "number": "19",
+      "heading": null,
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 20",
+      "number": "20",
+      "heading": null,
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 21",
+      "number": "21",
+      "heading": null,
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°97-04 DU 31 DECEMBRE 1997 RELATIF\nAU SYSTEME DE GARANTIE DES DEPOTS BANCAIRES\nLe Gouverneur de la Banque d'Algérie,\n- Vu la Loi n°90-10 du 10 avril 1990 modifiée relative à la Monnaie et au Crédit notamment ses articles 44, 45, 47, 96, 110 à 115, 117, 121, 130, 141, 156, 159 et 170 ;\n- Vu l'Ordonnance n°66-156 du 8 juin 1966 modifiée et complétée portant Code Pénal ;\n- Vu l'Ordonnance n°75-58 du 26 septembre 1975 modifiée et complétée portant Code Civil ;\n- Vu l'Ordonnance n°75-59 du 26 septembre 1975 modifiée et complétée portant Code de\nCommerce ;\n- Vu le Décret Présidentiel du 21 juillet 1992 portant nomination du Gouverneur de la Banque d'Algérie ;\nVu les Décrets Présidentiels du 14 mai 1990 portant nomination de Vice-Gouverneurs de la\nBanque d'Algérie ;\n- Vu le Décret Présidentiel du 17 Chaoual 1417 correspondant au 24 février 1997 portant nomination d'un Vice-Gouverneur de la Banque d'Algérie ;\nVu le Décret Exécutif du 1er juillet 1991 portant désignation de membres titulaires et suppléants au Conseil de la Monnaie et du Crédit ;\n- Vu le Décret Exécutif du 15 Safar 1417 correspondant au 1er juillet 1996 portant désignation d'un membre titulaire au Conseil de la Monnaie et du Crédit ;\n- Vu le règlement n°91-09 du 14 août 1991 modifié et complété fixant les règles prudentielles de gestion des banques et établissements financiers ;\n- Vu le règlement n°92-05 du 22 mars 1992 concernant les conditions que doivent remplir les fondateurs, dirigeants et représentants des banques et des établissements financiers ;\n- Après délibération du Conseil de la Monnaie et du Crédit en date du 31 décembre 1997 ;\nPromulgue le Règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°97-04 DU 31 DECEMBRE 1997 RELATIF",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AU SYSTEME DE GARANTIE DES DEPOTS BANCAIRES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d'Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la Loi n°90-10 du 10 avril 1990 modifiée relative à la Monnaie et au Crédit notamment ses articles 44, 45, 47, 96, 110 à 115, 117, 121, 130, 141, 156, 159 et 170 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l'Ordonnance n°66-156 du 8 juin 1966 modifiée et complétée portant Code Pénal ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l'Ordonnance n°75-58 du 26 septembre 1975 modifiée et complétée portant Code Civil ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l'Ordonnance n°75-59 du 26 septembre 1975 modifiée et complétée portant Code de",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Commerce ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 21 juillet 1992 portant nomination du Gouverneur de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Vu les Décrets Présidentiels du 14 mai 1990 portant nomination de Vice-Gouverneurs de la",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 17 Chaoual 1417 correspondant au 24 février 1997 portant nomination d'un Vice-Gouverneur de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Vu le Décret Exécutif du 1er juillet 1991 portant désignation de membres titulaires et suppléants au Conseil de la Monnaie et du Crédit ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Exécutif du 15 Safar 1417 correspondant au 1er juillet 1996 portant désignation d'un membre titulaire au Conseil de la Monnaie et du Crédit ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n°91-09 du 14 août 1991 modifié et complété fixant les règles prudentielles de gestion des banques et établissements financiers ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n°92-05 du 22 mars 1992 concernant les conditions que doivent remplir les fondateurs, dirigeants et représentants des banques et des établissements financiers ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Après délibération du Conseil de la Monnaie et du Crédit en date du 31 décembre 1997 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le Règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Conformément à l'article 170 de la Loi n°90-10 du 14 Avril 1990 modifiée susvisée, le présent Règlement a pour objet la mise en place d'un système de garantie des dépôts bancaires.",
+      "paragraphs": [
+        {
+          "text": "Conformément à l'article 170 de la Loi n°90-10 du 14 Avril 1990 modifiée susvisée, le présent Règlement a pour objet la mise en place d'un système de garantie des dépôts bancaires.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les banques ainsi que les succursales de banques étrangères ci-après dénommées \"Banques\" sont tenus d'adhérer, dans les conditions prévues par le présent règlement, au système de garantie des dépôts bancaires.",
+      "paragraphs": [
+        {
+          "text": "Les banques ainsi que les succursales de banques étrangères ci-après dénommées \"Banques\" sont tenus d'adhérer, dans les conditions prévues par le présent règlement, au système de garantie des dépôts bancaires.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le système de garantie des dépôts bancaires vise à indemniser les déposants en cas d'indisponibilité de leurs dépôts et autres sommes assimilées aux dépôts remboursables.",
+      "paragraphs": [
+        {
+          "text": "Le système de garantie des dépôts bancaires vise à indemniser les déposants en cas d'indisponibilité de leurs dépôts et autres sommes assimilées aux dépôts remboursables.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Au sens du présent règlement, il faut entendre par \"dépôts et autres sommes assimilées aux dépôts remboursables\", tout solde créditeur résultant de fonds laissés en compte ou de fonds en situation transitoire provenant d'opérations bancaires normales devant être restitué conformément aux conditions légales et contractuelles applicables, notamment en matière de compensation.\nSon inclus dans cette définition, les dépôts de garantie lorsqu'ils deviennent exigibles, les dépôts liées à des opérations sur titres, à l'exclusion des dépôts définis à l'article 117 de la Loi n° 90-10 du 14 Avril 1990 modifiée susvisée et les sommes dues en représentation de bons de caisse et autres moyens de paiement émis par les Banques.\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "Au sens du présent règlement, il faut entendre par \"dépôts et autres sommes assimilées aux dépôts remboursables\", tout solde créditeur résultant de fonds laissés en compte ou de fonds en situation transitoire provenant d'opérations bancaires normales devant être restitué conformément aux conditions légales et contractuelles applicables, notamment en matière de compensation.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Son inclus dans cette définition, les dépôts de garantie lorsqu'ils deviennent exigibles, les dépôts liées à des opérations sur titres, à l'exclusion des dépôts définis à l'article 117 de la Loi n° 90-10 du 14 Avril 1990 modifiée susvisée et les sommes dues en représentation de bons de caisse et autres moyens de paiement émis par les Banques.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Ne sont pas considérés comme des dépôts et autres sommes assimilées aux dépôts remboursables notamment :\n- les sommes avancées aux établissements financiers et celles avancées par les\nBanques entre-elles,\n- les fonds reçus ou laissés en compte par les actionnaires détenant au moins cinq pour cent (5 %) du capital, les administrateurs, les dirigeants et les commissaires aux comptes,\n- les dépôts des salariés actionnaires,\n- les éléments de passif entrant dans la définition des fonds propres au sens des dispositions du Règlement n° 91-09 du 14 Août 1991 modifié et complété susvisé,\n- les dépôts non nominatifs autres que les sommes dues en représentation des moyens de paiement émis par les Banques,\n- les dépôts en devises rétrocédés à la Banque d'Algérie,\n- les dépôts des assurances sociales et des caisses de retraite,\n- les dépôts des Etats et Administrations,\n- les dépôts découlant d'opérations pour lesquelles une condamnation pénale définitive a été prononcée à l'encontre du déposant,\n- les dépôts pour lesquels le déposant a obtenu à titre individuel des conditions de taux très avantageuses qui ont contribué à aggraver la situation financière de la\nBanque,\n- les dépôts des Organismes de Placement Collectif de Valeurs Mobilières.",
+      "paragraphs": [
+        {
+          "text": "Ne sont pas considérés comme des dépôts et autres sommes assimilées aux dépôts remboursables notamment :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les sommes avancées aux établissements financiers et celles avancées par les",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Banques entre-elles,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les fonds reçus ou laissés en compte par les actionnaires détenant au moins cinq pour cent (5 %) du capital, les administrateurs, les dirigeants et les commissaires aux comptes,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les dépôts des salariés actionnaires,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les éléments de passif entrant dans la définition des fonds propres au sens des dispositions du Règlement n° 91-09 du 14 Août 1991 modifié et complété susvisé,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les dépôts non nominatifs autres que les sommes dues en représentation des moyens de paiement émis par les Banques,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les dépôts en devises rétrocédés à la Banque d'Algérie,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les dépôts des assurances sociales et des caisses de retraite,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les dépôts des Etats et Administrations,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les dépôts découlant d'opérations pour lesquelles une condamnation pénale définitive a été prononcée à l'encontre du déposant,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les dépôts pour lesquels le déposant a obtenu à titre individuel des conditions de taux très avantageuses qui ont contribué à aggraver la situation financière de la",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Banque,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les dépôts des Organismes de Placement Collectif de Valeurs Mobilières.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "La Banque d'Algérie décide de la création, dans le cadre de l'article 115 de la\nLoi n°90-10 du 14 avril 1990 modifiée susvisée, de la société de garantie des dépôts bancaires chargée de la mise en œuvre et de la gestion du système visé à l'article 1er ci-dessus.",
+      "paragraphs": [
+        {
+          "text": "La Banque d'Algérie décide de la création, dans le cadre de l'article 115 de la",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Loi n°90-10 du 14 avril 1990 modifiée susvisée, de la société de garantie des dépôts bancaires chargée de la mise en œuvre et de la gestion du système visé à l'article 1er ci-dessus.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les Banques doivent souscrire au capital de la société de garantie de dépôts bancaires qui est réparti à parts égales entre elles.\nLes Banques veillent à préserver cette égalité même en cas de modification de capital dûment décidée par l'Assemblée Générale des Actionnaires dans les conditions et formes prévues par la législation en vigueur.\nLes modalités et les conditions de souscription visées aux alinéas précédents sont étendues au Trésor Public.",
+      "paragraphs": [
+        {
+          "text": "Les Banques doivent souscrire au capital de la société de garantie de dépôts bancaires qui est réparti à parts égales entre elles.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Les Banques veillent à préserver cette égalité même en cas de modification de capital dûment décidée par l'Assemblée Générale des Actionnaires dans les conditions et formes prévues par la législation en vigueur.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Les modalités et les conditions de souscription visées aux alinéas précédents sont étendues au Trésor Public.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les Banques sont tenus de verser à la société de garantie des dépôts bancaires, une prime annuelle calculée sur le montant global des dépôts en monnaie nationale enregistrés au 31 Décembre de chaque année.\nLe taux de cette prime est fixé annuellement par le Conseil de la Monnaie et du Crédit dans la limite de deux pour cent (2 %) prévue à l'alinéa 3 de l'article 170 de la Loi n°90-10 du 14 avril 1990 modifiée susvisée.\nEn raison de son caractère d'intérêt public, la garantie des dépôts bancaires ouvre droit au paiement, par le Trésor Public, à la société de garantie des dépôts bancaires, d'une prime équivalente à celle payée par l'ensemble des Banques.\nLa société de garantie des dépôts bancaires doit veiller au recouvrement des primes qui lui sont dues et de s'assurer du placement de ses ressources dans des actifs sûrs.",
+      "paragraphs": [
+        {
+          "text": "Les Banques sont tenus de verser à la société de garantie des dépôts bancaires, une prime annuelle calculée sur le montant global des dépôts en monnaie nationale enregistrés au 31 Décembre de chaque année.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le taux de cette prime est fixé annuellement par le Conseil de la Monnaie et du Crédit dans la limite de deux pour cent (2 %) prévue à l'alinéa 3 de l'article 170 de la Loi n°90-10 du 14 avril 1990 modifiée susvisée.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "En raison de son caractère d'intérêt public, la garantie des dépôts bancaires ouvre droit au paiement, par le Trésor Public, à la société de garantie des dépôts bancaires, d'une prime équivalente à celle payée par l'ensemble des Banques.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "La société de garantie des dépôts bancaires doit veiller au recouvrement des primes qui lui sont dues et de s'assurer du placement de ses ressources dans des actifs sûrs.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Le plafond d'indemnisation par déposant est fixé à six cents mille (600.000)\nDinars Algériens.\nLedit plafond s'applique à l'ensemble des dépôts d'un même déposant auprès d'une même Banque quels que soit le nombre de dépôts et la devise concernée, conformément à la notion de dépôt unique consacré par l'article 170 de la Loi n°90-10 du 14 avril 1990 modifiée susvisée.",
+      "paragraphs": [
+        {
+          "text": "Le plafond d'indemnisation par déposant est fixé à six cents mille (600.000)",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Dinars Algériens.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Ledit plafond s'applique à l'ensemble des dépôts d'un même déposant auprès d'une même Banque quels que soit le nombre de dépôts et la devise concernée, conformément à la notion de dépôt unique consacré par l'article 170 de la Loi n°90-10 du 14 avril 1990 modifiée susvisée.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Le plafond d'indemnisation visé à l'article 9 ci-dessus s'applique au solde entre le montant du dépôt unique et les crédits et autres sommes assimilées dus à la\nBanque par le titulaire du dépôt.\nDans le cas où le total des sommes dues par le déposant est supérieur au total de son dépôt, ce dernier continue à être redevable pour le solde dans les conditions prévues par la légalisation en vigueur.\nLorsque le montant du dépôt unique est supérieur aux crédits et autres sommes assimilées dus à la Banque par le déposant, celui-ci est indemnisé dans la limite du plafond prévu à l'article 9 ci-dessus.",
+      "paragraphs": [
+        {
+          "text": "Le plafond d'indemnisation visé à l'article 9 ci-dessus s'applique au solde entre le montant du dépôt unique et les crédits et autres sommes assimilées dus à la",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Banque par le titulaire du dépôt.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Dans le cas où le total des sommes dues par le déposant est supérieur au total de son dépôt, ce dernier continue à être redevable pour le solde dans les conditions prévues par la légalisation en vigueur.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Lorsque le montant du dépôt unique est supérieur aux crédits et autres sommes assimilées dus à la Banque par le déposant, celui-ci est indemnisé dans la limite du plafond prévu à l'article 9 ci-dessus.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Les Banques sont tenues de verser à la société de garantie des dépôts bancaires, une prime annuelle calculée sur le montant global des dépôts en monnaie nationale enregistrés au 31 décembre de chaque année.",
+      "paragraphs": [
+        {
+          "text": "Les Banques sont tenues de verser à la société de garantie des dépôts bancaires, une prime annuelle calculée sur le montant global des dépôts en monnaie nationale enregistrés au 31 décembre de chaque année.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Dans le cas d'un compte joint, le compte joint est réparti de façon égale entre les co-déposants, sauf stipulation particulière.\nChacun des co-déposants bénéficie de la garantie à concurrence du plafond fixé à l'article 9 ci-dessus.",
+      "paragraphs": [
+        {
+          "text": "Dans le cas d'un compte joint, le compte joint est réparti de façon égale entre les co-déposants, sauf stipulation particulière.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Chacun des co-déposants bénéficie de la garantie à concurrence du plafond fixé à l'article 9 ci-dessus.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Dans le cas où le déposant n'est pas l'ayant droit des sommes déposées sur le compte, c'est l'ayant droit qui bénéficie de la garantie à condition qu'il ait été identifié ou qu'il soit identifiable avant le constat de l'indisponibilité de dépôts.\nS'il existe plusieurs ayant droit, il faut tenir compte de la part revenant à chacun d'eux conformément aux dispositions légales ainsi que celles régissant la gestion des sommes déposées.",
+      "paragraphs": [
+        {
+          "text": "Dans le cas où le déposant n'est pas l'ayant droit des sommes déposées sur le compte, c'est l'ayant droit qui bénéficie de la garantie à condition qu'il ait été identifié ou qu'il soit identifiable avant le constat de l'indisponibilité de dépôts.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "S'il existe plusieurs ayant droit, il faut tenir compte de la part revenant à chacun d'eux conformément aux dispositions légales ainsi que celles régissant la gestion des sommes déposées.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "La mise en jeu de la garantie des dépôts bancaires ne peut intervenir qu'en cas de cessation de paiement d'une Banque.\nSauf en cas d'ouverture d'une procédure de règlement judiciaire ou de faillite, il appartient à la Commission Bancaire de déclarer que les dépôts auprès d'une Banque sont devenus indisponible, lorsque des dépôts échus et exigible n'ont pas été payés par la Banque pour des raisons liées à sa situation financière et que la Commission Bancaire estime que le remboursement est compromis.\nLa Commission Bancaire doit déclarer l'indisponibilité des dépôts au plus tard vingt et un\n(21) jours après avoir établi, pour la première fois, qu'un dépôt échu et exigible n'a pas été restitué par la Banque pour des raisons qui pourraient être liées à sa situation financière.\nElle notifie le constat d'indisponibilité des dépôts à la société de garantie des dépôts bancaires.",
+      "paragraphs": [
+        {
+          "text": "La mise en jeu de la garantie des dépôts bancaires ne peut intervenir qu'en cas de cessation de paiement d'une Banque.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Sauf en cas d'ouverture d'une procédure de règlement judiciaire ou de faillite, il appartient à la Commission Bancaire de déclarer que les dépôts auprès d'une Banque sont devenus indisponible, lorsque des dépôts échus et exigible n'ont pas été payés par la Banque pour des raisons liées à sa situation financière et que la Commission Bancaire estime que le remboursement est compromis.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "La Commission Bancaire doit déclarer l'indisponibilité des dépôts au plus tard vingt et un",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "(21) jours après avoir établi, pour la première fois, qu'un dépôt échu et exigible n'a pas été restitué par la Banque pour des raisons qui pourraient être liées à sa situation financière.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Elle notifie le constat d'indisponibilité des dépôts à la société de garantie des dépôts bancaires.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "La Banque informe, sans délai, par lettre recommandée chacun des déposants de l'indisponibilité de leurs dépôts.\nElle indique également, à chaque déposant, les démarches qu'il doit effectuer et les pièces justificatives qu'il doit fournir pour être indemnisé par la société de garantie des dépôts bancaires.",
+      "paragraphs": [
+        {
+          "text": "La Banque informe, sans délai, par lettre recommandée chacun des déposants de l'indisponibilité de leurs dépôts.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Elle indique également, à chaque déposant, les démarches qu'il doit effectuer et les pièces justificatives qu'il doit fournir pour être indemnisé par la société de garantie des dépôts bancaires.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 16",
+      "number": "16",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "La société de garantie des dépôts bancaires vérifie les créances des déposants entrant dans la catégorie des dépôts indisponibles et les paie dans un délai maximum de trois (3) mois à compter de la date à laquelle l'indisponibilité d dépôts a été déclarée par la Commission Bancaire ou, à défaut, de la date du jugement du tribunal territorialement compétent prononçant le règlement judiciaire ou la faillite de la Banque.\nCe délai peut être exceptionnellement renouvelé par la Commission Bancaire une seule fois.",
+      "paragraphs": [
+        {
+          "text": "La société de garantie des dépôts bancaires vérifie les créances des déposants entrant dans la catégorie des dépôts indisponibles et les paie dans un délai maximum de trois (3) mois à compter de la date à laquelle l'indisponibilité d dépôts a été déclarée par la Commission Bancaire ou, à défaut, de la date du jugement du tribunal territorialement compétent prononçant le règlement judiciaire ou la faillite de la Banque.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Ce délai peut être exceptionnellement renouvelé par la Commission Bancaire une seule fois.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 17",
+      "number": "17",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "L'indemnisation est effectuée en monnaie nationale.\nLes dépôts en devises sont convertis en monnaie nationale au cours en vigueur à la date à laquelle la Commission Bancaire a fait la déclaration de l'indisponibilité des dépôts ou, à défaut, à la date du jugement du tribunal territorialement compétent prononçant le règlement judiciaire ou la faillite de la Banque.",
+      "paragraphs": [
+        {
+          "text": "L'indemnisation est effectuée en monnaie nationale.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Les dépôts en devises sont convertis en monnaie nationale au cours en vigueur à la date à laquelle la Commission Bancaire a fait la déclaration de l'indisponibilité des dépôts ou, à défaut, à la date du jugement du tribunal territorialement compétent prononçant le règlement judiciaire ou la faillite de la Banque.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 18",
+      "number": "18",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Les Banques sont tenus de s'acquitter des obligations qui leur incombent notamment en matière de versement de leur prime.\nLa Commission Bancaire est informée par la société de garantie des dépôts bancaires de tout manquement auxdites obligations par l'une des Banques. Elle lui fournit également tous les renseignements lui permettant d'apprécier les manquements signalés et de prendre éventuellement des sanctions réglementaires.",
+      "paragraphs": [
+        {
+          "text": "Les Banques sont tenus de s'acquitter des obligations qui leur incombent notamment en matière de versement de leur prime.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "La Commission Bancaire est informée par la société de garantie des dépôts bancaires de tout manquement auxdites obligations par l'une des Banques. Elle lui fournit également tous les renseignements lui permettant d'apprécier les manquements signalés et de prendre éventuellement des sanctions réglementaires.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 19",
+      "number": "19",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Les Banques fournissent aux déposants, de même qu'à toute personne qui en fait la demande, toute information utile sur le système de garantie des dépôts bancaires, en particulier le montant, l'étendue de la couverture et les formalités à accomplir pour être indemnisé par la société de garantie des dépôts bancaires.",
+      "paragraphs": [
+        {
+          "text": "Les Banques fournissent aux déposants, de même qu'à toute personne qui en fait la demande, toute information utile sur le système de garantie des dépôts bancaires, en particulier le montant, l'étendue de la couverture et les formalités à accomplir pour être indemnisé par la société de garantie des dépôts bancaires.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 20",
+      "number": "20",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Les Banques affiliées aux organismes centraux qui garantissent la liquidité et la solvabilité de chacune des Banque affilées et qui les obligent à assurer l'information des déposants indiquée à l'article 19 ci-dessus, sont dispensées de la garantie des dépôts bancaires prévue par le présent Règlement.",
+      "paragraphs": [
+        {
+          "text": "Les Banques affiliées aux organismes centraux qui garantissent la liquidité et la solvabilité de chacune des Banque affilées et qui les obligent à assurer l'information des déposants indiquée à l'article 19 ci-dessus, sont dispensées de la garantie des dépôts bancaires prévue par le présent Règlement.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 21",
+      "number": "21",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Le présent règlement sera publié au Journal Officiel de la République\nAlgérienne Démocratique et Populaire.\nLe Gouverneur\nAbdelouahab KERAMANE",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement sera publié au Journal Officiel de la République",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Algérienne Démocratique et Populaire.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "incoherence_libelle_vs_document:numero"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.031
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-97-04.fr.txt"
+}

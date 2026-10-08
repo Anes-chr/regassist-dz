@@ -1,0 +1,344 @@
+{
+  "document_id": "INS-01-21.ar",
+  "work_id": "INS-01-21",
+  "title": "تعليمة رقم 01-2021 المؤرخة في 03 جانفي 2021، تعدل وتتمم التعليمة رقم 05-2020 المؤرخة في 6 أفريل 2020، المتضمنة الإجراءات الاستثنائية لتخفيف بعض الأحكام الاحترازية المطبقة على البنوك والمؤسسات المالية.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "01-2021",
+  "number_source": "libelle",
+  "date": "2021-01-03",
+  "date_raw": "المؤرخة في 03 جانفي 2021",
+  "date_source": "libelle",
+  "publication_date": "2023-03-02",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "instructions",
+  "subcategory": "المعايير الاحترازية",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d8%a8%d9%86%d9%83-2/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/03/01-21.pdf",
+  "format": "pdf",
+  "file_hash": "1c00de3bf47ae75aea6165e49579ef951c54ed720c9f4f33e16cfd9b9d63e187",
+  "file_size": 221298,
+  "raw_path": "raw/1c00de3bf47a__01-21.pdf",
+  "retrieved_at": "2026-10-05T13:29:16+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 1,
+  "url_hash": "8ceaab3bd927b5577dc755167f5ac7a4745b2ac2a40cde27cf804a6f498b3165",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d8%a8%d9%86%d9%83-2/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "author": "lynda benhaha",
+    "creator": "Microsoft® Word 2016",
+    "producer": "Microsoft® Word 2016",
+    "creationDate": "D:20230301104302+01'00'",
+    "modDate": "D:20230301104302+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 538,
+        "ocr_confidence": 86.46428571428571
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 2,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine"
+  ],
+  "title_document": "تعليمة رقم 2021-01 المؤرخة في 03 جانفي 2021 Jai‏ ونّتمَم التعليمة رقم 2020-05 المؤرخة في 6 أفريل 2020: المتضمنة الإجراءات الاستثنانية لتخفيف بعض الأحكام الاحترازية المطبقة على البنوك والمؤسسات المالية المادة الأولى: تهدف هذه التعليمة إلى تعديل وإتمام التعليمة رقم 2020-05 المؤرخة في 6 أفريل 2020« المتضمنة الإجراءات الاستثنائية لتخفيف بعض الأحكام الاحترازية المطبقة على البنوك والمؤسسات المالية. المادة 2: يتم تمديد تدابير التعليمة رقم 2020-05 المؤرخة في 6 أفريل 2020» المشار إليها «ei‏ إلى غاية 31 مارس 2021. المحافظ",
+  "alias_urls": [],
+  "text_hash": "cc73ec8ebac7b06066cc36865ce17cf24794e7a4a417f88aefba9a17303cd46b",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "05-2020",
+        "date": "2020-04-06",
+        "raw": "instruction n°05-2020 du 06 avril 2020"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2021 du 03 janvier 2021, modifiant et complétant l’instruction n°05-2020 du 06 avril 2020, portant mesures exceptionnelles d’allè",
+        "copied_from": "INS-01-21.fr"
+      },
+      "target_work_id": "INS-05-20"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "05-2020",
+        "date": "2020-04-06",
+        "raw": "instruction n°05-2020 du 06 avril 2020"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2021 du 03 janvier 2021, modifiant et complétant l’instruction n°05-2020 du 06 avril 2020, portant mesures exceptionnelles d’allè",
+        "copied_from": "INS-01-21.fr"
+      },
+      "target_work_id": "INS-05-20"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "05-2020",
+        "date": "2020-04-06",
+        "raw": "instruction n°05-2020 du 06 avril 2020"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et compléter l’instruction n°05-2020 du 06 avril 2020, portant allègement de certaines dispos",
+        "copied_from": "INS-01-21.fr"
+      },
+      "target_work_id": "INS-05-20"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "05-2020",
+        "date": "2020-04-06",
+        "raw": "instruction n°05-2020 du 06 avril 2020"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et compléter l’instruction n°05-2020 du 06 avril 2020, portant allègement de certaines dispos",
+        "copied_from": "INS-01-21.fr"
+      },
+      "target_work_id": "INS-05-20"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-05-20",
+      "reference": "instruction n°05-2020 du 06 avril 2020",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2021 du 03 janvier 2021, modifiant et complétant l’instruction n°05-2020 du 06 avril 2020, portant mesures exceptionnelles d’allè",
+        "copied_from": "INS-01-21.fr"
+      }
+    },
+    {
+      "work_id": "INS-05-20",
+      "reference": "instruction n°05-2020 du 06 avril 2020",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et compléter l’instruction n°05-2020 du 06 avril 2020, portant allègement de certaines dispos",
+        "copied_from": "INS-01-21.fr"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "INS-05-20",
+      "reference": "instruction n°05-2020 du 06 avril 2020",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2021 du 03 janvier 2021, modifiant et complétant l’instruction n°05-2020 du 06 avril 2020, portant mesures exceptionnelles d’allè",
+        "copied_from": "INS-01-21.fr"
+      }
+    },
+    {
+      "work_id": "INS-05-20",
+      "reference": "instruction n°05-2020 du 06 avril 2020",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et compléter l’instruction n°05-2020 du 06 avril 2020, portant allègement de certaines dispos",
+        "copied_from": "INS-01-21.fr"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-01-21.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "INS-05-20",
+      "reference": "instruction n°05-2020 du 06 avril 2020",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2021 du 03 janvier 2021, modifiant et complétant l’instruction n°05-2020 du 06 avril 2020, portant mesures exceptionnelles d’allè",
+        "copied_from": "INS-01-21.fr"
+      }
+    },
+    {
+      "work_id": "INS-05-20",
+      "reference": "instruction n°05-2020 du 06 avril 2020",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et compléter l’instruction n°05-2020 du 06 avril 2020, portant allègement de certaines dispos",
+        "copied_from": "INS-01-21.fr"
+      }
+    }
+  ],
+  "ocr_numeric_check": {
+    "units": 3,
+    "units_flagged": 0,
+    "units_compared_with_french": 2,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "VOS BEANK OF ALGERIA تعليمة رقم 2021-01 المؤرخة في 03 جانفي 2021 Jai‏ ونّتمَم التعليمة رقم 2020-05 المؤرخة في 6 أفريل 2020: المتضمنة الإجراءات الاستثنانية لتخفيف بعض الأحكام الاحترازية المطبقة على البنوك والمؤسسات المالية",
+      "paragraphs": [
+        {
+          "text": "VOS BEANK OF ALGERIA تعليمة رقم 2021-01 المؤرخة في 03 جانفي 2021 Jai‏ ونّتمَم التعليمة رقم 2020-05 المؤرخة في 6 أفريل 2020: المتضمنة الإجراءات الاستثنانية لتخفيف بعض الأحكام الاحترازية المطبقة على البنوك والمؤسسات المالية",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تهدف هذه التعليمة إلى تعديل وإتمام التعليمة رقم 2020-05 المؤرخة في 6 أفريل 2020« المتضمنة الإجراءات الاستثنائية لتخفيف بعض الأحكام الاحترازية المطبقة على البنوك والمؤسسات المالية.",
+      "paragraphs": [
+        {
+          "text": "تهدف هذه التعليمة إلى تعديل وإتمام التعليمة رقم 2020-05 المؤرخة في 6 أفريل 2020« المتضمنة الإجراءات الاستثنائية لتخفيف بعض الأحكام الاحترازية المطبقة على البنوك والمؤسسات المالية.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يتم تمديد تدابير التعليمة رقم 2020-05 المؤرخة في 6 أفريل 2020» المشار إليها «ei‏ إلى غاية 31 مارس 2021.\nالمحافظ",
+      "paragraphs": [
+        {
+          "text": "يتم تمديد تدابير التعليمة رقم 2020-05 المؤرخة في 6 أفريل 2020» المشار إليها «ei‏ إلى غاية 31 مارس 2021.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المحافظ",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.035,
+      "ocr_pages": [
+        1
+      ],
+      "ocr_mean_confidence": 86.5
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/INS-01-21.ar.txt"
+}

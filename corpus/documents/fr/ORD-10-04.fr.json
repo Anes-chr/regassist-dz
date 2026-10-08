@@ -1,0 +1,1319 @@
+{
+  "document_id": "ORD-10-04.fr",
+  "work_id": "ORD-10-04",
+  "title": "Ordonnance n°10-04 du 26 août 2010 modifiant et complétant l’ordonnance n°03-11 du 26 août 2003 relative à la monnaie et au crédit",
+  "document_type": "ordonnance",
+  "type_code": "ORD",
+  "type_source": "label",
+  "number": "10-04",
+  "number_source": "en-tête du document",
+  "date": "2010-08-26",
+  "date_raw": "N°10-04 DU 26 AOUT 2010",
+  "date_source": "en-tête du document",
+  "publication_date": "2022-03-30",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": null,
+  "issuer_note": "Émetteur non établi par la source (publié sur le site de la Banque d'Algérie).",
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "loi_monetaire_et_bancaire",
+  "subcategory": "Historique",
+  "source_url": "https://www.bank-of-algeria.dz/loi-monnaie-et-credit/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2022/03/ordonnance1004.pdf",
+  "format": "pdf",
+  "file_hash": "77b9e34792ce13e014e41264ed8f079a03b5b49de04430d37e6a306048122a99",
+  "file_size": 84014,
+  "raw_path": "raw/77b9e34792ce__ordonnance1004.pdf",
+  "retrieved_at": "2026-10-05T13:25:03+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 8,
+  "url_hash": "64b1431c9c9b4cb173dc38d627eeffa1287f77853626f5b5ca5b1b98651340b3",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/loi-monnaie-et-credit/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document14",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210204155947+01'00'",
+    "modDate": "D:20210204155947+01'00'"
+  },
+  "hijri_date_raw": "27 Joumada Ethania 1424",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 8,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2699,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 2775,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 2875,
+        "ocr_confidence": null
+      },
+      {
+        "page": 4,
+        "method": "pdf_text",
+        "chars": 3027,
+        "ocr_confidence": null
+      },
+      {
+        "page": 5,
+        "method": "pdf_text",
+        "chars": 3071,
+        "ocr_confidence": null
+      },
+      {
+        "page": 6,
+        "method": "pdf_text",
+        "chars": 2964,
+        "ocr_confidence": null
+      },
+      {
+        "page": 7,
+        "method": "pdf_text",
+        "chars": 2928,
+        "ocr_confidence": null
+      },
+      {
+        "page": 8,
+        "method": "pdf_text",
+        "chars": 915,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 15,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "ORDONNANCE N°10-04 DU 26 AOUT 2010 MODIFIANT ET COMPLETANT L’ORDONNANCE N° 03-11 DU AU 26 AOUT 2003 RELATIVE A LA MONNAIE ET AU CREDIT (J.O N°50 DU 1er SEPTEMBRE 2010)",
+  "alias_urls": [],
+  "text_hash": "31ebdf4a1be70c34463a3f09bf8a53b63dae4db02a66324aa4827ff7ae9440b4",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "ORD",
+        "number": "03-11",
+        "date": "2003-08-26",
+        "raw": "ordonnance n°03-11 du 26 août 2003"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Ordonnance n°10-04 du 26 août 2010 modifiant et complétant l’ordonnance n°03-11 du 26 août 2003 relative à la monnaie et au crédit"
+      },
+      "target_work_id": "ORD-03-11"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "ORD",
+        "number": "03-11",
+        "date": "2003-08-26",
+        "raw": "ordonnance n°03-11 du 26 août 2003"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Ordonnance n°10-04 du 26 août 2010 modifiant et complétant l’ordonnance n°03-11 du 26 août 2003 relative à la monnaie et au crédit"
+      },
+      "target_work_id": "ORD-03-11"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "ORD",
+        "number": "03-11",
+        "date": null,
+        "raw": "ordonnance n°03-11"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente ordonnance a pour objet de modifier et de compléter l’ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondan"
+      },
+      "target_work_id": "ORD-03-11"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "ORD",
+        "number": "03-11",
+        "date": null,
+        "raw": "ordonnance n°03-11"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente ordonnance a pour objet de modifier et de compléter l’ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondan"
+      },
+      "target_work_id": "ORD-03-11"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "ORD-03-11",
+      "reference": "ordonnance n°03-11 du 26 août 2003",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Ordonnance n°10-04 du 26 août 2010 modifiant et complétant l’ordonnance n°03-11 du 26 août 2003 relative à la monnaie et au crédit"
+      }
+    },
+    {
+      "work_id": "ORD-03-11",
+      "reference": "ordonnance n°03-11",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente ordonnance a pour objet de modifier et de compléter l’ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondan"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "ORD-03-11",
+      "reference": "ordonnance n°03-11 du 26 août 2003",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Ordonnance n°10-04 du 26 août 2010 modifiant et complétant l’ordonnance n°03-11 du 26 août 2003 relative à la monnaie et au crédit"
+      }
+    },
+    {
+      "work_id": "ORD-03-11",
+      "reference": "ordonnance n°03-11",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente ordonnance a pour objet de modifier et de compléter l’ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondan"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "ORD-10-04.ar"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "ORD-03-11",
+      "reference": "ordonnance n°03-11 du 26 août 2003",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Ordonnance n°10-04 du 26 août 2010 modifiant et complétant l’ordonnance n°03-11 du 26 août 2003 relative à la monnaie et au crédit"
+      }
+    },
+    {
+      "work_id": "ORD-03-11",
+      "reference": "ordonnance n°03-11",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente ordonnance a pour objet de modifier et de compléter l’ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondan"
+      }
+    }
+  ],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 4,
+      "page_end": 5,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "page_start": 5,
+      "page_end": 6,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "page_start": 6,
+      "page_end": 6,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "page_start": 6,
+      "page_end": 6,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "page_start": 7,
+      "page_end": 7,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "page_start": 7,
+      "page_end": 8,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "page_start": 8,
+      "page_end": 8,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "page_start": 8,
+      "page_end": 8,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "ORDONNANCE N°10-04 DU 26 AOUT 2010 MODIFIANT\nET COMPLETANT L’ORDONNANCE N° 03-11 DU AU 26 AOUT 2003\nRELATIVE A LA MONNAIE ET AU CREDIT (J.O N°50 DU 1er SEPTEMBRE 2010)\nLe Président de la République,\n- Vu la Constitution, notamment ses articles 122-15° et 126 ;\n- Vu l’ordonnance n° 03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, modifiée et complétée, relative à la monnaie et au crédit ;\n- Vu l'ordonnance n° 07-01 du 11 Safar 1428 correspondant au 1er mars 2007 relative aux incompatibilités et obligations particulières attachées à certains emplois et fonctions ;\n- Vu la loi n° 08-09 du 18 Safar 1429 correspondant au 25 février 2008 portant code de procédure civile et administrative ;\n- Vu l'ordonnance n° 09-01 du 29 Rajab 1430 correspondant au 22 juillet 2009 portant loi de finances complémentaire pour 2009 ;\nLe conseil des ministres entendu ;\nPromulgue l'ordonnance dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "ORDONNANCE N°10-04 DU 26 AOUT 2010 MODIFIANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET COMPLETANT L’ORDONNANCE N° 03-11 DU AU 26 AOUT 2003",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "RELATIVE A LA MONNAIE ET AU CREDIT (J.O N°50 DU 1er SEPTEMBRE 2010)",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Président de la République,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la Constitution, notamment ses articles 122-15° et 126 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’ordonnance n° 03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, modifiée et complétée, relative à la monnaie et au crédit ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l'ordonnance n° 07-01 du 11 Safar 1428 correspondant au 1er mars 2007 relative aux incompatibilités et obligations particulières attachées à certains emplois et fonctions ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la loi n° 08-09 du 18 Safar 1429 correspondant au 25 février 2008 portant code de procédure civile et administrative ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l'ordonnance n° 09-01 du 29 Rajab 1430 correspondant au 22 juillet 2009 portant loi de finances complémentaire pour 2009 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le conseil des ministres entendu ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue l'ordonnance dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente ordonnance a pour objet de modifier et de compléter l’ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003 relative à la monnaie et au crédit.",
+      "paragraphs": [
+        {
+          "text": "La présente ordonnance a pour objet de modifier et de compléter l’ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003 relative à la monnaie et au crédit.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les articles 9, 32, et 35 de l’ordonnance n03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, susvisée, sont modifiés et complétés comme suit :\n« Art. 9. - Etablissement national doté de la personnalité morale ainsi que de l’autonomie financière, la banque d’Algérie.......... (sans changement jusqu’à) ni au contrôle de la\nCour des comptes.\nElle n’est pas assujettie à l’inscription au registre de commerce ».\n« Art. 32. - Nonobstant les dispositions de l'article 13 de la loi n° 84-17 du 7 juillet 1984 relative aux lois de finances, la banque d’Algérie est exemptée, sur toutes les opérations liées à ses activités, de tous impôts, droits, taxes ou charges fiscales de quelque nature que ce soit.\n....................(le reste sans changement).........................».\n« Art. 35. - La banque d’Algérie a pour mission de veiller à la stabilité des prix en tant qu’objectif de la politique monétaire, de créer et de maintenir, dans les domaines de la monnaie, du crédit et des changes, les conditions les plus favorables à un développement soutenu de l’économie, tout en veillant à la stabilité monétaire et financière.\nA cet effet, elle est chargée de régler la circulation monétaire, de diriger et de contrôler, par tous les moyens appropriés, la distribution du crédit, de réguler la liquidité, de veiller à la bonne gestion des engagements financiers à l’égard de l’étranger, de réguler le marché des changes et de s’assurer de la sécurité et de la solidité du système bancaire ».",
+      "paragraphs": [
+        {
+          "text": "Les articles 9, 32, et 35 de l’ordonnance n03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, susvisée, sont modifiés et complétés comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "« Art. 9. - Etablissement national doté de la personnalité morale ainsi que de l’autonomie financière, la banque d’Algérie.......... (sans changement jusqu’à) ni au contrôle de la",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Cour des comptes.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Elle n’est pas assujettie à l’inscription au registre de commerce ».",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "« Art. 32. - Nonobstant les dispositions de l'article 13 de la loi n° 84-17 du 7 juillet 1984 relative aux lois de finances, la banque d’Algérie est exemptée, sur toutes les opérations liées à ses activités, de tous impôts, droits, taxes ou charges fiscales de quelque nature que ce soit.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "....................(le reste sans changement).........................».",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "« Art. 35. - La banque d’Algérie a pour mission de veiller à la stabilité des prix en tant qu’objectif de la politique monétaire, de créer et de maintenir, dans les domaines de la monnaie, du crédit et des changes, les conditions les plus favorables à un développement soutenu de l’économie, tout en veillant à la stabilité monétaire et financière.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "A cet effet, elle est chargée de régler la circulation monétaire, de diriger et de contrôler, par tous les moyens appropriés, la distribution du crédit, de réguler la liquidité, de veiller à la bonne gestion des engagements financiers à l’égard de l’étranger, de réguler le marché des changes et de s’assurer de la sécurité et de la solidité du système bancaire ».",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "L’ordonnance n° 03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, susvisée, est complétée par un article 36 bis, rédigé comme suit :\n« Art. 36 bis. - La banque d’Algérie établit la balance des paiements et présente la position financière extérieure de l’Algérie. Dans ce cadre, elle peut demander aux banques et établissements financiers ainsi qu’aux administrations financières et à toute personne concernée de lui fournir toutes statistiques et informations qu’elle juge utiles ».",
+      "paragraphs": [
+        {
+          "text": "L’ordonnance n° 03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, susvisée, est complétée par un article 36 bis, rédigé comme suit :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "« Art. 36 bis. - La banque d’Algérie établit la balance des paiements et présente la position financière extérieure de l’Algérie. Dans ce cadre, elle peut demander aux banques et établissements financiers ainsi qu’aux administrations financières et à toute personne concernée de lui fournir toutes statistiques et informations qu’elle juge utiles ».",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les articles 52 et 56 de l’ordonnance n° 03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, susvisée, sont modifiés et complétés comme suit :\n« Art. 52. - Chaque banque opérant en Algérie doit entretenir avec la banque d’Algérie un compte courant créditeur pour les besoins des règlements au titre des systèmes de paiement ».\n« Art. 56. - La banque d’Algérie veille au bon fonctionnement, à l’efficience et à la sécurité des systèmes de paiement.\nLes règles applicables aux systèmes de paiement sont édictées par voie de règlements du conseil de la monnaie et du crédit.\nLa banque d’Algérie assure la surveillance des systèmes de paiement ».",
+      "paragraphs": [
+        {
+          "text": "Les articles 52 et 56 de l’ordonnance n° 03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, susvisée, sont modifiés et complétés comme suit :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "« Art. 52. - Chaque banque opérant en Algérie doit entretenir avec la banque d’Algérie un compte courant créditeur pour les besoins des règlements au titre des systèmes de paiement ».",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "« Art. 56. - La banque d’Algérie veille au bon fonctionnement, à l’efficience et à la sécurité des systèmes de paiement.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Les règles applicables aux systèmes de paiement sont édictées par voie de règlements du conseil de la monnaie et du crédit.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "La banque d’Algérie assure la surveillance des systèmes de paiement ».",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "L’ordonnance n° 03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, susvisée, est complétée par un article 56 bis rédigé comme suit :\n« Art. 56 bis. - La banque d’Algérie s’assure de la sécurité des moyens de paiement, autres que la monnaie fiduciaire ainsi que de la production et de la pertinence des normes applicables en la matière.\nElle peut formuler un avis négatif quant à l’introduction de tout moyen de paiement, particulièrement s’il présente des garanties de sécurité insuffisantes. Comme elle peut demander à son émetteur de prendre toutes mesures destinées à y remédier.\nPour l’exercice de ces missions, la banque d’Algérie se fait communiquer, par toute personne concernée, les informations utiles concernant les moyens de paiement et les dispositifs techniques qui leur sont associés ».",
+      "paragraphs": [
+        {
+          "text": "L’ordonnance n° 03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, susvisée, est complétée par un article 56 bis rédigé comme suit :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "« Art. 56 bis. - La banque d’Algérie s’assure de la sécurité des moyens de paiement, autres que la monnaie fiduciaire ainsi que de la production et de la pertinence des normes applicables en la matière.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Elle peut formuler un avis négatif quant à l’introduction de tout moyen de paiement, particulièrement s’il présente des garanties de sécurité insuffisantes. Comme elle peut demander à son émetteur de prendre toutes mesures destinées à y remédier.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Pour l’exercice de ces missions, la banque d’Algérie se fait communiquer, par toute personne concernée, les informations utiles concernant les moyens de paiement et les dispositifs techniques qui leur sont associés ».",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 4,
+      "text": "Les articles 57, 62, 72, 80, 83, 90, 91 et 94 de l’ordonnance n°03-11 du 27\nJoumada Ethania 1424 correspondant au 26 août 2003, susvisée, sont modifiés et complétés comme suit :\n« Art. 57. - Les frais liés au fonctionnement des systèmes de paiement sont supportés par les participants.\nLa tarification fixée par ces participants à l'égard de leur clientèle, dans ce cadre, doit être encadrée par la banque d’Algérie.\nLes modalités d'application du présent alinéa sont précisées par règlement du conseil de la monnaie et du crédit ».\n« Art. 62. Le conseil est investi des pouvoirs en tant qu’autorité monétaire, dans les domaines concernant :\n............... (sans changement jusqu’à) :\nd) les nouveaux produits d'épargne et de crédit ;\ne) la production de normes, fonctionnement et sécurité des systèmes de paiement ;\n.................... (sans changement jusqu’à) n) la gestion des réserves de change ;\no) les règles de bonne conduite et de déontologie applicables aux banques et établissements financiers.\n« Art. 72. - Les banques et établissements financiers peuvent effectuer toutes les opérations connexes ci-après :...................(sans changement jusqu’à) : conseil, gestion et ingénierie financières et, d’une manière générale, tous services destinés à faciliter la création et le développement d’entreprises ou d’équipements en respectant les dispositions légales en la matière.\nCelles-ci ne doivent pas excéder les limites fixées par le conseil de la monnaie et du crédit ».\n« Art. 80. - Sans préjudice des conditions fixées par le conseil, par voie de règlement, à leurs personnels d’encadrement................ (sans changement jusqu’à) :\ni) pour toute infraction liée au trafic de drogue, à la corruption, au blanchiment d’argent et au terrorisme.\n....................... (le reste sans changement.......................».\n« Art. 83. - (sans changement).\nLes participations étrangères dans les banques et établissements financiers de droit algérien ne sont autorisées que dans le cadre d’un partenariat dont l’actionnariat national résident représente 51% au moins du capital. Par actionnariat national, il peut être entendu l’addition de plusieurs partenaires.\nEn outre, l’Etat détient une action spécifique dans le capital des banques et établissements financiers à capitaux privés en vertu de laquelle il est représenté, sans droit de vote, au sein des organes sociaux.\nLes modalités d’application de la présente disposition sont précisées par voie réglementaire ».\n« Art. 90. - ........ (sans changement)..............................\n............................. (sans changement)..............................\nLes deux personnes désignées doivent occuper les fonctions les plus élevées dans la hiérarchie et doivent avoir le statut de résident ».\n« Art. 91. - Pour obtenir l’autorisation prévue à l’article 82 ou à l’article 84 ci-dessus, les requérants soumettent le programme d’activités ainsi que les moyens financiers et techniques qu’ils entendent mettre en œuvre. Ils doivent, en outre, justifier de la qualité des apporteurs de fonds et, le cas échéant, de leurs garants.\nEn tout état de cause, l’origine des fonds doit être justifiée.\nLes requérants remettent la liste des principaux dirigeants et, selon le cas, le projet des statuts de la société de droit algérien ou ceux de la société étrangère, ainsi que l’organisation interne. Ils attestent de l’honorabilité et de la qualification des dirigeants et de leur expérience en matière bancaire.\nIl est également tenu compte de l’aptitude de l’établissement requérant à réaliser ses objectifs de développement dans des conditions compatibles avec le bon fonctionnement du système bancaire, tout en assurant à la clientèle un service de qualité ».\n« Art. 94. - Les modifications des statuts des banques et établissements financiers qui ne portent pas sur l’objet, le capital ou l’actionnariat doivent être autorisées préalablement par le gouverneur.\nToute cession d’actions ou titres assimilés d'une banque ou d’un établissement financier doit être autorisée préalablement par le gouverneur dans les conditions prévues par un règlement pris par le conseil.\nToute cession d’actions ou de titres assimilés qui n’est pas réalisée sur le territoire national et conformément à la législation et à la réglementation en vigueur est nulle et de nul effet.\nLes actionnaires des banques et établissements financiers ne sont pas autorisés à donner en nantissement leurs actions ou titres assimilés.\nL’État dispose d’un droit de préemption sur toute cession d’actions ou de titres assimilés d’une banque ou d’un établissement financier.\nLes modalités d’application des deux alinéas précédents sont précisées, en tant que de besoin, par voie réglementaire.\n....................(le reste sans changement).........................».",
+      "paragraphs": [
+        {
+          "text": "Les articles 57, 62, 72, 80, 83, 90, 91 et 94 de l’ordonnance n°03-11 du 27",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Joumada Ethania 1424 correspondant au 26 août 2003, susvisée, sont modifiés et complétés comme suit :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "« Art. 57. - Les frais liés au fonctionnement des systèmes de paiement sont supportés par les participants.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "La tarification fixée par ces participants à l'égard de leur clientèle, dans ce cadre, doit être encadrée par la banque d’Algérie.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Les modalités d'application du présent alinéa sont précisées par règlement du conseil de la monnaie et du crédit ».",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "« Art. 62. Le conseil est investi des pouvoirs en tant qu’autorité monétaire, dans les domaines concernant :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "............... (sans changement jusqu’à) :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "d) les nouveaux produits d'épargne et de crédit ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "e) la production de normes, fonctionnement et sécurité des systèmes de paiement ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": ".................... (sans changement jusqu’à) n) la gestion des réserves de change ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "o) les règles de bonne conduite et de déontologie applicables aux banques et établissements financiers.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "« Art. 72. - Les banques et établissements financiers peuvent effectuer toutes les opérations connexes ci-après :...................(sans changement jusqu’à) : conseil, gestion et ingénierie financières et, d’une manière générale, tous services destinés à faciliter la création et le développement d’entreprises ou d’équipements en respectant les dispositions légales en la matière.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Celles-ci ne doivent pas excéder les limites fixées par le conseil de la monnaie et du crédit ».",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "« Art. 80. - Sans préjudice des conditions fixées par le conseil, par voie de règlement, à leurs personnels d’encadrement................ (sans changement jusqu’à) :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "i) pour toute infraction liée au trafic de drogue, à la corruption, au blanchiment d’argent et au terrorisme.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "....................... (le reste sans changement.......................».",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "« Art. 83. - (sans changement).",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Les participations étrangères dans les banques et établissements financiers de droit algérien ne sont autorisées que dans le cadre d’un partenariat dont l’actionnariat national résident représente 51% au moins du capital. Par actionnariat national, il peut être entendu l’addition de plusieurs partenaires.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "En outre, l’Etat détient une action spécifique dans le capital des banques et établissements financiers à capitaux privés en vertu de laquelle il est représenté, sans droit de vote, au sein des organes sociaux.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Les modalités d’application de la présente disposition sont précisées par voie réglementaire ».",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "« Art. 90. - ........ (sans changement)..............................",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "............................. (sans changement)..............................",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Les deux personnes désignées doivent occuper les fonctions les plus élevées dans la hiérarchie et doivent avoir le statut de résident ».",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "« Art. 91. - Pour obtenir l’autorisation prévue à l’article 82 ou à l’article 84 ci-dessus, les requérants soumettent le programme d’activités ainsi que les moyens financiers et techniques qu’ils entendent mettre en œuvre. Ils doivent, en outre, justifier de la qualité des apporteurs de fonds et, le cas échéant, de leurs garants.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "En tout état de cause, l’origine des fonds doit être justifiée.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Les requérants remettent la liste des principaux dirigeants et, selon le cas, le projet des statuts de la société de droit algérien ou ceux de la société étrangère, ainsi que l’organisation interne. Ils attestent de l’honorabilité et de la qualification des dirigeants et de leur expérience en matière bancaire.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Il est également tenu compte de l’aptitude de l’établissement requérant à réaliser ses objectifs de développement dans des conditions compatibles avec le bon fonctionnement du système bancaire, tout en assurant à la clientèle un service de qualité ».",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "« Art. 94. - Les modifications des statuts des banques et établissements financiers qui ne portent pas sur l’objet, le capital ou l’actionnariat doivent être autorisées préalablement par le gouverneur.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Toute cession d’actions ou titres assimilés d'une banque ou d’un établissement financier doit être autorisée préalablement par le gouverneur dans les conditions prévues par un règlement pris par le conseil.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Toute cession d’actions ou de titres assimilés qui n’est pas réalisée sur le territoire national et conformément à la législation et à la réglementation en vigueur est nulle et de nul effet.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Les actionnaires des banques et établissements financiers ne sont pas autorisés à donner en nantissement leurs actions ou titres assimilés.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "L’État dispose d’un droit de préemption sur toute cession d’actions ou de titres assimilés d’une banque ou d’un établissement financier.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Les modalités d’application des deux alinéas précédents sont précisées, en tant que de besoin, par voie réglementaire.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "....................(le reste sans changement).........................».",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "L’ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, susvisée, est complétée par les articles 97 bis et 97 ter rédigés comme suit :\n« Art. 97 bis. - Les banques et établissements financiers sont tenus, dans les conditions définies par règlement pris par le conseil, de mettre en place un dispositif de contrôle interne efficace qui vise à assurer, notamment :\n- la maîtrise de leurs activités et l’utilisation efficiente de leurs ressources ;\n- le bon fonctionnement des processus internes, particulièrement ceux concourant à la sauvegarde de leurs actifs et garantissant la transparence et la traçabilité des opérations bancaires ;\n- la fiabilité des informations financières ;\n- la prise en compte de manière appropriée de l’ensemble des risques, y compris les risques opérationnels ».\n« Art. 97 ter. - Les banques et établissements financiers sont tenus, dans les conditions définies par règlement pris par le conseil, de mettre en place un dispositif de contrôle de conformité efficace qui vise à s’assurer :\n- de la conformité aux lois et règlements ;\n- du respect des procédures.\nLe non-respect des obligations instituées en vertu des articles 97, 97 bis et 97 ter entraîne l’application de la procédure prévue à l’article 114 de la présente ordonnance ».",
+      "paragraphs": [
+        {
+          "text": "L’ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, susvisée, est complétée par les articles 97 bis et 97 ter rédigés comme suit :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "« Art. 97 bis. - Les banques et établissements financiers sont tenus, dans les conditions définies par règlement pris par le conseil, de mettre en place un dispositif de contrôle interne efficace qui vise à assurer, notamment :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- la maîtrise de leurs activités et l’utilisation efficiente de leurs ressources ;",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- le bon fonctionnement des processus internes, particulièrement ceux concourant à la sauvegarde de leurs actifs et garantissant la transparence et la traçabilité des opérations bancaires ;",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- la fiabilité des informations financières ;",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- la prise en compte de manière appropriée de l’ensemble des risques, y compris les risques opérationnels ».",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "« Art. 97 ter. - Les banques et établissements financiers sont tenus, dans les conditions définies par règlement pris par le conseil, de mettre en place un dispositif de contrôle de conformité efficace qui vise à s’assurer :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- de la conformité aux lois et règlements ;",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- du respect des procédures.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Le non-respect des obligations instituées en vertu des articles 97, 97 bis et 97 ter entraîne l’application de la procédure prévue à l’article 114 de la présente ordonnance ».",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 5,
+      "text": "Les articles 98, 100, 102, 106 de l’ordonnance n° 03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, susvisée, sont modifiés et complétés comme suit :\n« Art. 98. - La banque d’Algérie organise et gère une centrale des risques entreprises, une centrale des risques des ménages et une centrale des impayés.\nLa centrale des risques est un service de centralisation des risques chargé de recueillir, auprès de chaque banque et de chaque établissement financier, notamment, le nom des bénéficiaires de crédits, la nature et le plafond des crédits accordés, le montant des utilisations, le montant des crédits non remboursés ainsi que les garanties prises pour chaque crédit.\nLes banques et établissements financiers sont tenus d’adhérer aux centrales des risques.\nIls doivent leur fournir les informations visées à l’alinéa 1er du présent article.\nLa banque d’Algérie communique, à chaque banque et établissement financier, sur demande, les données recueillies concernant leur clientèle.\nLes renseignements communiqués par les centrales des risques aux banques et établissements financiers ne peuvent être utilisés que dans le cadre de l’octroi ou la gestion des crédits. Ces renseignements ne peuvent, en aucun cas, être utilisés à d’autres fins, notamment de prospection commerciale ou de marketing.\nLe conseil établit, conformément à l’article 62 de la présente ordonnance, le règlement organisant le fonctionnement des centrales des risques et leur financement par les banques et établissements financiers qui en supportent les seuls coûts directs.\nLa centrale des impayés est régie par les textes réglementaires et elle est connectée aux systèmes de paiement supervisés par la banque d’Algérie ».\n« Art. 100. - Chaque banque ou établissement financier, de même que toute succursale de banque ou établissement financier étranger, doit désigner, après avis de la commission bancaire, sur la base de critères qu’elle fixe, au moins deux (2)\ncommissaires aux comptes inscrits au tableau de l’ordre des experts comptables et commissaires aux comptes ».\n« Art. 102. - Les commissaires aux comptes des banques et établissements financiers sont soumis au contrôle de la commission bancaire .................. (sans changement jusqu’à) l’établissement financier qu’ils contrôlent.\nEn matière disciplinaire, la procédure prévue à l’article 114 bis s’applique ».\n« Art. 106. - La commission bancaire est composée :\n- du gouverneur, président ;\n- de trois (3) membres choisis en raison de leur compétence en matière bancaire, financière et comptable ;\n- de deux (2) magistrats détachés pour l’un de la Cour suprême, choisi par le premier président de cette Cour et pour l’autre du conseil d’État choisi par le président de ce conseil, après avis du Conseil supérieur de la magistrature ;\n- d’un représentant de la Cour des Comptes choisi par le président de cette Cour parmi les premiers conseillers ;\n- d’un représentant du ministre chargé des finances.\n....................(le reste sans changement).........................»",
+      "paragraphs": [
+        {
+          "text": "Les articles 98, 100, 102, 106 de l’ordonnance n° 03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, susvisée, sont modifiés et complétés comme suit :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "« Art. 98. - La banque d’Algérie organise et gère une centrale des risques entreprises, une centrale des risques des ménages et une centrale des impayés.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "La centrale des risques est un service de centralisation des risques chargé de recueillir, auprès de chaque banque et de chaque établissement financier, notamment, le nom des bénéficiaires de crédits, la nature et le plafond des crédits accordés, le montant des utilisations, le montant des crédits non remboursés ainsi que les garanties prises pour chaque crédit.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Les banques et établissements financiers sont tenus d’adhérer aux centrales des risques.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Ils doivent leur fournir les informations visées à l’alinéa 1er du présent article.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "La banque d’Algérie communique, à chaque banque et établissement financier, sur demande, les données recueillies concernant leur clientèle.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Les renseignements communiqués par les centrales des risques aux banques et établissements financiers ne peuvent être utilisés que dans le cadre de l’octroi ou la gestion des crédits. Ces renseignements ne peuvent, en aucun cas, être utilisés à d’autres fins, notamment de prospection commerciale ou de marketing.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Le conseil établit, conformément à l’article 62 de la présente ordonnance, le règlement organisant le fonctionnement des centrales des risques et leur financement par les banques et établissements financiers qui en supportent les seuls coûts directs.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "La centrale des impayés est régie par les textes réglementaires et elle est connectée aux systèmes de paiement supervisés par la banque d’Algérie ».",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "« Art. 100. - Chaque banque ou établissement financier, de même que toute succursale de banque ou établissement financier étranger, doit désigner, après avis de la commission bancaire, sur la base de critères qu’elle fixe, au moins deux (2)",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "commissaires aux comptes inscrits au tableau de l’ordre des experts comptables et commissaires aux comptes ».",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "« Art. 102. - Les commissaires aux comptes des banques et établissements financiers sont soumis au contrôle de la commission bancaire .................. (sans changement jusqu’à) l’établissement financier qu’ils contrôlent.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "En matière disciplinaire, la procédure prévue à l’article 114 bis s’applique ».",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "« Art. 106. - La commission bancaire est composée :",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- du gouverneur, président ;",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- de trois (3) membres choisis en raison de leur compétence en matière bancaire, financière et comptable ;",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- de deux (2) magistrats détachés pour l’un de la Cour suprême, choisi par le premier président de cette Cour et pour l’autre du conseil d’État choisi par le président de ce conseil, après avis du Conseil supérieur de la magistrature ;",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- d’un représentant de la Cour des Comptes choisi par le président de cette Cour parmi les premiers conseillers ;",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- d’un représentant du ministre chargé des finances.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "....................(le reste sans changement).........................»",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 6,
+      "text": "L’ordonnance n° 03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, susvisée, est complétée par l’article 106 bis rédigé comme suit :\n« Art. 106 bis. - La rétribution des membres de la commission est fixée par décret. Elle est à la charge de la banque d’Algérie.\nA la fin de l’exercice de leur mandat, les membres de la commission bancaire, magistrats ou fonctionnaires, rejoignent leurs administrations d’origine.\nA la fin de l’exercice de leur mandat par mise à la retraite ou décès, les membres de la commission bancaire ou éventuellement leurs héritiers reçoivent une indemnité égale au traitement de deux (2) ans qui est à la charge de la banque d’Algérie et ce, à l’exclusion de tout autre montant versé par celle-ci. Cette mesure est également appliquée aux membres de la commission bancaire qui, sauf cas de révocation pour cause de faute lourde, n’intègrent aucun emploi rémunéré par l’Etat.\nDurant une période de deux(2) ans après la fin de leur mandat, les membres de la commission ne peuvent ni gérer ni entrer au service d’un établissement soumis à l’autorité ou au contrôle de la commission, ou d’une société dominée par un tel établissement, ni servir de mandataires ou de conseillers à de tels établissements ou sociétés ».",
+      "paragraphs": [
+        {
+          "text": "L’ordonnance n° 03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, susvisée, est complétée par l’article 106 bis rédigé comme suit :",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "« Art. 106 bis. - La rétribution des membres de la commission est fixée par décret. Elle est à la charge de la banque d’Algérie.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "A la fin de l’exercice de leur mandat, les membres de la commission bancaire, magistrats ou fonctionnaires, rejoignent leurs administrations d’origine.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "A la fin de l’exercice de leur mandat par mise à la retraite ou décès, les membres de la commission bancaire ou éventuellement leurs héritiers reçoivent une indemnité égale au traitement de deux (2) ans qui est à la charge de la banque d’Algérie et ce, à l’exclusion de tout autre montant versé par celle-ci. Cette mesure est également appliquée aux membres de la commission bancaire qui, sauf cas de révocation pour cause de faute lourde, n’intègrent aucun emploi rémunéré par l’Etat.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Durant une période de deux(2) ans après la fin de leur mandat, les membres de la commission ne peuvent ni gérer ni entrer au service d’un établissement soumis à l’autorité ou au contrôle de la commission, ou d’une société dominée par un tel établissement, ni servir de mandataires ou de conseillers à de tels établissements ou sociétés ».",
+          "page_start": 6,
+          "page_end": 6
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 6,
+      "page_end": 6,
+      "text": "L’article 107 de l’ordonnance n° 03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, susvisée, est modifié et complété comme suit :\n« Art. 107. - Les décisions de la commission bancaire sont prises à la majorité. En cas d’égalité des voix, celle du président est prépondérante.\nSeules les décisions de la commission en matière de désignation d’administrateur provisoire ou de liquidateur et de sanctions disciplinaires sont susceptibles d’un recours juridictionnel.\nSous peine de forclusion, le recours doit être présenté dans un délai de soixante (60)\njours à dater de la notification.\nLa notification des décisions a lieu par acte extrajudiciaire ou conformément au code de procédure civile et administrative.\nLes recours sont de la compétence du Conseil d’Etat. Ils ne sont pas suspensifs d’exécution ».",
+      "paragraphs": [
+        {
+          "text": "L’article 107 de l’ordonnance n° 03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, susvisée, est modifié et complété comme suit :",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "« Art. 107. - Les décisions de la commission bancaire sont prises à la majorité. En cas d’égalité des voix, celle du président est prépondérante.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Seules les décisions de la commission en matière de désignation d’administrateur provisoire ou de liquidateur et de sanctions disciplinaires sont susceptibles d’un recours juridictionnel.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Sous peine de forclusion, le recours doit être présenté dans un délai de soixante (60)",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "jours à dater de la notification.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "La notification des décisions a lieu par acte extrajudiciaire ou conformément au code de procédure civile et administrative.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Les recours sont de la compétence du Conseil d’Etat. Ils ne sont pas suspensifs d’exécution ».",
+          "page_start": 6,
+          "page_end": 6
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 6,
+      "page_end": 6,
+      "text": "L’ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, susvisée, est complétée par les articles 108 bis et 114 bis rédigés comme suit :\n« Art. 108 bis. - La banque d’Algérie peut diligenter toute opération d’investigation, en cas d’urgence. Elle tient informée la commission des résultats de ces investigations ».\n« Art. 114 bis. - Lorsque la commission bancaire statue, elle porte à la connaissance de l’entité concernée, par acte extrajudiciaire ou tout autre moyen adressé à son représentant légal, les faits qui lui sont reprochés.\nElle informe également le représentant légal de l’entité concernée qu’il peut prendre connaissance, au siège de la commission, des pièces tendant à établir les infractions constatées.\nII doit adresser ses observations au président de la commission dans un délai maximum de huit (8) jours à compter de la réception de la lettre.\nLe représentant légal de l’entité concernée est convoqué dans les mêmes formes que précédemment pour être entendu par la commission. II peut se faire assister par un conseil ».",
+      "paragraphs": [
+        {
+          "text": "L’ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, susvisée, est complétée par les articles 108 bis et 114 bis rédigés comme suit :",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "« Art. 108 bis. - La banque d’Algérie peut diligenter toute opération d’investigation, en cas d’urgence. Elle tient informée la commission des résultats de ces investigations ».",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "« Art. 114 bis. - Lorsque la commission bancaire statue, elle porte à la connaissance de l’entité concernée, par acte extrajudiciaire ou tout autre moyen adressé à son représentant légal, les faits qui lui sont reprochés.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Elle informe également le représentant légal de l’entité concernée qu’il peut prendre connaissance, au siège de la commission, des pièces tendant à établir les infractions constatées.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "II doit adresser ses observations au président de la commission dans un délai maximum de huit (8) jours à compter de la réception de la lettre.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Le représentant légal de l’entité concernée est convoqué dans les mêmes formes que précédemment pour être entendu par la commission. II peut se faire assister par un conseil ».",
+          "page_start": 6,
+          "page_end": 6
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 7,
+      "page_end": 7,
+      "text": "L’article 115 de l’ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, susvisée, est modifié et complété comme suit :\n« Art. 115. - Toute banque ou tout établissement financier de droit algérien dont le retrait d’agrément a été prononcé entre en liquidation.\nEntre aussi en liquidation la succursale en Algérie de banque ou d’établissement financier étranger dont le retrait d’agrément a été prononcé.\nLa commission nomme un liquidateur auquel sont transférés tous les pouvoirs d’administration, de direction et de représentation.\nPendant la durée de sa liquidation, l’établissement financier ou la banque :\n- ne peut effectuer que les opérations strictement nécessaires à l’apurement de la situation ;\n- doit mentionner qu’il (elle) est en liquidation ;\n- demeure soumis(e) au contrôle de la commission.",
+      "paragraphs": [
+        {
+          "text": "L’article 115 de l’ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, susvisée, est modifié et complété comme suit :",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "« Art. 115. - Toute banque ou tout établissement financier de droit algérien dont le retrait d’agrément a été prononcé entre en liquidation.",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Entre aussi en liquidation la succursale en Algérie de banque ou d’établissement financier étranger dont le retrait d’agrément a été prononcé.",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "La commission nomme un liquidateur auquel sont transférés tous les pouvoirs d’administration, de direction et de représentation.",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Pendant la durée de sa liquidation, l’établissement financier ou la banque :",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "- ne peut effectuer que les opérations strictement nécessaires à l’apurement de la situation ;",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "- doit mentionner qu’il (elle) est en liquidation ;",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "- demeure soumis(e) au contrôle de la commission.",
+          "page_start": 7,
+          "page_end": 7
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 7,
+      "page_end": 8,
+      "text": "L’ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, susvisée, est complétée par les articles 115 bis, 116 bis, 119 bis, 119 ter et 120 bis rédigés comme suit :\n« Art. 115 bis. - La commission peut mettre en liquidation et nommer un liquidateur pour toute entité qui exerce irrégulièrement les opérations réservées aux banques et aux établissements financiers ou qui enfreigne une des interdictions de l’article 81 de la présente ordonnance.\n« Art. 116 bis. - Le président de la commission adresse, annuellement, au Président de la\nRépublique, un rapport de la commission bancaire sur le contrôle des banques et établissements financiers ».\n« Art. 119 bis. - Nonobstant les cas d’interdiction de chéquier et d’interdiction de banque, toute personne qui s’est vue refuser l’ouverture d’un compte de dépôt par les banques de la place et qui, de ce fait, ne dispose d’aucun compte, peut demander à la banque d’Algérie de lui désigner une banque auprès de laquelle elle pourra ouvrir un tel compte.\nLa banque peut limiter les services liés à l’ouverture du compte aux seules opérations de caisse ».\n« Art. 119 ter. - Sans préjudice des dispositions de l’article 119 bis ci-dessus, les banques sont tenues de mettre, à la disposition de leurs clients, les moyens et instruments de paiement appropriés dans des délais raisonnables.\nElles informent, de façon périodique, leurs clients de leur situation vis-à-vis de la banque et doivent tenir à leur disposition toute information utile relative aux conditions de banque.\nLes offres de crédit doivent satisfaire à l’exigence de transparence et indiquer clairement toutes les conditions s’y rapportant.\nL’engagement souscrit par un particulier est susceptible d’être dénoncé dans un délai de huit (8) jours à compter de la date de signature du contrat ».\n« Art. 120 bis. - Les banques et établissements financiers sont tenus, dans le cadre de la réalisation de leur objet social, au strict respect des règles de bonne conduite\nSous peine des sanctions prévues à l’article 114 ci-dessus, les dirigeants de toute banque ou établissement financier doivent veiller à la conformité de l’action de leur établissement, à l’éthique et aux règles déontologiques de la profession ».",
+      "paragraphs": [
+        {
+          "text": "L’ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, susvisée, est complétée par les articles 115 bis, 116 bis, 119 bis, 119 ter et 120 bis rédigés comme suit :",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "« Art. 115 bis. - La commission peut mettre en liquidation et nommer un liquidateur pour toute entité qui exerce irrégulièrement les opérations réservées aux banques et aux établissements financiers ou qui enfreigne une des interdictions de l’article 81 de la présente ordonnance.",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "« Art. 116 bis. - Le président de la commission adresse, annuellement, au Président de la",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "République, un rapport de la commission bancaire sur le contrôle des banques et établissements financiers ».",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "« Art. 119 bis. - Nonobstant les cas d’interdiction de chéquier et d’interdiction de banque, toute personne qui s’est vue refuser l’ouverture d’un compte de dépôt par les banques de la place et qui, de ce fait, ne dispose d’aucun compte, peut demander à la banque d’Algérie de lui désigner une banque auprès de laquelle elle pourra ouvrir un tel compte.",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "La banque peut limiter les services liés à l’ouverture du compte aux seules opérations de caisse ».",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "« Art. 119 ter. - Sans préjudice des dispositions de l’article 119 bis ci-dessus, les banques sont tenues de mettre, à la disposition de leurs clients, les moyens et instruments de paiement appropriés dans des délais raisonnables.",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Elles informent, de façon périodique, leurs clients de leur situation vis-à-vis de la banque et doivent tenir à leur disposition toute information utile relative aux conditions de banque.",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Les offres de crédit doivent satisfaire à l’exigence de transparence et indiquer clairement toutes les conditions s’y rapportant.",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "L’engagement souscrit par un particulier est susceptible d’être dénoncé dans un délai de huit (8) jours à compter de la date de signature du contrat ».",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "« Art. 120 bis. - Les banques et établissements financiers sont tenus, dans le cadre de la réalisation de leur objet social, au strict respect des règles de bonne conduite",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Sous peine des sanctions prévues à l’article 114 ci-dessus, les dirigeants de toute banque ou établissement financier doivent veiller à la conformité de l’action de leur établissement, à l’éthique et aux règles déontologiques de la profession ».",
+          "page_start": 8,
+          "page_end": 8
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 8,
+      "page_end": 8,
+      "text": "L’article 130 de l’ordonnance n° 03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, susvisée, est modifié et complété, comme suit :\n« Art. 130. - Toute société de droit algérien exportatrice, concessionnaire du domaine minier ou énergétique de l’État doit obligatoirement rapatrier et céder à la banque d’Algérie les produits de ses exportations conformément à la législation et à la réglementation en vigueur ».",
+      "paragraphs": [
+        {
+          "text": "L’article 130 de l’ordonnance n° 03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, susvisée, est modifié et complété, comme suit :",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "« Art. 130. - Toute société de droit algérien exportatrice, concessionnaire du domaine minier ou énergétique de l’État doit obligatoirement rapatrier et céder à la banque d’Algérie les produits de ses exportations conformément à la législation et à la réglementation en vigueur ».",
+          "page_start": 8,
+          "page_end": 8
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 8,
+      "page_end": 8,
+      "text": "La présente ordonnance sera publiée au Journal officiel de la République algérienne démocratique et populaire.\nFait à Alger, le 16 Ramadhan 1431 correspondant au 26 août 2010.\nAbdelaziz BOUTEFLIKA.",
+      "paragraphs": [
+        {
+          "text": "La présente ordonnance sera publiée au Journal officiel de la République algérienne démocratique et populaire.",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "Fait à Alger, le 16 Ramadhan 1431 correspondant au 26 août 2010.",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "Abdelaziz BOUTEFLIKA.",
+          "page_start": 8,
+          "page_end": 8
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.068
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/ORD-10-04.fr.txt"
+}

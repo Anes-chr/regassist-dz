@@ -1,0 +1,989 @@
+{
+  "document_id": "INS-03-11.fr",
+  "work_id": "INS-03-11",
+  "title": "Instruction n°03-2011 du 20 septembre 2011 portant états comptables périodiques des banques et établissements financiers.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "03-2011",
+  "number_source": "en-tête du document",
+  "date": "2011-09-20",
+  "date_raw": "N°03-2011 DU 20 SEPTEMBRE 2011",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-02",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Règles comptables et déclarations statistiques par les banques et établissements financiers",
+  "source_url": "https://www.bank-of-algeria.dz/situations-comptables-mensuelles-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/02/instruction032011.pdf",
+  "format": "pdf",
+  "file_hash": "859570381093dbf9320761fb9220698d96422d0478765d98c43168fc394c7550",
+  "file_size": 89868,
+  "raw_path": "raw/859570381093__instruction032011.pdf",
+  "retrieved_at": "2026-10-05T13:20:25+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 3,
+  "url_hash": "ff0911bd1d0570d1c76c3b20568905acd11138079f2959bd5d8e948d152c612d",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-2011/",
+    "https://www.bank-of-algeria.dz/situations-comptables-mensuelles-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Microsoft Word - Document8",
+    "author": "chahra.yahiaoui",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "creationDate": "D:20210210144714+01'00'",
+    "modDate": "D:20210210144714+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 3,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2310,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 2626,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 352,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 14,
+    "annex_count": 10
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°03-2011 DU 20 SEPTEMBRE 2011 PORTANT ETATS COMPTABLES PERIODIQUES DES BANQUES ET ETABLISSEMENTS FINANCIERS I - OBJET",
+  "alias_urls": [],
+  "text_hash": "93f1b79c466cead97cc8be104221c7a281365dd14117f9fd3cbabfd6ad60b289",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-03-11.ar"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "section",
+      "label": "Section I",
+      "number": null,
+      "heading": "OBJET",
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 1",
+          "number": "1",
+          "heading": null,
+          "page_start": 1,
+          "page_end": 1,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 2",
+          "number": "2",
+          "heading": null,
+          "page_start": 1,
+          "page_end": 1,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 3",
+          "number": "3",
+          "heading": null,
+          "page_start": 1,
+          "page_end": 1,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 4",
+          "number": "4",
+          "heading": null,
+          "page_start": 1,
+          "page_end": 1,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe 1",
+      "number": "1",
+      "heading": "tableau des créances et engagements courants et classés, par secteur d'activité ;",
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe 2",
+      "number": "2",
+      "heading": "tableau des créances et engagements courants et classés, par type de clientèle ;",
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe 3",
+      "number": "3",
+      "heading": "ventilation des dépôts de la clientèle ;",
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe 4",
+      "number": "4",
+      "heading": "répartition des ressources collectées par terme ;",
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe 5",
+      "number": "5",
+      "heading": "répartition des crédits par maturité résiduelle ;",
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe 6",
+      "number": "6",
+      "heading": "répartition des crédits à la clientèle ;",
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe 7",
+      "number": "7",
+      "heading": "répartition des titres à revenus fixes par échéances résiduelles ;",
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe 8",
+      "number": "8",
+      "heading": "opérations de financement des banques et établissements financiers ;",
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe 9",
+      "number": "9",
+      "heading": "liste des cinquante (50) premiers grands risques par bénéficiaire ou groupe",
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe 10",
+      "number": "10",
+      "heading": "liste des trente (30) premiers gros déposants.",
+      "page_start": 2,
+      "page_end": 2,
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 5",
+          "number": "5",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 6",
+          "number": "6",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 7",
+          "number": "7",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 8",
+          "number": "8",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 9",
+          "number": "9",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 10",
+          "number": "10",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 11",
+          "number": "11",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 12",
+          "number": "12",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 13",
+          "number": "13",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 14",
+          "number": "14",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°03-2011 DU 20 SEPTEMBRE 2011 PORTANT\nETATS COMPTABLES PERIODIQUES DES BANQUES\nET ETABLISSEMENTS FINANCIERS",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°03-2011 DU 20 SEPTEMBRE 2011 PORTANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ETATS COMPTABLES PERIODIQUES DES BANQUES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET ETABLISSEMENTS FINANCIERS",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "I",
+          "heading": "OBJET",
+          "label": "Section I"
+        }
+      },
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction a pour objet de fixer les règles d'élaboration et de transmission par les banques et établissements financiers des états comptables périodiques et de leurs annexes.",
+      "paragraphs": [
+        {
+          "text": "La présente instruction a pour objet de fixer les règles d'élaboration et de transmission par les banques et établissements financiers des états comptables périodiques et de leurs annexes.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "I",
+          "heading": "OBJET",
+          "label": "Section I"
+        }
+      },
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les états comptables périodiques sont :\n- la situation comptable trimestrielle modèle 6000 et ses annexes, qui retracent les avoirs, les dettes et les engagements hors bilan ;\n- le tableau de compte de résultats semestriel, modèle 6001, qui détaille les charges et les produits liés à l'activité.\nLes intitulés et le contenu des postes d'actif, du passif, du hors bilan et du compte de résultats correspondent à ceux définis par le règlement n°09-05 du 18 octobre 2009 relatif à l'établissement et à la publication des états financiers des banques et des établissements financiers, à l'exception du poste \"Excédent des produits sur les charges ou des charges sur les produits\". Ce dernier représente la différence entre les actifs et les passifs ou entre les produits et les charges.",
+      "paragraphs": [
+        {
+          "text": "Les états comptables périodiques sont :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- la situation comptable trimestrielle modèle 6000 et ses annexes, qui retracent les avoirs, les dettes et les engagements hors bilan ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- le tableau de compte de résultats semestriel, modèle 6001, qui détaille les charges et les produits liés à l'activité.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les intitulés et le contenu des postes d'actif, du passif, du hors bilan et du compte de résultats correspondent à ceux définis par le règlement n°09-05 du 18 octobre 2009 relatif à l'établissement et à la publication des états financiers des banques et des établissements financiers, à l'exception du poste \"Excédent des produits sur les charges ou des charges sur les produits\". Ce dernier représente la différence entre les actifs et les passifs ou entre les produits et les charges.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "I",
+          "heading": "OBJET",
+          "label": "Section I"
+        }
+      },
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La situation comptable reprend en colonnes le solde net des opérations réalisées en dinars et en devises.\nLes montants des amortissements et des pertes de valeurs sont à faire figurer dans une colonne distincte de l'actif.\nLa répartition entre résidents et non-résidents est établie en fonction de la résidence de la contrepartie et l'appartenance à un territoire économique.",
+      "paragraphs": [
+        {
+          "text": "La situation comptable reprend en colonnes le solde net des opérations réalisées en dinars et en devises.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les montants des amortissements et des pertes de valeurs sont à faire figurer dans une colonne distincte de l'actif.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La répartition entre résidents et non-résidents est établie en fonction de la résidence de la contrepartie et l'appartenance à un territoire économique.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "I",
+          "heading": "OBJET",
+          "label": "Section I"
+        }
+      },
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les annexes à la situation comptable trimestrielle sont les suivantes :",
+      "paragraphs": [
+        {
+          "text": "Les annexes à la situation comptable trimestrielle sont les suivantes :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe 1",
+      "number": "1",
+      "heading": "tableau des créances et engagements courants et classés, par secteur d'activité ;",
+      "context": {},
+      "annexe": {
+        "number": "1",
+        "heading": "tableau des créances et engagements courants et classés, par secteur d'activité ;",
+        "label": "Annexe 1"
+      },
+      "page_start": 1,
+      "page_end": 1,
+      "text": "",
+      "paragraphs": []
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe 2",
+      "number": "2",
+      "heading": "tableau des créances et engagements courants et classés, par type de clientèle ;",
+      "context": {},
+      "annexe": {
+        "number": "2",
+        "heading": "tableau des créances et engagements courants et classés, par type de clientèle ;",
+        "label": "Annexe 2"
+      },
+      "page_start": 1,
+      "page_end": 1,
+      "text": "",
+      "paragraphs": []
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe 3",
+      "number": "3",
+      "heading": "ventilation des dépôts de la clientèle ;",
+      "context": {},
+      "annexe": {
+        "number": "3",
+        "heading": "ventilation des dépôts de la clientèle ;",
+        "label": "Annexe 3"
+      },
+      "page_start": 1,
+      "page_end": 1,
+      "text": "",
+      "paragraphs": []
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe 4",
+      "number": "4",
+      "heading": "répartition des ressources collectées par terme ;",
+      "context": {},
+      "annexe": {
+        "number": "4",
+        "heading": "répartition des ressources collectées par terme ;",
+        "label": "Annexe 4"
+      },
+      "page_start": 1,
+      "page_end": 1,
+      "text": "",
+      "paragraphs": []
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe 5",
+      "number": "5",
+      "heading": "répartition des crédits par maturité résiduelle ;",
+      "context": {},
+      "annexe": {
+        "number": "5",
+        "heading": "répartition des crédits par maturité résiduelle ;",
+        "label": "Annexe 5"
+      },
+      "page_start": 1,
+      "page_end": 1,
+      "text": "",
+      "paragraphs": []
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe 6",
+      "number": "6",
+      "heading": "répartition des crédits à la clientèle ;",
+      "context": {},
+      "annexe": {
+        "number": "6",
+        "heading": "répartition des crédits à la clientèle ;",
+        "label": "Annexe 6"
+      },
+      "page_start": 1,
+      "page_end": 1,
+      "text": "",
+      "paragraphs": []
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe 7",
+      "number": "7",
+      "heading": "répartition des titres à revenus fixes par échéances résiduelles ;",
+      "context": {},
+      "annexe": {
+        "number": "7",
+        "heading": "répartition des titres à revenus fixes par échéances résiduelles ;",
+        "label": "Annexe 7"
+      },
+      "page_start": 1,
+      "page_end": 1,
+      "text": "",
+      "paragraphs": []
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe 8",
+      "number": "8",
+      "heading": "opérations de financement des banques et établissements financiers ;",
+      "context": {},
+      "annexe": {
+        "number": "8",
+        "heading": "opérations de financement des banques et établissements financiers ;",
+        "label": "Annexe 8"
+      },
+      "page_start": 1,
+      "page_end": 1,
+      "text": "",
+      "paragraphs": []
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe 9",
+      "number": "9",
+      "heading": "liste des cinquante (50) premiers grands risques par bénéficiaire ou groupe",
+      "context": {},
+      "annexe": {
+        "number": "9",
+        "heading": "liste des cinquante (50) premiers grands risques par bénéficiaire ou groupe",
+        "label": "Annexe 9"
+      },
+      "page_start": 1,
+      "page_end": 2,
+      "text": "BANK OF ALGERIA\nde bénéficiaires ;",
+      "paragraphs": [
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "de bénéficiaires ;",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe 10",
+      "number": "10",
+      "heading": "liste des trente (30) premiers gros déposants.",
+      "context": {},
+      "annexe": {
+        "number": "10",
+        "heading": "liste des trente (30) premiers gros déposants.",
+        "label": "Annexe 10"
+      },
+      "page_start": 2,
+      "page_end": 2,
+      "text": "",
+      "paragraphs": []
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "II",
+          "heading": "REGLES COMPTABLES PARTICULIERES",
+          "label": "Section II"
+        }
+      },
+      "annexe": {
+        "number": "10",
+        "heading": "liste des trente (30) premiers gros déposants.",
+        "label": "Annexe 10"
+      },
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les intérêts non recouvrés sont comptabilisés dans un compte \"agios réservés\". Ils ne peuvent être imputés dans un compte de produits que lorsqu'ils sont effectivement encaissés.\nLes montants bruts des prêts et créances sur les institutions financières et la clientèle sont présentés au bilan, nets des \"agios réservés\".",
+      "paragraphs": [
+        {
+          "text": "Les intérêts non recouvrés sont comptabilisés dans un compte \"agios réservés\". Ils ne peuvent être imputés dans un compte de produits que lorsqu'ils sont effectivement encaissés.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Les montants bruts des prêts et créances sur les institutions financières et la clientèle sont présentés au bilan, nets des \"agios réservés\".",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "II",
+          "heading": "REGLES COMPTABLES PARTICULIERES",
+          "label": "Section II"
+        }
+      },
+      "annexe": {
+        "number": "10",
+        "heading": "liste des trente (30) premiers gros déposants.",
+        "label": "Annexe 10"
+      },
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les comptes de liaison des sièges, succursales et agences doivent être apurés à la date d'arrêté, au besoin à l'aide de journées comptables complémentaires.\nLorsque, à titre exceptionnel, ces comptes ne sont pas apurés, le solde subsistant ne doit représenter que des opérations en suspens à la suite d'erreurs ou de difficultés d'imputation.\nSeul le solde compensé figure à l'actif ou au passif.\nLes soldes non compensés débiteurs ou créditeurs dépassant 0,5% du total de la situation de l'actif ou du passif doivent faire l'objet d'une déclaration détaillée à la\nDirection Générale de l'Inspection Générale pour la période correspondante. La régularisation doit impérativement intervenir sur la période suivante;",
+      "paragraphs": [
+        {
+          "text": "Les comptes de liaison des sièges, succursales et agences doivent être apurés à la date d'arrêté, au besoin à l'aide de journées comptables complémentaires.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Lorsque, à titre exceptionnel, ces comptes ne sont pas apurés, le solde subsistant ne doit représenter que des opérations en suspens à la suite d'erreurs ou de difficultés d'imputation.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Seul le solde compensé figure à l'actif ou au passif.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Les soldes non compensés débiteurs ou créditeurs dépassant 0,5% du total de la situation de l'actif ou du passif doivent faire l'objet d'une déclaration détaillée à la",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Direction Générale de l'Inspection Générale pour la période correspondante. La régularisation doit impérativement intervenir sur la période suivante;",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "II",
+          "heading": "REGLES COMPTABLES PARTICULIERES",
+          "label": "Section II"
+        }
+      },
+      "annexe": {
+        "number": "10",
+        "heading": "liste des trente (30) premiers gros déposants.",
+        "label": "Annexe 10"
+      },
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les valeurs reçues à l'encaissement n'ayant pas donné lieu à une inscription au crédit du compte ordinaire du remettant, doivent faire l'objet d'un suivi matière hors comptabilité générale.",
+      "paragraphs": [
+        {
+          "text": "Les valeurs reçues à l'encaissement n'ayant pas donné lieu à une inscription au crédit du compte ordinaire du remettant, doivent faire l'objet d'un suivi matière hors comptabilité générale.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "II",
+          "heading": "REGLES COMPTABLES PARTICULIERES",
+          "label": "Section II"
+        }
+      },
+      "annexe": {
+        "number": "10",
+        "heading": "liste des trente (30) premiers gros déposants.",
+        "label": "Annexe 10"
+      },
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les avoirs et les engagements en devises doivent être convertis en dinars sur la base du cours moyen, entre achat et vente, de la devise concernée à la date d'arrêté des états périodiques.",
+      "paragraphs": [
+        {
+          "text": "Les avoirs et les engagements en devises doivent être convertis en dinars sur la base du cours moyen, entre achat et vente, de la devise concernée à la date d'arrêté des états périodiques.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "II",
+          "heading": "REGLES COMPTABLES PARTICULIERES",
+          "label": "Section II"
+        }
+      },
+      "annexe": {
+        "number": "10",
+        "heading": "liste des trente (30) premiers gros déposants.",
+        "label": "Annexe 10"
+      },
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Lors de l'arrêté semestriel, les banques et les établissements financiers doivent enregistrer les intérêts courus (à recevoir ou à payer) et comptabiliser les dotations aux amortissements, aux provisions et aux pertes de valeur.",
+      "paragraphs": [
+        {
+          "text": "Lors de l'arrêté semestriel, les banques et les établissements financiers doivent enregistrer les intérêts courus (à recevoir ou à payer) et comptabiliser les dotations aux amortissements, aux provisions et aux pertes de valeur.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "III",
+          "heading": "DISPOSITIONS DIVERSES",
+          "label": "Section III"
+        }
+      },
+      "annexe": {
+        "number": "10",
+        "heading": "liste des trente (30) premiers gros déposants.",
+        "label": "Annexe 10"
+      },
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les états périodiques et leurs annexes doivent parvenir à la Banque d'Algérie, Direction Générale de l'Inspection Générale, trente (30) jours au plus tard après la date d'arrêté.",
+      "paragraphs": [
+        {
+          "text": "Les états périodiques et leurs annexes doivent parvenir à la Banque d'Algérie, Direction Générale de l'Inspection Générale, trente (30) jours au plus tard après la date d'arrêté.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "III",
+          "heading": "DISPOSITIONS DIVERSES",
+          "label": "Section III"
+        }
+      },
+      "annexe": {
+        "number": "10",
+        "heading": "liste des trente (30) premiers gros déposants.",
+        "label": "Annexe 10"
+      },
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le support de transmission des états comptables périodiques et les annexes correspondantes est le support papier et électronique. Les modalités liées à ce dernier support seront définies par une note de la Direction Générale de l'Inspection Générale.",
+      "paragraphs": [
+        {
+          "text": "Le support de transmission des états comptables périodiques et les annexes correspondantes est le support papier et électronique. Les modalités liées à ce dernier support seront définies par une note de la Direction Générale de l'Inspection Générale.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "III",
+          "heading": "DISPOSITIONS DIVERSES",
+          "label": "Section III"
+        }
+      },
+      "annexe": {
+        "number": "10",
+        "heading": "liste des trente (30) premiers gros déposants.",
+        "label": "Annexe 10"
+      },
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les états comptables périodiques sont obligatoirement revêtus de la signature de l'un des dirigeants habilités au sens de l'article 90 de la l'ordonnance n°03- 11 du 26 août 2003 modifiée et complétée par l'ordonnance n°10-04 du 26 août 2010 relative à la monnaie et crédit.",
+      "paragraphs": [
+        {
+          "text": "Les états comptables périodiques sont obligatoirement revêtus de la signature de l'un des dirigeants habilités au sens de l'article 90 de la l'ordonnance n°03- 11 du 26 août 2003 modifiée et complétée par l'ordonnance n°10-04 du 26 août 2010 relative à la monnaie et crédit.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "III",
+          "heading": "DISPOSITIONS DIVERSES",
+          "label": "Section III"
+        }
+      },
+      "annexe": {
+        "number": "10",
+        "heading": "liste des trente (30) premiers gros déposants.",
+        "label": "Annexe 10"
+      },
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Le défaut de déclaration des états comptables périodiques et leurs annexes fait l'objet d'une pénalité fixée par la Commission Bancaire. La pénalité s'applique à chaque situation, objet de défaut de déclaration.",
+      "paragraphs": [
+        {
+          "text": "Le défaut de déclaration des états comptables périodiques et leurs annexes fait l'objet d'une pénalité fixée par la Commission Bancaire. La pénalité s'applique à chaque situation, objet de défaut de déclaration.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "III",
+          "heading": "DISPOSITIONS DIVERSES",
+          "label": "Section III"
+        }
+      },
+      "annexe": {
+        "number": "10",
+        "heading": "liste des trente (30) premiers gros déposants.",
+        "label": "Annexe 10"
+      },
+      "page_start": 3,
+      "page_end": 3,
+      "text": "La présente instruction entre en vigueur à compter de la date de sa signature.\nLe Gouverneur\nMohammed LAKSACI",
+      "paragraphs": [
+        {
+          "text": "La présente instruction entre en vigueur à compter de la date de sa signature.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.034
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-03-11.fr.txt"
+}

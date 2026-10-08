@@ -1,0 +1,428 @@
+{
+  "document_id": "REG-20-08.fr",
+  "work_id": "REG-20-08",
+  "title": "Règlement n°2020-08 du 7 décembre 2020 modifiant et complétant le règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques et des établissements financiers exerçant en Algérie.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "2020-08",
+  "number_source": "en-tête du document",
+  "date": "2020-12-07",
+  "date_raw": "N°2020-08 DU 7 DECEMBRE 2020",
+  "date_source": "en-tête du document",
+  "publication_date": "2023-01-25",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Conditions de constitution et d'installation de banques, d'établissements financiers de PSP et capital minimum",
+  "source_url": "https://www.bank-of-algeria.dz/importations-exportations-reglement/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/reglement202008.pdf",
+  "format": "pdf",
+  "file_hash": "24b7ffd86cd15892fd8fcef4cb12d23e2878b466287aa5c32cf3db4336d8901d",
+  "file_size": 75823,
+  "raw_path": "raw/24b7ffd86cd1__reglement202008.pdf",
+  "retrieved_at": "2026-10-05T13:27:02+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "69d36525c5065661bcbc1b7c22f34f11a955185ae3897fa7f49246057eee136a",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/importations-exportations-reglement/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document9",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210128151132+01'00'",
+    "modDate": "D:20230125105602+01'00'"
+  },
+  "hijri_date_raw": "27 Joumada Ethania 1424",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2084,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 3,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "REGLEMENT N°2020-08 DU 7 DECEMBRE 2020 MODIFIANT ET COMPLETANT LE REGLEMENT N°2018-03 DU 4 NOVEMBRE 2018 RELATIF AU CAPITAL MINIMUM DES BANQUES ET DES ETABLISSEMENTS FINANCIERS EXERÇANT EN ALGERIE",
+  "alias_urls": [],
+  "text_hash": "1acc9136b1caf81c2d2a808c3f555d430efe936b38297a3ff8c0376774c0e162",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "2018-03",
+        "date": "2018-11-04",
+        "raw": "règlement n°2018-03 du 4 novembre 2018"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2020-08 du 7 décembre 2020 modifiant et complétant le règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques"
+      },
+      "target_work_id": "REG-18-03"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "2018-03",
+        "date": "2018-11-04",
+        "raw": "règlement n°2018-03 du 4 novembre 2018"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2020-08 du 7 décembre 2020 modifiant et complétant le règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques"
+      },
+      "target_work_id": "REG-18-03"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "2018-03",
+        "date": "2018-11-04",
+        "raw": "règlement n°2018-03 du 4 novembre 2018"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et compléter le règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques"
+      },
+      "target_work_id": "REG-18-03"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "2018-03",
+        "date": "2018-11-04",
+        "raw": "règlement n°2018-03 du 4 novembre 2018"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et compléter le règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques"
+      },
+      "target_work_id": "REG-18-03"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "REG-18-03",
+      "reference": "règlement n°2018-03 du 4 novembre 2018",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2020-08 du 7 décembre 2020 modifiant et complétant le règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques"
+      }
+    },
+    {
+      "work_id": "REG-18-03",
+      "reference": "règlement n°2018-03 du 4 novembre 2018",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et compléter le règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "REG-18-03",
+      "reference": "règlement n°2018-03 du 4 novembre 2018",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2020-08 du 7 décembre 2020 modifiant et complétant le règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques"
+      }
+    },
+    {
+      "work_id": "REG-18-03",
+      "reference": "règlement n°2018-03 du 4 novembre 2018",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et compléter le règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-20-08.ar"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "REG-18-03",
+      "reference": "règlement n°2018-03 du 4 novembre 2018",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2020-08 du 7 décembre 2020 modifiant et complétant le règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques"
+      }
+    },
+    {
+      "work_id": "REG-18-03",
+      "reference": "règlement n°2018-03 du 4 novembre 2018",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et compléter le règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques"
+      }
+    }
+  ],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°2020-08 DU 7 DECEMBRE 2020 MODIFIANT\nET COMPLETANT LE REGLEMENT N°2018-03 DU 4 NOVEMBRE 2018\nRELATIF AU CAPITAL MINIMUM DES BANQUES ET DES ETABLISSEMENTS\nFINANCIERS EXERÇANT EN ALGERIE\nLe Gouverneur de la Banque d'Algérie,\n- Vu l’Ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, modifiée et complétée, relative à la monnaie et au crédit, notamment ses articles 62, 63, 64, 65 et 88 ;\n- Vu le Décret Présidentiel du 5 Safar 1437 correspondant au 17 novembre 2015 portant nomination des membres du Conseil d’administration de la Banque d’Algérie ;\n- Vu le Décret Présidentiel du 27 Moharram 1442 correspondant au 15 septembre 2020 portant nomination du Gouverneur de la Banque d'Algérie ;\n- Vu le Décret Présidentiel du 17 Safar 1438 correspondant au 17 novembre 2016 portant nomination de Vice-Gouverneurs de la Banque d'Algérie ;\n- Vu le Décret Présidentiel du 18 Rabie Ethani 1441 correspondant au 15 décembre 2019 portant nomination de Vice-Gouverneurs de la Banque d'Algérie ;\n- Vu le règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques et des établissements financiers exerçant en Algérie ;\n- Après délibération du Conseil de la Monnaie et du Crédit en date du 7 décembre 2020 ;\nPromulgue le Règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°2020-08 DU 7 DECEMBRE 2020 MODIFIANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET COMPLETANT LE REGLEMENT N°2018-03 DU 4 NOVEMBRE 2018",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "RELATIF AU CAPITAL MINIMUM DES BANQUES ET DES ETABLISSEMENTS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "FINANCIERS EXERÇANT EN ALGERIE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d'Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’Ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, modifiée et complétée, relative à la monnaie et au crédit, notamment ses articles 62, 63, 64, 65 et 88 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 5 Safar 1437 correspondant au 17 novembre 2015 portant nomination des membres du Conseil d’administration de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 27 Moharram 1442 correspondant au 15 septembre 2020 portant nomination du Gouverneur de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 17 Safar 1438 correspondant au 17 novembre 2016 portant nomination de Vice-Gouverneurs de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 18 Rabie Ethani 1441 correspondant au 15 décembre 2019 portant nomination de Vice-Gouverneurs de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques et des établissements financiers exerçant en Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Après délibération du Conseil de la Monnaie et du Crédit en date du 7 décembre 2020 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le Règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le présent règlement a pour objet de modifier et compléter le règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques et des établissements financier exerçant en Algérie.",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement a pour objet de modifier et compléter le règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques et des établissements financier exerçant en Algérie.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L’alinéa 1er de l’article 4 du règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques et des établissements financier est modifié et complété comme suit :\n« Les banques et établissements financiers en activité sont tenus de se conformer aux dispositions du présent règlement, au plus tard le 30 juin 2021 ».",
+      "paragraphs": [
+        {
+          "text": "L’alinéa 1er de l’article 4 du règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques et des établissements financier est modifié et complété comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "« Les banques et établissements financiers en activité sont tenus de se conformer aux dispositions du présent règlement, au plus tard le 30 juin 2021 ».",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le présent règlement sera publié au Journal Officiel de la République Algérienne\nDémocratique et Populaire.\nLE GOUVERNEUR\nRosthom FADLI\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement sera publié au Journal Officiel de la République Algérienne",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Démocratique et Populaire.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "LE GOUVERNEUR",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Rosthom FADLI",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.033
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-20-08.fr.txt"
+}

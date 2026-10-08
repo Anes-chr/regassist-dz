@@ -1,0 +1,438 @@
+{
+  "document_id": "INS-17-94.fr",
+  "work_id": "INS-17-94",
+  "title": "Instruction n°17-94 du 14 avril 1994 portant modification de l’instruction n°22-92 du 10 juin 1992 relative aux indemnités compensatrices de frais engages a l’occasion de missions temporaires a l’étranger.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "17-94",
+  "number_source": "en-tête du document",
+  "date": "1994-04-14",
+  "date_raw": "N°17-94 DU 14 AVRIL 1994",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction1794.pdf",
+      "uploaded": "2023-01-24T14:55:53"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Année 1994",
+  "source_url": "https://www.bank-of-algeria.dz/annee-1994/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction1794.pdf",
+  "format": "pdf",
+  "file_hash": "4d21fd263a50aa3ed54a99bc766f7f6fe59e6730c32cf9affc18ff6889bc9c3a",
+  "file_size": 29871,
+  "raw_path": "raw/4d21fd263a50__instruction1794.pdf",
+  "retrieved_at": "2026-10-05T14:17:27+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "b43e7036658fe066e19eee2e3aaa54f865238cabb507e1339c76990212310b5d",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-1994/",
+    "https://www.bank-of-algeria.dz/importations-exportations-instruction/",
+    "https://www.bank-of-algeria.dz/indemnites-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - INSTRUCTION 32-91",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200809095001+01'00'",
+    "modDate": "D:20200809095001+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 1106,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 5,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°17-94 DU 14 AVRIL 1994 PORTANT MODIFICATION DE L'INSTRUCTION N°22-92 DU 10 JUIN 1992 RELATIVE AUX INDEMNITES COMPENSATRICES DE FRAIS ENGAGES A L'OCCASION DE MISSIONS TEMPORAIRES A L'ETRANGER",
+  "alias_urls": [
+    {
+      "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction1794-1.pdf",
+      "source_url": "https://www.bank-of-algeria.dz/importations-exportations-instruction/",
+      "title": "Instruction n°17-94 du 14 avril 1994 portant modification de l’instruction n°22-92 du 10 juin 1992 relative aux indemnités compensatrices de frais engages a l’occasion de missions temporaires a l’étranger."
+    }
+  ],
+  "text_hash": "13c4677094ab56e740799d967df9277a60d078a43fcac0afd5b67647d335684f",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "22-92",
+        "date": "1992-06-10",
+        "raw": "instruction n°22-92 du 10 juin 1992"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°17-94 du 14 avril 1994 portant modification de l’instruction n°22-92 du 10 juin 1992 relative aux indemnités compensatrices"
+      },
+      "target_work_id": "INS-22-92"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-22-92",
+      "reference": "instruction n°22-92 du 10 juin 1992",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°17-94 du 14 avril 1994 portant modification de l’instruction n°22-92 du 10 juin 1992 relative aux indemnités compensatrices"
+      }
+    }
+  ],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "section",
+      "label": "Section III",
+      "number": null,
+      "heading": "Alinéas 3.1.1 et 3.1.2 de l'Instruction n°22-92 du 10 Juin 1992 relative aux",
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 2",
+          "number": "2",
+          "heading": null,
+          "page_start": 1,
+          "page_end": 1,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 3",
+          "number": "3",
+          "heading": null,
+          "page_start": 1,
+          "page_end": 1,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 4",
+          "number": "4",
+          "heading": null,
+          "page_start": 1,
+          "page_end": 1,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 5",
+          "number": "5",
+          "heading": null,
+          "page_start": 1,
+          "page_end": 1,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°17-94 DU 14 AVRIL 1994 PORTANT MODIFICATION\nDE L'INSTRUCTION N°22-92 DU 10 JUIN 1992 RELATIVE\nAUX INDEMNITES COMPENSATRICES DE FRAIS ENGAGES\nA L'OCCASION DE MISSIONS TEMPORAIRES A L'ETRANGER",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°17-94 DU 14 AVRIL 1994 PORTANT MODIFICATION",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DE L'INSTRUCTION N°22-92 DU 10 JUIN 1992 RELATIVE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AUX INDEMNITES COMPENSATRICES DE FRAIS ENGAGES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "A L'OCCASION DE MISSIONS TEMPORAIRES A L'ETRANGER",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction a pour objet de modifier les dispositions du paraphe",
+      "paragraphs": [
+        {
+          "text": "La présente instruction a pour objet de modifier les dispositions du paraphe",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "III",
+          "heading": "Alinéas 3.1.1 et 3.1.2 de l'Instruction n°22-92 du 10 Juin 1992 relative aux",
+          "label": "Section III"
+        }
+      },
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "indemnités compensatrices de frais engagés à l'occasion de missions temporaires à l'étranger.",
+      "paragraphs": [
+        {
+          "text": "indemnités compensatrices de frais engagés à l'occasion de missions temporaires à l'étranger.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "III",
+          "heading": "Alinéas 3.1.1 et 3.1.2 de l'Instruction n°22-92 du 10 Juin 1992 relative aux",
+          "label": "Section III"
+        }
+      },
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L'alinéa 3.1.1 est modifié et rédigé comme suit :\n\"3.1.1 Pays de la Catégorie A\n1- Cadres statutaires et/ou dirigeants 6.000 DA\n2- Cadres supérieurs 5.250 DA\n3- Cadres techniques 4.500 DA",
+      "paragraphs": [
+        {
+          "text": "L'alinéa 3.1.1 est modifié et rédigé comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "\"3.1.1 Pays de la Catégorie A",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "1- Cadres statutaires et/ou dirigeants 6.000 DA",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "2- Cadres supérieurs 5.250 DA",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "3- Cadres techniques 4.500 DA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "III",
+          "heading": "Alinéas 3.1.1 et 3.1.2 de l'Instruction n°22-92 du 10 Juin 1992 relative aux",
+          "label": "Section III"
+        }
+      },
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L'alinéa 3.1.2 est modifié et rédigé comme suit :\n\"3.1.2 Pays de la Catégorie B\n1- Cadres statutaires et/ou dirigeants 5.250 DA\n2- Cadres supérieurs 4.500 DA\n3- Cadres techniques 3.750 DA",
+      "paragraphs": [
+        {
+          "text": "L'alinéa 3.1.2 est modifié et rédigé comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "\"3.1.2 Pays de la Catégorie B",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "1- Cadres statutaires et/ou dirigeants 5.250 DA",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "2- Cadres supérieurs 4.500 DA",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "3- Cadres techniques 3.750 DA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "III",
+          "heading": "Alinéas 3.1.1 et 3.1.2 de l'Instruction n°22-92 du 10 Juin 1992 relative aux",
+          "label": "Section III"
+        }
+      },
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les autres dispositions non modifiées par la présente demeurent applicables.",
+      "paragraphs": [
+        {
+          "text": "Les autres dispositions non modifiées par la présente demeurent applicables.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "III",
+          "heading": "Alinéas 3.1.1 et 3.1.2 de l'Instruction n°22-92 du 10 Juin 1992 relative aux",
+          "label": "Section III"
+        }
+      },
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction est applicable à compter de la date de sa signature.\nLe Gouverneur\nAbdelouahab KERAMANE",
+      "paragraphs": [
+        {
+          "text": "La présente instruction est applicable à compter de la date de sa signature.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.058
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-17-94.fr.txt"
+}

@@ -1,0 +1,557 @@
+{
+  "document_id": "REG-16-03.ar",
+  "work_id": "REG-16-03",
+  "title": "نظام رقم 16-03 المؤرخ في 28 جويلية 2016 ويتمم النظام رقم 15-01 المؤرخ في 19 فيفري 2015، يتعلق بعمليات خصم السندات العمومية، اعادة خصم السندات الخاصة التسبييقات والقروض للبنوك والمؤسسات المالية.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "16-03",
+  "number_source": "libelle",
+  "date": "2016-07-28",
+  "date_raw": "المؤرخ في 28 جويلية 2016",
+  "date_source": "libelle",
+  "publication_date": "2023-02-28",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "règlements",
+  "subcategory": "أدوات السياسة النقدية",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a3%d8%af%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d9%86%d9%82%d8%af%d9%8a%d8%a9-2/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/02/03-2016.pdf",
+  "format": "pdf",
+  "file_hash": "77bd4a399f5393070d77732568d2ea22acc0b9085b4baadf652b89733bd7c2d8",
+  "file_size": 282254,
+  "raw_path": "raw/77bd4a399f53__03-2016.pdf",
+  "retrieved_at": "2026-10-05T13:28:07+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 2,
+  "url_hash": "e4203824a3f814c47c36f94a4b734f96e5346c1b2cd6ad71927b0fa5bf8e6d14",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%a3%d8%af%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d9%86%d9%82%d8%af%d9%8a%d8%a9-2/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document2",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20230228093212+01'00'",
+    "modDate": "D:20230228093212+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 1883,
+        "ocr_confidence": 82.40057636887607
+      },
+      {
+        "page": 2,
+        "method": "ocr",
+        "chars": 2739,
+        "ocr_confidence": 82.37579617834395
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 5,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine",
+    "numerotation:articles_manquants:[2, 4, 5, 7]"
+  ],
+  "title_document": "نظام رقم 03-16 مؤرخ في 23 شوال عام 1437 الموافق 28 يوليى سنة 2016, يتمم النظام رقم 01-15 المؤرخ في 30 ربيع الثاني عام 1436 الموافق 19 فيراير سنة 2015 والمتعلق يعمليات خصم السنداث العمومية وإعادة خصم السنداثت الخاصة والتسبيقات والقروض للبنوك والمؤسسات Lui)‏ os",
+  "alias_urls": [],
+  "text_hash": "85f727d602f42b0d3924ed81b925e256ad9adba7c23bfdd019a692dc717b5b30",
+  "relations_out": [
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "2015-01",
+        "date": "2015-02-19",
+        "raw": "règlement n°2015-01 du 19 février 2015"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2016-03 du 28 juillet 2016 complétant le règlement n°2015-01 du 19 février 2015 relatif aux opérations d’escompte d’eff",
+        "copied_from": "REG-16-03.fr"
+      },
+      "target_work_id": "REG-15-01"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "15-01",
+        "date": "2015-02-19",
+        "raw": "REGLEMENT N°15-01 DU 19 FEVRIER 2015"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "REGLEMENT N°2016-03 AU 28 JUILLET 2016 COMPLETANT LE REGLEMENT N°15-01 DU 19 FEVRIER 2015 RELATIF AUX OPERATIONS D’ESCOMPTE D’EFF",
+        "copied_from": "REG-16-03.fr"
+      },
+      "target_work_id": "REG-15-01"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "15-01",
+        "date": "2015-02-19",
+        "raw": "règlement n°15-01 du 19 février 2015"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de compléter le règlement n°15-01 du 19 février 2015 relatif aux opérations d’escompte d’eff",
+        "copied_from": "REG-16-03.fr"
+      },
+      "target_work_id": "REG-15-01"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [
+    {
+      "work_id": "REG-15-01",
+      "reference": "règlement n°2015-01 du 19 février 2015",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2016-03 du 28 juillet 2016 complétant le règlement n°2015-01 du 19 février 2015 relatif aux opérations d’escompte d’eff",
+        "copied_from": "REG-16-03.fr"
+      }
+    },
+    {
+      "work_id": "REG-15-01",
+      "reference": "REGLEMENT N°15-01 DU 19 FEVRIER 2015",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "REGLEMENT N°2016-03 AU 28 JUILLET 2016 COMPLETANT LE REGLEMENT N°15-01 DU 19 FEVRIER 2015 RELATIF AUX OPERATIONS D’ESCOMPTE D’EFF",
+        "copied_from": "REG-16-03.fr"
+      }
+    },
+    {
+      "work_id": "REG-15-01",
+      "reference": "règlement n°15-01 du 19 février 2015",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de compléter le règlement n°15-01 du 19 février 2015 relatif aux opérations d’escompte d’eff",
+        "copied_from": "REG-16-03.fr"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-16-03.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "REG-15-01",
+      "reference": "règlement n°2015-01 du 19 février 2015",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2016-03 du 28 juillet 2016 complétant le règlement n°2015-01 du 19 février 2015 relatif aux opérations d’escompte d’eff",
+        "copied_from": "REG-16-03.fr"
+      }
+    },
+    {
+      "work_id": "REG-15-01",
+      "reference": "REGLEMENT N°15-01 DU 19 FEVRIER 2015",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "REGLEMENT N°2016-03 AU 28 JUILLET 2016 COMPLETANT LE REGLEMENT N°15-01 DU 19 FEVRIER 2015 RELATIF AUX OPERATIONS D’ESCOMPTE D’EFF",
+        "copied_from": "REG-16-03.fr"
+      }
+    },
+    {
+      "work_id": "REG-15-01",
+      "reference": "règlement n°15-01 du 19 février 2015",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de compléter le règlement n°15-01 du 19 février 2015 relatif aux opérations d’escompte d’eff",
+        "copied_from": "REG-16-03.fr"
+      }
+    }
+  ],
+  "ocr_numeric_check": {
+    "units": 6,
+    "units_flagged": 0,
+    "units_compared_with_french": 4,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article ك",
+      "number": "ك",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "نظام رقم 03-16 مؤرخ في 23 شوال عام 1437 الموافق 28 يوليى سنة 2016, يتمم النظام رقم 01-15 المؤرخ في 30 ربيع الثاني عام 1436 الموافق 19 فيراير سنة 2015 والمتعلق يعمليات خصم السنداث العمومية وإعادة خصم السنداثت الخاصة والتسبيقات والقروض للبنوك والمؤسسات Lui)‏ os ان محافظ ينك الجزائر:\n- بمقتضى الأمر رقم 11-03 المؤرخ في 27 جمادى الثانية عام 1424 الموافق 26 غشت سنة 2003 والمتعلّق بالنقد والقرض: المعدل والمتمم؛ لا سيما الموان 41 إلى 44 و62 (النقطتان ب و ج) و68 (الفقرة 2):\n- وبمقتضى المرسوم الرئاسي المؤرخ في 10 ربيع الأول عام 1422 الموافق 2 يونيو سنة 2001 والمتضمن ذي القعدة عام 1424 الموافق 14 يناير سنة 2004 والتضمن تعيين عضوين في مجلس النقد والقرض\n- ودم قت , المرسوع الرئاسي المؤرخ في 5 جمادى\n- وبمقتضى المرسوم الرئاسي المؤرخ في 5 صفر -وبمقتضى المرسوم الرئاسي المؤرخ في 24 شعبان عام 1437 الموافق 31 مايو سنة 2016 والمتضمن\n- وبمقتضى النظام رقم 04-05 المؤرخ في 10 الكبيرة والدفع المستعجل.\n- وبمقتضى النظام رقم 07-05 المؤرخ في 26 ذي القعدة عام 1426 الموافق 28 jm vu‏ سنئة 2005 والمتضمن أمن أنظمة الدفعء\n- ويمقتضى النظام رقم 02-09المؤرخ في أول جمادى الثانية عام 1430 الموافق 26 مايو سنة 2009 وإجراءاتهاء؛\n- وبمقتضى النظام رقم 01-15 المؤرخ في 30 ربيع الثانى عام 1436 المواقق 19 قيراير سنة 2015 والمتعلق بعمليات خصم السئدات العمومية وإعادة خصم السئدات الخاصة والتسبيقات ss‏ لليئوك ls 3 -‏ على مداولة مجلس النقد والقرض يتار يخ 8 يوليو سنة 2016, يصدر النظام الآتي نصّه :",
+      "paragraphs": [
+        {
+          "text": "نظام رقم 03-16 مؤرخ في 23 شوال عام 1437 الموافق 28 يوليى سنة 2016, يتمم النظام رقم 01-15 المؤرخ في 30 ربيع الثاني عام 1436 الموافق 19 فيراير سنة 2015 والمتعلق يعمليات خصم السنداث العمومية وإعادة خصم السنداثت الخاصة والتسبيقات والقروض للبنوك والمؤسسات Lui)‏ os ان محافظ ينك الجزائر:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- بمقتضى الأمر رقم 11-03 المؤرخ في 27 جمادى الثانية عام 1424 الموافق 26 غشت سنة 2003 والمتعلّق بالنقد والقرض: المعدل والمتمم؛ لا سيما الموان 41 إلى 44 و62 (النقطتان ب و ج) و68 (الفقرة 2):",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى المرسوم الرئاسي المؤرخ في 10 ربيع الأول عام 1422 الموافق 2 يونيو سنة 2001 والمتضمن ذي القعدة عام 1424 الموافق 14 يناير سنة 2004 والتضمن تعيين عضوين في مجلس النقد والقرض",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- ودم قت , المرسوع الرئاسي المؤرخ في 5 جمادى",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى المرسوم الرئاسي المؤرخ في 5 صفر -وبمقتضى المرسوم الرئاسي المؤرخ في 24 شعبان عام 1437 الموافق 31 مايو سنة 2016 والمتضمن",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى النظام رقم 04-05 المؤرخ في 10 الكبيرة والدفع المستعجل.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى النظام رقم 07-05 المؤرخ في 26 ذي القعدة عام 1426 الموافق 28 jm vu‏ سنئة 2005 والمتضمن أمن أنظمة الدفعء",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- ويمقتضى النظام رقم 02-09المؤرخ في أول جمادى الثانية عام 1430 الموافق 26 مايو سنة 2009 وإجراءاتهاء؛",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى النظام رقم 01-15 المؤرخ في 30 ربيع الثانى عام 1436 المواقق 19 قيراير سنة 2015 والمتعلق بعمليات خصم السئدات العمومية وإعادة خصم السئدات الخاصة والتسبيقات ss‏ لليئوك ls 3 -‏ على مداولة مجلس النقد والقرض يتار يخ 8 يوليو سنة 2016, يصدر النظام الآتي نصّه :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يهدف هذا النظام إلى تتميم النظام رقم 01-15 المؤرخ في 30 ربيع الثاني عام 1436 الموافق 01-15 رقم‎ as il تتممالمادة 2 من‎ : 2 of المؤرخ في 30 ربيع الثاني عام 1436 الموافق 19 فيراير‎ : كماياتي‎ 33538 a Le | والمذكور‎ 2015 4\n- سندات الخزينة قصيرة الأجل التى تقل أو تساوي مدتها is‏ واحدة:\n- سندات الخزينة متوسطة الأجل التى تتراوح مدتها بين سئتين )2( وخمس (5) سئوات:\n- السندات الممثلة Si AU‏ الوطني.\nلاتقيلالسئدات العمومية متوسطةالأجل للخصم الا إذا كانت ss‏ استحقاقها التثيقية تساوي أو تقل عن ثلاث (3) سئوات '.",
+      "paragraphs": [
+        {
+          "text": "يهدف هذا النظام إلى تتميم النظام رقم 01-15 المؤرخ في 30 ربيع الثاني عام 1436 الموافق 01-15 رقم‎ as il تتممالمادة 2 من‎ : 2 of المؤرخ في 30 ربيع الثاني عام 1436 الموافق 19 فيراير‎ : كماياتي‎ 33538 a Le | والمذكور‎ 2015 4",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- سندات الخزينة قصيرة الأجل التى تقل أو تساوي مدتها is‏ واحدة:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- سندات الخزينة متوسطة الأجل التى تتراوح مدتها بين سئتين )2( وخمس (5) سئوات:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- السندات الممثلة Si AU‏ الوطني.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "لاتقيلالسئدات العمومية متوسطةالأجل للخصم الا إذا كانت ss‏ استحقاقها التثيقية تساوي أو تقل عن ثلاث (3) سئوات '.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "تتممالمادة 3 من النظام رقم 01-15 المؤرخ فى 30 ربيع الثائى عام 1436 الموافق 19 فيراير \" اكادة 3 : يمكن ينك الجزائر أيضا أن Jai‏ إعادة خصم السندات الخاصة الممثّلة لعمليات تجارية وعمليات تمويل قصيرة ومتوسطة وطويلة الأجل التي تؤديها البنوك والمؤسسات المالية \".",
+      "paragraphs": [
+        {
+          "text": "تتممالمادة 3 من النظام رقم 01-15 المؤرخ فى 30 ربيع الثائى عام 1436 الموافق 19 فيراير \" اكادة 3 : يمكن ينك الجزائر أيضا أن Jai‏ إعادة خصم السندات الخاصة الممثّلة لعمليات تجارية وعمليات تمويل قصيرة ومتوسطة وطويلة الأجل التي تؤديها البنوك والمؤسسات المالية \".",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article ك",
+      "number": "ك",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "33 تمم المادة 6 من I‏ د كا ام رقم 01-15 المؤرخ في 30 pus,‏ الثاني عام 1436 الموافق 19 فبراير سئة 2015 والمذكور أعلاه. وتحرر كما يأتى :\n' انادة 6 : يمكن بنك الجزائر أن pois‏ بعمليات خصم السئدات العمومية الصادرة أو الملضمونة من قيل الدولة لفائدة البنوك والمؤسسات المالية.\nتخص عمليات الخصم ما يأتي :\n- السندات القايلة للتداول المصرفي وذات أجال استحقاق تساوي أو تقل عن ثلاثة )3( أشهرء\n- السندات زات أجال استحقاق اعتيارية تفوق ثلاثة )3( أشهر وتقل أو تساوي ثلاث )3( سنوات لمدة لا تتجاوز ستين (60) يوما.\nلا يمكن لإقراض بنك الجزائر علي السندات ذات Jai‏ الاستحقاق الاعتيادية أن يتجاوز 90 6 من القيمة الاسمية Las ss Le‏ سيحدد إقراض ينك الجزائر على السندات الممثلة للقرض السنديي الوطني Landes‏ للادة 5 : تتمم المادة 7 من النظام رقم 01-15 المؤرخ في 30 رببع الثاني عام 1436 الموافق 19 فبراير :4 2015 والمزكور أعلاهء وتحرر كما Qi‏ :\n\"المادة 7 : إن السندات العمومية القايلة للخصه هى السندات غير المادية. المُدوئة فى الحسايات الجارية dl pal‏ والمؤسسات المالية لديى بثك الجزائر أو لدى المودع المركزي والتي لم تُستعمل في عمليات أخرى.\nالوطنى وملكية اليئوك والمؤسسات المالية أو الملسثلمة الحسايات à all‏ لليئثوك والمؤسسات المالية لدي بثك الجزائر \".",
+      "paragraphs": [
+        {
+          "text": "33 تمم المادة 6 من I‏ د كا ام رقم 01-15 المؤرخ في 30 pus,‏ الثاني عام 1436 الموافق 19 فبراير سئة 2015 والمذكور أعلاه. وتحرر كما يأتى :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "' انادة 6 : يمكن بنك الجزائر أن pois‏ بعمليات خصم السئدات العمومية الصادرة أو الملضمونة من قيل الدولة لفائدة البنوك والمؤسسات المالية.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "تخص عمليات الخصم ما يأتي :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- السندات القايلة للتداول المصرفي وذات أجال استحقاق تساوي أو تقل عن ثلاثة )3( أشهرء",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- السندات زات أجال استحقاق اعتيارية تفوق ثلاثة )3( أشهر وتقل أو تساوي ثلاث )3( سنوات لمدة لا تتجاوز ستين (60) يوما.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "لا يمكن لإقراض بنك الجزائر علي السندات ذات Jai‏ الاستحقاق الاعتيادية أن يتجاوز 90 6 من القيمة الاسمية Las ss Le‏ سيحدد إقراض ينك الجزائر على السندات الممثلة للقرض السنديي الوطني Landes‏ للادة 5 : تتمم المادة 7 من النظام رقم 01-15 المؤرخ في 30 رببع الثاني عام 1436 الموافق 19 فبراير :4 2015 والمزكور أعلاهء وتحرر كما Qi‏ :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "\"المادة 7 : إن السندات العمومية القايلة للخصه هى السندات غير المادية. المُدوئة فى الحسايات الجارية dl pal‏ والمؤسسات المالية لديى بثك الجزائر أو لدى المودع المركزي والتي لم تُستعمل في عمليات أخرى.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "الوطنى وملكية اليئوك والمؤسسات المالية أو الملسثلمة الحسايات à all‏ لليئثوك والمؤسسات المالية لدي بثك الجزائر \".",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "تتمم المادة 11 من النظام رقم 01-15 المؤرخ في 30 ربيع الثاني عام 1436 المواقق 19 فبراير Ji : 11 AU\"‏ سندات التمويل المُمثّلة للقروض المتوسطة والطويلة الأجل لإعادة الخصم لقترات من ستة\n(6) أشهر دون أن تتجاوز المدة الكلية لإعادة خصمها من طرف بنك الجزائرء ثلاث (3) سئوات بالنسية للقروض متوسطة الأجل؛ وخمس (5) سنوات بالنسبة للقروض الطويلة الأجل.\nيجب أن تكون السندات القابلة لإعادة الزبونةللينوك والمؤسستات المالية, والمأتحصلة على تقييم موات من طرف يثك الجزائر. حاملة لتوقيعي شخصين (2) طبيعيين أو معئويين يتمتعان بلللاءة. مع إمكائية تعويض أحدهما Glass‏ من الدولة.\nلايمكن تقديمهذهالسنداات لإعادة الخصم خلال الاثني عشر (12) شهر الأولى من استعمال القرض بالنسية للقروض متوسطة الأجل. وخلال فترة تأجيل التسديد بالنسبة للقروض طويلة الأجل \".\n01-15 تتسّمالمادة 12 من النظاعم رقم‎ : 7 sl)\nles 19 المؤرخ في 30 ربيع الثائي عام 1436 المواقق‎ \"الادة 12 : تتعلق القروض متوسطة الأجل المحقيولة لإعادة الخصمء يتموي ل الاستثمار لتطوير وسائل الإنتاج (إنشاء. توسيع أو تجديد معدات)\nوبتصدير السلع (تمويل مسيق لطلبيات تصدير)\nويبناء المساكن في إطار الترقية العقارية وعمليات الاعتماد الإيجاري على السلع الإنتاجية المرفقة بخيار الشراء.\nتتعلق القروض طويلة الأجل المقبولة لإعادة الخصم بتمويل الاستثمار ليناء وتجهيز وحدات إنتاج السلع والخدمات '.",
+      "paragraphs": [
+        {
+          "text": "تتمم المادة 11 من النظام رقم 01-15 المؤرخ في 30 ربيع الثاني عام 1436 المواقق 19 فبراير Ji : 11 AU\"‏ سندات التمويل المُمثّلة للقروض المتوسطة والطويلة الأجل لإعادة الخصم لقترات من ستة",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "(6) أشهر دون أن تتجاوز المدة الكلية لإعادة خصمها من طرف بنك الجزائرء ثلاث (3) سئوات بالنسية للقروض متوسطة الأجل؛ وخمس (5) سنوات بالنسبة للقروض الطويلة الأجل.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "يجب أن تكون السندات القابلة لإعادة الزبونةللينوك والمؤسستات المالية, والمأتحصلة على تقييم موات من طرف يثك الجزائر. حاملة لتوقيعي شخصين (2) طبيعيين أو معئويين يتمتعان بلللاءة. مع إمكائية تعويض أحدهما Glass‏ من الدولة.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "لايمكن تقديمهذهالسنداات لإعادة الخصم خلال الاثني عشر (12) شهر الأولى من استعمال القرض بالنسية للقروض متوسطة الأجل. وخلال فترة تأجيل التسديد بالنسبة للقروض طويلة الأجل \".",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "01-15 تتسّمالمادة 12 من النظاعم رقم‎ : 7 sl)",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "les 19 المؤرخ في 30 ربيع الثائي عام 1436 المواقق‎ \"الادة 12 : تتعلق القروض متوسطة الأجل المحقيولة لإعادة الخصمء يتموي ل الاستثمار لتطوير وسائل الإنتاج (إنشاء. توسيع أو تجديد معدات)",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "وبتصدير السلع (تمويل مسيق لطلبيات تصدير)",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "ويبناء المساكن في إطار الترقية العقارية وعمليات الاعتماد الإيجاري على السلع الإنتاجية المرفقة بخيار الشراء.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "تتعلق القروض طويلة الأجل المقبولة لإعادة الخصم بتمويل الاستثمار ليناء وتجهيز وحدات إنتاج السلع والخدمات '.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "ينشر هذا النظام في الجريدة الرسمية للجمهورية الجزائرية الديمقراطية الشعبية.\nيوليو سئة 2016.\nمحمد لوكال",
+      "paragraphs": [
+        {
+          "text": "ينشر هذا النظام في الجريدة الرسمية للجمهورية الجزائرية الديمقراطية الشعبية.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "يوليو سئة 2016.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "محمد لوكال",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine",
+      "numerotation:articles_manquants:[2, 4, 5, 7]"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.042,
+      "ocr_pages": [
+        1,
+        2
+      ],
+      "ocr_mean_confidence": 82.4
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/REG-16-03.ar.txt"
+}

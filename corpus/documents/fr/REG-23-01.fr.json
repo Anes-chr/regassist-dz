@@ -1,0 +1,782 @@
+{
+  "document_id": "REG-23-01.fr",
+  "work_id": "REG-23-01",
+  "title": "Règlement n° 2023-01 du 21 septembre 2023 relatif aux conditions d’autorisation de constitution, d’agrément et d’exercice des bureaux de change",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "2023-01",
+  "number_source": "en-tête du document",
+  "date": "2023-09-21",
+  "date_raw": "n° 2023-01 du 21 septembre 2023",
+  "date_source": "en-tête du document",
+  "publication_date": "2023-11-07",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Conditions de constitution et d'installation de banques, d'établissements financiers de PSP et capital minimum",
+  "source_url": "https://www.bank-of-algeria.dz/importations-exportations-reglement/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/11/Reglement-n23-01-1.pdf",
+  "format": "pdf",
+  "file_hash": "3abdc86c8750240bed61bae959252cc0df7e6ed56d730242672d056a53e2271f",
+  "file_size": 91694,
+  "raw_path": "raw/3abdc86c8750__Reglement-n23-01-1.pdf",
+  "retrieved_at": "2026-10-05T13:30:27+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 3,
+  "url_hash": "1c7854dcc463e3ae749bcf6697978156d9fab0a5bc2b137d3555dbdbc80412b6",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/importations-exportations-reglement/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "(Microsoft Word - R\\350glement n23-01)",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20231107152013+01'00'",
+    "modDate": "D:20231107152013+01'00'"
+  },
+  "hijri_date_raw": "23 Safar 1417",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 3,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2171,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 2404,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 2235,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 13,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "Règlement n° 2023-01 du 21 septembre 2023 relatif aux conditions d’autorisation de constitution, d’agrément et d’exercice des bureaux de change",
+  "alias_urls": [],
+  "text_hash": "f5065a6d5e8ed3272151a2cf670006ebdae5ebee86c2994bff6918ff8b166bb5",
+  "relations_out": [
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "07-01",
+        "date": null,
+        "raw": "règlement n° 07-01 du 15 Moharram 1428"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "Sont abrogées, toutes dispositions contraires au présent règlement, notamment celles de l’article 21 du règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007, modifi"
+      },
+      "target_work_id": "REG-07-01"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n° 07-01 du 15 Moharram 1428",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "Sont abrogées, toutes dispositions contraires au présent règlement, notamment celles de l’article 21 du règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007, modifi"
+      }
+    }
+  ],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-23-01.ar"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "section",
+      "label": "Section I",
+      "number": null,
+      "heading": "Autorisation de constitution d’un bureau de change :",
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 3",
+          "number": "3",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 4",
+          "number": "4",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "label": "Section II",
+      "number": null,
+      "heading": "Agrément d’un bureau de change :",
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 5",
+          "number": "5",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 6",
+          "number": "6",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 7",
+          "number": "7",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 8",
+          "number": "8",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 9",
+          "number": "9",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 10",
+          "number": "10",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 11",
+          "number": "11",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 12",
+          "number": "12",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 13",
+          "number": "13",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Règlement n° 2023-01 du 21 septembre 2023 relatif aux conditions d’autorisation de constitution, d’agrément et d’exercice des bureaux de change\nLe Gouverneur de la Banque d’Algérie,\n- Vu l’ordonnance n° 75-58 du 26 septembre 1975, modifiée et complétée, portant code civil ;\n- Vu l’ordonnance n° 75-59 du 26 septembre 1975, modifiée et complétée, portant code de commerce ;\n- Vu la loi n° 79-07 du 21 juillet 1979, modifiée et complétée, portant code des douanes ;\n- Vu l’ordonnance n° 96-22 du 23 Safar 1417 correspondant au 9 juillet 1996, modifiée et complétée, relative à la répression de l’infraction à la législation et à la réglementation des changes et des mouvements de capitaux de et vers l’étranger ;\n- Vu la loi n° 05-01 du 27 Dhou El Hidja 1425 correspondant au 6 février 2005, modifiée et complétée, relative à la prévention et à la lutte contre le blanchiment d’argent et le financement du terrorisme ;\n- Vu la loi n° 23-09 du 3 Dhou El Hidja 1444 correspondant au 21 juin 2023 portant loi monétaire et bancaire ;\n- Vu le décret présidentiel du 5 Safar 1437 correspondant au 17 novembre 2015 portant nomination de membres du conseil d’administration de la Banque d’Algérie ;\n- Vu le décret présidentiel du 18 Rabie Ethani 1441 correspondant au 15 décembre 2019 portant nomination de Vice-gouverneurs de la Banque d’Algérie ;\n- Vu le décret présidentiel du 6 Ramadhan 1443 correspondant au 7 avril 2022 portant nomination de membres du Conseil d’administration de la Banque d’Algérie ;\n- Vu le décret présidentiel du 22 Chaoual 1443 correspondant au 23 mai 2022 portant nomination du Gouverneur de la Banque d’Algérie ;\n- Vu le décret présidentiel du 12 Joumada El Oula 1444 correspondant au 6 décembre 2022 portant nomination d’un membre du Conseil de la monnaie et du crédit ;\n- Vu le règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007, modifié et complété, relatif aux règles applicables aux transactions courantes avec l’étranger et aux comptes devises ;\nAprès délibération du Conseil monétaire et bancaire en date du 21 septembre 2023 ;\nPromulgue le règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "Règlement n° 2023-01 du 21 septembre 2023 relatif aux conditions d’autorisation de constitution, d’agrément et d’exercice des bureaux de change",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d’Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’ordonnance n° 75-58 du 26 septembre 1975, modifiée et complétée, portant code civil ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’ordonnance n° 75-59 du 26 septembre 1975, modifiée et complétée, portant code de commerce ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la loi n° 79-07 du 21 juillet 1979, modifiée et complétée, portant code des douanes ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’ordonnance n° 96-22 du 23 Safar 1417 correspondant au 9 juillet 1996, modifiée et complétée, relative à la répression de l’infraction à la législation et à la réglementation des changes et des mouvements de capitaux de et vers l’étranger ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la loi n° 05-01 du 27 Dhou El Hidja 1425 correspondant au 6 février 2005, modifiée et complétée, relative à la prévention et à la lutte contre le blanchiment d’argent et le financement du terrorisme ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la loi n° 23-09 du 3 Dhou El Hidja 1444 correspondant au 21 juin 2023 portant loi monétaire et bancaire ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 5 Safar 1437 correspondant au 17 novembre 2015 portant nomination de membres du conseil d’administration de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 18 Rabie Ethani 1441 correspondant au 15 décembre 2019 portant nomination de Vice-gouverneurs de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 6 Ramadhan 1443 correspondant au 7 avril 2022 portant nomination de membres du Conseil d’administration de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 22 Chaoual 1443 correspondant au 23 mai 2022 portant nomination du Gouverneur de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 12 Joumada El Oula 1444 correspondant au 6 décembre 2022 portant nomination d’un membre du Conseil de la monnaie et du crédit ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007, modifié et complété, relatif aux règles applicables aux transactions courantes avec l’étranger et aux comptes devises ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Après délibération du Conseil monétaire et bancaire en date du 21 septembre 2023 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le présent règlement a pour objet de fixer les conditions relatives à l’autorisation de constitution, à l’agrément et à l’exercice de l’activité des bureaux de change.",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement a pour objet de fixer les conditions relatives à l’autorisation de constitution, à l’agrément et à l’exercice de l’activité des bureaux de change.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Au sens du présent règlement, il est entendu par bureau de change, toute société de change créée selon les formes prévues par l’article 91 de la loi n° 23-09 du 3 Dhou El Hidja 1444 correspondant au 21 juin 2023 portant loi monétaire et bancaire, pour effectuer les opérations de change manuel ci-après :\n1 - Opérations de vente, contre monnaie nationale, de monnaies étrangères librement convertibles, au profit des personnes physiques résidentes, dont la nature porte sur le droit ou l’allocation de change au titre de :\n- voyages à l’étranger ;\n- soins médicaux à l’étranger ;\n- frais de mission ;\n- frais d’études et de stages.\n2 - Opérations de vente, contre monnaie nationale, de monnaies étrangères librement convertibles, au profit des personnes physiques non-résidentes, au titre du reliquat dinars en leur possession à la fin de leur séjour en Algérie et provenant d’une cession de devises préalablement réalisée ;\n3 - Opérations d’achat, contre monnaie nationale, de monnaies étrangères librement convertibles, auprès de personnes physiques résidentes ou non-résidentes.",
+      "paragraphs": [
+        {
+          "text": "Au sens du présent règlement, il est entendu par bureau de change, toute société de change créée selon les formes prévues par l’article 91 de la loi n° 23-09 du 3 Dhou El Hidja 1444 correspondant au 21 juin 2023 portant loi monétaire et bancaire, pour effectuer les opérations de change manuel ci-après :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "1 - Opérations de vente, contre monnaie nationale, de monnaies étrangères librement convertibles, au profit des personnes physiques résidentes, dont la nature porte sur le droit ou l’allocation de change au titre de :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- voyages à l’étranger ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- soins médicaux à l’étranger ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- frais de mission ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- frais d’études et de stages.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "2 - Opérations de vente, contre monnaie nationale, de monnaies étrangères librement convertibles, au profit des personnes physiques non-résidentes, au titre du reliquat dinars en leur possession à la fin de leur séjour en Algérie et provenant d’une cession de devises préalablement réalisée ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "3 - Opérations d’achat, contre monnaie nationale, de monnaies étrangères librement convertibles, auprès de personnes physiques résidentes ou non-résidentes.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "I",
+          "heading": "Autorisation de constitution d’un bureau de change :",
+          "label": "Section I"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "La demande d’autorisation de constitution d’un bureau de change est adressée au président du Conseil monétaire et bancaire pour examen par le Conseil.\nLa demande susvisée est appuyée d’un dossier constitutif.",
+      "paragraphs": [
+        {
+          "text": "La demande d’autorisation de constitution d’un bureau de change est adressée au président du Conseil monétaire et bancaire pour examen par le Conseil.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "La demande susvisée est appuyée d’un dossier constitutif.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "I",
+          "heading": "Autorisation de constitution d’un bureau de change :",
+          "label": "Section I"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le Conseil monétaire et bancaire notifie dans un délai de trois (3) mois, à compter de la date de réception du dossier dûment constitué, sa décision au requérant.\nL’autorisation de constitution d’un bureau de change, prend effet à compter de la date de sa notification.",
+      "paragraphs": [
+        {
+          "text": "Le Conseil monétaire et bancaire notifie dans un délai de trois (3) mois, à compter de la date de réception du dossier dûment constitué, sa décision au requérant.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "L’autorisation de constitution d’un bureau de change, prend effet à compter de la date de sa notification.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "II",
+          "heading": "Agrément d’un bureau de change :",
+          "label": "Section II"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le bureau de change ayant obtenu l'autorisation prévue aux articles 3 et 4 ci-dessus, doit, sous peine de nullité, requérir auprès du Gouverneur, l’agrément dans un délai ne dépassant pas douze (12) mois, à partir de la date de notification de l'autorisation susvisée.\nCette demande est appuyée d’un dossier d’agrément.",
+      "paragraphs": [
+        {
+          "text": "Le bureau de change ayant obtenu l'autorisation prévue aux articles 3 et 4 ci-dessus, doit, sous peine de nullité, requérir auprès du Gouverneur, l’agrément dans un délai ne dépassant pas douze (12) mois, à partir de la date de notification de l'autorisation susvisée.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Cette demande est appuyée d’un dossier d’agrément.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "II",
+          "heading": "Agrément d’un bureau de change :",
+          "label": "Section II"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 3,
+      "text": "Le capital du bureau de change dûment constaté, doit être libéré en totalité et en numéraire à sa constitution, selon les cas suivants :\na - cinq millions de dinars algériens (5.000.000 DA) pour un bureau de change constitué sous forme de société par actions ;\nb- un million de dinars algériens (1.000.000 DA) pour un bureau de change constitué sous forme :\n- de société à responsabilité limitée ; ou\n- de société par actions simplifiée.",
+      "paragraphs": [
+        {
+          "text": "Le capital du bureau de change dûment constaté, doit être libéré en totalité et en numéraire à sa constitution, selon les cas suivants :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "a - cinq millions de dinars algériens (5.000.000 DA) pour un bureau de change constitué sous forme de société par actions ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "b- un million de dinars algériens (1.000.000 DA) pour un bureau de change constitué sous forme :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- de société à responsabilité limitée ; ou",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- de société par actions simplifiée.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "II",
+          "heading": "Agrément d’un bureau de change :",
+          "label": "Section II"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Les services concernés de la Banque d'Algérie effectuent une visite préalable du local destiné à abriter l’activité de bureau de change.\nCette inspection donne lieu à l’établissement d’un rapport adressé au Gouverneur.",
+      "paragraphs": [
+        {
+          "text": "Les services concernés de la Banque d'Algérie effectuent une visite préalable du local destiné à abriter l’activité de bureau de change.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Cette inspection donne lieu à l’établissement d’un rapport adressé au Gouverneur.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "II",
+          "heading": "Agrément d’un bureau de change :",
+          "label": "Section II"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "L’agrément est accordé par décision du Gouverneur pour l’exercice de l’activité de bureau de change, dans la mesure où celui-ci a rempli toutes les conditions de constitution.\nLe bureau de change ayant obtenu l’agrément du Gouverneur doit procéder à l’exercice de son activité, dans un délai ne dépassant pas douze (12) mois, à compter de la date de la remise de l’agrément, sous peine de nullité.\nToutes modifications des statuts du bureau de change portant, notamment sur le capital ou l’actionnariat, intervenant avant ou après l’obtention de l’agrément du Gouverneur de la Banque d’Algérie, doivent être préalablement autorisées par le Conseil monétaire et bancaire.",
+      "paragraphs": [
+        {
+          "text": "L’agrément est accordé par décision du Gouverneur pour l’exercice de l’activité de bureau de change, dans la mesure où celui-ci a rempli toutes les conditions de constitution.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Le bureau de change ayant obtenu l’agrément du Gouverneur doit procéder à l’exercice de son activité, dans un délai ne dépassant pas douze (12) mois, à compter de la date de la remise de l’agrément, sous peine de nullité.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Toutes modifications des statuts du bureau de change portant, notamment sur le capital ou l’actionnariat, intervenant avant ou après l’obtention de l’agrément du Gouverneur de la Banque d’Algérie, doivent être préalablement autorisées par le Conseil monétaire et bancaire.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "II",
+          "heading": "Agrément d’un bureau de change :",
+          "label": "Section II"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Seuls les bureaux de change constitués sous forme de sociétés par actions, peuvent ouvrir plusieurs guichets de change.",
+      "paragraphs": [
+        {
+          "text": "Seuls les bureaux de change constitués sous forme de sociétés par actions, peuvent ouvrir plusieurs guichets de change.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "II",
+          "heading": "Agrément d’un bureau de change :",
+          "label": "Section II"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Les bureaux de change précédemment autorisés, disposent d’un délai de six (6)\nmois, à compter de la date d’entrée en vigueur du présent règlement, pour se conformer à ses dispositions. Au-delà de ce délai, leur autorisation d’exercer est réputée nulle.",
+      "paragraphs": [
+        {
+          "text": "Les bureaux de change précédemment autorisés, disposent d’un délai de six (6)",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "mois, à compter de la date d’entrée en vigueur du présent règlement, pour se conformer à ses dispositions. Au-delà de ce délai, leur autorisation d’exercer est réputée nulle.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "II",
+          "heading": "Agrément d’un bureau de change :",
+          "label": "Section II"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Les dispositions d’application du présent règlement, sont fixées par instruction de la Banque d’Algérie.",
+      "paragraphs": [
+        {
+          "text": "Les dispositions d’application du présent règlement, sont fixées par instruction de la Banque d’Algérie.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "II",
+          "heading": "Agrément d’un bureau de change :",
+          "label": "Section II"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Sont abrogées, toutes dispositions contraires au présent règlement, notamment celles de l’article 21 du règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007, modifié et complété, relatif aux règles applicables aux transactions courantes avec l’étranger et aux comptes devises.",
+      "paragraphs": [
+        {
+          "text": "Sont abrogées, toutes dispositions contraires au présent règlement, notamment celles de l’article 21 du règlement n° 07-01 du 15 Moharram 1428 correspondant au 3 février 2007, modifié et complété, relatif aux règles applicables aux transactions courantes avec l’étranger et aux comptes devises.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "II",
+          "heading": "Agrément d’un bureau de change :",
+          "label": "Section II"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Le présent règlement sera publié au Journal officiel de la République algérienne démocratique et populaire.\nLe Gouverneur\nSalah-Eddine TALEB",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement sera publié au Journal officiel de la République algérienne démocratique et populaire.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Salah-Eddine TALEB",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.049
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-23-01.fr.txt"
+}

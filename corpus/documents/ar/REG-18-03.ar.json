@@ -1,0 +1,459 @@
+{
+  "document_id": "REG-18-03.ar",
+  "work_id": "REG-18-03",
+  "title": "نظام رقم 18-03 المؤرخ في 4 نوفمبر 2018، يعدل ويتمم النظام رقم 18-03 المؤرخ في 4 نوفمبر 2018 يتعلق بالحد الأدنى لرأسمال البنوك والمؤسسات المالية العاملة في الجزائر.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "18-03",
+  "number_source": "libelle",
+  "date": "2018-11-04",
+  "date_raw": "المؤرخ في 4 نوفمبر 2018",
+  "date_source": "libelle",
+  "publication_date": "2023-02-28",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "règlements",
+  "subcategory": "شروط تأسيس و إنشاء البنوك و المؤسسات المالية و الحد الادنى لرأس المال",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%b4%d8%b1%d9%88%d8%b7-%d8%aa%d8%a3%d8%b3%d9%8a%d8%b3-%d9%88-%d8%a5%d9%86%d8%b4%d8%a7%d8%a1-%d8%a7%d9%84%d8%a8%d9%86%d9%88%d9%83-%d9%88-%d8%a7%d9%84%d9%85%d8%a4%d8%b3%d8%b3%d8%a7%d8%aa-%d8%a7%d9%84/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/02/03-2018.pdf",
+  "format": "pdf",
+  "file_hash": "020476f7a187b80cd6cb7f8947252d738b7cd5adf17a3d3734c4016943519395",
+  "file_size": 121450,
+  "raw_path": "raw/020476f7a187__03-2018.pdf",
+  "retrieved_at": "2026-10-05T13:28:09+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 1,
+  "url_hash": "fd97c287e7ce2474255c794c08e94f3ba0a9c2422210571c535af49c6edb2aa1",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%b4%d8%b1%d9%88%d8%b7-%d8%aa%d8%a3%d8%b3%d9%8a%d8%b3-%d9%88-%d8%a5%d9%86%d8%b4%d8%a7%d8%a1-%d8%a7%d9%84%d8%a8%d9%86%d9%88%d9%83-%d9%88-%d8%a7%d9%84%d9%85%d8%a4%d8%b3%d8%b3%d8%a7%d8%aa-%d8%a7%d9%84/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document2",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20230227102729+01'00'",
+    "modDate": "D:20230227102729+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 2228,
+        "ocr_confidence": 75.6452442159383
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 4,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_uncertain_numbers:1",
+    "ocr_utilise_verification_humaine",
+    "numerotation:articles_manquants:[2]"
+  ],
+  "title_document": "نظام رقسم 03-18 مؤرخ في 26 صفر مام 1440 الموافق 4 نو فمبر ستة 2018. Glass‏ بالهدّ الآدنى لرأسبال البنوك والمؤسسات المالية العاملة في الجزائر. Aa a ا ا‎ ET LES المواد 62 و63 و64‎ Lans والمتمة: لا‎ Jamal, بالتقد والقرض‎ و65 وةة منةه؛‎ - وبمقتضى المرسوم الرئاسي المؤزخ في 24 ذي القعدةغام 1424 الموافق 14 يناير سنة 2004 والمتضّقن",
+  "alias_urls": [],
+  "text_hash": "3644e36b2adf9c8de15112a05fdb5ad3598f1e7731cf1100befe6bf0314b9214",
+  "relations_out": [
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "08-04",
+        "date": "2008-12-23",
+        "raw": "Règlement n°08-04 du 23 décembre 2008"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Les dispositions du Règlement n°08-04 du 23 décembre 2008 relatif au capital minimum des banques",
+        "copied_from": "REG-18-03.fr"
+      },
+      "target_work_id": "REG-08-04"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "REG-08-04",
+      "reference": "Règlement n°08-04 du 23 décembre 2008",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Les dispositions du Règlement n°08-04 du 23 décembre 2008 relatif au capital minimum des banques",
+        "copied_from": "REG-18-03.fr"
+      }
+    }
+  ],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [
+    {
+      "work_id": "REG-24-02",
+      "document_id": "REG-24-02.fr",
+      "date": "2024-02-06",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Toutes les dispositions contraires au présent règlement sont abrogées, notamment celles du règlement n°18-03 du 26 Safar 1440 correspondant au 4 novembre 2018, modif"
+      }
+    }
+  ],
+  "modifie_par": [
+    {
+      "work_id": "REG-20-08",
+      "document_id": "REG-20-08.fr",
+      "date": "2020-12-07",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2020-08 du 7 décembre 2020 modifiant et complétant le règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques"
+      }
+    },
+    {
+      "work_id": "REG-20-08",
+      "document_id": "REG-20-08.fr",
+      "date": "2020-12-07",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et compléter le règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques"
+      }
+    }
+  ],
+  "complete_par": [
+    {
+      "work_id": "REG-20-08",
+      "document_id": "REG-20-08.fr",
+      "date": "2020-12-07",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2020-08 du 7 décembre 2020 modifiant et complétant le règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques"
+      }
+    },
+    {
+      "work_id": "REG-20-08",
+      "document_id": "REG-20-08.fr",
+      "date": "2020-12-07",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et compléter le règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques"
+      }
+    }
+  ],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "REG-24-02",
+      "document_id": "REG-24-02.fr",
+      "date": "2024-02-06",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Toutes les dispositions contraires au présent règlement sont abrogées, notamment celles du règlement n°18-03 du 26 Safar 1440 correspondant au 4 novembre 2018, modif"
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [
+    "REG-18-03.fr",
+    "REG-18-03.fr~2"
+  ],
+  "complété_par": [
+    {
+      "work_id": "REG-20-08",
+      "document_id": "REG-20-08.fr",
+      "date": "2020-12-07",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2020-08 du 7 décembre 2020 modifiant et complétant le règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques"
+      }
+    },
+    {
+      "work_id": "REG-20-08",
+      "document_id": "REG-20-08.fr",
+      "date": "2020-12-07",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et compléter le règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques"
+      }
+    }
+  ],
+  "modifié_par": [
+    {
+      "work_id": "REG-20-08",
+      "document_id": "REG-20-08.fr",
+      "date": "2020-12-07",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2020-08 du 7 décembre 2020 modifiant et complétant le règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques"
+      }
+    },
+    {
+      "work_id": "REG-20-08",
+      "document_id": "REG-20-08.fr",
+      "date": "2020-12-07",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et compléter le règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques"
+      }
+    }
+  ],
+  "abrogé_par": [
+    {
+      "work_id": "REG-24-02",
+      "document_id": "REG-24-02.fr",
+      "date": "2024-02-06",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Toutes les dispositions contraires au présent règlement sont abrogées, notamment celles du règlement n°18-03 du 26 Safar 1440 correspondant au 4 novembre 2018, modif"
+      }
+    }
+  ],
+  "remplacé_par": [],
+  "complète": [],
+  "ocr_numeric_check": {
+    "units": 5,
+    "units_flagged": 1,
+    "units_compared_with_french": 4,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "نظام رقسم 03-18 مؤرخ في 26 صفر مام 1440 الموافق 4 نو فمبر ستة 2018. Glass‏ بالهدّ الآدنى لرأسبال البنوك والمؤسسات المالية العاملة في الجزائر.\nAa a ا ا‎ ET LES المواد 62 و63 و64‎ Lans والمتمة: لا‎ Jamal, بالتقد والقرض‎ و65 وةة منةه؛‎\n- وبمقتضى المرسوم الرئاسي المؤزخ في 24 ذي القعدةغام 1424 الموافق 14 يناير سنة 2004 والمتضّقن تعيين أعضاء. في مجلس a‏ والقرض لبنك الجزائر, الأولى عام 1427 المواقفق أول بونيو سنة 2006 والمتضكن 7 السواقق 17 توقميرستة 2015 A à‏ هسكن can‏ Lie)‏ في مجلس إدارة بنك الجزائر :\n— وبمقتضى المرسوم الرئاسي المؤرخ في 24 شعبان علم 1437 الموافق 31 مانيو ستة 2016 والمتشضسن تعيين عام 1438 الموافق 17 توفمبر Lu‏ 2016 والمتضصمن Ce‏\n- ويمقتضى النظام رقم 04-08 المؤرخ في 25 ذي الحجة الأدنى لر سمال البنوك والمؤسسات المالية العاملة في الجزائر\n- و بعد الاطلاع على مداولة مجلس النقد والقرض بتاريخ 4 نوقمبس سنة 2018, يصدر النظام الأتي نصه :",
+      "paragraphs": [
+        {
+          "text": "نظام رقسم 03-18 مؤرخ في 26 صفر مام 1440 الموافق 4 نو فمبر ستة 2018. Glass‏ بالهدّ الآدنى لرأسبال البنوك والمؤسسات المالية العاملة في الجزائر.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Aa a ا ا‎ ET LES المواد 62 و63 و64‎ Lans والمتمة: لا‎ Jamal, بالتقد والقرض‎ و65 وةة منةه؛‎",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى المرسوم الرئاسي المؤزخ في 24 ذي القعدةغام 1424 الموافق 14 يناير سنة 2004 والمتضّقن تعيين أعضاء. في مجلس a‏ والقرض لبنك الجزائر, الأولى عام 1427 المواقفق أول بونيو سنة 2006 والمتضكن 7 السواقق 17 توقميرستة 2015 A à‏ هسكن can‏ Lie)‏ في مجلس إدارة بنك الجزائر :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "— وبمقتضى المرسوم الرئاسي المؤرخ في 24 شعبان علم 1437 الموافق 31 مانيو ستة 2016 والمتشضسن تعيين عام 1438 الموافق 17 توفمبر Lu‏ 2016 والمتضصمن Ce‏",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- ويمقتضى النظام رقم 04-08 المؤرخ في 25 ذي الحجة الأدنى لر سمال البنوك والمؤسسات المالية العاملة في الجزائر",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- و بعد الاطلاع على مداولة مجلس النقد والقرض بتاريخ 4 نوقمبس سنة 2018, يصدر النظام الأتي نصه :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يهدف هذا النظام إلى تحديد الحد الأدنى للرأسمال الذي يجب على البتوك والمؤسسات المالية العاملة في Hell‏ أن تحرّره عند تأسيسها.\nالسادة2 : يجب على البنوك والمؤس سات المالية, الجزائري. أن تمتلك عند تأسيسها. رأسمالا مهرّرا كليا ونقدا يساوي على AJ‏ أ) عشرين مليار ss‏ (20.000.000.000 دج) بالئسية للبنوك المنصوص عليها في المادة 70 من الأمر رقم 11-03 المؤرخ في 27 جمادى الثانية عام 1424 الموافق 26 غشت Liu‏ 2003, المعدل والمتمم والمذكور ee‏ (ps 6.500.000.000)‏ بالنسبة للمؤسسات المالية المحدّدة الثانية غام 1424 الموافق 26 غشت سنة 2003, المعدل والمتمم والمذكور أعلاه.",
+      "paragraphs": [
+        {
+          "text": "يهدف هذا النظام إلى تحديد الحد الأدنى للرأسمال الذي يجب على البتوك والمؤسسات المالية العاملة في Hell‏ أن تحرّره عند تأسيسها.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "السادة2 : يجب على البنوك والمؤس سات المالية, الجزائري. أن تمتلك عند تأسيسها. رأسمالا مهرّرا كليا ونقدا يساوي على AJ‏ أ) عشرين مليار ss‏ (20.000.000.000 دج) بالئسية للبنوك المنصوص عليها في المادة 70 من الأمر رقم 11-03 المؤرخ في 27 جمادى الثانية عام 1424 الموافق 26 غشت Liu‏ 2003, المعدل والمتمم والمذكور ee‏ (ps 6.500.000.000)‏ بالنسبة للمؤسسات المالية المحدّدة الثانية غام 1424 الموافق 26 غشت سنة 2003, المعدل والمتمم والمذكور أعلاه.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يجب على البنوك والمؤسسات المالية التي يوجد مقرهاالرئيسي في الخارج؛ أن تمنح لفروغها التي laut Li‏ الفنظلون لتتسنس fall‏ والتؤسسات LL‏ الخاضعة للقانون الجزائري المنتمية لنفس الفنّة والتي تم يجب تحرير هذا التخصيص وفق نفس الشرو ط الواردة à‏ المادة 2 أعلاة.",
+      "paragraphs": [
+        {
+          "text": "يجب على البنوك والمؤسسات المالية التي يوجد مقرهاالرئيسي في الخارج؛ أن تمنح لفروغها التي laut Li‏ الفنظلون لتتسنس fall‏ والتؤسسات LL‏ الخاضعة للقانون الجزائري المنتمية لنفس الفنّة والتي تم يجب تحرير هذا التخصيص وفق نفس الشرو ط الواردة à‏ المادة 2 أعلاة.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تلزم الينوك و السؤسسات المالية الفاملة 2020 يسناوي: على JAN‏ :\n- خمسة عشر مليار ديخار (15.000.000.000 (gs‏ وعند انقضاء الأجل الوارد في الفقرة الأولى cel‏ 11-3 المؤرخ في 27 جمادى الثانية عام 1424 الموافق 26 Lis Cube‏ 2003 المعدل والمتمم والفذكور se]‏",
+      "paragraphs": [
+        {
+          "text": "تلزم الينوك و السؤسسات المالية الفاملة 2020 يسناوي: على JAN‏ :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- خمسة عشر مليار ديخار (15.000.000.000 (gs‏ وعند انقضاء الأجل الوارد في الفقرة الأولى cel‏ 11-3 المؤرخ في 27 جمادى الثانية عام 1424 الموافق 26 Lis Cube‏ 2003 المعدل والمتمم والفذكور se]‏",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تلغى أحكام النظام رقم 04-08 المؤر خ في 25 ذي الحمجة عام 1429 الموافق 23 ديسمبر Line‏ 2008 والمتعلق Sail‏ الآدتى لرأسمال البنوك والمؤسسات المالية العاملة للجمهوريّة الجزائريّة الثيمقراطيّة الشعبية.\nحرّر بالجزائر في 26 صفر عام 1440 الموافق 4 نوفمبر Liu‏ 2015 محيد لوكشال",
+      "paragraphs": [
+        {
+          "text": "تلغى أحكام النظام رقم 04-08 المؤر خ في 25 ذي الحمجة عام 1429 الموافق 23 ديسمبر Line‏ 2008 والمتعلق Sail‏ الآدتى لرأسمال البنوك والمؤسسات المالية العاملة للجمهوريّة الجزائريّة الثيمقراطيّة الشعبية.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "حرّر بالجزائر في 26 صفر عام 1440 الموافق 4 نوفمبر Liu‏ 2015 محيد لوكشال",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_uncertain_numbers:1",
+      "ocr_utilise_verification_humaine",
+      "numerotation:articles_manquants:[2]"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.052,
+      "ocr_pages": [
+        1
+      ],
+      "ocr_mean_confidence": 75.6
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/REG-18-03.ar.txt"
+}

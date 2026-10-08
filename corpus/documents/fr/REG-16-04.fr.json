@@ -1,0 +1,563 @@
+{
+  "document_id": "REG-16-04.fr",
+  "work_id": "REG-16-04",
+  "title": "Règlement n°2016-04 du 17 novembre 2016 modifiant et complétant le règlement n°2007-01 du 3 février 2007 relatif aux règles applicables aux transactions courantes avec l’étranger et aux comptes devises.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "2016-04",
+  "number_source": "en-tête du document",
+  "date": "2016-11-17",
+  "date_raw": "N°2016-04 DU 17 NOVEMBRE 2016",
+  "date_source": "en-tête du document",
+  "publication_date": "2023-01-25",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Règlementation des changes",
+  "source_url": "https://www.bank-of-algeria.dz/devises-reglement/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/reglement201604.pdf",
+  "format": "pdf",
+  "file_hash": "001bf1cf97d0f72916e799fb7e4b42b68a9a7ce935326927c71864f82e5baf2e",
+  "file_size": 54520,
+  "raw_path": "raw/001bf1cf97d0__reglement201604.pdf",
+  "retrieved_at": "2026-10-05T13:26:55+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "b357046f5c2d6df4f2763efd4a9e1dbf84c6db778f1626319e8d744f50857570",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/devises-reglement/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - 2",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200727144435+01'00'",
+    "modDate": "D:20200727144435+01'00'"
+  },
+  "hijri_date_raw": "23 Safar 1417",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 3721,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 2109,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 4,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "REGLEMENT N°2016-04 DU 17 NOVEMBRE 2016 MODIFIANT ET COMPLETANT LE REGLEMENT N°2007-01 DU 03 FEVRIER 2007 RELATIF AUX REGLES APPLICABLES AUX TRANSACTIONS COURANTES AVEC L’ETRANGER ET AUX COMPTES DEVISES",
+  "alias_urls": [],
+  "text_hash": "0de31ec87487ae0a490f6d98ad3caad617a5fa867aa74b11e82a2d5de776dc0d",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "2007-01",
+        "date": "2007-02-03",
+        "raw": "règlement n°2007-01 du 3 février 2007"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2016-04 du 17 novembre 2016 modifiant et complétant le règlement n°2007-01 du 3 février 2007 relatif aux règles applicables aux tran"
+      },
+      "target_work_id": "REG-07-01"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "2007-01",
+        "date": "2007-02-03",
+        "raw": "règlement n°2007-01 du 3 février 2007"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2016-04 du 17 novembre 2016 modifiant et complétant le règlement n°2007-01 du 3 février 2007 relatif aux règles applicables aux tran"
+      },
+      "target_work_id": "REG-07-01"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "07-01",
+        "date": null,
+        "raw": "règlement n°07-01 du 15 Moharram 1428"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modif"
+      },
+      "target_work_id": "REG-07-01"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "07-01",
+        "date": null,
+        "raw": "règlement n°07-01 du 15 Moharram 1428"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modif"
+      },
+      "target_work_id": "REG-07-01"
+    },
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "11-06",
+        "date": null,
+        "raw": "règlement n°11-06"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Les dispositions contraires au présent règlement sont abrogées, notamment le règlement n°11-06 du 21 Dhou El Kaada 1432 correspondant"
+      },
+      "target_work_id": "REG-11-06"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "REG-11-06",
+      "reference": "règlement n°11-06",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Les dispositions contraires au présent règlement sont abrogées, notamment le règlement n°11-06 du 21 Dhou El Kaada 1432 correspondant"
+      }
+    }
+  ],
+  "modifie": [
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n°2007-01 du 3 février 2007",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2016-04 du 17 novembre 2016 modifiant et complétant le règlement n°2007-01 du 3 février 2007 relatif aux règles applicables aux tran"
+      }
+    },
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n°07-01 du 15 Moharram 1428",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modif"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n°2007-01 du 3 février 2007",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2016-04 du 17 novembre 2016 modifiant et complétant le règlement n°2007-01 du 3 février 2007 relatif aux règles applicables aux tran"
+      }
+    },
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n°07-01 du 15 Moharram 1428",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modif"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-16-04.ar"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n°2007-01 du 3 février 2007",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2016-04 du 17 novembre 2016 modifiant et complétant le règlement n°2007-01 du 3 février 2007 relatif aux règles applicables aux tran"
+      }
+    },
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n°07-01 du 15 Moharram 1428",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modif"
+      }
+    }
+  ],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°2016-04 DU 17 NOVEMBRE 2016 MODIFIANT ET COMPLETANT\nLE REGLEMENT N°2007-01 DU 03 FEVRIER 2007 RELATIF AUX REGLES APPLICABLES\nAUX TRANSACTIONS COURANTES AVEC L’ETRANGER ET AUX COMPTES DEVISES\nLe Gouverneur de la Banque d’Algérie,\n- Vu l’ordonnance n°75-59 du 26 septembre 1975, modifiée et complétée, portant code de commerce ;\n- Vu la loi n°79-07 du 21 juillet 1979, modifiée et complétée, portant code des douanes ;\n- Vu l’ordonnance n°96-09 du 19 châabane 1416 correspondant au 10 janvier 1996 relative au crédit-bail ;\n- Vu l’ordonnance n°96-22 du 23 Safar 1417 correspondant au 09 juillet 1996, modifiée et complétée, relative à la répression de l’infraction à la législation et à la réglementation des changes et des mouvements de capitaux de et vers l’étranger ;\n- Vu l’ordonnance n°01-03 du Aouel Joumada Ethania 1422 correspondant au 20 août 2001, modifiée et complétée relative au développement des investissements ;\n- Vu l’ordonnance n°03-04 du 19 Joumada El Oula 1424 correspondant au 19 juillet 2003, modifiée et complétée relative aux règles générales applicables aux opérations d’importation et d’exportation de marchandises,\n- Vu l’ordonnance n°03-11 du 27 Joumada Ethani 1424 correspondant au 26 août 2003, modifiée et complétée, relative à la monnaie et au crédit, notamment son article 62 point m ;\n- Vu la loi n°05-01 du 27 Dhou El hidja 1425 correspondant au 06 février 2005, modifiée et complétée, relative à la prévention et à la lutte contre le blanchiment d’argent et le financement du terrorisme ;\n- Vu l’ordonnance n°05-05 du 18 Joumada Ethania 1426 correspondant au 25 juillet 2005 portant loi de finances complémentaire pour 2005 ;\n- Vu la loi n°05-07 du 19 Rabie El Aouel 1426 correspondant au 28 avril 2005, modifiée et complétée, relative aux hydrocarbures ;\n- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 02 juin 2001 portant nomination du Gouverneur et Vice-Gouverneurs de la Banque d’Algérie ;\n- Vu le décret présidentiel du 24 Dhou El Kaâda 1424 correspondant au 14 janvier 2004 portant nomination des membres du conseil de la monnaie et du crédit de la Banque d’Algérie ;\n- Vu le décret présidentiel du 05 Joumada El Oula 1427 correspondant au 1er juin 2006, portant nomination d’un vice-gouverneur de la Banque d’Algérie ;\n- Vu le décret présidentiel du 05 Safar 1437 correspondant au 17 novembre 2015 portant nomination de membres du conseil d’administration de la Banque d’Algérie ;\n- Vu le décret présidentiel du 24 Chaabane 1437 correspondant au 31 mai 2016 portant nomination du Gouverneur de la Banque d’Algérie ;\n- Vu le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modifié et complété, relatif aux règles applicables aux transactions courantes avec l’étranger et aux comptes devises ;\n- Vu le règlement n°11-06 du 21 Dhou El Kaada 1432 correspondant au 19 octobre 2011 modifiant et complétant le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007relatif aux règles applicables aux transactions courantes avec l’étranger et aux comptes devises.\n- Vu le règlement n°12-03 du 14 Moharam 1434 correspondant au 28 novembre 2012 relatif à la prévention et à la lutte contre le blanchiment d’argent et le financement du terrorisme ;\n- Vu les délibérations du Conseil de la monnaie et du crédit en date du 17 novembre 2016 ;\nPromulgue le règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°2016-04 DU 17 NOVEMBRE 2016 MODIFIANT ET COMPLETANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "LE REGLEMENT N°2007-01 DU 03 FEVRIER 2007 RELATIF AUX REGLES APPLICABLES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AUX TRANSACTIONS COURANTES AVEC L’ETRANGER ET AUX COMPTES DEVISES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d’Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’ordonnance n°75-59 du 26 septembre 1975, modifiée et complétée, portant code de commerce ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la loi n°79-07 du 21 juillet 1979, modifiée et complétée, portant code des douanes ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’ordonnance n°96-09 du 19 châabane 1416 correspondant au 10 janvier 1996 relative au crédit-bail ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’ordonnance n°96-22 du 23 Safar 1417 correspondant au 09 juillet 1996, modifiée et complétée, relative à la répression de l’infraction à la législation et à la réglementation des changes et des mouvements de capitaux de et vers l’étranger ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’ordonnance n°01-03 du Aouel Joumada Ethania 1422 correspondant au 20 août 2001, modifiée et complétée relative au développement des investissements ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’ordonnance n°03-04 du 19 Joumada El Oula 1424 correspondant au 19 juillet 2003, modifiée et complétée relative aux règles générales applicables aux opérations d’importation et d’exportation de marchandises,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’ordonnance n°03-11 du 27 Joumada Ethani 1424 correspondant au 26 août 2003, modifiée et complétée, relative à la monnaie et au crédit, notamment son article 62 point m ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la loi n°05-01 du 27 Dhou El hidja 1425 correspondant au 06 février 2005, modifiée et complétée, relative à la prévention et à la lutte contre le blanchiment d’argent et le financement du terrorisme ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’ordonnance n°05-05 du 18 Joumada Ethania 1426 correspondant au 25 juillet 2005 portant loi de finances complémentaire pour 2005 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la loi n°05-07 du 19 Rabie El Aouel 1426 correspondant au 28 avril 2005, modifiée et complétée, relative aux hydrocarbures ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 02 juin 2001 portant nomination du Gouverneur et Vice-Gouverneurs de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 24 Dhou El Kaâda 1424 correspondant au 14 janvier 2004 portant nomination des membres du conseil de la monnaie et du crédit de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 05 Joumada El Oula 1427 correspondant au 1er juin 2006, portant nomination d’un vice-gouverneur de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 05 Safar 1437 correspondant au 17 novembre 2015 portant nomination de membres du conseil d’administration de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 24 Chaabane 1437 correspondant au 31 mai 2016 portant nomination du Gouverneur de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modifié et complété, relatif aux règles applicables aux transactions courantes avec l’étranger et aux comptes devises ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n°11-06 du 21 Dhou El Kaada 1432 correspondant au 19 octobre 2011 modifiant et complétant le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007relatif aux règles applicables aux transactions courantes avec l’étranger et aux comptes devises.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n°12-03 du 14 Moharam 1434 correspondant au 28 novembre 2012 relatif à la prévention et à la lutte contre le blanchiment d’argent et le financement du terrorisme ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu les délibérations du Conseil de la monnaie et du crédit en date du 17 novembre 2016 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modifié et complété, relatif aux règles applicables aux transactions courantes avec l’étranger et aux comptes devises.",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement a pour objet de modifier et de compléter le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007, modifié et complété, relatif aux règles applicables aux transactions courantes avec l’étranger et aux comptes devises.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "L’article 61 du règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007 susvisé, est modifié, complété et rédigé comme suit :\n« Article 61 : Le contrat d’exportation hors hydrocarbures peut être établi au comptant ou à crédit.\nL’exportateur doit rapatrier la recette provenant de l’exportation dans un délai fixé à trois cent soixante (360) jours, à compter de la date d’expédition, pour les biens ou de la date de réalisation pour les services.\nLe délai de trois cent soixante (360) jours constitue un maximum que peut accorder un exportateur à son client non-résident. Le délai de paiement doit expressément être transcrit dans le contrat commercial.\nEn tout état de cause, le rapatriement du produit de l’exportation doit intervenir le jour de son paiement.\nLorsque l’exportation porte sur des biens de consommation durable ou d’équipements et dont le règlement est exigible dans un délai excédant trois cent soixante (360) jours, une instruction de la Banque d’Algérie précisera les conditions d’application.\nSous réserve de ce qui précède, lorsque le délai de règlement accordé par l’opérateur/ exportateur au client non résident, est compris entre cent quatre-vingt (180) et trois cent soixante (360) jours, voire plus, l’opération d’exportation doit être adossée, au préalable, à une assurance-crédit à l’exportation, souscrite auprès de l’organisme national habilité en la matière.\nDans ce cas de figure, l’opérateur/exportateur peut prétendre à des avances en dinars sur recettes d’exportation, de la part de la Banque commerciale ».",
+      "paragraphs": [
+        {
+          "text": "L’article 61 du règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007 susvisé, est modifié, complété et rédigé comme suit :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "« Article 61 : Le contrat d’exportation hors hydrocarbures peut être établi au comptant ou à crédit.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "L’exportateur doit rapatrier la recette provenant de l’exportation dans un délai fixé à trois cent soixante (360) jours, à compter de la date d’expédition, pour les biens ou de la date de réalisation pour les services.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le délai de trois cent soixante (360) jours constitue un maximum que peut accorder un exportateur à son client non-résident. Le délai de paiement doit expressément être transcrit dans le contrat commercial.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "En tout état de cause, le rapatriement du produit de l’exportation doit intervenir le jour de son paiement.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Lorsque l’exportation porte sur des biens de consommation durable ou d’équipements et dont le règlement est exigible dans un délai excédant trois cent soixante (360) jours, une instruction de la Banque d’Algérie précisera les conditions d’application.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Sous réserve de ce qui précède, lorsque le délai de règlement accordé par l’opérateur/ exportateur au client non résident, est compris entre cent quatre-vingt (180) et trois cent soixante (360) jours, voire plus, l’opération d’exportation doit être adossée, au préalable, à une assurance-crédit à l’exportation, souscrite auprès de l’organisme national habilité en la matière.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Dans ce cas de figure, l’opérateur/exportateur peut prétendre à des avances en dinars sur recettes d’exportation, de la part de la Banque commerciale ».",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les dispositions contraires au présent règlement sont abrogées, notamment le règlement n°11-06 du 21 Dhou El Kaada 1432 correspondant au 19 octobre 2011 modifiant et complétant le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007relatif aux règles applicables aux transactions courantes avec l’étranger et aux comptes devises.",
+      "paragraphs": [
+        {
+          "text": "Les dispositions contraires au présent règlement sont abrogées, notamment le règlement n°11-06 du 21 Dhou El Kaada 1432 correspondant au 19 octobre 2011 modifiant et complétant le règlement n°07-01 du 15 Moharram 1428 correspondant au 03 février 2007relatif aux règles applicables aux transactions courantes avec l’étranger et aux comptes devises.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le présent Règlement sera publié au Journal Officiel de la République algérienne démocratique et populaire.\nLe Gouverneur,\nMohamed LOUKAL",
+      "paragraphs": [
+        {
+          "text": "Le présent Règlement sera publié au Journal Officiel de la République algérienne démocratique et populaire.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Gouverneur,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Mohamed LOUKAL",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.041
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-16-04.fr.txt"
+}

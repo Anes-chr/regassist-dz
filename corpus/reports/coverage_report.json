@@ -1,0 +1,221 @@
+{
+  "generated_at": "2026-10-07T08:24:55+00:00",
+  "url_de_depart": [
+    "https://www.bank-of-algeria.dz/",
+    "https://www.bank-of-algeria.dz/wp-sitemap.xml",
+    "https://www.bank-of-algeria.dz/cadre-legislatif-et-reglementaire/",
+    "https://www.bank-of-algeria.dz/loi-monnaie-et-credit/",
+    "https://www.bank-of-algeria.dz/les-lignes-directrice/",
+    "https://www.bank-of-algeria.dz/les-notes-aux-banques-2/",
+    "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1-%d8%a7%d9%84%d8%aa%d8%b4%d8%b1%d9%8a%d8%b9%d9%8a-%d9%88-%d8%a7%d9%84%d8%aa%d9%86%d8%b8%d9%8a%d9%85%d9%8a/"
+  ],
+  "sitemaps_lus": [
+    "https://www.bank-of-algeria.dz/wp-sitemap.xml",
+    "https://www.bank-of-algeria.dz/wp-sitemap-posts-post-1.xml",
+    "https://www.bank-of-algeria.dz/wp-sitemap-posts-page-1.xml",
+    "https://www.bank-of-algeria.dz/wp-sitemap-posts-e-landing-page-1.xml",
+    "https://www.bank-of-algeria.dz/wp-sitemap-posts-elementskit_content-1.xml",
+    "https://www.bank-of-algeria.dz/wp-sitemap-posts-elementskit_template-1.xml",
+    "https://www.bank-of-algeria.dz/wp-sitemap-taxonomies-category-1.xml",
+    "https://www.bank-of-algeria.dz/wp-sitemap-taxonomies-post_tag-1.xml",
+    "https://www.bank-of-algeria.dz/wp-sitemap-taxonomies-post_format-1.xml"
+  ],
+  "urls_visitees": 2942,
+  "pages_en_succes": 2943,
+  "urls_ignorees": {
+    "excluded_pattern(feed/api/admin/preview/search)": 1
+  },
+  "pourquoi_urls_ignorees": {
+    "external_domain": "hors domaine officiel (réseaux sociaux, sites tiers) — hors périmètre",
+    "excluded_pattern(feed/api/admin/preview/search)": "flux, API, admin, brouillons/aperçus, recherche : pas de contenu éditorial",
+    "robots_disallowed": "interdit par robots.txt (respecté)"
+  },
+  "urls_en_echec": [
+    {
+      "url": "https://www.bank-of-algeria.dz/reglement-comptes-devises/",
+      "status": 404
+    },
+    {
+      "url": "https://www.bank-of-algeria.dz/reglement-2016/",
+      "status": 404
+    },
+    {
+      "url": "https://www.bank-of-algeria.dz/publications-et-statistiques/",
+      "status": 404
+    },
+    {
+      "url": "https://www.bank-of-algeria.dz/ar/%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d9%85%d8%a7%d9%84-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d8%a8%d9%86%d9%88%d9%83/",
+      "status": 404
+    }
+  ],
+  "pages_juridiques_identifiees": 159,
+  "pages_juridiques_non_explorees": [],
+  "liens_documents_trouves_total": 5258,
+  "documents_uniques_trouves": 2824,
+  "documents_dans_perimetre": 1188,
+  "documents_hors_perimetre": 1636,
+  "raisons_perimetre": {
+    "in_scope:page_juridique": 977,
+    "libelle_non_normatif": 170,
+    "in_scope:type_juridique_dans_libelle": 211,
+    "hors_pages_juridiques_et_sans_type_juridique": 1465,
+    "external_domain": 1
+  },
+  "documents_telecharges_nouveaux": 13,
+  "documents_inchanges": 1156,
+  "documents_modifies": 0,
+  "documents_non_accessibles": [
+    {
+      "url": "https://www.bank-of-algeria.dz/pdf/instructions1990/instruction0690.pdf",
+      "status": 404,
+      "error": null,
+      "title": "Instruction n°06-90 du 16 décembre 1990 définissant",
+      "source_page": "https://www.bank-of-algeria.dz/importations-exportations-instruction/"
+    },
+    {
+      "url": "https://www.bank-of-algeria.dz/pdf/instructions1995/instruction7895.pdf",
+      "status": 404,
+      "error": null,
+      "title": "Instruction N°78-95 du 26 Décembre 1995 Portant Règles Relatives aux Positions de Change.",
+      "source_page": "https://www.bank-of-algeria.dz/organisation-et-fonctionnement-du-marche-interbancaire-des-changes-2/"
+    },
+    {
+      "url": "https://www.bank-of-algeria.dz/pdf/instructions1995/instruction7995.pdf",
+      "status": 404,
+      "error": null,
+      "title": "Instruction N°79-95 du 27 Décembre 1995 Portant Organisation et Fonctionnement du Marché Interbancaire des Changes.",
+      "source_page": "https://www.bank-of-algeria.dz/organisation-et-fonctionnement-du-marche-interbancaire-des-changes-2/"
+    },
+    {
+      "url": "https://www.bank-of-algeria.dz/pdf/instructions2002/instruction042002.pdf",
+      "status": 404,
+      "error": null,
+      "title": "nstruction n°04-2002 du 23 septembre 2002 déterminant les conditions et les modalités de transfert des budgets prévisionnels annuels de dépenses et de rapatriements des excédents de recettes des représentations a l’étranger des opérateurs économiques de droit algérien.",
+      "source_page": "https://www.bank-of-algeria.dz/importations-exportations-instruction/"
+    },
+    {
+      "url": "https://www.bank-of-algeria.dz/pdf/instructions2004/instruction012004.pdf",
+      "status": 404,
+      "error": null,
+      "title": "Instruction n°01-2004 du 04 mars 2004 fixant le taux de réescompte.",
+      "source_page": "https://www.bank-of-algeria.dz/marche-monetaire-instruction/"
+    },
+    {
+      "url": "https://www.bank-of-algeria.dz/pdf/instructions2011/instruction042011.pdf",
+      "status": 404,
+      "error": null,
+      "title": "Instruction n°04-2011 du 19 octobre 2011 modifiant et complétant l’instruction n°79-95 du 27 décembre 1995 portant organisation et fonctionnement du marché interbancaire des changes.",
+      "source_page": "https://www.bank-of-algeria.dz/organisation-et-fonctionnement-du-marche-interbancaire-des-changes-2/"
+    },
+    {
+      "url": "https://www.bank-of-algeria.dz/pdf/instructions2011/instruction062011.pdf",
+      "status": 404,
+      "error": null,
+      "title": "Instruction n°06-2011 du 20 octobre 2011 portant détermination du taux de la prime due au titre de la participation au fonds de garantie des dépôts bancaires.",
+      "source_page": "https://www.bank-of-algeria.dz/annee-2011/"
+    },
+    {
+      "url": "https://www.bank-of-algeria.dz/pdf/instructions2017/instruction022017.pdf",
+      "status": 404,
+      "error": null,
+      "title": "Instruction n°02-2017 du 1 er mars 2017 complétant l’instruction",
+      "source_page": "https://www.bank-of-algeria.dz/marche-monetaire-instruction/"
+    },
+    {
+      "url": "https://www.bank-of-algeria.dz/pdf/instructions2017/instruction062017.pdf",
+      "status": 404,
+      "error": null,
+      "title": "Instruction n°06-2017 du 26 novembre 2017 Portant organisation et fonctionnement du marché interbancaire des changes.",
+      "source_page": "https://www.bank-of-algeria.dz/organisation-et-fonctionnement-du-marche-interbancaire-des-changes-2/"
+    },
+    {
+      "url": "https://www.bank-of-algeria.dz/pdf/instructions2020/instruction112020.pdf",
+      "status": 404,
+      "error": null,
+      "title": "I nstruction n°11-2020 du 27 octobre 2020 précisant les éléments du dossier à fournir à l’appui de la demande d’autorisation de commercialisation d’un nouveau produit ou service bancaire par les banques et les établissements financiers",
+      "source_page": "https://www.bank-of-algeria.dz/normalisation-instruction/"
+    },
+    {
+      "url": "https://www.bank-of-algeria.dz/pdf/instructions2021/instruction022021.pdf",
+      "status": 404,
+      "error": null,
+      "title": "réserves obligatoires.",
+      "source_page": "https://www.bank-of-algeria.dz/marche-monetaire-instruction/"
+    },
+    {
+      "url": "https://www.bank-of-algeria.dz/pdf/nb1998/note1198.pdf",
+      "status": 404,
+      "error": null,
+      "title": "elative à la domiciliation de contrats d’importation pour l’acquisition à l’étranger de petits équipements et/ou autres marchandises.",
+      "source_page": "https://www.bank-of-algeria.dz/les-notes-aux-banques-1998/"
+    },
+    {
+      "url": "https://www.bank-of-algeria.dz/pdf/nb1998/notedgrfe_081298.pdf",
+      "status": 404,
+      "error": null,
+      "title": "ouverture de comptes en Euro pour la clientèle des banques et établissements financiers.",
+      "source_page": "https://www.bank-of-algeria.dz/les-notes-aux-banques-1998/"
+    },
+    {
+      "url": "https://www.bank-of-algeria.dz/pdf/nb1998/noteorientation0398.pdf",
+      "status": 404,
+      "error": null,
+      "title": "d’application de l’instruction n°07-97 du 17 août 1997 et de la note DGRFE/SCT/054 du 17 août 1997.",
+      "source_page": "https://www.bank-of-algeria.dz/les-notes-aux-banques-1998/"
+    },
+    {
+      "url": "https://www.bank-of-algeria.dz/pdf/reglements1994/reglement9417.pdf",
+      "status": 404,
+      "error": null,
+      "title": "Règlement n°94-17 du 22 octobre 1994 définissant la réglementation des changes spécifique aux zones franches.",
+      "source_page": "https://www.bank-of-algeria.dz/reglement-1994/"
+    },
+    {
+      "url": "https://www.bank-of-algeria.dz/pdf/reglements1995/reglement9508.pdf",
+      "status": 404,
+      "error": null,
+      "title": "Règlement n°95-08 du 23 décembre 1995 relatif au marché des changes.",
+      "source_page": "https://www.bank-of-algeria.dz/organisation-et-fonctionnement-du-marche-interbancaire-des-changes-2/"
+    },
+    {
+      "url": "https://www.bank-of-algeria.dz/pdf/reglements2009/reglement200901.pdf",
+      "status": 404,
+      "error": null,
+      "title": "Règlement n°2009-01 du 17 février 2009 relatif aux comptes devises des personnes physiques, de nationalité étrangère, résidentes et non résidentes et des personnes morales non résidentes.",
+      "source_page": "https://www.bank-of-algeria.dz/reglement-2010/"
+    },
+    {
+      "url": "https://www.bank-of-algeria.dz/pdf/reglements2017/reglement201701.pdf",
+      "status": 404,
+      "error": null,
+      "title": "Règlement n°2017-01 du 10 juillet 2017 relatif au marché interbancaire des changes et aux instruments de couverture du risque de change.",
+      "source_page": "https://www.bank-of-algeria.dz/organisation-et-fonctionnement-du-marche-interbancaire-des-changes-2/"
+    },
+    {
+      "url": "https://www.bank-of-algeria.dz/pdf/reglements2020/reglement202004.pdf",
+      "status": 404,
+      "error": null,
+      "title": "Règlement n°2020-04 du 15 mars 2020 relatif au marché interbancaire des changes, des opérations de trésorerie devise et aux instruments de couverture du risque de change",
+      "source_page": "https://www.bank-of-algeria.dz/organisation-et-fonctionnement-du-marche-interbancaire-des-changes-2/"
+    }
+  ],
+  "liens_casses_depuis_pages_juridiques": [
+    {
+      "linked_from": "https://www.bank-of-algeria.dz/cadre-legislatif-et-reglementaire/",
+      "url": "https://www.bank-of-algeria.dz/reglement-comptes-devises/",
+      "status": 404,
+      "anchor": "–"
+    }
+  ],
+  "fichiers_mediatheque_non_lies": {
+    "total": 2450,
+    "d_apparence_juridique": 95,
+    "detail": "reports/unlinked_media.json"
+  },
+  "necessitent_intervention_humaine": {
+    "documents_a_valider": 391,
+    "documents_ocr": 307,
+    "liste": "reports/manual_review.json, reports/ocr_required.json, reports/failed_documents.json"
+  },
+  "avertissement": "Ceci n'est PAS une garantie de collecte de « tous » les textes : seuls les documents liés depuis des pages publiques explorées sont couverts ; voir liens_casses, fichiers_mediatheque_non_lies et pages_juridiques_non_explorees."
+}

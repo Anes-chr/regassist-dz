@@ -1,0 +1,304 @@
+{
+  "document_id": "REG-09-07.ar",
+  "work_id": "REG-09-07",
+  "title": "نظام رقم 09-07 المؤرخ في 10 ديسمبر 2009، يعدل النظام رقم 95-01 المؤرخ في 28 فبراير ،1995 المعدل والمتمم، والمتضمن منح الصندوق الوطني للتعاضدية الفلاحية رخصة لممارسة عمليات مصرفية.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "09-07",
+  "number_source": "libelle",
+  "date": "2009-12-10",
+  "date_raw": "المؤرخ في 10 ديسمبر 2009",
+  "date_source": "libelle",
+  "publication_date": "2023-02-28",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "règlements",
+  "subcategory": "أنظمة أخرى",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a3%d9%86%d8%b8%d9%85%d8%a9-%d8%a3%d8%ae%d8%b1%d9%89/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/02/07-2009.pdf",
+  "format": "pdf",
+  "file_hash": "c9cf0455e45e03b6310a9a47a3a90b178253a3c387177f7cce8ef4b9395a912e",
+  "file_size": 412367,
+  "raw_path": "raw/c9cf0455e45e__07-2009.pdf",
+  "retrieved_at": "2026-10-05T13:28:47+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 1,
+  "url_hash": "14283e772fd03da0e11eba776efe29fca1fb64a13b86cdd719b2bf416485f866",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%a3%d9%86%d8%b8%d9%85%d8%a9-%d8%a3%d8%ae%d8%b1%d9%89/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "author": "chahra yahiaoui",
+    "creator": "Microsoft® Word 2016",
+    "producer": "Microsoft® Word 2016",
+    "creationDate": "D:20230228112705+01'00'",
+    "modDate": "D:20230228112705+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 1965,
+        "ocr_confidence": 70.39835164835165
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 2,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine",
+    "ocr_faible_confiance",
+    "numerotation:articles_manquants:[2]"
+  ],
+  "title_document": "نظام رقم 07-00 مؤرخ في 3 ذين الحسجة عام 14310 الموافق 10 ديسمير سنة 2009: Jan‏ النظام رقم 5 - 01 المؤرخ في 27 رمضان عام 1415 الموافق 28 فبراير سنة 1995: المعدّل والمثمم؛ والمتضمن منع الصتدوق الرطني للتعاضدية الفلاحية رخصة إن محافظ بنك الجزائر. بمقتخضي الآمر رقم OX‏ |1 المؤرخ في }7 جحماديق الثانية عام 1424 المرافق 26 غشت سنة 2003 والمتملق",
+  "alias_urls": [],
+  "text_hash": "79a4af64bb7bfa3211f79e76a3f62905ec9864e6ecab83a8d25283c77b13f256",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "95-01",
+        "date": "1995-02-28",
+        "raw": "règlement n°95-01 du 28 février 1995"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2009-07 du 10 décembre 2009 modifiant le règlement n°95-01 du 28 février 1995 modifie portant dérogation en faveur de",
+        "copied_from": "REG-09-07.fr"
+      },
+      "target_work_id": "REG-95-01"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "95-01",
+        "date": "1995-02-28",
+        "raw": "Règlement n°95-01 du 28 Février 1995"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier le Règlement n°95-01 du 28 Février 1995 modifié susvisé.",
+        "copied_from": "REG-09-07.fr"
+      },
+      "target_work_id": "REG-95-01"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "REG-95-01",
+      "reference": "règlement n°95-01 du 28 février 1995",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2009-07 du 10 décembre 2009 modifiant le règlement n°95-01 du 28 février 1995 modifie portant dérogation en faveur de",
+        "copied_from": "REG-09-07.fr"
+      }
+    },
+    {
+      "work_id": "REG-95-01",
+      "reference": "Règlement n°95-01 du 28 Février 1995",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier le Règlement n°95-01 du 28 Février 1995 modifié susvisé.",
+        "copied_from": "REG-09-07.fr"
+      }
+    }
+  ],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-09-07.fr",
+    "REG-09-07.fr~2"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "ocr_numeric_check": {
+    "units": 3,
+    "units_flagged": 0,
+    "units_compared_with_french": 2,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "نظام رقم 07-00 مؤرخ في 3 ذين الحسجة عام 14310 الموافق 10 ديسمير سنة 2009: Jan‏ النظام رقم 5 - 01 المؤرخ في 27 رمضان عام 1415 الموافق 28 فبراير سنة 1995: المعدّل والمثمم؛ والمتضمن منع الصتدوق الرطني للتعاضدية الفلاحية رخصة إن محافظ بنك الجزائر.\nبمقتخضي الآمر رقم OX‏ |1 المؤرخ في }7 جحماديق الثانية عام 1424 المرافق 26 غشت سنة 2003 والمتملق و02 a‏ و بمقتفسى المرسوم الر تلسي المؤر خ في !)1 pes y‏ الأول OO Lis gains 2 bel 1422 ple‏ و اللتشسن تعيين lilas‏ وئواب bilans‏ بنك العزائر:\nو بمقتخسى المرسوع HIT‏ تلسي المؤرخ فى LU‏ ربيع الأول ple‏ 1422 الموافق 2 يونيو ستة 2001 والمتضمن تعيين أعضاء في pubs‏ ادارة بنك الهزائر :\nو بمقتخس المرسوع الرتاسي المؤرخ في 26 شعبان عام 1423 المؤافق 2 توفسمبر سنة 2002 والتضمن تغيين عضو في مجلس إدارة بنك الجزائر:\nو بمقتضى المرسوع الرئاسي المؤر خ فى + Let‏ القعدة عام 1474 الموافق 19 als‏ سنئة 2]((24 والتضمن able al‏ 1427 الموافق أول just ps‏ سستة 2006 7 يح‎ ue ne chou 1415 ere, و بمقتضى النظاع رقم 08- 04 المؤرخ في 25 ذي الحجة غام 1429 الموافق 273 ديسمبر ستة 2008 و Sarl‏ بالجد الآدئى لوأسيمال اليتوك والمؤسيساتالمالية العافلة في الجزائر:\nو بناء على مذاولة مجلس النقد والقرض بتتازيع 10 يمير Lis‏ 12000 aus النظام الآتي‎ haut",
+      "paragraphs": [
+        {
+          "text": "نظام رقم 07-00 مؤرخ في 3 ذين الحسجة عام 14310 الموافق 10 ديسمير سنة 2009: Jan‏ النظام رقم 5 - 01 المؤرخ في 27 رمضان عام 1415 الموافق 28 فبراير سنة 1995: المعدّل والمثمم؛ والمتضمن منع الصتدوق الرطني للتعاضدية الفلاحية رخصة إن محافظ بنك الجزائر.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "بمقتخضي الآمر رقم OX‏ |1 المؤرخ في }7 جحماديق الثانية عام 1424 المرافق 26 غشت سنة 2003 والمتملق و02 a‏ و بمقتفسى المرسوم الر تلسي المؤر خ في !)1 pes y‏ الأول OO Lis gains 2 bel 1422 ple‏ و اللتشسن تعيين lilas‏ وئواب bilans‏ بنك العزائر:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "و بمقتخسى المرسوع HIT‏ تلسي المؤرخ فى LU‏ ربيع الأول ple‏ 1422 الموافق 2 يونيو ستة 2001 والمتضمن تعيين أعضاء في pubs‏ ادارة بنك الهزائر :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "و بمقتخس المرسوع الرتاسي المؤرخ في 26 شعبان عام 1423 المؤافق 2 توفسمبر سنة 2002 والتضمن تغيين عضو في مجلس إدارة بنك الجزائر:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "و بمقتضى المرسوع الرئاسي المؤر خ فى + Let‏ القعدة عام 1474 الموافق 19 als‏ سنئة 2]((24 والتضمن able al‏ 1427 الموافق أول just ps‏ سستة 2006 7 يح‎ ue ne chou 1415 ere, و بمقتضى النظاع رقم 08- 04 المؤرخ في 25 ذي الحجة غام 1429 الموافق 273 ديسمبر ستة 2008 و Sarl‏ بالجد الآدئى لوأسيمال اليتوك والمؤسيساتالمالية العافلة في الجزائر:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "و بناء على مذاولة مجلس النقد والقرض بتتازيع 10 يمير Lis‏ 12000 aus النظام الآتي‎ haut",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "his‏ هذا النظام الى تعديل النظاء رهم 95 - 1[ المؤر خ في 27 ر مان عام 1115 الموافق 25 قبراير ستة 19985: المعدل والمتمم والمدكور أعلاة.\n01 - 95 تعدلالمادة 4هن النظام رقم‎ : 2 Bud)\nLin المؤرح في 27 رهمضان عام 1115 الموافق 28 فبراير‎ : المعدل والمتمم والمذكور أعلاه كماياتي‎ 5 الادة 4 : تحخضع شركة المسنافية قصد تتقيذن للتشريم والتنظيم المصرفيين المعمول بهما يرخص للشركة القيام بالعمليات المصرفية المقولة للمؤسسات المالية: وفقالماهو منصوصى عليه في المادة 71 من الأفر رقم 03- !1 المؤرخ فى 27 جمادئ الثانية عام 1424 المرافق 26 Qu ne‏ 200003 والمذكور sel‏ بلستثناء العمليات الخاصة بالصرف والتجارة",
+      "paragraphs": [
+        {
+          "text": "his‏ هذا النظام الى تعديل النظاء رهم 95 - 1[ المؤر خ في 27 ر مان عام 1115 الموافق 25 قبراير ستة 19985: المعدل والمتمم والمدكور أعلاة.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "01 - 95 تعدلالمادة 4هن النظام رقم‎ : 2 Bud)",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Lin المؤرح في 27 رهمضان عام 1115 الموافق 28 فبراير‎ : المعدل والمتمم والمذكور أعلاه كماياتي‎ 5 الادة 4 : تحخضع شركة المسنافية قصد تتقيذن للتشريم والتنظيم المصرفيين المعمول بهما يرخص للشركة القيام بالعمليات المصرفية المقولة للمؤسسات المالية: وفقالماهو منصوصى عليه في المادة 71 من الأفر رقم 03- !1 المؤرخ فى 27 جمادئ الثانية عام 1424 المرافق 26 Qu ne‏ 200003 والمذكور sel‏ بلستثناء العمليات الخاصة بالصرف والتجارة",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "als‏ جميع الأحكام المخالفة لهذا النتظام.\nالملاة 4: puis‏ هذا النظام في الجريدة الرسمية للحفيورزنة all‏ ائرئة ا لذعقىر اطمة | ssl‏ حور بالجزائر في 23 ذي الحجة عام 1430 الموافق sans‏ لكصد السو",
+      "paragraphs": [
+        {
+          "text": "als‏ جميع الأحكام المخالفة لهذا النتظام.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الملاة 4: puis‏ هذا النظام في الجريدة الرسمية للحفيورزنة all‏ ائرئة ا لذعقىر اطمة | ssl‏ حور بالجزائر في 23 ذي الحجة عام 1430 الموافق sans‏ لكصد السو",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine",
+      "ocr_faible_confiance",
+      "numerotation:articles_manquants:[2]"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.042,
+      "ocr_pages": [
+        1
+      ],
+      "ocr_mean_confidence": 70.4
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/REG-09-07.ar.txt"
+}

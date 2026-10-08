@@ -1,0 +1,172 @@
+{
+  "document_id": "NOT-81-91.fr",
+  "work_id": "NOT-81-91",
+  "title": "Note n°81-91 du 1er août 1991 relative à l’ouverture de comptes devises.",
+  "document_type": "note",
+  "type_code": "NOT",
+  "type_source": "label",
+  "number": "81-91",
+  "number_source": "en-tête du document",
+  "date": "1991-08-01",
+  "date_raw": "N°81-91 DU 1er AOUT 1991",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-05",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "notes_aux_banques",
+  "subcategory": "Année 1991",
+  "source_url": "https://www.bank-of-algeria.dz/les-notes-aux-banques-1991/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/05/note8191.pdf",
+  "format": "pdf",
+  "file_hash": "e599884e406d83fa80af3e628cc68200a51a675fded5d90e41680dbf71536819",
+  "file_size": 41946,
+  "raw_path": "raw/e599884e406d__note8191.pdf",
+  "retrieved_at": "2026-10-05T13:24:46+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "df124bec1e5389492dff12441ee79df762c353451835798dbb17b6323bbf41fa",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/les-notes-aux-banques-1991/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document1",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210302140315+01'00'",
+    "modDate": "D:20210302140315+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 851,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": false,
+    "article_count": 0,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "NOTE N°81-91 DU 1er AOUT 1991 AUX BANQUES INTERMEDIAIRES AGREES RELATIVE A L'OUVERTURE DE COMPTES DEVISES",
+  "alias_urls": [],
+  "text_hash": "cfb22596b07006588492ffbd0063764fdb5dfe412cea443e5c93d4111aa3ae62",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "NOTE N°81-91 DU 1er AOUT 1991 AUX BANQUES INTERMEDIAIRES\nAGREES RELATIVE A L'OUVERTURE DE COMPTES DEVISES\nObjet : Comptes devises\nIl a été porté à notre connaissance que certains guichets de banques ouvrent des « comptes devises », à leurs clientèles, libellés dans des monnaies étrangères non convertibles.\nA cet égard, nous vous rappelons que conformément à la réglementation des changes, il est entendu par devises, toute monnaie étrangère librement convertible utilisée dans les transactions commerciales et financières internationales et régulièrement cotés et rémunérés par la Banque d'Algérie.\nAussi, l'attention des banques, intermédiaires agrées, est attirée sur la nécessité du respect de la réglementation des changes relative aux comptes devises.\nLe Directeur du Contrôle des Changes\nD. SAIDI\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "NOTE N°81-91 DU 1er AOUT 1991 AUX BANQUES INTERMEDIAIRES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AGREES RELATIVE A L'OUVERTURE DE COMPTES DEVISES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Objet : Comptes devises",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Il a été porté à notre connaissance que certains guichets de banques ouvrent des « comptes devises », à leurs clientèles, libellés dans des monnaies étrangères non convertibles.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "A cet égard, nous vous rappelons que conformément à la réglementation des changes, il est entendu par devises, toute monnaie étrangère librement convertible utilisée dans les transactions commerciales et financières internationales et régulièrement cotés et rémunérés par la Banque d'Algérie.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Aussi, l'attention des banques, intermédiaires agrées, est attirée sur la nécessité du respect de la réglementation des changes relative aux comptes devises.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Directeur du Contrôle des Changes",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "D. SAIDI",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.029
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/NOT-81-91.fr.txt"
+}

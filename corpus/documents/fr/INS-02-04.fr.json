@@ -1,0 +1,2300 @@
+{
+  "document_id": "INS-02-04.fr",
+  "work_id": "INS-02-04",
+  "title": "Instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligatoires.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "02-2004",
+  "number_source": "en-tête du document",
+  "date": "2004-05-13",
+  "date_raw": "N°02-2004 DU 13 MAI 2004",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction022004.pdf",
+      "uploaded": "2023-01-24T10:52:09"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Année 2004",
+  "source_url": "https://www.bank-of-algeria.dz/annee-2004/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction022004.pdf",
+  "format": "pdf",
+  "file_hash": "9fcf42f4717bdf1e4c69f2c0f15cdcd679de0ae767042518ee3699f9d67ee4a0",
+  "file_size": 70916,
+  "raw_path": "raw/9fcf42f4717b__instruction022004.pdf",
+  "retrieved_at": "2026-10-05T13:21:08+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 3,
+  "url_hash": "6c3af020d62f3e19f54e1001e62922880e66a5cc444af52ae82d5bbe6e8996de",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-2004/",
+    "https://www.bank-of-algeria.dz/reserves-instruction-2/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Microsoft Word - instruction022004",
+    "author": "chahra.yahiaoui",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "creationDate": "D:20210225153413+01'00'",
+    "modDate": "D:20210225153413+01'00'"
+  },
+  "hijri_date_raw": "12 Moharram 1425",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 3,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2066,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 654,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 1359,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 8,
+    "annex_count": 1
+  },
+  "quality_flags": [
+    "meme_texte_plusieurs_fichiers"
+  ],
+  "title_document": "INSTRUCTION N°02-2004 DU 13 MAI 2004 RELATIVE AU RÉGIME DES RÉSERVES OBLIGATOIRES",
+  "alias_urls": [],
+  "text_hash": "1fd2b2f2dae21edc50b5c717e3d31843a8532783688d842e322fc24f0b75fdb1",
+  "relations_out": [
+    {
+      "relation": "remplace",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "01-2001",
+        "date": "2001-02-11",
+        "raw": "instruction n°01-2001 du 11 février 2001"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "La présente instruction annule et remplace l'instruction n°01-2001 du 11 février 2001 modifiée et complétée, relative au régi"
+      },
+      "target_work_id": "INS-01-01"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [
+    {
+      "work_id": "INS-01-01",
+      "reference": "instruction n°01-2001 du 11 février 2001",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "La présente instruction annule et remplace l'instruction n°01-2001 du 11 février 2001 modifiée et complétée, relative au régi"
+      }
+    }
+  ],
+  "abroge_par": [],
+  "modifie_par": [
+    {
+      "work_id": "INS-01-05",
+      "document_id": "INS-01-05.fr",
+      "date": "2005-01-13",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2005 du 13 janvier 2005 modifiant l’instruction n°02-04 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-01-05",
+      "document_id": "INS-01-05.fr",
+      "date": "2005-01-13",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier les taux visés aux articles 4 et 5 de l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-01-12",
+      "document_id": "INS-01-12.fr",
+      "date": "2012-04-29",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2012 du 29 avril 2012 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-01-12",
+      "document_id": "INS-01-12.fr",
+      "date": "2012-04-29",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n° 02-04 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-01-17",
+      "document_id": "INS-01-17.fr",
+      "date": "2017-03-01",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2017 du 1er mars 2017 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-01-17",
+      "document_id": "INS-01-17.fr",
+      "date": "2017-03-01",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "a présente instruction a pour objet de modifier l’assiette de calcul des réserves obligatoires visée à l’article 6 de l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-01-18",
+      "document_id": "INS-01-18.fr",
+      "date": "2018-01-10",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2018 du 10 janvier 2018 modifiant et complétant l’instruction n°02-2004 du13 mai 2004 relative au régime des ré"
+      }
+    },
+    {
+      "work_id": "INS-01-18",
+      "document_id": "INS-01-18.fr",
+      "date": "2018-01-10",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-01-19",
+      "document_id": "INS-01-19.fr",
+      "date": "2019-02-14",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2019 du 14 février 2019 modifiant et complétant l’Instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-01-19",
+      "document_id": "INS-01-19.fr",
+      "date": "2019-02-14",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-01-26",
+      "document_id": "INS-01-26.fr",
+      "date": "2026-01-07",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2026 du 7 janvier 2026 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-01-26",
+      "document_id": "INS-01-26.fr",
+      "date": "2026-01-07",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l’instruction n° 02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-13",
+      "document_id": "INS-02-13.fr",
+      "date": "2013-04-23",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°02-2013 du 23 avril 2013 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-13",
+      "document_id": "INS-02-13.fr",
+      "date": "2013-04-23",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n° 02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-19",
+      "document_id": "INS-02-19.fr",
+      "date": "2019-12-05",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°02-2019 du 05 décembre 2019 modifiant et complétant l’Instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-19",
+      "document_id": "INS-02-19.fr",
+      "date": "2019-12-05",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-20",
+      "document_id": "INS-02-20.fr",
+      "date": "2020-03-10",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°02-2020 du 10 mars 2020 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-20",
+      "document_id": "INS-02-20.fr",
+      "date": "2020-03-10",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-21",
+      "document_id": "INS-02-21.fr",
+      "date": "2021-02-07",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°02-2021 du 7 février 2021 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-21",
+      "document_id": "INS-02-21.fr",
+      "date": "2021-02-07",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-23",
+      "document_id": "INS-02-23.fr",
+      "date": "2023-04-13",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°02-2023 du 13 avril 2023 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-23",
+      "document_id": "INS-02-23.fr",
+      "date": "2023-04-13",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l’instruction n° 02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-03-16",
+      "document_id": "INS-03-16.fr",
+      "date": "2016-04-25",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°03-2016 du 25 avril 2016 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-03-16",
+      "document_id": "INS-03-16.fr",
+      "date": "2016-04-25",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-03-18",
+      "document_id": "INS-03-18.fr",
+      "date": "2018-05-31",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°03-2018 du 31 mai 2018 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-03-18",
+      "document_id": "INS-03-18.fr",
+      "date": "2018-05-31",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-04-10",
+      "document_id": "INS-04-10.fr",
+      "date": "2010-12-15",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°04-2010 du 15 décembre 2010 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-04-10",
+      "document_id": "INS-04-10.fr",
+      "date": "2010-12-15",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n° 02-04 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-04-17",
+      "document_id": "INS-04-17.fr",
+      "date": "2017-07-31",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n° 04 -2017 du 31 juillet 2017 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-04-17",
+      "document_id": "INS-04-17.fr",
+      "date": "2017-07-31",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-06-20",
+      "document_id": "INS-06-20.fr",
+      "date": "2020-04-29",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°06-2020 modifiant et complétant l’instruction n° 02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-06-20",
+      "document_id": "INS-06-20.fr",
+      "date": "2020-04-29",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-09-20",
+      "document_id": "INS-09-20.fr",
+      "date": "2020-09-14",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°09-2020 du 14 septembre 2020 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-09-20",
+      "document_id": "INS-09-20.fr",
+      "date": "2020-09-14",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-09-25",
+      "document_id": "INS-09-25.fr",
+      "date": "2025-09-10",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°09-2025 du 10 septembre 2025 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-09-25",
+      "document_id": "INS-09-25.fr",
+      "date": "2025-09-10",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l’instruction n° 02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-13-07",
+      "document_id": "INS-13-07.fr",
+      "date": "2007-12-24",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°13-2007 du 24 décembre 2007 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-13-07",
+      "document_id": "INS-13-07.fr",
+      "date": "2007-12-24",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l’instruction n°02-04 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    }
+  ],
+  "complete_par": [
+    {
+      "work_id": "INS-01-12",
+      "document_id": "INS-01-12.fr",
+      "date": "2012-04-29",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2012 du 29 avril 2012 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-01-12",
+      "document_id": "INS-01-12.fr",
+      "date": "2012-04-29",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n° 02-04 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-01-17",
+      "document_id": "INS-01-17.fr",
+      "date": "2017-03-01",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2017 du 1er mars 2017 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-01-18",
+      "document_id": "INS-01-18.fr",
+      "date": "2018-01-10",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2018 du 10 janvier 2018 modifiant et complétant l’instruction n°02-2004 du13 mai 2004 relative au régime des ré"
+      }
+    },
+    {
+      "work_id": "INS-01-18",
+      "document_id": "INS-01-18.fr",
+      "date": "2018-01-10",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-01-19",
+      "document_id": "INS-01-19.fr",
+      "date": "2019-02-14",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2019 du 14 février 2019 modifiant et complétant l’Instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-01-19",
+      "document_id": "INS-01-19.fr",
+      "date": "2019-02-14",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-01-26",
+      "document_id": "INS-01-26.fr",
+      "date": "2026-01-07",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2026 du 7 janvier 2026 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-01-26",
+      "document_id": "INS-01-26.fr",
+      "date": "2026-01-07",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l’instruction n° 02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-13",
+      "document_id": "INS-02-13.fr",
+      "date": "2013-04-23",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°02-2013 du 23 avril 2013 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-13",
+      "document_id": "INS-02-13.fr",
+      "date": "2013-04-23",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n° 02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-19",
+      "document_id": "INS-02-19.fr",
+      "date": "2019-12-05",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°02-2019 du 05 décembre 2019 modifiant et complétant l’Instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-19",
+      "document_id": "INS-02-19.fr",
+      "date": "2019-12-05",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-20",
+      "document_id": "INS-02-20.fr",
+      "date": "2020-03-10",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°02-2020 du 10 mars 2020 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-20",
+      "document_id": "INS-02-20.fr",
+      "date": "2020-03-10",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-21",
+      "document_id": "INS-02-21.fr",
+      "date": "2021-02-07",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°02-2021 du 7 février 2021 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-21",
+      "document_id": "INS-02-21.fr",
+      "date": "2021-02-07",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-23",
+      "document_id": "INS-02-23.fr",
+      "date": "2023-04-13",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°02-2023 du 13 avril 2023 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-23",
+      "document_id": "INS-02-23.fr",
+      "date": "2023-04-13",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l’instruction n° 02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-03-16",
+      "document_id": "INS-03-16.fr",
+      "date": "2016-04-25",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°03-2016 du 25 avril 2016 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-03-16",
+      "document_id": "INS-03-16.fr",
+      "date": "2016-04-25",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-03-18",
+      "document_id": "INS-03-18.fr",
+      "date": "2018-05-31",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°03-2018 du 31 mai 2018 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-03-18",
+      "document_id": "INS-03-18.fr",
+      "date": "2018-05-31",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-04-10",
+      "document_id": "INS-04-10.fr",
+      "date": "2010-12-15",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°04-2010 du 15 décembre 2010 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-04-10",
+      "document_id": "INS-04-10.fr",
+      "date": "2010-12-15",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n° 02-04 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-04-17",
+      "document_id": "INS-04-17.fr",
+      "date": "2017-07-31",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n° 04 -2017 du 31 juillet 2017 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-04-17",
+      "document_id": "INS-04-17.fr",
+      "date": "2017-07-31",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-06-20",
+      "document_id": "INS-06-20.fr",
+      "date": "2020-04-29",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°06-2020 modifiant et complétant l’instruction n° 02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-06-20",
+      "document_id": "INS-06-20.fr",
+      "date": "2020-04-29",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-09-20",
+      "document_id": "INS-09-20.fr",
+      "date": "2020-09-14",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°09-2020 du 14 septembre 2020 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-09-20",
+      "document_id": "INS-09-20.fr",
+      "date": "2020-09-14",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-09-25",
+      "document_id": "INS-09-25.fr",
+      "date": "2025-09-10",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°09-2025 du 10 septembre 2025 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-09-25",
+      "document_id": "INS-09-25.fr",
+      "date": "2025-09-10",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l’instruction n° 02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-13-07",
+      "document_id": "INS-13-07.fr",
+      "date": "2007-12-24",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°13-2007 du 24 décembre 2007 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-13-07",
+      "document_id": "INS-13-07.fr",
+      "date": "2007-12-24",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l’instruction n°02-04 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    }
+  ],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée. Ce texte a été modifié/complété : consulter aussi les textes listés dans modifié_par / complété_par.",
+  "same_work_documents": [
+    "INS-02-04.fr~2"
+  ],
+  "complété_par": [
+    {
+      "work_id": "INS-01-12",
+      "document_id": "INS-01-12.fr",
+      "date": "2012-04-29",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2012 du 29 avril 2012 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-01-12",
+      "document_id": "INS-01-12.fr",
+      "date": "2012-04-29",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n° 02-04 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-01-17",
+      "document_id": "INS-01-17.fr",
+      "date": "2017-03-01",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2017 du 1er mars 2017 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-01-18",
+      "document_id": "INS-01-18.fr",
+      "date": "2018-01-10",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2018 du 10 janvier 2018 modifiant et complétant l’instruction n°02-2004 du13 mai 2004 relative au régime des ré"
+      }
+    },
+    {
+      "work_id": "INS-01-18",
+      "document_id": "INS-01-18.fr",
+      "date": "2018-01-10",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-01-19",
+      "document_id": "INS-01-19.fr",
+      "date": "2019-02-14",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2019 du 14 février 2019 modifiant et complétant l’Instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-01-19",
+      "document_id": "INS-01-19.fr",
+      "date": "2019-02-14",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-01-26",
+      "document_id": "INS-01-26.fr",
+      "date": "2026-01-07",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2026 du 7 janvier 2026 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-01-26",
+      "document_id": "INS-01-26.fr",
+      "date": "2026-01-07",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l’instruction n° 02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-13",
+      "document_id": "INS-02-13.fr",
+      "date": "2013-04-23",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°02-2013 du 23 avril 2013 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-13",
+      "document_id": "INS-02-13.fr",
+      "date": "2013-04-23",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n° 02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-19",
+      "document_id": "INS-02-19.fr",
+      "date": "2019-12-05",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°02-2019 du 05 décembre 2019 modifiant et complétant l’Instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-19",
+      "document_id": "INS-02-19.fr",
+      "date": "2019-12-05",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-20",
+      "document_id": "INS-02-20.fr",
+      "date": "2020-03-10",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°02-2020 du 10 mars 2020 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-20",
+      "document_id": "INS-02-20.fr",
+      "date": "2020-03-10",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-21",
+      "document_id": "INS-02-21.fr",
+      "date": "2021-02-07",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°02-2021 du 7 février 2021 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-21",
+      "document_id": "INS-02-21.fr",
+      "date": "2021-02-07",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-23",
+      "document_id": "INS-02-23.fr",
+      "date": "2023-04-13",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°02-2023 du 13 avril 2023 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-23",
+      "document_id": "INS-02-23.fr",
+      "date": "2023-04-13",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l’instruction n° 02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-03-16",
+      "document_id": "INS-03-16.fr",
+      "date": "2016-04-25",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°03-2016 du 25 avril 2016 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-03-16",
+      "document_id": "INS-03-16.fr",
+      "date": "2016-04-25",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-03-18",
+      "document_id": "INS-03-18.fr",
+      "date": "2018-05-31",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°03-2018 du 31 mai 2018 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-03-18",
+      "document_id": "INS-03-18.fr",
+      "date": "2018-05-31",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-04-10",
+      "document_id": "INS-04-10.fr",
+      "date": "2010-12-15",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°04-2010 du 15 décembre 2010 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-04-10",
+      "document_id": "INS-04-10.fr",
+      "date": "2010-12-15",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n° 02-04 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-04-17",
+      "document_id": "INS-04-17.fr",
+      "date": "2017-07-31",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n° 04 -2017 du 31 juillet 2017 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-04-17",
+      "document_id": "INS-04-17.fr",
+      "date": "2017-07-31",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-06-20",
+      "document_id": "INS-06-20.fr",
+      "date": "2020-04-29",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°06-2020 modifiant et complétant l’instruction n° 02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-06-20",
+      "document_id": "INS-06-20.fr",
+      "date": "2020-04-29",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-09-20",
+      "document_id": "INS-09-20.fr",
+      "date": "2020-09-14",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°09-2020 du 14 septembre 2020 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-09-20",
+      "document_id": "INS-09-20.fr",
+      "date": "2020-09-14",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-09-25",
+      "document_id": "INS-09-25.fr",
+      "date": "2025-09-10",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°09-2025 du 10 septembre 2025 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-09-25",
+      "document_id": "INS-09-25.fr",
+      "date": "2025-09-10",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l’instruction n° 02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-13-07",
+      "document_id": "INS-13-07.fr",
+      "date": "2007-12-24",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°13-2007 du 24 décembre 2007 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-13-07",
+      "document_id": "INS-13-07.fr",
+      "date": "2007-12-24",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l’instruction n°02-04 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    }
+  ],
+  "modifié_par": [
+    {
+      "work_id": "INS-01-05",
+      "document_id": "INS-01-05.fr",
+      "date": "2005-01-13",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2005 du 13 janvier 2005 modifiant l’instruction n°02-04 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-01-05",
+      "document_id": "INS-01-05.fr",
+      "date": "2005-01-13",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier les taux visés aux articles 4 et 5 de l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-01-12",
+      "document_id": "INS-01-12.fr",
+      "date": "2012-04-29",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2012 du 29 avril 2012 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-01-12",
+      "document_id": "INS-01-12.fr",
+      "date": "2012-04-29",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n° 02-04 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-01-17",
+      "document_id": "INS-01-17.fr",
+      "date": "2017-03-01",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2017 du 1er mars 2017 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-01-17",
+      "document_id": "INS-01-17.fr",
+      "date": "2017-03-01",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "a présente instruction a pour objet de modifier l’assiette de calcul des réserves obligatoires visée à l’article 6 de l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-01-18",
+      "document_id": "INS-01-18.fr",
+      "date": "2018-01-10",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2018 du 10 janvier 2018 modifiant et complétant l’instruction n°02-2004 du13 mai 2004 relative au régime des ré"
+      }
+    },
+    {
+      "work_id": "INS-01-18",
+      "document_id": "INS-01-18.fr",
+      "date": "2018-01-10",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-01-19",
+      "document_id": "INS-01-19.fr",
+      "date": "2019-02-14",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2019 du 14 février 2019 modifiant et complétant l’Instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-01-19",
+      "document_id": "INS-01-19.fr",
+      "date": "2019-02-14",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-01-26",
+      "document_id": "INS-01-26.fr",
+      "date": "2026-01-07",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2026 du 7 janvier 2026 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-01-26",
+      "document_id": "INS-01-26.fr",
+      "date": "2026-01-07",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l’instruction n° 02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-13",
+      "document_id": "INS-02-13.fr",
+      "date": "2013-04-23",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°02-2013 du 23 avril 2013 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-13",
+      "document_id": "INS-02-13.fr",
+      "date": "2013-04-23",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n° 02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-19",
+      "document_id": "INS-02-19.fr",
+      "date": "2019-12-05",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°02-2019 du 05 décembre 2019 modifiant et complétant l’Instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-19",
+      "document_id": "INS-02-19.fr",
+      "date": "2019-12-05",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-20",
+      "document_id": "INS-02-20.fr",
+      "date": "2020-03-10",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°02-2020 du 10 mars 2020 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-20",
+      "document_id": "INS-02-20.fr",
+      "date": "2020-03-10",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-21",
+      "document_id": "INS-02-21.fr",
+      "date": "2021-02-07",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°02-2021 du 7 février 2021 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-21",
+      "document_id": "INS-02-21.fr",
+      "date": "2021-02-07",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-23",
+      "document_id": "INS-02-23.fr",
+      "date": "2023-04-13",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°02-2023 du 13 avril 2023 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-02-23",
+      "document_id": "INS-02-23.fr",
+      "date": "2023-04-13",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l’instruction n° 02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-03-16",
+      "document_id": "INS-03-16.fr",
+      "date": "2016-04-25",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°03-2016 du 25 avril 2016 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-03-16",
+      "document_id": "INS-03-16.fr",
+      "date": "2016-04-25",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-03-18",
+      "document_id": "INS-03-18.fr",
+      "date": "2018-05-31",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°03-2018 du 31 mai 2018 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-03-18",
+      "document_id": "INS-03-18.fr",
+      "date": "2018-05-31",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-04-10",
+      "document_id": "INS-04-10.fr",
+      "date": "2010-12-15",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°04-2010 du 15 décembre 2010 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-04-10",
+      "document_id": "INS-04-10.fr",
+      "date": "2010-12-15",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n° 02-04 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-04-17",
+      "document_id": "INS-04-17.fr",
+      "date": "2017-07-31",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n° 04 -2017 du 31 juillet 2017 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-04-17",
+      "document_id": "INS-04-17.fr",
+      "date": "2017-07-31",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-06-20",
+      "document_id": "INS-06-20.fr",
+      "date": "2020-04-29",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°06-2020 modifiant et complétant l’instruction n° 02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-06-20",
+      "document_id": "INS-06-20.fr",
+      "date": "2020-04-29",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-09-20",
+      "document_id": "INS-09-20.fr",
+      "date": "2020-09-14",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°09-2020 du 14 septembre 2020 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-09-20",
+      "document_id": "INS-09-20.fr",
+      "date": "2020-09-14",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-09-25",
+      "document_id": "INS-09-25.fr",
+      "date": "2025-09-10",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°09-2025 du 10 septembre 2025 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-09-25",
+      "document_id": "INS-09-25.fr",
+      "date": "2025-09-10",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l’instruction n° 02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-13-07",
+      "document_id": "INS-13-07.fr",
+      "date": "2007-12-24",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°13-2007 du 24 décembre 2007 modifiant et complétant l’instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-13-07",
+      "document_id": "INS-13-07.fr",
+      "date": "2007-12-24",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l’instruction n°02-04 du 13 mai 2004 relative au régime des réserves obligat"
+      }
+    }
+  ],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe A",
+      "number": "A",
+      "heading": "L’INSTRUCTION N°02-2004 DU 13 MAI 2004",
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°02-2004 DU 13 MAI 2004\nRELATIVE AU RÉGIME DES RÉSERVES OBLIGATOIRES",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°02-2004 DU 13 MAI 2004",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "RELATIVE AU RÉGIME DES RÉSERVES OBLIGATOIRES",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction a pour objet, en application de l'article 18 du\nRèglement n°2004-02 du 12 Moharram 1425 correspondant au 4 mars 2004 fixant les conditions de constitution des réserves minimales obligatoires, de fixer les conditions effectives de constitution des réserves obligatoires par les banques.",
+      "paragraphs": [
+        {
+          "text": "La présente instruction a pour objet, en application de l'article 18 du",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Règlement n°2004-02 du 12 Moharram 1425 correspondant au 4 mars 2004 fixant les conditions de constitution des réserves minimales obligatoires, de fixer les conditions effectives de constitution des réserves obligatoires par les banques.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L'assiette des réserves obligatoires comprend les dépôts en dinars de toute nature, à savoir les dépôts à vue, les dépôts à terme, les dépôts préalables à l'importation, les livrets et bons d'épargne, les bons de caisse et les autres dépôts.",
+      "paragraphs": [
+        {
+          "text": "L'assiette des réserves obligatoires comprend les dépôts en dinars de toute nature, à savoir les dépôts à vue, les dépôts à terme, les dépôts préalables à l'importation, les livrets et bons d'épargne, les bons de caisse et les autres dépôts.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le taux des réserves obligatoires est fixé à 6,5% de l'assiette des réserves définie dans l'article 2 ci-dessus.",
+      "paragraphs": [
+        {
+          "text": "Le taux des réserves obligatoires est fixé à 6,5% de l'assiette des réserves définie dans l'article 2 ci-dessus.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le taux de rémunération des réserves obligatoires est fixé à 1,75%, par an.\nLa rémunération s'effectue selon la formule suivante :\nAi x Ni x P\nRt = -------------- 360\nRt = rémunération à payer par la Banque d'Algérie sur les avoirs de réserves pendant la période de constitution t ;\nAi = les avoirs de réserves à constituer pendant la période de constitution t, (les avoirs de réserves excédant le montant des réserves obligatoires à constituer ne sont pas rémunérés) ;\nNi = nombre de jours calendaires pendant la période de constitution t ;\nP = taux de rémunération des avoirs de réserves.",
+      "paragraphs": [
+        {
+          "text": "Le taux de rémunération des réserves obligatoires est fixé à 1,75%, par an.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La rémunération s'effectue selon la formule suivante :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Ai x Ni x P",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Rt = -------------- 360",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Rt = rémunération à payer par la Banque d'Algérie sur les avoirs de réserves pendant la période de constitution t ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Ai = les avoirs de réserves à constituer pendant la période de constitution t, (les avoirs de réserves excédant le montant des réserves obligatoires à constituer ne sont pas rémunérés) ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Ni = nombre de jours calendaires pendant la période de constitution t ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "P = taux de rémunération des avoirs de réserves.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le taux de la pénalité pour la non constitution ou la constitution insuffisante des réserves obligatoires est de deux (2) points au-dessus de la rémunération des réserves obligatoires. Le calcul de la pénalité s'effectue selon la formule suivante :\nBi x ni x p1\nPt = -------------- 360\nPt = pénalité due pour la non constitution suffisante des avoirs de réserves obligatoires ;\nBi = montant moyen des avoirs de réserves non constituées ;\nni = nombre de jours calendaires pendant la période de constitution t ;\np1 = taux de la pénalité.\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "Le taux de la pénalité pour la non constitution ou la constitution insuffisante des réserves obligatoires est de deux (2) points au-dessus de la rémunération des réserves obligatoires. Le calcul de la pénalité s'effectue selon la formule suivante :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Bi x ni x p1",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Pt = -------------- 360",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Pt = pénalité due pour la non constitution suffisante des avoirs de réserves obligatoires ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Bi = montant moyen des avoirs de réserves non constituées ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ni = nombre de jours calendaires pendant la période de constitution t ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "p1 = taux de la pénalité.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les banques doivent adresser à la Banque d'Algérie - Direction Générale des\nEtudes - dans les dix jours qui suivent la clôture de la période de constitution des réserves, une déclaration faisant ressortir l'assiette de calcul des réserves obligatoires conformément au canevas joint en annexe de la présente instruction.",
+      "paragraphs": [
+        {
+          "text": "Les banques doivent adresser à la Banque d'Algérie - Direction Générale des",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Etudes - dans les dix jours qui suivent la clôture de la période de constitution des réserves, une déclaration faisant ressortir l'assiette de calcul des réserves obligatoires conformément au canevas joint en annexe de la présente instruction.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "La présente instruction annule et remplace l'instruction n°01-2001 du 11 février 2001 modifiée et complétée, relative au régime des réserves obligatoires.",
+      "paragraphs": [
+        {
+          "text": "La présente instruction annule et remplace l'instruction n°01-2001 du 11 février 2001 modifiée et complétée, relative au régime des réserves obligatoires.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "La présente instruction entre en application à compter de la date de sa signature.\nLe Gouverneur\nMohammed LAKSACI",
+      "paragraphs": [
+        {
+          "text": "La présente instruction entre en application à compter de la date de sa signature.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe A",
+      "number": "A",
+      "heading": "L’INSTRUCTION N°02-2004 DU 13 MAI 2004",
+      "context": {},
+      "annexe": {
+        "number": "A",
+        "heading": "L’INSTRUCTION N°02-2004 DU 13 MAI 2004",
+        "label": "Annexe A"
+      },
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Banque : .........................................................................................................................\n.........................................................................................................................................\nDECLARATION DE L’ASSIETTE DES RESERVES OBLIGATOIRES\nPOUR LA PERIODE ALLANT\nDU 15 ................................................. au 14 ...............................................................\nEn milliers de DA\nEléments à fin ...................... 20 ......\nMontant",
+      "paragraphs": [
+        {
+          "text": "Banque : .........................................................................................................................",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": ".........................................................................................................................................",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "DECLARATION DE L’ASSIETTE DES RESERVES OBLIGATOIRES",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "POUR LA PERIODE ALLANT",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "DU 15 ................................................. au 14 ...............................................................",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "En milliers de DA",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Eléments à fin ...................... 20 ......",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Montant",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "I",
+          "heading": "Dépôts en dinars",
+          "label": "Section I"
+        }
+      },
+      "annexe": {
+        "number": "A",
+        "heading": "L’INSTRUCTION N°02-2004 DU 13 MAI 2004",
+        "label": "Annexe A"
+      },
+      "page_start": 3,
+      "page_end": 3,
+      "text": "a) Dépôts à vue\nb) Dépôts à terme\nc) Dépôts préalables à l’importation\nd) Bons de caisse\ne) Livrets et bons d’épargne\nf) Autres dépôts\nTotal\n.........................................\n.........................................\n.........................................\n.........................................\n.........................................\n.........................................\n----------------------------------\n.........................................\nFait, le ...................................\nSignature (1)\n(1) Signature du responsable qui signe les déclarations modèle 10R",
+      "paragraphs": [
+        {
+          "text": "a) Dépôts à vue",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "b) Dépôts à terme",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "c) Dépôts préalables à l’importation",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "d) Bons de caisse",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "e) Livrets et bons d’épargne",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "f) Autres dépôts",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Total",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": ".........................................",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": ".........................................",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": ".........................................",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": ".........................................",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": ".........................................",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": ".........................................",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "----------------------------------",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": ".........................................",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Fait, le ...................................",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Signature (1)",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "(1) Signature du responsable qui signe les déclarations modèle 10R",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [
+    {
+      "page": 3,
+      "tables": [
+        "|Eléments à fin ...................... 20 ......|Montant|\n|---|---|\n|I- Dépôts en dinars<br>a) Dépôts à vue<br>b) Dépôts à terme<br>c) Dépôts préalables à l’importation<br>d) Bons de caisse<br>e) Livrets et bons d’épargne<br>f) Autres dépôts<br>**Total**|.........................................<br>.........................................<br>.........................................<br>.........................................<br>.........................................<br>.........................................<br>----------------------------------<br>.........................................|\n\n"
+      ]
+    }
+  ],
+  "quality": {
+    "flags": [
+      "meme_texte_plusieurs_fichiers"
+    ],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.269
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-02-04.fr.txt"
+}

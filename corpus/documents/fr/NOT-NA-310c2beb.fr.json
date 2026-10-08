@@ -1,0 +1,188 @@
+{
+  "document_id": "NOT-NA-310c2beb.fr",
+  "work_id": "NOT-NA-310c2beb",
+  "title": "Note DGRFE du 8 décembre 1998 portant",
+  "document_type": "note",
+  "type_code": "NOT",
+  "type_source": "label",
+  "number": null,
+  "number_source": null,
+  "date": "1998-12-08",
+  "date_raw": "DU 08 DECEMBRE 1998",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-05",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "notes_aux_banques",
+  "subcategory": "Année 1998",
+  "source_url": "https://www.bank-of-algeria.dz/les-notes-aux-banques-1998/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/05/notedgrfe_081298.pdf",
+  "format": "pdf",
+  "file_hash": "875f962091870c328bb670068bfec85ed12a37a80cfd40a5e2c8ace103fb459f",
+  "file_size": 48864,
+  "raw_path": "raw/875f96209187__notedgrfe_081298.pdf",
+  "retrieved_at": "2026-10-05T13:24:50+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "310c2beba0e5eeaba64f75a20dd0b93b351a028666ebf7d426032e7f81bbaf42",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/les-notes-aux-banques-1998/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document1",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210228153203+01'00'",
+    "modDate": "D:20210228153203+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 623,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": false,
+    "article_count": 0,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "metadonnees_incompletes:number"
+  ],
+  "title_document": "NOTE DGRFE DU 08 DECEMBRE 1998 AUX BANQUES ET ETABLISSEMENTS FINANCIERS INTERMEDIAIRES AGREES",
+  "alias_urls": [],
+  "text_hash": "98198606b615f6d95f5db45d264297d8c416a7216df6569908d1767327f43e5e",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "dead_source_urls": [
+    {
+      "url": "https://www.bank-of-algeria.dz/pdf/nb1998/notedgrfe_081298.pdf",
+      "status": "MOVED_OFFICIAL",
+      "listed_on": [
+        "https://www.bank-of-algeria.dz/les-notes-aux-banques-1998/"
+      ]
+    }
+  ],
+  "missing_metadata": [
+    "number"
+  ],
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "NOTE DGRFE DU 08 DECEMBRE 1998 AUX BANQUES\nET ETABLISSEMENTS FINANCIERS INTERMEDIAIRES AGREES\nDirection Générale Des Relations\nAlger, le 8 décembre 1998\nFinancières Extérieures\nREF : DGRFE/DMFE/071/97\nIl nous a été donné de constater que les banques et établissements financiers Intermédiaires Agrées sollicitent de nos services des autorisations pour l'ouverture de comptes en euro pour leur clientèle.\nDans ce cadre, nous vous rappelons que l'ouverture d'un compte devise dans une monnaie librement convertible n'est pas subordonnée à l'accord préalable de la Banque d'Algérie.\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "NOTE DGRFE DU 08 DECEMBRE 1998 AUX BANQUES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET ETABLISSEMENTS FINANCIERS INTERMEDIAIRES AGREES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Direction Générale Des Relations",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Alger, le 8 décembre 1998",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Financières Extérieures",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "REF : DGRFE/DMFE/071/97",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Il nous a été donné de constater que les banques et établissements financiers Intermédiaires Agrées sollicitent de nos services des autorisations pour l'ouverture de comptes en euro pour leur clientèle.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Dans ce cadre, nous vous rappelons que l'ouverture d'un compte devise dans une monnaie librement convertible n'est pas subordonnée à l'accord préalable de la Banque d'Algérie.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "metadonnees_incompletes:number"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.027
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/NOT-NA-310c2beb.fr.txt"
+}

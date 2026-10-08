@@ -1,0 +1,901 @@
+{
+  "document_id": "INS-01-13.fr~2",
+  "work_id": "INS-01-13",
+  "title": "Instruction n°01-2013 du 15 janvier 2013 relative aux reprises de liquidité.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "01-2013",
+  "number_source": "en-tête du document",
+  "date": "2013-01-15",
+  "date_raw": "N°01-2013 DU 15 JANVIER 2013",
+  "date_source": "en-tête du document",
+  "publication_date": "2023-01-24",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Instruments de la politique monétaire",
+  "source_url": "https://www.bank-of-algeria.dz/marche-monetaire-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction012013.pdf",
+  "format": "pdf",
+  "file_hash": "d7e6997744e893e53687cbb53d64b41d16fbbd3a38faee2dfcc4f05d688aca7f",
+  "file_size": 58302,
+  "raw_path": "raw/d7e6997744e8__instruction012013.pdf",
+  "retrieved_at": "2026-10-05T13:25:29+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 4,
+  "url_hash": "c98d64778de207a787a6331e8e10387721a8b57cda0520aaa8de9cfcd2eb3483",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/marche-monetaire-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document7",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20201022151441+01'00'",
+    "modDate": "D:20201022151441+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 4,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 3103,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 1161,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 1485,
+        "ocr_confidence": null
+      },
+      {
+        "page": 4,
+        "method": "pdf_text",
+        "chars": 1118,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": [
+      {
+        "page": 2,
+        "removed": "Le Directeur des Marchés Monétaire et Financier",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 3,
+        "removed": "Le Directeur des Marchés Monétaire et Financier",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 4,
+        "removed": "Le Directeur des Marchés Monétaire et Financier",
+        "why": "en-tête/pied répété"
+      }
+    ]
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 10,
+    "annex_count": 5
+  },
+  "quality_flags": [
+    "meme_texte_plusieurs_fichiers"
+  ],
+  "title_document": "INSTRUCTION N°01-2013 DU 15 JANVIER 2013 RELATIVE AUX REPRISES DE LIQUIDITE",
+  "alias_urls": [],
+  "text_hash": "de4e3f0aa0086e3f98b48009b0878a9f00915c3caa232581ba88b0a510085060",
+  "relations_out": [
+    {
+      "relation": "remplace",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-2002",
+        "date": "2002-04-11",
+        "raw": "instruction n°02-2002 du 11 avril 2002"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction annule et remplace l’instruction n°02-2002 du 11 avril 2002 portant introduction de la reprise de l"
+      },
+      "target_work_id": "INS-02-02"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [
+    {
+      "work_id": "INS-02-02",
+      "reference": "instruction n°02-2002 du 11 avril 2002",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction annule et remplace l’instruction n°02-2002 du 11 avril 2002 portant introduction de la reprise de l"
+      }
+    }
+  ],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-01-13.ar",
+    "INS-01-13.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe I",
+      "number": "I",
+      "heading": "A L’INSTRUCTION N°01-2013 DU 15 JANVIER 2013",
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe II",
+      "number": "II",
+      "heading": "A L’INSTRUCTION N°01-2013 DU 15 JANVIER 2013",
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe III",
+      "number": "III",
+      "heading": "A L’INSTRUCTION N°01-2013 DU 15 JANVIER 2013",
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe IV",
+      "number": "IV",
+      "heading": "A L’INSTRUCTION N°01-2013 DU 15 JANVIER 2013",
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe V",
+      "number": "V",
+      "heading": "A L’INSTRUCTION N°01-2013 DU 15 JANVIER 2013",
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°01-2013 DU 15 JANVIER 2013\nRELATIVE AUX REPRISES DE LIQUIDITE",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°01-2013 DU 15 JANVIER 2013",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "RELATIVE AUX REPRISES DE LIQUIDITE",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction a pour objet de fixer, en application du règlement n°09-02 du 26 mai 2009 relatif aux opérations, instruments et procédures de politique monétaire, notamment ses articles 2, 3, 13, 25, 34, 36, 38 et 43, les modalités d’intervention de la Banque d’Algérie sur le marché monétaire au moyen de l’instrument reprises de liquidité en blanc.",
+      "paragraphs": [
+        {
+          "text": "La présente instruction a pour objet de fixer, en application du règlement n°09-02 du 26 mai 2009 relatif aux opérations, instruments et procédures de politique monétaire, notamment ses articles 2, 3, 13, 25, 34, 36, 38 et 43, les modalités d’intervention de la Banque d’Algérie sur le marché monétaire au moyen de l’instrument reprises de liquidité en blanc.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La Banque d’Algérie peut, dans le cadre du réglage fin de la liquidité bancaire, inviter les banques, contreparties aux opérations de politique monétaire, par appel d’offres ou exceptionnellement selon une procédure bilatérale, à placer auprès d’elle des liquidités sous forme de dépôts rémunérés à un taux d’intérêt fixe ou variable. Dans le cas de taux d’intérêt fixe, la Banque d’Algérie indique ce taux à l’avance.",
+      "paragraphs": [
+        {
+          "text": "La Banque d’Algérie peut, dans le cadre du réglage fin de la liquidité bancaire, inviter les banques, contreparties aux opérations de politique monétaire, par appel d’offres ou exceptionnellement selon une procédure bilatérale, à placer auprès d’elle des liquidités sous forme de dépôts rémunérés à un taux d’intérêt fixe ou variable. Dans le cas de taux d’intérêt fixe, la Banque d’Algérie indique ce taux à l’avance.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les opérations de reprises de liquidité ne sont pas normalisées. Elles peuvent s’effectuer à tout moment. Leurs maturités vont de 24 h à un an. Ces placements sont en blanc.",
+      "paragraphs": [
+        {
+          "text": "Les opérations de reprises de liquidité ne sont pas normalisées. Elles peuvent s’effectuer à tout moment. Leurs maturités vont de 24 h à un an. Ces placements sont en blanc.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La procédure à suivre, dans le cas des reprises de liquidité par appels d’offres est celle des appels d’offres rapides qui s’exécutent dans un délai de deux (2) heures. Ce délai commence à courir dès l’annonce de l’appel d’offre et prend fin à la notification des résultats de la répartition.\nLa chronologie d’exécution et les modèles de messages sont annexés à la présente instruction (annexes I à V).",
+      "paragraphs": [
+        {
+          "text": "La procédure à suivre, dans le cas des reprises de liquidité par appels d’offres est celle des appels d’offres rapides qui s’exécutent dans un délai de deux (2) heures. Ce délai commence à courir dès l’annonce de l’appel d’offre et prend fin à la notification des résultats de la répartition.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La chronologie d’exécution et les modèles de messages sont annexés à la présente instruction (annexes I à V).",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Dans le cas des opérations bilatérales de reprise de liquidité, la Banque d’Algérie effectue ces opérations avec une ou plusieurs banques sans appel d’offres. Les contreparties éligibles sont sélectionnées et contactées directement par la Banque d’Algérie.\nDans ce cas, la Banque d’Algérie peut modifier les conditions de la reprise ou suspendre l'opération.",
+      "paragraphs": [
+        {
+          "text": "Dans le cas des opérations bilatérales de reprise de liquidité, la Banque d’Algérie effectue ces opérations avec une ou plusieurs banques sans appel d’offres. Les contreparties éligibles sont sélectionnées et contactées directement par la Banque d’Algérie.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Dans ce cas, la Banque d’Algérie peut modifier les conditions de la reprise ou suspendre l'opération.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La rémunération des dépôts des banques au titre des reprises de liquidité est calculée en appliquant un taux d'intérêt simple sur la base du nombre effectif de jours/360. L'intérêt est payé à l'échéance du dépôt.",
+      "paragraphs": [
+        {
+          "text": "La rémunération des dépôts des banques au titre des reprises de liquidité est calculée en appliquant un taux d'intérêt simple sur la base du nombre effectif de jours/360. L'intérêt est payé à l'échéance du dépôt.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Dès l’annonce des résultats de l’adjudication par appel d’offres ou de la transaction convenue sur le plan bilatéral, les banques créditent le compte de règlement concerné de la Banque d’Algérie du montant adjugé ou convenu par le canal du système\nARTS.\nA l’échéance du placement, la Banque d’Algérie crédite le compte de règlement de chaque banque concernée, à l’ouverture de la journée d’échanges, du montant du dépôt et des intérêts y afférents.",
+      "paragraphs": [
+        {
+          "text": "Dès l’annonce des résultats de l’adjudication par appel d’offres ou de la transaction convenue sur le plan bilatéral, les banques créditent le compte de règlement concerné de la Banque d’Algérie du montant adjugé ou convenu par le canal du système",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ARTS.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "A l’échéance du placement, la Banque d’Algérie crédite le compte de règlement de chaque banque concernée, à l’ouverture de la journée d’échanges, du montant du dépôt et des intérêts y afférents.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le non-respect des engagements pris par les banques dans le cadre des opérations de reprises de liquidité est passible des sanctions prévues à l’article 3 du règlement n°09-02 susvisé.",
+      "paragraphs": [
+        {
+          "text": "Le non-respect des engagements pris par les banques dans le cadre des opérations de reprises de liquidité est passible des sanctions prévues à l’article 3 du règlement n°09-02 susvisé.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction annule et remplace l’instruction n°02-2002 du 11 avril 2002 portant introduction de la reprise de liquidité sur le marché monétaire.",
+      "paragraphs": [
+        {
+          "text": "La présente instruction annule et remplace l’instruction n°02-2002 du 11 avril 2002 portant introduction de la reprise de liquidité sur le marché monétaire.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction prend effet à compter du 15 janvier 2013.\nLe Gouverneur\nMohammed LAKSACI",
+      "paragraphs": [
+        {
+          "text": "La présente instruction prend effet à compter du 15 janvier 2013.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe I",
+      "number": "I",
+      "heading": "A L’INSTRUCTION N°01-2013 DU 15 JANVIER 2013",
+      "context": {},
+      "annexe": {
+        "number": "I",
+        "heading": "A L’INSTRUCTION N°01-2013 DU 15 JANVIER 2013",
+        "label": "Annexe I"
+      },
+      "page_start": 2,
+      "page_end": 2,
+      "text": "CHRONOLOGIE D’EXECUTION DE L’OPERATION DE REPRISE DE LIQUIDITE\nEtape 1 : Première heure, annonce de l'appel d'offre multilatéral ou contact bilatéral par la Banque d'Algérie (par fax ou tout autre moyen) ;\nEtape 2 : Première heure + 45 minutes, préparation et soumission des offres des banques (par fax ou tout autre moyen) ;\nEtape 3 : Deuxième heure, réception des offres des banques et confirmation de la réception de ces offres par la Banque d'Algérie ;\nEtape 4 : Evaluation des soumissions reçues, adjudication et annonce des résultats aux banques concernées ;\nEtape 5 : Règlement des opérations.",
+      "paragraphs": [
+        {
+          "text": "CHRONOLOGIE D’EXECUTION DE L’OPERATION DE REPRISE DE LIQUIDITE",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Etape 1 : Première heure, annonce de l'appel d'offre multilatéral ou contact bilatéral par la Banque d'Algérie (par fax ou tout autre moyen) ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Etape 2 : Première heure + 45 minutes, préparation et soumission des offres des banques (par fax ou tout autre moyen) ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Etape 3 : Deuxième heure, réception des offres des banques et confirmation de la réception de ces offres par la Banque d'Algérie ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Etape 4 : Evaluation des soumissions reçues, adjudication et annonce des résultats aux banques concernées ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Etape 5 : Règlement des opérations.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe II",
+      "number": "II",
+      "heading": "A L’INSTRUCTION N°01-2013 DU 15 JANVIER 2013",
+      "context": {},
+      "annexe": {
+        "number": "II",
+        "heading": "A L’INSTRUCTION N°01-2013 DU 15 JANVIER 2013",
+        "label": "Annexe II"
+      },
+      "page_start": 2,
+      "page_end": 2,
+      "text": "MESSAGE D’ANNONCE DE LA REPRISE DE LIQUIDITE\nEN BLANC PAR APPEL D’OFFRES\nBANQUE D'ALGERIE\nAppel d'offres de reprise de liquidité en blanc\nDate de valeur : .................Maturité :……………Echéance :……………\nTaux d'intérêt (fixe ou variable) : .................%\nHeure limite de réponse ..........................le ......................................",
+      "paragraphs": [
+        {
+          "text": "MESSAGE D’ANNONCE DE LA REPRISE DE LIQUIDITE",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "EN BLANC PAR APPEL D’OFFRES",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "BANQUE D'ALGERIE",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Appel d'offres de reprise de liquidité en blanc",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Date de valeur : .................Maturité :……………Echéance :……………",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Taux d'intérêt (fixe ou variable) : .................%",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Heure limite de réponse ..........................le ......................................",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe III",
+      "number": "III",
+      "heading": "A L’INSTRUCTION N°01-2013 DU 15 JANVIER 2013",
+      "context": {},
+      "annexe": {
+        "number": "III",
+        "heading": "A L’INSTRUCTION N°01-2013 DU 15 JANVIER 2013",
+        "label": "Annexe III"
+      },
+      "page_start": 3,
+      "page_end": 3,
+      "text": "MESSAGE DE SOUMISSION A L’APPEL D’OFFRES\nDE REPRISE DE LIQUIDITE EN BLANC\nBanque :………………………..\nMonsieur le Directeur des Marchés Monétaire et financier\nBanque d’Algérie 38, Avenue Franklin Roosevelt - Alger-\nNous vous faisons parvenir notre soumission qui se présente comme suit :\n(2ème cas de figure) :\n1er cas : Appel d’offres à taux d'intérêt fixe,\nMontant : ………………..(multiple de 500 millions de DA)\nTaux d’intérêt :……….%.\n2ème cas : Appel d’offres à taux d’intérêt variable,\nMontant : …………………(multiple de 500 millions de DA pour chaque tranche ; 6 tranches maximum)\nTaux d’intérêt :……..….% (exprimé pour chaque tranche en multiple de 0,01 point de pourcentage).\nNom - Fonction et signature du responsable habilité",
+      "paragraphs": [
+        {
+          "text": "MESSAGE DE SOUMISSION A L’APPEL D’OFFRES",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "DE REPRISE DE LIQUIDITE EN BLANC",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Banque :………………………..",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Monsieur le Directeur des Marchés Monétaire et financier",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Banque d’Algérie 38, Avenue Franklin Roosevelt - Alger-",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Nous vous faisons parvenir notre soumission qui se présente comme suit :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "(2ème cas de figure) :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "1er cas : Appel d’offres à taux d'intérêt fixe,",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Montant : ………………..(multiple de 500 millions de DA)",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Taux d’intérêt :……….%.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "2ème cas : Appel d’offres à taux d’intérêt variable,",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Montant : …………………(multiple de 500 millions de DA pour chaque tranche ; 6 tranches maximum)",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Taux d’intérêt :……..….% (exprimé pour chaque tranche en multiple de 0,01 point de pourcentage).",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Nom - Fonction et signature du responsable habilité",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe IV",
+      "number": "IV",
+      "heading": "A L’INSTRUCTION N°01-2013 DU 15 JANVIER 2013",
+      "context": {},
+      "annexe": {
+        "number": "IV",
+        "heading": "A L’INSTRUCTION N°01-2013 DU 15 JANVIER 2013",
+        "label": "Annexe IV"
+      },
+      "page_start": 3,
+      "page_end": 3,
+      "text": "MODELE DE MESSAGE DE RECEPTION D’UNE OFFRE DE REPRISE\nDE LIQUIDITE EN BLANC PAR APPEL D’OFFRES\nBanque :…………………\n(2ème cas de figure) :\n1er cas : Appel d’offres à taux fixe :\nNous avons reçu, ce jour, le …..….à..……heures……minutes votre offre pour un montant de .........\nmillions de dinars au taux d’'intérêt fixe de .......%\n2ème cas : Appel d’offres à taux variable :\nNous avons reçu, ce jour, le ........à ........ heures…..…minutes votre offre pour : - un montant de ...... millions de dinars au taux d'intérêt de ...% ; - ... ; (6 tranches maximum)",
+      "paragraphs": [
+        {
+          "text": "MODELE DE MESSAGE DE RECEPTION D’UNE OFFRE DE REPRISE",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "DE LIQUIDITE EN BLANC PAR APPEL D’OFFRES",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Banque :…………………",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "(2ème cas de figure) :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "1er cas : Appel d’offres à taux fixe :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Nous avons reçu, ce jour, le …..….à..……heures……minutes votre offre pour un montant de .........",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "millions de dinars au taux d’'intérêt fixe de .......%",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "2ème cas : Appel d’offres à taux variable :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Nous avons reçu, ce jour, le ........à ........ heures…..…minutes votre offre pour : - un montant de ...... millions de dinars au taux d'intérêt de ...% ; - ... ; (6 tranches maximum)",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe V",
+      "number": "V",
+      "heading": "A L’INSTRUCTION N°01-2013 DU 15 JANVIER 2013",
+      "context": {},
+      "annexe": {
+        "number": "V",
+        "heading": "A L’INSTRUCTION N°01-2013 DU 15 JANVIER 2013",
+        "label": "Annexe V"
+      },
+      "page_start": 4,
+      "page_end": 4,
+      "text": "MESSAGE DE RESULTATS DES REPRISES DE LIQUIDITE\nEN BLANC PAR APPEL D’OFFRES\nBANQUE D'ALGERIE\nDestinataire : Banque …………..\n1er cas : Appel d’offres à taux fixe :\n- Reprise de liquidité en blanc par appels d'offres du ........à ........heures :\n- Montant total des offres introduites.............millions DA au taux d'intérêt fixe de......% ;\n- Montant total adjugé à la place ...............millions DA.\n- Montant adjugé à votre banque .......millions DA.\n2ème cas : Appel d’offres à taux variable :\n- Reprise de liquidité en blanc par appels d'offres du………..à .....heures :\n- Montant des offres introduites par tranche......................millions DA ;\n- Montant total adjugé à la place ......................................millions DA.\n- Montant(s) adjugé(s) à votre banque :\n- ..........................................millions DA au taux de….%,\n- ….………..millions DA au taux de…….%,\n- …………..(6 tranches maximum).",
+      "paragraphs": [
+        {
+          "text": "MESSAGE DE RESULTATS DES REPRISES DE LIQUIDITE",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "EN BLANC PAR APPEL D’OFFRES",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "BANQUE D'ALGERIE",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Destinataire : Banque …………..",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "1er cas : Appel d’offres à taux fixe :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- Reprise de liquidité en blanc par appels d'offres du ........à ........heures :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- Montant total des offres introduites.............millions DA au taux d'intérêt fixe de......% ;",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- Montant total adjugé à la place ...............millions DA.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- Montant adjugé à votre banque .......millions DA.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "2ème cas : Appel d’offres à taux variable :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- Reprise de liquidité en blanc par appels d'offres du………..à .....heures :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- Montant des offres introduites par tranche......................millions DA ;",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- Montant total adjugé à la place ......................................millions DA.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- Montant(s) adjugé(s) à votre banque :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- ..........................................millions DA au taux de….%,",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- ….………..millions DA au taux de…….%,",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- …………..(6 tranches maximum).",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "meme_texte_plusieurs_fichiers"
+    ],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.123
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-01-13.fr~2.txt"
+}

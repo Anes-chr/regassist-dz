@@ -1,0 +1,346 @@
+{
+  "document_id": "INS-02-22.ar",
+  "work_id": "INS-02-22",
+  "title": "التعليمة رقم 02-2022 ،المؤرخة في 28 جويلية 2022 ،المتعلقة بإدارة مخاطر توطين عمليات التجارة الخارجية",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "02-2022",
+  "number_source": "libelle",
+  "date": "2022-07-28",
+  "date_raw": "المؤرخة في 28 جويلية 2022",
+  "date_source": "libelle",
+  "publication_date": "2022-09-06",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "instructions",
+  "subcategory": "المخاطر البنكية",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d9%85%d8%ae%d8%a7%d8%b7%d8%b1-%d8%a7%d9%84%d8%a8%d9%86%d9%83%d9%8a%d8%a9/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2022/09/التعليمة-رقم-2-0-2022،-المؤرخة-في-28-جويلية-2022-1.pdf",
+  "format": "pdf",
+  "file_hash": "57a4205f308cd78f18d62a83d8cd89fa92dc924cc957b72ccab4cd24bf506684",
+  "file_size": 431950,
+  "raw_path": "raw/57a4205f308c__التعليمة-رقم-2-0-2022_-المؤرخة-في-28-جويلية-2022-1.pdf",
+  "retrieved_at": "2026-10-06T20:56:32+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "db6e33abaf13d65b24f14d8a3112112b30d76540302d5d827f34d80bfd68791c",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%D8%A7%D9%84%D9%85%D8%AE%D8%A7%D8%B7%D8%B1-%D8%A7%D9%84%D8%A8%D9%86%D9%83%D9%8A%D8%A9/",
+    "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d9%85%d8%ae%d8%a7%d8%b7%d8%b1-%d8%a7%d9%84%d8%a8%d9%86%d9%83%d9%8a%d8%a9/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "author": "yassine mazouz",
+    "creator": "Microsoft® Word 2016",
+    "producer": "Microsoft® Word 2016",
+    "creationDate": "D:20220905142034+01'00'",
+    "modDate": "D:20220905142034+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 1270,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 4,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "meme_texte_plusieurs_fichiers",
+    "numerotation:articles_manquants:[4]",
+    "numerotation:premier_article=2"
+  ],
+  "title_document": null,
+  "alias_urls": [],
+  "text_hash": "6fa66fb8b2ce33d6cda39df64cc511a032acb3a2f82b0303a8139a1054b6d4b4",
+  "relations_out": [
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "05-2017",
+        "date": "2017-10-22",
+        "raw": "instruction n° 05-2017 du 22 octobre 2017"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge l’instruction n° 05-2017 du 22 octobre 2017 fixant les conditions particulières rel",
+        "copied_from": "INS-02-22.fr"
+      },
+      "target_work_id": "INS-05-17"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "INS-05-17",
+      "reference": "instruction n° 05-2017 du 22 octobre 2017",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge l’instruction n° 05-2017 du 22 octobre 2017 fixant les conditions particulières rel",
+        "copied_from": "INS-02-22.fr"
+      }
+    }
+  ],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-02-22.ar~2",
+    "INS-02-22.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article ا",
+      "number": "ا",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "التعليمة رقم2 0 - 2022 ، المؤرخة في28\nجويلية2022 ، المتعلقة بإدارة مخاطر توطين عمليات التجارة الخارجية",
+      "paragraphs": [
+        {
+          "text": "التعليمة رقم2 0 - 2022 ، المؤرخة في28",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "جويلية2022 ، المتعلقة بإدارة مخاطر توطين عمليات التجارة الخارجية",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article ا",
+      "number": "ا",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "ألولى : حدد النظام رقم07 - 01\nالمؤرخ في15\nمحرم1428 ، الموافق لـ3 فيفري2007 ، المعدل ،والمتمم المتعلق بالقواعد المطبقة على المعامالت الجارية مع الخارج والحسابات بالعملة الصعبة على وجه الخصوص، إطار معالجة عمليات التجارة الخارجية التي يتوجب على البنوك الوسيطة المعتمدة، احترامها.",
+      "paragraphs": [
+        {
+          "text": "ألولى : حدد النظام رقم07 - 01",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرخ في15",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "محرم1428 ، الموافق لـ3 فيفري2007 ، المعدل ،والمتمم المتعلق بالقواعد المطبقة على المعامالت الجارية مع الخارج والحسابات بالعملة الصعبة على وجه الخصوص، إطار معالجة عمليات التجارة الخارجية التي يتوجب على البنوك الوسيطة المعتمدة، احترامها.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": ": يجب أن تحترم اإلجراءات و األنظمة الداخلية للبنوك الوسيطة المعتمدة التي تتجلى فيها األحكام المنصوص عليها في النظام رقم07 - 01\nالمشار إليه أعاله، مقتضيات النظام11 - 08\nالمؤرخ في3 محرم 1433\nالموافق لـ28\nنوفمبر2011 ، المتعلق بالرقابة الداخلية، السيما فيما يتعلق بإدارة المخاطر التي تقع مسؤولي .تها على عاتق البنوك الوسيطة المعتمدّة",
+      "paragraphs": [
+        {
+          "text": ": يجب أن تحترم اإلجراءات و األنظمة الداخلية للبنوك الوسيطة المعتمدة التي تتجلى فيها األحكام المنصوص عليها في النظام رقم07 - 01",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المشار إليه أعاله، مقتضيات النظام11 - 08",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرخ في3 محرم 1433",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق لـ28",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "نوفمبر2011 ، المتعلق بالرقابة الداخلية، السيما فيما يتعلق بإدارة المخاطر التي تقع مسؤولي .تها على عاتق البنوك الوسيطة المعتمدّة",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": ": فيما يخص توطين عمليات التجارة الخارجية، يتعين على البنوك الوسيطة المعتمدة تقييم المخاطر ذات الصلة مع األخذ بعين االعتبار بصفة خاصة نوعية األطراف التجارية و تحديد التدابير الكفيلة لتخفيف .هذه المخاطر\nالما دة4 :\nتلغي هذه التعليمة، أحكام التعليمة رقم05 - 2017\nالمؤرخة في22\nأكتوبر2017 ، المحددة .للشروط الخاصة المتعلقة بتوطين عمليات استيراد السلع الموجهة للبيع على حالها",
+      "paragraphs": [
+        {
+          "text": ": فيما يخص توطين عمليات التجارة الخارجية، يتعين على البنوك الوسيطة المعتمدة تقييم المخاطر ذات الصلة مع األخذ بعين االعتبار بصفة خاصة نوعية األطراف التجارية و تحديد التدابير الكفيلة لتخفيف .هذه المخاطر",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الما دة4 :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "تلغي هذه التعليمة، أحكام التعليمة رقم05 - 2017",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرخة في22",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "أكتوبر2017 ، المحددة .للشروط الخاصة المتعلقة بتوطين عمليات استيراد السلع الموجهة للبيع على حالها",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": ":\n.يسري مفعول هذه التعليمة ابتداء من تاريخ اإلمضاء عليها\nالمحافظ صالح الدين طالب",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": ".يسري مفعول هذه التعليمة ابتداء من تاريخ اإلمضاء عليها",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المحافظ صالح الدين طالب",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "meme_texte_plusieurs_fichiers",
+      "numerotation:articles_manquants:[4]",
+      "numerotation:premier_article=2"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.029
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/INS-02-22.ar.txt"
+}

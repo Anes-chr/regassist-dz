@@ -1,0 +1,1867 @@
+{
+  "document_id": "REG-20-02.ar",
+  "work_id": "REG-20-02",
+  "title": "نظام رقم 20-02 المؤرخ في 15 مارس 2020، المحدد للعمليات البنكية المتعلقة بالصيرفة الإسلامية وقواعد ممارستها من طرف البنوك والمؤسسات المالية.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "20-02",
+  "number_source": "libelle",
+  "date": "2020-03-15",
+  "date_raw": "المؤرخ في 15 مارس 2020",
+  "date_source": "libelle",
+  "publication_date": "2023-02-28",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "règlements",
+  "subcategory": "الصيرفة الإسلامية",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d8%b5%d9%8a%d8%b1%d9%81%d8%a9-%d8%a7%d9%84%d8%a5%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d8%a9-%d8%a3%d9%86%d8%b8%d9%85%d8%a9/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/02/02-2020.pdf",
+  "format": "pdf",
+  "file_hash": "bd2ef7d27c863ed4e8bf9aa23a62cfcb6f9a6739846d8ad15d0cfb19d3044964",
+  "file_size": 91815,
+  "raw_path": "raw/bd2ef7d27c86__02-2020.pdf",
+  "retrieved_at": "2026-10-05T13:27:55+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 4,
+  "url_hash": "62b19b5791ae2a5dbae1718c5bbb29deb66f5c06a638a8f999690550f280dace",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d8%b5%d9%8a%d8%b1%d9%81%d8%a9-%d8%a7%d9%84%d8%a5%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d8%a9-%d8%a3%d9%86%d8%b8%d9%85%d8%a9/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - reglements2020arabe",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20230226122401+01'00'",
+    "modDate": "D:20230226122401+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 4,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 3211,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 2703,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 2949,
+        "ocr_confidence": null
+      },
+      {
+        "page": 4,
+        "method": "pdf_text",
+        "chars": 852,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": [
+      {
+        "page": 1,
+        "removed": "20",
+        "why": "numéro de page"
+      }
+    ]
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 21,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "numerotation:articles_manquants:[3, 5]",
+    "numerotation:premier_article=2"
+  ],
+  "title_document": null,
+  "alias_urls": [],
+  "text_hash": "2c83105d04e161672b1d76d9ec453742b6669a05b2d01e3754c7930fa500d5e9",
+  "relations_out": [
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "18-02",
+        "date": null,
+        "raw": "règlement n°18-02 du 26 Safar 1440"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 5,
+        "quote": "Le présent règlement abroge les dispositions du règlement n°18-02 du 26 Safar 1440 correspondant au 4 novembre 2018, porta",
+        "copied_from": "REG-20-02.fr"
+      },
+      "target_work_id": "REG-18-02"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "REG-18-02",
+      "reference": "règlement n°18-02 du 26 Safar 1440",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 5,
+        "quote": "Le présent règlement abroge les dispositions du règlement n°18-02 du 26 Safar 1440 correspondant au 4 novembre 2018, porta",
+        "copied_from": "REG-20-02.fr"
+      }
+    }
+  ],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-20-02.fr",
+    "REG-20-02.fr~2"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 16",
+      "number": "16",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 17",
+      "number": "17",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 18",
+      "number": "18",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 19",
+      "number": "19",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 20",
+      "number": "20",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 21",
+      "number": "21",
+      "heading": null,
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 22",
+      "number": "22",
+      "heading": null,
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 23",
+      "number": "23",
+      "heading": null,
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 24",
+      "number": "24",
+      "heading": null,
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "النظام رقم 20 - 02\nالمؤرخ في20\nرجب عام1441\nالموافق15\nمارس2020 ،\nالمحدد\nللعمليات البنكية المتعلقة بالصيرفة الإ سلامية\nوقواعد ممارستها\nمن طرف البنوك والمؤسسات المالية\nإنّ محافظ بنك الجزائر؛\n-\nبمقتضى الأمر رقم75 - 58\nالمؤرّخ في20\nرمضان عام 1395\nالموافق26\nسبتمبر سنة1975\nوالمتضمن القانون المدني، المعدّل والمتمّم،\n-\nوبمقتضى الأمر رقم75 - 59\nالمؤرّخ في20\nرمضان عام 1395\nالموافق26\nسبتمبر سنة1975\nوالمتضمن القانون التجاري، المعدّل والمتمّم،\n-\nوبمقتضى الأمر رقم03 - 11\nالمؤرّخ في27 جمادى الثانية\nعام 1424\nالموافق26\nغشت سنة2003\nوالمتعلق بالنقد والقرض، المعدّل والمتمم، لا سيّما المواد 66\nإلى69 ،منه -\nوبمقتضى الأمر رقم96 - 09\nالمؤرّخ في19\nشعبان عام1416\nالموافق10\nيناير سنة1996\nوالمتعلق بالاعتماد الإيجاري، المعدل والمتمم،\n-\nوبمقتضى القانون رقم05 - 01\nالمؤرّخ في27\nذي الحجة عام1425\nالموافق6\nفبراير سنة2005\nوالمتعلق بالوقاية من تبييض الأموال وتمويل الإرهاب ومكافحتهما، المعدّل والمتمّم،\n-\nوبمقتضى القانون رقم18 - 07\nالمؤرّخ في25\nرمضان عام1439\nالموافق10\nيونيو سنة2018\nوالمتعلق بحماية الأشخاص الطبيعيين في مجال معالجة المعطيات ذات الطابع الشخصي،\n-\nوبمقتضى المرسوم الرئاسي المؤرّخ في5\nصفر عام1437\nالموافق17\nنوفمبر سنة2015\nوالمتضمّن تعيين أعضاء في مجلس إدارة بنك الجزائر،\n-\nوبمقتضى المرسوم الرئاسي المؤرّخ في17\nربيع الأول عام1441\nالموافق14\nنوفمبر سنة2019 والمت ضمّن تعيين محافظ بنك الجزائر،\n-\nوبمقتضى المرسوم الرئاسي المؤرّخ في17\nصفر عام1438\nالموافق17\nنوفمبر سنة2016\nوالمتضمن تعيين نائبين لمحافظ بنك الجزائر،\n-\nوبمقتضى المرسوم الرئاسي المؤرّخ في18\nربيع الثاني عام1441\nالموافق15\nديسمبر سنة2019\nوالمتضمّن تعيين نائبين لمحافظ بنك الجزائر،\n-\nوبمقتضى النظام رقم06 - 02\nالمؤرخ في أول رمضان عام1427\nالموافق24\nسبتمبر سنة2006\nوالمحدّد شروط تأسيس بنك ومؤسسة مالية وشروط إقامة فرع بنك ومؤسسة مالية أجنبية،\n-\nوبمقتضى النظام رقم09 - 04\nالمؤرخ في أول شعبان عام1430\nالموافق23 يوليو\nسنة 2009\nوالمتضمن مخطط الحسابات البنكية والقواعد المحاسبية المطبقة على البنوك والمؤسسات المالية،\n-\nوبمقتضى النظام رقم11 - 08\nالمؤرخ في3\nمحرم عام1433\nالموافق28\nنوفمبر سنة2011\nوالمتعلق بالرقابة الداخلية للبنوك والمؤسسات المالية،\n-\nوبمقتضى النظام رقم12 - 03 ال مؤرّخ في 14\nمحرّم عام1434\nالموافق28\nنوفمبر سنة2012\nوالمتعلق بالوقاية من تبييض الأموال وتمويل الإرهاب ومكافحتهما،\n-\nوبمقتضى النظام رقم14 - 01\nالمؤرخ في16\nربيع الثاني عام1435\nالموافق16\nفبراير سنة2014\nوالمتضمن نسب الملاءة المطبقة على البنوك والمؤسسات الما لية،\n- وبمقتضى النظام رقم18 - 02\nالمؤرخ في26\nصفر عام1440\nالموافق4\nنوفمبر سنة2018 و المتضمن قواعد ممارسة العمليات المصرفية المتعلقة بالصيرفة التشاركية من طرف المصارف والمؤسسات المالية،\n-\nوبمقتضى النظام رقم20 - 01\nالمؤرخ في20\nرجب عام1441\nالموافق15\nمارس سنة2020\nوالمحدد للقواعد العامة المتعلقة بالشروط البنكية المطبقة على العمليات المصرفية،\n-\nوبمقتضى النظام رقم20 - 03\nالمؤرخ في20\nرجب عام1441\nالموافق15\nمارس سنة2020\nوالمتعلق بنظام ضمان الودائع المصرفية،\n-\nوبعد الاطلاع على مداولات مجلس النقد والقرض بتاريخ15\nمارس سنة 2020 ،\n:يصدر النظام الآتي نصه\nBANK OF ALGERIA\n:المادة الأولى\nيهدف هذا النظام إلى تحديد\nالعمليات البنكية المتعلقة بالصيرفة الإسلامية، القواعد المطبقة عليها، شروط ممارستها من طرف البنوك والمؤسسات المالية، وكذا شروط الترخيص المسبق لها من طرف بنك الجزائر.",
+      "paragraphs": [
+        {
+          "text": "النظام رقم 20 - 02",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرخ في20",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "رجب عام1441",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق15",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "مارس2020 ،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المحدد",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "للعمليات البنكية المتعلقة بالصيرفة الإ سلامية",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وقواعد ممارستها",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "من طرف البنوك والمؤسسات المالية",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "إنّ محافظ بنك الجزائر؛",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "بمقتضى الأمر رقم75 - 58",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرّخ في20",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "رمضان عام 1395",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق26",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "سبتمبر سنة1975",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتضمن القانون المدني، المعدّل والمتمّم،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى الأمر رقم75 - 59",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرّخ في20",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "رمضان عام 1395",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق26",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "سبتمبر سنة1975",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتضمن القانون التجاري، المعدّل والمتمّم،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى الأمر رقم03 - 11",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرّخ في27 جمادى الثانية",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "عام 1424",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق26",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "غشت سنة2003",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتعلق بالنقد والقرض، المعدّل والمتمم، لا سيّما المواد 66",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "إلى69 ،منه -",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى الأمر رقم96 - 09",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرّخ في19",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "شعبان عام1416",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق10",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "يناير سنة1996",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتعلق بالاعتماد الإيجاري، المعدل والمتمم،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى القانون رقم05 - 01",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرّخ في27",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ذي الحجة عام1425",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق6",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "فبراير سنة2005",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتعلق بالوقاية من تبييض الأموال وتمويل الإرهاب ومكافحتهما، المعدّل والمتمّم،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى القانون رقم18 - 07",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرّخ في25",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "رمضان عام1439",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق10",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "يونيو سنة2018",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتعلق بحماية الأشخاص الطبيعيين في مجال معالجة المعطيات ذات الطابع الشخصي،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى المرسوم الرئاسي المؤرّخ في5",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "صفر عام1437",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق17",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "نوفمبر سنة2015",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتضمّن تعيين أعضاء في مجلس إدارة بنك الجزائر،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى المرسوم الرئاسي المؤرّخ في17",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ربيع الأول عام1441",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق14",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "نوفمبر سنة2019 والمت ضمّن تعيين محافظ بنك الجزائر،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى المرسوم الرئاسي المؤرّخ في17",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "صفر عام1438",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق17",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "نوفمبر سنة2016",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتضمن تعيين نائبين لمحافظ بنك الجزائر،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى المرسوم الرئاسي المؤرّخ في18",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ربيع الثاني عام1441",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق15",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ديسمبر سنة2019",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتضمّن تعيين نائبين لمحافظ بنك الجزائر،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى النظام رقم06 - 02",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرخ في أول رمضان عام1427",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق24",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "سبتمبر سنة2006",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمحدّد شروط تأسيس بنك ومؤسسة مالية وشروط إقامة فرع بنك ومؤسسة مالية أجنبية،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى النظام رقم09 - 04",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرخ في أول شعبان عام1430",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق23 يوليو",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "سنة 2009",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتضمن مخطط الحسابات البنكية والقواعد المحاسبية المطبقة على البنوك والمؤسسات المالية،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى النظام رقم11 - 08",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرخ في3",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "محرم عام1433",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق28",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "نوفمبر سنة2011",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتعلق بالرقابة الداخلية للبنوك والمؤسسات المالية،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى النظام رقم12 - 03 ال مؤرّخ في 14",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "محرّم عام1434",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق28",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "نوفمبر سنة2012",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتعلق بالوقاية من تبييض الأموال وتمويل الإرهاب ومكافحتهما،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى النظام رقم14 - 01",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرخ في16",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ربيع الثاني عام1435",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق16",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "فبراير سنة2014",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتضمن نسب الملاءة المطبقة على البنوك والمؤسسات الما لية،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى النظام رقم18 - 02",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرخ في26",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "صفر عام1440",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق4",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "نوفمبر سنة2018 و المتضمن قواعد ممارسة العمليات المصرفية المتعلقة بالصيرفة التشاركية من طرف المصارف والمؤسسات المالية،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى النظام رقم20 - 01",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرخ في20",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "رجب عام1441",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق15",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "مارس سنة2020",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمحدد للقواعد العامة المتعلقة بالشروط البنكية المطبقة على العمليات المصرفية،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى النظام رقم20 - 03",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرخ في20",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "رجب عام1441",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق15",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "مارس سنة2020",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتعلق بنظام ضمان الودائع المصرفية،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبعد الاطلاع على مداولات مجلس النقد والقرض بتاريخ15",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "مارس سنة 2020 ،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": ":يصدر النظام الآتي نصه",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": ":المادة الأولى",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "يهدف هذا النظام إلى تحديد",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "العمليات البنكية المتعلقة بالصيرفة الإسلامية، القواعد المطبقة عليها، شروط ممارستها من طرف البنوك والمؤسسات المالية، وكذا شروط الترخيص المسبق لها من طرف بنك الجزائر.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": ":\nفي مفهوم هذا النظام، تُعد عملية بنكية متعلقة بالصيرفة الإسلامية كل عملية بنكية\nلا يترتب عنها تحص يل أو تسديد الفوائد. يجب على هذه العمليات أن تكون مطابقة\nللأحكام المشار إليها في المواد 66\nإلى69\nمن الأمر رقم03 - 11\n.المتعلق بالنقد والقرض، المعدل والمتمم\nالمادة 3 :\nيجب على البنوك والمؤسسات المالية التي ترغب في تقديم منتجات الصيرفة الاسلامية أن تحوز، على وجه الخصوص، على نسب احترازية مطابقة للمعايير التنظيمية وأن تمتثل بصرامة للشروط المتعلقة بإعداد وآجال إرسال التقارير التنظيمية.",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "في مفهوم هذا النظام، تُعد عملية بنكية متعلقة بالصيرفة الإسلامية كل عملية بنكية",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "لا يترتب عنها تحص يل أو تسديد الفوائد. يجب على هذه العمليات أن تكون مطابقة",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "للأحكام المشار إليها في المواد 66",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "إلى69",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "من الأمر رقم03 - 11",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": ".المتعلق بالنقد والقرض، المعدل والمتمم",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "المادة 3 :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "يجب على البنوك والمؤسسات المالية التي ترغب في تقديم منتجات الصيرفة الاسلامية أن تحوز، على وجه الخصوص، على نسب احترازية مطابقة للمعايير التنظيمية وأن تمتثل بصرامة للشروط المتعلقة بإعداد وآجال إرسال التقارير التنظيمية.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": ": تخُص العمليات البنكية ال متعلقة بالصيرفة الإسلامية ، المُنتجات الآتية :\n-\n،المرابحة\n-\n،المشاركة\n-\n،المضاربة\n-\n،الإجارة\n-\n،السلم\n-\n،الإستصناع\n-\n،حسابات الودائع\n-\n.الودائع في حسابات الاستثمار\nا لمادة 5 :\nالمرابحة هي عقد يقوم بموجبه البنك أو المؤسسة المالية ببيع لزبون سلعة معلومة، سواء كانت منقولة أو ير غ منقولة، يملكها البنك أو المؤسسة المالية، بتكلفة اقتنائها مع إضافة هامش ربح متفق عليه مسبقًا ووفقًا لشروط الدفع المتفق عليها بين الطرفين.",
+      "paragraphs": [
+        {
+          "text": ": تخُص العمليات البنكية ال متعلقة بالصيرفة الإسلامية ، المُنتجات الآتية :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "-",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "،المرابحة",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "-",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "،المشاركة",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "-",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "،المضاربة",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "-",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "،الإجارة",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "-",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "،السلم",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "-",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "،الإستصناع",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "-",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "،حسابات الودائع",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "-",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": ".الودائع في حسابات الاستثمار",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "ا لمادة 5 :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "المرابحة هي عقد يقوم بموجبه البنك أو المؤسسة المالية ببيع لزبون سلعة معلومة، سواء كانت منقولة أو ير غ منقولة، يملكها البنك أو المؤسسة المالية، بتكلفة اقتنائها مع إضافة هامش ربح متفق عليه مسبقًا ووفقًا لشروط الدفع المتفق عليها بين الطرفين.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": ":\nالمشاركة هي عقد بين بنك أو مؤسسة مالية وواحد أو عدة أطراف، بهدف المشاركة في رأس مال مؤسسة أو في مشروع أو في عمليات تجارية من أجل تحقيق أرباح.",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "المشاركة هي عقد بين بنك أو مؤسسة مالية وواحد أو عدة أطراف، بهدف المشاركة في رأس مال مؤسسة أو في مشروع أو في عمليات تجارية من أجل تحقيق أرباح.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": ":\n،المضاربة هي عقد يُقدّم بموجبه بنك أو مؤسسة مالية، المسمى مقرض للأموال، رأس المال اللازم للمقاول الذي يقدم عمله في مشروع من أجل تحقيق أرباح.",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "،المضاربة هي عقد يُقدّم بموجبه بنك أو مؤسسة مالية، المسمى مقرض للأموال، رأس المال اللازم للمقاول الذي يقدم عمله في مشروع من أجل تحقيق أرباح.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": ": الإجارة هي عقد إيجار يضع من خلاله البنك أو المؤسسة المالي ة، المُسمى المُؤجِّر، تحت تصرّف الزبون المُسمى المُستأجِر، وعلى أساس الإيجار، سلعة منقولة أو غير منقولة، يملكها البنك أو المؤسسة المالية، لفترة محددة مقابل تسديد إيجار يتم تحديده في العقد.",
+      "paragraphs": [
+        {
+          "text": ": الإجارة هي عقد إيجار يضع من خلاله البنك أو المؤسسة المالي ة، المُسمى المُؤجِّر، تحت تصرّف الزبون المُسمى المُستأجِر، وعلى أساس الإيجار، سلعة منقولة أو غير منقولة، يملكها البنك أو المؤسسة المالية، لفترة محددة مقابل تسديد إيجار يتم تحديده في العقد.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": ": الس َّلَم هو عقد يقوم من خلاله البنك أو المؤسسة المالية ال ذي يقوم بدور المشتري بشراء سلعة، التي تُسلم له آجلا من طرف زبونه، مقابل الدفع الفوري والنقدي.",
+      "paragraphs": [
+        {
+          "text": ": الس َّلَم هو عقد يقوم من خلاله البنك أو المؤسسة المالية ال ذي يقوم بدور المشتري بشراء سلعة، التي تُسلم له آجلا من طرف زبونه، مقابل الدفع الفوري والنقدي.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": ":\nالاستصناع هو عقد يتعهد بمقتضاه البنك أو المؤسسة المالية بتسليم سلعة إلى زبونه صاحب الأمر، أو بشراء لدى مُصنِّع سلعةً ستُصنّع وفقاً لخصائص محددة ومتّفق عليها بين الأطراف، بسعر ثابت ووفقاً لكيفيات تسديد متفق عليه ا مسبقاً بين الطرفين.",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "الاستصناع هو عقد يتعهد بمقتضاه البنك أو المؤسسة المالية بتسليم سلعة إلى زبونه صاحب الأمر، أو بشراء لدى مُصنِّع سلعةً ستُصنّع وفقاً لخصائص محددة ومتّفق عليها بين الأطراف، بسعر ثابت ووفقاً لكيفيات تسديد متفق عليه ا مسبقاً بين الطرفين.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": ":\nحسابات الودائع هي حسابات تحتوي على أموال يتم إيداعها في بنك من طرف أفراد أو كيانات، مع الاِلتزام بإعادة هذه الأموال أو ما يعادلها إلى المودع أو إلى شخص آخر معيّن، عند الطلب أو حسب شروط متّفق عليها مُسبقاً.",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "حسابات الودائع هي حسابات تحتوي على أموال يتم إيداعها في بنك من طرف أفراد أو كيانات، مع الاِلتزام بإعادة هذه الأموال أو ما يعادلها إلى المودع أو إلى شخص آخر معيّن، عند الطلب أو حسب شروط متّفق عليها مُسبقاً.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": ": الودائع في حسابات الاستثمار هي توظيفا ت لأجل، تُترك تحت تصرف البنك من طرف المودِع لغرض استثمارها في تمويلات إسلامية وتحقيق أرباح.",
+      "paragraphs": [
+        {
+          "text": ": الودائع في حسابات الاستثمار هي توظيفا ت لأجل، تُترك تحت تصرف البنك من طرف المودِع لغرض استثمارها في تمويلات إسلامية وتحقيق أرباح.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": ":تخضع منتجات الصيرفة الإسلامية، المذكورة أعلاه، إلى طلب ترخيص\nمسبق\nلدى بنك الجزائر.",
+      "paragraphs": [
+        {
+          "text": ":تخضع منتجات الصيرفة الإسلامية، المذكورة أعلاه، إلى طلب ترخيص",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "مسبق",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "لدى بنك الجزائر.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": ":\nقبل تقديم طلب الترخيص لدى بنك الجزائر لتسويق منتجات الصيرفة الإسلامية، يجب على البنك أو المؤسس ة المالية أن يحصل على شهادة المطابقة لأحكام الشريعة، تُسلّم له من طرف الهيئة الشرعية الوطنية للإفتاء للصناعة المالية الإسلامية.",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "قبل تقديم طلب الترخيص لدى بنك الجزائر لتسويق منتجات الصيرفة الإسلامية، يجب على البنك أو المؤسس ة المالية أن يحصل على شهادة المطابقة لأحكام الشريعة، تُسلّم له من طرف الهيئة الشرعية الوطنية للإفتاء للصناعة المالية الإسلامية.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": ": في إطار ممارسة العمليات المتعلقة بالصيرفة الإسلامية، يتعين على البنك أو الم ؤسسة المالية إنشاء هيئ ة الرقابة الشرعية، تتكوّن هذه الهيئة من ثلاثة أعضاء على الأقل، يتم تعيينهم من طرف الجمعية العامة.\nتكمن مهام هيئة الرقابة الشرعية على وجه الخصوص و في إطار مطابقة المنتجات للشريعة، في رقابة نشاطات البنك أو المؤسسة المالية المتعلقة بالصيرفة الإسلامية.",
+      "paragraphs": [
+        {
+          "text": ": في إطار ممارسة العمليات المتعلقة بالصيرفة الإسلامية، يتعين على البنك أو الم ؤسسة المالية إنشاء هيئ ة الرقابة الشرعية، تتكوّن هذه الهيئة من ثلاثة أعضاء على الأقل، يتم تعيينهم من طرف الجمعية العامة.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "تكمن مهام هيئة الرقابة الشرعية على وجه الخصوص و في إطار مطابقة المنتجات للشريعة، في رقابة نشاطات البنك أو المؤسسة المالية المتعلقة بالصيرفة الإسلامية.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 16",
+      "number": "16",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": ":\nيتعين على البنك أو المؤسسة المالية تقديم ملف لبنك الجزائر لطلب الترخيص المسبق لتسويق منتجات الصيرفة الإسلامية. يتكون هذا الملف على وجه الخصوص، من الوثائق التالية :\n- شهادة المطابقة لأحكام الشريعة مسلمة من طرف الهيئة الشرعية ال وطنية للإفتاء للصناعة المالية الإسلامية ، -\n،بطاقة وصفية للمنتوج\n-\nرأي مسؤول رقابة المطابقة للبنك أو المؤسسة المالية، طبقا لأحكام المادة25\nمن النظام رقم11 - 08\nالمؤرخ في3\nمحرّم عام1433\nالموافق28\nنوفمبر سنة2011\n،والمذكور أعلاه\n- الإجراء الواجب اتباعه لضمان الا ستقلالية الإدارية والمالية لــ »\nشباك الصيرفة الإسلامية « عن باقي أنشطة البنك أو المؤسسة المالية، طبقا لأحكام المواد 17\nو18\n.أدناه",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "يتعين على البنك أو المؤسسة المالية تقديم ملف لبنك الجزائر لطلب الترخيص المسبق لتسويق منتجات الصيرفة الإسلامية. يتكون هذا الملف على وجه الخصوص، من الوثائق التالية :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- شهادة المطابقة لأحكام الشريعة مسلمة من طرف الهيئة الشرعية ال وطنية للإفتاء للصناعة المالية الإسلامية ، -",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "،بطاقة وصفية للمنتوج",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "-",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "رأي مسؤول رقابة المطابقة للبنك أو المؤسسة المالية، طبقا لأحكام المادة25",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "من النظام رقم11 - 08",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "المؤرخ في3",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "محرّم عام1433",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "الموافق28",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "نوفمبر سنة2011",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "،والمذكور أعلاه",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- الإجراء الواجب اتباعه لضمان الا ستقلالية الإدارية والمالية لــ »",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "شباك الصيرفة الإسلامية « عن باقي أنشطة البنك أو المؤسسة المالية، طبقا لأحكام المواد 17",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "و18",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": ".أدناه",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 17",
+      "number": "17",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": ":\nيُقصد بــ »\nشباك الصيرفة الإسلامية « ، هيكل ضمن البنك أو المؤسسة مالية مُكلف حصريا بخدمات ومنتجات الصيرفة الإسلامية.\nي جب أن يكون »\nشباك الصيرفة الإسلامية « مستقلاً مالياً عن الهياكل الأخرى للبنك أو المؤسسة المالية.\nيجب الفصل الكامل بين المحاسبة الخاصة بـ »\nشباك الصيرفة الإسلامية « والمحاسبة الخاصة بالهياكل الأخرى للبنك أو المؤسسة المالية، ويجب أن يسمح هذا الفصل، على وجه الخصو ص، بإعداد جميع البيانات المالية المخصّصة حصريا لنشاط »\nشباك الصيرفة الإسلامية «.\nيجب أن تكون حسابات زبائن »\nشباك الصيرفة الإسلامية « مستقلة عن باقي الحسابات الأخرى للزبائن.",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "يُقصد بــ »",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "شباك الصيرفة الإسلامية « ، هيكل ضمن البنك أو المؤسسة مالية مُكلف حصريا بخدمات ومنتجات الصيرفة الإسلامية.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "ي جب أن يكون »",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "شباك الصيرفة الإسلامية « مستقلاً مالياً عن الهياكل الأخرى للبنك أو المؤسسة المالية.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "يجب الفصل الكامل بين المحاسبة الخاصة بـ »",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "شباك الصيرفة الإسلامية « والمحاسبة الخاصة بالهياكل الأخرى للبنك أو المؤسسة المالية، ويجب أن يسمح هذا الفصل، على وجه الخصو ص، بإعداد جميع البيانات المالية المخصّصة حصريا لنشاط »",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "شباك الصيرفة الإسلامية «.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "يجب أن تكون حسابات زبائن »",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "شباك الصيرفة الإسلامية « مستقلة عن باقي الحسابات الأخرى للزبائن.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 18",
+      "number": "18",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": ":\nتُضمن استقلالية »\nشباك الصيرفة الإسلامية « من خلال هيكل تنظيمي ومستخدمين مُخص َّصين حصرياً لذلك، بما في ذلك على مستوى شبكة البنك أو المؤسسة المالية.",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "تُضمن استقلالية »",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "شباك الصيرفة الإسلامية « من خلال هيكل تنظيمي ومستخدمين مُخص َّصين حصرياً لذلك، بما في ذلك على مستوى شبكة البنك أو المؤسسة المالية.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 19",
+      "number": "19",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": ":\nيجب على البنوك والمؤسسات المالية الذين تحصّلوا على الترخيص المسبق لتسويق منتجات الصيرفة الإسلامية، أن تُعلم زبائنها بجداول التسعيرات والشروط الدنيا والقصوى التي تُطبّق عليهم.\nكما يجب على البنوك إعلام المودعين، خاصة أصحاب حسابات الاستثمار، حول الخصائص ذات الصلة بطبيعة حساباتهم.",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "يجب على البنوك والمؤسسات المالية الذين تحصّلوا على الترخيص المسبق لتسويق منتجات الصيرفة الإسلامية، أن تُعلم زبائنها بجداول التسعيرات والشروط الدنيا والقصوى التي تُطبّق عليهم.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "كما يجب على البنوك إعلام المودعين، خاصة أصحاب حسابات الاستثمار، حول الخصائص ذات الصلة بطبيعة حساباتهم.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 20",
+      "number": "20",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": ":\nباستثناء الودائع في حسابات الاستثمار، التي تخضع لموافقة مكتوبة من طرف الزبون، الذي يُجيز لبنكه أن يستثمر ودائعه في محفظة مشاريع وفي عمليات الصيرفة الإسلامية، تخضع ودائع الأموال المتلقاة من طرف باكش»\nالصيرفة الإسلامية « لأحك ام المواد المذكورة أعلاه من الأمر رقم 03 - 11\nالمؤرّخ في27\nجمادى الثانية عام1424\nالموافق لـ26\nغشت سنة2003 .، المتعلق بالنقد والقرض، المعدل والمتمم\nيحقّ لصاحب حساب ودائع الاستثمار الحصول على حصة من الأرباح الناجمة عن »\nشباك الصيرفة الإسلامية « ويت حمّل حصة م ن الخسائر المحتملة التي يسجلها »\nشباك الصيرفة الإسلامية « في التمويلات التي يقوم بها.",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "باستثناء الودائع في حسابات الاستثمار، التي تخضع لموافقة مكتوبة من طرف الزبون، الذي يُجيز لبنكه أن يستثمر ودائعه في محفظة مشاريع وفي عمليات الصيرفة الإسلامية، تخضع ودائع الأموال المتلقاة من طرف باكش»",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "الصيرفة الإسلامية « لأحك ام المواد المذكورة أعلاه من الأمر رقم 03 - 11",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "المؤرّخ في27",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "جمادى الثانية عام1424",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "الموافق لـ26",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "غشت سنة2003 .، المتعلق بالنقد والقرض، المعدل والمتمم",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "يحقّ لصاحب حساب ودائع الاستثمار الحصول على حصة من الأرباح الناجمة عن »",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "شباك الصيرفة الإسلامية « ويت حمّل حصة م ن الخسائر المحتملة التي يسجلها »",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "شباك الصيرفة الإسلامية « في التمويلات التي يقوم بها.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 21",
+      "number": "21",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": ":\nتخضع الودائع والمبالغ الأخرى المماثلة للودائع القابلة للاسترداد والمجمّعة من طرف »\nشبابيك الصيرف ة الإسلامية « للبنوك، لأحكام النظام رقم 20 - 03\nالمؤرخ في20 رجب\nعام 1441\nالموافق15\nمارس سنة2020\n.والمتعلق بنظام ضمان الودائع المصرفية\nتخضع الودائع في حسابات الاستثمار إلى تنظيم خاص.",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "تخضع الودائع والمبالغ الأخرى المماثلة للودائع القابلة للاسترداد والمجمّعة من طرف »",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "شبابيك الصيرف ة الإسلامية « للبنوك، لأحكام النظام رقم 20 - 03",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "المؤرخ في20 رجب",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "عام 1441",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "الموافق15",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "مارس سنة2020",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": ".والمتعلق بنظام ضمان الودائع المصرفية",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "تخضع الودائع في حسابات الاستثمار إلى تنظيم خاص.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 22",
+      "number": "22",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": ":\nبالإضافة إلى أحكام هذا النظام، وما لم ينص على خلاف ذلك، تخضع منتجات الصيرفة الإسلامية لجميع الأحكام القانونية والتنظيمية الم تعلقة بالبنوك والمؤسسات المالية.",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "بالإضافة إلى أحكام هذا النظام، وما لم ينص على خلاف ذلك، تخضع منتجات الصيرفة الإسلامية لجميع الأحكام القانونية والتنظيمية الم تعلقة بالبنوك والمؤسسات المالية.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 23",
+      "number": "23",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": ":\nيُلغي هذا النظام أحكام النظام رقم18 - 02\nالمؤرخ في26\nصفر عام1440\nالموافق4\nنوفمبر سنة2018\n.المتضمن لقواعد ممارسة العمليات المصرفية المتعلقة بالصيرفة التشاركية من طرف المصارف والمؤسسات المالية",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "يُلغي هذا النظام أحكام النظام رقم18 - 02",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "المؤرخ في26",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "صفر عام1440",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "الموافق4",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "نوفمبر سنة2018",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": ".المتضمن لقواعد ممارسة العمليات المصرفية المتعلقة بالصيرفة التشاركية من طرف المصارف والمؤسسات المالية",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 24",
+      "number": "24",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": ": ينشر هذ ا النظام في الجريدة الرسمية للجمهورية الجزائرية الديمقراطية الشعبية.\nالمحافـــــظ\nأيمن بن عبد الرحمان",
+      "paragraphs": [
+        {
+          "text": ": ينشر هذ ا النظام في الجريدة الرسمية للجمهورية الجزائرية الديمقراطية الشعبية.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "المحافـــــظ",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "أيمن بن عبد الرحمان",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "numerotation:articles_manquants:[3, 5]",
+      "numerotation:premier_article=2"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.041
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/REG-20-02.ar.txt"
+}

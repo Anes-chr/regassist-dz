@@ -1,0 +1,522 @@
+{
+  "document_id": "INS-77-95.fr",
+  "work_id": "INS-77-95",
+  "title": "Instruction n°77-95 du 25 décembre 1995 modifiant et complétant l’instruction n°16-94 du 09 avril 1994 relative aux instruments de conduite de la politique monétaire et au refinancement des banques.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "77-95",
+  "number_source": "en-tête du document",
+  "date": "1995-12-25",
+  "date_raw": "N°77-95 DU 25 DECEMBRE 1995",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2025/12/instruction7795.pdf",
+      "uploaded": "2025-12-11T14:21:41"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Année 1995",
+  "source_url": "https://www.bank-of-algeria.dz/annee-1995/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction7795.pdf",
+  "format": "pdf",
+  "file_hash": "c6b9c96ae7843933133ec15c79bc7435418e875d0c19a666e9af460e97a9e273",
+  "file_size": 32627,
+  "raw_path": "raw/c6b9c96ae784__instruction7795.pdf",
+  "retrieved_at": "2026-10-05T14:17:53+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "86f5497286dc62e77e40b29cc134f65e66f792710c4d696e59936512b40aed07",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-1995/",
+    "https://www.bank-of-algeria.dz/ar/%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84/",
+    "https://www.bank-of-algeria.dz/ar/%d8%a5%d8%b9%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%aa%d9%85%d9%88%d9%8a%d9%84/",
+    "https://www.bank-of-algeria.dz/marche-monetaire-instruction/",
+    "https://www.bank-of-algeria.dz/refinancement-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document2",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200812133512+01'00'",
+    "modDate": "D:20200812133512+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2282,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 8,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°77-95 DU 25 DECEMBRE 1995 MODIFIANT ET COMPLETANT L'INSTRUCTION N°16-94 DU 09 AVRIL 1994 RELATIVE AUX INSTRUMENTS DE CONDUITE DE LA POLITIQUE MONETAIRE ET AU REFINANCEMENT DES BANQUES",
+  "alias_urls": [
+    {
+      "document_url": "https://www.bank-of-algeria.dz/stoodroa/2025/12/instruction7795.pdf",
+      "source_url": "https://www.bank-of-algeria.dz/marche-monetaire-instruction/",
+      "title": "Instruction n°77-95 du 25 décembre 1995 modifiant et complétant l’instruction n° 16-94 du 09 avril 1994 relative aux instruments de conduite de la politique monétaire et au refinancement des banques."
+    }
+  ],
+  "text_hash": "7943063d882cf034b76bd80287dd776347fcbad88a71ae611db45f24021a9e81",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "16-94",
+        "date": "1994-04-09",
+        "raw": "instruction n°16-94 du 09 avril 1994"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°77-95 du 25 décembre 1995 modifiant et complétant l’instruction n°16-94 du 09 avril 1994 relative aux instruments de conduite de"
+      },
+      "target_work_id": "INS-16-94"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "16-94",
+        "date": "1994-04-09",
+        "raw": "instruction n°16-94 du 09 avril 1994"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°77-95 du 25 décembre 1995 modifiant et complétant l’instruction n°16-94 du 09 avril 1994 relative aux instruments de conduite de"
+      },
+      "target_work_id": "INS-16-94"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "16-94",
+        "date": "1994-04-09",
+        "raw": "instruction N° 16/94 du 09 Avril 1994"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "s et les établissements financiers aux opérations avec la clientèle, la présente instruction a pour objet de modifier l'instruction N° 16/94 du 09 Avril 1994 relative aux instruments de conduite de"
+      },
+      "target_work_id": "INS-16-94"
+    },
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "72-94",
+        "date": "1994-11-28",
+        "raw": "instruction n°72-94 du 28 Novembre 1994"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente Instruction abroge l'instruction n°72-94 du 28 Novembre 1994 portant mode de détermination du coût m"
+      },
+      "target_work_id": "INS-72-94"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "INS-72-94",
+      "reference": "instruction n°72-94 du 28 Novembre 1994",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente Instruction abroge l'instruction n°72-94 du 28 Novembre 1994 portant mode de détermination du coût m"
+      }
+    }
+  ],
+  "modifie": [
+    {
+      "work_id": "INS-16-94",
+      "reference": "instruction n°16-94 du 09 avril 1994",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°77-95 du 25 décembre 1995 modifiant et complétant l’instruction n°16-94 du 09 avril 1994 relative aux instruments de conduite de"
+      }
+    },
+    {
+      "work_id": "INS-16-94",
+      "reference": "instruction N° 16/94 du 09 Avril 1994",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "s et les établissements financiers aux opérations avec la clientèle, la présente instruction a pour objet de modifier l'instruction N° 16/94 du 09 Avril 1994 relative aux instruments de conduite de"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "INS-16-94",
+      "reference": "instruction n°16-94 du 09 avril 1994",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°77-95 du 25 décembre 1995 modifiant et complétant l’instruction n°16-94 du 09 avril 1994 relative aux instruments de conduite de"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "INS-16-94",
+      "reference": "instruction n°16-94 du 09 avril 1994",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°77-95 du 25 décembre 1995 modifiant et complétant l’instruction n°16-94 du 09 avril 1994 relative aux instruments de conduite de"
+      }
+    }
+  ],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°77-95 DU 25 DECEMBRE 1995 MODIFIANT ET\nCOMPLETANT L'INSTRUCTION N°16-94 DU 09 AVRIL 1994 RELATIVE\nAUX INSTRUMENTS DE CONDUITE DE LA POLITIQUE MONETAIRE\nET AU REFINANCEMENT DES BANQUES",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°77-95 DU 25 DECEMBRE 1995 MODIFIANT ET",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "COMPLETANT L'INSTRUCTION N°16-94 DU 09 AVRIL 1994 RELATIVE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AUX INSTRUMENTS DE CONDUITE DE LA POLITIQUE MONETAIRE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET AU REFINANCEMENT DES BANQUES",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Dans le cadre de la libéralisation des conditions de détermination des taux d'intérêt appliqués par les banques et les établissements financiers aux opérations avec la clientèle, la présente instruction a pour objet de modifier l'instruction N° 16/94 du 09\nAvril 1994 relative aux instruments de conduite de la politique monétaire et au refinancement des banques.",
+      "paragraphs": [
+        {
+          "text": "Dans le cadre de la libéralisation des conditions de détermination des taux d'intérêt appliqués par les banques et les établissements financiers aux opérations avec la clientèle, la présente instruction a pour objet de modifier l'instruction N° 16/94 du 09",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Avril 1994 relative aux instruments de conduite de la politique monétaire et au refinancement des banques.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Dans le but de stimuler l'intermédiation bancaire en contexte de saine concurrence, l'encadrement de la marge bancaire, instauré par l'instruction n°16-94 sus visée, est supprimé.",
+      "paragraphs": [
+        {
+          "text": "Dans le but de stimuler l'intermédiation bancaire en contexte de saine concurrence, l'encadrement de la marge bancaire, instauré par l'instruction n°16-94 sus visée, est supprimé.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les banques et établissements financiers ont pour obligation d'afficher les conditions de banque générales qu'ils pratiquent. Ces conditions doivent être mises en évidence pour la clientèle et ne prêter à aucune confusion.",
+      "paragraphs": [
+        {
+          "text": "Les banques et établissements financiers ont pour obligation d'afficher les conditions de banque générales qu'ils pratiquent. Ces conditions doivent être mises en évidence pour la clientèle et ne prêter à aucune confusion.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les conditions particulières négociées avec un client doivent être consignées dans le contrat le liant à la banque ou à l'établissement financier.\nTout contrat de prêt doit contenir une clause prévoyant les conditions de sa dénonciation.",
+      "paragraphs": [
+        {
+          "text": "Les conditions particulières négociées avec un client doivent être consignées dans le contrat le liant à la banque ou à l'établissement financier.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Tout contrat de prêt doit contenir une clause prévoyant les conditions de sa dénonciation.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Aucune banque ou établissement financier ne peut appliquer des conditions moins favorables que celles qu'elle a affichée.\nTout emprunteur qui se voit imposer des conditions moins favorables que celles affichées par la banque ou l'établissement financier peut saisir la Commission Bancaire.",
+      "paragraphs": [
+        {
+          "text": "Aucune banque ou établissement financier ne peut appliquer des conditions moins favorables que celles qu'elle a affichée.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Tout emprunteur qui se voit imposer des conditions moins favorables que celles affichées par la banque ou l'établissement financier peut saisir la Commission Bancaire.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les Banques et établissements financiers sont tenus, dès publication de la présente instruction, de déclarer à la Banque d'Algérie leurs conditions de banque. Toute modification ultérieure de celles-ci doit également être signalée à la Banque d'Algérie, au plus tard la veille de son application.",
+      "paragraphs": [
+        {
+          "text": "Les Banques et établissements financiers sont tenus, dès publication de la présente instruction, de déclarer à la Banque d'Algérie leurs conditions de banque. Toute modification ultérieure de celles-ci doit également être signalée à la Banque d'Algérie, au plus tard la veille de son application.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente Instruction abroge l'instruction n°72-94 du 28 Novembre 1994 portant mode de détermination du coût moyen pondéré des ressources des banques et établissements financiers en tant que base de fixation de leurs conditions débitrices.",
+      "paragraphs": [
+        {
+          "text": "La présente Instruction abroge l'instruction n°72-94 du 28 Novembre 1994 portant mode de détermination du coût moyen pondéré des ressources des banques et établissements financiers en tant que base de fixation de leurs conditions débitrices.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente Instruction entre en application à compter de la date de sa signature.\nLe Gouverneur\nAbdelouahab KERAMANE",
+      "paragraphs": [
+        {
+          "text": "La présente Instruction entre en application à compter de la date de sa signature.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.027
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-77-95.fr.txt"
+}

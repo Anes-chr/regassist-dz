@@ -1,0 +1,400 @@
+{
+  "document_id": "REG-11-03.fr",
+  "work_id": "REG-11-03",
+  "title": "Règlement n°2011-03 du 24 mai 2011 relatif a la surveillance des risques interbancaires.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "2011-03",
+  "number_source": "en-tête du document",
+  "date": "2011-05-24",
+  "date_raw": "N°2011-03 DU 24 MAI 2011",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/reglement201103.pdf",
+      "uploaded": "2023-01-25T10:27:27"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Année 2011",
+  "source_url": "https://www.bank-of-algeria.dz/reglement-2011/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement201103.pdf",
+  "format": "pdf",
+  "file_hash": "19bec2246ffffaccd47a2bd47b619c6805c6637146358b473060209a90c2b154",
+  "file_size": 67155,
+  "raw_path": "raw/19bec2246fff__reglement201103.pdf",
+  "retrieved_at": "2026-10-05T13:22:40+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "e345df5b64a102efeb381548ab76b620c9e8a9e019df89f433b218e2570b2764",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/reglement-2011/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document20",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210211134854+01'00'",
+    "modDate": "D:20210211134854+01'00'"
+  },
+  "hijri_date_raw": "27 Joumada Ethania 1424",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 3170,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 868,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 5,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "meme_texte_plusieurs_fichiers"
+  ],
+  "title_document": "REGLEMENT N°2011-03 DU 24 MAI 2011 RELATIF A LA SURVEILLANCE DES RISQUES INTERBANCAIRES",
+  "alias_urls": [],
+  "text_hash": "b977d26fb642c0dc03c8d99cf5e7a24c2b2f883d5cb9e099f372fa213294da7d",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-11-03.ar",
+    "REG-11-03.fr~2"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°2011-03 DU 24 MAI 2011 RELATIF\nA LA SURVEILLANCE DES RISQUES INTERBANCAIRES\nLe Gouverneur de la Banque d’Algérie,\n- Vu l’ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, modifiée et complétée, relative à la monnaie et au crédit, notamment son article 62 ;\n- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 2 juin 2001 portant nomination du gouverneur et Vice-gouverneurs de la Banque d’Algérie ;\n- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 2 juin 2001 portant nomination des membres du conseil d’administration de la Banque d’Algérie ;\n- Vu le décret présidentiel du 26 Chaâbane 1423 correspondant au 2 novembre 2002 portant nomination d’un membre du conseil d’administration de la Banque d’Algérie ;\n- Vu le décret présidentiel du 24 Dhou El Kaada 1424 correspondant au 14 janvier 2004 portant nomination des membres du conseil de la monnaie et du crédit de la Banque d’Algérie ;\n- Vu le décret présidentiel du 5 Joumada El Oula 1427 correspondant au 1er juin 2006 portant nomination d’un Vice-Gouverneur de la Banque d’Algérie ;\n- Vu le règlement n°02-03 du 9 Ramadhan 1423 correspondant au 14 novembre 2002 portant sur le contrôle interne des banques et établissements financiers ;\n- Vu le règlement n°09-04 du Aouel Chaâbane 1430 correspondant au 23 juillet 2009 portant plan de comptes bancaire et règles comptables applicables aux banques et aux établissements financiers ;\n- Vu le règlement n°09-05 du 29 Chaoual 1430 correspondant au 18 octobre 2009 relatif à l’établissement et à la publication des états financiers des banques et des établissements financiers ;\n- Vu le règlement n°09-08 du 12 Moharram 1431 correspondant au 29 décembre 2009 relatif aux règles d’évaluation et de comptabilisation des instruments financiers par les banques et les établissements financiers ;\n- Vu les délibérations du conseil de la monnaie et du crédit en date du 24 mai 2011 ;\nPromulgue le règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°2011-03 DU 24 MAI 2011 RELATIF",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "A LA SURVEILLANCE DES RISQUES INTERBANCAIRES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d’Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, modifiée et complétée, relative à la monnaie et au crédit, notamment son article 62 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 2 juin 2001 portant nomination du gouverneur et Vice-gouverneurs de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 2 juin 2001 portant nomination des membres du conseil d’administration de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 26 Chaâbane 1423 correspondant au 2 novembre 2002 portant nomination d’un membre du conseil d’administration de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 24 Dhou El Kaada 1424 correspondant au 14 janvier 2004 portant nomination des membres du conseil de la monnaie et du crédit de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 5 Joumada El Oula 1427 correspondant au 1er juin 2006 portant nomination d’un Vice-Gouverneur de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n°02-03 du 9 Ramadhan 1423 correspondant au 14 novembre 2002 portant sur le contrôle interne des banques et établissements financiers ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n°09-04 du Aouel Chaâbane 1430 correspondant au 23 juillet 2009 portant plan de comptes bancaire et règles comptables applicables aux banques et aux établissements financiers ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n°09-05 du 29 Chaoual 1430 correspondant au 18 octobre 2009 relatif à l’établissement et à la publication des états financiers des banques et des établissements financiers ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n°09-08 du 12 Moharram 1431 correspondant au 29 décembre 2009 relatif aux règles d’évaluation et de comptabilisation des instruments financiers par les banques et les établissements financiers ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu les délibérations du conseil de la monnaie et du crédit en date du 24 mai 2011 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les banques et les établissements financiers doivent disposer, dans les conditions définies par le présent règlement, d’un système de surveillance interne de la répartition de leurs encours de prêts et d’emprunts interbancaires, notamment ceux opérés sur le marché monétaire.",
+      "paragraphs": [
+        {
+          "text": "Les banques et les établissements financiers doivent disposer, dans les conditions définies par le présent règlement, d’un système de surveillance interne de la répartition de leurs encours de prêts et d’emprunts interbancaires, notamment ceux opérés sur le marché monétaire.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les banques et les établissements financiers fixent pour chaque contrepartie le montant maximal des prêts consentis et des emprunts obtenus auprès de contreparties bancaires.\nCes montants doivent être déterminés dans des conditions qui assurent une répartition des placements opérés et des financements obtenus qui soient conformes aux décisions de l’organe délibérant relatives à la prise de risques et à la gestion de la liquidité.\nLes limites fixées pour chaque contrepartie doivent faire l’objet d’un réexamen périodique.",
+      "paragraphs": [
+        {
+          "text": "Les banques et les établissements financiers fixent pour chaque contrepartie le montant maximal des prêts consentis et des emprunts obtenus auprès de contreparties bancaires.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Ces montants doivent être déterminés dans des conditions qui assurent une répartition des placements opérés et des financements obtenus qui soient conformes aux décisions de l’organe délibérant relatives à la prise de risques et à la gestion de la liquidité.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les limites fixées pour chaque contrepartie doivent faire l’objet d’un réexamen périodique.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "Lorsqu'une contrepartie bancaire contrôle de manière exclusive une ou plusieurs autres contreparties bancaires, l’ensemble ainsi constitué est considéré comme une seule et même contrepartie pour le respect des limites décrites à l’article 2 ci-dessus.\nBANK OF ALGERIA\nSont également considérées comme une même contrepartie, les contreparties bancaires qui sont unies entre elles par des liens tels que si l'une rencontrait des problèmes financiers, l’autre, ou toutes les autres, connaîtraient des difficultés de remboursement.",
+      "paragraphs": [
+        {
+          "text": "Lorsqu'une contrepartie bancaire contrôle de manière exclusive une ou plusieurs autres contreparties bancaires, l’ensemble ainsi constitué est considéré comme une seule et même contrepartie pour le respect des limites décrites à l’article 2 ci-dessus.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Sont également considérées comme une même contrepartie, les contreparties bancaires qui sont unies entre elles par des liens tels que si l'une rencontrait des problèmes financiers, l’autre, ou toutes les autres, connaîtraient des difficultés de remboursement.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les banques et les établissements financiers doivent mettre en place :\n- un système d’enregistrement et de traitement des informations leur permettant de connaître, pour chaque contrepartie, le montant des prêts consentis et des emprunts contractés ;\n- des dispositifs de suivi des limites fixées pour chaque contrepartie ;\n- des procédures d’information des organes exécutifs et délibérants sur le respect de ces limites.",
+      "paragraphs": [
+        {
+          "text": "Les banques et les établissements financiers doivent mettre en place :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- un système d’enregistrement et de traitement des informations leur permettant de connaître, pour chaque contrepartie, le montant des prêts consentis et des emprunts contractés ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- des dispositifs de suivi des limites fixées pour chaque contrepartie ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- des procédures d’information des organes exécutifs et délibérants sur le respect de ces limites.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le présent règlement sera publié au Journal officiel de la République algérienne démocratique et populaire.\nLe Gouverneur\nMohammed LAKSACI",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement sera publié au Journal officiel de la République algérienne démocratique et populaire.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "meme_texte_plusieurs_fichiers"
+    ],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.029
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-11-03.fr.txt"
+}

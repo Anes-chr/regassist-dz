@@ -1,0 +1,633 @@
+{
+  "document_id": "INS-01-15.fr",
+  "work_id": "INS-01-15",
+  "title": "Instruction n°01-2015 du 16 juillet 2015 modifiant et complétant l’instruction n°28-95 du 22 avril 1995 portant organisation du marché monétaire.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "01-2015",
+  "number_source": "en-tête du document",
+  "date": "2015-07-16",
+  "date_raw": "N°01-2015 DU 16 JUILLET 2015",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-02",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Organisation et fonctionnement du marché monétaire",
+  "source_url": "https://www.bank-of-algeria.dz/marche-monetaire-instruction-2/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/02/instruction012015.pdf",
+  "format": "pdf",
+  "file_hash": "d30676c8c98e68992a048088cd285d20b4a769734d66188b68cd0be599501a96",
+  "file_size": 69603,
+  "raw_path": "raw/d30676c8c98e__instruction012015.pdf",
+  "retrieved_at": "2026-10-05T13:20:08+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 3,
+  "url_hash": "677789fdc576baf4195ef44625367bbdcf0490c0328f028b00e220aeb26253b3",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-2015/",
+    "https://www.bank-of-algeria.dz/marche-des-valeurs-du-tresor-2/",
+    "https://www.bank-of-algeria.dz/marche-monetaire-instruction-2/",
+    "https://www.bank-of-algeria.dz/organisation-et-fonctionnement-du-marche-interbancaire-des-changes/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document20",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210210162644+01'00'",
+    "modDate": "D:20210210162644+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 3,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2363,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 3067,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 2466,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 3,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°01-2015 DU 16 JUILLET 2015 MODIFIANT ET COMPLETANT L’INSTRUCTION N°28-95 DU 22 AVRIL 1995 PORTANT ORGANISATION DU MARCHE MONETAIRE",
+  "alias_urls": [],
+  "text_hash": "18bbd7140b6bbc88f099e18a284fd26192560d7501ff5e559dcfe61292bad177",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "28-95",
+        "date": "1995-04-22",
+        "raw": "instruction n°28-95 du 22 avril 1995"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2015 du 16 juillet 2015 modifiant et complétant l’instruction n°28-95 du 22 avril 1995 portant organisation du marché monétair"
+      },
+      "target_work_id": "INS-28-95"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "28-95",
+        "date": "1995-04-22",
+        "raw": "instruction n°28-95 du 22 avril 1995"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2015 du 16 juillet 2015 modifiant et complétant l’instruction n°28-95 du 22 avril 1995 portant organisation du marché monétair"
+      },
+      "target_work_id": "INS-28-95"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "28-95",
+        "date": "1995-04-22",
+        "raw": "instruction n°28-95 du 22 avril 1995"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°28-95 du 22 avril 1995 relative à l’organisation du marché mon"
+      },
+      "target_work_id": "INS-28-95"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "28-95",
+        "date": "1995-04-22",
+        "raw": "instruction n°28-95 du 22 avril 1995"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°28-95 du 22 avril 1995 relative à l’organisation du marché mon"
+      },
+      "target_work_id": "INS-28-95"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-28-95",
+      "reference": "instruction n°28-95 du 22 avril 1995",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2015 du 16 juillet 2015 modifiant et complétant l’instruction n°28-95 du 22 avril 1995 portant organisation du marché monétair"
+      }
+    },
+    {
+      "work_id": "INS-28-95",
+      "reference": "instruction n°28-95 du 22 avril 1995",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°28-95 du 22 avril 1995 relative à l’organisation du marché mon"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "INS-28-95",
+      "reference": "instruction n°28-95 du 22 avril 1995",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2015 du 16 juillet 2015 modifiant et complétant l’instruction n°28-95 du 22 avril 1995 portant organisation du marché monétair"
+      }
+    },
+    {
+      "work_id": "INS-28-95",
+      "reference": "instruction n°28-95 du 22 avril 1995",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°28-95 du 22 avril 1995 relative à l’organisation du marché mon"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-01-15.ar"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "INS-28-95",
+      "reference": "instruction n°28-95 du 22 avril 1995",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°01-2015 du 16 juillet 2015 modifiant et complétant l’instruction n°28-95 du 22 avril 1995 portant organisation du marché monétair"
+      }
+    },
+    {
+      "work_id": "INS-28-95",
+      "reference": "instruction n°28-95 du 22 avril 1995",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l'instruction n°28-95 du 22 avril 1995 relative à l’organisation du marché mon"
+      }
+    }
+  ],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°01-2015 DU 16 JUILLET 2015 MODIFIANT\nET COMPLETANT L’INSTRUCTION N°28-95 DU 22 AVRIL 1995\nPORTANT ORGANISATION DU MARCHE MONETAIRE",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°01-2015 DU 16 JUILLET 2015 MODIFIANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET COMPLETANT L’INSTRUCTION N°28-95 DU 22 AVRIL 1995",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "PORTANT ORGANISATION DU MARCHE MONETAIRE",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction a pour objet de modifier et de compléter l'instruction n°28-95 du 22 avril 1995 relative à l’organisation du marché monétaire.",
+      "paragraphs": [
+        {
+          "text": "La présente instruction a pour objet de modifier et de compléter l'instruction n°28-95 du 22 avril 1995 relative à l’organisation du marché monétaire.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 3,
+      "text": "L’article 5 de l'instruction n°28-95 du 22 avril 1995 relative à l’organisation du marché monétaire est modifié et rédigé comme suit :\n« Article 5 : Adjudication de bons du Trésor en compte courant\n1- Dispositions générales\nLe Trésor intervient sur le marché monétaire par l’émission de bons du Trésor dont les différents types sont définis par l’arrêté n° 08 du 21 janvier 1998 du Ministère des\nFinances portant encadrement et fonctionnement du marché des valeurs du Trésor en compte courant, modifié et complété.\nLes adjudications de bons du Trésor s’effectuent par l’utilisation de l’application informatique dite plate-forme Smart Trésor-X composée de deux modules, un module pour le marché primaire et un module pour le marché secondaire.\nLa plateforme Smart Trésor-X, dont l’accès est sécurisé par des mécanismes d’identification et d’authentification, permet l’organisation et la gestion à distance des séances d’adjudication des bons du Trésor.\n2- Intervenants\nL’accès à la plate-forme Smart Trésor-X est autorisé aux seuls intervenants sur le marché des valeurs du Trésor, à savoir :\n- la Direction Générale du Trésor (DGT, représentée par la Direction de la Dette\nPublique) et la Banque d’Algérie (BA, représentée par la Direction des Marchés\nMonétaire et Financier) en leur qualité d’administrateur et de gestionnaire de la plate-forme ;\n- les spécialistes en valeurs du Trésor en leur qualité de participants et utilisateurs de la plate-forme ;\n- les intervenants post-adjudication : Direction de la Comptabilité, du Budget et du\nContrôle de la Banque d’Algérie, Algérie Clearing et la Bourse d’Alger.\nTous les intervenants sur le marché des valeurs du Trésor ont un accès direct et sécurisé à la plate-forme Smart Trésor-X.\nLes souscriptions aux adjudications des bons du Trésor sont ouvertes à l’ensemble des intervenants au marché monétaire ayant la qualité de spécialiste en valeurs du Trésor (SVT).\nBANK OF ALGERIA\nLes soumissionnaires (SVT) peuvent souscrire, via la plate-forme Smart Trésor – X, aux opérations d’adjudication des valeurs du Trésor pour leur compte ou celui de leur clientèle. Ces opérations sont gérées au moyen de comptes spécifiques ouverts à cet effet par les soumissionnaires à leur clientèle.\n- Nature de l’adjudication\nAu début de chaque exercice, le Trésor élabore et annonce un programme annuel d’émission des catégories de bons du Trésor. Ce programme est communiqué aux services de la Banque d’Algérie et aux Spécialistes en valeur du Trésor.\nPour chaque opération d’adjudication, le Trésor insère, cinq (05) jours avant la séance d’adjudication, via la plate-forme Smart Trésor-X, les caractéristiques des bons à émettre, à savoir :\n- le code ISIN des titres à émettre ;\n- la catégorie des titres à émettre ;\n- la date d’échéance des titres ;\n- le coupon des titres d’un (1) an et plus ;\n- le montant indicatif de l’émission pour chaque titre.\nDeux (2) jours avant la séance d’adjudication, une lettre de confirmation de l’opération d’adjudication, générée par la plate-forme, est visible sur le site web dédié à celle-ci, dans la partie privée réservée aux seuls administrateurs et gestionnaire de cette plateforme (DGT, BA). La lettre de confirmation, validée et signée par la Banque d’Algérie, est diffusée par voie électronique aux SVT.\n- Introduction des offres d’achats de bons du Trésor\n4.1 - Le jour de l’adjudication, les soumissions sont introduites dans la plate-forme par les SVT à des horaires fixées par instruction du Directeur Général du Trésor. Toute soumission introduite après ces délais est rejetée par l’application dite Smart Trésor – X.\nLes soumissions sont enregistrées à l’heure de leur introduction. Elles peuvent être modifiées ou retirées avant l’heure d’ouverture de l’adjudication. En cas de modification d’une soumission, celle-ci est enregistrée à l’heure de sa modification.\nEn cas de problème technique, le SVT qui ne peut pas introduire ses soumissions peut demander à la DGT, en sa qualité d’administrateur, de le faire en son nom par le biais de la station pool dédiée à cet effet.\nDans le cas où la tenue de l’adjudication au moyen de la plate-forme Smart Trésor -X ne peut être assurée pour des raisons techniques, la Direction Générale du Trésor peut décider, après accord de la Banque d’Algérie, de recourir à l’utilisation de l’ancienne procédure.\n4.2 - Les offres de souscription compétitives sur les bons du Trésor à court terme (BTC)\nintroduites sur la plate-forme doivent indiquer le montant ainsi que le taux d’intérêt proposé, exprimé en pourcentage comportant trois décimales.\nLes offres de souscription compétitives sur les bons à moyen et long termes (BTA et\nOAT) doivent indiquer le montant ainsi que le prix pied de coupon exprimé en pourcentage comportant trois décimales.\nLes SVT peuvent introduire sur la plate-forme plusieurs offres avec des montants et des taux ou prix différents.\nLes soumissionnaires ne peuvent présenter plus de trois (03) offres pour la même séance d’adjudication et la même catégorie de titres.\n- Déroulement de l’adjudication\n5.1 - Le traitement des soumissions s’effectue automatiquement par la plate-forme\nSmart Trésor –X qui réalise le classement des taux ou prix pour chacun des titres à l’adjudication, par ordre croissant pour les taux pour les BTC et par ordre décroissant pour les prix pour les BTA et OAT.\nLe Trésor peut accepter toutes les offres de souscriptions effectuées au taux ou aux prix limites retenus.\n5.2 - La validation de l’adjudication s’effectue via la plate-forme Smart Trésor –X par la\nDirection Générale du Trésor et la Banque d’Algérie et communiquée aux intervenants via le téléscripteur de l’administrateur. L’adjudication est alors définitive et en attente des signatures des comptes rendus.\nLe compte rendu de l’adjudication, généré par la plate-forme et visible dans la partie privée du site web qui lui est dédié, est co-signé électroniquement par les représentants de la Direction Générale du Trésor et de la Banque d’Algérie.\n5.3 - A l’issue de la séance d’adjudication compétitive, le Trésor peut décider de la tenue d’une séance non compétitive via la plate-forme.\nLes offres non compétitives sont servies au taux ou aux prix moyens pondérés de la séance compétitive.\nLes soumissions ne peuvent être introduites que par les SVT ayant totalisé 30 % des volumes adjugés dans les trois (03) dernières adjudications, la séance courante comprise. Le montant maximum d’une soumission non compétitive est fixé par la plateforme pour chaque adjudication.\n- Règlement des opérations d’adjudication\nLes soumissionnaires déclarés adjudicataires sont tenus de procéder au règlement des montants adjugés dans les délais arrêtés par le Trésor. Dans le délai séparant la clôture de l'adjudication du règlement de l'opération, les adjudicataires ne peuvent céder les bons du Trésor acquis.\nLe règlement des opérations d’adjudication de bons du Trésor s’effectue exclusivement en dinars, par le mouvement des comptes de règlement ouverts dans le système de règlements bruts en temps réel de gros montants et paiements urgents (ARTS) et repris dans les livres de la Banque d’Algérie.»",
+      "paragraphs": [
+        {
+          "text": "L’article 5 de l'instruction n°28-95 du 22 avril 1995 relative à l’organisation du marché monétaire est modifié et rédigé comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "« Article 5 : Adjudication de bons du Trésor en compte courant",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "1- Dispositions générales",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Trésor intervient sur le marché monétaire par l’émission de bons du Trésor dont les différents types sont définis par l’arrêté n° 08 du 21 janvier 1998 du Ministère des",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Finances portant encadrement et fonctionnement du marché des valeurs du Trésor en compte courant, modifié et complété.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les adjudications de bons du Trésor s’effectuent par l’utilisation de l’application informatique dite plate-forme Smart Trésor-X composée de deux modules, un module pour le marché primaire et un module pour le marché secondaire.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La plateforme Smart Trésor-X, dont l’accès est sécurisé par des mécanismes d’identification et d’authentification, permet l’organisation et la gestion à distance des séances d’adjudication des bons du Trésor.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "2- Intervenants",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L’accès à la plate-forme Smart Trésor-X est autorisé aux seuls intervenants sur le marché des valeurs du Trésor, à savoir :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- la Direction Générale du Trésor (DGT, représentée par la Direction de la Dette",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Publique) et la Banque d’Algérie (BA, représentée par la Direction des Marchés",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Monétaire et Financier) en leur qualité d’administrateur et de gestionnaire de la plate-forme ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- les spécialistes en valeurs du Trésor en leur qualité de participants et utilisateurs de la plate-forme ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- les intervenants post-adjudication : Direction de la Comptabilité, du Budget et du",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Contrôle de la Banque d’Algérie, Algérie Clearing et la Bourse d’Alger.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Tous les intervenants sur le marché des valeurs du Trésor ont un accès direct et sécurisé à la plate-forme Smart Trésor-X.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les souscriptions aux adjudications des bons du Trésor sont ouvertes à l’ensemble des intervenants au marché monétaire ayant la qualité de spécialiste en valeurs du Trésor (SVT).",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les soumissionnaires (SVT) peuvent souscrire, via la plate-forme Smart Trésor – X, aux opérations d’adjudication des valeurs du Trésor pour leur compte ou celui de leur clientèle. Ces opérations sont gérées au moyen de comptes spécifiques ouverts à cet effet par les soumissionnaires à leur clientèle.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Nature de l’adjudication",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Au début de chaque exercice, le Trésor élabore et annonce un programme annuel d’émission des catégories de bons du Trésor. Ce programme est communiqué aux services de la Banque d’Algérie et aux Spécialistes en valeur du Trésor.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Pour chaque opération d’adjudication, le Trésor insère, cinq (05) jours avant la séance d’adjudication, via la plate-forme Smart Trésor-X, les caractéristiques des bons à émettre, à savoir :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- le code ISIN des titres à émettre ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- la catégorie des titres à émettre ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- la date d’échéance des titres ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- le coupon des titres d’un (1) an et plus ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- le montant indicatif de l’émission pour chaque titre.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Deux (2) jours avant la séance d’adjudication, une lettre de confirmation de l’opération d’adjudication, générée par la plate-forme, est visible sur le site web dédié à celle-ci, dans la partie privée réservée aux seuls administrateurs et gestionnaire de cette plateforme (DGT, BA). La lettre de confirmation, validée et signée par la Banque d’Algérie, est diffusée par voie électronique aux SVT.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Introduction des offres d’achats de bons du Trésor",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "4.1 - Le jour de l’adjudication, les soumissions sont introduites dans la plate-forme par les SVT à des horaires fixées par instruction du Directeur Général du Trésor. Toute soumission introduite après ces délais est rejetée par l’application dite Smart Trésor – X.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Les soumissions sont enregistrées à l’heure de leur introduction. Elles peuvent être modifiées ou retirées avant l’heure d’ouverture de l’adjudication. En cas de modification d’une soumission, celle-ci est enregistrée à l’heure de sa modification.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "En cas de problème technique, le SVT qui ne peut pas introduire ses soumissions peut demander à la DGT, en sa qualité d’administrateur, de le faire en son nom par le biais de la station pool dédiée à cet effet.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Dans le cas où la tenue de l’adjudication au moyen de la plate-forme Smart Trésor -X ne peut être assurée pour des raisons techniques, la Direction Générale du Trésor peut décider, après accord de la Banque d’Algérie, de recourir à l’utilisation de l’ancienne procédure.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "4.2 - Les offres de souscription compétitives sur les bons du Trésor à court terme (BTC)",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "introduites sur la plate-forme doivent indiquer le montant ainsi que le taux d’intérêt proposé, exprimé en pourcentage comportant trois décimales.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Les offres de souscription compétitives sur les bons à moyen et long termes (BTA et",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "OAT) doivent indiquer le montant ainsi que le prix pied de coupon exprimé en pourcentage comportant trois décimales.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Les SVT peuvent introduire sur la plate-forme plusieurs offres avec des montants et des taux ou prix différents.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Les soumissionnaires ne peuvent présenter plus de trois (03) offres pour la même séance d’adjudication et la même catégorie de titres.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- Déroulement de l’adjudication",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "5.1 - Le traitement des soumissions s’effectue automatiquement par la plate-forme",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Smart Trésor –X qui réalise le classement des taux ou prix pour chacun des titres à l’adjudication, par ordre croissant pour les taux pour les BTC et par ordre décroissant pour les prix pour les BTA et OAT.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Le Trésor peut accepter toutes les offres de souscriptions effectuées au taux ou aux prix limites retenus.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "5.2 - La validation de l’adjudication s’effectue via la plate-forme Smart Trésor –X par la",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Direction Générale du Trésor et la Banque d’Algérie et communiquée aux intervenants via le téléscripteur de l’administrateur. L’adjudication est alors définitive et en attente des signatures des comptes rendus.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Le compte rendu de l’adjudication, généré par la plate-forme et visible dans la partie privée du site web qui lui est dédié, est co-signé électroniquement par les représentants de la Direction Générale du Trésor et de la Banque d’Algérie.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "5.3 - A l’issue de la séance d’adjudication compétitive, le Trésor peut décider de la tenue d’une séance non compétitive via la plate-forme.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Les offres non compétitives sont servies au taux ou aux prix moyens pondérés de la séance compétitive.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Les soumissions ne peuvent être introduites que par les SVT ayant totalisé 30 % des volumes adjugés dans les trois (03) dernières adjudications, la séance courante comprise. Le montant maximum d’une soumission non compétitive est fixé par la plateforme pour chaque adjudication.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- Règlement des opérations d’adjudication",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Les soumissionnaires déclarés adjudicataires sont tenus de procéder au règlement des montants adjugés dans les délais arrêtés par le Trésor. Dans le délai séparant la clôture de l'adjudication du règlement de l'opération, les adjudicataires ne peuvent céder les bons du Trésor acquis.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Le règlement des opérations d’adjudication de bons du Trésor s’effectue exclusivement en dinars, par le mouvement des comptes de règlement ouverts dans le système de règlements bruts en temps réel de gros montants et paiements urgents (ARTS) et repris dans les livres de la Banque d’Algérie.»",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "La présente instruction prend effet à compter de la date de sa signature.\nLe Gouverneur\nMohammed LAKSACI",
+      "paragraphs": [
+        {
+          "text": "La présente instruction prend effet à compter de la date de sa signature.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.04
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-01-15.fr.txt"
+}

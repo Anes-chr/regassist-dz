@@ -1,0 +1,849 @@
+{
+  "document_id": "REG-20-09.ar",
+  "work_id": "REG-20-09",
+  "title": "نظام رقم 20-09 المؤرخ في 13 جمادى الأولى عام 1442 الموافق 28 ديسمبر 2020، يعدل ويتمم النظام رقم 09-02 المؤرخ في 26 ماي 2009، المتعلق بعمليات السياسة النقدية وأدواتها وإجراءاتها، المعدل والمتمم.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "20-09",
+  "number_source": "libelle",
+  "date": "2020-12-28",
+  "date_raw": "الموافق 28 ديسمبر 2020",
+  "date_source": "libelle",
+  "publication_date": "2023-02-28",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "règlements",
+  "subcategory": "أدوات السياسة النقدية",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a3%d8%af%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d9%86%d9%82%d8%af%d9%8a%d8%a9-2/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/02/09-2020.pdf",
+  "format": "pdf",
+  "file_hash": "dfc1ed43684bd9e5a2c117c30e791c36076625ab9887780446697043a96ad40d",
+  "file_size": 75220,
+  "raw_path": "raw/dfc1ed43684b__09-2020.pdf",
+  "retrieved_at": "2026-10-05T13:28:57+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "052061bc690e00c89a59beab68a96f8d66eb610147a4c38c686f742b8c932eed",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%D9%86%D8%B8%D8%B1%D8%A9-%D8%B9%D8%A7%D9%85%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D9%86%D9%82%D8%AF%D9%8A%D8%A9/",
+    "https://www.bank-of-algeria.dz/ar/%d8%a3%d8%af%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d9%86%d9%82%d8%af%d9%8a%d8%a9-2/",
+    "https://www.bank-of-algeria.dz/ar/%d9%86%d8%b8%d8%b1%d8%a9-%d8%b9%d8%a7%d9%85%d8%a9-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d9%86%d9%82%d8%af%d9%8a%d8%a9/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - reglements2020arabe",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20230226123632+01'00'",
+    "modDate": "D:20230226123632+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2747,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": [
+      {
+        "page": 1,
+        "removed": "09",
+        "why": "numéro de page"
+      }
+    ]
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 4,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "numerotation:articles_manquants:[4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]",
+    "numerotation:ordre_non_croissant"
+  ],
+  "title_document": "نظام رقم20 - ال مؤرخ في 13 جمادى الأولى عا م 1442",
+  "alias_urls": [],
+  "text_hash": "827102c5f87eb540e457f682f667d3640196712a30cf52c657148682ae3c5253",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "2009-02",
+        "date": "2009-05-26",
+        "raw": "règlement n°2009-02 du 26 mai 2009"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2020-09 du 28 décembre 2020 modifiant et complétant le règlement n°2009-02 du 26 mai 2009, modifié et complété, relatif aux opéra",
+        "copied_from": "REG-20-09.fr"
+      },
+      "target_work_id": "REG-09-02"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "2009-02",
+        "date": "2009-05-26",
+        "raw": "règlement n°2009-02 du 26 mai 2009"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2020-09 du 28 décembre 2020 modifiant et complétant le règlement n°2009-02 du 26 mai 2009, modifié et complété, relatif aux opéra",
+        "copied_from": "REG-20-09.fr"
+      },
+      "target_work_id": "REG-09-02"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "09-02",
+        "date": null,
+        "raw": "Règlement n°09-02"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le Règlement n°09-02 du aouel joumada ethania 1430 correspon",
+        "copied_from": "REG-20-09.fr"
+      },
+      "target_work_id": "REG-09-02"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "09-02",
+        "date": null,
+        "raw": "Règlement n°09-02"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le Règlement n°09-02 du aouel joumada ethania 1430 correspon",
+        "copied_from": "REG-20-09.fr"
+      },
+      "target_work_id": "REG-09-02"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "REG-09-02",
+      "reference": "règlement n°2009-02 du 26 mai 2009",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2020-09 du 28 décembre 2020 modifiant et complétant le règlement n°2009-02 du 26 mai 2009, modifié et complété, relatif aux opéra",
+        "copied_from": "REG-20-09.fr"
+      }
+    },
+    {
+      "work_id": "REG-09-02",
+      "reference": "Règlement n°09-02",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le Règlement n°09-02 du aouel joumada ethania 1430 correspon",
+        "copied_from": "REG-20-09.fr"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "REG-09-02",
+      "reference": "règlement n°2009-02 du 26 mai 2009",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2020-09 du 28 décembre 2020 modifiant et complétant le règlement n°2009-02 du 26 mai 2009, modifié et complété, relatif aux opéra",
+        "copied_from": "REG-20-09.fr"
+      }
+    },
+    {
+      "work_id": "REG-09-02",
+      "reference": "Règlement n°09-02",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le Règlement n°09-02 du aouel joumada ethania 1430 correspon",
+        "copied_from": "REG-20-09.fr"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-20-09.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "REG-09-02",
+      "reference": "règlement n°2009-02 du 26 mai 2009",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2020-09 du 28 décembre 2020 modifiant et complétant le règlement n°2009-02 du 26 mai 2009, modifié et complété, relatif aux opéra",
+        "copied_from": "REG-20-09.fr"
+      }
+    },
+    {
+      "work_id": "REG-09-02",
+      "reference": "Règlement n°09-02",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le Règlement n°09-02 du aouel joumada ethania 1430 correspon",
+        "copied_from": "REG-20-09.fr"
+      }
+    }
+  ],
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 20",
+      "number": "20",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "نظام رقم20 - ال مؤرخ في 13 جمادى الأولى عا م 1442\nالموافق28\nديسمبر2020 ،\nيعدّل ويتمّم النظام رقم09 - 02\nالمؤرخ في26\nماي سنة2009\nالمتعلّق بعمليات السياسة النقدية وأدواتها وإجراءاتها، المعدل والمتمم\nإنّ محافظ بنك الجزائر؛\n-\nبمقتضى الأمر رقم75 - 59\nالمؤرّخ في20\nرمضان عام1395\nالموافق26\nسبتمبر سنة1975\nوالمتضمن القانون التجاري، المعدّل والمتمم،\n-\nبمقتضى الأمر رقم03 - 11\nالمؤرّخ في27\nجمادى الثانية عام1424\nالموافق26\nغشت سنة2003\nوالمتعلق بالنقد والقرض، المعدّل والمتمم، لا سيّما المواد 41\nإلى45 و62 \"، الفقرتان \"ب و\"ج\" منه،\n-\nوبمقتضى المرسوم الرئاسي المؤرّخ في5 صفر عام1437\nالموافق17\nنوفمبر سنة2015\nوالمتضمّن تعيين أعضاء في مجلس إدارة بنك الجزائر،\n-\nوبمقتضى المرسوم الرئاسي المؤرّخ في27\nمحرم عام1442\nالموافق15\nسبتمبر سنة2020\nوالمتضمّن تعيين محافظ بنك الجزائر،\n-\nوبمقتضى المرسوم الرئاسي المؤرّخ في17\nصفر عام1438\nالموافق17\nنوفمبر سنة2016\nوالمتضمن تعيين نائبين لمحافظ بنك الجزائر،\n-\nوبمقتضى المرسوم الرئاسي المؤرّخ في18\nربيع الثاني عام1441\nالموافق15\nديسمبر سنة2019\nوالمتضمّن تعيين نائبين لمحافظ بنك الجزائر،\n-\nبمقتضى النظام رقم05 - 04\nالمؤرّخ في10\nرمضان عام1426\nالموافق13\nأكتوبر سنة2005\nوالمتعلق بنظام التسوية الإجمالية الفورية للمبالغ الكبيرة والدفع المستعجل،\n-\nبمقتضى النظام رقم05 - 07\nّالمؤر خ في 26\nذي القعدة عام1426\nالموافق28\nديسمبر سنة2005\nوالمتضمن أمن أنظمة الدفع،\n-\nوبمقتضى النظام رقم09 - 02\nالمؤرخ في أول جمادى الثانية عام1430\nالموافق26\nمايو سنة2009\nالمتعلّق بعمليات السياسة النقدية وأدواتها وإجراءاتها، المعدل والمتمم،\n-\nوبمقتضى النظام رقم15 - 01\nالمؤرخ في30\nربيع الثاني عام1436\nالموافق19\nفيفري سنة2015\nوالمتعلّق بعمليات خصم السندات العمومية، إعادة خصم السندات الخاصة، التسبيقات والقروض للبنوك والمؤسسات المالية، المعدل والمتمّم،\n-\nوبناء على مداولات مجلس النقد والقرض بتاريخ28\nديسمبر سنة2020 ،\n:يصدر النظام الآتي نصه",
+      "paragraphs": [
+        {
+          "text": "نظام رقم20 - ال مؤرخ في 13 جمادى الأولى عا م 1442",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق28",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ديسمبر2020 ،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "يعدّل ويتمّم النظام رقم09 - 02",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرخ في26",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ماي سنة2009",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المتعلّق بعمليات السياسة النقدية وأدواتها وإجراءاتها، المعدل والمتمم",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "إنّ محافظ بنك الجزائر؛",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "بمقتضى الأمر رقم75 - 59",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرّخ في20",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "رمضان عام1395",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق26",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "سبتمبر سنة1975",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتضمن القانون التجاري، المعدّل والمتمم،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "بمقتضى الأمر رقم03 - 11",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرّخ في27",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "جمادى الثانية عام1424",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق26",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "غشت سنة2003",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتعلق بالنقد والقرض، المعدّل والمتمم، لا سيّما المواد 41",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "إلى45 و62 \"، الفقرتان \"ب و\"ج\" منه،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى المرسوم الرئاسي المؤرّخ في5 صفر عام1437",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق17",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "نوفمبر سنة2015",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتضمّن تعيين أعضاء في مجلس إدارة بنك الجزائر،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى المرسوم الرئاسي المؤرّخ في27",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "محرم عام1442",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق15",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "سبتمبر سنة2020",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتضمّن تعيين محافظ بنك الجزائر،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى المرسوم الرئاسي المؤرّخ في17",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "صفر عام1438",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق17",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "نوفمبر سنة2016",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتضمن تعيين نائبين لمحافظ بنك الجزائر،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى المرسوم الرئاسي المؤرّخ في18",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ربيع الثاني عام1441",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق15",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ديسمبر سنة2019",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتضمّن تعيين نائبين لمحافظ بنك الجزائر،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "بمقتضى النظام رقم05 - 04",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرّخ في10",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "رمضان عام1426",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق13",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "أكتوبر سنة2005",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتعلق بنظام التسوية الإجمالية الفورية للمبالغ الكبيرة والدفع المستعجل،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "بمقتضى النظام رقم05 - 07",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ّالمؤر خ في 26",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ذي القعدة عام1426",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق28",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ديسمبر سنة2005",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتضمن أمن أنظمة الدفع،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى النظام رقم09 - 02",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرخ في أول جمادى الثانية عام1430",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق26",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "مايو سنة2009",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المتعلّق بعمليات السياسة النقدية وأدواتها وإجراءاتها، المعدل والمتمم،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى النظام رقم15 - 01",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرخ في30",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ربيع الثاني عام1436",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق19",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "فيفري سنة2015",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتعلّق بعمليات خصم السندات العمومية، إعادة خصم السندات الخاصة، التسبيقات والقروض للبنوك والمؤسسات المالية، المعدل والمتمّم،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبناء على مداولات مجلس النقد والقرض بتاريخ28",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ديسمبر سنة2020 ،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": ":يصدر النظام الآتي نصه",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يهدف هذا النظام إلى تعديل وتتميم النظام رقم 09 - 02\nالمؤرخ في أول جمادى الثانية عام1430\nالموافق 26\nماي سنة2009 .، المتعلّق بعمليات السياسة النقدية وأدواتها وإجراءاتها، المعدل والمتمم",
+      "paragraphs": [
+        {
+          "text": "يهدف هذا النظام إلى تعديل وتتميم النظام رقم 09 - 02",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرخ في أول جمادى الثانية عام1430",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق 26",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ماي سنة2009 .، المتعلّق بعمليات السياسة النقدية وأدواتها وإجراءاتها، المعدل والمتمم",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": ":\nيُتم َّم النظام رقم09 - 02\nالمؤرخ في أول جمادى الثانية عام1430\nالموافق26\nماي سنة2009 ، المتعلّق بعمليات السياسة النقدية وأدواتها وإجراءاتها، المعدل والمتمم، بالمادة20\n:مُكر َّر وتحرّر كما يأتي\n»",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "يُتم َّم النظام رقم09 - 02",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرخ في أول جمادى الثانية عام1430",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق26",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ماي سنة2009 ، المتعلّق بعمليات السياسة النقدية وأدواتها وإجراءاتها، المعدل والمتمم، بالمادة20",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": ":مُكر َّر وتحرّر كما يأتي",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "»",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 20",
+      "number": "20",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": ":مُكر َّر\nالمعدل المطبق على عمليات إعادة التمويل الرئيسية هو المعدل التوجيهي لبنك الجزائر.\nيتم تحديد ونشر معدل الفائدة المطبق على عمليات إعادة التمويل الرئيسية، بصفة دورية، بتعليمة من بنك الجزائر .«",
+      "paragraphs": [
+        {
+          "text": ":مُكر َّر",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المعدل المطبق على عمليات إعادة التمويل الرئيسية هو المعدل التوجيهي لبنك الجزائر.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "يتم تحديد ونشر معدل الفائدة المطبق على عمليات إعادة التمويل الرئيسية، بصفة دورية، بتعليمة من بنك الجزائر .«",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": ":\n.ينشر هذا النظام في الجريدة الرسمية للجمهورية الجزائرية الديمقراطية الشعبية\nالمحافظ\nرستم فضلي\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": ".ينشر هذا النظام في الجريدة الرسمية للجمهورية الجزائرية الديمقراطية الشعبية",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المحافظ",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "رستم فضلي",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "numerotation:articles_manquants:[4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]",
+      "numerotation:ordre_non_croissant"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.048
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/REG-20-09.ar.txt"
+}

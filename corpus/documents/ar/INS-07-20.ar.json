@@ -1,0 +1,370 @@
+{
+  "document_id": "INS-07-20.ar",
+  "work_id": "INS-07-20",
+  "title": "تعليمة رقم 07-2020 المؤرخة في 29 افريل 2020، والمتعلقة بمعدل الفائدة التوجيهي المطبق على عمليات إعادة التمويل الرئيسية.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "07-2020",
+  "number_source": "libelle",
+  "date": "2020-04-29",
+  "date_raw": "المؤرخة في 29 افريل 2020",
+  "date_source": "libelle",
+  "publication_date": "2023-03-02",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "instructions",
+  "subcategory": "أدوات السياسة النقدية",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a3%d8%af%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d9%86%d9%82%d8%af%d9%8a%d8%a9/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/03/07-20.pdf",
+  "format": "pdf",
+  "file_hash": "bd2fc0c01e4586bd2912078aa395c721f2c9bdac9c9b930619558763e704d72f",
+  "file_size": 205168,
+  "raw_path": "raw/bd2fc0c01e45__07-20.pdf",
+  "retrieved_at": "2026-10-05T13:29:48+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 1,
+  "url_hash": "a32f6c9dff30b645ac67513816adecbe661545ac91eaaf7350ceb3fdd8d1b423",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%a3%d8%af%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d9%86%d9%82%d8%af%d9%8a%d8%a9/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "author": "lynda benhaha",
+    "creator": "Microsoft® Word 2016",
+    "producer": "Microsoft® Word 2016",
+    "creationDate": "D:20230301103527+01'00'",
+    "modDate": "D:20230301103527+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 432,
+        "ocr_confidence": 86.59154929577464
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 3,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine"
+  ],
+  "title_document": null,
+  "alias_urls": [],
+  "text_hash": "023073953b6856b409ac86d2b0d065a617dfc04025a58ac353abc1ca2e3c9aa7",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [
+    {
+      "work_id": "INS-02-26",
+      "document_id": "INS-02-26.fr",
+      "date": "2026-01-07",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n° 02-2026 du 7 janvier 2026 modifiant et complétant l’instruction n° 07-2020 du 29 avril 2020 relative au taux d’intérêt directeur ap"
+      }
+    },
+    {
+      "work_id": "INS-02-26",
+      "document_id": "INS-02-26.fr",
+      "date": "2026-01-07",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier l’instruction n°07-2020 du 29 avril 2020 relative au taux d’intérêt directeur ap"
+      }
+    },
+    {
+      "work_id": "INS-08-25",
+      "document_id": "INS-08-25.fr",
+      "date": "2025-08-31",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°08-2025 du 31 août 2025 modifiant et complétant l’instruction n°07-2020 du 29 avril 2020 relative au taux d’intérêt directeur ap"
+      }
+    },
+    {
+      "work_id": "INS-08-25",
+      "document_id": "INS-08-25.fr",
+      "date": "2025-08-31",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier l’instruction n°07-2020 du 29 avril 2020 relative au taux d’intérêt directeur ap"
+      }
+    }
+  ],
+  "complete_par": [
+    {
+      "work_id": "INS-02-26",
+      "document_id": "INS-02-26.fr",
+      "date": "2026-01-07",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n° 02-2026 du 7 janvier 2026 modifiant et complétant l’instruction n° 07-2020 du 29 avril 2020 relative au taux d’intérêt directeur ap"
+      }
+    },
+    {
+      "work_id": "INS-08-25",
+      "document_id": "INS-08-25.fr",
+      "date": "2025-08-31",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°08-2025 du 31 août 2025 modifiant et complétant l’instruction n°07-2020 du 29 avril 2020 relative au taux d’intérêt directeur ap"
+      }
+    }
+  ],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée. Ce texte a été modifié/complété : consulter aussi les textes listés dans modifié_par / complété_par.",
+  "same_work_documents": [
+    "INS-07-20.fr",
+    "INS-07-20.fr~2"
+  ],
+  "complété_par": [
+    {
+      "work_id": "INS-02-26",
+      "document_id": "INS-02-26.fr",
+      "date": "2026-01-07",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n° 02-2026 du 7 janvier 2026 modifiant et complétant l’instruction n° 07-2020 du 29 avril 2020 relative au taux d’intérêt directeur ap"
+      }
+    },
+    {
+      "work_id": "INS-08-25",
+      "document_id": "INS-08-25.fr",
+      "date": "2025-08-31",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°08-2025 du 31 août 2025 modifiant et complétant l’instruction n°07-2020 du 29 avril 2020 relative au taux d’intérêt directeur ap"
+      }
+    }
+  ],
+  "modifié_par": [
+    {
+      "work_id": "INS-02-26",
+      "document_id": "INS-02-26.fr",
+      "date": "2026-01-07",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n° 02-2026 du 7 janvier 2026 modifiant et complétant l’instruction n° 07-2020 du 29 avril 2020 relative au taux d’intérêt directeur ap"
+      }
+    },
+    {
+      "work_id": "INS-02-26",
+      "document_id": "INS-02-26.fr",
+      "date": "2026-01-07",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier l’instruction n°07-2020 du 29 avril 2020 relative au taux d’intérêt directeur ap"
+      }
+    },
+    {
+      "work_id": "INS-08-25",
+      "document_id": "INS-08-25.fr",
+      "date": "2025-08-31",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°08-2025 du 31 août 2025 modifiant et complétant l’instruction n°07-2020 du 29 avril 2020 relative au taux d’intérêt directeur ap"
+      }
+    },
+    {
+      "work_id": "INS-08-25",
+      "document_id": "INS-08-25.fr",
+      "date": "2025-08-31",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier l’instruction n°07-2020 du 29 avril 2020 relative au taux d’intérêt directeur ap"
+      }
+    }
+  ],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "ocr_numeric_check": {
+    "units": 4,
+    "units_flagged": 0,
+    "units_compared_with_french": 1,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 02",
+      "number": "02",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 03",
+      "number": "03",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "التعليمة رقم 20-07 المؤرخة في 29 أفريل 2020 والمتعلقة بمعدل الفائدة التوجيهي المطبق على عمليات إعادة التمويل الرئيسية",
+      "paragraphs": [
+        {
+          "text": "التعليمة رقم 20-07 المؤرخة في 29 أفريل 2020 والمتعلقة بمعدل الفائدة التوجيهي المطبق على عمليات إعادة التمويل الرئيسية",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تهدف هذه التعليمة إلى تعديل معدل الفائدة التوجيهي المطبق على عمليات إعادة التمويل",
+      "paragraphs": [
+        {
+          "text": "تهدف هذه التعليمة إلى تعديل معدل الفائدة التوجيهي المطبق على عمليات إعادة التمويل",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 02",
+      "number": "02",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يُحذد معدل الفائدة التوجيهي المطبق على عمليات إعادة التمويل الرئيسية عند 3/ بدلاً من 13.25",
+      "paragraphs": [
+        {
+          "text": "يُحذد معدل الفائدة التوجيهي المطبق على عمليات إعادة التمويل الرئيسية عند 3/ بدلاً من 13.25",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 03",
+      "number": "03",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تدخل هذه التعليمة حيز التطبيق ابتداءا من تاريخ الامضاء عليها.\nحار سس داري ام المحافظ أيمن بن عبد الرحمان",
+      "paragraphs": [
+        {
+          "text": "تدخل هذه التعليمة حيز التطبيق ابتداءا من تاريخ الامضاء عليها.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "حار سس داري ام المحافظ أيمن بن عبد الرحمان",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.025,
+      "ocr_pages": [
+        1
+      ],
+      "ocr_mean_confidence": 86.6
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/INS-07-20.ar.txt"
+}

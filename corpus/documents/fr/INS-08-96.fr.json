@@ -1,0 +1,1030 @@
+{
+  "document_id": "INS-08-96.fr",
+  "work_id": "INS-08-96",
+  "title": "Instruction n°08-96 du 18 décembre 1996 fixant les conditions de création et d’agrément des bureaux de change.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "08-96",
+  "number_source": "en-tête du document",
+  "date": "1996-12-18",
+  "date_raw": "N°08-96 DU 18 DECEMBRE 1996",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction0896.pdf",
+      "uploaded": "2023-01-24T14:50:46"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Année 1996",
+  "source_url": "https://www.bank-of-algeria.dz/annee-1996/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction0896.pdf",
+  "format": "pdf",
+  "file_hash": "27f13e46893c46508baebcb7c4943a01eef55b6f7e293a69774ea1aac7f9b467",
+  "file_size": 43553,
+  "raw_path": "raw/27f13e46893c__instruction0896.pdf",
+  "retrieved_at": "2026-10-05T14:17:11+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 3,
+  "url_hash": "39e974e98fd5ba294ea323efec5a5a47d672ef44944c178a43a46e5536ad4fd3",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-1996/",
+    "https://www.bank-of-algeria.dz/importations-exportations-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document2",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200813120902+01'00'",
+    "modDate": "D:20200813120902+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 3,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2793,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 2977,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 935,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 23,
+    "annex_count": 1
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°08-96 DU 18 DECEMBRE 1996 FIXANT LES CONDITIONS DE CREATION ET D'AGREMENT DES BUREAUX DE CHANGE",
+  "alias_urls": [
+    {
+      "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction0896.pdf",
+      "source_url": "https://www.bank-of-algeria.dz/importations-exportations-instruction/",
+      "title": "Instruction n°08-96 du 18 décembre 1996 fixant les conditions de création et d’agrément des bureaux de change."
+    }
+  ],
+  "text_hash": "1d4abdda46ddd294a5ad046f90e2f778f8832b43af307a570d43e4eebec8244d",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [
+    {
+      "work_id": "INS-13-97",
+      "document_id": "INS-13-97.fr",
+      "date": "1997-12-10",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°13-97 du 10 décembre 1997 modifiant et complétant l’instruction n°08-96 du 18 décembre 1996 fixant les conditions de création et d’"
+      }
+    },
+    {
+      "work_id": "INS-13-97",
+      "document_id": "INS-13-97.fr",
+      "date": "1997-12-10",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente Instruction a pour objet de modifier et de compléter l'instruction n°08-96 du 18 décembre 1996 fixant les conditions de création et d'"
+      }
+    }
+  ],
+  "complete_par": [
+    {
+      "work_id": "INS-13-97",
+      "document_id": "INS-13-97.fr",
+      "date": "1997-12-10",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°13-97 du 10 décembre 1997 modifiant et complétant l’instruction n°08-96 du 18 décembre 1996 fixant les conditions de création et d’"
+      }
+    },
+    {
+      "work_id": "INS-13-97",
+      "document_id": "INS-13-97.fr",
+      "date": "1997-12-10",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente Instruction a pour objet de modifier et de compléter l'instruction n°08-96 du 18 décembre 1996 fixant les conditions de création et d'"
+      }
+    }
+  ],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée. Ce texte a été modifié/complété : consulter aussi les textes listés dans modifié_par / complété_par.",
+  "same_work_documents": [],
+  "complété_par": [
+    {
+      "work_id": "INS-13-97",
+      "document_id": "INS-13-97.fr",
+      "date": "1997-12-10",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°13-97 du 10 décembre 1997 modifiant et complétant l’instruction n°08-96 du 18 décembre 1996 fixant les conditions de création et d’"
+      }
+    },
+    {
+      "work_id": "INS-13-97",
+      "document_id": "INS-13-97.fr",
+      "date": "1997-12-10",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente Instruction a pour objet de modifier et de compléter l'instruction n°08-96 du 18 décembre 1996 fixant les conditions de création et d'"
+      }
+    }
+  ],
+  "modifié_par": [
+    {
+      "work_id": "INS-13-97",
+      "document_id": "INS-13-97.fr",
+      "date": "1997-12-10",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°13-97 du 10 décembre 1997 modifiant et complétant l’instruction n°08-96 du 18 décembre 1996 fixant les conditions de création et d’"
+      }
+    },
+    {
+      "work_id": "INS-13-97",
+      "document_id": "INS-13-97.fr",
+      "date": "1997-12-10",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente Instruction a pour objet de modifier et de compléter l'instruction n°08-96 du 18 décembre 1996 fixant les conditions de création et d'"
+      }
+    }
+  ],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 16",
+      "number": "16",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 17",
+      "number": "17",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 18",
+      "number": "18",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 19",
+      "number": "19",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 20",
+      "number": "20",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 21",
+      "number": "21",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 22",
+      "number": "22",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 23",
+      "number": "23",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe",
+      "number": "",
+      "heading": "FICHE SIGNALETIQUE",
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°08-96 DU 18 DECEMBRE 1996\nFIXANT LES CONDITIONS DE CREATION ET D'AGREMENT\nDES BUREAUX DE CHANGE",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°08-96 DU 18 DECEMBRE 1996",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "FIXANT LES CONDITIONS DE CREATION ET D'AGREMENT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DES BUREAUX DE CHANGE",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction a pour objet de déterminer les conditions de création, d'agrément, d'organisation et de fonctionnement des bureaux de change, conformément aux dispositions du règlement n°95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n°92-04 du 2 mars 1992 relatif au contrôle des changes notamment ses articles 10 à 15 .",
+      "paragraphs": [
+        {
+          "text": "La présente instruction a pour objet de déterminer les conditions de création, d'agrément, d'organisation et de fonctionnement des bureaux de change, conformément aux dispositions du règlement n°95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n°92-04 du 2 mars 1992 relatif au contrôle des changes notamment ses articles 10 à 15 .",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Par \"bureau de change\", il faut entendre, toute \"institution ou agent de change\" au sens de l'article 11 du règlement n°95-07 du 23 décembre 1995 suscité créé dans les formes prévues par le Code de Commerce.",
+      "paragraphs": [
+        {
+          "text": "Par \"bureau de change\", il faut entendre, toute \"institution ou agent de change\" au sens de l'article 11 du règlement n°95-07 du 23 décembre 1995 suscité créé dans les formes prévues par le Code de Commerce.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les bureaux de change sont autorisés à n'effectuer que des opérations d'achat et de vente, contre monnaie nationale, des billets de banque et des chèques de voyage libellés en monnaies étrangères librement convertibles.",
+      "paragraphs": [
+        {
+          "text": "Les bureaux de change sont autorisés à n'effectuer que des opérations d'achat et de vente, contre monnaie nationale, des billets de banque et des chèques de voyage libellés en monnaies étrangères librement convertibles.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La création d'un bureau de change est subordonnée à l'obtention, auprès de la Banque d'Algérie, de l'agrément prévu aux articles 12 et 13 du règlement n°95-07 du 23 décembre 1995 suscité.",
+      "paragraphs": [
+        {
+          "text": "La création d'un bureau de change est subordonnée à l'obtention, auprès de la Banque d'Algérie, de l'agrément prévu aux articles 12 et 13 du règlement n°95-07 du 23 décembre 1995 suscité.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Toute banque ou tout établissement financier est autorisé, en qualité d'intermédiaire agréé, à créer des bureaux de change.\nLa banque ou l'établissement financier, intermédiaire agréé peut accorder sous sa responsabilité des sous-délégations aux hôtels.",
+      "paragraphs": [
+        {
+          "text": "Toute banque ou tout établissement financier est autorisé, en qualité d'intermédiaire agréé, à créer des bureaux de change.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La banque ou l'établissement financier, intermédiaire agréé peut accorder sous sa responsabilité des sous-délégations aux hôtels.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Outre les informations figurant sur la fiche annexée à la présente instruction, le demandeur et les personnes chargées du fonctionnement du bureau de change doivent remettre un dossier comprenant :\n- une attestation certifiant de l'existence d'un local pouvant abriter le bureau de change ;\n- une copie du récépissé de dépôt de demande de registre de commerce ;\n- une attestation certifiant de l'expérience professionnelle de ou des personnes chargées du fonctionnement du bureau de change ;\n- copies de l'extrait n°3 du casier judiciaire.",
+      "paragraphs": [
+        {
+          "text": "Outre les informations figurant sur la fiche annexée à la présente instruction, le demandeur et les personnes chargées du fonctionnement du bureau de change doivent remettre un dossier comprenant :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- une attestation certifiant de l'existence d'un local pouvant abriter le bureau de change ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- une copie du récépissé de dépôt de demande de registre de commerce ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- une attestation certifiant de l'expérience professionnelle de ou des personnes chargées du fonctionnement du bureau de change ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- copies de l'extrait n°3 du casier judiciaire.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L'agrément pour l'établissement d'un bureau de change des autres intermédiaires agréés visés à l'article 5 ci-dessus, est délivré selon les procédures en vigueur en application des articles 12 et 13 du règlement n°95-07 du 23 décembre 1995 suscité.",
+      "paragraphs": [
+        {
+          "text": "L'agrément pour l'établissement d'un bureau de change des autres intermédiaires agréés visés à l'article 5 ci-dessus, est délivré selon les procédures en vigueur en application des articles 12 et 13 du règlement n°95-07 du 23 décembre 1995 suscité.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les bureaux de change peuvent ouvrir leurs guichets 24 heures sur 24 et 7 jours sur 7.",
+      "paragraphs": [
+        {
+          "text": "Les bureaux de change peuvent ouvrir leurs guichets 24 heures sur 24 et 7 jours sur 7.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les bureaux de change sont tenus d'afficher régulièrement les derniers cours d'achat et de vente de toutes les devises qu'ils traitent.",
+      "paragraphs": [
+        {
+          "text": "Les bureaux de change sont tenus d'afficher régulièrement les derniers cours d'achat et de vente de toutes les devises qu'ils traitent.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les cours d'achat et de vente de billets de banque et de chèques de voyage libellés en monnaies étrangères librement convertibles appliqués par les bureaux de change peuvent s'écarter de un pour cent (1%) maximum par rapport aux cours pratiqués par la Banque d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "Les cours d'achat et de vente de billets de banque et de chèques de voyage libellés en monnaies étrangères librement convertibles appliqués par les bureaux de change peuvent s'écarter de un pour cent (1%) maximum par rapport aux cours pratiqués par la Banque d'Algérie.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les bureaux de change sont autorisés à percevoir, sur le montant de toute transaction d'achat ou de vente de devises, une commission en dinars dont le taux est affiché.",
+      "paragraphs": [
+        {
+          "text": "Les bureaux de change sont autorisés à percevoir, sur le montant de toute transaction d'achat ou de vente de devises, une commission en dinars dont le taux est affiché.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les bureaux de change ne sont autorisés à acheter et à vendre les billets de banque et les chèques de voyage libellés en monnaies étrangères librement convertibles qu'auprès de non-résidents.",
+      "paragraphs": [
+        {
+          "text": "Les bureaux de change ne sont autorisés à acheter et à vendre les billets de banque et les chèques de voyage libellés en monnaies étrangères librement convertibles qu'auprès de non-résidents.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les bureaux de change peuvent toutefois acheter tout montant en devises auprès des personnes physiques résidentes en Algérie.",
+      "paragraphs": [
+        {
+          "text": "Les bureaux de change peuvent toutefois acheter tout montant en devises auprès des personnes physiques résidentes en Algérie.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les bureaux de change sont tenus de céder au non-résident les devises achetés sur le marché dans la limite du montant qu'il a importé et cédé.",
+      "paragraphs": [
+        {
+          "text": "Les bureaux de change sont tenus de céder au non-résident les devises achetés sur le marché dans la limite du montant qu'il a importé et cédé.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Toute vente de devises à un non-résident doit être justifiée par une attestation de change prouvant que ce dernier a bien cédé, au cours de son séjour en\nAlgérie, des devises à un bureau de change ou à une banque ou à un établissement financier, intermédiaire agréé.",
+      "paragraphs": [
+        {
+          "text": "Toute vente de devises à un non-résident doit être justifiée par une attestation de change prouvant que ce dernier a bien cédé, au cours de son séjour en",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Algérie, des devises à un bureau de change ou à une banque ou à un établissement financier, intermédiaire agréé.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 16",
+      "number": "16",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les bureaux de change peuvent vendre, à tout moment, les devises qu'ils détiennent aux banques et établissements financiers, intermédiaires agréés ou à la\nBanque d'Algérie sur la base des derniers cours de change pratiqués par ces derniers.",
+      "paragraphs": [
+        {
+          "text": "Les bureaux de change peuvent vendre, à tout moment, les devises qu'ils détiennent aux banques et établissements financiers, intermédiaires agréés ou à la",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Banque d'Algérie sur la base des derniers cours de change pratiqués par ces derniers.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 17",
+      "number": "17",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les bureaux de change peuvent déposer dans des comptes devises à vue ouverts sur les livres des banques, intermédiaires agréés, les devises achetées avant leur vente sur le marché.",
+      "paragraphs": [
+        {
+          "text": "Les bureaux de change peuvent déposer dans des comptes devises à vue ouverts sur les livres des banques, intermédiaires agréés, les devises achetées avant leur vente sur le marché.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 18",
+      "number": "18",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Toute opération d'achat ou de vente de devises effectuée par un bureau de change doit donner lieu à l'établissement, selon le cas, d'une attestation d'achat ou de vente de devises.",
+      "paragraphs": [
+        {
+          "text": "Toute opération d'achat ou de vente de devises effectuée par un bureau de change doit donner lieu à l'établissement, selon le cas, d'une attestation d'achat ou de vente de devises.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 19",
+      "number": "19",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "L'attestation d'achat ou de vente de devises est toujours établie en deux\n(02) exemplaires, dont le premier est délivré au client et le second est gardé comme \"souche\" dans son carnet. Ce dernier doit servir de support au contrôle à posteriori exercé par la Banque d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "L'attestation d'achat ou de vente de devises est toujours établie en deux",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "(02) exemplaires, dont le premier est délivré au client et le second est gardé comme \"souche\" dans son carnet. Ce dernier doit servir de support au contrôle à posteriori exercé par la Banque d'Algérie.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 20",
+      "number": "20",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les attestations d'achat et de vente de devises délivrées par les bureaux de change doivent, au minimum, comprendre les informations suivantes :\n- le nom et prénoms du client ;\n- le numéro du passeport ou de la pièce d'identité pour les nationaux ;\n- la date et le lieu d'établissement du passeport ou de la pièce d'identité ;\n- la nationalité du client ;\n- le montant du change en devises, le cours et la contrepartie en dinars.",
+      "paragraphs": [
+        {
+          "text": "Les attestations d'achat et de vente de devises délivrées par les bureaux de change doivent, au minimum, comprendre les informations suivantes :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- le nom et prénoms du client ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- le numéro du passeport ou de la pièce d'identité pour les nationaux ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- la date et le lieu d'établissement du passeport ou de la pièce d'identité ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- la nationalité du client ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- le montant du change en devises, le cours et la contrepartie en dinars.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 21",
+      "number": "21",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "La souche de l'attestation de toute opération de vente de devises effectuée par un bureau de change est jointe à l'attestation de change prévue à l'article 15 ci-dessus remise par le client.",
+      "paragraphs": [
+        {
+          "text": "La souche de l'attestation de toute opération de vente de devises effectuée par un bureau de change est jointe à l'attestation de change prévue à l'article 15 ci-dessus remise par le client.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 22",
+      "number": "22",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Tout bureau de change est tenu d'établir, à la fin de chaque trimestre, une liste détaillée de toutes les opérations de change effectuées le trimestre précédent et de la communiquer à la Banque d'Algérie aux fins de statistiques.",
+      "paragraphs": [
+        {
+          "text": "Tout bureau de change est tenu d'établir, à la fin de chaque trimestre, une liste détaillée de toutes les opérations de change effectuées le trimestre précédent et de la communiquer à la Banque d'Algérie aux fins de statistiques.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 23",
+      "number": "23",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "La présente Instruction est applicable à compter de la date de sa signature.\nLe Gouverneur\nAbdelouahab KERAMANE",
+      "paragraphs": [
+        {
+          "text": "La présente Instruction est applicable à compter de la date de sa signature.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe",
+      "number": "",
+      "heading": "FICHE SIGNALETIQUE",
+      "context": {},
+      "annexe": {
+        "number": null,
+        "heading": "FICHE SIGNALETIQUE",
+        "label": "Annexe"
+      },
+      "page_start": 3,
+      "page_end": 3,
+      "text": "1/- Nom : …………………………\n2/- Prénoms : ………………………\n3/- Date et lieu de naissance : ………………………………………………………\n4/- Expérience professionnelle : ……………………………………………………\n5/- Adresse habituelle : ………………………………………………………………\n6/- Activité actuelle : …………………………………………………………………\n7/- Le demandeur de l'agrément détient-il des participations dans des sociétés ? Si oui, détailler.\n8/- Le demandeur de l'agrément et les sociétés qui lui sont liées exercent-ils une activité financière ? Si oui, à quelles autorités sont-ils soumis à ce titre ?\n9/- Au cours des dix dernières années, le demandeur de l'agrément a-t-il fait l'objet d'une information judiciaire présentant un caractère significatif ? A sa connaissance des sociétés de son groupe se sont-elles trouvées dans la même situation ?\n10/- Fournir toute information complémentaire susceptible d'aider la Banque d'Algérie dans la prise de décision.",
+      "paragraphs": [
+        {
+          "text": "1/- Nom : …………………………",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "2/- Prénoms : ………………………",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "3/- Date et lieu de naissance : ………………………………………………………",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "4/- Expérience professionnelle : ……………………………………………………",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "5/- Adresse habituelle : ………………………………………………………………",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "6/- Activité actuelle : …………………………………………………………………",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "7/- Le demandeur de l'agrément détient-il des participations dans des sociétés ? Si oui, détailler.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "8/- Le demandeur de l'agrément et les sociétés qui lui sont liées exercent-ils une activité financière ? Si oui, à quelles autorités sont-ils soumis à ce titre ?",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "9/- Au cours des dix dernières années, le demandeur de l'agrément a-t-il fait l'objet d'une information judiciaire présentant un caractère significatif ? A sa connaissance des sociétés de son groupe se sont-elles trouvées dans la même situation ?",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "10/- Fournir toute information complémentaire susceptible d'aider la Banque d'Algérie dans la prise de décision.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.061
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-08-96.fr.txt"
+}

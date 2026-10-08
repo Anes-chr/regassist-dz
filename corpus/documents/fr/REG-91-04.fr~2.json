@@ -1,0 +1,582 @@
+{
+  "document_id": "REG-91-04.fr~2",
+  "work_id": "REG-91-04",
+  "title": "Règlement n°91-04 du 16 mai 1991 relatif à l’encaissement des recettes d’exportations d’hydrocarbures.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "91-04",
+  "number_source": "en-tête du document",
+  "date": "1991-05-16",
+  "date_raw": "N°91-04 DU 16 MAI 1991",
+  "date_source": "en-tête du document",
+  "publication_date": "2023-01-25",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Règlementation des changes",
+  "source_url": "https://www.bank-of-algeria.dz/devises-reglement/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/reglement9104.pdf",
+  "format": "pdf",
+  "file_hash": "8b67345d4a82ebc68705d505c46e9eb6cbe2430a867328bdf272ff739623b056",
+  "file_size": 52019,
+  "raw_path": "raw/8b67345d4a82__reglement9104.pdf",
+  "retrieved_at": "2026-10-05T13:27:10+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "465b81aefbc0ee760909175ac356e01b69f4de91294e6807d04b69b38ab30773",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/devises-reglement/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document6",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200701152937+01'00'",
+    "modDate": "D:20200701152937+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2709,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 406,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 10,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "meme_texte_plusieurs_fichiers"
+  ],
+  "title_document": "REGLEMENT N°91-04 DU 16 MAI 1991 RELATIF A L'ENCAISSEMENT DES RECETTES D'EXPORTATIONS D'HYDROCARBURES",
+  "alias_urls": [],
+  "text_hash": "a389a821112db8bc7c2b58ca6fdc464dcdeb3a425dcaf87be94586a6dd820aef",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [
+    {
+      "work_id": "REG-95-03",
+      "document_id": "REG-95-03.fr",
+      "date": "1995-03-06",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°95-03 du 6 mars 1995 modifiant et complétant le règlement n° 91-04 du 16 mai 1991 relatif à l’encaissement des recettes d"
+      }
+    },
+    {
+      "work_id": "REG-95-03",
+      "document_id": "REG-95-03.fr",
+      "date": "1995-03-06",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet, de modifier et de compléter les articles 3 et 7 du règlement n°91-04 du 16 mai 1991 relatif à l'encaissement des recettes d"
+      }
+    }
+  ],
+  "complete_par": [
+    {
+      "work_id": "REG-95-03",
+      "document_id": "REG-95-03.fr",
+      "date": "1995-03-06",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°95-03 du 6 mars 1995 modifiant et complétant le règlement n° 91-04 du 16 mai 1991 relatif à l’encaissement des recettes d"
+      }
+    },
+    {
+      "work_id": "REG-95-03",
+      "document_id": "REG-95-03.fr",
+      "date": "1995-03-06",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet, de modifier et de compléter les articles 3 et 7 du règlement n°91-04 du 16 mai 1991 relatif à l'encaissement des recettes d"
+      }
+    }
+  ],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée. Ce texte a été modifié/complété : consulter aussi les textes listés dans modifié_par / complété_par.",
+  "same_work_documents": [
+    "REG-91-04.ar",
+    "REG-91-04.fr"
+  ],
+  "complété_par": [
+    {
+      "work_id": "REG-95-03",
+      "document_id": "REG-95-03.fr",
+      "date": "1995-03-06",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°95-03 du 6 mars 1995 modifiant et complétant le règlement n° 91-04 du 16 mai 1991 relatif à l’encaissement des recettes d"
+      }
+    },
+    {
+      "work_id": "REG-95-03",
+      "document_id": "REG-95-03.fr",
+      "date": "1995-03-06",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet, de modifier et de compléter les articles 3 et 7 du règlement n°91-04 du 16 mai 1991 relatif à l'encaissement des recettes d"
+      }
+    }
+  ],
+  "modifié_par": [
+    {
+      "work_id": "REG-95-03",
+      "document_id": "REG-95-03.fr",
+      "date": "1995-03-06",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°95-03 du 6 mars 1995 modifiant et complétant le règlement n° 91-04 du 16 mai 1991 relatif à l’encaissement des recettes d"
+      }
+    },
+    {
+      "work_id": "REG-95-03",
+      "document_id": "REG-95-03.fr",
+      "date": "1995-03-06",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet, de modifier et de compléter les articles 3 et 7 du règlement n°91-04 du 16 mai 1991 relatif à l'encaissement des recettes d"
+      }
+    }
+  ],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°91-04 DU 16 MAI 1991 RELATIF A L'ENCAISSEMENT\nDES RECETTES D'EXPORTATIONS D'HYDROCARBURES\nLe Gouverneur de la Banque d'Algérie,\n- Vu la Loi n° 90-10 du 14 avril 1990 relative à la monnaie et au crédit notamment ses articles 32 à 41, 44 alinéa \"K\" et 192 ;\n- Vu le Décret Présidentiel du 15 avril 1990 portant nomination du Gouverneur de la Banque d'Algérie ;\n- Vu les Décrets présidentiels du 14 mai 1990 portant nomination de Vice\nGouverneurs de la Banque d'Algérie ;\n- Vu le Décret Exécutif du 14 mai 1990 portant désignation de membres titulaires et suppléants au Conseil de la Monnaie et du Crédit ;\n- Vu l'Instruction n°5 HC du 23 Juin 1970 du Ministère d'Etat Chargé des Finances et du Plan ;\n- Vu la délibération du Conseil de la Monnaie et du Crédit en date du 16 mai 1991.\nPromulgue le règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°91-04 DU 16 MAI 1991 RELATIF A L'ENCAISSEMENT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DES RECETTES D'EXPORTATIONS D'HYDROCARBURES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d'Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la Loi n° 90-10 du 14 avril 1990 relative à la monnaie et au crédit notamment ses articles 32 à 41, 44 alinéa \"K\" et 192 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 15 avril 1990 portant nomination du Gouverneur de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu les Décrets présidentiels du 14 mai 1990 portant nomination de Vice",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Gouverneurs de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Exécutif du 14 mai 1990 portant désignation de membres titulaires et suppléants au Conseil de la Monnaie et du Crédit ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l'Instruction n°5 HC du 23 Juin 1970 du Ministère d'Etat Chargé des Finances et du Plan ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la délibération du Conseil de la Monnaie et du Crédit en date du 16 mai 1991.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les sociétés exportatrices concessionnaires du domaine énergétique de l'Etat visées par l'article 192 de la Loi n° 90-10 du 14 avril 1990 susvisée, sont tenues de domicilier auprès de la Banque d'Algérie l'encaissement des recettes en devises réalisées dans le cadre de leurs exportations d'Hydrocarbures.",
+      "paragraphs": [
+        {
+          "text": "Les sociétés exportatrices concessionnaires du domaine énergétique de l'Etat visées par l'article 192 de la Loi n° 90-10 du 14 avril 1990 susvisée, sont tenues de domicilier auprès de la Banque d'Algérie l'encaissement des recettes en devises réalisées dans le cadre de leurs exportations d'Hydrocarbures.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Il est entendu par exportations d'Hydrocarbures au sens du présent règlement, les exportations de pétrole brut, condensât, produits raffinés, GPL, GNL et\nGN.",
+      "paragraphs": [
+        {
+          "text": "Il est entendu par exportations d'Hydrocarbures au sens du présent règlement, les exportations de pétrole brut, condensât, produits raffinés, GPL, GNL et",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "GN.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L'encaissement des recettes en devises visées à l'article 1 ci-dessus s'effectue exclusivement auprès des comptes de la Banque d'Algérie chez ses correspondants bancaires étrangers.",
+      "paragraphs": [
+        {
+          "text": "L'encaissement des recettes en devises visées à l'article 1 ci-dessus s'effectue exclusivement auprès des comptes de la Banque d'Algérie chez ses correspondants bancaires étrangers.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L'obligation de rapatriement des recettes d'exportations d'Hydrocarbures est considérée comme étant satisfaite dès réalisation de leur encaissement conformément à l'article 3 ci-dessus.",
+      "paragraphs": [
+        {
+          "text": "L'obligation de rapatriement des recettes d'exportations d'Hydrocarbures est considérée comme étant satisfaite dès réalisation de leur encaissement conformément à l'article 3 ci-dessus.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Cet encaissement doit intervenir \"valeur\" date d'exigibilité du paiement fixée par la facture et/ou contrat commercial en conformité avec la réglementation en vigueur en la matière.",
+      "paragraphs": [
+        {
+          "text": "Cet encaissement doit intervenir \"valeur\" date d'exigibilité du paiement fixée par la facture et/ou contrat commercial en conformité avec la réglementation en vigueur en la matière.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Tout retard de paiement du fait de l'acheteur étranger doit donner lieu à facturation et paiement de pénalités de retard déterminées conformément aux dispositions contractuelles.",
+      "paragraphs": [
+        {
+          "text": "Tout retard de paiement du fait de l'acheteur étranger doit donner lieu à facturation et paiement de pénalités de retard déterminées conformément aux dispositions contractuelles.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les recettes encaissées par la Banque d'Algérie pour le compte des sociétés exportatrices d'Hydrocarbures sont versées en contre-valeur Dinars au profit de ces dernières chez la banque domiciliataire.\nCette contre-valeur dinars est déterminée par application du cours de la devise concernée en vigueur à la date de valeur de l'encaissement de la recette.",
+      "paragraphs": [
+        {
+          "text": "Les recettes encaissées par la Banque d'Algérie pour le compte des sociétés exportatrices d'Hydrocarbures sont versées en contre-valeur Dinars au profit de ces dernières chez la banque domiciliataire.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Cette contre-valeur dinars est déterminée par application du cours de la devise concernée en vigueur à la date de valeur de l'encaissement de la recette.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les sociétés visées à l'article 1 ci-dessus prendront au regard de leur clientèle étrangère les mesures nécessaires pour le respect des dispositions concernées du présent règlement.",
+      "paragraphs": [
+        {
+          "text": "Les sociétés visées à l'article 1 ci-dessus prendront au regard de leur clientèle étrangère les mesures nécessaires pour le respect des dispositions concernées du présent règlement.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "La Banque d'Algérie (Direction Générale des Relations Financières\nExtérieures) fixera en cas de besoin les modalités d'application du présent règlement.",
+      "paragraphs": [
+        {
+          "text": "La Banque d'Algérie (Direction Générale des Relations Financières",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Extérieures) fixera en cas de besoin les modalités d'application du présent règlement.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Toutes dispositions réglementaires antérieures notamment celles de l'Instruction n°5 HC susvisée non modifiées par les dispositions du présent règlement demeurent en vigueur.\nLe Gouverneur\nAbderrahmane Roustoumi HADJ NACER",
+      "paragraphs": [
+        {
+          "text": "Toutes dispositions réglementaires antérieures notamment celles de l'Instruction n°5 HC susvisée non modifiées par les dispositions du présent règlement demeurent en vigueur.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Abderrahmane Roustoumi HADJ NACER",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "meme_texte_plusieurs_fichiers"
+    ],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.036
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-91-04.fr~2.txt"
+}

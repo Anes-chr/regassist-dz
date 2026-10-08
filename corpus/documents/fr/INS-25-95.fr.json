@@ -1,0 +1,376 @@
+{
+  "document_id": "INS-25-95.fr",
+  "work_id": "INS-25-95",
+  "title": "Instruction n°25-95 du 19 avril 1995 portant modification de l’instruction n°83-92 du 27 décembre 1992 modifiée relative aux modalités d’attribution d’allocations devises à l’occasion d’hospitalisation et/ou de décès de nationaux à l’étranger.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "25-95",
+  "number_source": "en-tête du document",
+  "date": "1995-04-19",
+  "date_raw": "N°25-95 DU 19 AVRIL 1995",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2025/12/instruction2595.pdf",
+      "uploaded": "2025-12-10T14:30:19"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Année 1995",
+  "source_url": "https://www.bank-of-algeria.dz/annee-1995/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction2595.pdf",
+  "format": "pdf",
+  "file_hash": "8858748633af0ff63a0a06485363c4d4420c3e516049d6d42252d6d742bec1a4",
+  "file_size": 35157,
+  "raw_path": "raw/8858748633af__instruction2595.pdf",
+  "retrieved_at": "2026-10-05T14:17:32+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "f25509167183b94c87825d806bbff3ab0055d7e0e0c7c11e46eda383f7f8e063",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-1995/",
+    "https://www.bank-of-algeria.dz/devisesinstruction/",
+    "https://www.bank-of-algeria.dz/importations-exportations-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document2",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200812105901+01'00'",
+    "modDate": "D:20200812105901+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 3478,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 4,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°25-95 DU 19 AVRIL 1995 PORTANT MODIFICATION DE L'INSTRUCTION N°83-92 DU 27 DECEMBRE 1992 MODIFIEE RELATIVE AUX MODALITES D'ATTRIBUTION D'ALLOCATIONS DEVISES A L'OCCASION D'HOSPITALISATION ET/OU DE DECES DE NATIONAUX A L'ETRANGER",
+  "alias_urls": [
+    {
+      "document_url": "https://www.bank-of-algeria.dz/stoodroa/2025/12/instruction2595.pdf",
+      "source_url": "https://www.bank-of-algeria.dz/importations-exportations-instruction/",
+      "title": "Instruction n°25-95 du 19 avril 1995 portant modification de l’instruction n°83-92 du 27 décembre 1992 modifiée, relative aux modalités d’attribution d’allocations devises à l’occasion d’hospitalisation et/ou décès de nationaux à l’étranger."
+    }
+  ],
+  "text_hash": "458481be931980d13fa4f4c60943dab3b63f81215eb63ded8068510ea2e961c1",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "83-92",
+        "date": "1992-12-27",
+        "raw": "instruction n°83-92 du 27 décembre 1992"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°25-95 du 19 avril 1995 portant modification de l’instruction n°83-92 du 27 décembre 1992 modifiée relative aux modalités d’attri"
+      },
+      "target_work_id": "INS-83-92"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-83-92",
+      "reference": "instruction n°83-92 du 27 décembre 1992",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°25-95 du 19 avril 1995 portant modification de l’instruction n°83-92 du 27 décembre 1992 modifiée relative aux modalités d’attri"
+      }
+    }
+  ],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°25-95 DU 19 AVRIL 1995 PORTANT MODIFICATION\nDE L'INSTRUCTION N°83-92 DU 27 DECEMBRE 1992 MODIFIEE RELATIVE\nAUX MODALITES D'ATTRIBUTION D'ALLOCATIONS DEVISES A L'OCCASION\nD'HOSPITALISATION ET/OU DE DECES DE NATIONAUX A L'ETRANGER",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°25-95 DU 19 AVRIL 1995 PORTANT MODIFICATION",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DE L'INSTRUCTION N°83-92 DU 27 DECEMBRE 1992 MODIFIEE RELATIVE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AUX MODALITES D'ATTRIBUTION D'ALLOCATIONS DEVISES A L'OCCASION",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "D'HOSPITALISATION ET/OU DE DECES DE NATIONAUX A L'ETRANGER",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction a pour objet de modifier les dispositions des articles\n2. 3. 4. 5. de l'instruction N° 83/92 du 27 Décembre 1992 modifiée relative aux modalités d'attribution d'allocations devises à l'occasion d'hospitalisation et/ou de décès de nationaux à l'étranger.",
+      "paragraphs": [
+        {
+          "text": "La présente instruction a pour objet de modifier les dispositions des articles",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "2. 3. 4. 5. de l'instruction N° 83/92 du 27 Décembre 1992 modifiée relative aux modalités d'attribution d'allocations devises à l'occasion d'hospitalisation et/ou de décès de nationaux à l'étranger.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les dispositions des articles 2, 3, 4 et 5 de l'Instruction susvisée sont modifiées et rédigées comme suit :\n\"Article 2 : les nationaux résidents se rendant à l'étranger pour soins médicaux sous couvert d'une prise en charge délivrée par un organisme de sécurité sociale ou par le\nMinistère chargé de la santé publique selon que le malade est assuré social ou non bénéficient d'une allocation devises dite allocation à caractère médical dont le montant est fixé à la contre-valeur en devises de :\n- 15 900 DA lorsque le malade est âgé de plus de 15 ans,\n- 7 600 DA lorsque le malade est âgé de 15 ans ou moins\".\n\"Article 3 : Au cas où l'état du malade nécessite l'assistance d'une tierce personne, expressément prescrite par l'organisme ayant délivré la prise en charge et ou par le service étranger d'hospitalisation, l'accompagnateur résident bénéficie d'une allocation devises dite allocation d'accompagnateur fixée à la contre-valeur en devises de :\n- 13 500 DA à l'occasion du départ du malade,\n- 5.900 DA à l'occasion du retour du malade\".\n\"Article 4 : En cas de décès à l'étranger d'un malade hospitalisé sous couvert d'une prise en charge ou d'un national résident en voyage touristique ou d'affaires, le membre de la famille chargé du rapatriement de la dépouille mortelle bénéficie d'une allocation devises dite allocation de rapatriement, dont le montant est fixé à la contre-valeur en devises de 110.700 DA, peut être accordé au membre de la famille chargé du rapatriement de la dépouille mortelle, d'une dérogation pour l'acquisition en dinars auprès d'une compagnie aérienne d'un titre de transport de ladite dépouille\".\n\"Article 5 : les parents rendant visite conjointement à leur (s) enfant (s) de 15 ans et moins hospitalisé (s) à l'étranger depuis au moins douze (12) mois sous couvert d'une prise en charge telle que définie à l'article 2 ci-dessus, bénéficient d'une allocation devises dite allocation de visite parentale annuelle dont le montant est fixé à la contre-valeur en devises de 29.500 DA.\nCe montant est fixé à 17.700 DA lorsque l'un des parents seulement (père ou mère)\neffectue la visite parentale annuelle. Au cas où l'autre parent (père ou mère selon le cas)\neffectue à son tour, au cours de la même année, une visite parentale, il bénéficie du reste de l'allocation de visite parentale soit 11.800 DA.\nL'allocation de visite parentale cumulée par les deux parents (père et mère) ne peut dans tous les cas être supérieure à 29.500 DA\".",
+      "paragraphs": [
+        {
+          "text": "Les dispositions des articles 2, 3, 4 et 5 de l'Instruction susvisée sont modifiées et rédigées comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "\"Article 2 : les nationaux résidents se rendant à l'étranger pour soins médicaux sous couvert d'une prise en charge délivrée par un organisme de sécurité sociale ou par le",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Ministère chargé de la santé publique selon que le malade est assuré social ou non bénéficient d'une allocation devises dite allocation à caractère médical dont le montant est fixé à la contre-valeur en devises de :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- 15 900 DA lorsque le malade est âgé de plus de 15 ans,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- 7 600 DA lorsque le malade est âgé de 15 ans ou moins\".",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "\"Article 3 : Au cas où l'état du malade nécessite l'assistance d'une tierce personne, expressément prescrite par l'organisme ayant délivré la prise en charge et ou par le service étranger d'hospitalisation, l'accompagnateur résident bénéficie d'une allocation devises dite allocation d'accompagnateur fixée à la contre-valeur en devises de :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- 13 500 DA à l'occasion du départ du malade,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- 5.900 DA à l'occasion du retour du malade\".",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "\"Article 4 : En cas de décès à l'étranger d'un malade hospitalisé sous couvert d'une prise en charge ou d'un national résident en voyage touristique ou d'affaires, le membre de la famille chargé du rapatriement de la dépouille mortelle bénéficie d'une allocation devises dite allocation de rapatriement, dont le montant est fixé à la contre-valeur en devises de 110.700 DA, peut être accordé au membre de la famille chargé du rapatriement de la dépouille mortelle, d'une dérogation pour l'acquisition en dinars auprès d'une compagnie aérienne d'un titre de transport de ladite dépouille\".",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "\"Article 5 : les parents rendant visite conjointement à leur (s) enfant (s) de 15 ans et moins hospitalisé (s) à l'étranger depuis au moins douze (12) mois sous couvert d'une prise en charge telle que définie à l'article 2 ci-dessus, bénéficient d'une allocation devises dite allocation de visite parentale annuelle dont le montant est fixé à la contre-valeur en devises de 29.500 DA.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Ce montant est fixé à 17.700 DA lorsque l'un des parents seulement (père ou mère)",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "effectue la visite parentale annuelle. Au cas où l'autre parent (père ou mère selon le cas)",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "effectue à son tour, au cours de la même année, une visite parentale, il bénéficie du reste de l'allocation de visite parentale soit 11.800 DA.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L'allocation de visite parentale cumulée par les deux parents (père et mère) ne peut dans tous les cas être supérieure à 29.500 DA\".",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les dispositions de l'Instruction N° 83/92 du 27 Décembre 1992 modifiée relative aux modalités d'attribution d'allocations devises à l'occasion d'hospitalisation et/ou de décès de nationaux à l'étranger non modifiées par la présente demeurent applicables.",
+      "paragraphs": [
+        {
+          "text": "Les dispositions de l'Instruction N° 83/92 du 27 Décembre 1992 modifiée relative aux modalités d'attribution d'allocations devises à l'occasion d'hospitalisation et/ou de décès de nationaux à l'étranger non modifiées par la présente demeurent applicables.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente Instruction est applicable à compter de la date de sa signature.\nLe Gouverneur\nAbdelouahab KERAMANE",
+      "paragraphs": [
+        {
+          "text": "La présente Instruction est applicable à compter de la date de sa signature.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.048
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-25-95.fr.txt"
+}

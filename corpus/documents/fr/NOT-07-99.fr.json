@@ -1,0 +1,256 @@
+{
+  "document_id": "NOT-07-99.fr",
+  "work_id": "NOT-07-99",
+  "title": "Note n°07-99 du 29 août 1999 relative aux rapatriements des recettes d’exportation hors hydrocarbures.",
+  "document_type": "note",
+  "type_code": "NOT",
+  "type_source": "label",
+  "number": "07-99",
+  "number_source": "en-tête du document",
+  "date": "1999-08-29",
+  "date_raw": "N°07-99 DU 29 AOUT 1999",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-05",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "notes_aux_banques",
+  "subcategory": "Année 1999",
+  "source_url": "https://www.bank-of-algeria.dz/les-notes-aux-banques-1999/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/05/note0799.pdf",
+  "format": "pdf",
+  "file_hash": "71bc63ae1109ea1ecde39f218a56f74c84d7409a152218150db5a85382411461",
+  "file_size": 52731,
+  "raw_path": "raw/71bc63ae1109__note0799.pdf",
+  "retrieved_at": "2026-10-05T13:24:03+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "caaba8aa69db583a131f39a1e939669633273c0e824c018802ce328a1990e2f3",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/les-notes-aux-banques-1999/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document1",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210228145144+01'00'",
+    "modDate": "D:20210228145144+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 1189,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 289,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": false,
+    "article_count": 0,
+    "annex_count": 1
+  },
+  "quality_flags": [],
+  "title_document": "NOTE N°07-99 DU 29 AOUT 1999 AUX BANQUES INTERMEDIAIRES AGREES Objet : A/S Rapatriements des recettes d'exportation hors hydrocarbures Réf : Note D.G.C. n°10-99 du 23 juin 1999",
+  "alias_urls": [],
+  "text_hash": "5fa8139cc292e57f621ac822dbab612f6d94ebc1a3a0f20b780982118677ab17",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe A",
+      "number": "A",
+      "heading": "LA NOTE N°07-99 DU 21 FEVRIER 1999 AUX BANQUES INTERMEDIAIRES AGREES",
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "NOTE N°07-99 DU 29 AOUT 1999\nAUX BANQUES INTERMEDIAIRES AGREES\nObjet : A/S Rapatriements des recettes d'exportation hors hydrocarbures\nRéf : Note D.G.C. n°10-99 du 23 juin 1999\nL'examen des premières situations transmises par les banques commerciales suite aux instructions de la Direction Générale des Changes suivant sa note n°10 du 23 juin 1999, fait ressortir certaines insuffisances dans les informations fournies.\nVous voudrez bien à cet égard noter que les rapports détaillés demandés par la lettre susvisée doivent être établis sous forme d'un état consolidé (suivant modèle ci-joint) reprenant les indications essentielles d'un dossier de domiciliation d'exportation.\nEn conséquence, un délai supplémentaire de 10 jours à compter de la date de la présente est accordé pour la transmission à la Direction Générale des Changes, des états consolidés par établissement bancaire, établis selon le modèle en Annexe.\nIl demeure entendu que ces informations doivent impérativement être communiquées par le premier responsable de l'établissement.\nLe Directeur du Contrôle des Changes\nD. SAIDI\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "NOTE N°07-99 DU 29 AOUT 1999",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AUX BANQUES INTERMEDIAIRES AGREES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Objet : A/S Rapatriements des recettes d'exportation hors hydrocarbures",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Réf : Note D.G.C. n°10-99 du 23 juin 1999",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L'examen des premières situations transmises par les banques commerciales suite aux instructions de la Direction Générale des Changes suivant sa note n°10 du 23 juin 1999, fait ressortir certaines insuffisances dans les informations fournies.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Vous voudrez bien à cet égard noter que les rapports détaillés demandés par la lettre susvisée doivent être établis sous forme d'un état consolidé (suivant modèle ci-joint) reprenant les indications essentielles d'un dossier de domiciliation d'exportation.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "En conséquence, un délai supplémentaire de 10 jours à compter de la date de la présente est accordé pour la transmission à la Direction Générale des Changes, des états consolidés par établissement bancaire, établis selon le modèle en Annexe.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Il demeure entendu que ces informations doivent impérativement être communiquées par le premier responsable de l'établissement.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Directeur du Contrôle des Changes",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "D. SAIDI",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe A",
+      "number": "A",
+      "heading": "LA NOTE N°07-99 DU 21 FEVRIER 1999 AUX BANQUES INTERMEDIAIRES AGREES",
+      "context": {},
+      "annexe": {
+        "number": "A",
+        "heading": "LA NOTE N°07-99 DU 21 FEVRIER 1999 AUX BANQUES INTERMEDIAIRES AGREES",
+        "label": "Annexe A"
+      },
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Raison sociale de la BIA\nETAT DES EXPORTATIONS HORS HYDROCARBURES EFFECTUEES\nDURANT L'EXERCICE 1998 ET DES RAPATRIMENTS Y AFFERENTS\nN° DOMICILIATION\nEXPORTATION\nVALEUR EXPORTER\nMONTANT RAPATRIE",
+      "paragraphs": [
+        {
+          "text": "Raison sociale de la BIA",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "ETAT DES EXPORTATIONS HORS HYDROCARBURES EFFECTUEES",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "DURANT L'EXERCICE 1998 ET DES RAPATRIMENTS Y AFFERENTS",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "N° DOMICILIATION",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "EXPORTATION",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "VALEUR EXPORTER",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "MONTANT RAPATRIE",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [
+    {
+      "page": 2,
+      "tables": [
+        "|N° DOMICILIATION|EXPORTATION|VALEUR EXPORTER|MONTANT RAPATRIE|\n|---|---|---|---|\n|||||\n\n"
+      ]
+    }
+  ],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.028
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/NOT-07-99.fr.txt"
+}

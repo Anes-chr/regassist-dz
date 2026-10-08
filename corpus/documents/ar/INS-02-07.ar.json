@@ -1,0 +1,355 @@
+{
+  "document_id": "INS-02-07.ar",
+  "work_id": "INS-02-07",
+  "title": "تعليمة رقم 02-2007 المؤرخة في 31 ماي 2007، المتعلقة بالعمليات المرتبطة بالمعاملات الجارية مع الخارج.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "02-2007",
+  "number_source": "libelle",
+  "date": "2007-05-31",
+  "date_raw": "المؤرخة في 31 ماي 2007",
+  "date_source": "libelle",
+  "publication_date": "2023-03-02",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "instructions",
+  "subcategory": "تنظيم الصرف",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d9%88%d8%a7%d8%b1%d8%af%d8%a7%d8%aa-%d8%a7%d9%84%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/03/07-02.pdf",
+  "format": "pdf",
+  "file_hash": "4b96403fe3c6e47915fa648d6c2eb6234d711e238850dd407964e398925521ac",
+  "file_size": 791266,
+  "raw_path": "raw/4b96403fe3c6__07-02.pdf",
+  "retrieved_at": "2026-10-05T13:29:40+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 4,
+  "url_hash": "e76fa6cbe741138dd716dfd9c5c1c4b9fb59be0f01a426d1463a2879d894f05c",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d9%88%d8%a7%d8%b1%d8%af%d8%a7%d8%aa-%d8%a7%d9%84%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "producer": "Epson Scan 2",
+    "creationDate": "D:20230228153142+01'00'",
+    "modDate": "D:20230228153142+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 4,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 887,
+        "ocr_confidence": 77.77443609022556
+      },
+      {
+        "page": 2,
+        "method": "ocr",
+        "chars": 868,
+        "ocr_confidence": 80.85245901639344
+      },
+      {
+        "page": 3,
+        "method": "ocr",
+        "chars": 676,
+        "ocr_confidence": 74.69902912621359
+      },
+      {
+        "page": 4,
+        "method": "ocr",
+        "chars": 464,
+        "ocr_confidence": 74.33333333333333
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 1,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine",
+    "numerotation:premier_article=2"
+  ],
+  "title_document": null,
+  "alias_urls": [],
+  "text_hash": "6bdf4cfbb75e8e1f6f1f90825353591d6c97b3ea84704a8a2e3d82a8304c8170",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [
+    {
+      "work_id": "INS-05-07",
+      "document_id": "INS-05-07.fr",
+      "date": "2007-06-11",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°05-2007 11 juin 2007 modifiant et complétant l’instruction n°02-07 relative aux opérations liées aux trans"
+      }
+    },
+    {
+      "work_id": "INS-05-07",
+      "document_id": "INS-05-07.fr",
+      "date": "2007-06-11",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le dernier alinéa de l’article 1er de l’instruction n°02-07 du 31 mai 2007 relative aux opérations liées aux trans"
+      }
+    }
+  ],
+  "complete_par": [
+    {
+      "work_id": "INS-05-07",
+      "document_id": "INS-05-07.fr",
+      "date": "2007-06-11",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°05-2007 11 juin 2007 modifiant et complétant l’instruction n°02-07 relative aux opérations liées aux trans"
+      }
+    }
+  ],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée. Ce texte a été modifié/complété : consulter aussi les textes listés dans modifié_par / complété_par.",
+  "same_work_documents": [
+    "INS-02-07.fr"
+  ],
+  "complété_par": [
+    {
+      "work_id": "INS-05-07",
+      "document_id": "INS-05-07.fr",
+      "date": "2007-06-11",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°05-2007 11 juin 2007 modifiant et complétant l’instruction n°02-07 relative aux opérations liées aux trans"
+      }
+    }
+  ],
+  "modifié_par": [
+    {
+      "work_id": "INS-05-07",
+      "document_id": "INS-05-07.fr",
+      "date": "2007-06-11",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°05-2007 11 juin 2007 modifiant et complétant l’instruction n°02-07 relative aux opérations liées aux trans"
+      }
+    },
+    {
+      "work_id": "INS-05-07",
+      "document_id": "INS-05-07.fr",
+      "date": "2007-06-11",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le dernier alinéa de l’article 1er de l’instruction n°02-07 du 31 mai 2007 relative aux opérations liées aux trans"
+      }
+    }
+  ],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "ocr_numeric_check": {
+    "units": 2,
+    "units_flagged": 0,
+    "units_compared_with_french": 0,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 02",
+      "number": "02",
+      "heading": null,
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 4,
+      "text": "التعليمة رقم 07-02 المؤرخة في 31 ماي 2007 المتعلقة بالعمليات المرتبطة بالمعاملات الجارية مع الخارج 03 5 à الأولى: : تطبيقا للمادة 4 من النظام رقم 01/07 المورخ‎ bal} 3 الجارية‎ eus de فيفري 2007 المتعلق بالقواعد المطبقة‎\n- عمليات التجارة الخارجية الخاصة culs‏\n- العمليات المرتبطة بالنقل:\n2 النقل الجوي: الاستئجار. فوائض العائدات» المساعدة والإتاوات والرسوم المتعلقة «Cl hill‏ التموين بالوقود. Sa‏ وخدمات الطيران.\nعمليات الاستئجار تخضع للأحكام التشريعية الخاصة بها.\nالعمليات Lai} sa AL all‏ العائدات يلم تنفيدها مع احترام الأحكام التنظيمية المطبقة في هذا المجال.\n«النقل اليجرى: الاستئجار». التموين وأرصدة حسايبات المرسىء lues pe)‏ البولس: cles‏ الميلة الإتضافية de‏ البواخر والحاويات. تنجز هذه العمليات طبقا للشروط والكيفيات المنصوص عليها في التنظيم الخاص بالنقل البحري.\nللمتعاملين الخاضعين للقانون الجزائري إلى الخارج لتحقيق عملياتهم الخاصة بالتجارة الخارجية.\nBank of Algeria The Governor التأمين وإعادة التأمين: كل العمليات والالتزامات المبرمة من طرف شركات التأمين الخلاضعة للقانون الجزائري.\nالخدمات: المالية: العمولات المرتيطة بعمليات! #التجارة الخارجيق والاقتراض والعمليات المالية الأخرى.\nالأسفار: مصاريف المهمات» منحة السفرء العلاج بالخارج» مصاريف التمدرس والحجء وذلك وفقا للتنظيم الساري المفعول المطبق على كل ذل المساعدة الفنية والعمليات المرتبطة بالإنتاج:\n«eu ji e‏ الإصلاح التشغيلء التزيين» التحويل» الصنع وما شابه AU‏ ظ © المساعدة الفنية المرتبطة بنشاط المؤسسة الخاضعة للقانون si‏ الصنعء الدراساتء التكوين المهني والتربصات؛ » حقوق الملكية الصناعية (براءات.الاختراع ورخص الإنتاج)؛ © التحليل والخبرة الفنية والعلمية. المراجعة وشهادات المطايقة مع المعايير الدولية (مثل معايير (ISO‏ « إيجار برمجيات الإعلام الآلي» والاشتراك في بنوك المعلومات بما في ذلك التكوين في الإعلام الآلي وصيانة التجهيزات؛ «رواتب وأجور العمال الأجانب المتعاقدين»ء وذلك RL‏ للأحكام « إيجار محلات ومساحات العرض أثناء المعارض والتظاهرات\n- العمليات المرتبطة بالاتصال:\nه حقوق استغلال الأقمار الصناعية2» الخدمات dv nl‏ خدمات الانترنيت) وصيانة التجهيزات الخاصة بها.\n- المداخيل:\nالحضور 86 مجالس الإدارة وبدل الحضور. ْ\n- عمليات جارية أخرى:\nه إتاوات الاستغلال السينماتوغرافي والسمعي البصريء تخضع هذه العمليات إلى con‏ تدعيما للف القوطين المصيرفي الميؤافق» إلى تأشيرة الاستغلال الممنوحة من طرف الإدارة المكلفة بالثقافة؛ ه التصاريف المتطلقة بالمشاركة فى المسابقاعه حفوق التسجيل فى € مصاريف المشاركة فى المناقصات الدولية؛ ه اشتراكات الانخراط في المنظمات العلمية والمهنية؛ © مصاريف القضاء وأتعاب المكاميرة؟ .\nمار si‏ تيار جل في A‏ رامن والملتقيات والندوات؛ وعلامات الصنع؛ © نفقات ممثليات المتعاملين الخاضعين للقانون الجزائري ee‏ وذلك حسب الأحكا م الفانونية والتنظيمية المتعلقة بذلك؛ ©« الاشتراك في الدوريات والمحلات ذات الطابع العلمي والتقني؛ © عائدات ونفقات الممتليات الدياوماسية والقنصلية الأجنبية بالجزائره له تقل صمل ne‏ تطبيق 4# هذه التعليمة كل re‏ امير اد الخدمات والموجهة لإعادة “ssl‏ على “ll‏ والتي له Li‏ بنشاطات الإنتاج بالجزائر. |",
+      "paragraphs": [
+        {
+          "text": "التعليمة رقم 07-02 المؤرخة في 31 ماي 2007 المتعلقة بالعمليات المرتبطة بالمعاملات الجارية مع الخارج 03 5 à الأولى: : تطبيقا للمادة 4 من النظام رقم 01/07 المورخ‎ bal} 3 الجارية‎ eus de فيفري 2007 المتعلق بالقواعد المطبقة‎",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- عمليات التجارة الخارجية الخاصة culs‏",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- العمليات المرتبطة بالنقل:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "2 النقل الجوي: الاستئجار. فوائض العائدات» المساعدة والإتاوات والرسوم المتعلقة «Cl hill‏ التموين بالوقود. Sa‏ وخدمات الطيران.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "عمليات الاستئجار تخضع للأحكام التشريعية الخاصة بها.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "العمليات Lai} sa AL all‏ العائدات يلم تنفيدها مع احترام الأحكام التنظيمية المطبقة في هذا المجال.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "«النقل اليجرى: الاستئجار». التموين وأرصدة حسايبات المرسىء lues pe)‏ البولس: cles‏ الميلة الإتضافية de‏ البواخر والحاويات. تنجز هذه العمليات طبقا للشروط والكيفيات المنصوص عليها في التنظيم الخاص بالنقل البحري.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "للمتعاملين الخاضعين للقانون الجزائري إلى الخارج لتحقيق عملياتهم الخاصة بالتجارة الخارجية.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Bank of Algeria The Governor التأمين وإعادة التأمين: كل العمليات والالتزامات المبرمة من طرف شركات التأمين الخلاضعة للقانون الجزائري.",
+          "page_start": 1,
+          "page_end": 2
+        },
+        {
+          "text": "الخدمات: المالية: العمولات المرتيطة بعمليات! #التجارة الخارجيق والاقتراض والعمليات المالية الأخرى.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "الأسفار: مصاريف المهمات» منحة السفرء العلاج بالخارج» مصاريف التمدرس والحجء وذلك وفقا للتنظيم الساري المفعول المطبق على كل ذل المساعدة الفنية والعمليات المرتبطة بالإنتاج:",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "«eu ji e‏ الإصلاح التشغيلء التزيين» التحويل» الصنع وما شابه AU‏ ظ © المساعدة الفنية المرتبطة بنشاط المؤسسة الخاضعة للقانون si‏ الصنعء الدراساتء التكوين المهني والتربصات؛ » حقوق الملكية الصناعية (براءات.الاختراع ورخص الإنتاج)؛ © التحليل والخبرة الفنية والعلمية. المراجعة وشهادات المطايقة مع المعايير الدولية (مثل معايير (ISO‏ « إيجار برمجيات الإعلام الآلي» والاشتراك في بنوك المعلومات بما في ذلك التكوين في الإعلام الآلي وصيانة التجهيزات؛ «رواتب وأجور العمال الأجانب المتعاقدين»ء وذلك RL‏ للأحكام « إيجار محلات ومساحات العرض أثناء المعارض والتظاهرات",
+          "page_start": 2,
+          "page_end": 3
+        },
+        {
+          "text": "- العمليات المرتبطة بالاتصال:",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "ه حقوق استغلال الأقمار الصناعية2» الخدمات dv nl‏ خدمات الانترنيت) وصيانة التجهيزات الخاصة بها.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- المداخيل:",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "الحضور 86 مجالس الإدارة وبدل الحضور. ْ",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- عمليات جارية أخرى:",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "ه إتاوات الاستغلال السينماتوغرافي والسمعي البصريء تخضع هذه العمليات إلى con‏ تدعيما للف القوطين المصيرفي الميؤافق» إلى تأشيرة الاستغلال الممنوحة من طرف الإدارة المكلفة بالثقافة؛ ه التصاريف المتطلقة بالمشاركة فى المسابقاعه حفوق التسجيل فى € مصاريف المشاركة فى المناقصات الدولية؛ ه اشتراكات الانخراط في المنظمات العلمية والمهنية؛ © مصاريف القضاء وأتعاب المكاميرة؟ .",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "مار si‏ تيار جل في A‏ رامن والملتقيات والندوات؛ وعلامات الصنع؛ © نفقات ممثليات المتعاملين الخاضعين للقانون الجزائري ee‏ وذلك حسب الأحكا م الفانونية والتنظيمية المتعلقة بذلك؛ ©« الاشتراك في الدوريات والمحلات ذات الطابع العلمي والتقني؛ © عائدات ونفقات الممتليات الدياوماسية والقنصلية الأجنبية بالجزائره له تقل صمل ne‏ تطبيق 4# هذه التعليمة كل re‏ امير اد الخدمات والموجهة لإعادة “ssl‏ على “ll‏ والتي له Li‏ بنشاطات الإنتاج بالجزائر. |",
+          "page_start": 3,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 02",
+      "number": "02",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "تدخل هذه التعليمة حيز التطبيق اعتبارا من تاريخ التوقيع حرر بالجزائرء في 31 ماي 2007",
+      "paragraphs": [
+        {
+          "text": "تدخل هذه التعليمة حيز التطبيق اعتبارا من تاريخ التوقيع حرر بالجزائرء في 31 ماي 2007",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine",
+      "numerotation:premier_article=2"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.047,
+      "ocr_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "ocr_mean_confidence": 76.9
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/INS-02-07.ar.txt"
+}

@@ -1,0 +1,266 @@
+{
+  "document_id": "INS-11-21.fr~2",
+  "work_id": "INS-11-21",
+  "title": "Instruction n°11-2021 du 1er décembre 2021 portant modification de la date de règlement des effets de commerce.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "11-2021",
+  "number_source": "libelle",
+  "date": "2021-12-01",
+  "date_raw": "n°11-2021 du 1er décembre 2021",
+  "date_source": "libelle",
+  "publication_date": "2023-01-24",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Commercialisation et normalisation de produits et services bancaires",
+  "source_url": "https://www.bank-of-algeria.dz/normalisation-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/Instruction-n-http-webmail.ba_.dz-_taskmail_mboxINBOX_uid771_part2_download1_actionget_tokenQGFjR2i1pbZTSosnGjh9Pdus3vjRTd7U.pdf",
+  "format": "pdf",
+  "file_hash": "41ef9c0556e396480ba2de9e46a1646a5a739aacd82659a6ad4fe9772a0fd702",
+  "file_size": 109937,
+  "raw_path": "raw/41ef9c0556e3__ion-n-http-webmail.ba_.dz-_taskmail_mboxINBOX_uid771_part2_download1_actionget_tokenQGFjR2i1pbZTSosnGjh9Pdus3vjRTd7U.pdf",
+  "retrieved_at": "2026-10-05T13:25:20+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 1,
+  "url_hash": "6a9888874b3c35144b6936915adaa6430a14fd2d77087edf1b6440495d3a99ca",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/normalisation-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "title": "Microsoft Word - Instruction n - http://webmail.ba.dz/?_task=mail&_mbox=INBOX&_uid=771&_part=2&_download=1&_action=get&_token=Q",
+    "author": "ikram.blat",
+    "creator": "PDF24 Creator",
+    "producer": "GPL Ghostscript 9.27",
+    "creationDate": "D:20230124101133+01'00'",
+    "modDate": "D:20230124101133+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 718,
+        "ocr_confidence": 93.35
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 2,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "meme_texte_plusieurs_fichiers",
+    "ocr_utilise_verification_humaine",
+    "numerotation:premier_article=2"
+  ],
+  "title_document": "INSTRUCTION N°11-2021, DU 1° DECEMBRE 2021, PORTANT MODIFICATION DE LA DATE DE REGLEMENT DES EFFETS DE COMMERCE",
+  "alias_urls": [],
+  "text_hash": "43455983d957cc9e2c18c0cf541dc3d61abb608ed3fc1b3370408425dbee856c",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "05-06",
+        "date": "2005-12-15",
+        "raw": "règlement n°05-06 du 15 décembre 2005"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "a date de règlement applicable aux effets de commerce (lettre de change et billet à ordre) définie dans l’article 31 du règlement n°05-06 du 15 décembre 2005 portant sur la compensation des chèques",
+        "copied_from": "INS-11-21.fr"
+      },
+      "target_work_id": "REG-05-06"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "REG-05-06",
+      "reference": "règlement n°05-06 du 15 décembre 2005",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "a date de règlement applicable aux effets de commerce (lettre de change et billet à ordre) définie dans l’article 31 du règlement n°05-06 du 15 décembre 2005 portant sur la compensation des chèques",
+        "copied_from": "INS-11-21.fr"
+      }
+    }
+  ],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-11-21.ar",
+    "INS-11-21.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "ONE\nBANK OF ALGERIA\nINSTRUCTION N°11-2021, DU 1° DECEMBRE 2021,\nPORTANT MODIFICATION DE LA DATE DE REGLEMENT\nDES EFFETS DE COMMERCE\nArticle 1°’: la présente instruction a pour objet la modification de la date de règlement applicable aux effets de commerce (lettre de change et billet à ordre) définie dans l’article 31 du règlement n°05-06 du 15 décembre 2005 portant sur la compensation des chèques et autres instruments de paiement de masse et ce, conformément à l'article 57 du même règlement.",
+      "paragraphs": [
+        {
+          "text": "ONE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "INSTRUCTION N°11-2021, DU 1° DECEMBRE 2021,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "PORTANT MODIFICATION DE LA DATE DE REGLEMENT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DES EFFETS DE COMMERCE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Article 1°’: la présente instruction a pour objet la modification de la date de règlement applicable aux effets de commerce (lettre de change et billet à ordre) définie dans l’article 31 du règlement n°05-06 du 15 décembre 2005 portant sur la compensation des chèques et autres instruments de paiement de masse et ce, conformément à l'article 57 du même règlement.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "la date de règlement des effets de commerce est fixée au surlendemain du jour de présentation.",
+      "paragraphs": [
+        {
+          "text": "la date de règlement des effets de commerce est fixée au surlendemain du jour de présentation.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente Instruction prend effet, à compter de la date de sa signature.\nLe Gouverneur\nRosthom FADLI",
+      "paragraphs": [
+        {
+          "text": "La présente Instruction prend effet, à compter de la date de sa signature.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Rosthom FADLI",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "meme_texte_plusieurs_fichiers",
+      "ocr_utilise_verification_humaine",
+      "numerotation:premier_article=2"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.035,
+      "ocr_pages": [
+        1
+      ],
+      "ocr_mean_confidence": 93.3
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-11-21.fr~2.txt"
+}

@@ -1,0 +1,715 @@
+{
+  "document_id": "REG-12-01.ar",
+  "work_id": "REG-12-01",
+  "title": "نظام رقم 12-01 المؤرخ في 20 فبراير 2012، يتضمن تنظيم مركزية مخاطر المؤسسات والاسر وعملها.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "12-01",
+  "number_source": "libelle",
+  "date": "2012-02-20",
+  "date_raw": "المؤرخ في 20 فبراير 2012",
+  "date_source": "libelle",
+  "publication_date": "2023-02-28",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2023/03/Doc1.pdf",
+      "uploaded": "2023-03-16T14:30:53"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "règlements",
+  "subcategory": "مركزية المخاطر، المبالغ غير المدفوعة و الميزانيات و الشيكات بدون رصيد",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d9%85%d8%b1%d9%83%d8%b2%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d8%ae%d8%a7%d8%b7%d8%b1%d8%8c-%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d9%84%d8%ba-%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d8%af%d9%81%d9%88%d8%b9%d8%a9-2/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/02/Doc1.pdf",
+  "format": "pdf",
+  "file_hash": "02d82cd8a5e20ea7d79879c4553a45a022dbc96f0907855d0169d682e070cf12",
+  "file_size": 535248,
+  "raw_path": "raw/02d82cd8a5e2__Doc1.pdf",
+  "retrieved_at": "2026-10-05T13:29:09+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 2,
+  "url_hash": "57c3ca72c79a4596b39a10452d2346332f9d0bcc59f8054096018d96297a241a",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d9%85%d8%b1%d9%83%d8%b2%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d8%ae%d8%a7%d8%b7%d8%b1%d8%8c-%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d9%84%d8%ba-%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d8%af%d9%81%d9%88%d8%b9%d8%a9-2/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "author": "Ikram Blat.",
+    "creator": "Microsoft® Word 2016",
+    "producer": "Microsoft® Word 2016",
+    "creationDate": "D:20230228114908+01'00'",
+    "modDate": "D:20230228114908+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 1946,
+        "ocr_confidence": 76.04385964912281
+      },
+      {
+        "page": 2,
+        "method": "ocr",
+        "chars": 2606,
+        "ocr_confidence": 77.24593967517401
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 17,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine",
+    "numerotation:articles_manquants:[15, 17, 18, 19]"
+  ],
+  "title_document": "نظام رقم 01-12 مؤرخ في 27 ربيع الأول عام 1433 الموافق 20 فبراير سنة 2012 يتضمن تنظيم مركزية مخاطر المؤسسات و الأسر وعملها. الثانية عام 1424 الموافق 26 غشت سنة 2003 والمتعلق بالنقد و القرضء المعدل و المتممء لا سيما المادة 98 منه: الأول عام 1422 الموافق 2 Lis pui pe‏ 2001 والمتضمن - وبمقتضى المرسوم الرئاسي المؤرخ في 10 ربيع الأول عام 1422 الموافق 2 gas gs‏ سنة 2001 والمتضمن",
+  "alias_urls": [],
+  "text_hash": "6c669d9f60cb36e69a2d6ba8855a225d44b11b9975100071f944e9551de00270",
+  "relations_out": [
+    {
+      "relation": "remplace",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "92-01",
+        "date": "1992-03-22",
+        "raw": "règlement n°92-01 du 22 mars 1992"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "Le présent règlement annule et remplace le règlement n°92-01 du 22 mars 1992 portant organisation et fonctionnement",
+        "copied_from": "REG-12-01.fr"
+      },
+      "target_work_id": "REG-92-01"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [
+    {
+      "work_id": "REG-92-01",
+      "reference": "règlement n°92-01 du 22 mars 1992",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "Le présent règlement annule et remplace le règlement n°92-01 du 22 mars 1992 portant organisation et fonctionnement",
+        "copied_from": "REG-12-01.fr"
+      }
+    }
+  ],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-12-01.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "ocr_numeric_check": {
+    "units": 18,
+    "units_flagged": 0,
+    "units_compared_with_french": 17,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 16",
+      "number": "16",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 20",
+      "number": "20",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 21",
+      "number": "21",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "نظام رقم 01-12 مؤرخ في 27 ربيع الأول عام 1433 الموافق 20 فبراير سنة 2012 يتضمن تنظيم مركزية مخاطر المؤسسات و الأسر وعملها.\nالثانية عام 1424 الموافق 26 غشت سنة 2003 والمتعلق بالنقد و القرضء المعدل و المتممء لا سيما المادة 98 منه:\nالأول عام 1422 الموافق 2 Lis pui pe‏ 2001 والمتضمن\n- وبمقتضى المرسوم الرئاسي المؤرخ في 10 ربيع الأول عام 1422 الموافق 2 gas gs‏ سنة 2001 والمتضمن\n- وبمقتضى المرسوم الرئاسي المؤرخ في 10 ربيع الأول ه1422 Lino saisis 2 Sol‏ 2001 والمتشيمق تعيين عضو في مجلس ادارة بنك الجزائر»\n- وبمقتضى المرسوم الرئاسي المؤر خ في 5 جمادى 8e Sa;‏ 1412 المواقق 22 La‏ سحة 1992 cas‏ تنظيم مركزية المخاطر وعملهاء AND Lis برايو‎",
+      "paragraphs": [
+        {
+          "text": "نظام رقم 01-12 مؤرخ في 27 ربيع الأول عام 1433 الموافق 20 فبراير سنة 2012 يتضمن تنظيم مركزية مخاطر المؤسسات و الأسر وعملها.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الثانية عام 1424 الموافق 26 غشت سنة 2003 والمتعلق بالنقد و القرضء المعدل و المتممء لا سيما المادة 98 منه:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الأول عام 1422 الموافق 2 Lis pui pe‏ 2001 والمتضمن",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى المرسوم الرئاسي المؤرخ في 10 ربيع الأول عام 1422 الموافق 2 gas gs‏ سنة 2001 والمتضمن",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى المرسوم الرئاسي المؤرخ في 10 ربيع الأول ه1422 Lino saisis 2 Sol‏ 2001 والمتشيمق تعيين عضو في مجلس ادارة بنك الجزائر»",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى المرسوم الرئاسي المؤر خ في 5 جمادى 8e Sa;‏ 1412 المواقق 22 La‏ سحة 1992 cas‏ تنظيم مركزية المخاطر وعملهاء AND Lis برايو‎",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "ses‏ هذا النظام إلى تحديد مبادئ التي تدعى في صلب النص « مركزية المخاطر».\nتنقسم مسركزية المخاطر إلى قسسسين )2( بيسمسان المؤسسات» التي تسجل فيها المعطيات المتعلقة بالقروض الممنوحة للأشخاص المعنويين والأشخاص الطبيعيين الذين يمارسون نشاطا مهنيا بدون أجرء و« مركزية مخاطر الآسر» التي تسجل فيها المعطيات المتعلقة بالقروكى الممتوعة للأفراد.",
+      "paragraphs": [
+        {
+          "text": "ses‏ هذا النظام إلى تحديد مبادئ التي تدعى في صلب النص « مركزية المخاطر».",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "تنقسم مسركزية المخاطر إلى قسسسين )2( بيسمسان المؤسسات» التي تسجل فيها المعطيات المتعلقة بالقروض الممنوحة للأشخاص المعنويين والأشخاص الطبيعيين الذين يمارسون نشاطا مهنيا بدون أجرء و« مركزية مخاطر الآسر» التي تسجل فيها المعطيات المتعلقة بالقروكى الممتوعة للأفراد.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "مركزية LUS‏ مصلحة لمركزة المخاطر تكلف بالقيامء لدى JS‏ بنك وكل مؤؤسسة مالية على وجه الخصوص والتي تدعى في صلب النص الموّسسات ds ali‏ بجمع هوية المستفيدين من القروض وطبيعة وسقف القروض الممنوحة ومبلغ الانستعمالات ومبلغ SA‏ ير Las SARL USAGES SAUT‏",
+      "paragraphs": [
+        {
+          "text": "مركزية LUS‏ مصلحة لمركزة المخاطر تكلف بالقيامء لدى JS‏ بنك وكل مؤؤسسة مالية على وجه الخصوص والتي تدعى في صلب النص الموّسسات ds ali‏ بجمع هوية المستفيدين من القروض وطبيعة وسقف القروض الممنوحة ومبلغ الانستعمالات ومبلغ SA‏ ير Las SARL USAGES SAUT‏",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يتعين على المؤسسات المصرحة أن تنضم إلى مركزية SELON‏ لبنك الجزائر و تحصترم قواعد Le‏",
+      "paragraphs": [
+        {
+          "text": "يتعين على المؤسسات المصرحة أن تنضم إلى مركزية SELON‏ لبنك الجزائر و تحصترم قواعد Le‏",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تكلّف مركزية المخاطر بجمع ومعالجة وحفظ المسعلومات حول القروض البنكية وإعادتها إلى المؤسسات المصرحة: بعد كل عملية مركزة.",
+      "paragraphs": [
+        {
+          "text": "تكلّف مركزية المخاطر بجمع ومعالجة وحفظ المسعلومات حول القروض البنكية وإعادتها إلى المؤسسات المصرحة: بعد كل عملية مركزة.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يتعين على المؤسسات المصرحة أن تصرح المخصص للمؤسسات وفي قسمها المخصص للأسر»\nالقروض وسقف وقائم القروض él ds salt‏ مهما كان المبلغ؛ بعنوان العمليات التي أجريت على سسكوى سات كاياو 136 atlas) Bts At‏ الفقروض. وتسمى هذه le shall‏ معطيات إيجابية:\n- المبالغ غير المسسددة من قائم القروض con‏ وتسمى هذه المعلومات مغطيات سلبية.",
+      "paragraphs": [
+        {
+          "text": "يتعين على المؤسسات المصرحة أن تصرح المخصص للمؤسسات وفي قسمها المخصص للأسر»",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "القروض وسقف وقائم القروض él ds salt‏ مهما كان المبلغ؛ بعنوان العمليات التي أجريت على سسكوى سات كاياو 136 atlas) Bts At‏ الفقروض. وتسمى هذه le shall‏ معطيات إيجابية:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- المبالغ غير المسسددة من قائم القروض con‏ وتسمى هذه المعلومات مغطيات سلبية.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تصرح المؤسسات المصرحة شهريا بجميع القروس الستوحة Sal‏ سن مؤسسنات و أقرك سيب محل تصريح أيضا لمركزية المخاطصر وفق نفس الوتيرة per M RE‏ اسمن As‏",
+      "paragraphs": [
+        {
+          "text": "تصرح المؤسسات المصرحة شهريا بجميع القروس الستوحة Sal‏ سن مؤسسنات و أقرك سيب محل تصريح أيضا لمركزية المخاطصر وفق نفس الوتيرة per M RE‏ اسمن As‏",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "تقوم مركزية المخاطر شهريا بمركزة التصريحات المذكورة في المادة 5 أعلاه. وتعدٌ وتضع في متناول كل مؤسسة مصرحة نتائع عمليات المركزة المدوّنة في تقارير القرض المتعلقة بزبائتهاءعن طريق",
+      "paragraphs": [
+        {
+          "text": "تقوم مركزية المخاطر شهريا بمركزة التصريحات المذكورة في المادة 5 أعلاه. وتعدٌ وتضع في متناول كل مؤسسة مصرحة نتائع عمليات المركزة المدوّنة في تقارير القرض المتعلقة بزبائتهاءعن طريق",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "بغية تحديد هوية المقترضسين:؛ تقوم مركزية المخاطر عند تبادلها المعلومات مع Su sil‏ المصرحة؛ Joss‏ رقم els is as‏ بالأشخاص المعنويين والأشخاص الطبيعيين الذين يمارسون نشاطا مهنيا بدون أجرء ورقم تعريف خاص بالأفراد.",
+      "paragraphs": [
+        {
+          "text": "بغية تحديد هوية المقترضسين:؛ تقوم مركزية المخاطر عند تبادلها المعلومات مع Su sil‏ المصرحة؛ Joss‏ رقم els is as‏ بالأشخاص المعنويين والأشخاص الطبيعيين الذين يمارسون نشاطا مهنيا بدون أجرء ورقم تعريف خاص بالأفراد.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "تستعمل نتائج عمليات المركزة المذكورة في المادة 7 أعلاه. من طرف الموّسبسات المصرحة في إطار منح وتسيير قفروض زبائنها. ولا يمكن: سآي حال من الأحوال: استخدام هذه المعلومات لأغراض أخرى:\nولا سيمافي البحث عن الأسواق التجارية أو pd‏",
+      "paragraphs": [
+        {
+          "text": "تستعمل نتائج عمليات المركزة المذكورة في المادة 7 أعلاه. من طرف الموّسبسات المصرحة في إطار منح وتسيير قفروض زبائنها. ولا يمكن: سآي حال من الأحوال: استخدام هذه المعلومات لأغراض أخرى:",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "ولا سيمافي البحث عن الأسواق التجارية أو pd‏",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "يجب على المؤسسات المصرحة أن تبلغ التصريح بالقروضء بكل مسعلومة مهمة طرأت على وضعية المقترض كتعديل القانون الأساسي للشركة عند الاقتضاء: أو penis‏ العنؤان أو أ مغلوهة أخرى قد",
+      "paragraphs": [
+        {
+          "text": "يجب على المؤسسات المصرحة أن تبلغ التصريح بالقروضء بكل مسعلومة مهمة طرأت على وضعية المقترض كتعديل القانون الأساسي للشركة عند الاقتضاء: أو penis‏ العنؤان أو أ مغلوهة أخرى قد",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "المؤسسات المصرحة مسؤولة تجاه بنك الجزاشر عن دقة و وضسوح وتناسق المعلوهات il‏ ترسلها إلى مركزية المخاطر. وهي مسؤولة Lui‏ عن الحماية والحفظ والإرسال الداخلي للمعطيات التي تتلقاها من مركزية المخاطر.",
+      "paragraphs": [
+        {
+          "text": "المؤسسات المصرحة مسؤولة تجاه بنك الجزاشر عن دقة و وضسوح وتناسق المعلوهات il‏ ترسلها إلى مركزية المخاطر. وهي مسؤولة Lui‏ عن الحماية والحفظ والإرسال الداخلي للمعطيات التي تتلقاها من مركزية المخاطر.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "يتعين على المؤسسات المصرحة أن تعلم زبائنها بالتصريح والتسجيل على مستوى مركزية توضح على الخصوص الغاية من معالجة هذه البيانات من طرف مسركزية المخاطسرء ووجود حق في الاطلاع وقسميم :وإلقك الملعظيات و عَذَا بال الاستفاظ بهذه الأعطنات, زبائنها؛ من مؤسسات وآأفرادء عند التصريح بهم لأول مرة. الى مركزية المخاطر بعدم تسديد القروض.",
+      "paragraphs": [
+        {
+          "text": "يتعين على المؤسسات المصرحة أن تعلم زبائنها بالتصريح والتسجيل على مستوى مركزية توضح على الخصوص الغاية من معالجة هذه البيانات من طرف مسركزية المخاطسرء ووجود حق في الاطلاع وقسميم :وإلقك الملعظيات و عَذَا بال الاستفاظ بهذه الأعطنات, زبائنها؛ من مؤسسات وآأفرادء عند التصريح بهم لأول مرة. الى مركزية المخاطر بعدم تسديد القروض.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "يتعين على المؤسسات المصرحة أن Se palin‏ اللغاظن قبل مشع قوض الزبون جديد.",
+      "paragraphs": [
+        {
+          "text": "يتعين على المؤسسات المصرحة أن Se palin‏ اللغاظن قبل مشع قوض الزبون جديد.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "تتسم المعطيات التى تبلّغها مركزية المغاطرء بالسرية LA‏ وتكون مخضصصة للمؤسسة المصرحة المرسلة إليها. ويجب على المؤسسات المصرحة التي حصلت على معلومات من مركزية المخاطر أن تتخذ التدابير اللازمة لضمان طابعها السري.\nتضحيع المقطيات المغلوطة:\nويمكن المقترض أيضا ممارسة حق الاطلاع هذا لدى مجنب تلن malt‏ الضرحة pans TJS‏ المعطيات» إرسالها مصنححة إلى مركزية المغاطر التي تقوم alels‏ المؤسسنات المضترحة التي اطلغت على تقرير الفرشن الفلض بالويون cpl‏",
+      "paragraphs": [
+        {
+          "text": "تتسم المعطيات التى تبلّغها مركزية المغاطرء بالسرية LA‏ وتكون مخضصصة للمؤسسة المصرحة المرسلة إليها. ويجب على المؤسسات المصرحة التي حصلت على معلومات من مركزية المخاطر أن تتخذ التدابير اللازمة لضمان طابعها السري.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "تضحيع المقطيات المغلوطة:",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "ويمكن المقترض أيضا ممارسة حق الاطلاع هذا لدى مجنب تلن malt‏ الضرحة pans TJS‏ المعطيات» إرسالها مصنححة إلى مركزية المغاطر التي تقوم alels‏ المؤسسنات المضترحة التي اطلغت على تقرير الفرشن الفلض بالويون cpl‏",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 16",
+      "number": "16",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "يجب أن لا تقل هدة الاحتفاظ بالمعطيات المصرحة بها عن خمس (5) سنوات. ويبدأ سريان هذه المدة ابتداء من تاريخ انقضاء الدين بالنسبة لتصريحات المعطيات الإيجابية وابتداء من تار يخ التصريح بعارض الدفع الخاص بالقرض بالنسبة SL‏ 17 : تتحمل المؤسسات المصرحة التكاليف المباشرة لمركزية المخاطر. ويحدد بنك الجزائر اإجراء وتعريفة تسعير الخدمات المقدمة من مركزية المخاطر.\nالملدة 19 : تلفى أحكام النظام رقم 01-92 المؤرخ فى 22 سارس Lin‏ 1992 والمتضمن تنظيم مسركزية المخاطر و عملها.",
+      "paragraphs": [
+        {
+          "text": "يجب أن لا تقل هدة الاحتفاظ بالمعطيات المصرحة بها عن خمس (5) سنوات. ويبدأ سريان هذه المدة ابتداء من تاريخ انقضاء الدين بالنسبة لتصريحات المعطيات الإيجابية وابتداء من تار يخ التصريح بعارض الدفع الخاص بالقرض بالنسبة SL‏ 17 : تتحمل المؤسسات المصرحة التكاليف المباشرة لمركزية المخاطر. ويحدد بنك الجزائر اإجراء وتعريفة تسعير الخدمات المقدمة من مركزية المخاطر.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "الملدة 19 : تلفى أحكام النظام رقم 01-92 المؤرخ فى 22 سارس Lin‏ 1992 والمتضمن تنظيم مسركزية المخاطر و عملها.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 20",
+      "number": "20",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "تحدد كيفيات تطبيق هذا النظام بتعليسات مين تك sad‏",
+      "paragraphs": [
+        {
+          "text": "تحدد كيفيات تطبيق هذا النظام بتعليسات مين تك sad‏",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 21",
+      "number": "21",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "ينشر هذا النظام فى الجريدة الرسمية للجمهورية الجزائرية الديمقراطية الشعبية.\nحرّر بالجزاشر في 27 ربيع الأول ple‏ 1433 المؤاقق Lis 501 593 20‏ 2012 يحب لساسي",
+      "paragraphs": [
+        {
+          "text": "ينشر هذا النظام فى الجريدة الرسمية للجمهورية الجزائرية الديمقراطية الشعبية.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "حرّر بالجزاشر في 27 ربيع الأول ple‏ 1433 المؤاقق Lis 501 593 20‏ 2012 يحب لساسي",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine",
+      "numerotation:articles_manquants:[15, 17, 18, 19]"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.033,
+      "ocr_pages": [
+        1,
+        2
+      ],
+      "ocr_mean_confidence": 76.6
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/REG-12-01.ar.txt"
+}

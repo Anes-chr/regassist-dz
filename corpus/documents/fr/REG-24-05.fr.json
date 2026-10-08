@@ -1,0 +1,569 @@
+{
+  "document_id": "REG-24-05.fr",
+  "work_id": "REG-24-05",
+  "title": "Règlement n°24-05 du 13 octobre 2024 modifiant et complétant le règlement n°16-02 du 21 avril 2016 fixant le seuil de déclaration d’importation et d’exportation de billets de banque et/ou d’instruments négociables libelles en monnaies étrangères librement convertibles, par les résidents et les non-résidents",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "24-05",
+  "number_source": "en-tête du document",
+  "date": "2024-10-13",
+  "date_raw": "CORRESPONDANT AU 13 OCTOBRE 2024",
+  "date_source": "en-tête du document",
+  "publication_date": "2024-11-24",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Règlementation des changes",
+  "source_url": "https://www.bank-of-algeria.dz/devises-reglement/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2024/11/REG.24-05.FR_.pdf",
+  "format": "pdf",
+  "file_hash": "61ae18c74e4cbce5ea5fda8ae68d35ad5da782cdc15e03cfe5e097cfe16d66e2",
+  "file_size": 88130,
+  "raw_path": "raw/61ae18c74e4c__REG.24-05.FR_.pdf",
+  "retrieved_at": "2026-10-05T13:31:03+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "2dba0b588c95db726092bb7cc026dcc74f981458e476540e6ef6655c47762cd1",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/devises-reglement/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - REG.24-05.FR.",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20241124160339+01'00'",
+    "modDate": "D:20241124160339+01'00'"
+  },
+  "hijri_date_raw": "14 Rabie Ethani 1441",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 3212,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 1415,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 3,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "REGLEMENT N°24-05 DU 10 RABIE ETHANI 1446 CORRESPONDANT AU 13 OCTOBRE 2024 MODIFIANT ET COMPLETANT LE REGLEMENT N°16- 02 DU 13 RAJAB 1437 DU 21 AVRIL 2016 FIXANT LE SEUIL DE DECLARATION D’IMPORTATION ET D’EXPORTATION DE BILLETS DE BANQUE ET/OU D’INSTRUMENTS NEGOCIABLES LIBELLES EN MONNAIES ETRANGERES LIBREMENT CONVERTIBLES, PAR LES RESIDENTS ET LES NON-RESIDENTS",
+  "alias_urls": [],
+  "text_hash": "f82199f0b1aac4f2a858c52c102aa223be369b4f75562560749bed785bf79e3d",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "16-02",
+        "date": "2016-04-21",
+        "raw": "règlement n°16-02 du 21 avril 2016"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°24-05 du 13 octobre 2024 modifiant et complétant le règlement n°16-02 du 21 avril 2016 fixant le seuil de déclaration d’import"
+      },
+      "target_work_id": "REG-16-02"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "16-02",
+        "date": "2016-04-21",
+        "raw": "règlement n°16-02 du 21 avril 2016"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°24-05 du 13 octobre 2024 modifiant et complétant le règlement n°16-02 du 21 avril 2016 fixant le seuil de déclaration d’import"
+      },
+      "target_work_id": "REG-16-02"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "16-02",
+        "date": null,
+        "raw": "règlement n°16-02 du 13 Rajab 1437"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter les dispositions du règlement n°16-02 du 13 Rajab 1437 correspondant au 21 avril 2016 fixant l"
+      },
+      "target_work_id": "REG-16-02"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "16-02",
+        "date": null,
+        "raw": "règlement n°16-02 du 13 Rajab 1437"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter les dispositions du règlement n°16-02 du 13 Rajab 1437 correspondant au 21 avril 2016 fixant l"
+      },
+      "target_work_id": "REG-16-02"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "REG-16-02",
+      "reference": "règlement n°16-02 du 21 avril 2016",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°24-05 du 13 octobre 2024 modifiant et complétant le règlement n°16-02 du 21 avril 2016 fixant le seuil de déclaration d’import"
+      }
+    },
+    {
+      "work_id": "REG-16-02",
+      "reference": "règlement n°16-02 du 13 Rajab 1437",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter les dispositions du règlement n°16-02 du 13 Rajab 1437 correspondant au 21 avril 2016 fixant l"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "REG-16-02",
+      "reference": "règlement n°16-02 du 21 avril 2016",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°24-05 du 13 octobre 2024 modifiant et complétant le règlement n°16-02 du 21 avril 2016 fixant le seuil de déclaration d’import"
+      }
+    },
+    {
+      "work_id": "REG-16-02",
+      "reference": "règlement n°16-02 du 13 Rajab 1437",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter les dispositions du règlement n°16-02 du 13 Rajab 1437 correspondant au 21 avril 2016 fixant l"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-24-05.ar"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "REG-16-02",
+      "reference": "règlement n°16-02 du 21 avril 2016",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°24-05 du 13 octobre 2024 modifiant et complétant le règlement n°16-02 du 21 avril 2016 fixant le seuil de déclaration d’import"
+      }
+    },
+    {
+      "work_id": "REG-16-02",
+      "reference": "règlement n°16-02 du 13 Rajab 1437",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter les dispositions du règlement n°16-02 du 13 Rajab 1437 correspondant au 21 avril 2016 fixant l"
+      }
+    }
+  ],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "p. 1\nREGLEMENT N°24-05 DU 10 RABIE ETHANI 1446 CORRESPONDANT AU 13 OCTOBRE 2024 MODIFIANT ET COMPLETANT LE REGLEMENT N°16- 02 DU 13 RAJAB 1437 DU 21 AVRIL 2016 FIXANT LE SEUIL DE\nDECLARATION D’IMPORTATION ET D’EXPORTATION DE BILLETS DE\nBANQUE ET/OU D’INSTRUMENTS NEGOCIABLES LIBELLES EN\nMONNAIES ETRANGERES LIBREMENT CONVERTIBLES, PAR LES\nRESIDENTS ET LES NON-RESIDENTS\nLe Gouverneur de la Banque d’Algérie, -\nVu Loi n° 19-14 du 14 Rabie Ethani 1441 correspondant au 11 décembre 2019 portant loi de finances pour 2020, notamment son article 119 ;\n-\nVu la loi n° 23-09 du 3 Dhou El Hidja 1444 correspondant au 21 juin 2023 portant\nLoi monétaire et bancaire, notamment ses articles 35, 64 (m) et 145 ;\n-\nVu la loi n° 23-22 du 11 Joumada Ethania 1445 correspondant au 24 décembre 2023 portant loi de finances pour 2024, notamment son article 81 ;\n-\nVu le décret présidentiel du 22 Chaoual 1443 correspondant au 23 mai 2022 portant nomination du Gouverneur de la Banque d’Algérie ;\n-\nVu le décret présidentiel du 5 Safar 1437 correspondant au 17 novembre 2015 portant nomination de membres du conseil d’administration de la Banque d’Algérie ;\n-\nVu le décret présidentiel du 18 Rabie Ethani 1441 correspondant au 15 décembre 2019 portant nomination de vice-gouverneurs de la Banque d’Algérie ;\n-\nVu le décret présidentiel du 6 Ramadhan 1443 correspondant au 7 avril 2022 portant nomination de membres du conseil d’administration de la Banque d’Algérie ;\n-\nVu le décret présidentiel du 12 Joumada El Oula 1444 correspondant au 6 décembre 2022 portant nomination d’un membre du conseil de la monnaie et du crédit ;\n-\nVu le décret présidentiel du 18 Joumada Ethania 1445 correspondant au 31 décembre 2023 portant nomination de vice-gouverneurs de la Banque d’Algérie ;\n-\nVu le décret présidentiel du 4 Chaâbane 1445 correspondant au 14 février 2024 portant nomination d’un membre du conseil d’administration de la Banque d’Algérie ;\n-\nVu le règlement n°07-01 du 15 Moharram 1428 correspondant au 3 février 2007, modifié et complété, relatif aux règles applicables aux transactions courantes avec l'étranger et aux comptes devises ;\n-\nVu le règlement n°2016-02 du 13 Rajab 1437 correspondant au 21 avril 2016 fixant le seuil de déclaration d’importation et d’exportation de billets de banque et/ou d’instruments négociables libellés en monnaies étrangères librement convertibles, par les résidents et les non-résidents -\nVu le règlement n°20-04 du 20 Rajab 1441 correspondant au 15 mars 2020 relatif au marché interbancaire des changes, des opérations de trésorerie devise et aux instruments de couverture du risque de change ;\n-\nVu le règlement n° 23-01 du 5 Rabie El Aouel 1445 correspondant au 21 septembre 2023 relatif aux conditions d’autorisation de constitution, d’agrément et d’exercice des bureaux de change ;\n-\nVu le règlement n° 24-03 du 18 Moharram 1446 correspondant au 24 juillet 2024 relatif à la prévention et à la lutte contre le blanchiment d'argent, le financement du terrorisme et le financement de la prolifération des armes de destruction massive.\nAprès délibération du Conseil monétaire et bancaire en date du 13 octobre 2024 ;\np. 2\nPromulgue le règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "p. 1",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "REGLEMENT N°24-05 DU 10 RABIE ETHANI 1446 CORRESPONDANT AU 13 OCTOBRE 2024 MODIFIANT ET COMPLETANT LE REGLEMENT N°16- 02 DU 13 RAJAB 1437 DU 21 AVRIL 2016 FIXANT LE SEUIL DE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DECLARATION D’IMPORTATION ET D’EXPORTATION DE BILLETS DE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANQUE ET/OU D’INSTRUMENTS NEGOCIABLES LIBELLES EN",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "MONNAIES ETRANGERES LIBREMENT CONVERTIBLES, PAR LES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "RESIDENTS ET LES NON-RESIDENTS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d’Algérie, -",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Vu Loi n° 19-14 du 14 Rabie Ethani 1441 correspondant au 11 décembre 2019 portant loi de finances pour 2020, notamment son article 119 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Vu la loi n° 23-09 du 3 Dhou El Hidja 1444 correspondant au 21 juin 2023 portant",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Loi monétaire et bancaire, notamment ses articles 35, 64 (m) et 145 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Vu la loi n° 23-22 du 11 Joumada Ethania 1445 correspondant au 24 décembre 2023 portant loi de finances pour 2024, notamment son article 81 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Vu le décret présidentiel du 22 Chaoual 1443 correspondant au 23 mai 2022 portant nomination du Gouverneur de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Vu le décret présidentiel du 5 Safar 1437 correspondant au 17 novembre 2015 portant nomination de membres du conseil d’administration de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Vu le décret présidentiel du 18 Rabie Ethani 1441 correspondant au 15 décembre 2019 portant nomination de vice-gouverneurs de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Vu le décret présidentiel du 6 Ramadhan 1443 correspondant au 7 avril 2022 portant nomination de membres du conseil d’administration de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Vu le décret présidentiel du 12 Joumada El Oula 1444 correspondant au 6 décembre 2022 portant nomination d’un membre du conseil de la monnaie et du crédit ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Vu le décret présidentiel du 18 Joumada Ethania 1445 correspondant au 31 décembre 2023 portant nomination de vice-gouverneurs de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Vu le décret présidentiel du 4 Chaâbane 1445 correspondant au 14 février 2024 portant nomination d’un membre du conseil d’administration de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Vu le règlement n°07-01 du 15 Moharram 1428 correspondant au 3 février 2007, modifié et complété, relatif aux règles applicables aux transactions courantes avec l'étranger et aux comptes devises ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Vu le règlement n°2016-02 du 13 Rajab 1437 correspondant au 21 avril 2016 fixant le seuil de déclaration d’importation et d’exportation de billets de banque et/ou d’instruments négociables libellés en monnaies étrangères librement convertibles, par les résidents et les non-résidents -",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Vu le règlement n°20-04 du 20 Rajab 1441 correspondant au 15 mars 2020 relatif au marché interbancaire des changes, des opérations de trésorerie devise et aux instruments de couverture du risque de change ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Vu le règlement n° 23-01 du 5 Rabie El Aouel 1445 correspondant au 21 septembre 2023 relatif aux conditions d’autorisation de constitution, d’agrément et d’exercice des bureaux de change ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Vu le règlement n° 24-03 du 18 Moharram 1446 correspondant au 24 juillet 2024 relatif à la prévention et à la lutte contre le blanchiment d'argent, le financement du terrorisme et le financement de la prolifération des armes de destruction massive.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Après délibération du Conseil monétaire et bancaire en date du 13 octobre 2024 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "p. 2",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Promulgue le règlement dont la teneur suit :",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le présent règlement a pour objet de modifier et de compléter les dispositions du règlement n°16-02 du 13 Rajab 1437 correspondant au 21 avril 2016 fixant le seuil de déclaration d’importation et d’exportation de billets de banque et/ou d’instruments négociables libellés en monnaies étrangères librement convertibles, par les résidents et les non-résidents.",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement a pour objet de modifier et de compléter les dispositions du règlement n°16-02 du 13 Rajab 1437 correspondant au 21 avril 2016 fixant le seuil de déclaration d’importation et d’exportation de billets de banque et/ou d’instruments négociables libellés en monnaies étrangères librement convertibles, par les résidents et les non-résidents.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les dispositions de l’article 5 du règlement n°16-02 du 13 Rajab 1437 correspondant au 21 avril 2016 susvisé, sont modifiées, complétées et rédigé comme suit:\n« Art. 5. — Nonobstant les dispositions de l’article 4 ci-dessus, les voyageurs résidents et non-résidents sortant d’Algérie sont autorisés à exporter :\n- un montant maximum en espèces égal à sept mille cinq cent (7 500) Euros ou son équivalent dans une autre monnaie étrangère au titre de chaque année civile, sous réserve de la présentation d’un avis de débit bancaire pour tout prélèvement dépassant les seuils de déclaration définis par la réglementation en vigueur, effectué sur un compte devise ouvert en Algérie ;\n- tout montant couvert par une autorisation de change de la Banque d’Algérie ;\n- les cartes bancaires internationales ».",
+      "paragraphs": [
+        {
+          "text": "Les dispositions de l’article 5 du règlement n°16-02 du 13 Rajab 1437 correspondant au 21 avril 2016 susvisé, sont modifiées, complétées et rédigé comme suit:",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "« Art. 5. — Nonobstant les dispositions de l’article 4 ci-dessus, les voyageurs résidents et non-résidents sortant d’Algérie sont autorisés à exporter :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- un montant maximum en espèces égal à sept mille cinq cent (7 500) Euros ou son équivalent dans une autre monnaie étrangère au titre de chaque année civile, sous réserve de la présentation d’un avis de débit bancaire pour tout prélèvement dépassant les seuils de déclaration définis par la réglementation en vigueur, effectué sur un compte devise ouvert en Algérie ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- tout montant couvert par une autorisation de change de la Banque d’Algérie ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les cartes bancaires internationales ».",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le présent règlement sera publié au Journal officiel de la République algérienne démocratique et populaire.\nLe Gouverneur\nSalah-Eddine TALEB",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement sera publié au Journal officiel de la République algérienne démocratique et populaire.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Salah-Eddine TALEB",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.038
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-24-05.fr.txt"
+}

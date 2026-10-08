@@ -1,0 +1,342 @@
+{
+  "document_id": "INS-02-08.fr",
+  "work_id": "INS-02-08",
+  "title": "Instruction n°02-2008 du 11 mars 2008 modifiant l’instruction n°01-05 relative au régime des réserves obligatoires.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "02-2008",
+  "number_source": "en-tête du document",
+  "date": "2008-03-11",
+  "date_raw": "N°02-2008 DU 11 MARS 2008",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-02",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Instruments de la politique monétaire",
+  "source_url": "https://www.bank-of-algeria.dz/marche-monetaire-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/02/instruction022008.pdf",
+  "format": "pdf",
+  "file_hash": "9cf63913b43321a3290074ec6b6c51e7e8aa84ce6ce7151f29451fe72ac709bd",
+  "file_size": 50651,
+  "raw_path": "raw/9cf63913b433__instruction022008.pdf",
+  "retrieved_at": "2026-10-05T13:20:13+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "af603dd1c5a24a0a02255f3fce5a69a0f9ed099916311eba8701d7c7e16fbe0a",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-2008/",
+    "https://www.bank-of-algeria.dz/marche-monetaire-instruction/",
+    "https://www.bank-of-algeria.dz/reserves-instruction-2/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Microsoft Word - instruction022008",
+    "author": "chahra.yahiaoui",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "creationDate": "D:20210211144417+01'00'",
+    "modDate": "D:20210211144417+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 525,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 3,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°02-2008 DU 11 MARS 2008 MODIFIANT L’INSTRUCTION 01-05 RELATIVE AU REGIME DES RESERVES OBLIGATOIRES",
+  "alias_urls": [],
+  "text_hash": "5c7082196fcbd94b041bcb67da0f644217469a11f9df1ae3e9efddc247023724",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "01-05",
+        "date": null,
+        "raw": "instruction n°01-05"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°02-2008 du 11 mars 2008 modifiant l’instruction n°01-05 relative au régime des réserves obligat"
+      },
+      "target_work_id": "INS-01-05"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "01-05",
+        "date": null,
+        "raw": "instruction n°01-05"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier le taux de rémunération visé à l’article 2 de l’instruction n°01-05 relative au régime des réserves obligat"
+      },
+      "target_work_id": "INS-01-05"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-01-05",
+      "reference": "instruction n°01-05",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°02-2008 du 11 mars 2008 modifiant l’instruction n°01-05 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-01-05",
+      "reference": "instruction n°01-05",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier le taux de rémunération visé à l’article 2 de l’instruction n°01-05 relative au régime des réserves obligat"
+      }
+    }
+  ],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [
+    {
+      "work_id": "INS-03-09",
+      "document_id": "INS-03-09.fr",
+      "date": "2009-02-25",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°03-2009 du 25 février 2009 modifiant l’instruction n°02-2008 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-03-09",
+      "document_id": "INS-03-09.fr",
+      "date": "2009-02-25",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier le taux de rémunération visé à l'article 2 de l’instruction n°02-08 relative au régime des réserves obligat"
+      }
+    }
+  ],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée. Ce texte a été modifié/complété : consulter aussi les textes listés dans modifié_par / complété_par.",
+  "same_work_documents": [
+    "INS-02-08.ar"
+  ],
+  "complété_par": [],
+  "modifié_par": [
+    {
+      "work_id": "INS-03-09",
+      "document_id": "INS-03-09.fr",
+      "date": "2009-02-25",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°03-2009 du 25 février 2009 modifiant l’instruction n°02-2008 relative au régime des réserves obligat"
+      }
+    },
+    {
+      "work_id": "INS-03-09",
+      "document_id": "INS-03-09.fr",
+      "date": "2009-02-25",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier le taux de rémunération visé à l'article 2 de l’instruction n°02-08 relative au régime des réserves obligat"
+      }
+    }
+  ],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°02-2008 DU 11 MARS 2008 MODIFIANT\nL’INSTRUCTION 01-05 RELATIVE AU\nREGIME DES RESERVES OBLIGATOIRES",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°02-2008 DU 11 MARS 2008 MODIFIANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L’INSTRUCTION 01-05 RELATIVE AU",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "REGIME DES RESERVES OBLIGATOIRES",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction a pour objet de modifier le taux de rémunération visé à l’article 2 de l’instruction n°01-05 relative au régime des réserves obligatoires.",
+      "paragraphs": [
+        {
+          "text": "La présente instruction a pour objet de modifier le taux de rémunération visé à l’article 2 de l’instruction n°01-05 relative au régime des réserves obligatoires.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le taux de rémunération des réserves obligatoires est fixé à 0,75% par an.",
+      "paragraphs": [
+        {
+          "text": "Le taux de rémunération des réserves obligatoires est fixé à 0,75% par an.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction entre en application à compter du 15 mars 2008.\nLe Gouverneur\nMohammed LAKSACI\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "La présente instruction entre en application à compter du 15 mars 2008.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.037
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-02-08.fr.txt"
+}

@@ -1,0 +1,227 @@
+{
+  "document_id": "INS-05-99.fr~2",
+  "work_id": "INS-05-99",
+  "title": "Instruction n°05-99 du 09 septembre 1999 fixant le taux de réescompte.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "05-99",
+  "number_source": "en-tête du document",
+  "date": "1999-09-09",
+  "date_raw": "N°05-99 DU 09 SEPTEMBRE 1999",
+  "date_source": "en-tête du document",
+  "publication_date": "2023-01-24",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Instruments de la politique monétaire",
+  "source_url": "https://www.bank-of-algeria.dz/marche-monetaire-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction0599.pdf",
+  "format": "pdf",
+  "file_hash": "ab4341188ac6c047080ad988e4cab288f15c10a674f3aa84c71a12f54ed820a4",
+  "file_size": 32162,
+  "raw_path": "raw/ab4341188ac6__instruction0599.pdf",
+  "retrieved_at": "2026-10-05T13:26:06+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "e0d4ef16d62c5c7532b7df684949416020b76140d14e4c7b1c4902c9e7b8bbac",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/marche-monetaire-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Abdelaziz Djerad-tab",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200819094135+01'00'",
+    "modDate": "D:20200819094135+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 397,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": false,
+    "article_count": 0,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "meme_texte_plusieurs_fichiers"
+  ],
+  "title_document": "INSTRUCTION N°05-99 DU 09 SEPTEMBRE 1999 FIXANT LE TAUX DE REESCOMPTE",
+  "alias_urls": [],
+  "text_hash": "2cc8fd9fe16cc90733691676e317b4041b0cefa3f9e7a842ad548cb4b1d262a8",
+  "relations_out": [
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "01-98",
+        "date": "1998-02-08",
+        "raw": "instruction n°01-98 du 08 février 1998"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "date du 09 septembre 1999, le taux de réescompte est fixé à 8,5 %. La présente instruction abroge les dispositions de l'instruction n°01-98 du 08 février 1998 et entre en vigueur à compter du 09 sep"
+      },
+      "target_work_id": "INS-01-98"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "INS-01-98",
+      "reference": "instruction n°01-98 du 08 février 1998",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "date du 09 septembre 1999, le taux de réescompte est fixé à 8,5 %. La présente instruction abroge les dispositions de l'instruction n°01-98 du 08 février 1998 et entre en vigueur à compter du 09 sep"
+      }
+    }
+  ],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [
+    {
+      "work_id": "INS-01-00",
+      "document_id": "INS-01-00.fr",
+      "date": "2000-01-26",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "en date du 26 janvier 2000, le taux de réescompte est fixé à 7,5%. La présente Instruction abroge les dispositions de l'instruction n°05-99 du 09 septembre 1999 et entre en vigueur à compter du 27 jan"
+      }
+    }
+  ],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "INS-01-00",
+      "document_id": "INS-01-00.fr",
+      "date": "2000-01-26",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "en date du 26 janvier 2000, le taux de réescompte est fixé à 7,5%. La présente Instruction abroge les dispositions de l'instruction n°05-99 du 09 septembre 1999 et entre en vigueur à compter du 27 jan"
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [
+    "INS-05-99.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [
+    {
+      "work_id": "INS-01-00",
+      "document_id": "INS-01-00.fr",
+      "date": "2000-01-26",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "en date du 26 janvier 2000, le taux de réescompte est fixé à 7,5%. La présente Instruction abroge les dispositions de l'instruction n°05-99 du 09 septembre 1999 et entre en vigueur à compter du 27 jan"
+      }
+    }
+  ],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°05-99 DU 09 SEPTEMBRE 1999\nFIXANT LE TAUX DE REESCOMPTE\nEn application de la délibération du Conseil de la Monnaie et du Crédit en date du 09 septembre 1999, le taux de réescompte est fixé à 8,5 %.\nLa présente instruction abroge les dispositions de l'instruction n°01-98 du 08 février 1998 et entre en vigueur à compter du 09 septembre 1999.\nLe Gouverneur\nAbdelouahab KERAMANE",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°05-99 DU 09 SEPTEMBRE 1999",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "FIXANT LE TAUX DE REESCOMPTE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "En application de la délibération du Conseil de la Monnaie et du Crédit en date du 09 septembre 1999, le taux de réescompte est fixé à 8,5 %.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La présente instruction abroge les dispositions de l'instruction n°01-98 du 08 février 1998 et entre en vigueur à compter du 09 septembre 1999.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "meme_texte_plusieurs_fichiers"
+    ],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.031
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-05-99.fr~2.txt"
+}

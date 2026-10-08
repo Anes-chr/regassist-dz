@@ -1,0 +1,2418 @@
+{
+  "document_id": "REG-92-04.fr",
+  "work_id": "REG-92-04",
+  "title": "Règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "92-04",
+  "number_source": "en-tête du document",
+  "date": "1992-03-22",
+  "date_raw": "N°92-04 DU 22 MARS 1992",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/reglement9204.pdf",
+      "uploaded": "2023-01-25T11:58:20"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Année 1992",
+  "source_url": "https://www.bank-of-algeria.dz/reglement-1992/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement9204.pdf",
+  "format": "pdf",
+  "file_hash": "f2275957eef06cd1ea666a841bdf7da1447312cf9b29257efeb0d67baf86ec40",
+  "file_size": 74346,
+  "raw_path": "raw/f2275957eef0__reglement9204.pdf",
+  "retrieved_at": "2026-10-05T13:23:10+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 7,
+  "url_hash": "b8d1c3625ac55b240b6dfadf1f72b266afb9a277a9ef3a00663313856495d094",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/devises-reglement/",
+    "https://www.bank-of-algeria.dz/reglement-1992/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document2",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200708110000+01'00'",
+    "modDate": "D:20200708110000+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 7,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2427,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 2973,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 2507,
+        "ocr_confidence": null
+      },
+      {
+        "page": 4,
+        "method": "pdf_text",
+        "chars": 2634,
+        "ocr_confidence": null
+      },
+      {
+        "page": 5,
+        "method": "pdf_text",
+        "chars": 2863,
+        "ocr_confidence": null
+      },
+      {
+        "page": 6,
+        "method": "pdf_text",
+        "chars": 2938,
+        "ocr_confidence": null
+      },
+      {
+        "page": 7,
+        "method": "pdf_text",
+        "chars": 2301,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 50,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "REGLEMENT N°92-04 DU 22 MARS 1992 RELATIF AU CONTROLE DES CHANGES",
+  "alias_urls": [
+    {
+      "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/reglement9204.pdf",
+      "source_url": "https://www.bank-of-algeria.dz/devises-reglement/",
+      "title": "Règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes."
+    }
+  ],
+  "text_hash": "4a9828e8f165c82e1d49938bb2748cf341f9863e3e3f85fec176fbcb9e972778",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [
+    {
+      "work_id": "REG-95-07",
+      "document_id": "REG-95-07.fr",
+      "date": "1995-12-23",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 6,
+        "quote": "Les dispositions du règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes ainsi q"
+      }
+    }
+  ],
+  "modifie_par": [
+    {
+      "work_id": "NOT-01-01",
+      "document_id": "NOT-01-01.fr",
+      "date": "2001-01-25",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "itée en objet, prise en application de l'article 36 du règlement n°95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes et l'ar"
+      }
+    },
+    {
+      "work_id": "NOT-16-01",
+      "document_id": "NOT-16-01.fr",
+      "date": "2001-08-05",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": ": Importations de services Réf : Articles 37 et 40 du règlement n°95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes."
+      }
+    },
+    {
+      "work_id": "NOT-40-00",
+      "document_id": "NOT-40-00.fr",
+      "date": "2000-05-31",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "INTERMEDIAIRES AGREES Par dérogation à l'article 37 du règlement n°95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes, la pré"
+      }
+    },
+    {
+      "work_id": "REG-95-07",
+      "document_id": "REG-95-07.fr",
+      "date": "1995-12-23",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n° 92-04 du 22 mars 1992 relatif au contrôle des changes."
+      }
+    }
+  ],
+  "complete_par": [],
+  "remplace_par": [
+    {
+      "work_id": "REG-95-07",
+      "document_id": "REG-95-07.fr",
+      "date": "1995-12-23",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "REGLEMENT N°95-07 DU 23 DECEMBRE 1995 MODIFIANT ET REMPLACANT LE REGLEMENT N°92-04 DU 22 MARS 1992 RELATIF AU CONTROLE DES CHANGES"
+      }
+    }
+  ],
+  "status": "abrogé",
+  "status_evidence": [
+    {
+      "work_id": "REG-95-07",
+      "document_id": "REG-95-07.fr",
+      "date": "1995-12-23",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "REGLEMENT N°95-07 DU 23 DECEMBRE 1995 MODIFIANT ET REMPLACANT LE REGLEMENT N°92-04 DU 22 MARS 1992 RELATIF AU CONTROLE DES CHANGES"
+      }
+    }
+  ],
+  "status_note": "Abrogation/remplacement explicite dans l'intitulé d'un texte officiel du corpus ; date d'effet à vérifier dans le texte abrogeant.",
+  "same_work_documents": [
+    "REG-92-04.ar"
+  ],
+  "complété_par": [],
+  "modifié_par": [
+    {
+      "work_id": "NOT-01-01",
+      "document_id": "NOT-01-01.fr",
+      "date": "2001-01-25",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "itée en objet, prise en application de l'article 36 du règlement n°95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes et l'ar"
+      }
+    },
+    {
+      "work_id": "NOT-16-01",
+      "document_id": "NOT-16-01.fr",
+      "date": "2001-08-05",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": ": Importations de services Réf : Articles 37 et 40 du règlement n°95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes."
+      }
+    },
+    {
+      "work_id": "NOT-40-00",
+      "document_id": "NOT-40-00.fr",
+      "date": "2000-05-31",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "INTERMEDIAIRES AGREES Par dérogation à l'article 37 du règlement n°95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes, la pré"
+      }
+    },
+    {
+      "work_id": "REG-95-07",
+      "document_id": "REG-95-07.fr",
+      "date": "1995-12-23",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n° 92-04 du 22 mars 1992 relatif au contrôle des changes."
+      }
+    }
+  ],
+  "abrogé_par": [
+    {
+      "work_id": "REG-95-07",
+      "document_id": "REG-95-07.fr",
+      "date": "1995-12-23",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 6,
+        "quote": "Les dispositions du règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes ainsi q"
+      }
+    }
+  ],
+  "remplacé_par": [
+    {
+      "work_id": "REG-95-07",
+      "document_id": "REG-95-07.fr",
+      "date": "1995-12-23",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "REGLEMENT N°95-07 DU 23 DECEMBRE 1995 MODIFIANT ET REMPLACANT LE REGLEMENT N°92-04 DU 22 MARS 1992 RELATIF AU CONTROLE DES CHANGES"
+      }
+    }
+  ],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "section",
+      "label": "Section I",
+      "number": null,
+      "heading": "Principes généraux",
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 1",
+          "number": "1",
+          "heading": null,
+          "page_start": 1,
+          "page_end": 1,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 2",
+          "number": "2",
+          "heading": null,
+          "page_start": 1,
+          "page_end": 1,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 3",
+          "number": "3",
+          "heading": null,
+          "page_start": 1,
+          "page_end": 1,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 4",
+          "number": "4",
+          "heading": null,
+          "page_start": 1,
+          "page_end": 1,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 5",
+          "number": "5",
+          "heading": null,
+          "page_start": 1,
+          "page_end": 1,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "label": "Section II",
+      "number": null,
+      "heading": "De la gestion des ressources en devises",
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 6",
+          "number": "6",
+          "heading": null,
+          "page_start": 1,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 7",
+          "number": "7",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 8",
+          "number": "8",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 9",
+          "number": "9",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 10",
+          "number": "10",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 11",
+          "number": "11",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 12",
+          "number": "12",
+          "heading": null,
+          "page_start": 2,
+          "page_end": 2,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 13",
+          "number": "13",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 14",
+          "number": "14",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 15",
+          "number": "15",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 16",
+          "number": "16",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 17",
+          "number": "17",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "label": "Section III",
+      "number": null,
+      "heading": "Des intermédiaires agréés",
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 18",
+          "number": "18",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 19",
+          "number": "19",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 20",
+          "number": "20",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 21",
+          "number": "21",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 22",
+          "number": "22",
+          "heading": null,
+          "page_start": 4,
+          "page_end": 4,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 23",
+          "number": "23",
+          "heading": null,
+          "page_start": 4,
+          "page_end": 4,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 24",
+          "number": "24",
+          "heading": null,
+          "page_start": 4,
+          "page_end": 4,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "label": "Section IV",
+      "number": null,
+      "heading": "De l'acquisition et de la détention de moyens de paiement étrangers",
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 25",
+          "number": "25",
+          "heading": null,
+          "page_start": 4,
+          "page_end": 4,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 26",
+          "number": "26",
+          "heading": null,
+          "page_start": 4,
+          "page_end": 4,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 27",
+          "number": "27",
+          "heading": null,
+          "page_start": 4,
+          "page_end": 4,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 28",
+          "number": "28",
+          "heading": null,
+          "page_start": 4,
+          "page_end": 4,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 29",
+          "number": "29",
+          "heading": null,
+          "page_start": 5,
+          "page_end": 5,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "label": "Section V",
+      "number": null,
+      "heading": "Des comptes en devises",
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 30",
+          "number": "30",
+          "heading": null,
+          "page_start": 5,
+          "page_end": 5,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 31",
+          "number": "31",
+          "heading": null,
+          "page_start": 5,
+          "page_end": 5,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 32",
+          "number": "32",
+          "heading": null,
+          "page_start": 5,
+          "page_end": 5,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "label": "Section VI",
+      "number": null,
+      "heading": "Des règles relatives aux paiements des importations et des exportations de marchandises",
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 33",
+          "number": "33",
+          "heading": null,
+          "page_start": 5,
+          "page_end": 5,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 34",
+          "number": "34",
+          "heading": null,
+          "page_start": 5,
+          "page_end": 5,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 35",
+          "number": "35",
+          "heading": null,
+          "page_start": 5,
+          "page_end": 5,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 36",
+          "number": "36",
+          "heading": null,
+          "page_start": 5,
+          "page_end": 6,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 37",
+          "number": "37",
+          "heading": null,
+          "page_start": 6,
+          "page_end": 6,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 38",
+          "number": "38",
+          "heading": null,
+          "page_start": 6,
+          "page_end": 6,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 39",
+          "number": "39",
+          "heading": null,
+          "page_start": 6,
+          "page_end": 6,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 40",
+          "number": "40",
+          "heading": null,
+          "page_start": 6,
+          "page_end": 6,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 41",
+          "number": "41",
+          "heading": null,
+          "page_start": 6,
+          "page_end": 6,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "label": "Section VII",
+      "number": null,
+      "heading": "Règles relatives au paiement des importations et des exportations de services",
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 42",
+          "number": "42",
+          "heading": null,
+          "page_start": 7,
+          "page_end": 7,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 43",
+          "number": "43",
+          "heading": null,
+          "page_start": 7,
+          "page_end": 7,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 44",
+          "number": "44",
+          "heading": null,
+          "page_start": 7,
+          "page_end": 7,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 45",
+          "number": "45",
+          "heading": null,
+          "page_start": 7,
+          "page_end": 7,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 46",
+          "number": "46",
+          "heading": null,
+          "page_start": 7,
+          "page_end": 7,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 47",
+          "number": "47",
+          "heading": null,
+          "page_start": 7,
+          "page_end": 7,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 48",
+          "number": "48",
+          "heading": null,
+          "page_start": 7,
+          "page_end": 7,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 49",
+          "number": "49",
+          "heading": null,
+          "page_start": 7,
+          "page_end": 7,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 50",
+          "number": "50",
+          "heading": null,
+          "page_start": 7,
+          "page_end": 7,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°92-04 DU 22 MARS 1992\nRELATIF AU CONTROLE DES CHANGES\nLe Gouverneur de la Banque d'Algérie,\n- Vu la Loi n°90-10 du 14 Avril 1990 relative à la monnaie et au crédit notamment ses articles 44 alinéa \"k\", 97 à 99 et 181 à 192 ;\n- Vu le Décret Présidentiel du 15 Avril 1990 portant nomination du Gouverneur de la Banque d'Algérie ;\n- Vu les Décrets Présidentiels du 14 Mai 1990 portant nomination de Vice\nGouverneurs de la Banque d'Algérie ;\n- Vu le Décret Exécutif du 1er Juillet 1991 portant désignation de membres titulaires et suppléants au Conseil de la Monnaie et du Crédit ;\n- Vu la délibération du Conseil de la Monnaie et du Crédit en date du 22 mars 1992.\nPromulgue le Règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°92-04 DU 22 MARS 1992",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "RELATIF AU CONTROLE DES CHANGES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d'Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la Loi n°90-10 du 14 Avril 1990 relative à la monnaie et au crédit notamment ses articles 44 alinéa \"k\", 97 à 99 et 181 à 192 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 15 Avril 1990 portant nomination du Gouverneur de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu les Décrets Présidentiels du 14 Mai 1990 portant nomination de Vice",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Gouverneurs de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Exécutif du 1er Juillet 1991 portant désignation de membres titulaires et suppléants au Conseil de la Monnaie et du Crédit ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la délibération du Conseil de la Monnaie et du Crédit en date du 22 mars 1992.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le Règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "I",
+          "heading": "Principes généraux",
+          "label": "Section I"
+        }
+      },
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le contrôle des changes concerne tous les flux financiers entre l'Algérie et l'étranger.",
+      "paragraphs": [
+        {
+          "text": "Le contrôle des changes concerne tous les flux financiers entre l'Algérie et l'étranger.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "I",
+          "heading": "Principes généraux",
+          "label": "Section I"
+        }
+      },
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L'exercice du contrôle des changes est une prérogative de la Banque d'Algérie, conformément aux pouvoirs qui lui sont dévolus par la loi n°90-10 susvisée.",
+      "paragraphs": [
+        {
+          "text": "L'exercice du contrôle des changes est une prérogative de la Banque d'Algérie, conformément aux pouvoirs qui lui sont dévolus par la loi n°90-10 susvisée.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "I",
+          "heading": "Principes généraux",
+          "label": "Section I"
+        }
+      },
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L'application de la réglementation des changes peut être déléguée par la\nBanque d'Algérie à des intermédiaires agréés.",
+      "paragraphs": [
+        {
+          "text": "L'application de la réglementation des changes peut être déléguée par la",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Banque d'Algérie à des intermédiaires agréés.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "I",
+          "heading": "Principes généraux",
+          "label": "Section I"
+        }
+      },
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Hors les cas expressément prévus par l'article 187 de la loi n°90-10 susvisée et les accords exceptionnellement marqués par la Banque d'Algérie, la constitution d'avoirs monétaires, financiers ou immobiliers à l'étranger par les résidents à partir de leurs activités en Algérie demeure interdite.",
+      "paragraphs": [
+        {
+          "text": "Hors les cas expressément prévus par l'article 187 de la loi n°90-10 susvisée et les accords exceptionnellement marqués par la Banque d'Algérie, la constitution d'avoirs monétaires, financiers ou immobiliers à l'étranger par les résidents à partir de leurs activités en Algérie demeure interdite.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "I",
+          "heading": "Principes généraux",
+          "label": "Section I"
+        }
+      },
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Toute facturation ou vente en devises de biens et services sur le territoire national est interdite, sauf les cas prévus par la réglementation ou autorisés par la\nBanque d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "Toute facturation ou vente en devises de biens et services sur le territoire national est interdite, sauf les cas prévus par la réglementation ou autorisés par la",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Banque d'Algérie.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "II",
+          "heading": "De la gestion des ressources en devises",
+          "label": "Section II"
+        }
+      },
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "La gestion de l'ensemble des ressources en devises du pays provenant notamment du rapatriement des produits d'exportation, relève des attributions de la\nBanque d'Algérie.\nAu sens du présent Règlement, le rapatriement en Algérie, des sommes en devises encaissées à l'étranger s'opère par cession à la Banque d'Algérie.\nIl est réputé être intervenu lorsque :\n- le compte de la Banque d'Algérie chez un de ses correspondants à l'étranger a été crédité par les soins du cédant (banque intermédiaire agréé, opérateur économique ou tout autre détenteur de devises) ;\n- le compte en Algérie du bénéficiaire est crédité en dinars ou en devises, selon le cas, par l'intermédiaire de sa banque ;\nToutefois, lorsqu'il est fait application des articles 8 et 9 ci-dessous, le rapatriement est exceptionnellement réputé être acquis lorsque le compte de la banque intermédiaire agréé chez son correspondant à l'étranger a été crédité et le compte en Algérie du bénéficiaire, en dinars ou en devises, selon le cas, a été crédité par les soins de ladite banque intermédiaire agréé.",
+      "paragraphs": [
+        {
+          "text": "La gestion de l'ensemble des ressources en devises du pays provenant notamment du rapatriement des produits d'exportation, relève des attributions de la",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Banque d'Algérie.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Au sens du présent Règlement, le rapatriement en Algérie, des sommes en devises encaissées à l'étranger s'opère par cession à la Banque d'Algérie.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Il est réputé être intervenu lorsque :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- le compte de la Banque d'Algérie chez un de ses correspondants à l'étranger a été crédité par les soins du cédant (banque intermédiaire agréé, opérateur économique ou tout autre détenteur de devises) ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- le compte en Algérie du bénéficiaire est crédité en dinars ou en devises, selon le cas, par l'intermédiaire de sa banque ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Toutefois, lorsqu'il est fait application des articles 8 et 9 ci-dessous, le rapatriement est exceptionnellement réputé être acquis lorsque le compte de la banque intermédiaire agréé chez son correspondant à l'étranger a été crédité et le compte en Algérie du bénéficiaire, en dinars ou en devises, selon le cas, a été crédité par les soins de ladite banque intermédiaire agréé.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "II",
+          "heading": "De la gestion des ressources en devises",
+          "label": "Section II"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Toute personne physique ou morale résidante en Algérie peut, par le biais d'un intermédiaire agréé, acheter, contre monnaie nationale, tout montant en devises devant être payé en vertu d'un engagement contracté régulièrement et en conformité avec la réglementation des changes et du commerce extérieur.",
+      "paragraphs": [
+        {
+          "text": "Toute personne physique ou morale résidante en Algérie peut, par le biais d'un intermédiaire agréé, acheter, contre monnaie nationale, tout montant en devises devant être payé en vertu d'un engagement contracté régulièrement et en conformité avec la réglementation des changes et du commerce extérieur.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "II",
+          "heading": "De la gestion des ressources en devises",
+          "label": "Section II"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Nonobstant les dispositions de l'article 6 ci-dessus, la Banque d'Algérie peut laisser à la disposition des intermédiaires agréés, certaines catégories de ressources en devises.\nEn contre partie, les intermédiaires agréés s'obligeront à ce que l'utilisation finale de ces ressources porte sur la couverture des engagements avec l'étranger contractés régulièrement par eux-mêmes ou par leur clientèle, au titre notamment des opérations visées à l'article 10 ci-dessous.",
+      "paragraphs": [
+        {
+          "text": "Nonobstant les dispositions de l'article 6 ci-dessus, la Banque d'Algérie peut laisser à la disposition des intermédiaires agréés, certaines catégories de ressources en devises.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "En contre partie, les intermédiaires agréés s'obligeront à ce que l'utilisation finale de ces ressources porte sur la couverture des engagements avec l'étranger contractés régulièrement par eux-mêmes ou par leur clientèle, au titre notamment des opérations visées à l'article 10 ci-dessous.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "II",
+          "heading": "De la gestion des ressources en devises",
+          "label": "Section II"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les ressources en devises pouvant être laissées à la disposition des intermédiaires agréés sont :\n- les dépôts de leur clientèle détenus dans des comptes devises ;\n- les produits des exportations hors hydrocarbures et produits miniers, à l'exclusion de la partie revenant à l'exportateur ;\n- les sommes provenant de tout crédit financier ou d'emprunt en devises contracté par les intermédiaires agréés pour leur besoin propre ou pour celui de leur clientèle ;\n- les sommes provenant d'achats effectués sur le marché des changes ;\n- toute autre ressource que définira en tant que de besoin la Banque d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "Les ressources en devises pouvant être laissées à la disposition des intermédiaires agréés sont :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les dépôts de leur clientèle détenus dans des comptes devises ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les produits des exportations hors hydrocarbures et produits miniers, à l'exclusion de la partie revenant à l'exportateur ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les sommes provenant de tout crédit financier ou d'emprunt en devises contracté par les intermédiaires agréés pour leur besoin propre ou pour celui de leur clientèle ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les sommes provenant d'achats effectués sur le marché des changes ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- toute autre ressource que définira en tant que de besoin la Banque d'Algérie.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "II",
+          "heading": "De la gestion des ressources en devises",
+          "label": "Section II"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Ces ressources doivent être utilisées pour couvrir les opérations courantes de l'intermédiaire agréé ou de sa clientèle, dont notamment :\n- le refinancement et les avances sur recettes d'exportations hors hydrocarbures et produits miniers ;\n- la couverture d'acomptes non finançables relatifs aux contrats d'importations ;\n- la couverture, en cash, d'importations de biens ou de services ne bénéficiant pas de financement extérieur.",
+      "paragraphs": [
+        {
+          "text": "Ces ressources doivent être utilisées pour couvrir les opérations courantes de l'intermédiaire agréé ou de sa clientèle, dont notamment :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- le refinancement et les avances sur recettes d'exportations hors hydrocarbures et produits miniers ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- la couverture d'acomptes non finançables relatifs aux contrats d'importations ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- la couverture, en cash, d'importations de biens ou de services ne bénéficiant pas de financement extérieur.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "II",
+          "heading": "De la gestion des ressources en devises",
+          "label": "Section II"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les dépôts en compte devises demeurent la propriété exclusive des déposants et ne peuvent, de ce fait, faire l'objet d'une gestion risquée de la part de l'intermédiaire agréé qui ne peut, en tout état de cause, prendre position de change sur de tels dépôts.\nLes autres ressources tout en constituant la trésorerie en devises propre des intermédiaires agréés, doivent obéir à une gestion prudente.",
+      "paragraphs": [
+        {
+          "text": "Les dépôts en compte devises demeurent la propriété exclusive des déposants et ne peuvent, de ce fait, faire l'objet d'une gestion risquée de la part de l'intermédiaire agréé qui ne peut, en tout état de cause, prendre position de change sur de tels dépôts.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Les autres ressources tout en constituant la trésorerie en devises propre des intermédiaires agréés, doivent obéir à une gestion prudente.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "II",
+          "heading": "De la gestion des ressources en devises",
+          "label": "Section II"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les intermédiaires agréés prendront à leur charge les intérêts à servir sur les comptes devises de leurs clients aux conditions fixées par la Banque d'Algérie.\nLes intérêts et commissions perçus sur les transactions en devises sont acquis aux intermédiaires agréés.",
+      "paragraphs": [
+        {
+          "text": "Les intermédiaires agréés prendront à leur charge les intérêts à servir sur les comptes devises de leurs clients aux conditions fixées par la Banque d'Algérie.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Les intérêts et commissions perçus sur les transactions en devises sont acquis aux intermédiaires agréés.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "II",
+          "heading": "De la gestion des ressources en devises",
+          "label": "Section II"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Les disponibilités en devises des banques sont prises en considération dans les règles d'allocation du crédit interne et de refinancement auprès de la Banque d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "Les disponibilités en devises des banques sont prises en considération dans les règles d'allocation du crédit interne et de refinancement auprès de la Banque d'Algérie.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "II",
+          "heading": "De la gestion des ressources en devises",
+          "label": "Section II"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Toutes les ressources en devises provenant des exportations des hydrocarbures et produits miniers (au sens de l'article 192 de la loi n° 90-10 susvisée)\nainsi que celles provenant des emprunts bilatéraux, multilatéraux ou libres et destinées au financement de la balance des paiements sont obligatoirement cédées à la Banque d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "Toutes les ressources en devises provenant des exportations des hydrocarbures et produits miniers (au sens de l'article 192 de la loi n° 90-10 susvisée)",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "ainsi que celles provenant des emprunts bilatéraux, multilatéraux ou libres et destinées au financement de la balance des paiements sont obligatoirement cédées à la Banque d'Algérie.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "II",
+          "heading": "De la gestion des ressources en devises",
+          "label": "Section II"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "La Banque d'Algérie fournit les devises nécessaires :\n- à la couverture du service de la dette extérieure (principal, intérêts et commissions...) ;\n- à l'alimentation du marché des changes dans le cadre de la gestion de ses réserves.",
+      "paragraphs": [
+        {
+          "text": "La Banque d'Algérie fournit les devises nécessaires :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- à la couverture du service de la dette extérieure (principal, intérêts et commissions...) ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- à l'alimentation du marché des changes dans le cadre de la gestion de ses réserves.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 16",
+      "number": "16",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "II",
+          "heading": "De la gestion des ressources en devises",
+          "label": "Section II"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Le taux de change des devises est régulièrement fixé et publié par la\nBanque d'Algérie conformément aux prérogatives qui lui sont conférées par la loi.\nLa Banque d'Algérie peut instituer une commission spéciale de change sur les opérations d'achat et de vente des devises.\nUne instruction de la Banque d'Algérie en établira les conditions de fixation et d'application.",
+      "paragraphs": [
+        {
+          "text": "Le taux de change des devises est régulièrement fixé et publié par la",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Banque d'Algérie conformément aux prérogatives qui lui sont conférées par la loi.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "La Banque d'Algérie peut instituer une commission spéciale de change sur les opérations d'achat et de vente des devises.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Une instruction de la Banque d'Algérie en établira les conditions de fixation et d'application.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 17",
+      "number": "17",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "II",
+          "heading": "De la gestion des ressources en devises",
+          "label": "Section II"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Afin de stabiliser la valeur du dinar, il est institué un \"fonds de stabilisation des changes\" auprès de la Banque d'Algérie.\nLes ressources devant alimenter ce fonds ainsi que leur affectation seront déterminées par le Conseil de la Monnaie et du Crédit.\nUne instruction de la Banque d'Algérie en fixera les conditions et les modalités de fonctionnement.",
+      "paragraphs": [
+        {
+          "text": "Afin de stabiliser la valeur du dinar, il est institué un \"fonds de stabilisation des changes\" auprès de la Banque d'Algérie.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Les ressources devant alimenter ce fonds ainsi que leur affectation seront déterminées par le Conseil de la Monnaie et du Crédit.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Une instruction de la Banque d'Algérie en fixera les conditions et les modalités de fonctionnement.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 18",
+      "number": "18",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "III",
+          "heading": "Des intermédiaires agréés",
+          "label": "Section III"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Seuls les intermédiaires agréés sont habilités, à titre exclusif, à traiter d'opérations en devises et/ou d'opérations de change pour leur compte ou pour celui de leur clientèle.",
+      "paragraphs": [
+        {
+          "text": "Seuls les intermédiaires agréés sont habilités, à titre exclusif, à traiter d'opérations en devises et/ou d'opérations de change pour leur compte ou pour celui de leur clientèle.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 19",
+      "number": "19",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "III",
+          "heading": "Des intermédiaires agréés",
+          "label": "Section III"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Peut être déclaré intermédiaire agréé toute banque et tout établissement financier, préalablement agréé conformément au titre III, livre III de la loi n°90-10 susvisée, ainsi que toute institution ou société admise par la Banque d'Algérie à bénéficier de la délégation pour traiter des opérations citées ci-dessus.",
+      "paragraphs": [
+        {
+          "text": "Peut être déclaré intermédiaire agréé toute banque et tout établissement financier, préalablement agréé conformément au titre III, livre III de la loi n°90-10 susvisée, ainsi que toute institution ou société admise par la Banque d'Algérie à bénéficier de la délégation pour traiter des opérations citées ci-dessus.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 20",
+      "number": "20",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "III",
+          "heading": "Des intermédiaires agréés",
+          "label": "Section III"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "La qualité d'intermédiaire agréé résulte d'un agrément spécial délivré par la\nBanque d'Algérie sur demande de la banque, établissement financier, institution ou société intéressée.",
+      "paragraphs": [
+        {
+          "text": "La qualité d'intermédiaire agréé résulte d'un agrément spécial délivré par la",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Banque d'Algérie sur demande de la banque, établissement financier, institution ou société intéressée.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 21",
+      "number": "21",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "III",
+          "heading": "Des intermédiaires agréés",
+          "label": "Section III"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "L'agrément spécial visé ci-dessus, accordant la qualité d'intermédiaire agréé, fait l'objet d'une notification expresse et précise la (ou les) catégorie (s)\nd'opérations autorisées.",
+      "paragraphs": [
+        {
+          "text": "L'agrément spécial visé ci-dessus, accordant la qualité d'intermédiaire agréé, fait l'objet d'une notification expresse et précise la (ou les) catégorie (s)",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "d'opérations autorisées.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 22",
+      "number": "22",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "III",
+          "heading": "Des intermédiaires agréés",
+          "label": "Section III"
+        }
+      },
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Les intermédiaires agréés sont tenus d'assurer à l'ensemble de leurs clients et en toute égalité de traitement, toutes les opérations pour lesquelles ils sont agréés.\nHormis le cas d'insolvabilité établie du client, ce dernier garde un droit de recours auprès de la Banque d'Algérie pour tout litige en la matière.",
+      "paragraphs": [
+        {
+          "text": "Les intermédiaires agréés sont tenus d'assurer à l'ensemble de leurs clients et en toute égalité de traitement, toutes les opérations pour lesquelles ils sont agréés.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Hormis le cas d'insolvabilité établie du client, ce dernier garde un droit de recours auprès de la Banque d'Algérie pour tout litige en la matière.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 23",
+      "number": "23",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "III",
+          "heading": "Des intermédiaires agréés",
+          "label": "Section III"
+        }
+      },
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "La qualité d'intermédiaire peut être retirée par la Banque d'Algérie à tout bénéficiaire pour toute ou partie de la (ou des) catégorie(s) d'opérations autorisées chaque fois que celui-ci s'avérera incapable de l'exercer valablement.",
+      "paragraphs": [
+        {
+          "text": "La qualité d'intermédiaire peut être retirée par la Banque d'Algérie à tout bénéficiaire pour toute ou partie de la (ou des) catégorie(s) d'opérations autorisées chaque fois que celui-ci s'avérera incapable de l'exercer valablement.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 24",
+      "number": "24",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "III",
+          "heading": "Des intermédiaires agréés",
+          "label": "Section III"
+        }
+      },
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "La Banque d'Algérie peut instruire les intermédiaires agréés d'avoir à geler ou suspendre des relations avec tel ou tel correspondant bancaire étranger.\nLes intermédiaires agréés doivent adresser à la Banque d'Algérie la liste de leurs correspondants bancaires à l'étranger arrêtée à la fin de chaque exercice.",
+      "paragraphs": [
+        {
+          "text": "La Banque d'Algérie peut instruire les intermédiaires agréés d'avoir à geler ou suspendre des relations avec tel ou tel correspondant bancaire étranger.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Les intermédiaires agréés doivent adresser à la Banque d'Algérie la liste de leurs correspondants bancaires à l'étranger arrêtée à la fin de chaque exercice.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 25",
+      "number": "25",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "IV",
+          "heading": "De l'acquisition et de la détention de moyens de paiement étrangers",
+          "label": "Section IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Tout résident en Algérie est autorisé à acquérir et à détenir en Algérie, dans les conditions prévues ci-après, des moyens de paiement libellés en monnaies étrangères librement convertibles.\nCes moyens de paiement ne peuvent être acquis, négociés et déposés en Algérie qu'auprès d'intermédiaires agréés, sauf les cas prévus par une réglementation spécifique ou autorisés par la Banque d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "Tout résident en Algérie est autorisé à acquérir et à détenir en Algérie, dans les conditions prévues ci-après, des moyens de paiement libellés en monnaies étrangères librement convertibles.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Ces moyens de paiement ne peuvent être acquis, négociés et déposés en Algérie qu'auprès d'intermédiaires agréés, sauf les cas prévus par une réglementation spécifique ou autorisés par la Banque d'Algérie.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 26",
+      "number": "26",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "IV",
+          "heading": "De l'acquisition et de la détention de moyens de paiement étrangers",
+          "label": "Section IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Constituent des moyens de paiement au sens du présent règlement :\n- les billets de banque ;\n- les chèques de voyages ;\n- les cartes de crédit ;\n- les chèques bancaires\n- les lettres de crédit ;\n- les virements bancaires et postaux ;\n- les effets de commerce ;\n- les opérations de compensation ;\n- tout autre moyen de paiement libellé en devises librement convertibles.",
+      "paragraphs": [
+        {
+          "text": "Constituent des moyens de paiement au sens du présent règlement :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- les billets de banque ;",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- les chèques de voyages ;",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- les cartes de crédit ;",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- les chèques bancaires",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- les lettres de crédit ;",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- les virements bancaires et postaux ;",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- les effets de commerce ;",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- les opérations de compensation ;",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- tout autre moyen de paiement libellé en devises librement convertibles.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 27",
+      "number": "27",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "IV",
+          "heading": "De l'acquisition et de la détention de moyens de paiement étrangers",
+          "label": "Section IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Tout voyageur entrant en Algérie est autorisé à importer des billets de banque étrangers et des chèques de voyage, sans limite de montant. Toutefois, est soumise à déclaration obligatoire en douane toute importation de billets de banque étrangers et de chèques de voyage, dès que le montant importé excède la contre-valeur en dinar algérien fixée par la Banque d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "Tout voyageur entrant en Algérie est autorisé à importer des billets de banque étrangers et des chèques de voyage, sans limite de montant. Toutefois, est soumise à déclaration obligatoire en douane toute importation de billets de banque étrangers et de chèques de voyage, dès que le montant importé excède la contre-valeur en dinar algérien fixée par la Banque d'Algérie.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 28",
+      "number": "28",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "IV",
+          "heading": "De l'acquisition et de la détention de moyens de paiement étrangers",
+          "label": "Section IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Tout voyageur sortant d'Algérie est autorisé à exporter tout montant en billets de banque étrangers ou en chèques de voyage :\n- à concurrence du montant déclaré à l'entrée, diminué des sommes régulièrement cédées aux intermédiaires agréés ;\n- à concurrence des prélèvements effectués sur comptes devises ou des montants couverts par une autorisation de change.\nLes autres moyens de paiement sont à la libre disposition du titulaire.",
+      "paragraphs": [
+        {
+          "text": "Tout voyageur sortant d'Algérie est autorisé à exporter tout montant en billets de banque étrangers ou en chèques de voyage :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- à concurrence du montant déclaré à l'entrée, diminué des sommes régulièrement cédées aux intermédiaires agréés ;",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- à concurrence des prélèvements effectués sur comptes devises ou des montants couverts par une autorisation de change.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Les autres moyens de paiement sont à la libre disposition du titulaire.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 29",
+      "number": "29",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "IV",
+          "heading": "De l'acquisition et de la détention de moyens de paiement étrangers",
+          "label": "Section IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 5,
+      "text": "Les opérations de change entre dinars et devises étrangères ne peuvent être effectuées qu'auprès d'intermédiaires agréés.",
+      "paragraphs": [
+        {
+          "text": "Les opérations de change entre dinars et devises étrangères ne peuvent être effectuées qu'auprès d'intermédiaires agréés.",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 30",
+      "number": "30",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "V",
+          "heading": "Des comptes en devises",
+          "label": "Section V"
+        }
+      },
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 5,
+      "text": "Toute personne physique ou morale, résidante ou non résidante, est autorisée à ouvrir un compte devises à vue ou à terme auprès des banques intermédiaires agréés.\nLes intermédiaires agréés peuvent détenir des comptes devises auprès de la Banque d'Algérie.\nCes comptes devises sont alimentés exclusivement en moyens de paiement étrangers au sens de l'article 26 du présent Règlement.",
+      "paragraphs": [
+        {
+          "text": "Toute personne physique ou morale, résidante ou non résidante, est autorisée à ouvrir un compte devises à vue ou à terme auprès des banques intermédiaires agréés.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Les intermédiaires agréés peuvent détenir des comptes devises auprès de la Banque d'Algérie.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Ces comptes devises sont alimentés exclusivement en moyens de paiement étrangers au sens de l'article 26 du présent Règlement.",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 31",
+      "number": "31",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "V",
+          "heading": "Des comptes en devises",
+          "label": "Section V"
+        }
+      },
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 5,
+      "text": "Les catégories de recettes éligibles au crédit des comptes devises et les conditions de fonctionnement et de gestion de ces derniers sont définies par des textes réglementaires.",
+      "paragraphs": [
+        {
+          "text": "Les catégories de recettes éligibles au crédit des comptes devises et les conditions de fonctionnement et de gestion de ces derniers sont définies par des textes réglementaires.",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 32",
+      "number": "32",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "V",
+          "heading": "Des comptes en devises",
+          "label": "Section V"
+        }
+      },
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 5,
+      "text": "Les cessions de devises contre dinars ne peuvent être effectuées qu'au profit des intermédiaires agréés et/ou de la Banque d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "Les cessions de devises contre dinars ne peuvent être effectuées qu'au profit des intermédiaires agréés et/ou de la Banque d'Algérie.",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 33",
+      "number": "33",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "VI",
+          "heading": "Des règles relatives aux paiements des importations et des exportations de marchandises",
+          "label": "Section VI"
+        }
+      },
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 5,
+      "text": "A l'exception des opérations en transit, tout contrat d'importation ou d'exportation définitive ou temporaire de marchandises, de quelque nature que ce soit doit faire l'objet d'une domiciliation auprès d'une banque intermédiaire agréé. Cette banque est seule habilitée à canaliser et à effectuer les flux de fonds en transfert ou en rapatriement relatifs à l'importation ou à l'exportation considérée.\nL'intermédiaire agréé ne peut refuser la domiciliation d'un contrat d'exportation ou d'importation lorsque l'ensemble des conditions techniques et réglementaires sont remplies. L'opérateur dispose d'un droit de recours auprès de la Banque d'Algérie pour tout litige en la matière.",
+      "paragraphs": [
+        {
+          "text": "A l'exception des opérations en transit, tout contrat d'importation ou d'exportation définitive ou temporaire de marchandises, de quelque nature que ce soit doit faire l'objet d'une domiciliation auprès d'une banque intermédiaire agréé. Cette banque est seule habilitée à canaliser et à effectuer les flux de fonds en transfert ou en rapatriement relatifs à l'importation ou à l'exportation considérée.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "L'intermédiaire agréé ne peut refuser la domiciliation d'un contrat d'exportation ou d'importation lorsque l'ensemble des conditions techniques et réglementaires sont remplies. L'opérateur dispose d'un droit de recours auprès de la Banque d'Algérie pour tout litige en la matière.",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 34",
+      "number": "34",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "VI",
+          "heading": "Des règles relatives aux paiements des importations et des exportations de marchandises",
+          "label": "Section VI"
+        }
+      },
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 5,
+      "text": "L'intermédiaire agréé est tenu de s'assurer de la régularité des contrats de commerce extérieur au regard de la réglementation des changes et de veiller au bon déroulement des mouvements de fonds avec l'étranger auxquels ils donnent lieu.\nIl doit veiller à l'apurement des dossiers domiciliés auprès de lui vis-à-vis des services de contrôle des changes de la Banque d'Algérie dans les délais prescrits par cette dernière.\nIl doit saisir la Banque d'Algérie, sans délai, de toute irrégularité dans l'exécution des mouvements de fonds avec l'étranger commise dans le cadre des opérations d'importation ou d'exportation.",
+      "paragraphs": [
+        {
+          "text": "L'intermédiaire agréé est tenu de s'assurer de la régularité des contrats de commerce extérieur au regard de la réglementation des changes et de veiller au bon déroulement des mouvements de fonds avec l'étranger auxquels ils donnent lieu.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Il doit veiller à l'apurement des dossiers domiciliés auprès de lui vis-à-vis des services de contrôle des changes de la Banque d'Algérie dans les délais prescrits par cette dernière.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Il doit saisir la Banque d'Algérie, sans délai, de toute irrégularité dans l'exécution des mouvements de fonds avec l'étranger commise dans le cadre des opérations d'importation ou d'exportation.",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 35",
+      "number": "35",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "VI",
+          "heading": "Des règles relatives aux paiements des importations et des exportations de marchandises",
+          "label": "Section VI"
+        }
+      },
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 5,
+      "text": "L'intermédiaire agréé cède au comptant ou à terme des devises aux importateurs de marchandises dans les conditions arrêtées par la Banque d'Algérie. Ces cessions ne peuvent se faire que sur des devises détenues en propre par l'intermédiaire agréé ou achetées auprès de sa clientèle ou auprès de la Banque d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "L'intermédiaire agréé cède au comptant ou à terme des devises aux importateurs de marchandises dans les conditions arrêtées par la Banque d'Algérie. Ces cessions ne peuvent se faire que sur des devises détenues en propre par l'intermédiaire agréé ou achetées auprès de sa clientèle ou auprès de la Banque d'Algérie.",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 36",
+      "number": "36",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "VI",
+          "heading": "Des règles relatives aux paiements des importations et des exportations de marchandises",
+          "label": "Section VI"
+        }
+      },
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 6,
+      "text": "Lorsqu'une importation de marchandises fait l'objet d'un financement extérieur, l'intermédiaire agréé devra s'assurer, lors de la domiciliation du contrat, que la\nnature du financement et les conditions qui lui sont attachées sont conformes aux directives données par la Banque d'Algérie en matière d'endettement extérieur.\nEn outre, il lui incombe de s'assurer que l'importateur possède la surface financière suffisante ou les garanties adéquates pour faire face au service de la dette ainsi constituée. En cas de défaillance de l'importateur dans la couverture du service de sa dette extérieure, la responsabilité de l'intermédiaire agréé est engagée vis-à-vis de la\nBanque d'Algérie s'il s'avère qu'il a accepté la domiciliation d'un contrat en dépit de l'insolvabilité existante ou potentielle de l'importateur et de l'absence de garanties appropriées et ce, pour toute domiciliation qui interviendra après l'entrée en vigueur du présent Règlement.",
+      "paragraphs": [
+        {
+          "text": "Lorsqu'une importation de marchandises fait l'objet d'un financement extérieur, l'intermédiaire agréé devra s'assurer, lors de la domiciliation du contrat, que la",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "nature du financement et les conditions qui lui sont attachées sont conformes aux directives données par la Banque d'Algérie en matière d'endettement extérieur.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "En outre, il lui incombe de s'assurer que l'importateur possède la surface financière suffisante ou les garanties adéquates pour faire face au service de la dette ainsi constituée. En cas de défaillance de l'importateur dans la couverture du service de sa dette extérieure, la responsabilité de l'intermédiaire agréé est engagée vis-à-vis de la",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Banque d'Algérie s'il s'avère qu'il a accepté la domiciliation d'un contrat en dépit de l'insolvabilité existante ou potentielle de l'importateur et de l'absence de garanties appropriées et ce, pour toute domiciliation qui interviendra après l'entrée en vigueur du présent Règlement.",
+          "page_start": 6,
+          "page_end": 6
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 37",
+      "number": "37",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "VI",
+          "heading": "Des règles relatives aux paiements des importations et des exportations de marchandises",
+          "label": "Section VI"
+        }
+      },
+      "annexe": null,
+      "page_start": 6,
+      "page_end": 6,
+      "text": "Les recettes d'exportations, hors hydrocarbures et produits miniers, ne peuvent être encaissées qu'auprès de l'intermédiaire agréé domiciliataire du contrat qui doit rapatrier les devises sans délai.\nTout retard de paiement et de rapatriement doit être justifié.",
+      "paragraphs": [
+        {
+          "text": "Les recettes d'exportations, hors hydrocarbures et produits miniers, ne peuvent être encaissées qu'auprès de l'intermédiaire agréé domiciliataire du contrat qui doit rapatrier les devises sans délai.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Tout retard de paiement et de rapatriement doit être justifié.",
+          "page_start": 6,
+          "page_end": 6
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 38",
+      "number": "38",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "VI",
+          "heading": "Des règles relatives aux paiements des importations et des exportations de marchandises",
+          "label": "Section VI"
+        }
+      },
+      "annexe": null,
+      "page_start": 6,
+      "page_end": 6,
+      "text": "Dès le rapatriement du produit de l'exportation, la banque intermédiaire agréé met à la disposition de l'exportateur :\n- la partie en devises qui revient à ce dernier, conformément à la réglementation, et qui sera logée dans son compte devises ;\n- la contre-valeur en dinars du solde du produit de l'exportation, soumis à l'obligation de cession.",
+      "paragraphs": [
+        {
+          "text": "Dès le rapatriement du produit de l'exportation, la banque intermédiaire agréé met à la disposition de l'exportateur :",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "- la partie en devises qui revient à ce dernier, conformément à la réglementation, et qui sera logée dans son compte devises ;",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "- la contre-valeur en dinars du solde du produit de l'exportation, soumis à l'obligation de cession.",
+          "page_start": 6,
+          "page_end": 6
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 39",
+      "number": "39",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "VI",
+          "heading": "Des règles relatives aux paiements des importations et des exportations de marchandises",
+          "label": "Section VI"
+        }
+      },
+      "annexe": null,
+      "page_start": 6,
+      "page_end": 6,
+      "text": "Le contrat d'exportation peut être établi avec paiement au comptant ou à crédit.\n- Dans le premier cas, l'exportateur doit encaisser le produit de l'exportation et le faire rapatrier dans un délai n'excédant pas le délai normal en usage dans le commerce international.\n- Dans le deuxième cas, l'exportateur doit se conformer à la réglementation en vigueur en la matière.\nDans tous les cas, le respect de l'obligation et du délai de rapatriement des recettes d'exportation incombe conjointement à l'exportateur et à l'intermédiaire agréé domiciliataire de l'opération.",
+      "paragraphs": [
+        {
+          "text": "Le contrat d'exportation peut être établi avec paiement au comptant ou à crédit.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "- Dans le premier cas, l'exportateur doit encaisser le produit de l'exportation et le faire rapatrier dans un délai n'excédant pas le délai normal en usage dans le commerce international.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "- Dans le deuxième cas, l'exportateur doit se conformer à la réglementation en vigueur en la matière.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Dans tous les cas, le respect de l'obligation et du délai de rapatriement des recettes d'exportation incombe conjointement à l'exportateur et à l'intermédiaire agréé domiciliataire de l'opération.",
+          "page_start": 6,
+          "page_end": 6
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 40",
+      "number": "40",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "VI",
+          "heading": "Des règles relatives aux paiements des importations et des exportations de marchandises",
+          "label": "Section VI"
+        }
+      },
+      "annexe": null,
+      "page_start": 6,
+      "page_end": 6,
+      "text": "Pour l'acceptation des dossiers de domiciliation et de tout engagement devant entraîner paiement par transfert de devises vers l'étranger, l'intermédiaire agréé doit tenir compte notamment :\n- de la surface financière et des garanties de solvabilité que son client présente ;\n- de la capacité du client à mener l'opération de commerce extérieur dans les meilleures conditions et conformément aux règles et aux usages en vigueur dans le commerce international ;\n- de la régularité de l'opération concernée au regard des réglementations régissant le change et le commerce extérieur.",
+      "paragraphs": [
+        {
+          "text": "Pour l'acceptation des dossiers de domiciliation et de tout engagement devant entraîner paiement par transfert de devises vers l'étranger, l'intermédiaire agréé doit tenir compte notamment :",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "- de la surface financière et des garanties de solvabilité que son client présente ;",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "- de la capacité du client à mener l'opération de commerce extérieur dans les meilleures conditions et conformément aux règles et aux usages en vigueur dans le commerce international ;",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "- de la régularité de l'opération concernée au regard des réglementations régissant le change et le commerce extérieur.",
+          "page_start": 6,
+          "page_end": 6
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 41",
+      "number": "41",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "VI",
+          "heading": "Des règles relatives aux paiements des importations et des exportations de marchandises",
+          "label": "Section VI"
+        }
+      },
+      "annexe": null,
+      "page_start": 6,
+      "page_end": 6,
+      "text": "Les importations et exportations d'équipement et/ou de matériel sous la forme de crédit-bail (leasing) sont assimilés à des importations ou exportations à paiement différé. Elles obéissent en conséquence aux conditions de domiciliation et de paiement applicables à ces opérations.",
+      "paragraphs": [
+        {
+          "text": "Les importations et exportations d'équipement et/ou de matériel sous la forme de crédit-bail (leasing) sont assimilés à des importations ou exportations à paiement différé. Elles obéissent en conséquence aux conditions de domiciliation et de paiement applicables à ces opérations.",
+          "page_start": 6,
+          "page_end": 6
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 42",
+      "number": "42",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "VII",
+          "heading": "Règles relatives au paiement des importations et des exportations de services",
+          "label": "Section VII"
+        }
+      },
+      "annexe": null,
+      "page_start": 7,
+      "page_end": 7,
+      "text": "Les opérations d'échange de services entre l'Algérie et les pays étrangers doivent faire l'objet d'une domiciliation de contrats y afférents, au même titre que les opérations d'échanges de marchandises.",
+      "paragraphs": [
+        {
+          "text": "Les opérations d'échange de services entre l'Algérie et les pays étrangers doivent faire l'objet d'une domiciliation de contrats y afférents, au même titre que les opérations d'échanges de marchandises.",
+          "page_start": 7,
+          "page_end": 7
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 43",
+      "number": "43",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "VII",
+          "heading": "Règles relatives au paiement des importations et des exportations de services",
+          "label": "Section VII"
+        }
+      },
+      "annexe": null,
+      "page_start": 7,
+      "page_end": 7,
+      "text": "Les droits et obligations se rattachant aux transferts et rapatriements sur marchandises s'appliquent aux opérations d'échange de services.",
+      "paragraphs": [
+        {
+          "text": "Les droits et obligations se rattachant aux transferts et rapatriements sur marchandises s'appliquent aux opérations d'échange de services.",
+          "page_start": 7,
+          "page_end": 7
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 44",
+      "number": "44",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "VII",
+          "heading": "Règles relatives au paiement des importations et des exportations de services",
+          "label": "Section VII"
+        }
+      },
+      "annexe": null,
+      "page_start": 7,
+      "page_end": 7,
+      "text": "Les services pouvant faire l'objet d'importation sans autorisation préalable sont :\n- les services de transport et d'assurance directement liés aux importations et/ou aux exportations de marchandises ;\n- les contrats d'assistance technique ou de fourniture de services impliquant des prestations de formation, de montage, de maintenance d'équipements et de mise en place de systèmes industriels, connexes à l'importation d'équipements ou à la réalisation d'ensembles industriels ;\n- les opérations d'assurance et de réassurance contractées par les compagnies d'assurances résidantes.",
+      "paragraphs": [
+        {
+          "text": "Les services pouvant faire l'objet d'importation sans autorisation préalable sont :",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "- les services de transport et d'assurance directement liés aux importations et/ou aux exportations de marchandises ;",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "- les contrats d'assistance technique ou de fourniture de services impliquant des prestations de formation, de montage, de maintenance d'équipements et de mise en place de systèmes industriels, connexes à l'importation d'équipements ou à la réalisation d'ensembles industriels ;",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "- les opérations d'assurance et de réassurance contractées par les compagnies d'assurances résidantes.",
+          "page_start": 7,
+          "page_end": 7
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 45",
+      "number": "45",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "VII",
+          "heading": "Règles relatives au paiement des importations et des exportations de services",
+          "label": "Section VII"
+        }
+      },
+      "annexe": null,
+      "page_start": 7,
+      "page_end": 7,
+      "text": "L'importation de catégories de services non énumérées ci-dessus :\n- fait l'objet de textes particuliers qui en définissent les conditions et modalités ;\n- ou est soumise, à défaut, à l'autorisation préalable de la Banque d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "L'importation de catégories de services non énumérées ci-dessus :",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "- fait l'objet de textes particuliers qui en définissent les conditions et modalités ;",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "- ou est soumise, à défaut, à l'autorisation préalable de la Banque d'Algérie.",
+          "page_start": 7,
+          "page_end": 7
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 46",
+      "number": "46",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "VII",
+          "heading": "Règles relatives au paiement des importations et des exportations de services",
+          "label": "Section VII"
+        }
+      },
+      "annexe": null,
+      "page_start": 7,
+      "page_end": 7,
+      "text": "les conditions applicables au transport international de voyageurs font l'objet d'une réglementation spécifique.",
+      "paragraphs": [
+        {
+          "text": "les conditions applicables au transport international de voyageurs font l'objet d'une réglementation spécifique.",
+          "page_start": 7,
+          "page_end": 7
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 47",
+      "number": "47",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "VII",
+          "heading": "Règles relatives au paiement des importations et des exportations de services",
+          "label": "Section VII"
+        }
+      },
+      "annexe": null,
+      "page_start": 7,
+      "page_end": 7,
+      "text": "Les paiements, au titre d'importation de services, sont effectués par les banques intermédiaires agréés à partir de leurs propres ressources en devises ou de celles acquises auprès de leurs clients ou auprès de la Banque d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "Les paiements, au titre d'importation de services, sont effectués par les banques intermédiaires agréés à partir de leurs propres ressources en devises ou de celles acquises auprès de leurs clients ou auprès de la Banque d'Algérie.",
+          "page_start": 7,
+          "page_end": 7
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 48",
+      "number": "48",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "VII",
+          "heading": "Règles relatives au paiement des importations et des exportations de services",
+          "label": "Section VII"
+        }
+      },
+      "annexe": null,
+      "page_start": 7,
+      "page_end": 7,
+      "text": "Tous les services payés par débit de comptes devises de l'importateur peuvent faire l'objet de domiciliation sans autorisation préalable.",
+      "paragraphs": [
+        {
+          "text": "Tous les services payés par débit de comptes devises de l'importateur peuvent faire l'objet de domiciliation sans autorisation préalable.",
+          "page_start": 7,
+          "page_end": 7
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 49",
+      "number": "49",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "VII",
+          "heading": "Règles relatives au paiement des importations et des exportations de services",
+          "label": "Section VII"
+        }
+      },
+      "annexe": null,
+      "page_start": 7,
+      "page_end": 7,
+      "text": "Sauf exclusion expresse, toutes les catégories de services peuvent faire l'objet d'une exportation.\nLes règles de domiciliation de contrats d'exportation de services, d'encaissement et de rapatriement de leurs produits sont les mêmes que celles relatives à l'exportation de marchandises.",
+      "paragraphs": [
+        {
+          "text": "Sauf exclusion expresse, toutes les catégories de services peuvent faire l'objet d'une exportation.",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Les règles de domiciliation de contrats d'exportation de services, d'encaissement et de rapatriement de leurs produits sont les mêmes que celles relatives à l'exportation de marchandises.",
+          "page_start": 7,
+          "page_end": 7
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 50",
+      "number": "50",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "VII",
+          "heading": "Règles relatives au paiement des importations et des exportations de services",
+          "label": "Section VII"
+        }
+      },
+      "annexe": null,
+      "page_start": 7,
+      "page_end": 7,
+      "text": "D'autres transferts de fonds peuvent intervenir dans le cadre d'une réglementation spécifique qui en définit les modalités et conditions.",
+      "paragraphs": [
+        {
+          "text": "D'autres transferts de fonds peuvent intervenir dans le cadre d'une réglementation spécifique qui en définit les modalités et conditions.",
+          "page_start": 7,
+          "page_end": 7
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.036
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-92-04.fr.txt"
+}

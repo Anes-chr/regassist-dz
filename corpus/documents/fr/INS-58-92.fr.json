@@ -1,0 +1,517 @@
+{
+  "document_id": "INS-58-92.fr",
+  "work_id": "INS-58-92",
+  "title": "Instruction n°58-92 du 27 octobre 1992 fixant les conditions et règles de financement des opérations d’importation.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "58-92",
+  "number_source": "en-tête du document",
+  "date": "1992-10-27",
+  "date_raw": "N°58-92 DU 27 OCTOBRE 1992",
+  "date_source": "en-tête du document",
+  "publication_date": "2022-04-11",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Règlementation des changes",
+  "source_url": "https://www.bank-of-algeria.dz/importations-exportations-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2022/04/instruction5892-1.pdf",
+  "format": "pdf",
+  "file_hash": "dabac023b2720b7a4d06ef1f0fcaf44e9347f2a4937e40c2d2e3f8a1812d1fc3",
+  "file_size": 33240,
+  "raw_path": "raw/dabac023b272__instruction5892-1.pdf",
+  "retrieved_at": "2026-10-05T13:25:07+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "75eff90f3b79950b57178a8168799954bbe5cf2ea01d8b304212586144f4e6ec",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/importations-exportations-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document7",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210111095900+01'00'",
+    "modDate": "D:20210111095900+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 3054,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 9,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°58-92 DU 27 OCTOBRE 1992 FIXANT LES CONDITIONS ET REGLES DE FINANCEMENT DES OPERATIONS D'IMPORTATION La présente instruction a pour objet de modifier et compléter certaines conditions et règles de financement des opérations d'importation fixées par l'Instruction n°03-91 du 21 Avril 1991.",
+  "alias_urls": [],
+  "text_hash": "533a19f6a6a8f76cc1e76689d178b7bf2cc2334f53d40dbab9dd6e8f9437e9fc",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "03-91",
+        "date": "1991-04-21",
+        "raw": "Instruction n°03-91 du 21 Avril 1991"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "objet de modifier et compléter certaines conditions et règles de financement des opérations d'importation fixées par l'Instruction n°03-91 du 21 Avril 1991."
+      },
+      "target_work_id": "INS-03-91-19910421"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "03-91",
+        "date": "1991-04-21",
+        "raw": "Instruction n°03-91 du 21 Avril 1991"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "objet de modifier et compléter certaines conditions et règles de financement des opérations d'importation fixées par l'Instruction n°03-91 du 21 Avril 1991."
+      },
+      "target_work_id": "INS-03-91-19910421"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-03-91-19910421",
+      "reference": "Instruction n°03-91 du 21 Avril 1991",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "objet de modifier et compléter certaines conditions et règles de financement des opérations d'importation fixées par l'Instruction n°03-91 du 21 Avril 1991."
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "INS-03-91-19910421",
+      "reference": "Instruction n°03-91 du 21 Avril 1991",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "objet de modifier et compléter certaines conditions et règles de financement des opérations d'importation fixées par l'Instruction n°03-91 du 21 Avril 1991."
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [
+    {
+      "work_id": "INS-20-94",
+      "document_id": "INS-20-94.fr",
+      "date": "1994-04-12",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "La présente instruction abroge toutes les dispositions contraires antérieures, notamment celles de l'instruction n°58-92 du 27 Octobre 1992 et s'applique aux domiciliations postér"
+      }
+    }
+  ],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "INS-20-94",
+      "document_id": "INS-20-94.fr",
+      "date": "1994-04-12",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "La présente instruction abroge toutes les dispositions contraires antérieures, notamment celles de l'instruction n°58-92 du 27 Octobre 1992 et s'applique aux domiciliations postér"
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [
+    {
+      "work_id": "INS-20-94",
+      "document_id": "INS-20-94.fr",
+      "date": "1994-04-12",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "La présente instruction abroge toutes les dispositions contraires antérieures, notamment celles de l'instruction n°58-92 du 27 Octobre 1992 et s'applique aux domiciliations postér"
+      }
+    }
+  ],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "INS-03-91-19910421",
+      "reference": "Instruction n°03-91 du 21 Avril 1991",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "objet de modifier et compléter certaines conditions et règles de financement des opérations d'importation fixées par l'Instruction n°03-91 du 21 Avril 1991."
+      }
+    }
+  ],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°58-92 DU 27 OCTOBRE 1992 FIXANT\nLES CONDITIONS ET REGLES DE FINANCEMENT\nDES OPERATIONS D'IMPORTATION\nLa présente instruction a pour objet de modifier et compléter certaines conditions et règles de financement des opérations d'importation fixées par l'Instruction n°03-91 du 21\nAvril 1991.",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°58-92 DU 27 OCTOBRE 1992 FIXANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "LES CONDITIONS ET REGLES DE FINANCEMENT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DES OPERATIONS D'IMPORTATION",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La présente instruction a pour objet de modifier et compléter certaines conditions et règles de financement des opérations d'importation fixées par l'Instruction n°03-91 du 21",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Avril 1991.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le recours aux financements commerciaux à court terme des importations n'est admis que lorsque toutes les autres possibilités de couverture en cash et sur lignes de crédit gouvernementales ou multilatérales auront été épuisées et, en tout état de cause, dans les limites de volume et de coût réel d'endettement tolérables.",
+      "paragraphs": [
+        {
+          "text": "Le recours aux financements commerciaux à court terme des importations n'est admis que lorsque toutes les autres possibilités de couverture en cash et sur lignes de crédit gouvernementales ou multilatérales auront été épuisées et, en tout état de cause, dans les limites de volume et de coût réel d'endettement tolérables.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les importations de produits de large consommation soumises à l'obtention d'un cahier des charges et non couvertes par le cash seront financées en priorité par imputation sur les lignes de crédit gouvernementales ou multilatérales.\nAu cas où une telle imputation s'avérerait impossible pour cause d'inéligibilité du produit concerné sur les lignes de crédit susvisées ou par manque de disponibilités sur ces mêmes lignes, il sera mis en place le financement le plus approprié, dont la durée ne saurait, en tout état de cause, être inférieure à dix-huit (18) mois pour les biens alimentaires et 24 mois pour les autres.",
+      "paragraphs": [
+        {
+          "text": "Les importations de produits de large consommation soumises à l'obtention d'un cahier des charges et non couvertes par le cash seront financées en priorité par imputation sur les lignes de crédit gouvernementales ou multilatérales.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Au cas où une telle imputation s'avérerait impossible pour cause d'inéligibilité du produit concerné sur les lignes de crédit susvisées ou par manque de disponibilités sur ces mêmes lignes, il sera mis en place le financement le plus approprié, dont la durée ne saurait, en tout état de cause, être inférieure à dix-huit (18) mois pour les biens alimentaires et 24 mois pour les autres.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les importations d'intrants industriels dûment autorisées par la réglementation du commerce extérieur en vigueur et non couvertes par une des lignes de crédit gouvernementales ou multilatérales, doivent être assorties d'un financement le plus approprié dont la durée ne saurait, en tout état de cause, être inférieure à vingt-quatre (24) mois.",
+      "paragraphs": [
+        {
+          "text": "Les importations d'intrants industriels dûment autorisées par la réglementation du commerce extérieur en vigueur et non couvertes par une des lignes de crédit gouvernementales ou multilatérales, doivent être assorties d'un financement le plus approprié dont la durée ne saurait, en tout état de cause, être inférieure à vingt-quatre (24) mois.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le financement des importations d'une valeur égale ou supérieure à l'équivalent de $ US 100.000 (cent mille dollars US), est soumis au visa préalable de la\nBanque d'Algérie au titre du suivi de l'endettement extérieur.\nLe financement des importations de montants inférieurs à l'équivalent de $US 100.000 (Cent Mille Dollars US), est du ressort des banques domiciliataires. Ces dernières doivent hebdomadairement tenir informée la Banque d'Algérie des opérations de l'espèce traitées. Il reste entendu que le financement des importations des catégories susvisées doit obéir aux conditions édictées aux articles 1 à 3 ci-dessus.",
+      "paragraphs": [
+        {
+          "text": "Le financement des importations d'une valeur égale ou supérieure à l'équivalent de $ US 100.000 (cent mille dollars US), est soumis au visa préalable de la",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Banque d'Algérie au titre du suivi de l'endettement extérieur.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le financement des importations de montants inférieurs à l'équivalent de $US 100.000 (Cent Mille Dollars US), est du ressort des banques domiciliataires. Ces dernières doivent hebdomadairement tenir informée la Banque d'Algérie des opérations de l'espèce traitées. Il reste entendu que le financement des importations des catégories susvisées doit obéir aux conditions édictées aux articles 1 à 3 ci-dessus.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les opérations d'importation de produits non éligibles au cash et aux financements tels que définis dans les articles précédents, peuvent être réalisées par l'utilisation de compte devises, conformément à la réglementation en vigueur.",
+      "paragraphs": [
+        {
+          "text": "Les opérations d'importation de produits non éligibles au cash et aux financements tels que définis dans les articles précédents, peuvent être réalisées par l'utilisation de compte devises, conformément à la réglementation en vigueur.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les opérations d'importation de biens d'équipement restent soumises aux conditions et règles de financement en vigueur.",
+      "paragraphs": [
+        {
+          "text": "Les opérations d'importation de biens d'équipement restent soumises aux conditions et règles de financement en vigueur.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Toutes les dispositions relatives aux attributions et au fonctionnement du\nSous-Comité des Emprunts Extérieurs sont abrogées dès l'entrée en vigueur de la présente Instruction.",
+      "paragraphs": [
+        {
+          "text": "Toutes les dispositions relatives aux attributions et au fonctionnement du",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Sous-Comité des Emprunts Extérieurs sont abrogées dès l'entrée en vigueur de la présente Instruction.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les dispositions non expressément abrogées par la présente demeurent en vigueur.",
+      "paragraphs": [
+        {
+          "text": "Les dispositions non expressément abrogées par la présente demeurent en vigueur.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction entre en application à compter du 27 Octobre 1992.",
+      "paragraphs": [
+        {
+          "text": "La présente instruction entre en application à compter du 27 Octobre 1992.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.031
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-58-92.fr.txt"
+}

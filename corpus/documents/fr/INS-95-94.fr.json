@@ -1,0 +1,382 @@
+{
+  "document_id": "INS-95-94.fr",
+  "work_id": "INS-95-94",
+  "title": "Instruction n°95-94 du 31 décembre 1994 portant abrogation de l’instruction n°29-94 du 09 mai 1994 fixant les modalités d’application de l’article 123 de la loi de finances.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "95-94",
+  "number_source": "en-tête du document",
+  "date": "1994-12-31",
+  "date_raw": "N°95-94 DU 31 DECEMBRE 1994",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction9594.pdf",
+      "uploaded": "2023-01-24T14:58:02"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Année 1994",
+  "source_url": "https://www.bank-of-algeria.dz/annee-1994/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction9594.pdf",
+  "format": "pdf",
+  "file_hash": "142c25af952c44c49c87c38d86a2ca51daf00e0d451746799c88632bde2a81cd",
+  "file_size": 29739,
+  "raw_path": "raw/142c25af952c__instruction9594.pdf",
+  "retrieved_at": "2026-10-05T14:18:01+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "994fb52e3952eabd9901c232e6e9f7b07a16da34e0471017065e32c1ca74479d",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-1994/",
+    "https://www.bank-of-algeria.dz/ar/%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%AC%D9%86%D8%A8%D9%8A%D8%A9/",
+    "https://www.bank-of-algeria.dz/ar/%d8%ad%d8%b3%d8%a7%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%85%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d8%ac%d9%86%d8%a8%d9%8a%d8%a9/",
+    "https://www.bank-of-algeria.dz/comptes-devises-instruction/",
+    "https://www.bank-of-algeria.dz/importations-exportations-instruction/",
+    "https://www.bank-of-algeria.dz/la-loi-de-finances-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document1",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200810130608+01'00'",
+    "modDate": "D:20200810130608+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 1277,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 5,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°95-94 DU 31 DECEMBRE 1994 PORTANT ABROGATION DE L'INSTRUCTION N°29-94 DU 09 MAI 1994 FIXANT LES MODALITES D'APPLICATION DE L'ARTICLE 123 DE LA LOI DE FINANCES",
+  "alias_urls": [
+    {
+      "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction9594.pdf",
+      "source_url": "https://www.bank-of-algeria.dz/importations-exportations-instruction/",
+      "title": "Instruction n°95-94 du 31 décembre 1994 portant abrogation de l’instruction n°29-94 du 09 mai 1994 fixant les modalités d’application de l’article 123 de la loi de finances."
+    }
+  ],
+  "text_hash": "07969fdc45b47398ecb02b1e0475ec09c2d8aebc3251fa938778b31cbdaf7608",
+  "relations_out": [
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "29-94",
+        "date": "1994-05-09",
+        "raw": "instruction n°29-94 du 09 mai 1994"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°95-94 du 31 décembre 1994 portant abrogation de l’instruction n°29-94 du 09 mai 1994 fixant les modalités d’application de l"
+      },
+      "target_work_id": "INS-29-94"
+    },
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "29-94",
+        "date": "1994-05-09",
+        "raw": "instruction n° 29-94 du 09 mai 1994"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet l'abrogation de l'instruction n° 29-94 du 09 mai 1994 fixant les modalités d'application de l"
+      },
+      "target_work_id": "INS-29-94"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "INS-29-94",
+      "reference": "instruction n°29-94 du 09 mai 1994",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°95-94 du 31 décembre 1994 portant abrogation de l’instruction n°29-94 du 09 mai 1994 fixant les modalités d’application de l"
+      }
+    },
+    {
+      "work_id": "INS-29-94",
+      "reference": "instruction n° 29-94 du 09 mai 1994",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet l'abrogation de l'instruction n° 29-94 du 09 mai 1994 fixant les modalités d'application de l"
+      }
+    }
+  ],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°95-94 DU 31 DECEMBRE 1994 PORTANT ABROGATION\nDE L'INSTRUCTION N°29-94 DU 09 MAI 1994 FIXANT LES MODALITES\nD'APPLICATION DE L'ARTICLE 123 DE LA LOI DE FINANCES",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°95-94 DU 31 DECEMBRE 1994 PORTANT ABROGATION",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DE L'INSTRUCTION N°29-94 DU 09 MAI 1994 FIXANT LES MODALITES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "D'APPLICATION DE L'ARTICLE 123 DE LA LOI DE FINANCES",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction a pour objet l'abrogation de l'instruction n° 29-94 du 09 mai 1994 fixant les modalités d'application de l'article 123 de la Loi de Finances pour 1994.\nElle vient en application des dispositions de l'article 122 de l'ordonnance n° 94-03 du 31\nDécembre 1994 portant Loi de Finances pour 1995.",
+      "paragraphs": [
+        {
+          "text": "La présente instruction a pour objet l'abrogation de l'instruction n° 29-94 du 09 mai 1994 fixant les modalités d'application de l'article 123 de la Loi de Finances pour 1994.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Elle vient en application des dispositions de l'article 122 de l'ordonnance n° 94-03 du 31",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Décembre 1994 portant Loi de Finances pour 1995.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les banques intermédiaires agréés doivent procéder à la clôture des comptes devises \"commerçants\" ouverts sur leurs livres.",
+      "paragraphs": [
+        {
+          "text": "Les banques intermédiaires agréés doivent procéder à la clôture des comptes devises \"commerçants\" ouverts sur leurs livres.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les éventuels soldes créditeurs, libres de tout engagement de paiement extérieur déjà pris dans le cadre de l'Instruction susvisée, peuvent sur demande des titulaires de ces comptes, être affectés à l'une des opérations suivantes :\n- virement au profit d'un compte devises \"particuliers\" ou \"personnes morales\",\n- transfert à l'étranger,\n- cession définitive contre dinars algériens.",
+      "paragraphs": [
+        {
+          "text": "Les éventuels soldes créditeurs, libres de tout engagement de paiement extérieur déjà pris dans le cadre de l'Instruction susvisée, peuvent sur demande des titulaires de ces comptes, être affectés à l'une des opérations suivantes :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- virement au profit d'un compte devises \"particuliers\" ou \"personnes morales\",",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- transfert à l'étranger,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- cession définitive contre dinars algériens.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La Banque d'Algérie peut être saisie pour toute éventuelle difficulté d'application.",
+      "paragraphs": [
+        {
+          "text": "La Banque d'Algérie peut être saisie pour toute éventuelle difficulté d'application.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente Instruction entre en vigueur à la date de sa signature.\nLe Directeur du Contrôle des Changes\nD. SAIDI",
+      "paragraphs": [
+        {
+          "text": "La présente Instruction entre en vigueur à la date de sa signature.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Directeur du Contrôle des Changes",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "D. SAIDI",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.047
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-95-94.fr.txt"
+}

@@ -1,0 +1,225 @@
+{
+  "document_id": "NOT-16-01.fr",
+  "work_id": "NOT-16-01",
+  "title": "Note n°16-2001 du 05 août 2001 relative aux importations de service.",
+  "document_type": "note",
+  "type_code": "NOT",
+  "type_source": "label",
+  "number": "16-2001",
+  "number_source": "en-tête du document",
+  "date": "2001-08-05",
+  "date_raw": "N°16-2001 DU 05 AOUT 2001",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-05",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "notes_aux_banques",
+  "subcategory": "Année 2001",
+  "source_url": "https://www.bank-of-algeria.dz/les-notes-aux-banques-2001/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/05/note162001.pdf",
+  "format": "pdf",
+  "file_hash": "93ef3090f71725c55c01c8430cf3200fe9c142892c6613541026f9947b5e74eb",
+  "file_size": 59201,
+  "raw_path": "raw/93ef3090f717__note162001.pdf",
+  "retrieved_at": "2026-10-05T13:24:15+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "9e62b7748817c4343534f574675df5df3f81b7cfa3b89ddefa31363b02cc43b8",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/les-notes-aux-banques-2001/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document1",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210228114642+01'00'",
+    "modDate": "D:20210228114642+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 1695,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": false,
+    "article_count": 0,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "NOTE N°16-2001 DU 05 AOUT 2001 AUX BANQUES ET ETABLISSEMENTS FINANCIERS INTERMEDIAIRES AGREES Objet : Importations de services Réf : Articles 37 et 40 du règlement n°95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes.",
+  "alias_urls": [],
+  "text_hash": "0893e2fe8889a2532b076252f3d544907ae72633e76b98144c05fbfce386eb06",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "92-04",
+        "date": "1992-03-22",
+        "raw": "règlement n°92-04 du 22 mars 1992"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": ": Importations de services Réf : Articles 37 et 40 du règlement n°95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes."
+      },
+      "target_work_id": "REG-92-04"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "REG-92-04",
+      "reference": "règlement n°92-04 du 22 mars 1992",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": ": Importations de services Réf : Articles 37 et 40 du règlement n°95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes."
+      }
+    }
+  ],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "NOTE N°16-2001 DU 05 AOUT 2001 AUX BANQUES\nET ETABLISSEMENTS FINANCIERS INTERMEDIAIRES AGREES\nObjet : Importations de services\nRéf : Articles 37 et 40 du règlement n°95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes.\nLes services du contrôle des changes continuent de recevoir (parfois pour régularisation)\ndes demandes de transfert relatives à des importations de services (non liés au commerce extérieur) appuyées uniquement de factures le plus souvent incompréhensibles. Une telle pratique ne permet pas à la Banque d'Algérie de se prononcer sur le bienfondé de ces opérations.\nAussi, il est rappelé que lesdites importations, en régime de convertibilité courante, sont soumises à l'accord préalable du contrôle des changes de la Banque d'Algérie.\nCet accord ne peut être signifié en l'absence :\n- des documents commerciaux habituels (contrats et/ou factures) identifiant clairement les partenaires et explicitant de façon détaillée les coûts, ainsi que la nature de l'opération.\n- d'une lettre explicative révélant l'intérêt et l'opportunité économique du recours à de telles importations de services.\nEn tout état de cause, les transferts ne devront être exécutés par la banque intermédiaire agréé, que sur la base d'un accord préalable de la Banque d'Algérie dûment appuyé d'une attestation de service fait engageant la pleine responsabilité de l'opérateur économique, importateur de services et de la facture définitive, signée et approuvée par une personne habilitée à cet effet par ce dernier.\nP/La Direction Générale des Changes et par ordre\nAHMED OUAMEUR\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "NOTE N°16-2001 DU 05 AOUT 2001 AUX BANQUES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET ETABLISSEMENTS FINANCIERS INTERMEDIAIRES AGREES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Objet : Importations de services",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Réf : Articles 37 et 40 du règlement n°95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les services du contrôle des changes continuent de recevoir (parfois pour régularisation)",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "des demandes de transfert relatives à des importations de services (non liés au commerce extérieur) appuyées uniquement de factures le plus souvent incompréhensibles. Une telle pratique ne permet pas à la Banque d'Algérie de se prononcer sur le bienfondé de ces opérations.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Aussi, il est rappelé que lesdites importations, en régime de convertibilité courante, sont soumises à l'accord préalable du contrôle des changes de la Banque d'Algérie.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Cet accord ne peut être signifié en l'absence :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- des documents commerciaux habituels (contrats et/ou factures) identifiant clairement les partenaires et explicitant de façon détaillée les coûts, ainsi que la nature de l'opération.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- d'une lettre explicative révélant l'intérêt et l'opportunité économique du recours à de telles importations de services.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "En tout état de cause, les transferts ne devront être exécutés par la banque intermédiaire agréé, que sur la base d'un accord préalable de la Banque d'Algérie dûment appuyé d'une attestation de service fait engageant la pleine responsabilité de l'opérateur économique, importateur de services et de la facture définitive, signée et approuvée par une personne habilitée à cet effet par ce dernier.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "P/La Direction Générale des Changes et par ordre",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AHMED OUAMEUR",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.033
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/NOT-16-01.fr.txt"
+}

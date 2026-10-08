@@ -1,0 +1,238 @@
+{
+  "document_id": "INS-01-02.fr",
+  "work_id": "INS-01-02",
+  "title": "Instruction n°01-2002 du 17 janvier 2002 fixant le taux de réescompte.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "01-2002",
+  "number_source": "en-tête du document",
+  "date": "2002-01-17",
+  "date_raw": "N°01-2002 DU 17 JANVIER 2002",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction012002.pdf",
+      "uploaded": "2023-01-24T10:49:08"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Année 2002",
+  "source_url": "https://www.bank-of-algeria.dz/annee-2002/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction012002.pdf",
+  "format": "pdf",
+  "file_hash": "6d477f62936d96ed7db0b42a3fbf1c34b7ca00872f0bba96d60b5e6ddf22e1aa",
+  "file_size": 37213,
+  "raw_path": "raw/6d477f62936d__instruction012002.pdf",
+  "retrieved_at": "2026-10-05T13:20:58+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "ce90e8efeff958a64761ef705abbda388814be2355c3ea6ac63345596f2da380",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-2002/",
+    "https://www.bank-of-algeria.dz/reescompte-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Microsoft Word - instruction012002",
+    "author": "chahra.yahiaoui",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "creationDate": "D:20210225161549+01'00'",
+    "modDate": "D:20210225161549+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 422,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": false,
+    "article_count": 0,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "meme_texte_plusieurs_fichiers"
+  ],
+  "title_document": "INSTRUCTION N°01-2002 DU 17 JANVIER 2002 FIXANT LE TAUX DE REESCOMPTE",
+  "alias_urls": [],
+  "text_hash": "7e3d35c083987e740c33ffe2cea8c9a84c65e17019be8df2667f5f01e4ea8ed4",
+  "relations_out": [
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "08-2000",
+        "date": "2000-10-21",
+        "raw": "instruction n°08-2000 du 21 octobre 2000"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "en date du 17 janvier 2002, le taux de réescompte est fixé à 5,5%. La présente instruction abroge les dispositions de l’instruction n°08-2000 du 21 octobre 2000 et entre en vigueur à compter du 20 jan"
+      },
+      "target_work_id": "INS-08-00"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "INS-08-00",
+      "reference": "instruction n°08-2000 du 21 octobre 2000",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "en date du 17 janvier 2002, le taux de réescompte est fixé à 5,5%. La présente instruction abroge les dispositions de l’instruction n°08-2000 du 21 octobre 2000 et entre en vigueur à compter du 20 jan"
+      }
+    }
+  ],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [
+    {
+      "work_id": "INS-02-03",
+      "document_id": "INS-02-03.fr",
+      "date": "2003-05-29",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "it, en date du 29 mai 2003, le taux de réescompte est fixé à 4,5%. La présente instruction abroge les dispositions de l’instruction n°01-2002 du 17 janvier 2002 et entre en vigueur à compter du 1er ju"
+      }
+    }
+  ],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "INS-02-03",
+      "document_id": "INS-02-03.fr",
+      "date": "2003-05-29",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "it, en date du 29 mai 2003, le taux de réescompte est fixé à 4,5%. La présente instruction abroge les dispositions de l’instruction n°01-2002 du 17 janvier 2002 et entre en vigueur à compter du 1er ju"
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [
+    "INS-01-02.fr~2"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [
+    {
+      "work_id": "INS-02-03",
+      "document_id": "INS-02-03.fr",
+      "date": "2003-05-29",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "it, en date du 29 mai 2003, le taux de réescompte est fixé à 4,5%. La présente instruction abroge les dispositions de l’instruction n°01-2002 du 17 janvier 2002 et entre en vigueur à compter du 1er ju"
+      }
+    }
+  ],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°01-2002 DU 17 JANVIER 2002\nFIXANT LE TAUX DE REESCOMPTE\nEn application de la délibération du Conseil de la Monnaie et du Crédit, en date du 17 janvier 2002, le taux de réescompte est fixé à 5,5%.\nLa présente instruction abroge les dispositions de l’instruction n°08-2000 du 21 octobre 2000 et entre en vigueur à compter du 20 janvier 2002.\nLe Gouverneur\nMohammed LAKSACI\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°01-2002 DU 17 JANVIER 2002",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "FIXANT LE TAUX DE REESCOMPTE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "En application de la délibération du Conseil de la Monnaie et du Crédit, en date du 17 janvier 2002, le taux de réescompte est fixé à 5,5%.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La présente instruction abroge les dispositions de l’instruction n°08-2000 du 21 octobre 2000 et entre en vigueur à compter du 20 janvier 2002.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "meme_texte_plusieurs_fichiers"
+    ],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.033
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-01-02.fr.txt"
+}

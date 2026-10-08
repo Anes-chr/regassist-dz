@@ -1,0 +1,394 @@
+{
+  "document_id": "INS-03-12.ar",
+  "work_id": "INS-03-12",
+  "title": "تعليمة رقم 03-2012 المؤرخة في 26 ديسمبر 2012، المحددة للتدبير المتعلق بالحق في حساب.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "03-2012",
+  "number_source": "libelle",
+  "date": "2012-12-26",
+  "date_raw": "المؤرخة في 26 ديسمبر 2012",
+  "date_source": "libelle",
+  "publication_date": "2023-03-02",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "instructions",
+  "subcategory": "الشمول المالي",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d8%ad%d8%b3%d8%a7%d8%a8-%d8%a7%d9%84%d8%a8%d9%86%d9%83%d9%8a/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/03/12-03.pdf",
+  "format": "pdf",
+  "file_hash": "819d8293bc64aa7b30c584471236bc045edef56405d883a03b8d596728b3b98a",
+  "file_size": 361353,
+  "raw_path": "raw/819d8293bc64__12-03.pdf",
+  "retrieved_at": "2026-10-05T13:30:16+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 2,
+  "url_hash": "df7dab71d62f1c6a155a424869d31b48f71c256364f90bbc0ea60ff465e4570c",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d8%ad%d8%b3%d8%a7%d8%a8-%d8%a7%d9%84%d8%a8%d9%86%d9%83%d9%8a/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "producer": "Epson Scan 2",
+    "creationDate": "D:20230301100748+01'00'",
+    "modDate": "D:20230301100748+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 1067,
+        "ocr_confidence": 90.77720207253886
+      },
+      {
+        "page": 2,
+        "method": "ocr",
+        "chars": 845,
+        "ocr_confidence": 89.45578231292517
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 7,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine",
+    "numerotation:articles_manquants:[2, 3]"
+  ],
+  "title_document": null,
+  "alias_urls": [],
+  "text_hash": "823f3b6100ca067efa5964ad0b6e47b05cde9641b29b2ece6df500fcf3f9c473",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-03-12.fr",
+    "INS-03-12.fr~2"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "ocr_numeric_check": {
+    "units": 8,
+    "units_flagged": 0,
+    "units_compared_with_french": 7,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "المحافظ التعليمة رقم 2012-03 المؤرخة في 26 ديسمبر 2012 المحددة للتدبير المتعلق بالحق في حساب",
+      "paragraphs": [
+        {
+          "text": "المحافظ التعليمة رقم 2012-03 المؤرخة في 26 ديسمبر 2012 المحددة للتدبير المتعلق بالحق في حساب",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تطبيقا للمادة 119 مكرر من الأمر رقم 11-03 المؤرخ في 27 جمادى الثانية عام 1424 الموافق 26 غشت سنة 2003 والمتعلق بالنقد والقرضء» المعدل والمتمم» تهدف هذه التعليمة إلى تحديد التدبير المتعلق Gall‏ في حساب.\nبالعملة الوطنية» الحق في فتح حساب كهذا لدى مصرف.\nيتم فتح حساب كهذا بعد تقديم الطالب لبنك الجزائر تصريحا شرفيا يشهد فيه أنه لا يحوز شهادة رفض فتح الحساب» المعدة وفق النمودذج المرفق في الملحق 1.",
+      "paragraphs": [
+        {
+          "text": "تطبيقا للمادة 119 مكرر من الأمر رقم 11-03 المؤرخ في 27 جمادى الثانية عام 1424 الموافق 26 غشت سنة 2003 والمتعلق بالنقد والقرضء» المعدل والمتمم» تهدف هذه التعليمة إلى تحديد التدبير المتعلق Gall‏ في حساب.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "بالعملة الوطنية» الحق في فتح حساب كهذا لدى مصرف.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "يتم فتح حساب كهذا بعد تقديم الطالب لبنك الجزائر تصريحا شرفيا يشهد فيه أنه لا يحوز شهادة رفض فتح الحساب» المعدة وفق النمودذج المرفق في الملحق 1.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يمكن عندئذ للشخص الذي كان محل الرفضء إخطار بنك الجزائر بغرض أن يعين له مصرفا. يجرى هذا التعيين في آجال خمسة (5) أيام عمل اعتبارا من استلام الطلب مرفقا بشهادة أو بشهادات رفض فتح الحساب وكذا بتصريح شرفي أنه لا يملك أي حساب مصرفي.",
+      "paragraphs": [
+        {
+          "text": "يمكن عندئذ للشخص الذي كان محل الرفضء إخطار بنك الجزائر بغرض أن يعين له مصرفا. يجرى هذا التعيين في آجال خمسة (5) أيام عمل اعتبارا من استلام الطلب مرفقا بشهادة أو بشهادات رفض فتح الحساب وكذا بتصريح شرفي أنه لا يملك أي حساب مصرفي.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يلتزم كل مصرف الساحة الذي يرفض فتح حساب بإعلام الطالب بإمكانيته التماس بنك الجزائر لكي يعين له مصرفا قصد فتح حساب له في حالة رفض مصارف الساحة. يقترح عليه أن يتصرف باسمه ولحسابه بإرسال إلى بنك الجزائر طلب تعيين مصرف» المعد حسب النموذج المرفق في الملحق 2 وكذا المعلومات المطلوية لفتح حساب.\nBank of Algeria The Governor",
+      "paragraphs": [
+        {
+          "text": "يلتزم كل مصرف الساحة الذي يرفض فتح حساب بإعلام الطالب بإمكانيته التماس بنك الجزائر لكي يعين له مصرفا قصد فتح حساب له في حالة رفض مصارف الساحة. يقترح عليه أن يتصرف باسمه ولحسابه بإرسال إلى بنك الجزائر طلب تعيين مصرف» المعد حسب النموذج المرفق في الملحق 2 وكذا المعلومات المطلوية لفتح حساب.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Bank of Algeria The Governor",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "يمكن للمصارف في إطار التدبير المتعلق بالحق في حساب» أن ais à‏ الخدمات ذات الصلة بفتح حساب ودائع الى الخدمات المصرفية الأساسية.",
+      "paragraphs": [
+        {
+          "text": "يمكن للمصارف في إطار التدبير المتعلق بالحق في حساب» أن ais à‏ الخدمات ذات الصلة بفتح حساب ودائع الى الخدمات المصرفية الأساسية.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "تتمثل الخدمات المصرفية الأساسية المذكورة في المادة السابقة على وجه الخصوص:\n- فتح ومسك وإقفال الحساب؛\n- الإرسال الدوري لبيان العمليات المجراة على الحساب؛\n- تحصيل الصكوك والتحويلات المصرفية؛\n- إيداع وسحب النقود على مستوى شباك المصرف الماسك للحساب؛\n- المدفوعات عن طريق الاقتطاع المصرفي أو التحويل المصرفي؛\n- وسائل الإطلاع عن بعد على رصيد الحسابء إذا كان المصرف يعرض هذه الخدمة؛\n- البطاقة المصرفية.",
+      "paragraphs": [
+        {
+          "text": "تتمثل الخدمات المصرفية الأساسية المذكورة في المادة السابقة على وجه الخصوص:",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- فتح ومسك وإقفال الحساب؛",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- الإرسال الدوري لبيان العمليات المجراة على الحساب؛",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- تحصيل الصكوك والتحويلات المصرفية؛",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- إيداع وسحب النقود على مستوى شباك المصرف الماسك للحساب؛",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- المدفوعات عن طريق الاقتطاع المصرفي أو التحويل المصرفي؛",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- وسائل الإطلاع عن بعد على رصيد الحسابء إذا كان المصرف يعرض هذه الخدمة؛",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- البطاقة المصرفية.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "يجب أن يكون كل قرار إقفال الحساب بمبادرة المصرف الذي تمّ تعيينه من طرف بنك الجزائر» محل إشعار AUS‏ يتضمن الدافع لذلك و يرسل إلى الزبون وإلى بنك الجزائر بغرض الإعلام. يجب أن يُمنح لصاحب الحساب شهرين على الأقل كأجل لإقفال الحساب.",
+      "paragraphs": [
+        {
+          "text": "يجب أن يكون كل قرار إقفال الحساب بمبادرة المصرف الذي تمّ تعيينه من طرف بنك الجزائر» محل إشعار AUS‏ يتضمن الدافع لذلك و يرسل إلى الزبون وإلى بنك الجزائر بغرض الإعلام. يجب أن يُمنح لصاحب الحساب شهرين على الأقل كأجل لإقفال الحساب.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "تدخل هذه التعليمة حيز التنفيذ اعتبارًا من 2 جانفي 2013.",
+      "paragraphs": [
+        {
+          "text": "تدخل هذه التعليمة حيز التنفيذ اعتبارًا من 2 جانفي 2013.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine",
+      "numerotation:articles_manquants:[2, 3]"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.032,
+      "ocr_pages": [
+        1,
+        2
+      ],
+      "ocr_mean_confidence": 90.1
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/INS-03-12.ar.txt"
+}

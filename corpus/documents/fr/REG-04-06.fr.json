@@ -1,0 +1,509 @@
+{
+  "document_id": "REG-04-06.fr",
+  "work_id": "REG-04-06",
+  "title": "Règlement n°2004-06 du 21 octobre 2004 portant frappe et émission d’une pièce commémorative de monnaie métallique de cinquante (50) dinars algériens “50ème anniversaire du 1er Novembre 1954”.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "2004-06",
+  "number_source": "en-tête du document",
+  "date": "2004-10-21",
+  "date_raw": "N°2004-06 DU 21 OCTOBRE 2004",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "règlements",
+  "subcategory": "Pièces de monnaie : Création, émission et mise en circulation de pièces de monnaie métalliques",
+  "source_url": "https://www.bank-of-algeria.dz/reglement-piece-de-monnaie/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement200406.pdf",
+  "format": "pdf",
+  "file_hash": "9a2af818887a9e927c83622d2c854d109df8398dff69bc5fac2065f74359764a",
+  "file_size": 76924,
+  "raw_path": "raw/9a2af818887a__reglement200406.pdf",
+  "retrieved_at": "2026-10-05T13:22:26+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "a1ff3808cfbedcf30e877324873b0faa239719b580e1e634b9c336cf0c99126b",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/reglement-2004/",
+    "https://www.bank-of-algeria.dz/reglement-piece-de-monnaie/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document20",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210215141957+01'00'",
+    "modDate": "D:20210215141957+01'00'"
+  },
+  "hijri_date_raw": "27 Joumada Ethania 1424",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2130,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 1598,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 4,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "REGLEMENT N°2004-06 DU 21 OCTOBRE 2004 PORTANT FRAPPE ET ÉMISSION D’UNE PIÈCE COMMÉMORATIVE DE MONNAIE MÉTALLIQUE DE CINQUANTE (50) DINARS ALGÉRIENS « 50ème ANNIVERSAIRE DU 1er NOVEMBRE 1954 »",
+  "alias_urls": [],
+  "text_hash": "54fb802edea2532b1976b9bf38aa92509292e9d7c117104ede81d153efb351a3",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-04-06.ar"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°2004-06 DU 21 OCTOBRE 2004 PORTANT\nFRAPPE ET ÉMISSION D’UNE PIÈCE COMMÉMORATIVE DE MONNAIE\nMÉTALLIQUE DE CINQUANTE (50) DINARS ALGÉRIENS « 50ème ANNIVERSAIRE DU 1er NOVEMBRE 1954 »\nLe Gouverneur de la Banque d'Algérie,\n- Vu l’Ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003 relative à la monnaie et au crédit, notamment ses articles 32, 38, 62 (alinéa a) 63 et 64 ;\n- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 2 juin 2001 portant nomination du Gouverneur et Vice-Gouverneurs de la Banque d’Algérie ;\n- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 2 juin 2001 portant nomination des membres du Conseil d’administration de la Banque d’Algérie ;\n- Vu le règlement n°04-05 du 7 Ramadhan 1425 correspondant au 21 octobre 2004 portant création d’une pièce commémorative de monnaie métallique de cinquante (50) dinars algériens « 50ème anniversaire du 1er Novembre 1954 » ;\nPromulgue le règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°2004-06 DU 21 OCTOBRE 2004 PORTANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "FRAPPE ET ÉMISSION D’UNE PIÈCE COMMÉMORATIVE DE MONNAIE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "MÉTALLIQUE DE CINQUANTE (50) DINARS ALGÉRIENS « 50ème ANNIVERSAIRE DU 1er NOVEMBRE 1954 »",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d'Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’Ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003 relative à la monnaie et au crédit, notamment ses articles 32, 38, 62 (alinéa a) 63 et 64 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 2 juin 2001 portant nomination du Gouverneur et Vice-Gouverneurs de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 2 juin 2001 portant nomination des membres du Conseil d’administration de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n°04-05 du 7 Ramadhan 1425 correspondant au 21 octobre 2004 portant création d’une pièce commémorative de monnaie métallique de cinquante (50) dinars algériens « 50ème anniversaire du 1er Novembre 1954 » ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Dans le cadre des dispositions du règlement n° 04-05 du 21 octobre 2004 portant création d’une pièce commémorative de monnaie métallique de cinquante (50)\ndinars algériens, la Banque d’Algérie émet une pièce de monnaie métallique commémorative de cinquante (50) dinars algériens dont la mise en circulation sera assurée à compter du 1er Novembre 2004.",
+      "paragraphs": [
+        {
+          "text": "Dans le cadre des dispositions du règlement n° 04-05 du 21 octobre 2004 portant création d’une pièce commémorative de monnaie métallique de cinquante (50)",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "dinars algériens, la Banque d’Algérie émet une pièce de monnaie métallique commémorative de cinquante (50) dinars algériens dont la mise en circulation sera assurée à compter du 1er Novembre 2004.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "Les caractéristiques techniques et description de cette pièce sont les suivantes :\n1- Présentation :\nLa pièce de cinquante (50) dinars est de type bimétallique.\nElle est constituée d’une couronne extérieure en bronze de couleur jaune et d’un coeur en acier inoxydable serti à l’intérieur de cette couronne et de couleur gris acier.\n2- Spécifications :\nDiamètre extérieur : 28,50 ± 0,05 mm\nDiamètre du cœur : 19,55 ± 0,05 mm\nPoids de la couronne : 5,10 ± 0,14 g\nPoids du cœur : 4,17 ± 0,14 g\nPoids total : 9,27 ± 0,28 g\nEpaisseur au cordon : 2,26 ± 0,06 mm.\n3- Composition :\nCœur : Acier Aisi 430\nCouronne : Cuivre 92%\nAluminium 6%\nNickel 2%\nBANK OF ALGERIA\n4- Description :\n4.1. AVERS :\nA - Sur le cœur :\n- motif principal : logo officiel retenu pour cette commémoration et symbolisé par les profils d’un moudjahid et d’une moudjahida, arme à la main, orientés vers la droite ;\n- le croissant et l’étoile du drapeau algérien, hachuré à 90° (symbolisation héraldique de la couleur rouge) ;\n- la zone gauche, limitée par le moudjahid, hachuré à 135° (symbolisation héraldique de la couleur verte) ;\n- sur la partie droite, le chiffre 5.\nB - Sur la couronne :\nMentions en toutes lettres et en langue nationale :\n- sur la partie supérieure droite en demi-lune :\n- sur la partie supérieure gauche en demi-lune :\n- sur la partie inférieure deux dates superposées : 1954 et 2004 ;\n- prolongement des hachures à 135° (symbolisation héraldique de la couleur verte) ;\n- prolongement de la tête et des membres inférieurs des deux personnages ;\n- sur la partie droite, le chiffre 0.\n4.2. - REVERS :\nA - A l’intérieur du cœur :\nMotif principal : chiffre 50, stylisé et inspiré d’un décor architectural de l’époque ottomane.\nB - Sur la couronne :\nMentions en toutes lettres et en langue nationale :\n- sur la partie supérieure :\n- sur la partie inférieure :\n- une étoile de part et d’autre du chiffre 50.\n4.3 - TRANCHE : Lisse.",
+      "paragraphs": [
+        {
+          "text": "Les caractéristiques techniques et description de cette pièce sont les suivantes :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "1- Présentation :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La pièce de cinquante (50) dinars est de type bimétallique.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Elle est constituée d’une couronne extérieure en bronze de couleur jaune et d’un coeur en acier inoxydable serti à l’intérieur de cette couronne et de couleur gris acier.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "2- Spécifications :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Diamètre extérieur : 28,50 ± 0,05 mm",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Diamètre du cœur : 19,55 ± 0,05 mm",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Poids de la couronne : 5,10 ± 0,14 g",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Poids du cœur : 4,17 ± 0,14 g",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Poids total : 9,27 ± 0,28 g",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Epaisseur au cordon : 2,26 ± 0,06 mm.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "3- Composition :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Cœur : Acier Aisi 430",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Couronne : Cuivre 92%",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Aluminium 6%",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Nickel 2%",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "4- Description :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "4.1. AVERS :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "A - Sur le cœur :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- motif principal : logo officiel retenu pour cette commémoration et symbolisé par les profils d’un moudjahid et d’une moudjahida, arme à la main, orientés vers la droite ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- le croissant et l’étoile du drapeau algérien, hachuré à 90° (symbolisation héraldique de la couleur rouge) ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- la zone gauche, limitée par le moudjahid, hachuré à 135° (symbolisation héraldique de la couleur verte) ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- sur la partie droite, le chiffre 5.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "B - Sur la couronne :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Mentions en toutes lettres et en langue nationale :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- sur la partie supérieure droite en demi-lune :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- sur la partie supérieure gauche en demi-lune :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- sur la partie inférieure deux dates superposées : 1954 et 2004 ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- prolongement des hachures à 135° (symbolisation héraldique de la couleur verte) ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- prolongement de la tête et des membres inférieurs des deux personnages ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- sur la partie droite, le chiffre 0.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "4.2. - REVERS :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "A - A l’intérieur du cœur :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Motif principal : chiffre 50, stylisé et inspiré d’un décor architectural de l’époque ottomane.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "B - Sur la couronne :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Mentions en toutes lettres et en langue nationale :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- sur la partie supérieure :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- sur la partie inférieure :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- une étoile de part et d’autre du chiffre 50.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "4.3 - TRANCHE : Lisse.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le nombre de pièces concernées par cette émission est limité à trois millions (3.000.000).",
+      "paragraphs": [
+        {
+          "text": "Le nombre de pièces concernées par cette émission est limité à trois millions (3.000.000).",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le présent règlement sera publié au Journal Officiel de la République\nAlgérienne Démocratique et Populaire.\nLe Gouverneur\nMohammed LAKSACI",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement sera publié au Journal Officiel de la République",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Algérienne Démocratique et Populaire.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.061
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-04-06.fr.txt"
+}

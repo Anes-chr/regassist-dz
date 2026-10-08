@@ -1,0 +1,236 @@
+{
+  "document_id": "NOT-01-01.fr",
+  "work_id": "NOT-01-01",
+  "title": "Note n°01-2001 du 25 janvier 2001 relative aux services de transport liés aux opérations de commerce extérieur.",
+  "document_type": "note",
+  "type_code": "NOT",
+  "type_source": "label",
+  "number": "01-2001",
+  "number_source": "en-tête du document",
+  "date": "2001-01-25",
+  "date_raw": "N°01-2001 DU 25 JANVIER 2001",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-05",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "notes_aux_banques",
+  "subcategory": "Année 2001",
+  "source_url": "https://www.bank-of-algeria.dz/les-notes-aux-banques-2001/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/05/note012001.pdf",
+  "format": "pdf",
+  "file_hash": "c1de52181c01f1badef77e6f1d80bc2f48532d0ce0c6490b9de5c3338188e589",
+  "file_size": 52808,
+  "raw_path": "raw/c1de52181c01__note012001.pdf",
+  "retrieved_at": "2026-10-05T13:23:38+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "8bd791a3e0de7c3eac55a246d95a98bd8504a2aee2031edfb200c3aec36bc3b3",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/les-notes-aux-banques-2001/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document1",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210228113358+01'00'",
+    "modDate": "D:20210228113358+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 1665,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": false,
+    "article_count": 0,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "NOTE N°01-2001 DU 25 JANVIER 2001 AUX BANQUES INTERMEDIAIRES AGREES ET AGENTS CONSIGNATAIRES AGREES Objet : Note n°02-97 du 19 février 1997 aux banques intermédiaires agrées Il a été porté à notre connaissance que la note citée en objet, prise en application de l'article 36 du règlement n°95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes et l'arrêté interministériel du 17 février 1987, relatif au trafic maritime, notamment son article 24, est appliquée différemment par les agents consignataires de navires et de conteneurs.",
+  "alias_urls": [],
+  "text_hash": "5822443a764c46e2650087f3f91fc6106abedf793ac80aa109c38812ed9b4470",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "92-04",
+        "date": "1992-03-22",
+        "raw": "règlement n°92-04 du 22 mars 1992"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "itée en objet, prise en application de l'article 36 du règlement n°95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes et l'ar"
+      },
+      "target_work_id": "REG-92-04"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "NOT",
+        "number": "02-97",
+        "date": "1997-02-19",
+        "raw": "note n°02-97 du 19 février 1997"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "eurs couvrant une période qui ne peut en aucun cas excéder quatre-vingt-dix (90) jours (délais de franchise compris) la note n°02-97 du 19 février 1997 aux banques intermédiaires agrées est m"
+      },
+      "target_work_id": "NOT-02-97"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "REG-92-04",
+      "reference": "règlement n°92-04 du 22 mars 1992",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "itée en objet, prise en application de l'article 36 du règlement n°95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes et l'ar"
+      }
+    },
+    {
+      "work_id": "NOT-02-97",
+      "reference": "note n°02-97 du 19 février 1997",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "eurs couvrant une période qui ne peut en aucun cas excéder quatre-vingt-dix (90) jours (délais de franchise compris) la note n°02-97 du 19 février 1997 aux banques intermédiaires agrées est m"
+      }
+    }
+  ],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "NOTE N°01-2001 DU 25 JANVIER 2001 AUX BANQUES\nINTERMEDIAIRES AGREES ET AGENTS CONSIGNATAIRES AGREES\nObjet : Note n°02-97 du 19 février 1997 aux banques intermédiaires agrées\nIl a été porté à notre connaissance que la note citée en objet, prise en application de l'article 36 du règlement n°95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes et l'arrêté interministériel du 17 février 1987, relatif au trafic maritime, notamment son article 24, est appliquée différemment par les agents consignataires de navires et de conteneurs.\nAfin de lever toute équivoque dans l'application de ladite note le paragraphe 5 visant exclusivement les frais d'immobilisation de conteneurs couvrant une période qui ne peut en aucun cas excéder quatre-vingt-dix (90) jours (délais de franchise compris) la note n°02-97 du 19 février 1997 aux banques intermédiaires agrées est modifiée et complétée comme suit :\n« Il est rappelé par ailleurs que les frais d'immobilisation de conteneurs ne doivent en aucun cas porter sur une immobilisation de plus de 90 jours ».\nIl s'ensuit par conséquent qu'aucune facturation au titre des frais d'immobilisation de conteneurs ne peut être établie par le consignataire et aucun transfert ne peut être autorisé par la banque intermédiaire agréé au titre de la période qui va au-delà de la limite des 90 jours réglementaires.\nLes autres dispositions de la note n°02-97 du 19 février 1997 aux banques, intermédiaires agrées, non modifiées par la présente note demeure applicables.\nLe Directeur Général des Changes\nA. TOUATI\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "NOTE N°01-2001 DU 25 JANVIER 2001 AUX BANQUES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "INTERMEDIAIRES AGREES ET AGENTS CONSIGNATAIRES AGREES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Objet : Note n°02-97 du 19 février 1997 aux banques intermédiaires agrées",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Il a été porté à notre connaissance que la note citée en objet, prise en application de l'article 36 du règlement n°95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes et l'arrêté interministériel du 17 février 1987, relatif au trafic maritime, notamment son article 24, est appliquée différemment par les agents consignataires de navires et de conteneurs.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Afin de lever toute équivoque dans l'application de ladite note le paragraphe 5 visant exclusivement les frais d'immobilisation de conteneurs couvrant une période qui ne peut en aucun cas excéder quatre-vingt-dix (90) jours (délais de franchise compris) la note n°02-97 du 19 février 1997 aux banques intermédiaires agrées est modifiée et complétée comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "« Il est rappelé par ailleurs que les frais d'immobilisation de conteneurs ne doivent en aucun cas porter sur une immobilisation de plus de 90 jours ».",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Il s'ensuit par conséquent qu'aucune facturation au titre des frais d'immobilisation de conteneurs ne peut être établie par le consignataire et aucun transfert ne peut être autorisé par la banque intermédiaire agréé au titre de la période qui va au-delà de la limite des 90 jours réglementaires.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les autres dispositions de la note n°02-97 du 19 février 1997 aux banques, intermédiaires agrées, non modifiées par la présente note demeure applicables.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Directeur Général des Changes",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "A. TOUATI",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.031
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/NOT-01-01.fr.txt"
+}

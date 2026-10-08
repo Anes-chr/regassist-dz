@@ -1,0 +1,469 @@
+[[PAGE 1]]
+
+
+
+
+
+
+REGLEMENT N°2005-04 DU 13 OCTOBRE 2005 PORTANT
+SUR LE SYSTEME DE REGLEMENTS BRUTS EN TEMPS REEL
+DE GROS MONTANTS ET PAIEMENTS URGENTS
+Le Gouverneur de la Banque d’Algérie,
+
+- Vu l’ordonnance n° 75-58 du 26 septembre 1975, modifiée et complétée, portant
+code civil ;
+- Vu l’ordonnance n° 75-59 du 26 septembre 1975, modifiée et complétée, portant
+code de commerce ;
+- Vu l’ordonnance n° 03-11 du 27 Joumada Ethania 1424 correspondant au 26 août
+2003 relative à la monnaie et au crédit, notamment ses articles 56, 57 et 62 ;
+- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 2 juin 2001
+portant nomination du Gouverneur et Vice-Gouverneurs de la Banque d’Algérie ;
+- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 2 juin 2001
+portant nomination des membres du Conseil d’administration de la Banque
+d’Algérie ;
+- Après délibération du conseil de la monnaie et du crédit en date du 13 octobre
+2005 ;
+Promulgue le règlement dont la teneur suit :
+Article 1er : Le présent règlement a pour objet la définition et la mise en place du
+système de règlements bruts en temps réel de gros montants et paiements urgents.
+
+En outre, il précise les responsabilités de l’opérateur et des participants à ce système et
+définit les règles de son fonctionnement.
+
+A) Définition du système de règlements bruts en temps réel en particulier
+
+Article 2 : Le système de règlements bruts en temps réel de gros montants et
+paiements urgents, mis en place par la Banque d’Algérie et dénommé Algeria Real Time
+Settlements (ARTS) est un système de règlements interbancaires des ordres de paiement
+par virements bancaires ou postaux de montants élevés ou paiements urgents effectués
+par des participants à ce système.
+
+Article 3 : Dans le système ARTS, les opérations de paiements interbancaires
+s’effectuent en brut (non compensées) et en temps réel sur les comptes de règlement
+ouverts dans le système aux participants.
+
+L’ouverture des comptes de règlement fait l’objet de conventions entre la Banque
+d’Algérie et les participants concernés.
+
+B) Responsabilité de l’opérateur et des participants au système
+
+Article 4 : L’infrastructure du système ARTS appartient à la Banque d’Algérie-En tant
+qu’opérateur du système, elle fournit, notamment aux participants au système, les
+services suivants :
+
+-échange des ordres de paiement,
+-gestion des comptes de règlement,
+BANK OF ALGERIA
+
+[[PAGE 2]]
+
+-gestion des files d’attente,
+-gestion du système de fourniture de liquidités,
+-transmission de différentes informations relatives aux paiements ou au
+fonctionnement du système (exécution des ordres, relevé des comptes de
+règlement, gestion des liquidités).
+
+Ces services sont assurés conformément et dans la limite des indications portées dans le
+présent règlement.
+
+Article 5 : En tant que propriétaire et opérateur du système, la Banque d’Algérie est
+chargée d’assurer son bon fonctionnement-Elle ne garantit pas la bonne fin des
+opérations de paiement ; elle n’est pas le débiteur en dernier ressort des obligations qui
+s’attachent aux paiements sauf en cas de crédits « overnight » qu’elle accorde.
+
+Article 6 : La Banque d’Algérie n’encourt aucune responsabilité dans les cas :
+
+-de l’exécution des instructions des participants après leur vérification par le
+système,
+-de non-exécution des ordres de paiement rejetés,
+-de non-respect par des participants des spécifications contenues dans le « Guide
+utilisateur du système ARTS »,
+-de défaillances ou de non aboutissement de règlements dus à une tierce partie.
+
+Article 7 : Participants au système sont tenus au respect des règles de fonctionnement
+du système fixées dans le présent règlement et dans le « Guide utilisateur du système
+ARTS ».
+
+Article 8 : La responsabilité de la formulation et du contenu des messages et les
+préjudices éventuels qui peuvent en résulter incombent aux participants.
+
+C) Conditions d’adhésion au système ARTS
+
+Article 9 : En plus de la Banque d’Algérie, qui fait partie du système, l’adhésion au
+système ARTS est volontaire et ouverte aux banques, établissements financiers, Trésor
+public et Algérie-Poste. Les opérateurs chargés des autres systèmes de paiement en font
+partie.
+
+Article 10 : Toute adhésion au système ARTS doit faire l’objet d’une demande
+d’adhésion et d’un accord de la Banque d’Algérie. Dès son adhésion, chaque participant
+reçoit les identifiants confidentiels qui lui permettent d’effectuer les opérations de
+paiement.
+
+Article 11 - Dans sa demande d’adhésion, l’adhérent au système ARTS opte pour le
+statut de participant direct ou de participant indirect. Lorsque l’adhérent opte pour le
+statut de participant direct, l’accord de la Banque d’Algérie est subordonné aux
+vérifications et procédures de tests d’usage adoptées par la Banque d’Algérie.
+
+Article 12 : Le participant direct est un participant qui dispose d’un compte de
+règlement dans le système ARTS et dont la plate-forme dite plate-forme « Participant »
+est raccordée au système.
+
+Article 13 : Le participant indirect est un participant qui dispose d’un compte de
+règlement dans le système ARTS mais n’accède à ce système que par l’intermédiaire de
+la plate-forme «Participant» d’un participant direct.
+
+Article 14 : Les participants peuvent changer de statut.
+
+[[PAGE 3]]
+
+Dans ce cas, ils adressent une notification à la Banque d’Algérie un mois avant la date
+effective de changement.
+
+Le participant indirect qui souhaite changer de statut doit se soumettre aux vérifications
+et procédures de tests d’usage sur sa plate-forme «Participant». Le participant direct qui
+souhaite changer de statut doit proposer une solution assurant la continuité de service
+aux participants indirects pour lesquels il est l’intermédiaire technique.
+
+Article 15 : Chaque participant accrédite une ou plusieurs personnes en tant
+qu’interlocuteurs exclusifs du système ARTS et de la Banque d’Algérie, opérateur du
+système.
+
+Article 16 : Les participants au système ARTS doivent veiller au strict respect des
+conditions de sécurité fixées par la Banque d’Algérie.
+
+D) Comptes de règlement
+
+Article 17 : Chaque participant direct ou indirect doit signer une convention de compte
+de règlement avec la Banque d’Algérie et veiller au respect des dispositions qu’elle
+contient.
+
+Le compte de règlement est ouvert dès la signature de ladite convention-Il enregistre
+l’ensemble des opérations de paiement au profit et à la charge du participant concerné.
+
+Article 18 : Le compte de règlement ne peut à aucun moment présenter un solde
+débiteur-Les crédits intra journaliers consentis par la Banque d’Algérie doivent être
+remboursés avant la fin de la journée d’échange.
+
+E) Opérations admises
+
+Article 19 : Seuls les participants au système peuvent effectuer des ordres de paiement-
+Les ordres, transmis dans le système ARTS, sont libellés en dinars.
+
+Article 20 : Les opérations de paiement traitées par le système ARTS sont
+exclusivement des opérations avec date de valeur jour et introduites dans le système à
+cette même date.
+
+En prévision d’un transfert vers l’étranger, dont la date de valeur tombe un vendredi ou
+un samedi, le virement de la contre-valeur en dinars dans le système ARTS est
+obligatoirement effectué le dernier jour ouvrable de la semaine concernée.
+
+Le virement de la contre-valeur en dinars des opérations de rapatriement dont la date de
+valeur tombe un vendredi est effectué dans le système ARTS avec la date de valeur du
+premier jour ouvrable de la semaine suivante.
+
+Article 21 : Les ordres de paiement par virement d’un montant égal ou supérieur à un
+(1) million de dinars doivent être traités dans le système ARTS-Les ordres de paiement
+urgents, inférieurs à ce plancher, introduits par les participants sont acceptés par le
+système ARTS.
+
+Article 22 : Seules les opérations interbancaires sont admises par le système ARTS.
+Ces opérations sont :
+
+- les opérations interbancaires pour compte propre,
+- les opérations interbancaires pour compte de la clientèle,
+- les opérations sur la monnaie fiduciaire avec la Banque d’Algérie,
+
+[[PAGE 4]]
+
+- les opérations de la Banque d’Algérie liées à la politique monétaire,
+- les soldes nets du système de compensation des paiements dit de masse ou
+détail,
+- les soldes nets du système de règlement d’espèces versus livraison de titres,
+- toute autre opération agréée par la Banque d’Algérie.
+Article 23 : Les participants doivent s’assurer de la disponibilité de fonds suffisants pour
+la liquidation de leurs opérations.
+
+F) Transmission des ordres de paiement
+
+Article 24 : Les ordres de paiement sont transmis au système ARTS suivant leur nature
+et la plage horaire fixée pour l’ouverture et la clôture de la journée d’échange.
+
+Article 25 : Les ordres de paiement, transmis par les participants, validés et acceptés
+par le système ARTS, sont irrévocables.
+
+Article 26 : Sous condition de disponibilité de fonds, les ordres de paiement sont réglés
+définitivement dès que le débit du compte de règlement du donneur d’ordre a été
+exécuté et, simultanément, le crédit correspondant porté sur le compte de règlement du
+participant bénéficiaire.
+
+Parallèlement, le système transmet aux participants ordonnateurs et bénéficiaires les
+notifications d’exécution des ordres transmis.
+
+Dans le cas d’ordres multiples (règlement des systèmes nets), le règlement n’est final
+que lorsque l’ensemble des débits et des crédits ont été exécutés.
+
+Article 27 : Dès la transmission des ordres de paiement, les participants sont tenus de
+suivre leur dénouement et plus particulièrement lors de la reprise de paiements après un
+arrêt éventuel du système.
+Tous les ordres de paiement doivent être réglés avant la clôture de la journée d’échange.
+En l’absence de provision suffisante sur les comptes de règlement, les ordres de
+paiement non réglés sont rejetés à la clôture de la journée d’échange.
+
+Article 28 : Un ordre de paiement peut faire également l’objet d’un rejet d’origine
+technique, par le système. Ce rejet est dû au non-respect, par le participant ordonnateur,
+des règles relatives à l’envoi des ordres de paiement.
+
+G) Disponibilité des fonds
+
+Article 29 : Pour assurer la fluidité des paiements, la Banque d’Algérie peut autoriser les
+participants à accéder aux crédits intra journaliers sous forme de pensions livrées.
+
+Tout crédit intra journalier doit obligatoirement être garanti par des effets publics,
+répondant aux critères d’éligibilité fixés par la Banque d’Algérie. Les effets publics
+acceptés doivent couvrir au minimum 110% du crédit intra journalier.
+
+Article 30 : Les participants voulant utiliser les crédits intra journaliers sont tenus de
+signer avec la Banque d’Algérie la convention de pension livrée.
+
+Article 31 : Le crédit intra journalier est accordé à titre gratuit. Il doit être remboursé
+avant la clôture de la journée d’échange. Dans le cas où le crédit n’est pas remboursé à
+la clôture de la journée d’échange, la Banque d’Algérie procède d’office au débit du
+compte.
+
+[[PAGE 5]]
+
+Article 32 : Dans le cas où le participant est dans l’impossibilité de rembourser le crédit
+intra journalier, la Banque d’Algérie le transforme automatiquement en pension livrée
+overnight. La convention de pension livrée précise les conditions dans lesquelles les
+effets publics apportés en garantie des crédits intra journaliers sont réalisés en cas de
+défaut de remboursement.
+
+Le taux appliqué à la pension livrée overnight est égal au taux de prise en pension à 24 h
+de la Banque d’Algérie majoré de deux (2) points de pourcentage.
+
+H) Modalités de traitement des ordres de paiement
+
+Article 33 : Les ordres de paiement sont préparés et transmis au système
+conformément aux types de messages admis par le système ARTS. A cet effet, les
+participants doivent se conformer aux indications portées dans le « Guide utilisateur du
+système ARTS ».
+
+Article 34 : Les ordres de paiement doivent impérativement être dotés d’un code de
+priorité. Les ordres de paiement faisant appel à une réservation préalable jouissent
+automatiquement d’un code de priorité supérieur.
+
+Article 35 : Les codes de priorité acceptés par le système ARTS correspondent aux
+niveaux suivants :
+
+- les débits imputés sur les comptes des participants au profit de la Banque
+d’Algérie (priorité I),
+- les ordres de paiement au profit de la Banque d’Algérie avec réservation (priorité I),
+- les soldes nets de la compensation du système des paiements de masse (priorité II),
+- les soldes nets du système de règlement-livraison de titres (priorité II),
+- les ordres de paiement urgents au profit des autres participants (priorité III),
+- les autres ordres de paiement (priorité IV).
+Article 36 : Les ordres de paiement transmis par les participants au système ARTS sont
+contrôlés pour validation par le système. Si l’ordre de paiement présente une irrégularité,
+il est procédé automatiquement à son rejet immédiat par l’envoi d’un message au
+participant.
+
+Dans le cas où l’ordre de paiement est validé, le système procède à son règlement ou à
+son positionnement dans la file d’attente en cas d’insuffisance de provision en compte de
+règlement.
+
+Article 37 : Les ordres de paiement enregistrés dans la file d’attente sont traités
+chronologiquement suivant le principe FIFO (premier entré - premier sorti).
+
+Les ordres de paiement portant un code de priorité élevé sont traités ou mis en file
+d’attente avant les ordres figurant dans la file d’attente avec un niveau de priorité
+inférieur.
+
+Article 38 : Le système ARTS procède au règlement des ordres de paiement en file
+d’attente au fur et à mesure de la disponibilité des fonds au moment de leur
+présentation.
+
+Le participant peut toutefois modifier le niveau de priorité affecté à un ordre de paiement
+en file d’attente s’il considère qu’il doit être exécuté en priorité ou pour débloquer une
+situation.
+
+
+
+[[PAGE 6]]
+
+I) Annulation d’un ordre de paiement
+
+Article 39 : Les ordres de paiement transmis au système ARTS et placés en file d’attente
+peuvent être annulés par le participant ordonnateur. En cas de non règlement et non
+annulation par le participant des ordres transmis, le système annule les ordres non
+exécutés à la clôture de la journée d’échange.
+
+Article 40 : La restitution des fonds transférés suite à un ordre de paiement erroné,
+émis par erreur ou faisant double emploi, n’est possible que par l’émission d’un nouvel
+ordre de paiement de retour par le bénéficiaire des fonds.
+
+J) Gestion de la journée d’échange
+
+Article 41 : La gestion de la journée d’échange est du ressort exclusif des services de la
+direction des systèmes de paiement de la Banque d’Algérie.
+
+Article 42 : Les périodes composant la journée d’échange sont réservées aux différents
+types d’opérations indiqués pour chaque période déterminée-Les participants sont
+informés de ces périodes par des « messages système ».
+
+Article 43 : Le profil de la journée d’échange est arrêté par les services de la direction
+des systèmes de paiement de la Banque d’Algérie-Ce profil peut être modifié à la
+demande des participants-Les participants sont informés, avec un préavis suffisant, des
+changements éventuels pour leur permettre de s’adapter à ceux-ci.
+
+Article 44 : Les horaires normaux d’ouverture et de clôture du système ARTS sont les
+horaires de travail de la Banque d’Algérie du dimanche à jeudi.
+
+Article 45 : A la fin de la journée d’échange, le système ARTS rejette automatiquement
+les opérations en file d’attente et effectue le reporting de fin de journée.
+
+Il génère automatiquement les relevés de compte pour chaque compte de règlement et
+en effectue la diffusion électronique aux participants respectifs.
+
+K) Résolution des blocages
+
+Article 46 : Les services de la direction des systèmes de paiement de la Banque
+d’Algérie peuvent, quand ils le jugent nécessaire, lancer une procédure de déblocage
+collectif des opérations en file d’attente dans le cas où le système signale un certain
+nombre d’opérations en instance ayant dépassé le temps requis pour leur liquidation ou
+un certain niveau de montants en file d’attente permettant la résolution simultanée des
+opérations.
+
+Dans ces cas précis, il est fait recours aux procédures d’optimisation pour assurer la
+fluidité des files d’attente tout en respectant la règle FIFO.
+
+La Banque d’Algérie a également la possibilité d’activer, avec l’accord des participants, un
+processus dit « by-pass FIFO » visant à imputer les ordres sans tenir compte de leur
+heure de prise en compte dans le système.
+
+Article 47 : Les ordres de paiement transmis par les participants durant la phase de
+résolution des déblocages sont mis en attente et traités dès la fin de la phase
+d’optimisation suivant les codes de priorité et la règle FIFO qui leur sont affectés.
+
+L) Rupture, suspension et exclusion
+
+Article 48 : L’adhésion au système ARTS est à durée indéterminée-La fin d’adhésion
+d’un participant peut intervenir :
+
+[[PAGE 7]]
+
+-à son initiative, par une demande adressée à la Banque d’Algérie 15 jours avant la
+date effective de rupture ;
+-après l’accord réciproque de rupture entre un participant et la Banque d’Algérie.
+Cette rupture prend effet à compter de la date convenue.
+
+Le participant concerné par la rupture d’adhésion doit s’assurer que toutes ses opérations
+seront liquidées à la clôture du jour avant la date de rupture de sa participation au
+système-Il doit s’assurer aussi que le solde de son compte de règlement sera nul ou
+positif à l’issue de l’imputation de toutes ses opérations en cours y compris les frais dus à
+la Banque d’Algérie, opérateur du système.
+
+Article 49 : Il est mis fin au contrat d’adhésion d’un participant dans les cas :
+
+- de sa cessation d’activité ; ou de règlement judiciaire sans autorisation de
+poursuivre l’activité.
+Dans le cas de cessation d’activité volontaire, le participant concerné doit aviser le plus
+tôt possible la Banque d’Algérie, gestionnaire du système, par lettre recommandée. Dans
+les deux cas le participant concerné doit informer la direction des systèmes des
+paiements de la Banque d’Algérie immédiatement par message électronique afin que
+cette dernière informe les autres participants et mette à jour le référentiel du système.
+
+Néanmoins, les paiements effectués jusqu’à la fin de la journée de cessation d’activité
+restent irrévocables-La fin d’adhésion d’un participant n’entraîne pas le remboursement
+de charges au titre de sa redevance annuelle au système.
+
+Article 50 : La fin d’adhésion d’un participant implique :
+
+- la clôture de son compte de règlement après débit de toutes les opérations liées à
+la rupture de l’adhésion (charges de participation, charges non réglées par unité de
+paiement effectuée),
+- la fin de l’habilitation pour le personnel désigné pour effectuer des ordres de
+paiement dans le système ARTS,
+- l’arrêt de réception des paiements à son profit.
+Article 51 : Un participant peut être suspendu du système ARTS en cas de non-respect
+du présent règlement, du « Guide utilisateur du système ARTS » ou des conventions
+relatives aux comptes de règlement et aux pensions livrées.
+
+Article 52 : Pendant la période de suspension, le participant ne peut ni transmettre ni
+recevoir des ordres de paiement. Par contre, il peut toujours être destinataire des
+informations générales envoyées par la Banque d’Algérie aux participants du système.
+
+Article 53 : Le participant suspendu doit mettre en œuvre tous les moyens de nature à
+lever la mesure de suspension prise à son encontre. S’il n’est pas en mesure de respecter
+les engagements pris envers la Banque d’Algérie et les autres participants, il sera
+procédé à son exclusion définitive du système ARTS sur décision de la Banque d’Algérie.
+
+Article 54 : La rupture, la suspension ou l’exclusion d’un participant est portée à la
+connaissance de tous les participants au système ARTS.
+
+M) Participation aux frais
+
+Article 55 : Les participants au système ARTS doivent s’acquitter des frais résultants des
+coûts de traitement des ordres de paiement.
+
+
+[[PAGE 8]]
+
+Article 56 : Les frais, objet de l’article ci-dessus, sont facturés aux participants au terme
+de chaque trimestre. Ils sont répartis en part fixe (abonnement) et part variable
+proportionnelle au nombre d’ordres traités par le système ARTS au cours du trimestre
+écoulé. Les frais variables peuvent être aussi fonction de l’heure de présentation des
+ordres de paiement dans le système. Les frais de transmission de tout message émis par
+le système central sont aussi facturés à son destinataire.
+
+Une part des frais fixes d’exploitation du système ARTS fera également l’objet d’une
+redevance annuelle due par les participants.
+
+Article 57 : La Banque d’Algérie recouvrira auprès des participants une contribution aux
+coûts des investissements mis à la disposition des participants au système ARTS.
+
+N) Confidentialité et exécution des ordres
+
+Article 58 : Les participants au système ARTS sont tenus par le secret professionnel.
+Toute information provenant du système ARTS, quelle que soit sa forme, est
+confidentielle et ne peut être révélée à une partie tierce-Les parties tierces n’incluent pas
+les autorités judiciaires agissant dans le cadre de leurs fonctions et dans la limite de leur
+compétence ni les inspecteurs de la Banque d’Algérie chargés de la surveillance du
+système ARTS.
+
+Article 59 : La Banque d’Algérie et les participants s’assurent que leur personnel connaît
+et respecte ces obligations-En cas de non-respect de cette obligation de confidentialité
+par un membre de son personnel, le participant concerné ou la Banque d’Algérie est
+considéré comme responsable.
+
+O) Procédure de secours (back-up)
+
+Article 60 : Les participants doivent mettre en œuvre toute solution de nature à garantir
+le bon déroulement des opérations-En particulier, ils doivent mettre en place des
+systèmes de secours (back-up) pour assurer la continuité des opérations.
+
+P) Droit à l’information
+
+Article 61 : Les participants ont la responsabilité de l’archivage et de la conservation des
+informations émanant du système ARTS.
+
+Ils ne peuvent demander à la Banque d’Algérie de leur transmettre de nouveau une
+information qu’en cas de dysfonctionnement du réseau de transmission.
+
+Ils peuvent demander à la Banque d’Algérie de leur retransmettre les informations
+portant sur leur relevé de comptes de règlement ; ce service faisant l’objet de facturation
+spécifique.
+
+Q) Règles de preuve
+
+Article 62 : Dans le cadre du système ARTS, les fichiers électroniques contenant les
+enregistrements conservés par le système servent de preuve en cas de contestation, soit
+entre les participants et leurs clients, soit entre les participants et la Banque d’Algérie.
+
+La portée de la preuve de ces enregistrements est celle qui est accordée à un original au
+sens d’un document écrit, dûment signé.
+
+Article 63 : Le présent règlement sera publié au Journal officiel de la République
+algérienne démocratique et populaire.
+Le Gouverneur
+Mohammed LAKSACI
+

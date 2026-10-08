@@ -1,0 +1,977 @@
+{
+  "document_id": "INS-02-17.fr~2",
+  "work_id": "INS-02-17",
+  "title": "n°02-2016 fixant le mode opératoire des opérations d’escompte et de réescompte d’effets publics et prives en faveur des banques et établissements financiers et d’avances et crédits aux banques.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "filename",
+  "number": "02-2017",
+  "number_source": "en-tête du document",
+  "date": "2017-03-01",
+  "date_raw": "N°02-2017 DU 1er MARS 2017",
+  "date_source": "en-tête du document",
+  "publication_date": "2023-01-24",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Instruments de la politique monétaire",
+  "source_url": "https://www.bank-of-algeria.dz/marche-monetaire-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction022017.pdf",
+  "format": "pdf",
+  "file_hash": "e3a4d357322d96612180f384bb21e3fa02d3760657c3cf5b72cb4eb52f83cf36",
+  "file_size": 60587,
+  "raw_path": "raw/e3a4d357322d__instruction022017.pdf",
+  "retrieved_at": "2026-10-05T13:25:42+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 5,
+  "url_hash": "a8d8e721ad904cf9cf90d8042f9eb0e0054864a0fb86e72a299bed050dc6a16c",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/marche-monetaire-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document11",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20201026120556+01'00'",
+    "modDate": "D:20201026120556+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 5,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 3047,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 3469,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 3078,
+        "ocr_confidence": null
+      },
+      {
+        "page": 4,
+        "method": "pdf_text",
+        "chars": 1695,
+        "ocr_confidence": null
+      },
+      {
+        "page": 5,
+        "method": "pdf_text",
+        "chars": 440,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 11,
+    "annex_count": 1
+  },
+  "quality_flags": [
+    "incoherence_libelle_vs_document:numero",
+    "meme_texte_plusieurs_fichiers"
+  ],
+  "title_document": "INSTRUCTION N°02-2017 DU 1er MARS 2017 COMPLETANT L’INSTRUCTION N°02-2016 FIXANT LE MODE OPERATOIRE DES OPERATIONS D’ESCOMPTE ET DE REESCOMPTE D’EFFETS PUBLICS ET PRIVES EN FAVEUR DES BANQUES ET ETABLISSEMENTS FINANCIERS ET D’AVANCES ET CREDITS AUX BANQUES",
+  "label_number": "02-2016",
+  "alias_urls": [],
+  "text_hash": "5a7fb120a95f8cc93a6f3f0b7450dd7a16e4cf358355e671a7b11de8c983060f",
+  "relations_out": [
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-2016",
+        "date": null,
+        "raw": "INSTRUCTION N°02-2016"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "INSTRUCTION N°02-2017 DU 1er MARS 2017 COMPLETANT L’INSTRUCTION N°02-2016 FIXANT LE MODE OPERATOIRE DES OPERATION"
+      },
+      "target_work_id": "INS-02-16"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "02-2016",
+        "date": "2016-03-24",
+        "raw": "instruction n°02-2016 du 24 mars 2016"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "vés, d’avances et crédits aux banques et établissements financiers, la présente instruction a pour objet de compléter l’instruction n°02-2016 du 24 mars 2016 fixant le mode opératoire des opération"
+      },
+      "target_work_id": "INS-02-16"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "2015-01",
+        "date": null,
+        "raw": "règlement n°2015-01"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "L’article 8 de l’instruction n°02-2016 est complété comme suit : « Article 8 : En vertu des articles 9 à 12 du règlement n°2015-01 2015 relatif aux opérations d’escompte"
+      },
+      "target_work_id": "REG-15-01"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [
+    {
+      "work_id": "INS-02-16",
+      "reference": "INSTRUCTION N°02-2016",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "INSTRUCTION N°02-2017 DU 1er MARS 2017 COMPLETANT L’INSTRUCTION N°02-2016 FIXANT LE MODE OPERATOIRE DES OPERATION"
+      }
+    },
+    {
+      "work_id": "INS-02-16",
+      "reference": "instruction n°02-2016 du 24 mars 2016",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "vés, d’avances et crédits aux banques et établissements financiers, la présente instruction a pour objet de compléter l’instruction n°02-2016 du 24 mars 2016 fixant le mode opératoire des opération"
+      }
+    },
+    {
+      "work_id": "REG-15-01",
+      "reference": "règlement n°2015-01",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "L’article 8 de l’instruction n°02-2016 est complété comme suit : « Article 8 : En vertu des articles 9 à 12 du règlement n°2015-01 2015 relatif aux opérations d’escompte"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-02-17.ar",
+    "INS-02-17.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "INS-02-16",
+      "reference": "INSTRUCTION N°02-2016",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "INSTRUCTION N°02-2017 DU 1er MARS 2017 COMPLETANT L’INSTRUCTION N°02-2016 FIXANT LE MODE OPERATOIRE DES OPERATION"
+      }
+    },
+    {
+      "work_id": "INS-02-16",
+      "reference": "instruction n°02-2016 du 24 mars 2016",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "vés, d’avances et crédits aux banques et établissements financiers, la présente instruction a pour objet de compléter l’instruction n°02-2016 du 24 mars 2016 fixant le mode opératoire des opération"
+      }
+    },
+    {
+      "work_id": "REG-15-01",
+      "reference": "règlement n°2015-01",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "L’article 8 de l’instruction n°02-2016 est complété comme suit : « Article 8 : En vertu des articles 9 à 12 du règlement n°2015-01 2015 relatif aux opérations d’escompte"
+      }
+    }
+  ],
+  "dead_source_urls": [
+    {
+      "url": "https://www.bank-of-algeria.dz/pdf/instructions2017/instruction022017.pdf",
+      "status": "MOVED_OFFICIAL",
+      "listed_on": [
+        "https://www.bank-of-algeria.dz/annee-2017/",
+        "https://www.bank-of-algeria.dz/marche-monetaire-instruction/"
+      ]
+    }
+  ],
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe 4",
+      "number": "4",
+      "heading": "ETAT DES CREDITS A LONG TERME REESCOMPTABLES",
+      "page_start": 5,
+      "page_end": 5,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°02-2017 DU 1er MARS 2017 COMPLETANT L’INSTRUCTION\nN°02-2016 FIXANT LE MODE OPERATOIRE DES OPERATIONS D’ESCOMPTE\nET DE REESCOMPTE D’EFFETS PUBLICS ET PRIVES EN FAVEUR DES BANQUES\nET ETABLISSEMENTS FINANCIERS ET D’AVANCES ET CREDITS AUX BANQUES",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°02-2017 DU 1er MARS 2017 COMPLETANT L’INSTRUCTION",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "N°02-2016 FIXANT LE MODE OPERATOIRE DES OPERATIONS D’ESCOMPTE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET DE REESCOMPTE D’EFFETS PUBLICS ET PRIVES EN FAVEUR DES BANQUES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET ETABLISSEMENTS FINANCIERS ET D’AVANCES ET CREDITS AUX BANQUES",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "En application du règlement n°2016-03 du 28 juillet 2016 complétant le règlement n°2015-01 du 19 février 2015 relatif aux opérations d’escompte d’effets publics, de réescompte d’effets privés, d’avances et crédits aux banques et établissements financiers, la présente instruction a pour objet de compléter l’instruction n°02-2016 du 24 mars 2016 fixant le mode opératoire des opérations d’escompte et de réescompte d’effets publics et privés en faveur des banques et établissements financiers et d’avances et crédits aux banques. Le complément porte sur les dispositions relatives à l’escompte d’effets publics représentatifs d’emprunt national et au réescompte d’effets privés représentatifs de crédits à long terme.",
+      "paragraphs": [
+        {
+          "text": "En application du règlement n°2016-03 du 28 juillet 2016 complétant le règlement n°2015-01 du 19 février 2015 relatif aux opérations d’escompte d’effets publics, de réescompte d’effets privés, d’avances et crédits aux banques et établissements financiers, la présente instruction a pour objet de compléter l’instruction n°02-2016 du 24 mars 2016 fixant le mode opératoire des opérations d’escompte et de réescompte d’effets publics et privés en faveur des banques et établissements financiers et d’avances et crédits aux banques. Le complément porte sur les dispositions relatives à l’escompte d’effets publics représentatifs d’emprunt national et au réescompte d’effets privés représentatifs de crédits à long terme.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L’article 3 de l’instruction n°02-2016 ci-dessus citée est complété comme suit :\n« Article 3 : La Banque d’Algérie peut escompter, au profit des banques et établissements financiers, les effets publics émis ou garantis par l’Etat.\nCes effets sont représentés notamment par :\n- les bons du trésor à court terme d’une durée inférieure ou égale à un (1) an ;\n- les bons du trésor à moyen terme d’une durée de deux (2) à cinq (5) ans ;\n- les titres représentatifs d’emprunt national ».",
+      "paragraphs": [
+        {
+          "text": "L’article 3 de l’instruction n°02-2016 ci-dessus citée est complété comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "« Article 3 : La Banque d’Algérie peut escompter, au profit des banques et établissements financiers, les effets publics émis ou garantis par l’Etat.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Ces effets sont représentés notamment par :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- les bons du trésor à court terme d’une durée inférieure ou égale à un (1) an ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- les bons du trésor à moyen terme d’une durée de deux (2) à cinq (5) ans ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- les titres représentatifs d’emprunt national ».",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L’article 4 de l’instruction n°02-2016 est complété comme suit :\n« Article 4 : Les opérations d’escompte des effets publics comprennent :\n- l’escompte d’effets bancables (effets à maturité inférieure ou égale à trois (03)\nmois) ;\n- l’escompte d’effets, dont l’échéance résiduelle est supérieure à trois (03) mois et inférieure ou égale à trois (03) ans, pour une durée conventionnelle n’excédant pas soixante (60) jours ;\n- l’escompte de titres représentatifs d’emprunt national, dont l’échéance résiduelle est inférieure ou égale à trois (3) ans, pour une durée conventionnelle n’excédant pas soixante (60) jours.\nLa Banque d’Algérie peut escompter (acheter) les effets bancables au prix du marché ou les prendre à échéance conventionnelle avec un concours plafonné à 90% de leur valeur nominale.\nLe concours de la Banque d’Algérie sur les effets publics escomptés à échéance conventionnelle est plafonné à 90% de leur valeur nominale, celui sur les titres représentatifs d’emprunt obligataire national à 15% de leur valeur nominale.\nLe taux d’escompte pratiqué sur les bons du trésor escomptés à échéance conventionnelle est le taux de réescompte en vigueur publié par la Banque d’Algérie. Le taux d’escompte applicable aux titres représentatifs d’emprunt obligataire national, pris à échéance conventionnelle, est le taux d’intérêt fixé à ces titres par le Trésor, lors de leur émission, dans le cas où ce taux est supérieur au taux de réescompte de la Banque d’Algérie ».",
+      "paragraphs": [
+        {
+          "text": "L’article 4 de l’instruction n°02-2016 est complété comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "« Article 4 : Les opérations d’escompte des effets publics comprennent :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- l’escompte d’effets bancables (effets à maturité inférieure ou égale à trois (03)",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "mois) ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- l’escompte d’effets, dont l’échéance résiduelle est supérieure à trois (03) mois et inférieure ou égale à trois (03) ans, pour une durée conventionnelle n’excédant pas soixante (60) jours ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- l’escompte de titres représentatifs d’emprunt national, dont l’échéance résiduelle est inférieure ou égale à trois (3) ans, pour une durée conventionnelle n’excédant pas soixante (60) jours.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La Banque d’Algérie peut escompter (acheter) les effets bancables au prix du marché ou les prendre à échéance conventionnelle avec un concours plafonné à 90% de leur valeur nominale.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le concours de la Banque d’Algérie sur les effets publics escomptés à échéance conventionnelle est plafonné à 90% de leur valeur nominale, celui sur les titres représentatifs d’emprunt obligataire national à 15% de leur valeur nominale.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le taux d’escompte pratiqué sur les bons du trésor escomptés à échéance conventionnelle est le taux de réescompte en vigueur publié par la Banque d’Algérie. Le taux d’escompte applicable aux titres représentatifs d’emprunt obligataire national, pris à échéance conventionnelle, est le taux d’intérêt fixé à ces titres par le Trésor, lors de leur émission, dans le cas où ce taux est supérieur au taux de réescompte de la Banque d’Algérie ».",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "L’article 5 de l’instruction n°02-2016 est complété comme suit :\n« Article 5 : Les bons du trésor à court et à moyen terme, non engagés dans d’autres opérations et admissibles à l’escompte sont dématérialisés et inscrits en comptes courants des banques et établissements financiers ouverts auprès de la Banque d’Algérie ou du dépositaire central.\nLes effets publics représentatifs d’emprunt obligataire national, propriété des banques et établissements financiers ou reçus en garantie d’opérations de crédit, sont au préalable dématérialisés et inscrits en comptes courants des banques et établissements financiers ouverts auprès de la Banque d’Algérie.\nLe règlement des opérations sur effets publics escomptés s’opère par le crédit des comptes de règlement des banques et établissements financiers gérés par le système de règlements bruts en temps réel de gros montants et paiements urgents (ARTS) et repris dans les livres de la Banque d’Algérie ».",
+      "paragraphs": [
+        {
+          "text": "L’article 5 de l’instruction n°02-2016 est complété comme suit :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "« Article 5 : Les bons du trésor à court et à moyen terme, non engagés dans d’autres opérations et admissibles à l’escompte sont dématérialisés et inscrits en comptes courants des banques et établissements financiers ouverts auprès de la Banque d’Algérie ou du dépositaire central.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Les effets publics représentatifs d’emprunt obligataire national, propriété des banques et établissements financiers ou reçus en garantie d’opérations de crédit, sont au préalable dématérialisés et inscrits en comptes courants des banques et établissements financiers ouverts auprès de la Banque d’Algérie.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le règlement des opérations sur effets publics escomptés s’opère par le crédit des comptes de règlement des banques et établissements financiers gérés par le système de règlements bruts en temps réel de gros montants et paiements urgents (ARTS) et repris dans les livres de la Banque d’Algérie ».",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "L’article 6 de l’instruction n°02-2016 est complété comme suit :\n« Article 6 : Les banques et établissements financiers introduisent leurs requêtes d’escompte au moyen d’une demande écrite revêtue de la signature du responsable chargé des engagements de l’institution concernée précisant le (ou les) type(s)\nd’opération(s) souhaité(s) et la nature des bons du trésor et/ou des titres représentatifs d’emprunt obligataire national à engager.\nLa banque ou l’établissement financier non Spécialiste en Valeurs du Trésor (non SVT)\ndoit déclarer le nom du gestionnaire de ses titres et transmettre à la Banque d’Algérie un endossement de la banque gestionnaire de ses titres afin de permettre à la Banque d’Algérie de les bloquer directement sur ses livres ou par l’intermédiaire des comptes de règlement de titres ouverts sur les livres du dépositaire central.\nAprès identification et authentification des effets publics que les banques et/ou établissements financiers ont proposés à l’escompte, la Banque d’Algérie, crédite les comptes de règlement des institutions concernées via le système ARTS pour le montant des effets achetés et/ou pour le montant, après déduction de la décote, des effets pris à échéance conventionnelle.\nA échéance conventionnelle des opérations d’escompte d’effets publics, la Banque d’Algérie débite le compte de règlement de la banque ou de l’établissement financier remettant du montant accordé lors de la conclusion de l’opération d’escompte et des intérêts dus contre remise (libération) des titres engagés.\nLes intérêts dus pour les effets publics pris à échéance conventionnelle sont calculés, sur le nombre de jours réels compris entre la date de remise des effets et la date d’échéance incluse, par application du taux de réescompte de la Banque d’Algérie pour les bons du trésor et du taux d’intérêt fixé par le Trésor lors de l’émission pour les titres représentatifs d’emprunt obligataire national si ce taux est supérieur au taux de réescompte de la Banque d’Algérie ».",
+      "paragraphs": [
+        {
+          "text": "L’article 6 de l’instruction n°02-2016 est complété comme suit :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "« Article 6 : Les banques et établissements financiers introduisent leurs requêtes d’escompte au moyen d’une demande écrite revêtue de la signature du responsable chargé des engagements de l’institution concernée précisant le (ou les) type(s)",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "d’opération(s) souhaité(s) et la nature des bons du trésor et/ou des titres représentatifs d’emprunt obligataire national à engager.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "La banque ou l’établissement financier non Spécialiste en Valeurs du Trésor (non SVT)",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "doit déclarer le nom du gestionnaire de ses titres et transmettre à la Banque d’Algérie un endossement de la banque gestionnaire de ses titres afin de permettre à la Banque d’Algérie de les bloquer directement sur ses livres ou par l’intermédiaire des comptes de règlement de titres ouverts sur les livres du dépositaire central.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Après identification et authentification des effets publics que les banques et/ou établissements financiers ont proposés à l’escompte, la Banque d’Algérie, crédite les comptes de règlement des institutions concernées via le système ARTS pour le montant des effets achetés et/ou pour le montant, après déduction de la décote, des effets pris à échéance conventionnelle.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "A échéance conventionnelle des opérations d’escompte d’effets publics, la Banque d’Algérie débite le compte de règlement de la banque ou de l’établissement financier remettant du montant accordé lors de la conclusion de l’opération d’escompte et des intérêts dus contre remise (libération) des titres engagés.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Les intérêts dus pour les effets publics pris à échéance conventionnelle sont calculés, sur le nombre de jours réels compris entre la date de remise des effets et la date d’échéance incluse, par application du taux de réescompte de la Banque d’Algérie pour les bons du trésor et du taux d’intérêt fixé par le Trésor lors de l’émission pour les titres représentatifs d’emprunt obligataire national si ce taux est supérieur au taux de réescompte de la Banque d’Algérie ».",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 3,
+      "text": "L’article 8 de l’instruction n°02-2016 est complété comme suit :\n« Article 8 : En vertu des articles 9 à 12 du règlement n°2015-01 2015 relatif aux opérations d’escompte d’effets publics, de réescompte d’effets privés, d’avances et crédits aux banques et établissements financiers, la Banque d’Algérie peut réescompter aux banques et établissements financiers quatre (4) catégories d’effets privés :\n- les effets privés représentatifs d’opérations commerciales sur l’Algérie ou sur l’étranger dont l’échéance restant à courir n’excède pas six (6) mois et qui sont revêtus de la signature d’au moins trois personnes physiques ou morales solvables dont celle du cédant ;\n- les effets de financement représentatifs de crédits de trésorerie ou de crédits de campagne réescomptables pour une période de six (6) mois au maximum et pour lesquels le concours de la Banque d’Algérie n’excède pas une durée totale de douze\n(12) mois ;\n- les effets de financement représentatifs de crédits à moyen terme réescomptables pour des périodes de six (6) mois et pour lesquels le concours de la Banque d’Algérie n’excède pas une durée de trois (3) ans ;\n- les effets de financement représentatifs de crédits à long terme réescomptables pour des périodes de six (6) mois et pour lesquels le concours de la Banque d’Algérie n’excède pas une durée de cinq (5) ans ».",
+      "paragraphs": [
+        {
+          "text": "L’article 8 de l’instruction n°02-2016 est complété comme suit :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "« Article 8 : En vertu des articles 9 à 12 du règlement n°2015-01 2015 relatif aux opérations d’escompte d’effets publics, de réescompte d’effets privés, d’avances et crédits aux banques et établissements financiers, la Banque d’Algérie peut réescompter aux banques et établissements financiers quatre (4) catégories d’effets privés :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les effets privés représentatifs d’opérations commerciales sur l’Algérie ou sur l’étranger dont l’échéance restant à courir n’excède pas six (6) mois et qui sont revêtus de la signature d’au moins trois personnes physiques ou morales solvables dont celle du cédant ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- les effets de financement représentatifs de crédits de trésorerie ou de crédits de campagne réescomptables pour une période de six (6) mois au maximum et pour lesquels le concours de la Banque d’Algérie n’excède pas une durée totale de douze",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "(12) mois ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- les effets de financement représentatifs de crédits à moyen terme réescomptables pour des périodes de six (6) mois et pour lesquels le concours de la Banque d’Algérie n’excède pas une durée de trois (3) ans ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- les effets de financement représentatifs de crédits à long terme réescomptables pour des périodes de six (6) mois et pour lesquels le concours de la Banque d’Algérie n’excède pas une durée de cinq (5) ans ».",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "L’article 9 de l’instruction n°02-2016 est complété comme suit :\n« Article 9 : La demande de réescompte d’effets privés par les banques et établissements financiers doit inclure, pour toutes les opérations de réescompte d’effets privés :\n- la demande de réescompte ;\n- l’état des effets réescomptables (cf. annexe 1, annexe 2 et annexe 4) ;\n- une reconnaissance de dette envers la Banque d’Algérie (billet global de mobilisation) revêtue des signatures de la banque ou de l’établissement financier concerné et de la Banque d’Algérie (cf. annexe 3).\nLes effets privés sur entreprises sont réescomptés pour une ou des périodes de six (6)\nmois au maximum. Ils sont plafonnés à hauteur de 70% de leur valeur nominale pour les opérations commerciales et à 50% pour les autres opérations de crédit conformément à l’article 13 du règlement n°15-01 relatif aux opérations d’escompte d’effets publics, de réescompte d’effets privés, d’avances et crédits aux banques et établissements financiers.\nLes effets à moyen terme ne peuvent pas être présentés au réescompte au cours des douze (12) premiers mois d’utilisation de crédits, les effets représentatifs des crédits à long terme ne peuvent pas être présentés au réescompte durant la période de différé.\nDans le cas de présentation par les banques et établissements financiers de billet individuel de mobilisation, les références du crédit (date d’octroi, montant et échéance)\npeuvent être portées au verso de l’effet présenté ».",
+      "paragraphs": [
+        {
+          "text": "L’article 9 de l’instruction n°02-2016 est complété comme suit :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "« Article 9 : La demande de réescompte d’effets privés par les banques et établissements financiers doit inclure, pour toutes les opérations de réescompte d’effets privés :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- la demande de réescompte ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- l’état des effets réescomptables (cf. annexe 1, annexe 2 et annexe 4) ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- une reconnaissance de dette envers la Banque d’Algérie (billet global de mobilisation) revêtue des signatures de la banque ou de l’établissement financier concerné et de la Banque d’Algérie (cf. annexe 3).",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Les effets privés sur entreprises sont réescomptés pour une ou des périodes de six (6)",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "mois au maximum. Ils sont plafonnés à hauteur de 70% de leur valeur nominale pour les opérations commerciales et à 50% pour les autres opérations de crédit conformément à l’article 13 du règlement n°15-01 relatif aux opérations d’escompte d’effets publics, de réescompte d’effets privés, d’avances et crédits aux banques et établissements financiers.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Les effets à moyen terme ne peuvent pas être présentés au réescompte au cours des douze (12) premiers mois d’utilisation de crédits, les effets représentatifs des crédits à long terme ne peuvent pas être présentés au réescompte durant la période de différé.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Dans le cas de présentation par les banques et établissements financiers de billet individuel de mobilisation, les références du crédit (date d’octroi, montant et échéance)",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "peuvent être portées au verso de l’effet présenté ».",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "L’article 12 de l’instruction n°02-2016 est complété comme suit :\n« Article 12 : Au titre des crédits à moyen et long termes définis à l’article 6 ci-dessus, les banques et les établissements financiers sont tenus de transmettre avec leur demande de refinancement, en plus des informations exigées à l’article 7 ci-dessus, les documents ci-après :\n- informations sur l’activité financée ;\n- la nature du financement ;\n- source(s) de financement en cas de financement partiel obtenu d’autres banques et/ou établissements financiers ;\n- échéancier de remboursement ».",
+      "paragraphs": [
+        {
+          "text": "L’article 12 de l’instruction n°02-2016 est complété comme suit :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "« Article 12 : Au titre des crédits à moyen et long termes définis à l’article 6 ci-dessus, les banques et les établissements financiers sont tenus de transmettre avec leur demande de refinancement, en plus des informations exigées à l’article 7 ci-dessus, les documents ci-après :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- informations sur l’activité financée ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- la nature du financement ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- source(s) de financement en cas de financement partiel obtenu d’autres banques et/ou établissements financiers ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- échéancier de remboursement ».",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "L’article 14 de l’instruction n°02-2016 est complété comme suit :\n« Article 14 : La mobilisation des effets privés faisant l’objet de réescompte s’effectue sur la base de la présentation, par les banques et établissements financiers concernés d’un billet global de mobilisation signé par le remettant et établi conformément au canevas joint en annexe 3 de l’instruction n°02-2016.\nChaque billet global de mobilisation, qui doit concerner les effets de même nature, porte les mentions suivantes :\n- le nom de la banque ou de l’établissement financier concerné ;\n- la date de valeur ;\n- l’échéance (maximum six (06) mois) ;\n- le montant de l’effet ;\n- le nombre de jours servant pour le décompte des intérêts.\nLe billet global de mobilisation (BGM) souscrit à l’ordre de la Banque d’Algérie doit être systématiquement accompagné d’un état détaillé des effets (cf. annexe 1 et/ou annexe 2 et annexe 4) servant de support et couvrant le montant des effets réescomptés suivant la quotité concernée et le montant des intérêts dus. L’annexe 4 concernant les crédits à long terme est jointe à la présente instruction ».",
+      "paragraphs": [
+        {
+          "text": "L’article 14 de l’instruction n°02-2016 est complété comme suit :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "« Article 14 : La mobilisation des effets privés faisant l’objet de réescompte s’effectue sur la base de la présentation, par les banques et établissements financiers concernés d’un billet global de mobilisation signé par le remettant et établi conformément au canevas joint en annexe 3 de l’instruction n°02-2016.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Chaque billet global de mobilisation, qui doit concerner les effets de même nature, porte les mentions suivantes :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- le nom de la banque ou de l’établissement financier concerné ;",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- la date de valeur ;",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- l’échéance (maximum six (06) mois) ;",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- le montant de l’effet ;",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- le nombre de jours servant pour le décompte des intérêts.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Le billet global de mobilisation (BGM) souscrit à l’ordre de la Banque d’Algérie doit être systématiquement accompagné d’un état détaillé des effets (cf. annexe 1 et/ou annexe 2 et annexe 4) servant de support et couvrant le montant des effets réescomptés suivant la quotité concernée et le montant des intérêts dus. L’annexe 4 concernant les crédits à long terme est jointe à la présente instruction ».",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Dans le cas de remboursement par anticipation des crédits réescomptés, la banque ou l’établissement financier concerné peut, soit remplacer les effets représentatifs de crédits remboursés par des effets sur d’autres crédits, soit restituer à la\nBanque d’Algérie le montant du réescompte de crédits remboursés par anticipation et des intérêts dus sur le nombre de jours effectifs de réescompte.",
+      "paragraphs": [
+        {
+          "text": "Dans le cas de remboursement par anticipation des crédits réescomptés, la banque ou l’établissement financier concerné peut, soit remplacer les effets représentatifs de crédits remboursés par des effets sur d’autres crédits, soit restituer à la",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Banque d’Algérie le montant du réescompte de crédits remboursés par anticipation et des intérêts dus sur le nombre de jours effectifs de réescompte.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "La présente instruction est applicable à compter de la date de sa signature.\nLe Gouverneur\nMohamed LOUKAL",
+      "paragraphs": [
+        {
+          "text": "La présente instruction est applicable à compter de la date de sa signature.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Mohamed LOUKAL",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe 4",
+      "number": "4",
+      "heading": "ETAT DES CREDITS A LONG TERME REESCOMPTABLES",
+      "context": {},
+      "annexe": {
+        "number": "4",
+        "heading": "ETAT DES CREDITS A LONG TERME REESCOMPTABLES",
+        "label": "Annexe 4"
+      },
+      "page_start": 5,
+      "page_end": 5,
+      "text": "(crédits à maturités supérieures à 7 ans)\nBanque ou établissement Financier :\nNuméro de référence du Billet Global de Mobilisation :\nDate de présentation :\nNature du crédit :\nNuméro d'Identification fiscal\nNom ou\nRaison Sociale\nRéférences du crédit\nGaranties prises\nDate d'octroi\nMontant\nEchéance de remboursement\nAutorisé\nUtilisé",
+      "paragraphs": [
+        {
+          "text": "(crédits à maturités supérieures à 7 ans)",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Banque ou établissement Financier :",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Numéro de référence du Billet Global de Mobilisation :",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Date de présentation :",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Nature du crédit :",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Numéro d'Identification fiscal",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Nom ou",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Raison Sociale",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Références du crédit",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Garanties prises",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Date d'octroi",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Montant",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Echéance de remboursement",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Autorisé",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Utilisé",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [
+    {
+      "page": 5,
+      "tables": [
+        "|Numéro<br>d'Identification fiscal|Nom ou<br>Raison Sociale|Références du crédit|Col4|Col5|Col6|Garanties<br>prises|\n|---|---|---|---|---|---|---|\n|**Numéro**<br>**d'Identification fiscal**|**Nom ou**<br>**Raison Sociale**|**Date d'octroi**|**Montant**|**Montant**|**Echéance de**<br>**remboursement**|**Echéance de**<br>**remboursement**|\n|**Numéro**<br>**d'Identification fiscal**|**Nom ou**<br>**Raison Sociale**|**Date d'octroi**|**Autorisé**|**Utilisé**|**Utilisé**|**Utilisé**|\n||||||||\n||||||||\n||||||||\n||||||||\n||||||||\n||||||||\n||||||||\n||||||||\n||||||||\n||||||||\n||||||||\n||||||||\n||||||||\n||||||||\n||||||||\n||||||||\n||||||||\n||||||||\n||||||||\n||||||||\n||||||||\n\n"
+      ]
+    }
+  ],
+  "quality": {
+    "flags": [
+      "incoherence_libelle_vs_document:numero",
+      "meme_texte_plusieurs_fichiers"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.045
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-02-17.fr~2.txt"
+}

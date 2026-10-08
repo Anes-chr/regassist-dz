@@ -1,0 +1,1097 @@
+{
+  "document_id": "INS-01-01.fr",
+  "work_id": "INS-01-01",
+  "title": "Instruction n°01-2001 du 11 février 2001 relative au régime de réserve obligatoire.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "01-2001",
+  "number_source": "en-tête du document",
+  "date": "2001-02-11",
+  "date_raw": "N°01-2001 DU 11 FEVRIER 2001",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction012001.pdf",
+      "uploaded": "2023-01-24T10:46:03"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Année 2001",
+  "source_url": "https://www.bank-of-algeria.dz/annee-2001/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction012001.pdf",
+  "format": "pdf",
+  "file_hash": "6641a10c1208da6a2f3040ff098f2c487da6bc2330a8de3884992811c3c03c11",
+  "file_size": 60431,
+  "raw_path": "raw/6641a10c1208__instruction012001.pdf",
+  "retrieved_at": "2026-10-05T13:20:57+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 4,
+  "url_hash": "976d3ddd2e9448ccd92ff69f1ad7cdb9ba24c7ce3029e28b0291b6e121a6c0d8",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-2001/",
+    "https://www.bank-of-algeria.dz/reserves-instruction-2/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Microsoft Word - instruction012001",
+    "author": "chahra.yahiaoui",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "creationDate": "D:20210228123641+01'00'",
+    "modDate": "D:20210228123641+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 4,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2557,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 1305,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 916,
+        "ocr_confidence": null
+      },
+      {
+        "page": 4,
+        "method": "pdf_text",
+        "chars": 964,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 11,
+    "annex_count": 2
+  },
+  "quality_flags": [
+    "meme_texte_plusieurs_fichiers"
+  ],
+  "title_document": "INSTRUCTION N°01-2001 DU 11 FEVRIER 2001 RELATIVE AU REGIME DE RESERVE OBLIGATOIRE",
+  "alias_urls": [],
+  "text_hash": "e8da776772254f9590ddee56ba14ef8efec3be028496980e72b122b04f44cabd",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [
+    {
+      "work_id": "INS-06-01",
+      "document_id": "INS-06-01.fr",
+      "date": "2001-12-06",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge l'instruction n°04-2001 du 13 mai 2001, modifiant l'instruction n°01-2001 du 11 février 2001 relative au régime de réserve obligatoi"
+      }
+    },
+    {
+      "work_id": "INS-06-02",
+      "document_id": "INS-06-02.fr",
+      "date": "2002-12-11",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions contraires de l'instruction n°01-2001 modifiée, relative au régime de réserve"
+      }
+    }
+  ],
+  "modifie_par": [
+    {
+      "work_id": "INS-04-01",
+      "document_id": "INS-04-01.fr",
+      "date": "2001-05-13",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°04-2001 du 13 mai 2001 modifiant l’instruction n°01-2001 relative au régime de réserve obligatoi"
+      }
+    },
+    {
+      "work_id": "INS-06-01",
+      "document_id": "INS-06-01.fr",
+      "date": "2001-12-06",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°06-2001 du 06 décembre 2001 modifiant l’instruction n°01-2001 relative au régime de réserve obligatoi"
+      }
+    },
+    {
+      "work_id": "INS-06-02",
+      "document_id": "INS-06-02.fr",
+      "date": "2002-12-11",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°06-2002 du 11 décembre 2002 modifiant l’instruction n°01-2001 relative au régime de réserve obligatoi"
+      }
+    }
+  ],
+  "complete_par": [],
+  "remplace_par": [
+    {
+      "work_id": "INS-02-04",
+      "document_id": "INS-02-04.fr",
+      "date": "2004-05-13",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "La présente instruction annule et remplace l'instruction n°01-2001 du 11 février 2001 modifiée et complétée, relative au régi"
+      }
+    },
+    {
+      "work_id": "INS-06-02",
+      "document_id": "INS-06-02.fr",
+      "date": "2002-12-11",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions contraires de l'instruction n°01-2001 modifiée, relative au régime de réserve"
+      }
+    }
+  ],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "INS-06-01",
+      "document_id": "INS-06-01.fr",
+      "date": "2001-12-06",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge l'instruction n°04-2001 du 13 mai 2001, modifiant l'instruction n°01-2001 du 11 février 2001 relative au régime de réserve obligatoi"
+      }
+    },
+    {
+      "work_id": "INS-06-02",
+      "document_id": "INS-06-02.fr",
+      "date": "2002-12-11",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions contraires de l'instruction n°01-2001 modifiée, relative au régime de réserve"
+      }
+    },
+    {
+      "work_id": "INS-02-04",
+      "document_id": "INS-02-04.fr",
+      "date": "2004-05-13",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "La présente instruction annule et remplace l'instruction n°01-2001 du 11 février 2001 modifiée et complétée, relative au régi"
+      }
+    },
+    {
+      "work_id": "INS-06-02",
+      "document_id": "INS-06-02.fr",
+      "date": "2002-12-11",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions contraires de l'instruction n°01-2001 modifiée, relative au régime de réserve"
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [
+    "INS-01-01.fr~2"
+  ],
+  "complété_par": [],
+  "modifié_par": [
+    {
+      "work_id": "INS-04-01",
+      "document_id": "INS-04-01.fr",
+      "date": "2001-05-13",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°04-2001 du 13 mai 2001 modifiant l’instruction n°01-2001 relative au régime de réserve obligatoi"
+      }
+    },
+    {
+      "work_id": "INS-06-01",
+      "document_id": "INS-06-01.fr",
+      "date": "2001-12-06",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°06-2001 du 06 décembre 2001 modifiant l’instruction n°01-2001 relative au régime de réserve obligatoi"
+      }
+    },
+    {
+      "work_id": "INS-06-02",
+      "document_id": "INS-06-02.fr",
+      "date": "2002-12-11",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°06-2002 du 11 décembre 2002 modifiant l’instruction n°01-2001 relative au régime de réserve obligatoi"
+      }
+    }
+  ],
+  "abrogé_par": [
+    {
+      "work_id": "INS-06-01",
+      "document_id": "INS-06-01.fr",
+      "date": "2001-12-06",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge l'instruction n°04-2001 du 13 mai 2001, modifiant l'instruction n°01-2001 du 11 février 2001 relative au régime de réserve obligatoi"
+      }
+    },
+    {
+      "work_id": "INS-06-02",
+      "document_id": "INS-06-02.fr",
+      "date": "2002-12-11",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions contraires de l'instruction n°01-2001 modifiée, relative au régime de réserve"
+      }
+    }
+  ],
+  "remplacé_par": [
+    {
+      "work_id": "INS-02-04",
+      "document_id": "INS-02-04.fr",
+      "date": "2004-05-13",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "La présente instruction annule et remplace l'instruction n°01-2001 du 11 février 2001 modifiée et complétée, relative au régi"
+      }
+    },
+    {
+      "work_id": "INS-06-02",
+      "document_id": "INS-06-02.fr",
+      "date": "2002-12-11",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions contraires de l'instruction n°01-2001 modifiée, relative au régime de réserve"
+      }
+    }
+  ],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe",
+      "number": "",
+      "heading": "(1) A L'INSTRUCTION N°01-2001",
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe",
+      "number": "",
+      "heading": "(2) A L'INSTRUCTION N°01-2001",
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°01-2001 DU 11 FEVRIER 2001\nRELATIVE AU REGIME DE RESERVE OBLIGATOIRE",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°01-2001 DU 11 FEVRIER 2001",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "RELATIVE AU REGIME DE RESERVE OBLIGATOIRE",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "En application de l'article 93 de la Loi n° 90-10 du 14 avril 1990 relative à la monnaie et au crédit et conformément à l'instruction n°16-94 du 9 avril 1994, les banques et établissements financiers sont tenus de constituer dans les conditions prévues par la présente instruction une réserve sur certains éléments de leurs exigibilités libellés en dinars.",
+      "paragraphs": [
+        {
+          "text": "En application de l'article 93 de la Loi n° 90-10 du 14 avril 1990 relative à la monnaie et au crédit et conformément à l'instruction n°16-94 du 9 avril 1994, les banques et établissements financiers sont tenus de constituer dans les conditions prévues par la présente instruction une réserve sur certains éléments de leurs exigibilités libellés en dinars.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Pour les banques, cette réserve obligatoire est constituée sur l'ensemble des dépôts en dinars de toute nature (dépôts à vue, dépôts à terme, livrets d'épargne, bons de caisses...).\nPour les établissements financiers, la réserve obligatoire est constituée sur l'ensemble des avances qui leur sont consenties par les banques et établissements financiers au lieu et place des dépôts.",
+      "paragraphs": [
+        {
+          "text": "Pour les banques, cette réserve obligatoire est constituée sur l'ensemble des dépôts en dinars de toute nature (dépôts à vue, dépôts à terme, livrets d'épargne, bons de caisses...).",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Pour les établissements financiers, la réserve obligatoire est constituée sur l'ensemble des avances qui leur sont consenties par les banques et établissements financiers au lieu et place des dépôts.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La réserve obligatoire est constituée par périodes mensuelles allant du 15ème jour de chaque mois au 14ème jour du mois suivant.",
+      "paragraphs": [
+        {
+          "text": "La réserve obligatoire est constituée par périodes mensuelles allant du 15ème jour de chaque mois au 14ème jour du mois suivant.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le taux de réserve applicable aux exigibilités mentionnées dans l'article 2 ci-dessus est fixé à 4%.",
+      "paragraphs": [
+        {
+          "text": "Le taux de réserve applicable aux exigibilités mentionnées dans l'article 2 ci-dessus est fixé à 4%.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La réserve est constituée, à hauteur du taux fixé à l'article 4 ci-dessus, par :\n- les soldes créditeurs, constatés pendant la période en cours, des comptes courants ouverts dans les livres de la Banque d'Algérie ; et\n- les encaisses en billets et monnaie métallique en dinars détenus par les banques et établissements financiers.\nLe niveau de réserve constituée est représenté par la moyenne arithmétique des soldes quotidiens en comptes courants, calculée sur le nombre de jours de la période, et par la moyenne arithmétique des soldes quotidiens des encaisses en billets et monnaie métallique en dinars détenus par une banque ou établissement financier au cours de la même période.\nLa somme de ces deux éléments doit être au moins égale au montant de réserve requis.",
+      "paragraphs": [
+        {
+          "text": "La réserve est constituée, à hauteur du taux fixé à l'article 4 ci-dessus, par :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- les soldes créditeurs, constatés pendant la période en cours, des comptes courants ouverts dans les livres de la Banque d'Algérie ; et",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- les encaisses en billets et monnaie métallique en dinars détenus par les banques et établissements financiers.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le niveau de réserve constituée est représenté par la moyenne arithmétique des soldes quotidiens en comptes courants, calculée sur le nombre de jours de la période, et par la moyenne arithmétique des soldes quotidiens des encaisses en billets et monnaie métallique en dinars détenus par une banque ou établissement financier au cours de la même période.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La somme de ces deux éléments doit être au moins égale au montant de réserve requis.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les éléments entrant dans le calcul de la réserve obligatoire sont extraits de la comptabilité des banques et établissements financiers arrêtée au soir du dernier jour du mois correspondant au début de la période de constitution de réserve.",
+      "paragraphs": [
+        {
+          "text": "Les éléments entrant dans le calcul de la réserve obligatoire sont extraits de la comptabilité des banques et établissements financiers arrêtée au soir du dernier jour du mois correspondant au début de la période de constitution de réserve.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "Les banques et établissements financiers doivent adresser à la Banque d'Algérie - Direction Générale des Etudes - dans les dix jours qui suivent la clôture de la période de constitution de réserve, une déclaration faisant ressortir les éléments de calcul de ladite réserve selon le canevas approprié joint en annexe de la présente instruction.\nBANK OF ALGERIA\nEn l'absence de déclaration dans les délais ci-dessus indiqués, le niveau de réserve obligatoire applicable pour la période considérée sera celui de la période précédente majoré de 10%. La moyenne quotidienne des encaisses applicable sera celle de la période précédente minorée de 25%.",
+      "paragraphs": [
+        {
+          "text": "Les banques et établissements financiers doivent adresser à la Banque d'Algérie - Direction Générale des Etudes - dans les dix jours qui suivent la clôture de la période de constitution de réserve, une déclaration faisant ressortir les éléments de calcul de ladite réserve selon le canevas approprié joint en annexe de la présente instruction.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "En l'absence de déclaration dans les délais ci-dessus indiqués, le niveau de réserve obligatoire applicable pour la période considérée sera celui de la période précédente majoré de 10%. La moyenne quotidienne des encaisses applicable sera celle de la période précédente minorée de 25%.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "La partie de la réserve obligatoire, constituée par les soldes créditeurs des comptes courants ouverts dans les livres de la Banque d'Algérie, est rémunérée au taux de réescompte de la Banque d'Algérie diminué de deux points.",
+      "paragraphs": [
+        {
+          "text": "La partie de la réserve obligatoire, constituée par les soldes créditeurs des comptes courants ouverts dans les livres de la Banque d'Algérie, est rémunérée au taux de réescompte de la Banque d'Algérie diminué de deux points.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Sans préjudice des dispositions de l'article 93 de la Loi n°90-10 susvisée, prévoyant une astreinte journalière égale à un pour cent (1%) du manque de réserve obligatoire enregistré, la banque ou l'établissement financier qui enregistre un manque dans la réserve obligatoire est tenu d'adresser, au Gouverneur de la Banque d'Algérie, une explication écrite.",
+      "paragraphs": [
+        {
+          "text": "Sans préjudice des dispositions de l'article 93 de la Loi n°90-10 susvisée, prévoyant une astreinte journalière égale à un pour cent (1%) du manque de réserve obligatoire enregistré, la banque ou l'établissement financier qui enregistre un manque dans la réserve obligatoire est tenu d'adresser, au Gouverneur de la Banque d'Algérie, une explication écrite.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Cette instruction annule et remplace l'instruction n° 73-94 du 28 novembre 1994 relative au régime de réserves obligatoires ainsi que les dispositions de l'instruction n°16-94 du 9 avril 1994 qui sont relatives à la rémunération des réserves obligatoires.",
+      "paragraphs": [
+        {
+          "text": "Cette instruction annule et remplace l'instruction n° 73-94 du 28 novembre 1994 relative au régime de réserves obligatoires ainsi que les dispositions de l'instruction n°16-94 du 9 avril 1994 qui sont relatives à la rémunération des réserves obligatoires.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "La présente instruction entre en application à la date de sa signature.\nLe Gouverneur\nAbdelouawab KERAMANE",
+      "paragraphs": [
+        {
+          "text": "La présente instruction entre en application à la date de sa signature.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Abdelouawab KERAMANE",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe",
+      "number": "",
+      "heading": "(1) A L'INSTRUCTION N°01-2001",
+      "context": {},
+      "annexe": {
+        "number": null,
+        "heading": "(1) A L'INSTRUCTION N°01-2001",
+        "label": "Annexe"
+      },
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Banque : ..........................................................\n.......................................................................\nDECLARATON DES ELEMENTS DE CALCUL DE LA RESERVE\nOBLIGATOIRE POUR LA PERIODE ALLANT\nDU 15 .................................... AU 14 ...................20.............\nEn millions de DA\nELEMENTS A FIN ...........................20..\nMONTANT",
+      "paragraphs": [
+        {
+          "text": "Banque : ..........................................................",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": ".......................................................................",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "DECLARATON DES ELEMENTS DE CALCUL DE LA RESERVE",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "OBLIGATOIRE POUR LA PERIODE ALLANT",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "DU 15 .................................... AU 14 ...................20.............",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "En millions de DA",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "ELEMENTS A FIN ...........................20..",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "MONTANT",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "I",
+          "heading": "Dépôts en dinars :",
+          "label": "Section I"
+        }
+      },
+      "annexe": {
+        "number": null,
+        "heading": "(1) A L'INSTRUCTION N°01-2001",
+        "label": "Annexe"
+      },
+      "page_start": 3,
+      "page_end": 3,
+      "text": "a) dépôts à vue\nb) dépôts à terme\nc) bons de caisse\nd) livrets d'épargne\ne) autres dépôts.",
+      "paragraphs": [
+        {
+          "text": "a) dépôts à vue",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "b) dépôts à terme",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "c) bons de caisse",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "d) livrets d'épargne",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "e) autres dépôts.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "II",
+          "heading": "Moyenne quotidienne des encaisses en billets et monnaie métallique en dinars du 15 ................au 14 ......................",
+          "label": "Section II"
+        }
+      },
+      "annexe": {
+        "number": null,
+        "heading": "(1) A L'INSTRUCTION N°01-2001",
+        "label": "Annexe"
+      },
+      "page_start": 3,
+      "page_end": 3,
+      "text": "...........\n............\n............\n............\n.............\n.............\nFait le ........................\nSignature (1)\n(1) Signature du responsable qui signe les déclarations modèle 10R",
+      "paragraphs": [
+        {
+          "text": "...........",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "............",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "............",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "............",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": ".............",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": ".............",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Fait le ........................",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Signature (1)",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "(1) Signature du responsable qui signe les déclarations modèle 10R",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe",
+      "number": "",
+      "heading": "(2) A L'INSTRUCTION N°01-2001",
+      "context": {},
+      "annexe": {
+        "number": null,
+        "heading": "(2) A L'INSTRUCTION N°01-2001",
+        "label": "Annexe"
+      },
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Etablissement Financier : .......................................................\n.........................................................................................\nDECLARATON DES ELEMENTS DE CALCUL DE LA RESERVE\nOBLIGATOIRE POUR LA PERIODE ALLANT\nDU 15 .................................... AU 14 ...................................20.............\nEn millions de DA\nELEMENTS A FIN ...........................20..\nMONTANT",
+      "paragraphs": [
+        {
+          "text": "Etablissement Financier : .......................................................",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": ".........................................................................................",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "DECLARATON DES ELEMENTS DE CALCUL DE LA RESERVE",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "OBLIGATOIRE POUR LA PERIODE ALLANT",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "DU 15 .................................... AU 14 ...................................20.............",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "En millions de DA",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "ELEMENTS A FIN ...........................20..",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "MONTANT",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "I",
+          "heading": "Avances en dinars :",
+          "label": "Section I"
+        }
+      },
+      "annexe": {
+        "number": null,
+        "heading": "(2) A L'INSTRUCTION N°01-2001",
+        "label": "Annexe"
+      },
+      "page_start": 4,
+      "page_end": 4,
+      "text": "a) avances consenties par les banques\nb) avances consenties par les établissements financiers",
+      "paragraphs": [
+        {
+          "text": "a) avances consenties par les banques",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "b) avances consenties par les établissements financiers",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "II",
+          "heading": "Moyenne quotidienne des encaisses en billets et monnaie métallique en dinars du 15 ............au 14 .........................",
+          "label": "Section II"
+        }
+      },
+      "annexe": {
+        "number": null,
+        "heading": "(2) A L'INSTRUCTION N°01-2001",
+        "label": "Annexe"
+      },
+      "page_start": 4,
+      "page_end": 4,
+      "text": ".....................\n.......................\n........................\nFait le ........................\nSignature (1)\n(1) Signature du responsable qui signe les déclarations modèle 10R",
+      "paragraphs": [
+        {
+          "text": ".....................",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": ".......................",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "........................",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Fait le ........................",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Signature (1)",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "(1) Signature du responsable qui signe les déclarations modèle 10R",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [
+    {
+      "page": 3,
+      "tables": [
+        "|En millions de DA|Col2|\n|---|---|\n|**ELEMENTS A FIN ...........................20..**|**MONTANT**|\n|I. Dépôts en dinars : <br>a) dépôts à vue <br>b) dépôts à terme <br>c) bons de caisse <br>d) livrets d'épargne <br>e) autres dépôts. <br>II. Moyenne quotidienne des encaisses en billets et monnaie<br>métallique en dinars du 15 ................au 14 ......................|...........<br>............<br>............ <br>............ <br>............. <br>.............|\n\n"
+      ]
+    },
+    {
+      "page": 4,
+      "tables": [
+        "|En millions de DA|Col2|\n|---|---|\n|**ELEMENTS A FIN ...........................20..**|**MONTANT**|\n|I. Avances en dinars :<br> <br>a) avances consenties par les banques <br>b) avances consenties par les établissements financiers <br>II. Moyenne quotidienne des encaisses en billets et monnaie<br>métallique en dinars du 15 ............au 14 .........................|..................... <br>....................... <br>........................|\n\n"
+      ]
+    }
+  ],
+  "quality": {
+    "flags": [
+      "meme_texte_plusieurs_fichiers"
+    ],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.185
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-01-01.fr.txt"
+}

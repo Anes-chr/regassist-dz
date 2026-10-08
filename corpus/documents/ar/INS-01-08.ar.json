@@ -1,0 +1,403 @@
+{
+  "document_id": "INS-01-08.ar",
+  "work_id": "INS-01-08",
+  "title": "تعليمة رقم 01-08 المؤرخة في 09 مارس 2008، المتعلقة بجمع المعلومات حول القروض الممنوحة للأشخاص من قبل البنوك والمؤسسات المالية وتعاونيات الادخار والقرض.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "01-08",
+  "number_source": "libelle",
+  "date": "2008-03-09",
+  "date_raw": "المؤرخة في 09 مارس 2008",
+  "date_source": "libelle",
+  "publication_date": "2023-03-02",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "instructions",
+  "subcategory": "القواعد المحاسبية و التصريحات الإحصائية لدى البنوك و المؤسسات المالية",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%b9%d8%af-%d8%a7%d9%84%d9%85%d8%ad%d8%a7%d8%b3%d8%a8%d9%8a%d8%a9-%d9%88-%d8%a7%d9%84%d8%aa%d8%b5%d8%b1%d9%8a%d8%ad%d8%a7%d8%aa-%d8%a7%d9%84%d8%a5%d8%ad%d8%b5%d8%a7/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/03/08-01.pdf",
+  "format": "pdf",
+  "file_hash": "0372aa2f7131987ec9d5151187bef4424b09246d9510ab2efb837619df9a7b74",
+  "file_size": 322671,
+  "raw_path": "raw/0372aa2f7131__08-01.pdf",
+  "retrieved_at": "2026-10-05T13:29:50+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 2,
+  "url_hash": "52fbfe28c696c58de13caa96b8fde360bcc48fec9904b6278af3e2c1ec991744",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%b9%d8%af-%d8%a7%d9%84%d9%85%d8%ad%d8%a7%d8%b3%d8%a8%d9%8a%d8%a9-%d9%88-%d8%a7%d9%84%d8%aa%d8%b5%d8%b1%d9%8a%d8%ad%d8%a7%d8%aa-%d8%a7%d9%84%d8%a5%d8%ad%d8%b5%d8%a7/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "producer": "Epson Scan 2",
+    "creationDate": "D:20230228155723+01'00'",
+    "modDate": "D:20230228155723+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 1072,
+        "ocr_confidence": 88.13661202185793
+      },
+      {
+        "page": 2,
+        "method": "ocr",
+        "chars": 356,
+        "ocr_confidence": 88.01538461538462
+      }
+    ],
+    "cleaning_removed": [
+      {
+        "page": 2,
+        "removed": "2/2",
+        "why": "numéro de page"
+      }
+    ]
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 6,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine",
+    "numerotation:premier_article=2"
+  ],
+  "title_document": "تعليمة رقم 08-01 المتعلقة بجمع المعلومات حول القروض الممنوحة للأشخاص من قبل البنوك والمؤسسات المالية و تعاونيات الادخار و القرض المادة AS‏ تهدف هذه التعليمة. وفقا لأحكام الأمر رقم 11-03 المؤرخ في 6 أوت 2003 المتعلق بالنقد و القرض و تطبيقا للنظام رقم 01-92 المؤرخ في 22 مارس 1992 و المتعلق بتنظيم و سير مركزية المخاطر إلى تحديد كيفيات الجمع من قبل بنك الجزائر للمعلومات المتعلقة بالقروض الممنوحة للأشخاص لغرض خاص من قبل البنوك و المؤسسات المالية بما في ذلك تعاونيات الادخار و القرض.",
+  "alias_urls": [],
+  "text_hash": "cb0dfa9cc172092420f5820bdef6d80ebd540b4379e1bbe376b5e2388143de15",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [
+    {
+      "work_id": "INS-04-19",
+      "document_id": "INS-04-19.fr",
+      "date": "2019-12-31",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 6,
+        "quote": "ée, respectivement par l’instruction n°56-94 du 07 septembre 1994, l’instruction n°07-2005 du 11 août 2005, ainsi que l’instruction n°01-2008 du 9 mars 2008, sont abrogées."
+      }
+    }
+  ],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "INS-04-19",
+      "document_id": "INS-04-19.fr",
+      "date": "2019-12-31",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 6,
+        "quote": "ée, respectivement par l’instruction n°56-94 du 07 septembre 1994, l’instruction n°07-2005 du 11 août 2005, ainsi que l’instruction n°01-2008 du 9 mars 2008, sont abrogées."
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [
+    "INS-01-08.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [
+    {
+      "work_id": "INS-04-19",
+      "document_id": "INS-04-19.fr",
+      "date": "2019-12-31",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 6,
+        "quote": "ée, respectivement par l’instruction n°56-94 du 07 septembre 1994, l’instruction n°07-2005 du 11 août 2005, ainsi que l’instruction n°01-2008 du 9 mars 2008, sont abrogées."
+      }
+    }
+  ],
+  "remplacé_par": [],
+  "complète": [],
+  "ocr_numeric_check": {
+    "units": 7,
+    "units_flagged": 0,
+    "units_compared_with_french": 5,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article A",
+      "number": "A",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "bla all تعليمة رقم 08-01 المتعلقة بجمع المعلومات حول القروض الممنوحة للأشخاص من قبل البنوك والمؤسسات المالية و تعاونيات الادخار و القرض",
+      "paragraphs": [
+        {
+          "text": "bla all تعليمة رقم 08-01 المتعلقة بجمع المعلومات حول القروض الممنوحة للأشخاص من قبل البنوك والمؤسسات المالية و تعاونيات الادخار و القرض",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article A",
+      "number": "A",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "S‏ تهدف هذه التعليمة. وفقا لأحكام الأمر رقم 11-03 المؤرخ في 6 أوت 2003 المتعلق بالنقد و القرض و تطبيقا للنظام رقم 01-92 المؤرخ في 22 مارس 1992 و المتعلق بتنظيم و سير مركزية المخاطر إلى تحديد كيفيات الجمع من قبل بنك الجزائر للمعلومات المتعلقة بالقروض الممنوحة للأشخاص لغرض خاص من قبل البنوك و المؤسسات المالية بما في ذلك تعاونيات الادخار و القرض.",
+      "paragraphs": [
+        {
+          "text": "S‏ تهدف هذه التعليمة. وفقا لأحكام الأمر رقم 11-03 المؤرخ في 6 أوت 2003 المتعلق بالنقد و القرض و تطبيقا للنظام رقم 01-92 المؤرخ في 22 مارس 1992 و المتعلق بتنظيم و سير مركزية المخاطر إلى تحديد كيفيات الجمع من قبل بنك الجزائر للمعلومات المتعلقة بالقروض الممنوحة للأشخاص لغرض خاص من قبل البنوك و المؤسسات المالية بما في ذلك تعاونيات الادخار و القرض.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يجب على البنوك و المؤسسات المالية و كذا تعاونيات الادخار و القرض أن 5 «Ju‏ بصفة دورية» لبنك الجزائر» بموجب مركزية المخاطرء قائمة الأشخاص الطبيعيين المستفيدين من القروض وكذا مبالغ القروض الممنوحة.\nتصدر هذه التصريحات عن الشبابيك التي تمنح القروض و يتم إرسال هذه الجزائر.",
+      "paragraphs": [
+        {
+          "text": "يجب على البنوك و المؤسسات المالية و كذا تعاونيات الادخار و القرض أن 5 «Ju‏ بصفة دورية» لبنك الجزائر» بموجب مركزية المخاطرء قائمة الأشخاص الطبيعيين المستفيدين من القروض وكذا مبالغ القروض الممنوحة.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "تصدر هذه التصريحات عن الشبابيك التي تمنح القروض و يتم إرسال هذه الجزائر.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يتم التصريح شهريا بالقروض لبنك الجزائر.\nيجب تسليم هذه التصريحات خمسة عشر (15) يوما بعد اختتام الشهر المرجعي.",
+      "paragraphs": [
+        {
+          "text": "يتم التصريح شهريا بالقروض لبنك الجزائر.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "يجب تسليم هذه التصريحات خمسة عشر (15) يوما بعد اختتام الشهر المرجعي.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "تقوم البنوك و المؤسسات المالبة و كذا تعاونيات الادخار و القرض بإبلاغ بنك الجزائر بقائمة الأشخاص الذين استفادوا من القرض (القروض) لغرض خاص,.\nBank of Algeria The Governor و القرضء فيما يخص كل مستفيد من قرضء Les‏ يلي:\n- اللقب الاسم (الأسماء)؛\n- تاريخ و مكان الازدياد؛\n- العنوان؛\n- رقم الضمان الاجتماعي؛\n- و مبلغ (مبالغ) القرض.",
+      "paragraphs": [
+        {
+          "text": "تقوم البنوك و المؤسسات المالبة و كذا تعاونيات الادخار و القرض بإبلاغ بنك الجزائر بقائمة الأشخاص الذين استفادوا من القرض (القروض) لغرض خاص,.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Bank of Algeria The Governor و القرضء فيما يخص كل مستفيد من قرضء Les‏ يلي:",
+          "page_start": 1,
+          "page_end": 2
+        },
+        {
+          "text": "- اللقب الاسم (الأسماء)؛",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- تاريخ و مكان الازدياد؛",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- العنوان؛",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- رقم الضمان الاجتماعي؛",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- و مبلغ (مبالغ) القرض.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "يتم تبليغ المعلومات did‏ الجزائر بواسطة أداة مغناطيسية support magnétique‏ حسب طبيعة كل قرض.",
+      "paragraphs": [
+        {
+          "text": "يتم تبليغ المعلومات did‏ الجزائر بواسطة أداة مغناطيسية support magnétique‏ حسب طبيعة كل قرض.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "تدخل هذه التعليمة حيز التنفيذ اعتبارا من 16 مارس 2008.\nحرّر بالجزائر في 9 مارس 2008.",
+      "paragraphs": [
+        {
+          "text": "تدخل هذه التعليمة حيز التنفيذ اعتبارا من 16 مارس 2008.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "حرّر بالجزائر في 9 مارس 2008.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine",
+      "numerotation:premier_article=2"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.04,
+      "ocr_pages": [
+        1,
+        2
+      ],
+      "ocr_mean_confidence": 88.1
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/INS-01-08.ar.txt"
+}

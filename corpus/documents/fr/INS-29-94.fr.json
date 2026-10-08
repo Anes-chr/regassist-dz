@@ -1,0 +1,786 @@
+{
+  "document_id": "INS-29-94.fr",
+  "work_id": "INS-29-94",
+  "title": "Instruction n°29-94 du 09 mai 1994 fixant les modalités d’application de l’article 123 de la loi de finances pour 1994.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "29-94",
+  "number_source": "en-tête du document",
+  "date": "1994-05-09",
+  "date_raw": "N°29-94 DU 09 MAI 1994",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction2994.pdf",
+      "uploaded": "2023-01-24T14:57:29"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Année 1994",
+  "source_url": "https://www.bank-of-algeria.dz/annee-1994/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction2994.pdf",
+  "format": "pdf",
+  "file_hash": "15f95790db4123e457391fc3ecda2d818c43ba39061f56d229fedfcb510ccca7",
+  "file_size": 40330,
+  "raw_path": "raw/15f95790db41__instruction2994.pdf",
+  "retrieved_at": "2026-10-05T14:17:35+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "71e01cf0c825ca6625d70dc3ab6d8bd02a45f7aaa8fd4d2ab3d30af8287338e8",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-1994/",
+    "https://www.bank-of-algeria.dz/ar/%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%AC%D9%86%D8%A8%D9%8A%D8%A9/",
+    "https://www.bank-of-algeria.dz/ar/%d8%ad%d8%b3%d8%a7%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%85%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d8%ac%d9%86%d8%a8%d9%8a%d8%a9/",
+    "https://www.bank-of-algeria.dz/comptes-devises-instruction/",
+    "https://www.bank-of-algeria.dz/importations-exportations-instruction/",
+    "https://www.bank-of-algeria.dz/la-loi-de-finances-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - INSTRUCTION 32-91",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200809113547+01'00'",
+    "modDate": "D:20200809113547+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 3317,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 2833,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 18,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°29-94 DU 09 MAI 1994 FIXANT LES MODALITES D'APPLICATION DE L'ARTICLE 123 DE LA LOI DE FINANCES POUR 1994",
+  "alias_urls": [
+    {
+      "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction2994.pdf",
+      "source_url": "https://www.bank-of-algeria.dz/importations-exportations-instruction/",
+      "title": "Instruction n°29-94 du 09 mai 1994 fixant les modalités d’application de l’article 123 de la loi de finances pour 1994."
+    }
+  ],
+  "text_hash": "c518e94a4a3b1ae6513d9bbea2bf3c7cfe4edf0cf373c0b189ed88e19a02dae6",
+  "relations_out": [
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "NOT",
+        "number": "04-92",
+        "date": "1992-09-15",
+        "raw": "note n°04-92 du 15 septembre 1992"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "t abrogées et notamment les dispositions des instructions n°06-91 du 17 octobre 1991, n°02-92 du 14 avril 1992 et de la note n°04-92 du 15 septembre 1992."
+      },
+      "target_work_id": "NOT-04-92"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "NOT-04-92",
+      "reference": "note n°04-92 du 15 septembre 1992",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "t abrogées et notamment les dispositions des instructions n°06-91 du 17 octobre 1991, n°02-92 du 14 avril 1992 et de la note n°04-92 du 15 septembre 1992."
+      }
+    }
+  ],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [
+    {
+      "work_id": "INS-95-94",
+      "document_id": "INS-95-94.fr",
+      "date": "1994-12-31",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°95-94 du 31 décembre 1994 portant abrogation de l’instruction n°29-94 du 09 mai 1994 fixant les modalités d’application de l"
+      }
+    },
+    {
+      "work_id": "INS-95-94",
+      "document_id": "INS-95-94.fr",
+      "date": "1994-12-31",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet l'abrogation de l'instruction n° 29-94 du 09 mai 1994 fixant les modalités d'application de l"
+      }
+    }
+  ],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "abrogé",
+  "status_evidence": [
+    {
+      "work_id": "INS-95-94",
+      "document_id": "INS-95-94.fr",
+      "date": "1994-12-31",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°95-94 du 31 décembre 1994 portant abrogation de l’instruction n°29-94 du 09 mai 1994 fixant les modalités d’application de l"
+      }
+    }
+  ],
+  "status_note": "Abrogation/remplacement explicite dans l'intitulé d'un texte officiel du corpus ; date d'effet à vérifier dans le texte abrogeant.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [
+    {
+      "work_id": "INS-95-94",
+      "document_id": "INS-95-94.fr",
+      "date": "1994-12-31",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°95-94 du 31 décembre 1994 portant abrogation de l’instruction n°29-94 du 09 mai 1994 fixant les modalités d’application de l"
+      }
+    },
+    {
+      "work_id": "INS-95-94",
+      "document_id": "INS-95-94.fr",
+      "date": "1994-12-31",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet l'abrogation de l'instruction n° 29-94 du 09 mai 1994 fixant les modalités d'application de l"
+      }
+    }
+  ],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 16",
+      "number": "16",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 17",
+      "number": "17",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 18",
+      "number": "18",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°29-94 DU 09 MAI 1994 FIXANT LES MODALITES\nD'APPLICATION DE L'ARTICLE 123 DE LA LOI DE FINANCES POUR 1994",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°29-94 DU 09 MAI 1994 FIXANT LES MODALITES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "D'APPLICATION DE L'ARTICLE 123 DE LA LOI DE FINANCES POUR 1994",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction a pour objet de fixer les modalités d'application de l'article 123 de la loi de finances pour 1994, relatif aux importations de marchandises destinées à l'usage professionnel et à la revente en l'état.",
+      "paragraphs": [
+        {
+          "text": "La présente instruction a pour objet de fixer les modalités d'application de l'article 123 de la loi de finances pour 1994, relatif aux importations de marchandises destinées à l'usage professionnel et à la revente en l'état.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les marchandises importées dans le cadre de l'article susvisé sont soumises à l'obligation de domiciliation préalable et de règlement par des utilisations des propres avoirs en devises de l'importateur.",
+      "paragraphs": [
+        {
+          "text": "Les marchandises importées dans le cadre de l'article susvisé sont soumises à l'obligation de domiciliation préalable et de règlement par des utilisations des propres avoirs en devises de l'importateur.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Il est entendu par \"obligation de domiciliation préalable\" l'accomplissement par l'importateur de sa banque domiciliataire, des formalités et procédures définies par le règlement n°91-12 du 14 août 1991 relatif à la domiciliation des importations.\nToutefois, le dossier de domiciliation ainsi que, tout document à délivrer par la banque domiciliataire en un unique exemplaire pour permettre le dédouanement des importations, devront comporter outre les visas et numéros de domiciliation réglementaires, la mention suivante : \"importation dans le cadre article 123 de la loi de finances pour 1994\".",
+      "paragraphs": [
+        {
+          "text": "Il est entendu par \"obligation de domiciliation préalable\" l'accomplissement par l'importateur de sa banque domiciliataire, des formalités et procédures définies par le règlement n°91-12 du 14 août 1991 relatif à la domiciliation des importations.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Toutefois, le dossier de domiciliation ainsi que, tout document à délivrer par la banque domiciliataire en un unique exemplaire pour permettre le dédouanement des importations, devront comporter outre les visas et numéros de domiciliation réglementaires, la mention suivante : \"importation dans le cadre article 123 de la loi de finances pour 1994\".",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Il est entendu par \"propres avoirs en devises de l'importateur\" les avoirs libellés en une monnaie étrangère convertible régulièrement cotée par la Banque d'Algérie appartenant à l'importateur et sur lesquels il a la libre disposition au regard de la réglementation des changes.",
+      "paragraphs": [
+        {
+          "text": "Il est entendu par \"propres avoirs en devises de l'importateur\" les avoirs libellés en une monnaie étrangère convertible régulièrement cotée par la Banque d'Algérie appartenant à l'importateur et sur lesquels il a la libre disposition au regard de la réglementation des changes.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Lesdits avoirs en devises tels que définis à l'article précédent doivent impérativement être situés dans un compte devises intitulé compte devises \"commerçants\" ouvert par l'importateur auprès d'une banque en Algérie.",
+      "paragraphs": [
+        {
+          "text": "Lesdits avoirs en devises tels que définis à l'article précédent doivent impérativement être situés dans un compte devises intitulé compte devises \"commerçants\" ouvert par l'importateur auprès d'une banque en Algérie.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les banques intermédiaires agréés sont autorisées à ouvrir des comptes devises \"commerçants\" au profit des opérateurs nationaux pouvant réaliser des importations dans le cadre de l'article 123 susvisé, dans les conditions fixées par l'instruction interministérielle du 28 Février 1994 relative aux importations de marchandises.",
+      "paragraphs": [
+        {
+          "text": "Les banques intermédiaires agréés sont autorisées à ouvrir des comptes devises \"commerçants\" au profit des opérateurs nationaux pouvant réaliser des importations dans le cadre de l'article 123 susvisé, dans les conditions fixées par l'instruction interministérielle du 28 Février 1994 relative aux importations de marchandises.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L'importateur aura à fournir à la banque intermédiaire agréé à l'appui de la demande d'ouverture de comptes de cette nature, les documents suivants :\n- un engagement de régler par le débit du compte devises \"commerçant\" les importations de marchandises réalisées dans le cadre de l'article 123 de la loi de finances pour 1994 ;\n- une copie dûment légalisée du registre de commerce et de la déclaration d'existence établie par l'administration fiscale.",
+      "paragraphs": [
+        {
+          "text": "L'importateur aura à fournir à la banque intermédiaire agréé à l'appui de la demande d'ouverture de comptes de cette nature, les documents suivants :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- un engagement de régler par le débit du compte devises \"commerçant\" les importations de marchandises réalisées dans le cadre de l'article 123 de la loi de finances pour 1994 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- une copie dûment légalisée du registre de commerce et de la déclaration d'existence établie par l'administration fiscale.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les comptes devises \"commerçants\" sont ouverts au nom :\n- d'une personne physique ou morale, lorsque les marchandises à importer sont destinées à l'usage professionnel de l'importateur,\n- de la raison sociale de l'importateur ayant la qualité de grossiste, lorsque les marchandises à importer sont dessinées à la revente en l'état.",
+      "paragraphs": [
+        {
+          "text": "Les comptes devises \"commerçants\" sont ouverts au nom :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- d'une personne physique ou morale, lorsque les marchandises à importer sont destinées à l'usage professionnel de l'importateur,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- de la raison sociale de l'importateur ayant la qualité de grossiste, lorsque les marchandises à importer sont dessinées à la revente en l'état.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les comptes devises \"commerçants\" qui sont distincts des comptes devises \"particuliers\" et \"personnes morales\" ne peuvent en aucun cas recevoir à leur crédit des montants en devises convertibles soumis à une obligation de rapatriement et notamment des recettes d'exportations de biens et/ou de services, ni être alimentés par des fonds provenant des comptes devises \"personnes morales\".",
+      "paragraphs": [
+        {
+          "text": "Les comptes devises \"commerçants\" qui sont distincts des comptes devises \"particuliers\" et \"personnes morales\" ne peuvent en aucun cas recevoir à leur crédit des montants en devises convertibles soumis à une obligation de rapatriement et notamment des recettes d'exportations de biens et/ou de services, ni être alimentés par des fonds provenant des comptes devises \"personnes morales\".",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Préalablement à l'ouverture du dossier de domiciliation au titre d'une importation donnée, la banque intermédiaire agréé doit s'assurer de l'existence de la provision correspondante au compte devises \"commerçants\" étant précisé que la domiciliation constitue pour la banque un engagement de règlement effectif de l'importation concernée par le débit du compte devises \"commerçants\" de l'importateur.",
+      "paragraphs": [
+        {
+          "text": "Préalablement à l'ouverture du dossier de domiciliation au titre d'une importation donnée, la banque intermédiaire agréé doit s'assurer de l'existence de la provision correspondante au compte devises \"commerçants\" étant précisé que la domiciliation constitue pour la banque un engagement de règlement effectif de l'importation concernée par le débit du compte devises \"commerçants\" de l'importateur.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "L'assurance et le fret des marchandises importées sont payables par le débit du compte devises \"commerçants\" de l'importateur.",
+      "paragraphs": [
+        {
+          "text": "L'assurance et le fret des marchandises importées sont payables par le débit du compte devises \"commerçants\" de l'importateur.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "La banque domiciliataire du compte devises \"commerçants\" aura à prélever à titre de rémunération par le débit du compte, les frais et commissions prévus par les conditions de banque en la matière.",
+      "paragraphs": [
+        {
+          "text": "La banque domiciliataire du compte devises \"commerçants\" aura à prélever à titre de rémunération par le débit du compte, les frais et commissions prévus par les conditions de banque en la matière.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Il demeure entendu que les comptes devises \"commerçants\" ne peuvent en aucun cas être débiteurs ou recevoir des avances en devises de la banque intermédiaire agréé domiciliataire.",
+      "paragraphs": [
+        {
+          "text": "Il demeure entendu que les comptes devises \"commerçants\" ne peuvent en aucun cas être débiteurs ou recevoir des avances en devises de la banque intermédiaire agréé domiciliataire.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les formules statistiques modèle 4 et remises à l'appui des journées \"bourses\" portant demande de couverture au titre des engagements de paiement extérieur pris en application des dispositions de la présente instruction devront expressément indiquer à la case nature de l'opération la mention suivante : Règlement importateur par débit compte devises \"commerçants\" n°(indication du numéro).",
+      "paragraphs": [
+        {
+          "text": "Les formules statistiques modèle 4 et remises à l'appui des journées \"bourses\" portant demande de couverture au titre des engagements de paiement extérieur pris en application des dispositions de la présente instruction devront expressément indiquer à la case nature de l'opération la mention suivante : Règlement importateur par débit compte devises \"commerçants\" n°(indication du numéro).",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les comptes devises \"commerçants\" peuvent être clôturés à tout moment sur demande de leurs titulaires. Les éventuels soldes créditeurs, libres de tout engagement de paiement extérieur pris dans le cadre de la présente, peuvent être affectés à l'une des opérations suivantes : virement au profit d'un compte devises \"particuliers\" ou \"personnes morales\", transfert à l'étranger, cession définitive contre dinars algériens.",
+      "paragraphs": [
+        {
+          "text": "Les comptes devises \"commerçants\" peuvent être clôturés à tout moment sur demande de leurs titulaires. Les éventuels soldes créditeurs, libres de tout engagement de paiement extérieur pris dans le cadre de la présente, peuvent être affectés à l'une des opérations suivantes : virement au profit d'un compte devises \"particuliers\" ou \"personnes morales\", transfert à l'étranger, cession définitive contre dinars algériens.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 16",
+      "number": "16",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Au terme de l'opération d'importation, le dossier de domiciliation est apuré sous la responsabilité de la banque domiciliataire sur la base des documents versés au dossier notamment :\n- la demande de domiciliation et le paiement par débit du compte devises \"commerçants\" de l'importateur,\n- la facture commerciale comportant le visa et numéro de domiciliation\n- les justificatifs du règlement de l'importation par le débit du compte devises \"commerçant\" de l'importateur\n- le document douanier de mise à la consommation des marchandises importées.",
+      "paragraphs": [
+        {
+          "text": "Au terme de l'opération d'importation, le dossier de domiciliation est apuré sous la responsabilité de la banque domiciliataire sur la base des documents versés au dossier notamment :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- la demande de domiciliation et le paiement par débit du compte devises \"commerçants\" de l'importateur,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- la facture commerciale comportant le visa et numéro de domiciliation",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les justificatifs du règlement de l'importation par le débit du compte devises \"commerçant\" de l'importateur",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- le document douanier de mise à la consommation des marchandises importées.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 17",
+      "number": "17",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Toutes dispositions contraires à celles de la présente instruction sont abrogées et notamment les dispositions des instructions n°06-91 du 17 octobre 1991, n°02-92 du 14 avril 1992 et de la note n°04-92 du 15 septembre 1992.",
+      "paragraphs": [
+        {
+          "text": "Toutes dispositions contraires à celles de la présente instruction sont abrogées et notamment les dispositions des instructions n°06-91 du 17 octobre 1991, n°02-92 du 14 avril 1992 et de la note n°04-92 du 15 septembre 1992.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 18",
+      "number": "18",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Pour toute éventuelle difficulté d'application, il y a lieu de saisir la Banque d'Algérie (Direction Générale des Changes).\nLe Directeur du Contrôle des Changes\nD. SAIDI",
+      "paragraphs": [
+        {
+          "text": "Pour toute éventuelle difficulté d'application, il y a lieu de saisir la Banque d'Algérie (Direction Générale des Changes).",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Directeur du Contrôle des Changes",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "D. SAIDI",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.037
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-29-94.fr.txt"
+}

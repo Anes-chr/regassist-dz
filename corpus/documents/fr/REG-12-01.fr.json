@@ -1,0 +1,857 @@
+{
+  "document_id": "REG-12-01.fr",
+  "work_id": "REG-12-01",
+  "title": "Règlement n°2012-01 du 20 février 2012 portant organisation et fonctionnement de la Centrale des Risques Entreprises et Ménages.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "2012-01",
+  "number_source": "en-tête du document",
+  "date": "2012-02-20",
+  "date_raw": "N°2012-01 DU 20 FEVRIER 2012",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Centrales des Risques, des Impayés et des Bilans et chèques sans provision",
+  "source_url": "https://www.bank-of-algeria.dz/centrale-reglement/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement201201.pdf",
+  "format": "pdf",
+  "file_hash": "eb76ea75e7507017185daec8cea1b0859620e25ad94395ae65ef2e8daa04d91b",
+  "file_size": 82010,
+  "raw_path": "raw/eb76ea75e750__reglement201201.pdf",
+  "retrieved_at": "2026-10-05T13:22:44+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 3,
+  "url_hash": "dbde0da358cfda99157cb597dbded9d027b003b37a2ee960201473a95cc3f5b4",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/centrale-reglement/",
+    "https://www.bank-of-algeria.dz/reglement-2012/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document20",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210211110727+01'00'",
+    "modDate": "D:20210211110727+01'00'"
+  },
+  "hijri_date_raw": "27 Joumada Ethania 1424",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 3,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 3122,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 3478,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 2101,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 21,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "REGLEMENT N°2012-01 DU 20 FEVRIER 2012 PORTANT ORGANISATION ET FONCTIONNEMENT DE LA CENTRALE DES RISQUES ENTREPRISES ET MENAGES",
+  "alias_urls": [],
+  "text_hash": "dc579d98343f2389ec55a0f7821d7e5dde97f2609148183f4cf6bab8a8b4a4c1",
+  "relations_out": [
+    {
+      "relation": "remplace",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "92-01",
+        "date": "1992-03-22",
+        "raw": "règlement n°92-01 du 22 mars 1992"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "Le présent règlement annule et remplace le règlement n°92-01 du 22 mars 1992 portant organisation et fonctionnement"
+      },
+      "target_work_id": "REG-92-01"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [
+    {
+      "work_id": "REG-92-01",
+      "reference": "règlement n°92-01 du 22 mars 1992",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "Le présent règlement annule et remplace le règlement n°92-01 du 22 mars 1992 portant organisation et fonctionnement"
+      }
+    }
+  ],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-12-01.ar"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 16",
+      "number": "16",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 17",
+      "number": "17",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 18",
+      "number": "18",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 19",
+      "number": "19",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 20",
+      "number": "20",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 21",
+      "number": "21",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°2012-01 DU 20 FEVRIER 2012 PORTANT\nORGANISATION ET FONCTIONNEMENT DE LA CENTRALE\nDES RISQUES ENTREPRISES ET MENAGES\nLe Gouverneur de la Banque d’Algérie,\n- Vu l'Ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003 relative à la monnaie et au crédit modifiée et complétée, notamment son article 98 ;\n- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 02 juin 2001 portant nomination du Gouverneur et Vice-Gouverneurs de la Banque d'Algérie ;\n- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 02 juin 2001 portant nomination des membres du Conseil d'Administration de la Banque d'Algérie ;\n- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 02 juin 2001 portant nomination des membres du Conseil de la Monnaie et du Crédit ;\n- Vu le décret présidentiel du 26 Chaâbane 1423 correspondant au 02 novembre 2002 portant nomination d'un membre du Conseil d'administration de la Banque d'Algérie ;\n- Vu le décret présidentiel du 05 Djoumada El Aouel 1427 correspondant au 1er juin 2006 portant nomination d'un Vice-Gouverneur de la Banque d'Algérie ;\n- Vu le Règlement n°92-01 du 22 mars 1992 portant organisation et fonctionnement de la\nCentrale des Risques ;\n- Après délibération du Conseil de la Monnaie et du Crédit en date du 20 février 2012 ;\nPromulgue le règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°2012-01 DU 20 FEVRIER 2012 PORTANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ORGANISATION ET FONCTIONNEMENT DE LA CENTRALE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DES RISQUES ENTREPRISES ET MENAGES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d’Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l'Ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003 relative à la monnaie et au crédit modifiée et complétée, notamment son article 98 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 02 juin 2001 portant nomination du Gouverneur et Vice-Gouverneurs de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 02 juin 2001 portant nomination des membres du Conseil d'Administration de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 10 Rabie El Aouel 1422 correspondant au 02 juin 2001 portant nomination des membres du Conseil de la Monnaie et du Crédit ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 26 Chaâbane 1423 correspondant au 02 novembre 2002 portant nomination d'un membre du Conseil d'administration de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 05 Djoumada El Aouel 1427 correspondant au 1er juin 2006 portant nomination d'un Vice-Gouverneur de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Règlement n°92-01 du 22 mars 1992 portant organisation et fonctionnement de la",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Centrale des Risques ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Après délibération du Conseil de la Monnaie et du Crédit en date du 20 février 2012 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le présent règlement a pour objet de fixer les principes d’organisation et de fonctionnement de la centrale des risques entreprises et ménages, ci-après désignée « la centrale des risques ».\nLa centrale des risques est subdivisée en deux (2) compartiments ci-après respectivement appelés « centrale des risques entreprises», dans laquelle sont enregistrées les données relatives aux crédits accordés aux personnes morales et aux personnes physiques exerçant une activité professionnelle non salariée et « centrale des risques ménages », dans laquelle sont enregistrées les données relatives aux crédits aux particuliers.",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement a pour objet de fixer les principes d’organisation et de fonctionnement de la centrale des risques entreprises et ménages, ci-après désignée « la centrale des risques ».",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La centrale des risques est subdivisée en deux (2) compartiments ci-après respectivement appelés « centrale des risques entreprises», dans laquelle sont enregistrées les données relatives aux crédits accordés aux personnes morales et aux personnes physiques exerçant une activité professionnelle non salariée et « centrale des risques ménages », dans laquelle sont enregistrées les données relatives aux crédits aux particuliers.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La centrale des risques est un service de centralisation des risques chargé de recueillir, auprès de chaque banque et de chaque établissement financier notamment, ciaprès dénommés établissements déclarants, l’identité des bénéficiaires de crédits, la nature et le plafond des crédits accordés, le montant des utilisations, le montant des crédits non remboursés ainsi que les garanties prises pour chaque type de crédit.",
+      "paragraphs": [
+        {
+          "text": "La centrale des risques est un service de centralisation des risques chargé de recueillir, auprès de chaque banque et de chaque établissement financier notamment, ciaprès dénommés établissements déclarants, l’identité des bénéficiaires de crédits, la nature et le plafond des crédits accordés, le montant des utilisations, le montant des crédits non remboursés ainsi que les garanties prises pour chaque type de crédit.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les établissements déclarants sont tenus d'adhérer à la centrale des risques de la Banque d'Algérie et d'en respecter les règles de fonctionnement.",
+      "paragraphs": [
+        {
+          "text": "Les établissements déclarants sont tenus d'adhérer à la centrale des risques de la Banque d'Algérie et d'en respecter les règles de fonctionnement.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La centrale des risques est chargée de recueillir, traiter et conserver les informations sur les crédits bancaires et de les restituer, à l’issue de chaque centralisation, aux établissements déclarants.",
+      "paragraphs": [
+        {
+          "text": "La centrale des risques est chargée de recueillir, traiter et conserver les informations sur les crédits bancaires et de les restituer, à l’issue de chaque centralisation, aux établissements déclarants.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "Les établissements déclarants sont tenus de déclarer à la centrale des risques, selon la nature des données, dans son compartiment réservé aux entreprises et dans son compartiment réservé aux ménages :\nBANK OF ALGERIA\n- les données d’identification des bénéficiaires de crédit, les plafonds de crédits et les encours de crédits qu’ils accordent à leurs clients, quel qu’en soit le montant, au titre des opérations effectuées par leurs guichets ainsi que les garanties prises (sûretés réelles et sûretés personnelles) pour chaque type de crédit. Ces informations sont dites données positives ;\n- les montants non remboursés de ces encours de crédits. Ces informations sont dites données négatives.",
+      "paragraphs": [
+        {
+          "text": "Les établissements déclarants sont tenus de déclarer à la centrale des risques, selon la nature des données, dans son compartiment réservé aux entreprises et dans son compartiment réservé aux ménages :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- les données d’identification des bénéficiaires de crédit, les plafonds de crédits et les encours de crédits qu’ils accordent à leurs clients, quel qu’en soit le montant, au titre des opérations effectuées par leurs guichets ainsi que les garanties prises (sûretés réelles et sûretés personnelles) pour chaque type de crédit. Ces informations sont dites données positives ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les montants non remboursés de ces encours de crédits. Ces informations sont dites données négatives.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les établissements déclarants déclarent mensuellement tous les concours qu'ils octroient à leurs clientèles d’entreprises et de particuliers, quel qu’en soient leurs montants. Les crédits accordés à leurs personnels sont également déclarables à la centrale des risques selon la même périodicité conformément à la législation en vigueur.",
+      "paragraphs": [
+        {
+          "text": "Les établissements déclarants déclarent mensuellement tous les concours qu'ils octroient à leurs clientèles d’entreprises et de particuliers, quel qu’en soient leurs montants. Les crédits accordés à leurs personnels sont également déclarables à la centrale des risques selon la même périodicité conformément à la législation en vigueur.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "La centrale des risques procède mensuellement à la centralisation des déclarations visées à l'article 5 ci-dessus. Elle établit et met à la disposition de chaque établissement déclarant, au moyen d’une consultation à distance et par restitution mensuelle, les résultats des centralisations consignés dans des rapports de crédit concernant sa propre clientèle.",
+      "paragraphs": [
+        {
+          "text": "La centrale des risques procède mensuellement à la centralisation des déclarations visées à l'article 5 ci-dessus. Elle établit et met à la disposition de chaque établissement déclarant, au moyen d’une consultation à distance et par restitution mensuelle, les résultats des centralisations consignés dans des rapports de crédit concernant sa propre clientèle.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Afin d'identifier les emprunteurs, la centrale des risques utilise, dans ses échanges d’informations avec les établissements déclarants, un numéro d'identification des personnes morales et des personnes physiques exerçant une activité professionnelle non salariée et un numéro d'identification des particuliers.",
+      "paragraphs": [
+        {
+          "text": "Afin d'identifier les emprunteurs, la centrale des risques utilise, dans ses échanges d’informations avec les établissements déclarants, un numéro d'identification des personnes morales et des personnes physiques exerçant une activité professionnelle non salariée et un numéro d'identification des particuliers.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les résultats des centralisations visés à l’article 7 ci-dessus sont utilisés par les établissements déclarants dans le cadre de l’octroi et de la gestion des crédits de leurs clientèles. Ces informations ne peuvent, en aucun cas, être utilisées à d’autres fins, notamment de prospection commerciale ou de marketing.",
+      "paragraphs": [
+        {
+          "text": "Les résultats des centralisations visés à l’article 7 ci-dessus sont utilisés par les établissements déclarants dans le cadre de l’octroi et de la gestion des crédits de leurs clientèles. Ces informations ne peuvent, en aucun cas, être utilisées à d’autres fins, notamment de prospection commerciale ou de marketing.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les établissements déclarants doivent également communiquer, sans délai, à la centrale des risques et indépendamment de la déclaration des crédits, toute information significative survenue dans la situation de l’emprunteur telle que la modification des statuts de l’entreprise le cas échéant, le changement d’adresse ou toute information susceptible d’avoir une influence sur sa solvabilité.",
+      "paragraphs": [
+        {
+          "text": "Les établissements déclarants doivent également communiquer, sans délai, à la centrale des risques et indépendamment de la déclaration des crédits, toute information significative survenue dans la situation de l’emprunteur telle que la modification des statuts de l’entreprise le cas échéant, le changement d’adresse ou toute information susceptible d’avoir une influence sur sa solvabilité.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les établissements déclarants sont responsables vis-à-vis de la Banque d’Algérie de l’exactitude, de l’exhaustivité et de la cohérence des informations qu’ils transmettent à la centrale des risques. Ils sont aussi responsables de la protection, de la conservation et de la transmission interne des données qu’ils reçoivent de la centrale des risques.",
+      "paragraphs": [
+        {
+          "text": "Les établissements déclarants sont responsables vis-à-vis de la Banque d’Algérie de l’exactitude, de l’exhaustivité et de la cohérence des informations qu’ils transmettent à la centrale des risques. Ils sont aussi responsables de la protection, de la conservation et de la transmission interne des données qu’ils reçoivent de la centrale des risques.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les établissements déclarants sont tenus d’informer leurs clientèles de la déclaration et de l’enregistrement à la centrale des risques des crédits qui leur sont accordés. Ils doivent préciser notamment la finalité du traitement de ces données par la centrale des risques, l'existence d'un droit d'accès, de rectification et de suppression des données ainsi que les délais de conservation de ces dernières.\nLes établissements déclarants sont tenus aussi d’informer leurs clients, entreprises et particuliers, lorsqu’ils sont déclarés pour la première fois à la centrale des risques pour défaut de remboursement de crédit.",
+      "paragraphs": [
+        {
+          "text": "Les établissements déclarants sont tenus d’informer leurs clientèles de la déclaration et de l’enregistrement à la centrale des risques des crédits qui leur sont accordés. Ils doivent préciser notamment la finalité du traitement de ces données par la centrale des risques, l'existence d'un droit d'accès, de rectification et de suppression des données ainsi que les délais de conservation de ces dernières.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Les établissements déclarants sont tenus aussi d’informer leurs clients, entreprises et particuliers, lorsqu’ils sont déclarés pour la première fois à la centrale des risques pour défaut de remboursement de crédit.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Préalablement à l’octroi de crédit à un nouveau client, les établissements déclarants sont tenus de consulter la centrale des risques.",
+      "paragraphs": [
+        {
+          "text": "Préalablement à l’octroi de crédit à un nouveau client, les établissements déclarants sont tenus de consulter la centrale des risques.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Les données communiquées par la centrale des risques sont strictement confidentielles et réservées à l'établissement déclarant destinataire. Les établissements déclarants qui ont obtenu des renseignements de la centrale doivent prendre les mesures nécessaires afin d’en garantir le caractère confidentiel.",
+      "paragraphs": [
+        {
+          "text": "Les données communiquées par la centrale des risques sont strictement confidentielles et réservées à l'établissement déclarant destinataire. Les établissements déclarants qui ont obtenu des renseignements de la centrale doivent prendre les mesures nécessaires afin d’en garantir le caractère confidentiel.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Tout emprunteur peut accéder, sans frais, aux données enregistrées le concernant et peut demander, le cas échéant, à l’établissement déclarant, la rectification des données erronées.\nCe droit d’accès peut également être exercé par l’emprunteur auprès des services du siège de la Banque d’Algérie de sa wilaya de résidence.\nEn cas de rectification de données, l’établissement déclarant est tenu de communiquer les données corrigées à la centrale des risques qui en informera les établissements déclarants ayant consulté le rapport de crédit du client concerné.",
+      "paragraphs": [
+        {
+          "text": "Tout emprunteur peut accéder, sans frais, aux données enregistrées le concernant et peut demander, le cas échéant, à l’établissement déclarant, la rectification des données erronées.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Ce droit d’accès peut également être exercé par l’emprunteur auprès des services du siège de la Banque d’Algérie de sa wilaya de résidence.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "En cas de rectification de données, l’établissement déclarant est tenu de communiquer les données corrigées à la centrale des risques qui en informera les établissements déclarants ayant consulté le rapport de crédit du client concerné.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 16",
+      "number": "16",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Le délai de conservation des données déclarées ne peut être inférieur à cinq\n(5) ans. Le délai commence à courir à compter de la date de l’extinction de la dette pour les déclarations des données positives et à compter de la date de déclaration de l’incident de paiement sur crédit pour les déclarations des données négatives.",
+      "paragraphs": [
+        {
+          "text": "Le délai de conservation des données déclarées ne peut être inférieur à cinq",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "(5) ans. Le délai commence à courir à compter de la date de l’extinction de la dette pour les déclarations des données positives et à compter de la date de déclaration de l’incident de paiement sur crédit pour les déclarations des données négatives.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 17",
+      "number": "17",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Les coûts directs de la centrale des risques sont à la charge des établissements déclarants. La procédure et la grille de tarification des prestations rendues par la centrale des risques sont fixées par la Banque d’Algérie.",
+      "paragraphs": [
+        {
+          "text": "Les coûts directs de la centrale des risques sont à la charge des établissements déclarants. La procédure et la grille de tarification des prestations rendues par la centrale des risques sont fixées par la Banque d’Algérie.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 18",
+      "number": "18",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Est déclaré à la Commission Bancaire tout établissement déclarant qui ne se conforme pas aux dispositions du présent règlement.",
+      "paragraphs": [
+        {
+          "text": "Est déclaré à la Commission Bancaire tout établissement déclarant qui ne se conforme pas aux dispositions du présent règlement.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 19",
+      "number": "19",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Le présent règlement annule et remplace le règlement n°92-01 du 22 mars 1992 portant organisation et fonctionnement de la Centrale des Risques.",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement annule et remplace le règlement n°92-01 du 22 mars 1992 portant organisation et fonctionnement de la Centrale des Risques.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 20",
+      "number": "20",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Les modalités d'application du présent règlement seront fixées par instructions de la Banque d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "Les modalités d'application du présent règlement seront fixées par instructions de la Banque d'Algérie.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 21",
+      "number": "21",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Le présent règlement sera publié au Journal officiel de la République algérienne démocratique et populaire.\nLe Gouverneur\nMohammed LAKSACI",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement sera publié au Journal officiel de la République algérienne démocratique et populaire.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.029
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-12-01.fr.txt"
+}

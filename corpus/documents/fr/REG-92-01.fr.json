@@ -1,0 +1,579 @@
+{
+  "document_id": "REG-92-01.fr",
+  "work_id": "REG-92-01",
+  "title": "Règlement n°92-01 du 22 mars 1992 portant organisation et fonctionnement de la “Centrale des risques”.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "92-01",
+  "number_source": "en-tête du document",
+  "date": "1992-03-22",
+  "date_raw": "N°92-01 DU 22 MARS 1992",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Centrales des Risques, des Impayés et des Bilans et chèques sans provision",
+  "source_url": "https://www.bank-of-algeria.dz/centrale-reglement/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement9201.pdf",
+  "format": "pdf",
+  "file_hash": "4b477d5e69b8355c171bc63f4b36b98d2d1da7fd3a96cf3127b92ce527d01124",
+  "file_size": 44915,
+  "raw_path": "raw/4b477d5e69b8__reglement9201.pdf",
+  "retrieved_at": "2026-10-05T13:23:08+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "aeff2e8659980fe532dbb5f55032cf0cfaa4de27defbad88fe252f3dbe21a03d",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/centrale-reglement/",
+    "https://www.bank-of-algeria.dz/centrale/",
+    "https://www.bank-of-algeria.dz/reglement-1992/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document2",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200708102657+01'00'",
+    "modDate": "D:20200708102657+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2648,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 828,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 11,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "REGLEMENT N°92-01 DU 22 MARS 1992 PORTANT ORGANISATION ET FONCTIONNEMENT DE LA CENTRALE DES RISQUES",
+  "alias_urls": [],
+  "text_hash": "8e1410afa89fccffec15d4131a066c03639e386a7fc34f26a997c42676a82ecc",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [
+    {
+      "work_id": "INS-02-99",
+      "document_id": "INS-02-99.fr",
+      "date": "1999-04-07",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "es Risques de la Banque d'Algérie les crédits consentis à ses dirigeants et actionnaires, conformément à l'article 4 du règlement n°92-01 du 22 mars 1992 portant organisation et fonctionnement"
+      }
+    }
+  ],
+  "complete_par": [],
+  "remplace_par": [
+    {
+      "work_id": "REG-12-01",
+      "document_id": "REG-12-01.fr",
+      "date": "2012-02-20",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "Le présent règlement annule et remplace le règlement n°92-01 du 22 mars 1992 portant organisation et fonctionnement"
+      }
+    }
+  ],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "REG-12-01",
+      "document_id": "REG-12-01.fr",
+      "date": "2012-02-20",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "Le présent règlement annule et remplace le règlement n°92-01 du 22 mars 1992 portant organisation et fonctionnement"
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [
+    "REG-92-01.ar"
+  ],
+  "complété_par": [],
+  "modifié_par": [
+    {
+      "work_id": "INS-02-99",
+      "document_id": "INS-02-99.fr",
+      "date": "1999-04-07",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "es Risques de la Banque d'Algérie les crédits consentis à ses dirigeants et actionnaires, conformément à l'article 4 du règlement n°92-01 du 22 mars 1992 portant organisation et fonctionnement"
+      }
+    }
+  ],
+  "abrogé_par": [],
+  "remplacé_par": [
+    {
+      "work_id": "REG-12-01",
+      "document_id": "REG-12-01.fr",
+      "date": "2012-02-20",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "Le présent règlement annule et remplace le règlement n°92-01 du 22 mars 1992 portant organisation et fonctionnement"
+      }
+    }
+  ],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°92-01 DU 22 MARS 1992 PORTANT ORGANISATION\nET FONCTIONNEMENT DE LA CENTRALE DES RISQUES\nLe Gouverneur de la Banque d'Algérie :\n- Vu, la Loi n° 90.10 du 14 Avril 1990 relative à la Monnaie et au Crédit, notamment ses articles 160 et 122 ;\n- Vu, le Décret Présidentiel du 15 Avril 1990 portant nomination du Gouverneur de la Banque d'Algérie ;\n- Vu, les Décrets Présidentiels du 14 Mai 1990 portant nomination de Vice\nGouverneurs de la Banque d'Algérie ;\n- Vu, le Décret Exécutif du 1er Juillet 1991 relatif à la désignation de membres titulaires et suppléants au Conseil de la Monnaie et du Crédit ;\n- Vu, la délibération du Conseil de la Monnaie et du Crédit en date du 22 Mars 1992 ;\nPromulgue le Règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°92-01 DU 22 MARS 1992 PORTANT ORGANISATION",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET FONCTIONNEMENT DE LA CENTRALE DES RISQUES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d'Algérie :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu, la Loi n° 90.10 du 14 Avril 1990 relative à la Monnaie et au Crédit, notamment ses articles 160 et 122 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu, le Décret Présidentiel du 15 Avril 1990 portant nomination du Gouverneur de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu, les Décrets Présidentiels du 14 Mai 1990 portant nomination de Vice",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Gouverneurs de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu, le Décret Exécutif du 1er Juillet 1991 relatif à la désignation de membres titulaires et suppléants au Conseil de la Monnaie et du Crédit ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu, la délibération du Conseil de la Monnaie et du Crédit en date du 22 Mars 1992 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le Règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "En application de l'article 160 de la Loi n° 90.10 du 14 Avril 1990 relative à la Monnaie et au Crédit, il est institué par la Banque d'Algérie au sein de ses structures, une \"Centrale des Risques\".\nLe présent Règlement en fixe les principes d'organisation et de fonctionnement.",
+      "paragraphs": [
+        {
+          "text": "En application de l'article 160 de la Loi n° 90.10 du 14 Avril 1990 relative à la Monnaie et au Crédit, il est institué par la Banque d'Algérie au sein de ses structures, une \"Centrale des Risques\".",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le présent Règlement en fixe les principes d'organisation et de fonctionnement.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La \"Centrale des Risques\" a pour objet la collecte, la centralisation et la diffusion des risques bancaires et des opérations de crédit-bail faisant intervenir un\nOrganisme de Crédit.\nAu sens du présent Règlement, on entend par Organisme de Crédit, les banques, les établissements financiers et tout autre établissement de crédit..",
+      "paragraphs": [
+        {
+          "text": "La \"Centrale des Risques\" a pour objet la collecte, la centralisation et la diffusion des risques bancaires et des opérations de crédit-bail faisant intervenir un",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Organisme de Crédit.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Au sens du présent Règlement, on entend par Organisme de Crédit, les banques, les établissements financiers et tout autre établissement de crédit..",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les Organismes de Crédit opérant sur le territoire national sont tenus d'adhérer à la \"Centrale des Risques\" de la Banques d'Algérie et d'en respecter strictement les règles de fonctionnement.",
+      "paragraphs": [
+        {
+          "text": "Les Organismes de Crédit opérant sur le territoire national sont tenus d'adhérer à la \"Centrale des Risques\" de la Banques d'Algérie et d'en respecter strictement les règles de fonctionnement.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les Organismes de Crédit déclarent les concours qu'ils ont octroyés à leur clientèle (personnes morales ou physiques), y compris les personnes visées à l'article 168 de la Loi n° 90.10 susvisée.",
+      "paragraphs": [
+        {
+          "text": "Les Organismes de Crédit déclarent les concours qu'ils ont octroyés à leur clientèle (personnes morales ou physiques), y compris les personnes visées à l'article 168 de la Loi n° 90.10 susvisée.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La Banque d'Algérie procède à la centralisation des déclarations visées à l'article 4 ci-dessus ; elle communique périodiquement aux Organismes de Crédit le montant des concours enregistrés au nom de chacun des débiteurs ayant fait l'objet d'une déclaration de leur part.\nLa forme et la périodicité de ces déclarations seront fixées par l'instruction de la Banque d'Algérie prévue à l'article 11 ci-après.",
+      "paragraphs": [
+        {
+          "text": "La Banque d'Algérie procède à la centralisation des déclarations visées à l'article 4 ci-dessus ; elle communique périodiquement aux Organismes de Crédit le montant des concours enregistrés au nom de chacun des débiteurs ayant fait l'objet d'une déclaration de leur part.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La forme et la périodicité de ces déclarations seront fixées par l'instruction de la Banque d'Algérie prévue à l'article 11 ci-après.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les Organismes de Crédit peuvent, sur demande écrite, obtenir communication des concours enregistrés au nom des débiteurs n'ayant pas fait l'objet d'une déclaration de leur part, sous réserve qu'ils obtiennent de ces débiteurs un accord écrit autorisant l'Organisme de Crédit à faire demande à la Banque d'Algérie et à cette dernière à faire communication des renseignements sollicités.",
+      "paragraphs": [
+        {
+          "text": "Les Organismes de Crédit peuvent, sur demande écrite, obtenir communication des concours enregistrés au nom des débiteurs n'ayant pas fait l'objet d'une déclaration de leur part, sous réserve qu'ils obtiennent de ces débiteurs un accord écrit autorisant l'Organisme de Crédit à faire demande à la Banque d'Algérie et à cette dernière à faire communication des renseignements sollicités.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les données communiquées par la Banque d'Algérie au titre de la \"Centrale des Risques\" sont strictement confidentielles et réservées à l'Organisme de Crédit destinataire.",
+      "paragraphs": [
+        {
+          "text": "Les données communiquées par la Banque d'Algérie au titre de la \"Centrale des Risques\" sont strictement confidentielles et réservées à l'Organisme de Crédit destinataire.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Aucun crédit soumis à déclaration ne peut être accordé à un nouveau client par un Organisme de Crédit sans consultation préalable par ce dernier de la \"Centrale des\nRisques\" de la Banque d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "Aucun crédit soumis à déclaration ne peut être accordé à un nouveau client par un Organisme de Crédit sans consultation préalable par ce dernier de la \"Centrale des",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Risques\" de la Banque d'Algérie.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les coûts directs de fonctionnement de la \"Centrale des Risques\" sont à la charge des Organismes de Crédit.",
+      "paragraphs": [
+        {
+          "text": "Les coûts directs de fonctionnement de la \"Centrale des Risques\" sont à la charge des Organismes de Crédit.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les contraventions aux dispositions du présent Règlement et à celles des textes subséquents sont déclarées à la Commission Bancaire.",
+      "paragraphs": [
+        {
+          "text": "Les contraventions aux dispositions du présent Règlement et à celles des textes subséquents sont déclarées à la Commission Bancaire.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Une instruction de la Banque d'Algérie fixera les modalités d'application du présent Règlement.\nLe Gouverneur\nAbderrahmane Roustoumi HADJ NACER",
+      "paragraphs": [
+        {
+          "text": "Une instruction de la Banque d'Algérie fixera les modalités d'application du présent Règlement.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Abderrahmane Roustoumi HADJ NACER",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.038
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-92-01.fr.txt"
+}

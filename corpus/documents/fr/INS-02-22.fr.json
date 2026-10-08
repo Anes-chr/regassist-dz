@@ -1,0 +1,319 @@
+{
+  "document_id": "INS-02-22.fr",
+  "work_id": "INS-02-22",
+  "title": "Instruction n°02-2022 du 28 juillet 2022 relative à la gestion des risques en matière de domiciliation des opérations de commerce extérieur.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "02-2022",
+  "number_source": "en-tête du document",
+  "date": "2022-07-28",
+  "date_raw": "N°02-2022 DU 28 JUILLET 2022",
+  "date_source": "en-tête du document",
+  "publication_date": "2022-07-28",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Règlementation des changes",
+  "source_url": "https://www.bank-of-algeria.dz/importations-exportations-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2022/07/instruction022022.pdf",
+  "format": "pdf",
+  "file_hash": "79afbddb5bfdc745d82bac01ad31239349d48279a9a46cad617b90441237c21f",
+  "file_size": 75079,
+  "raw_path": "raw/79afbddb5bfd__instruction022022.pdf",
+  "retrieved_at": "2026-10-05T13:25:11+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "213e632af3a5ebf84c8300e6ebbe9bffc0c8c529638d701b15fdac890a72ca39",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/importations-exportations-instruction/",
+    "https://www.bank-of-algeria.dz/risques-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - instruction 2-22",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20220728134534+01'00'",
+    "modDate": "D:20220728134534+01'00'"
+  },
+  "hijri_date_raw": "3 moharram 1433",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 1749,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 5,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°0 2-2022 DU 28 JUILLET 2022 RELATIVE A LA GESTION DES RISQUES EN MATIERE DE DOMICILIATION DES OPERATIONS DE COMMERCE EXTERIEUR",
+  "alias_urls": [],
+  "text_hash": "96f982950536deadd0f14d4f2c07952b72d1a0c0049fea6b9c71691728100fa4",
+  "relations_out": [
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "05-2017",
+        "date": "2017-10-22",
+        "raw": "instruction n° 05-2017 du 22 octobre 2017"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge l’instruction n° 05-2017 du 22 octobre 2017 fixant les conditions particulières rel"
+      },
+      "target_work_id": "INS-05-17"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "INS-05-17",
+      "reference": "instruction n° 05-2017 du 22 octobre 2017",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge l’instruction n° 05-2017 du 22 octobre 2017 fixant les conditions particulières rel"
+      }
+    }
+  ],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-02-22.ar",
+    "INS-02-22.ar~2"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°0 2-2022 DU 28 JUILLET 2022\nRELATIVE A LA GESTION DES RISQUES EN MATIERE\nDE DOMICILIATION DES OPERATIONS DE COMMERCE EXTERIEUR",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°0 2-2022 DU 28 JUILLET 2022",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "RELATIVE A LA GESTION DES RISQUES EN MATIERE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DE DOMICILIATION DES OPERATIONS DE COMMERCE EXTERIEUR",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le Règlement n° 07-01 du 15 Moharram 1428, correspondant au 3 février 2007 modifié et complété, relatif aux règles applicables aux transactions courantes avec l’étranger et aux comptes devises, a notamment fixé le cadre de traitement des opérations de commerce extérieur que les banques intermédiaires agréées doivent observer.",
+      "paragraphs": [
+        {
+          "text": "Le Règlement n° 07-01 du 15 Moharram 1428, correspondant au 3 février 2007 modifié et complété, relatif aux règles applicables aux transactions courantes avec l’étranger et aux comptes devises, a notamment fixé le cadre de traitement des opérations de commerce extérieur que les banques intermédiaires agréées doivent observer.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les procédures et systèmes internes des banques intermédiaires agréées, reflétant les dispositions du règlement n°07-01 sus visé, doivent respecter les prescriptions du règlement n° 11-08 du 3 moharram 1433 correspondant au 28 novembre 2011 relatif au contrôle interne, en particulier en ce qui concerne la gestion des risques qui relève de la responsabilité des banques et établissements financiers.",
+      "paragraphs": [
+        {
+          "text": "Les procédures et systèmes internes des banques intermédiaires agréées, reflétant les dispositions du règlement n°07-01 sus visé, doivent respecter les prescriptions du règlement n° 11-08 du 3 moharram 1433 correspondant au 28 novembre 2011 relatif au contrôle interne, en particulier en ce qui concerne la gestion des risques qui relève de la responsabilité des banques et établissements financiers.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Pour la domiciliation des opérations de commerce extérieur, il incombe aux banques intermédiaires agréées d’évaluer les risques inhérents, tenant compte notamment de la qualité des contreparties commerciales, et de fixer les mesures appropriées pour l’atténuation de ces risques.",
+      "paragraphs": [
+        {
+          "text": "Pour la domiciliation des opérations de commerce extérieur, il incombe aux banques intermédiaires agréées d’évaluer les risques inhérents, tenant compte notamment de la qualité des contreparties commerciales, et de fixer les mesures appropriées pour l’atténuation de ces risques.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction abroge l’instruction n° 05-2017 du 22 octobre 2017 fixant les conditions particulières relatives à la domiciliation des opérations d’importation de biens destinés à la revente en l’état.",
+      "paragraphs": [
+        {
+          "text": "La présente instruction abroge l’instruction n° 05-2017 du 22 octobre 2017 fixant les conditions particulières relatives à la domiciliation des opérations d’importation de biens destinés à la revente en l’état.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction prend effet à compter de la date de sa signature.\nLe Gouverneur\nSalah-Eddine TALEB",
+      "paragraphs": [
+        {
+          "text": "La présente instruction prend effet à compter de la date de sa signature.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Salah-Eddine TALEB",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.028
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-02-22.fr.txt"
+}

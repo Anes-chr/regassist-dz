@@ -1,0 +1,643 @@
+{
+  "document_id": "REG-13-01.ar",
+  "work_id": "REG-13-01",
+  "title": "نظام رقم 13-01 المؤرخ في 08 ابريل 2013، المحدد للقواعد العامة المتعلقة بالشروط البنكية المطبقة على العمليات المصرفية.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "13-01",
+  "number_source": "libelle",
+  "date": "2013-04-08",
+  "date_raw": "المؤرخ في 08 ابريل 2013",
+  "date_source": "libelle",
+  "publication_date": "2023-02-28",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "règlements",
+  "subcategory": "القواعد العامة المتعلقة بالشروط البنكية المطبقة على العمليات المصرفية",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%b9%d8%af-%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d8%a9-%d8%a7%d9%84%d9%85%d8%aa%d8%b9%d9%84%d9%82%d8%a9-%d8%a8%d8%a7%d9%84%d8%b4%d8%b1%d9%88%d8%b7-%d8%a7%d9%84%d8%a8%d9%86/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/02/01-2013.pdf",
+  "format": "pdf",
+  "file_hash": "752d58a9106f6404b5789aa8a45447269dec6a08f3d64c345eb6a814433ebfc0",
+  "file_size": 453628,
+  "raw_path": "raw/752d58a9106f__01-2013.pdf",
+  "retrieved_at": "2026-10-05T13:27:34+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 3,
+  "url_hash": "2c1ba94d4fc5b04d146b2f4620795c5acc152377c47cf7ef25d8392da5cd2ca7",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%b9%d8%af-%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d8%a9-%d8%a7%d9%84%d9%85%d8%aa%d8%b9%d9%84%d9%82%d8%a9-%d8%a8%d8%a7%d9%84%d8%b4%d8%b1%d9%88%d8%b7-%d8%a7%d9%84%d8%a8%d9%86/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "author": "chahra yahiaoui",
+    "creator": "Microsoft® Word 2016",
+    "producer": "Microsoft® Word 2016",
+    "creationDate": "D:20230228120128+01'00'",
+    "modDate": "D:20230228120128+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 3,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 1970,
+        "ocr_confidence": 78.19533527696792
+      },
+      {
+        "page": 2,
+        "method": "ocr",
+        "chars": 792,
+        "ocr_confidence": 83.28148148148148
+      },
+      {
+        "page": 3,
+        "method": "ocr",
+        "chars": 1677,
+        "ocr_confidence": 73.1655172413793
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 11,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_uncertain_numbers:1",
+    "ocr_utilise_verification_humaine",
+    "numerotation:articles_manquants:[2, 3, 5, 6, 7, 10, 11]"
+  ],
+  "title_document": "نظام رقم 01-13 مؤرخ في 26 جمادى الأولى عام 1434 الموافق 5 أبريل سنة 2013: يحدد القواعد العامة التعلقة بالشروط البنكية المطبقة على العمليات المصرفية. إن محافظ بنك الجزائر, بسقتضى الأمر رقم O5‏ ا الملؤرخ في 27 جمادى الثاتية عام 1424 المرافق 26 غغشتث سنة 2003 والمتعلق بالنقد والقرض: المعدل paille‏ لاسيما المواد",
+  "alias_urls": [],
+  "text_hash": "2845badb602f2624bda2a667816ced66181a509e9bb2538eac06b50c55815469",
+  "relations_out": [
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "09-03",
+        "date": null,
+        "raw": "règlement n°09-03"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 4,
+        "quote": "Toutes dispositions contraires au présent règlement sont abrogées, notamment le règlement n°09-03 de l’Aouel Joumada Ethania 1430 corresp",
+        "copied_from": "REG-13-01.fr"
+      },
+      "target_work_id": "REG-09-03"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "REG-09-03",
+      "reference": "règlement n°09-03",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 4,
+        "quote": "Toutes dispositions contraires au présent règlement sont abrogées, notamment le règlement n°09-03 de l’Aouel Joumada Ethania 1430 corresp",
+        "copied_from": "REG-13-01.fr"
+      }
+    }
+  ],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [
+    {
+      "work_id": "REG-20-01-20200315",
+      "document_id": "REG-20-01-20200315.fr",
+      "date": "2020-03-15",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "Le présent règlement abroge les dispositions du règlement n°13-01 du 8 avril 2013 fixant les règles générales en matière"
+      }
+    }
+  ],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "REG-20-01-20200315",
+      "document_id": "REG-20-01-20200315.fr",
+      "date": "2020-03-15",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "Le présent règlement abroge les dispositions du règlement n°13-01 du 8 avril 2013 fixant les règles générales en matière"
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [
+    "REG-13-01.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [
+    {
+      "work_id": "REG-20-01-20200315",
+      "document_id": "REG-20-01-20200315.fr",
+      "date": "2020-03-15",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "Le présent règlement abroge les dispositions du règlement n°13-01 du 8 avril 2013 fixant les règles générales en matière"
+      }
+    }
+  ],
+  "remplacé_par": [],
+  "complète": [],
+  "ocr_numeric_check": {
+    "units": 12,
+    "units_flagged": 1,
+    "units_compared_with_french": 11,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 16",
+      "number": "16",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 17",
+      "number": "17",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 18",
+      "number": "18",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "نظام رقم 01-13 مؤرخ في 26 جمادى الأولى عام 1434 الموافق 5 أبريل سنة 2013: يحدد القواعد العامة التعلقة بالشروط البنكية المطبقة على العمليات المصرفية.\nإن محافظ بنك الجزائر, بسقتضى الأمر رقم O5‏ ا الملؤرخ في 27 جمادى الثاتية عام 1424 المرافق 26 غغشتث سنة 2003 والمتعلق بالنقد والقرض: المعدل paille‏ لاسيما المواد 62 و64 و66 إلى 73 و119 مكرر 1195 مكرر 2 dis‏ الأول عام 1422 الموافق 2 يونيو سنة 2001 والمتضمن و بمقتضى المرسوم الرئاسي المورخ في 10 es‏ الأرل عام 1422 الموافق 2 يونيو سنة 2001 والمتضمن تعيين أعضاء مجلس إدارة بتك الجزائر:\nà =‏ مدهب red SN a‏ القع فى 26 والمتضمن تعبين عضو في مجلس إدارة بنك «sl ail‏ و بمقستضى المرسوم الرشاسي المؤرخ في 24 ذي القعدة عام 1424 الموافق 14 ينابر سئة 2004 -و بمقتضى النظام رقم 07 - 01 المؤرخ في 15 محرم عام 1428 المؤافق 3 فبراير سنة 2007 والمتعلق بالقواعد المطبقة على المعاملات à Lil‏ مع الخارج والحسابات بالعملة الصعبة, -و بمقتضىئ النظام رقم 09- 03 المؤرخ في أول جمادى الثانية عام 1430 الموافق 26 مايو سنة 2009:\nالذي بحدد sel él‏ العامة المتعلقة بشروط البنوك المطبقة على العمليات المصرفية:\nبتاريخ 8 أبريل سنة 2013, يصدر النظام الآتي نصه :",
+      "paragraphs": [
+        {
+          "text": "نظام رقم 01-13 مؤرخ في 26 جمادى الأولى عام 1434 الموافق 5 أبريل سنة 2013: يحدد القواعد العامة التعلقة بالشروط البنكية المطبقة على العمليات المصرفية.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "إن محافظ بنك الجزائر, بسقتضى الأمر رقم O5‏ ا الملؤرخ في 27 جمادى الثاتية عام 1424 المرافق 26 غغشتث سنة 2003 والمتعلق بالنقد والقرض: المعدل paille‏ لاسيما المواد 62 و64 و66 إلى 73 و119 مكرر 1195 مكرر 2 dis‏ الأول عام 1422 الموافق 2 يونيو سنة 2001 والمتضمن و بمقتضى المرسوم الرئاسي المورخ في 10 es‏ الأرل عام 1422 الموافق 2 يونيو سنة 2001 والمتضمن تعيين أعضاء مجلس إدارة بتك الجزائر:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "à =‏ مدهب red SN a‏ القع فى 26 والمتضمن تعبين عضو في مجلس إدارة بنك «sl ail‏ و بمقستضى المرسوم الرشاسي المؤرخ في 24 ذي القعدة عام 1424 الموافق 14 ينابر سئة 2004 -و بمقتضى النظام رقم 07 - 01 المؤرخ في 15 محرم عام 1428 المؤافق 3 فبراير سنة 2007 والمتعلق بالقواعد المطبقة على المعاملات à Lil‏ مع الخارج والحسابات بالعملة الصعبة, -و بمقتضىئ النظام رقم 09- 03 المؤرخ في أول جمادى الثانية عام 1430 الموافق 26 مايو سنة 2009:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الذي بحدد sel él‏ العامة المتعلقة بشروط البنوك المطبقة على العمليات المصرفية:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "بتاريخ 8 أبريل سنة 2013, يصدر النظام الآتي نصه :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يجمدف هذا النظاء إلى تخديد القواعد العامة المتعلقة بالشروط البنكية المطبقة على العمليات المصرفية للبنوك والمؤسسات المالية.\nالتي تقوم بها البنوك والمؤسسات المالية في معاملتها الأمر رقم 03 - ]] المؤرخ في 27 جمادى الثانية عام 4 الموافق 26 غشت سنة 20003, المعدل والمتمم ati‏ 3 : يسكن البنوك والموؤّسسات المالية أن تقترح على زبائتها منتوجات ادخار وقرض جديدة.\nوقحسد ضمان الاتسجاء بين الأدواث؛ يتعين إخضاع كل مواق مانشوج All dite‏ إلى موقيس مسي dis‏ َك الجؤائر",
+      "paragraphs": [
+        {
+          "text": "يجمدف هذا النظاء إلى تخديد القواعد العامة المتعلقة بالشروط البنكية المطبقة على العمليات المصرفية للبنوك والمؤسسات المالية.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "التي تقوم بها البنوك والمؤسسات المالية في معاملتها الأمر رقم 03 - ]] المؤرخ في 27 جمادى الثانية عام 4 الموافق 26 غشت سنة 20003, المعدل والمتمم ati‏ 3 : يسكن البنوك والموؤّسسات المالية أن تقترح على زبائتها منتوجات ادخار وقرض جديدة.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وقحسد ضمان الاتسجاء بين الأدواث؛ يتعين إخضاع كل مواق مانشوج All dite‏ إلى موقيس مسي dis‏ َك الجؤائر",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "يقصد بالشروط الينكية: المكافآت رالتمزيفات والعنولات المطيقة على العنليات المصزفية الكى خقوم يها البذوك:واالؤسسات المالية الملدة 5 : يتعين على البنوك والمؤسسات المالية: أن تبلغ زبائئهاوالهمهورءعن طريق كل الوسائل:\nالمصرفية التي تقوم Les‏ وبهذه الصفة؛ يتعين على البنوك والمؤسسات المالية؛ أن تطلع زبائتها على شرو ط استعمال الحسابات المحوحنة بأسعان etait‏ امعدلفة الت تس يها ركذا الالتزامات المتبادلة بين البنك والزيون.\nيجب أن يتم تحديد هذه الشروط في عقد ci‏ الحساب أو في المستتدات المرسلة لهذا الغرض.\nتقوم إجباريا بالقيد قي الجائب الدائن للزبون في الخاصة بالعمليات المصرفية بتعليمة من بنك الجزاثر.",
+      "paragraphs": [
+        {
+          "text": "يقصد بالشروط الينكية: المكافآت رالتمزيفات والعنولات المطيقة على العنليات المصزفية الكى خقوم يها البذوك:واالؤسسات المالية الملدة 5 : يتعين على البنوك والمؤسسات المالية: أن تبلغ زبائئهاوالهمهورءعن طريق كل الوسائل:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المصرفية التي تقوم Les‏ وبهذه الصفة؛ يتعين على البنوك والمؤسسات المالية؛ أن تطلع زبائتها على شرو ط استعمال الحسابات المحوحنة بأسعان etait‏ امعدلفة الت تس يها ركذا الالتزامات المتبادلة بين البنك والزيون.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "يجب أن يتم تحديد هذه الشروط في عقد ci‏ الحساب أو في المستتدات المرسلة لهذا الغرض.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "تقوم إجباريا بالقيد قي الجائب الدائن للزبون في الخاصة بالعمليات المصرفية بتعليمة من بنك الجزاثر.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "يترتب على كل تآخر يحدث في تتفيذ المذكورة sel‏ تقديم تعويض يدفع للزبون من قبل البتك أوالمؤسسة المالية المغئثية.",
+      "paragraphs": [
+        {
+          "text": "يترتب على كل تآخر يحدث في تتفيذ المذكورة sel‏ تقديم تعويض يدفع للزبون من قبل البتك أوالمؤسسة المالية المغئثية.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 3,
+      "text": "يتم تحديد نسب الفائدة الدائنة والمدينة من قبل البنوك والمؤسسات المالية؛ بكل حرية ولا يمكن في كل الحالات» آن تتعدى نسب القفائدة الفعليةالإجمالية على القروض الموزعة من طرف الينوك والموّسست المالية معدل الفائدة الزائد الذي حدده بتك الحزائر.\npi -‏ وإققال الحسابات بالديثار:\nمنح دفتر الشيكات, الشباك:\nإعداد وإرسال كشف الخساب لكل ثلاثة أشهر إلى الزبون:\nعملية تحويل من حساب إلى حسساب مايين القتطعة هن طرف البنوك: pus gas‏ عمليات التجارة الخارجية عند الاستيراد وتحويل المداخيل: كما يأتي :\nالمبالغ السقفية أو المعدلات القصوين (*)\nالاعتمد المستئدي التسليم المستندي أى تحويل gai‏ mil 2‏ للك اج + مصاز يق سنويفقت (rs LAN)‏\n3. الالتزام 3 [. هع Lis ui‏ مؤونة Ed 23010 أدنى‎ À 5 % لكل ثلاشي غير قابلة للتقسيم مع حذف أذ نى 2500 دج\n6. عمولة القبول تبلا 5\" مع حد أدتى 25000 دج + مصاريف )| شه دع‎ rs pou 54 3000 ASUNIY sb pu‏ دج] AO)‏ دج غمر تلك المدرجة شي الحدو ل أعلؤة.",
+      "paragraphs": [
+        {
+          "text": "يتم تحديد نسب الفائدة الدائنة والمدينة من قبل البنوك والمؤسسات المالية؛ بكل حرية ولا يمكن في كل الحالات» آن تتعدى نسب القفائدة الفعليةالإجمالية على القروض الموزعة من طرف الينوك والموّسست المالية معدل الفائدة الزائد الذي حدده بتك الحزائر.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "pi -‏ وإققال الحسابات بالديثار:",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "منح دفتر الشيكات, الشباك:",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "إعداد وإرسال كشف الخساب لكل ثلاثة أشهر إلى الزبون:",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "عملية تحويل من حساب إلى حسساب مايين القتطعة هن طرف البنوك: pus gas‏ عمليات التجارة الخارجية عند الاستيراد وتحويل المداخيل: كما يأتي :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "المبالغ السقفية أو المعدلات القصوين (*)",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "الاعتمد المستئدي التسليم المستندي أى تحويل gai‏ mil 2‏ للك اج + مصاز يق سنويفقت (rs LAN)‏",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "3. الالتزام 3 [. هع Lis ui‏ مؤونة Ed 23010 أدنى‎ À 5 % لكل ثلاشي غير قابلة للتقسيم مع حذف أذ نى 2500 دج",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "6. عمولة القبول تبلا 5\" مع حد أدتى 25000 دج + مصاريف )| شه دع‎ rs pou 54 3000 ASUNIY sb pu‏ دج] AO)‏ دج غمر تلك المدرجة شي الحدو ل أعلؤة.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "تسجل العمولات المذكورة في المادة السابقة في حسابات فردية لدى محاسبة البنك.",
+      "paragraphs": [
+        {
+          "text": "تسجل العمولات المذكورة في المادة السابقة في حسابات فردية لدى محاسبة البنك.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "يتعين على البنوك أن ترسل إلى المديرية العامة للمسفنتشية العامة لبنك pl ll‏ وضعية ثلاثية للمداخيل المتاتية من عمليات التجارة الشارجية عند الاستيراد وتحويل المداخيل.",
+      "paragraphs": [
+        {
+          "text": "يتعين على البنوك أن ترسل إلى المديرية العامة للمسفنتشية العامة لبنك pl ll‏ وضعية ثلاثية للمداخيل المتاتية من عمليات التجارة الشارجية عند الاستيراد وتحويل المداخيل.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "إن معدل الصرف المطبيق على الزبائنء sc gs‏ المدفوعات والتحهويلات ذات الصلة بالمعاملات الدولية الجارية وكذا كل المدفوعات المرخصة الأخرى: هو المعدل الفعلىي لتنفيذ عملية الصرف المعمول به للتغطية على مستوى سوق الصرف ما بين المصارف.",
+      "paragraphs": [
+        {
+          "text": "إن معدل الصرف المطبيق على الزبائنء sc gs‏ المدفوعات والتحهويلات ذات الصلة بالمعاملات الدولية الجارية وكذا كل المدفوعات المرخصة الأخرى: هو المعدل الفعلىي لتنفيذ عملية الصرف المعمول به للتغطية على مستوى سوق الصرف ما بين المصارف.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "تحدد البثنوك والمؤسسات المالية:\nباستثقناءالخدهات المصرفبة المعاتية والمعمولات:\n(*) دون اعتساب استر ماع المصاريف اليررة Al pue)‏ صرف بتله العزائر. (est‏ الملنصوص عليها في المادتين 10 و11 على التوالي من شذا cal Il‏ يكل حرية: المفقد لات ومستويات القمولآات الأخري.\nيكعين على البنوك والمؤسسات المالية الاحترام الصارم للشروط المطبقة على العمليات اللصرفية التي",
+      "paragraphs": [
+        {
+          "text": "تحدد البثنوك والمؤسسات المالية:",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "باستثقناءالخدهات المصرفبة المعاتية والمعمولات:",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "(*) دون اعتساب استر ماع المصاريف اليررة Al pue)‏ صرف بتله العزائر. (est‏ الملنصوص عليها في المادتين 10 و11 على التوالي من شذا cal Il‏ يكل حرية: المفقد لات ومستويات القمولآات الأخري.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "يكعين على البنوك والمؤسسات المالية الاحترام الصارم للشروط المطبقة على العمليات اللصرفية التي",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 16",
+      "number": "16",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "تحدد كيفيات تطبيق أحكاء هذا النظاع من بتك الحزائر.",
+      "paragraphs": [
+        {
+          "text": "تحدد كيفيات تطبيق أحكاء هذا النظاع من بتك الحزائر.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 17",
+      "number": "17",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "تلفى الأحكام المسشالفة لهذاالنظام.\nلاسيماالنظام رقم 09- 03الموّرخ في أول cils‏ الثانية عام 1430 الموافق 26 مايو سنة 2009 الذى sas‏ القواعد العامة المتعلقة بشروط البنوك المطبقة على العبليات المصرقبة",
+      "paragraphs": [
+        {
+          "text": "تلفى الأحكام المسشالفة لهذاالنظام.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "لاسيماالنظام رقم 09- 03الموّرخ في أول cils‏ الثانية عام 1430 الموافق 26 مايو سنة 2009 الذى sas‏ القواعد العامة المتعلقة بشروط البنوك المطبقة على العبليات المصرقبة",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 18",
+      "number": "18",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "ينشر هذا النظام في الجريدة الرسمية للجمهور ية الجزائرية الديمقراطية الشعبية.\nحرر بالجزائر في 26 جمادى الأولى عام 134!\nالموافق 8 أبريل سئة 2013 محمد لكصاسي",
+      "paragraphs": [
+        {
+          "text": "ينشر هذا النظام في الجريدة الرسمية للجمهور ية الجزائرية الديمقراطية الشعبية.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "حرر بالجزائر في 26 جمادى الأولى عام 134!",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "الموافق 8 أبريل سئة 2013 محمد لكصاسي",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_uncertain_numbers:1",
+      "ocr_utilise_verification_humaine",
+      "numerotation:articles_manquants:[2, 3, 5, 6, 7, 10, 11]"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.036,
+      "ocr_pages": [
+        1,
+        2,
+        3
+      ],
+      "ocr_mean_confidence": 78.2
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/REG-13-01.ar.txt"
+}

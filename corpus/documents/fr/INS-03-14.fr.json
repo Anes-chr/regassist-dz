@@ -1,0 +1,332 @@
+{
+  "document_id": "INS-03-14.fr",
+  "work_id": "INS-03-14",
+  "title": "Instruction n°03-2014 du 23 novembre 2014 fixant le niveau des engagements extérieurs des banques et établissements financiers.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "03-2014",
+  "number_source": "en-tête du document",
+  "date": "2014-11-23",
+  "date_raw": "N°03-2014 DU 23 NOVEMBRE 2014",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-02",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Normes prudentielles",
+  "source_url": "https://www.bank-of-algeria.dz/banque-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/02/instruction032014.pdf",
+  "format": "pdf",
+  "file_hash": "5268f1dd64dbca2d73bf0997749784d659b5ec64c5b37ab81ee5e43668380697",
+  "file_size": 45867,
+  "raw_path": "raw/5268f1dd64db__instruction032014.pdf",
+  "retrieved_at": "2026-10-05T13:20:27+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "ef150307457fd5c922ee9984516ed422d6c7e8a304145e68a36fc2ec8b530ffd",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-2014/",
+    "https://www.bank-of-algeria.dz/banque-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document20",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210211092544+01'00'",
+    "modDate": "D:20210211092544+01'00'"
+  },
+  "hijri_date_raw": "16 Rabie Ethani\n1435",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 1479,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 4,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°03-2014 DU 23 NOVEMBRE 2014 FIXANT LE NIVEAU DES ENGAGEMENTS EXTERIEURS DES BANQUES ET ETABLISSEMENTS FINANCIERS",
+  "alias_urls": [],
+  "text_hash": "c2a2238de8737c69475abdf61e82b2f9e5f3cac700e8ace59d3d01f964d16082",
+  "relations_out": [
+    {
+      "relation": "remplace",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "68-94",
+        "date": "1994-10-25",
+        "raw": "instruction n°68-94 du 25 octobre 1994"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction annule et remplace l’instruction n°68-94 du 25 octobre 1994 fixant le niveau des engagements extéri"
+      },
+      "target_work_id": "INS-68-94"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [
+    {
+      "work_id": "INS-68-94",
+      "reference": "instruction n°68-94 du 25 octobre 1994",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction annule et remplace l’instruction n°68-94 du 25 octobre 1994 fixant le niveau des engagements extéri"
+      }
+    }
+  ],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [
+    {
+      "work_id": "INS-02-15",
+      "document_id": "INS-02-15.fr",
+      "date": "2015-07-22",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction annule et remplace l’instruction n°03-2014 du 23 novembre 2014 fixant le niveau des engagements extéri"
+      }
+    }
+  ],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "INS-02-15",
+      "document_id": "INS-02-15.fr",
+      "date": "2015-07-22",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction annule et remplace l’instruction n°03-2014 du 23 novembre 2014 fixant le niveau des engagements extéri"
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [
+    "INS-03-14.ar"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [
+    {
+      "work_id": "INS-02-15",
+      "document_id": "INS-02-15.fr",
+      "date": "2015-07-22",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction annule et remplace l’instruction n°03-2014 du 23 novembre 2014 fixant le niveau des engagements extéri"
+      }
+    }
+  ],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°03-2014 DU 23 NOVEMBRE 2014 FIXANT\nLE NIVEAU DES ENGAGEMENTS EXTERIEURS DES BANQUES\nET ETABLISSEMENTS FINANCIERS",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°03-2014 DU 23 NOVEMBRE 2014 FIXANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "LE NIVEAU DES ENGAGEMENTS EXTERIEURS DES BANQUES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET ETABLISSEMENTS FINANCIERS",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Conformément aux dispositions du règlement n°14-01 du 16 Rabie Ethani 1435 correspondant au 16 février 2014 portant coefficients de solvabilité applicables aux banques et établissements financiers et du règlement n°14-02 du 16 Rabie Ethani 1435 correspondant au 16 février 2014 relatif aux grands risques et aux participations, la présente instruction a pour objet de définir le niveau autorisé des engagements extérieurs par signature des banques et établissements financiers au titre des opérations d’importation.",
+      "paragraphs": [
+        {
+          "text": "Conformément aux dispositions du règlement n°14-01 du 16 Rabie Ethani 1435 correspondant au 16 février 2014 portant coefficients de solvabilité applicables aux banques et établissements financiers et du règlement n°14-02 du 16 Rabie Ethani 1435 correspondant au 16 février 2014 relatif aux grands risques et aux participations, la présente instruction a pour objet de définir le niveau autorisé des engagements extérieurs par signature des banques et établissements financiers au titre des opérations d’importation.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "A compter du 1er décembre 2014, le niveau des engagements extérieurs par signature des banques et établissements financiers ne doit à aucun moment dépasser deux (2) fois leurs fonds propres règlementaires tels que définis par la réglementation prudentielle en vigueur.",
+      "paragraphs": [
+        {
+          "text": "A compter du 1er décembre 2014, le niveau des engagements extérieurs par signature des banques et établissements financiers ne doit à aucun moment dépasser deux (2) fois leurs fonds propres règlementaires tels que définis par la réglementation prudentielle en vigueur.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Par engagements extérieurs par signature au titre des opérations d’importation, il faut entendre l’ensemble des engagements par signature afférents aux opérations d’importation, déduction faite des dépôts de garantie et provisions constitués en dinars au titre de ces opérations.",
+      "paragraphs": [
+        {
+          "text": "Par engagements extérieurs par signature au titre des opérations d’importation, il faut entendre l’ensemble des engagements par signature afférents aux opérations d’importation, déduction faite des dépôts de garantie et provisions constitués en dinars au titre de ces opérations.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction annule et remplace l’instruction n°68-94 du 25 octobre 1994 fixant le niveau des engagements extérieurs des banques.\nLe Gouverneur\nMohammed LAKSACI\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "La présente instruction annule et remplace l’instruction n°68-94 du 25 octobre 1994 fixant le niveau des engagements extérieurs des banques.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.022
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-03-14.fr.txt"
+}

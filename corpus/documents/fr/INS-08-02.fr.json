@@ -1,0 +1,997 @@
+{
+  "document_id": "INS-08-02.fr",
+  "work_id": "INS-08-02",
+  "title": "Instruction n°08-2002 du 26 décembre 2002 portant modèles de déclaration par les banques et établissements financiers, intermédiaires agrées, du niveau de leurs engagements extérieurs.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "08-2002",
+  "number_source": "libelle",
+  "date": "2002-12-26",
+  "date_raw": "n°08-2002 du 26 décembre 2002",
+  "date_source": "libelle",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Normes prudentielles",
+  "source_url": "https://www.bank-of-algeria.dz/banque-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction082002.pdf",
+  "format": "pdf",
+  "file_hash": "dabd13df6895755b9da7bed730f9f081912a9c3cb906b04d5f183b7b4ba63dbb",
+  "file_size": 538209,
+  "raw_path": "raw/dabd13df6895__instruction082002.pdf",
+  "retrieved_at": "2026-10-05T13:21:48+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "mixed",
+  "ocr_required": true,
+  "page_count": 5,
+  "url_hash": "56db0e1530c1001061e55ea53b5785c9af60e814dcae94d74783b18ca7761437",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-2002/",
+    "https://www.bank-of-algeria.dz/banque-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Microsoft Word - instruction082002",
+    "author": "chahra.yahiaoui",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "creationDate": "D:20210228115221+01'00'",
+    "modDate": "D:20210228115221+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "mixed",
+    "page_count": 5,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2223,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "ocr",
+        "chars": 2183,
+        "ocr_confidence": 66.90988372093024
+      },
+      {
+        "page": 3,
+        "method": "ocr",
+        "chars": 447,
+        "ocr_confidence": 36.701149425287355
+      },
+      {
+        "page": 4,
+        "method": "ocr",
+        "chars": 660,
+        "ocr_confidence": 31.008064516129032
+      },
+      {
+        "page": 5,
+        "method": "pdf_text",
+        "chars": 1877,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 4,
+    "annex_count": 4
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine",
+    "ocr_faible_confiance"
+  ],
+  "title_document": "INSTRUCTION N°08-2002 DU 26 DECEMBRE 2002 PORTANT MODELES DE DECLARATION PAR LES BANQUES ET ETABLISSEMENTS FINANCIERS, INTERMEDIAIRES AGREES, DU NIVEAU DE LEURS ENGAGEMENTS EXTERIEURS",
+  "alias_urls": [],
+  "text_hash": "1da3813aaa95a6f0fc9f61a2234fb4dbfd725e49da722ce05ecc6fdc40912a63",
+  "relations_out": [
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "20-94",
+        "date": null,
+        "raw": "Instruction n° 20-94"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "a présente Instruction abroge toutes les dispositions contraires antérieures, notamment, l'alinéa 2 de l'article 5 de l'Instruction n° 20-94 fixant les conditions financières des o"
+      },
+      "target_work_id": "INS-20-94"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "INS-20-94",
+      "reference": "Instruction n° 20-94",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "a présente Instruction abroge toutes les dispositions contraires antérieures, notamment, l'alinéa 2 de l'article 5 de l'Instruction n° 20-94 fixant les conditions financières des o"
+      }
+    }
+  ],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 5,
+      "page_end": 5,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 5,
+      "page_end": 5,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe I",
+      "number": "I",
+      "heading": "CALCUL DES FONDS PROPRES SUR BASE NON CONSOLIDEE ŒN MILLIERS DE DINARS) NOM DE L'ETABLISSEMENT DATE D'ARRETE ASSUJETTI",
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe",
+      "number": "",
+      "heading": "HI MD,",
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe",
+      "number": "",
+      "heading": "NII",
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe IV",
+      "number": "IV",
+      "heading": null,
+      "page_start": 5,
+      "page_end": 5,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°08-2002 DU 26 DECEMBRE 2002 PORTANT\nMODELES DE DECLARATION PAR LES BANQUES ET ETABLISSEMENTS\nFINANCIERS, INTERMEDIAIRES AGREES, DU NIVEAU\nDE LEURS ENGAGEMENTS EXTERIEURS",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°08-2002 DU 26 DECEMBRE 2002 PORTANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "MODELES DE DECLARATION PAR LES BANQUES ET ETABLISSEMENTS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "FINANCIERS, INTERMEDIAIRES AGREES, DU NIVEAU",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DE LEURS ENGAGEMENTS EXTERIEURS",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "la présente instruction a pour objet d'arrêter les modèles (canevas) de déclaration par les banques et établissements financiers, intermédiaires agréés, du niveau de leurs engagements financiers extérieurs par signature, conformément aux dispositions des instructions n°20-94 du 12 avril 1994 et n°68-94 du 25 octobre 1994 fixant, respectivement, les conditions financières des opérations d'importations et le niveau des engagements extérieurs.",
+      "paragraphs": [
+        {
+          "text": "la présente instruction a pour objet d'arrêter les modèles (canevas) de déclaration par les banques et établissements financiers, intermédiaires agréés, du niveau de leurs engagements financiers extérieurs par signature, conformément aux dispositions des instructions n°20-94 du 12 avril 1994 et n°68-94 du 25 octobre 1994 fixant, respectivement, les conditions financières des opérations d'importations et le niveau des engagements extérieurs.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Sont annexés à la présente Instruction :\n1. Le modèle 1000 (annexe 1) relatif au calcul des fonds propres ;\n2. Le modèle 3000 (annexe 2) relatif aux éléments de calculs des engagements extérieurs au titre d'opérations d'importations ;\n3. Le modèle 3001 (annexe 3) relatif au mode de calcul du niveau des engagements extérieurs rapporté aux fonds propres ;\n4. Description des éléments composant les engagements extérieurs nets au titre des opérations d'importations (annexe 4).",
+      "paragraphs": [
+        {
+          "text": "Sont annexés à la présente Instruction :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "1. Le modèle 1000 (annexe 1) relatif au calcul des fonds propres ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "2. Le modèle 3000 (annexe 2) relatif aux éléments de calculs des engagements extérieurs au titre d'opérations d'importations ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "3. Le modèle 3001 (annexe 3) relatif au mode de calcul du niveau des engagements extérieurs rapporté aux fonds propres ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "4. Description des éléments composant les engagements extérieurs nets au titre des opérations d'importations (annexe 4).",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les banques et établissements financiers, intermédiaires agréés, doivent renseigner mensuellement les modèles sus indiqués et les faire parvenir à la Banque d'Algérie, au plus tard, 15 jours suivant la date d'arrêté.\nLes déclarations dûment remplies doivent être signées par l'un des dirigeants habilités au sens de l'article 135 de la Loi n° 90-10 du 14 Avril 1990 relative à la monnaie et au\nCrédit, modifiée et complétée et régulièrement agréé par le Gouverneur de la Banque d'Algérie .\nLes modèles mensuels sus indiqués sont à transmettre en double exemplaire à la Banque d'Algérie, Direction Générale de l'Inspection Générale sise, 08, boulevard Zighoud Youcef\n- Alger.",
+      "paragraphs": [
+        {
+          "text": "Les banques et établissements financiers, intermédiaires agréés, doivent renseigner mensuellement les modèles sus indiqués et les faire parvenir à la Banque d'Algérie, au plus tard, 15 jours suivant la date d'arrêté.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les déclarations dûment remplies doivent être signées par l'un des dirigeants habilités au sens de l'article 135 de la Loi n° 90-10 du 14 Avril 1990 relative à la monnaie et au",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Crédit, modifiée et complétée et régulièrement agréé par le Gouverneur de la Banque d'Algérie .",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les modèles mensuels sus indiqués sont à transmettre en double exemplaire à la Banque d'Algérie, Direction Générale de l'Inspection Générale sise, 08, boulevard Zighoud Youcef",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Alger.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente Instruction abroge toutes les dispositions contraires antérieures, notamment, l'alinéa 2 de l'article 5 de l'Instruction n° 20-94 fixant les conditions financières des opérations d'importations et entre en application à compter de la date de sa signature.\nLe Gouverneur\nMohammed LAKSACI\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "La présente Instruction abroge toutes les dispositions contraires antérieures, notamment, l'alinéa 2 de l'article 5 de l'Instruction n° 20-94 fixant les conditions financières des opérations d'importations et entre en application à compter de la date de sa signature.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe I",
+      "number": "I",
+      "heading": "CALCUL DES FONDS PROPRES SUR BASE NON CONSOLIDEE ŒN MILLIERS DE DINARS) NOM DE L'ETABLISSEMENT DATE D'ARRETE ASSUJETTI",
+      "context": {},
+      "annexe": {
+        "number": "I",
+        "heading": "CALCUL DES FONDS PROPRES SUR BASE NON CONSOLIDEE ŒN MILLIERS DE DINARS) NOM DE L'ETABLISSEMENT DATE D'ARRETE ASSUJETTI",
+        "label": "Annexe I"
+      },
+      "page_start": 2,
+      "page_end": 2,
+      "text": "DECLARANT nn\nMOIS\nC APITAL soc AL. ln aus anse 000 cu0e aus can aus aus anse eee ces can can eus eus case ans es ous cuus aus ant anse 20e —\nRESERVES AUTRES QUE RESERVES DE REE VALUATION......\nRES AVES LEGALES .......nmnemememenenenemememmencnenmensem\nRESERVES STATUTAIRES ET CONTRACTUELLES...\nRESERVES REGLEMENTEES.\nAUTRES RESERVES{(à préciser).\nFONDS POUR RISQUES BANCAIRES GENERAUX. un vu mou\nREPORT A NOUVEAU CREDIT EUR\nBENE FICE ARRETE A DES DATES INTERMEDIAIRES..\nRESULTAT EN INSTANCE D'AFFECTATION DU DERNIER\nEXERCICE CLOS DIMINUE DES DIVIDENDES A PREVOIR....\nADEDUIRE\nCAPITAL NON LIBERE..\nCAPITAL NON ATELE.. mm mammmmemmemmemmmmme\nCAPITAL APPFELE ET NON VERSE\nACTIONS FROPRES DETENUE Su ous asus aus aus ses sus asus ous once aus ont ass aus es\nIMMOBILISATIONS INCORFORELLES D'EXPLOITATION...\n(y compris les Frais d'établissement )\nIMMOBILISATIONS INCORPFORELLES HORS EXPLOITATION.\nREPORT A NOUVEAU DE BITEUR\nRESULTAT NEGATIF ARRETE A DES DATES INTER MEDIAIRES …\nPERTE DE L'EXERCOICE...nrnmommenmmemesmenemmemeemenesenmene\nRESERV ESET EC ARTS DE REEVAL UATION as eun ana en ensememeunemes\nELEMENTS REFONDANT AUX CONDITIONS DE L'AR 6, alinéa\n2) DE L'INST. 7494 DE LA BANQUE D'ALGERIE(à préciser)...\nTITRES ET EMPRUNTS SUBORDONNES REPFONDANT AUX\nCONDITIONS DE L'AR 6, alinéa 3) DE L'INST. 74-94 DE LA\nBANQUE D'ALGERIE.. nn cu on mu smmmenamensesmussmumemsnsnnus\nTITRES ET EMPFRUNTS SUBORDONNES REFONDANT AUX\nCONDITIONS DE L'AR 6, alinéa 5) DE L'INST. 7494 DE LA\nBANQUE D'ALGERIE...\nPART ADMISE DANS LES FONDS PROPRES COMPLEMENTAIRES:\nSE < C2 prndre FE; siE> CA prendre F- One\nTOTALAVANT LIMITATION GLO BALE (CG = D 4 PF} ou cou vus _\nPART DES FONDS FROPRES COMPLEMENTAIR FS A DMISE D ANS\nLES FONDS PROPRES :\niG<C prendreH = G:siG>C prendre H = C\nFONDS FROFRES COMPFLEME NTAIRE Sun vou oué anne au ue mue aus pan\nSUBORDONNEES SUR DES BANQUES ET ETABL FIN ANC IERS.\nPARTICIPATIONS DANS DES BANQUES ET ETABLS FIN.\nCREANCES SUBORDONNEES SUR DES BANQUES ET ETABL, FIN.\nTOT. PART. ETCREANCSUS. / BQX ET ETAB. FIN{HJ) ADEDUIRE. ….\nFONDS PROPRES (C +H -K).",
+      "paragraphs": [
+        {
+          "text": "DECLARANT nn",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "MOIS",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "C APITAL soc AL. ln aus anse 000 cu0e aus can aus aus anse eee ces can can eus eus case ans es ous cuus aus ant anse 20e —",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "RESERVES AUTRES QUE RESERVES DE REE VALUATION......",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "RES AVES LEGALES .......nmnemememenenenemememmencnenmensem",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "RESERVES STATUTAIRES ET CONTRACTUELLES...",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "RESERVES REGLEMENTEES.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "AUTRES RESERVES{(à préciser).",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "FONDS POUR RISQUES BANCAIRES GENERAUX. un vu mou",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "REPORT A NOUVEAU CREDIT EUR",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "BENE FICE ARRETE A DES DATES INTERMEDIAIRES..",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "RESULTAT EN INSTANCE D'AFFECTATION DU DERNIER",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "EXERCICE CLOS DIMINUE DES DIVIDENDES A PREVOIR....",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "ADEDUIRE",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "CAPITAL NON LIBERE..",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "CAPITAL NON ATELE.. mm mammmmemmemmemmmmme",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "CAPITAL APPFELE ET NON VERSE",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "ACTIONS FROPRES DETENUE Su ous asus aus aus ses sus asus ous once aus ont ass aus es",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "IMMOBILISATIONS INCORFORELLES D'EXPLOITATION...",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "(y compris les Frais d'établissement )",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "IMMOBILISATIONS INCORPFORELLES HORS EXPLOITATION.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "REPORT A NOUVEAU DE BITEUR",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "RESULTAT NEGATIF ARRETE A DES DATES INTER MEDIAIRES …",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "PERTE DE L'EXERCOICE...nrnmommenmmemesmenemmemeemenesenmene",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "RESERV ESET EC ARTS DE REEVAL UATION as eun ana en ensememeunemes",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "ELEMENTS REFONDANT AUX CONDITIONS DE L'AR 6, alinéa",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "2) DE L'INST. 7494 DE LA BANQUE D'ALGERIE(à préciser)...",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "TITRES ET EMPRUNTS SUBORDONNES REPFONDANT AUX",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "CONDITIONS DE L'AR 6, alinéa 3) DE L'INST. 74-94 DE LA",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "BANQUE D'ALGERIE.. nn cu on mu smmmenamensesmussmumemsnsnnus",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "TITRES ET EMPFRUNTS SUBORDONNES REFONDANT AUX",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "CONDITIONS DE L'AR 6, alinéa 5) DE L'INST. 7494 DE LA",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "BANQUE D'ALGERIE...",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "PART ADMISE DANS LES FONDS PROPRES COMPLEMENTAIRES:",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "SE < C2 prndre FE; siE> CA prendre F- One",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "TOTALAVANT LIMITATION GLO BALE (CG = D 4 PF} ou cou vus _",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "PART DES FONDS FROPRES COMPLEMENTAIR FS A DMISE D ANS",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "LES FONDS PROPRES :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "iG<C prendreH = G:siG>C prendre H = C",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "FONDS FROFRES COMPFLEME NTAIRE Sun vou oué anne au ue mue aus pan",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "SUBORDONNEES SUR DES BANQUES ET ETABL FIN ANC IERS.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "PARTICIPATIONS DANS DES BANQUES ET ETABLS FIN.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "CREANCES SUBORDONNEES SUR DES BANQUES ET ETABL, FIN.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "TOT. PART. ETCREANCSUS. / BQX ET ETAB. FIN{HJ) ADEDUIRE. ….",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "FONDS PROPRES (C +H -K).",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe",
+      "number": "",
+      "heading": "HI MD,",
+      "context": {},
+      "annexe": {
+        "number": null,
+        "heading": "HI MD,",
+        "label": "Annexe"
+      },
+      "page_start": 3,
+      "page_end": 3,
+      "text": "(you spumy ou } uaus Tune puyo sus Tu Bud S21pn Y\nCECT LU LETEUE UEUTTET ES\n(Z) = (D) = (€) (D\nCapo pr teur ot) sam (D\nSAN VO NA SAN LLLSNOD Cspnseg sy ump out }\nNOC AMLLYNOIS HVd SNOISIAOMA 40 LA SANNOQ AMLLVNOIS\nSLNANAI VONT 'TIVLOL ALINVHV') 40 SLOdAQ HVd SIN ANA) VIN\nINVUAV III 41\nHAN ,O AL VO (SUVNIO AO SAATTAUX ND\nSNOLLYLHOd4HMI.A SNOLLY 44404 FALLL NV\nHHLLVNONS 4 Vd SHNATHALXA SLNANAHOVONYH SAQ AV AAIN NG'IIIVI AG SLNANTTA",
+      "paragraphs": [
+        {
+          "text": "(you spumy ou } uaus Tune puyo sus Tu Bud S21pn Y",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "CECT LU LETEUE UEUTTET ES",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "(Z) = (D) = (€) (D",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Capo pr teur ot) sam (D",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "SAN VO NA SAN LLLSNOD Cspnseg sy ump out }",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "NOC AMLLYNOIS HVd SNOISIAOMA 40 LA SANNOQ AMLLVNOIS",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "SLNANAI VONT 'TIVLOL ALINVHV') 40 SLOdAQ HVd SIN ANA) VIN",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "INVUAV III 41",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "HAN ,O AL VO (SUVNIO AO SAATTAUX ND",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "SNOLLYLHOd4HMI.A SNOLLY 44404 FALLL NV",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "HHLLVNONS 4 Vd SHNATHALXA SLNANAHOVONYH SAQ AV AAIN NG'IIIVI AG SLNANTTA",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe",
+      "number": "",
+      "heading": "NII",
+      "context": {},
+      "annexe": {
+        "number": null,
+        "heading": "NII",
+        "label": "Annexe"
+      },
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Pad uvaTUp np meufs 2 WON\nLe) LC] CL ] DO! X (4 / M) = Z (96 u9) STAOM A SANOA ANS SNOLIVIMOM LA SNOLIVH ON PALLLL OV TALLVNONS HV4 SLAN SLNIHAIVONT |\nSNOLLVLHOMNIO SNOLLV#W AO, HALLL OV SANNOC HULLVNOIS HVd SLAN SLNANAHODVONH\nSC | | PPS\nLL LES SAN LL\nA\nALAAIUV,Q ALVA ALAUUV,Q ALVO VI V ALAHU VO ALVOVIV ALNAGAODAUA ALAHUV,O ALVO\nVIV SAWdOUd SONOA SA SAUdOUA SONO SA VIvV\nS4440d SONO NOLLIININIQ INANASSIONDOV SAWAOUd SONOA\nCE]\nSAUAdOUd\nSONO A SAQ 'IdANAVAÙ\nSAWAOHd SONO\nSION dior\nRS SE LL FT TI FO TI TI IN VUV' 144\nLLLAMISSV\nALAMMV,Q ALVA INHNASSTIAVLA,T 44 NON\nLS VN IQ HO SD TTTENE NA\nHANLVNOIS HVd SHNATHALXA SLNANAO VON SAQ A VAHAIN AG'INPIVI",
+      "paragraphs": [
+        {
+          "text": "Pad uvaTUp np meufs 2 WON",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Le) LC] CL ] DO! X (4 / M) = Z (96 u9) STAOM A SANOA ANS SNOLIVIMOM LA SNOLIVH ON PALLLL OV TALLVNONS HV4 SLAN SLNIHAIVONT |",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "SNOLLVLHOMNIO SNOLLV#W AO, HALLL OV SANNOC HULLVNOIS HVd SLAN SLNANAHODVONH",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "SC | | PPS",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "LL LES SAN LL",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "A",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "ALAAIUV,Q ALVA ALAUUV,Q ALVO VI V ALAHU VO ALVOVIV ALNAGAODAUA ALAHUV,O ALVO",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "VIV SAWdOUd SONOA SA SAUdOUA SONO SA VIvV",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "S4440d SONO NOLLIININIQ INANASSIONDOV SAWAOUd SONOA",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "CE]",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "SAUAdOUd",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "SONO A SAQ 'IdANAVAÙ",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "SAWAOHd SONO",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "SION dior",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "RS SE LL FT TI FO TI TI IN VUV' 144",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "LLLAMISSV",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "ALAMMV,Q ALVA INHNASSTIAVLA,T 44 NON",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "LS VN IQ HO SD TTTENE NA",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "HANLVNOIS HVd SHNATHALXA SLNANAO VON SAQ A VAHAIN AG'INPIVI",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe IV",
+      "number": "IV",
+      "heading": null,
+      "context": {},
+      "annexe": {
+        "number": "IV",
+        "heading": null,
+        "label": "Annexe IV"
+      },
+      "page_start": 5,
+      "page_end": 5,
+      "text": "",
+      "paragraphs": []
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "I",
+          "heading": "DESCRIPTION DES ELEMENTS COMPOSANT LES ENGAGEMENTS EXTERIEURS PAR SIGNATURE AU TITRE D'OPERATIONS D'IMPORTATIONS VISEES PAR LES INSTRUCTIONS N° 20-94 ET N° 68-94.",
+          "label": "Section I"
+        }
+      },
+      "annexe": {
+        "number": "IV",
+        "heading": null,
+        "label": "Annexe IV"
+      },
+      "page_start": 5,
+      "page_end": 5,
+      "text": "Les engagements extérieurs au titre d'opérations d'importations, renferment l'ensemble des engagements par signature suivants :\n1. Crédits documentaires (modèle 3001, code 331)\nLes crédits documentaires à déclarer doivent comprendre notamment :\n- les crédits documentaires révocables,\n- les crédits documentaires irrévocables,\n- les crédits documentaires irrévocables et confirmés.\n2. Avals (modèle 3001, code 332).\nLes avals à déclarer sont ceux donnés par la banque en vue de garantir l'exécution des obligations contractées par leurs clients au titre d'opérations d'importations.\n3. Cautions (modèle 3001, code 333).\nLes cautions bancaires à inclure regroupent l'ensemble des cautions données par l'établissement déclarant aux différents agents économiques au titre d'opérations d'importations.\n4. Acceptations (modèle 3001, code 334).\nIl y a lieu d'enregistrer l'ensemble des engagements par acceptation donnés par l'établissement déclarant au titre d'opérations d'importations.\n5. Autres engagements (modèle 3001, code 335).\nCe poste reprend les autres engagements extérieurs par signature au titre d'opérations d'importations n'entrant pas dans l'une des rubriques susmentionnées.",
+      "paragraphs": [
+        {
+          "text": "Les engagements extérieurs au titre d'opérations d'importations, renferment l'ensemble des engagements par signature suivants :",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "1. Crédits documentaires (modèle 3001, code 331)",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Les crédits documentaires à déclarer doivent comprendre notamment :",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- les crédits documentaires révocables,",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- les crédits documentaires irrévocables,",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- les crédits documentaires irrévocables et confirmés.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "2. Avals (modèle 3001, code 332).",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Les avals à déclarer sont ceux donnés par la banque en vue de garantir l'exécution des obligations contractées par leurs clients au titre d'opérations d'importations.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "3. Cautions (modèle 3001, code 333).",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Les cautions bancaires à inclure regroupent l'ensemble des cautions données par l'établissement déclarant aux différents agents économiques au titre d'opérations d'importations.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "4. Acceptations (modèle 3001, code 334).",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Il y a lieu d'enregistrer l'ensemble des engagements par acceptation donnés par l'établissement déclarant au titre d'opérations d'importations.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "5. Autres engagements (modèle 3001, code 335).",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Ce poste reprend les autres engagements extérieurs par signature au titre d'opérations d'importations n'entrant pas dans l'une des rubriques susmentionnées.",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "II",
+          "heading": "ELEMENTS DEDUCTIBLES DES ENGAGEMENTS EXTERIEURS PAR SIGNATURE AU TITRE D'OPERATIONS D'IMPORTATIONS.",
+          "label": "Section II"
+        }
+      },
+      "annexe": {
+        "number": "IV",
+        "heading": null,
+        "label": "Annexe IV"
+      },
+      "page_start": 5,
+      "page_end": 5,
+      "text": "Dépôts de garantie et de provisions constitués en DA (modèle 3001, colonne 2).\nIl s'agit de dépôts de garantie et de provisions constituées en dinars destinés exclusivement pour la couverture des engagements financiers extérieurs par signature au titre d'opérations d'importations visées par l'instruction n°20-94.",
+      "paragraphs": [
+        {
+          "text": "Dépôts de garantie et de provisions constitués en DA (modèle 3001, colonne 2).",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Il s'agit de dépôts de garantie et de provisions constituées en dinars destinés exclusivement pour la couverture des engagements financiers extérieurs par signature au titre d'opérations d'importations visées par l'instruction n°20-94.",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine",
+      "ocr_faible_confiance"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.051,
+      "ocr_pages": [
+        2,
+        3,
+        4
+      ],
+      "ocr_mean_confidence": 44.9
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-08-02.fr.txt"
+}

@@ -1,0 +1,958 @@
+{
+  "document_id": "REG-90-04.fr",
+  "work_id": "REG-90-04",
+  "title": "Règlement n°90-04 du 8 septembre 1990 relatif à l’agrément et à l’installation des concessionnaires et grossistes en Algérie.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "90-04",
+  "number_source": "en-tête du document",
+  "date": "1990-09-08",
+  "date_raw": "N° 90-04 DU 8 SEPTEMBRE 1990",
+  "date_source": "en-tête du document",
+  "publication_date": "2023-01-25",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Divers",
+  "source_url": "https://www.bank-of-algeria.dz/risques-reglement/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/reglement9004.pdf",
+  "format": "pdf",
+  "file_hash": "5554b860298340b13f688349bca175335a3e66bb6c7c05931bb0710c4b90cdff",
+  "file_size": 47012,
+  "raw_path": "raw/5554b8602983__reglement9004.pdf",
+  "retrieved_at": "2026-10-05T13:27:06+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 3,
+  "url_hash": "401f24f4ef62b3bb31bba04536d3551c18f4ed1851b029816841f193571f567e",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/risques-reglement/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document2",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200623124943+01'00'",
+    "modDate": "D:20200623124943+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 3,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2985,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 1957,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 2828,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 12,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "REGLEMENT N° 90-04 DU 8 SEPTEMBRE 1990 RELATIF A L'AGRÉMENT ET A L'INSTALLATION DES CONCESSIONNAIRES ET GROSSISTES EN ALGERIE",
+  "alias_urls": [],
+  "text_hash": "0142d617c9ccd7d4a1bddec871bcd5ac5accc99d48db178e9121b42834e82407",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [
+    {
+      "work_id": "INS-03-91-19910421",
+      "document_id": "INS-03-91-19910421.fr",
+      "date": "1991-04-21",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "amment celles relatives aux budgets devises et aux plans de financement, ainsi que les articles 2, 5, 6, 7, 10 et 11 du règlement n°90-04, sont abrogés."
+      }
+    },
+    {
+      "work_id": "REG-91-03",
+      "document_id": "REG-91-03.fr",
+      "date": "1991-02-20",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "nonobstant l'article 4 ci-après, les articles 2, 5, 6, 10 et 11 ainsi que l'alinéa « e » du point IV de l'article 8 du règlement n°90-04 du 08 septembre 1990 relatif à l'agrément et à l'installatio"
+      }
+    }
+  ],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "INS-03-91-19910421",
+      "document_id": "INS-03-91-19910421.fr",
+      "date": "1991-04-21",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "amment celles relatives aux budgets devises et aux plans de financement, ainsi que les articles 2, 5, 6, 7, 10 et 11 du règlement n°90-04, sont abrogés."
+      }
+    },
+    {
+      "work_id": "REG-91-03",
+      "document_id": "REG-91-03.fr",
+      "date": "1991-02-20",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "nonobstant l'article 4 ci-après, les articles 2, 5, 6, 10 et 11 ainsi que l'alinéa « e » du point IV de l'article 8 du règlement n°90-04 du 08 septembre 1990 relatif à l'agrément et à l'installatio"
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [
+    "REG-90-04.ar"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [
+    {
+      "work_id": "INS-03-91-19910421",
+      "document_id": "INS-03-91-19910421.fr",
+      "date": "1991-04-21",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 3,
+        "quote": "amment celles relatives aux budgets devises et aux plans de financement, ainsi que les articles 2, 5, 6, 7, 10 et 11 du règlement n°90-04, sont abrogés."
+      }
+    },
+    {
+      "work_id": "REG-91-03",
+      "document_id": "REG-91-03.fr",
+      "date": "1991-02-20",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "nonobstant l'article 4 ci-après, les articles 2, 5, 6, 10 et 11 ainsi que l'alinéa « e » du point IV de l'article 8 du règlement n°90-04 du 08 septembre 1990 relatif à l'agrément et à l'installatio"
+      }
+    }
+  ],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 2,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "section",
+      "label": "Section IV",
+      "number": null,
+      "heading": "Pour tout demandeur, personne physique ou morale :",
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 9",
+          "number": "9",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 10",
+          "number": "10",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 11",
+          "number": "11",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        },
+        {
+          "type": "article",
+          "label": "Article 12",
+          "number": "12",
+          "heading": null,
+          "page_start": 3,
+          "page_end": 3,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N° 90-04 DU 8 SEPTEMBRE 1990 RELATIF\nA L'AGRÉMENT ET A L'INSTALLATION DES CONCESSIONNAIRES\nET GROSSISTES EN ALGERIE\nLe Gouverneur de la Banque d'Algérie,\n- Vu la Loi 90.10 du 14 Avril 1990 relative à la Monnaie et au Crédit ;\n- Vu la Loi 90-16 du 7 Août 1990 portant Loi de Finances Complémentaire pour 1990 ;\n- Vu le Décret Présidentiel du 15 Avril 1990 portant nomination du Gouverneur de la\nBanque d'Algérie ;\n- Vu les Décrets Présidentiels du 14 Mai 1990 portant nomination de Vice-Gouverneurs de la Banque d'Algérie ;\n- Vu le Décret Exécutif du 14 Mai 1990 portant désignation de membres titulaires et suppléants au Conseil de la Monnaie et du Crédit ;\n- Vu la délibération du Conseil de la Monnaie et du Crédit en date du 8 Septembre 1990 ;\nPromulgue le Règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N° 90-04 DU 8 SEPTEMBRE 1990 RELATIF",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "A L'AGRÉMENT ET A L'INSTALLATION DES CONCESSIONNAIRES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET GROSSISTES EN ALGERIE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d'Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la Loi 90.10 du 14 Avril 1990 relative à la Monnaie et au Crédit ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la Loi 90-16 du 7 Août 1990 portant Loi de Finances Complémentaire pour 1990 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 15 Avril 1990 portant nomination du Gouverneur de la",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu les Décrets Présidentiels du 14 Mai 1990 portant nomination de Vice-Gouverneurs de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Exécutif du 14 Mai 1990 portant désignation de membres titulaires et suppléants au Conseil de la Monnaie et du Crédit ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la délibération du Conseil de la Monnaie et du Crédit en date du 8 Septembre 1990 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le Règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les concessionnaires et grossistes, tels qu'autorisés par l'article 41 de la loi de finances complémentaire susvisée et définis par la réglementation en vigueur, peuvent s'installer en Algérie et procéder à la libre importation de marchandises, pour la revente en l'état, dès qu'ils auront obtenu un agrément du Conseil de la Monnaie et du\nCrédit, délivré sous la forme d'un avis de conformité, aux conditions définies dans les articles qui suivent.",
+      "paragraphs": [
+        {
+          "text": "Les concessionnaires et grossistes, tels qu'autorisés par l'article 41 de la loi de finances complémentaire susvisée et définis par la réglementation en vigueur, peuvent s'installer en Algérie et procéder à la libre importation de marchandises, pour la revente en l'état, dès qu'ils auront obtenu un agrément du Conseil de la Monnaie et du",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Crédit, délivré sous la forme d'un avis de conformité, aux conditions définies dans les articles qui suivent.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les concessionnaires et grossistes agréés sont autorisés à ouvrir auprès des banques algériennes des comptes en devises qui enregistreront les transactions liées aux importations et à la vente des produits ainsi qu'à toute opération de recette et de paiement, de versement et de retrait. Il peut être ouvert un compte pour chaque devise, les arbitrages entre les différentes devises étant autorisés au cours moyen entre les cours achat et vente contre dinars de chacune des monnaies concernées tels qu'ils ressortent des cotations de la Banque d'Algérie.\nPar devise, il est entendu toute monnaie librement convertible, normalement utilisée dans les transactions commerciales et financières internationales, et régulièrement cotée par la Banque d'Algérie.\nCes comptes devises ne peuvent à aucun moment présenter un solde débiteur.",
+      "paragraphs": [
+        {
+          "text": "Les concessionnaires et grossistes agréés sont autorisés à ouvrir auprès des banques algériennes des comptes en devises qui enregistreront les transactions liées aux importations et à la vente des produits ainsi qu'à toute opération de recette et de paiement, de versement et de retrait. Il peut être ouvert un compte pour chaque devise, les arbitrages entre les différentes devises étant autorisés au cours moyen entre les cours achat et vente contre dinars de chacune des monnaies concernées tels qu'ils ressortent des cotations de la Banque d'Algérie.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Par devise, il est entendu toute monnaie librement convertible, normalement utilisée dans les transactions commerciales et financières internationales, et régulièrement cotée par la Banque d'Algérie.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Ces comptes devises ne peuvent à aucun moment présenter un solde débiteur.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "Toutes les dépenses et frais engendrés par l'installation des concessionnaires et grossistes non-résidents doivent être couverts par des apports en devises en provenance de l'étranger, transférés en Algérie par l'intermédiaire de la Banque d'Algérie et rendus disponibles préalablement au démarrage de l'activité, sous forme principalement de capital social, accessoirement ou complémentairement sous forme d'avances d'associés ou de crédits financiers.\nPar dépenses d'investissement, il est entendu notamment :\n- les frais et dépenses relatifs aux formalités administratives ;\n- le coût des acquisitions et/ou de location de bureaux, terrains, terre-pleins de stockage, silos ou hangars, etc...;\n- le coût des agencements, aménagements et/ou transformations\n- le coût du mobilier et des équipements de bureau ou d'agence\n- toutes autres dépenses nécessitées par l'installation ;\n- tout cautionnement lié à l'activité",
+      "paragraphs": [
+        {
+          "text": "Toutes les dépenses et frais engendrés par l'installation des concessionnaires et grossistes non-résidents doivent être couverts par des apports en devises en provenance de l'étranger, transférés en Algérie par l'intermédiaire de la Banque d'Algérie et rendus disponibles préalablement au démarrage de l'activité, sous forme principalement de capital social, accessoirement ou complémentairement sous forme d'avances d'associés ou de crédits financiers.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Par dépenses d'investissement, il est entendu notamment :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- les frais et dépenses relatifs aux formalités administratives ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- le coût des acquisitions et/ou de location de bureaux, terrains, terre-pleins de stockage, silos ou hangars, etc...;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- le coût des agencements, aménagements et/ou transformations",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- le coût du mobilier et des équipements de bureau ou d'agence",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- toutes autres dépenses nécessitées par l'installation ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- tout cautionnement lié à l'activité",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les concessionnaires ou grossistes résidents agréés sont autorisés à couvrir les coûts d'installation en dinars.",
+      "paragraphs": [
+        {
+          "text": "Les concessionnaires ou grossistes résidents agréés sont autorisés à couvrir les coûts d'installation en dinars.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les produits importés pour la revente en l'état dans le cadre des concessions accordées aux concessionnaires et grossistes ne peuvent être réglés que par prélèvement sur les comptes devises visés à l'article 2.",
+      "paragraphs": [
+        {
+          "text": "Les produits importés pour la revente en l'état dans le cadre des concessions accordées aux concessionnaires et grossistes ne peuvent être réglés que par prélèvement sur les comptes devises visés à l'article 2.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le montant correspondant aux ventes en devises, doit être inscrit par le concessionnaire ou grossiste au crédit de son compte devises.",
+      "paragraphs": [
+        {
+          "text": "Le montant correspondant aux ventes en devises, doit être inscrit par le concessionnaire ou grossiste au crédit de son compte devises.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les ventes en devises sont réglées par l'acheteur par le biais d'un compte devises.",
+      "paragraphs": [
+        {
+          "text": "Les ventes en devises sont réglées par l'acheteur par le biais d'un compte devises.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "La demande d'agrément du concessionnaire ou grossiste, doit comprendre les informations suivantes :",
+      "paragraphs": [
+        {
+          "text": "La demande d'agrément du concessionnaire ou grossiste, doit comprendre les informations suivantes :",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "I",
+          "heading": "Activité pour laquelle l'agrément est demandé :",
+          "label": "Section I"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Concessionnaire ou grossiste.",
+      "paragraphs": [
+        {
+          "text": "Concessionnaire ou grossiste.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "II",
+          "heading": "Pour les personnes physiques :",
+          "label": "Section II"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "- Nom, prénoms\n- Date de naissance\n- Nationalité\n- Domicile\n- Curriculum vitae\n- Domaine d'activités",
+      "paragraphs": [
+        {
+          "text": "- Nom, prénoms",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Date de naissance",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Nationalité",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Domicile",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Curriculum vitae",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Domaine d'activités",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "III",
+          "heading": "Pour les personnes morales :",
+          "label": "Section III"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "- Dénomination ou raison sociale\n- Statut juridique\n- Siège, nationalité juridique, nationalité économique\n- Administration\n- Principaux actionnaires, intérêts économiques prépondérants (selon le cas)",
+      "paragraphs": [
+        {
+          "text": "- Dénomination ou raison sociale",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Statut juridique",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Siège, nationalité juridique, nationalité économique",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Administration",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Principaux actionnaires, intérêts économiques prépondérants (selon le cas)",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "IV",
+          "heading": "Pour tout demandeur, personne physique ou morale :",
+          "label": "Section IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 3,
+      "text": "- l'indication de la branche d'activité exercée par le demandeur ;\n- la qualité : producteur, regroupeur ou autre ;\n- la désignation du lieu d'implantation principal envisagé ainsi que le type d'organisation :\ncentrale, réseau, etc... ;\n- les établissements secondaires dont la création est projetée ;\n- la forme juridique qui sera adoptée en Algérie.\nLa demande d'agrément doit être accompagnée des pièces et documents suivants :\na) - copie certifiée conforme du registre de commerce et des statuts délivrés dans le pays d'origine pour les producteurs et les distributeurs exclusifs de marques, non-résidents ;\nb) - engagement d'octroi de concession ou d'exclusivité ;\nc) - un document signé par le concessionnaire ou le grossiste précisant la liste des produits objet de la concession et proposés à la revente.\nd) - un engagement du concessionnaire ou du grossiste de promouvoir en Algérie des investissements ultérieurs dans la production et/ou les services, selon un calendrier à proposer, à l'appui d'une formule de promotion (réservation d'un pourcentage de chiffre d'affaires, engagement de programme d'investissement par lots successifs, caution bancaire, etc..).\ne) - un engagement du concessionnaire ou du grossiste de rétrocéder un montant sous forme de ristourne commerciale conformément aux usages de la profession et à la réglementation en vigueur.\nCette rétrocession sera logée dans un compte approprié ouvert à cet effet sur les livres de la Banque d'Algérie.\nf) - un document portant engagement du concessionnaire ou du grossiste de respecter l'ensemble des obligations découlant de la législation et de la réglementation en vigueur.",
+      "paragraphs": [
+        {
+          "text": "- l'indication de la branche d'activité exercée par le demandeur ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- la qualité : producteur, regroupeur ou autre ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- la désignation du lieu d'implantation principal envisagé ainsi que le type d'organisation :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "centrale, réseau, etc... ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les établissements secondaires dont la création est projetée ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- la forme juridique qui sera adoptée en Algérie.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "La demande d'agrément doit être accompagnée des pièces et documents suivants :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "a) - copie certifiée conforme du registre de commerce et des statuts délivrés dans le pays d'origine pour les producteurs et les distributeurs exclusifs de marques, non-résidents ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "b) - engagement d'octroi de concession ou d'exclusivité ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "c) - un document signé par le concessionnaire ou le grossiste précisant la liste des produits objet de la concession et proposés à la revente.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "d) - un engagement du concessionnaire ou du grossiste de promouvoir en Algérie des investissements ultérieurs dans la production et/ou les services, selon un calendrier à proposer, à l'appui d'une formule de promotion (réservation d'un pourcentage de chiffre d'affaires, engagement de programme d'investissement par lots successifs, caution bancaire, etc..).",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "e) - un engagement du concessionnaire ou du grossiste de rétrocéder un montant sous forme de ristourne commerciale conformément aux usages de la profession et à la réglementation en vigueur.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Cette rétrocession sera logée dans un compte approprié ouvert à cet effet sur les livres de la Banque d'Algérie.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "f) - un document portant engagement du concessionnaire ou du grossiste de respecter l'ensemble des obligations découlant de la législation et de la réglementation en vigueur.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "IV",
+          "heading": "Pour tout demandeur, personne physique ou morale :",
+          "label": "Section IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "L'accord délivré par le Conseil de la Monnaie et du Crédit permet l'inscription au registre de commerce algérien. Dès son inscription, le titulaire devra remettre à la\nBanque d'Algérie, sous la référence de l'accord d'agrément, une photocopie certifiée conforme de son registre de commerce.",
+      "paragraphs": [
+        {
+          "text": "L'accord délivré par le Conseil de la Monnaie et du Crédit permet l'inscription au registre de commerce algérien. Dès son inscription, le titulaire devra remettre à la",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Banque d'Algérie, sous la référence de l'accord d'agrément, une photocopie certifiée conforme de son registre de commerce.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "IV",
+          "heading": "Pour tout demandeur, personne physique ou morale :",
+          "label": "Section IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Les comptes devises des concessionnaires et grossistes doivent, sur la base des ventes en devises de produits importés effectuées en Algérie, être crédités du produit de ces ventes réalisées dans le respect des dispositions de l'alinéa e de l'article 8 ci-dessus et de l'article 11 ci-après.",
+      "paragraphs": [
+        {
+          "text": "Les comptes devises des concessionnaires et grossistes doivent, sur la base des ventes en devises de produits importés effectuées en Algérie, être crédités du produit de ces ventes réalisées dans le respect des dispositions de l'alinéa e de l'article 8 ci-dessus et de l'article 11 ci-après.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "IV",
+          "heading": "Pour tout demandeur, personne physique ou morale :",
+          "label": "Section IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Le compte devises du concessionnaire ou grossiste est débité par celui-ci pour :\n- tout prélèvement en dinars destiné à la couverture de ses dépenses locales ;\n- effectuer les virements de la rétrocession visée à l'alinéa e) de l'article 8 ci-dessus ;\n- procéder à des transferts vers l'étranger.\nLes virements de la rétrocession et les transferts vers l'étranger interviennent concomitamment selon une périodicité qui ne peut pas être inférieure à deux mois.\nLes transferts vers l'étranger font l'objet d'une autorisation de la Banque d'Algérie établie sur la base d'une demande déposée par l'intermédiaire de la banque domiciliataire du compte en devises. Cette demande doit être appuyée d'un état récapitulatif des factures de ventes en devises concernées, dûment certifié conforme par le concessionnaire ou grossiste.",
+      "paragraphs": [
+        {
+          "text": "Le compte devises du concessionnaire ou grossiste est débité par celui-ci pour :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- tout prélèvement en dinars destiné à la couverture de ses dépenses locales ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- effectuer les virements de la rétrocession visée à l'alinéa e) de l'article 8 ci-dessus ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- procéder à des transferts vers l'étranger.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Les virements de la rétrocession et les transferts vers l'étranger interviennent concomitamment selon une périodicité qui ne peut pas être inférieure à deux mois.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Les transferts vers l'étranger font l'objet d'une autorisation de la Banque d'Algérie établie sur la base d'une demande déposée par l'intermédiaire de la banque domiciliataire du compte en devises. Cette demande doit être appuyée d'un état récapitulatif des factures de ventes en devises concernées, dûment certifié conforme par le concessionnaire ou grossiste.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "IV",
+          "heading": "Pour tout demandeur, personne physique ou morale :",
+          "label": "Section IV"
+        }
+      },
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Les activités de production ou de prestations exercées par les concessionnaires ou grossistes complémentairement à leur activité de revente en l'état, sont régies par la Loi n°90-10 relative à la Monnaie et au Crédit et aux textes subséquents.\nLe Gouverneur\nAbderrahmane Roustoumi HADJ NACER",
+      "paragraphs": [
+        {
+          "text": "Les activités de production ou de prestations exercées par les concessionnaires ou grossistes complémentairement à leur activité de revente en l'état, sont régies par la Loi n°90-10 relative à la Monnaie et au Crédit et aux textes subséquents.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Abderrahmane Roustoumi HADJ NACER",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.039
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-90-04.fr.txt"
+}

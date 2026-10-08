@@ -1,0 +1,433 @@
+{
+  "document_id": "INS-26-95.fr",
+  "work_id": "INS-26-95",
+  "title": "Instruction n°26-95 du 19 avril 1995 modifiant l’instruction n°09-91 du 22 décembre 1991 fixant les conditions d’attribution de moyens de paiements aux groupements sportifs nationaux.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "26-95",
+  "number_source": "en-tête du document",
+  "date": "1995-04-19",
+  "date_raw": "N°26-95 DU 19 AVRIL 1995",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2025/12/instruction2695.pdf",
+      "uploaded": "2025-12-11T09:29:10"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Année 1995",
+  "source_url": "https://www.bank-of-algeria.dz/annee-1995/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction2695.pdf",
+  "format": "pdf",
+  "file_hash": "bd2294eae685134277f650f8b341caad913ebca37d6476a0ea2fb7e14e548abe",
+  "file_size": 38284,
+  "raw_path": "raw/bd2294eae685__instruction2695.pdf",
+  "retrieved_at": "2026-10-05T14:17:33+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "24c207f84f1b2232b4260e6ad7383c19b5a08ce7fc36568de44ce25a503896d1",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-1995/",
+    "https://www.bank-of-algeria.dz/deplacements-des-groupements-sportifs-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document2",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200812111206+01'00'",
+    "modDate": "D:20200812111206+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2400,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 0,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°26-95 DU 19 AVRIL 1995 MODIFIANT L'INSTRUCTION N°09-91 DU 22 DECEMBRE 1991 FIXANT LES CONDITIONS D'ATTRIBUTION DE MOYENS DE PAIEMENTS AUX GROUPEMENTS SPORTIFS NATIONAUX La présente instruction a pour objet de faire connaître que les dispositions du titre III - Paragraphe III.1 de l'Instruction n° 09-91 du 22 décembre 1991, fixant les conditions d'attribution de moyens de paiements aux groupements sportifs nationaux, sont modifiées comme suit :",
+  "alias_urls": [
+    {
+      "document_url": "https://www.bank-of-algeria.dz/stoodroa/2025/12/instruction2695.pdf",
+      "source_url": "https://www.bank-of-algeria.dz/deplacements-des-groupements-sportifs-instruction/",
+      "title": "Instruction n°26-95 du 19 avril 1995 modifiant l’instruction n° 09-91 du 22 décembre 1991 fixant les conditions d’attribution de moyens de paiements aux groupements sportifs nationaux."
+    }
+  ],
+  "text_hash": "018d6a2ae81ca98b7d7d58a90313a79813cac2e077c11338c13843cf4b2c1eaf",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "09-91",
+        "date": "1991-12-22",
+        "raw": "instruction n°09-91 du 22 décembre 1991"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°26-95 du 19 avril 1995 modifiant l’instruction n°09-91 du 22 décembre 1991 fixant les conditions d’attribution de"
+      },
+      "target_work_id": "INS-09-91"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-09-91",
+      "reference": "instruction n°09-91 du 22 décembre 1991",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°26-95 du 19 avril 1995 modifiant l’instruction n°09-91 du 22 décembre 1991 fixant les conditions d’attribution de"
+      }
+    }
+  ],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°26-95 DU 19 AVRIL 1995 MODIFIANT\nL'INSTRUCTION N°09-91 DU 22 DECEMBRE 1991 FIXANT\nLES CONDITIONS D'ATTRIBUTION DE MOYENS DE PAIEMENTS\nAUX GROUPEMENTS SPORTIFS NATIONAUX\nLa présente instruction a pour objet de faire connaître que les dispositions du titre III -\nParagraphe III.1 de l'Instruction n° 09-91 du 22 décembre 1991, fixant les conditions d'attribution de moyens de paiements aux groupements sportifs nationaux, sont modifiées comme suit :",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°26-95 DU 19 AVRIL 1995 MODIFIANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L'INSTRUCTION N°09-91 DU 22 DECEMBRE 1991 FIXANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "LES CONDITIONS D'ATTRIBUTION DE MOYENS DE PAIEMENTS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AUX GROUPEMENTS SPORTIFS NATIONAUX",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La présente instruction a pour objet de faire connaître que les dispositions du titre III -",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Paragraphe III.1 de l'Instruction n° 09-91 du 22 décembre 1991, fixant les conditions d'attribution de moyens de paiements aux groupements sportifs nationaux, sont modifiées comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "III",
+          "heading": "Dispositions relatives aux déplacements à l'Etranger des Groupements",
+          "label": "Section III"
+        }
+      },
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Sportifs Nationaux\nIII.1 : Barèmes des Indemnités Journalières\na)- Dans le cadre des déplacements à l'étranger des groupements sportifs nationaux, les athlètes et leur encadrement bénéficient des indemnités journalières déterminées selon le cas, conformément aux barèmes ci-après :\na.1 : barème des indemnités journalières applicables aux groupements sportifs (Equipes\nNationales) à l'occasion de leurs déplacements à l'Etranger (voir tableau n°1).\na.2 : Barème des indemnités journalières applicables aux associations sportives de niveau national (ex ASP) à l'occasion de leurs déplacements à l'étranger (voir tableau n°2).\nb) A compter du 10ème jour délai de route compris, les indemnités journalières à allouer sont calculées sur la base de 50 % du taux correspondant pour chaque catégorie et prévues selon le cas par les barèmes ci-dessus.\nLa présente instruction qui est applicable à compter de la date de sa signature, abroge toutes autres dispositions contraires à celles édictées ci-dessus.\nTABLEAU N°1\nTABLEAU N°2\nN°\nCATEGORIE\nNATURE DES DEPLACEMENTS\nCompét.\nofficielle\nStages et compét.\nDe préparation 01 02 03 04 05 06\nChef de délégation\nAdjoint\nEntraîneur\nMédecin\nKinésithérapeute\nEncadrement administratif, Athlètes 3.900 DA 2.790 DA 2.790 DA 2.100 DA 2.100 DA 2.790 DA 0 0 0 0 0 0\nLe Gouverneur\nAbdelouahab KERAMANE\nN°\nCATEGORIE\nNATURE DES DEPLACEMENTS\nCompét.\nofficielle\nStages et compét.\nDe préparation 01 02 03 04 05 06 07 08\nChef de délégation\nAdjoint\nEntraîneur\nMédecin\nKinésithérapeute\nEncadrement administratif\nAthlètes E.N. A. Seniors\nAthlètes E.N. Univers., scol., juniors, cadets et minimes 3.900 DA 3.350 DA 3.350 DA 3.350 DA 2.790 DA 2.790 DA 3.350 DA 2.790 DA 1.950 DA 1.680 DA 1.680 DA 1.680 DA 1.400 DA 1.400 DA 1.680 DA 1.400 DA",
+      "paragraphs": [
+        {
+          "text": "Sportifs Nationaux",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "III.1 : Barèmes des Indemnités Journalières",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "a)- Dans le cadre des déplacements à l'étranger des groupements sportifs nationaux, les athlètes et leur encadrement bénéficient des indemnités journalières déterminées selon le cas, conformément aux barèmes ci-après :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "a.1 : barème des indemnités journalières applicables aux groupements sportifs (Equipes",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Nationales) à l'occasion de leurs déplacements à l'Etranger (voir tableau n°1).",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "a.2 : Barème des indemnités journalières applicables aux associations sportives de niveau national (ex ASP) à l'occasion de leurs déplacements à l'étranger (voir tableau n°2).",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "b) A compter du 10ème jour délai de route compris, les indemnités journalières à allouer sont calculées sur la base de 50 % du taux correspondant pour chaque catégorie et prévues selon le cas par les barèmes ci-dessus.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La présente instruction qui est applicable à compter de la date de sa signature, abroge toutes autres dispositions contraires à celles édictées ci-dessus.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "TABLEAU N°1",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "TABLEAU N°2",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "N°",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "CATEGORIE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "NATURE DES DEPLACEMENTS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Compét.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "officielle",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Stages et compét.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "De préparation 01 02 03 04 05 06",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Chef de délégation",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Adjoint",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Entraîneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Médecin",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Kinésithérapeute",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Encadrement administratif, Athlètes 3.900 DA 2.790 DA 2.790 DA 2.100 DA 2.100 DA 2.790 DA 0 0 0 0 0 0",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "N°",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "CATEGORIE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "NATURE DES DEPLACEMENTS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Compét.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "officielle",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Stages et compét.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "De préparation 01 02 03 04 05 06 07 08",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Chef de délégation",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Adjoint",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Entraîneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Médecin",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Kinésithérapeute",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Encadrement administratif",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Athlètes E.N. A. Seniors",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Athlètes E.N. Univers., scol., juniors, cadets et minimes 3.900 DA 3.350 DA 3.350 DA 3.350 DA 2.790 DA 2.790 DA 3.350 DA 2.790 DA 1.950 DA 1.680 DA 1.680 DA 1.680 DA 1.400 DA 1.400 DA 1.680 DA 1.400 DA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [
+    {
+      "page": 1,
+      "tables": [
+        "|N°|CATEGORIE|NATURE DES DEPLACEMENTS|Col4|\n|---|---|---|---|\n|||**Compét.**<br>**officielle**|**Stages et compét.**<br>**Depréparation**|\n|01<br>02<br>03<br>04<br>05<br>06<br>07<br>08|Chef de délégation<br>Adjoint<br>Entraîneur<br>Médecin<br>Kinésithérapeute<br>Encadrement administratif<br>Athlètes E.N. A. Seniors<br>Athlètes E.N. Univers., scol., juniors, cadets et minimes|3.900 DA<br>3.350 DA<br>3.350 DA<br>3.350 DA<br>2.790 DA<br>2.790 DA<br>3.350 DA<br>2.790 DA|1.950 DA<br>1.680 DA<br>1.680 DA<br>1.680 DA<br>1.400 DA<br>1.400 DA<br>1.680 DA<br>1.400 DA|\n\n",
+        "|N°|CATEGORIE|NATURE DES DEPLACEMENTS|Col4|\n|---|---|---|---|\n|||**Compét.**<br>**officielle**|**Stages et compét.**<br>**Depréparation**|\n|01<br>02<br>03<br>04<br>05<br>06|Chef de délégation<br>Adjoint<br>Entraîneur<br>Médecin<br>Kinésithérapeute<br>Encadrement administratif, Athlètes|3.900 DA<br>2.790 DA<br>2.790 DA<br>2.100 DA<br>2.100 DA<br>2.790 DA|0 <br>0 <br>0 <br>0 <br>0 <br>0|\n\n"
+      ]
+    }
+  ],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.049
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-26-95.fr.txt"
+}

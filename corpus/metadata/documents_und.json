@@ -1,0 +1,200 @@
+[
+  {
+    "document_id": "INS-03-21.und",
+    "work_id": "INS-03-21",
+    "title": "تعليمة رقم 03-2021 المؤرخة في 15 فيفري 2021، المعدلة والمتممة للتعليمة رقم 01-2020 المؤرخة في 16 فيفري 2020، المتضمنة تقييس السفتجة والسند لأمر.",
+    "document_type": "instruction",
+    "type_code": "INS",
+    "type_source": "label",
+    "number": "03-2021",
+    "number_source": "libelle",
+    "date": "2021-02-15",
+    "date_raw": "المؤرخة في 15 فيفري 2021",
+    "date_source": "libelle",
+    "publication_date": "2023-03-02",
+    "publication_date_source": "wp_media_upload_date",
+    "media_library_alternates": [],
+    "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+    "issuer": "Banque d'Algérie",
+    "issuer_note": null,
+    "published_on": "Banque d'Algérie (site officiel)",
+    "language": "mixed",
+    "category": "instructions",
+    "subcategory": "تسويق و توحيد المنتجات و الخدمات البنكية",
+    "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d8%aa%d9%88%d8%ad%d9%8a%d8%af-%d8%a7%d9%84%d9%82%d9%8a%d8%a7%d8%b3%d9%8a/",
+    "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/03/03-21.pdf",
+    "format": "pdf",
+    "file_hash": "d387c1a01df8eda179b087e8c796778e93b867ca3c17be4883d73b62ad1040b1",
+    "file_size": 884165,
+    "raw_path": "raw/d387c1a01df8__03-21.pdf",
+    "retrieved_at": "2026-10-05T13:29:28+00:00",
+    "scope_reason": "page_juridique",
+    "extraction_method": "ocr",
+    "ocr_required": true,
+    "page_count": 6,
+    "url_hash": "6e9d99b8f4e6b15c839ba66c6dc5ff2922d2ecd1ba187ecc6abebf05bfc343bd",
+    "all_source_urls": [
+      "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d8%aa%d9%88%d8%ad%d9%8a%d8%af-%d8%a7%d9%84%d9%82%d9%8a%d8%a7%d8%b3%d9%8a/"
+    ],
+    "hijri_date_raw": null,
+    "structure_info": {
+      "structure_detected": true,
+      "article_count": 2,
+      "annex_count": 2
+    },
+    "quality_flags": [
+      "ocr_utilise_verification_humaine",
+      "ocr_faible_confiance"
+    ],
+    "title_document": "تعليمة رقم 03 -2021 المؤرخة في 15 فيفري 2021 المعدلة و المتمّمة للتعليمة رقم 2020-01 المؤرخة في 16 فيفري 2020 المتضمنة تقبيس السفتجة و السند JAN‏ المادة الأولى: تلغعي وتعوّض هذه التعليمة»: الملحقات المذكورة coliai‏ للتعليمة 2020-01 المؤرخة في 16 فيفري 2020 التي تتعلق بتقييس السفتجة والسند لأمر. 2.ب- وصف مناطق السفتجة الموحّدة. 2ج الجزء المطبوع للسند لأمر موحّد. 2 وصف السند لأمر الموحّد.",
+    "alias_urls": [],
+    "text_hash": "4078ca4b25fd751fbc1a5f3b23482aac2e3de450ed3e84f1edc84d9d6e0b8df9",
+    "relations_out": [
+      {
+        "relation": "modifie",
+        "target_ref": {
+          "type_code": "INS",
+          "number": "01-2020",
+          "date": "2020-02-16",
+          "raw": "Instruction n°01-2020 du 16 février 2020"
+        },
+        "partial": false,
+        "evidence": {
+          "source": "title",
+          "page": null,
+          "quote": "Instruction n°03-2021 du 15 février 2021, modifiant et complétant l’Instruction n°01-2020 du 16 février 2020 portant normalisation de la Lettre de C",
+          "copied_from": "INS-03-21.fr"
+        },
+        "target_work_id": "INS-01-20"
+      },
+      {
+        "relation": "complete",
+        "target_ref": {
+          "type_code": "INS",
+          "number": "01-2020",
+          "date": "2020-02-16",
+          "raw": "Instruction n°01-2020 du 16 février 2020"
+        },
+        "partial": false,
+        "evidence": {
+          "source": "title",
+          "page": null,
+          "quote": "Instruction n°03-2021 du 15 février 2021, modifiant et complétant l’Instruction n°01-2020 du 16 février 2020 portant normalisation de la Lettre de C",
+          "copied_from": "INS-03-21.fr"
+        },
+        "target_work_id": "INS-01-20"
+      },
+      {
+        "relation": "remplace",
+        "target_ref": {
+          "type_code": "INS",
+          "number": "01-2020",
+          "date": "2020-02-16",
+          "raw": "instruction n°01-2020 du 16 février 2020"
+        },
+        "partial": false,
+        "evidence": {
+          "source": "text",
+          "page": 1,
+          "quote": "La présente instruction annule et remplace les annexes ci-après, de l’instruction n°01-2020 du 16 février 2020 portant normalisation de la lettre de c",
+          "copied_from": "INS-03-21.fr"
+        },
+        "target_work_id": "INS-01-20"
+      }
+    ],
+    "unresolved_references": [],
+    "abroge": [],
+    "modifie": [
+      {
+        "work_id": "INS-01-20",
+        "reference": "Instruction n°01-2020 du 16 février 2020",
+        "partial": false,
+        "evidence": {
+          "source": "title",
+          "page": null,
+          "quote": "Instruction n°03-2021 du 15 février 2021, modifiant et complétant l’Instruction n°01-2020 du 16 février 2020 portant normalisation de la Lettre de C",
+          "copied_from": "INS-03-21.fr"
+        }
+      }
+    ],
+    "complete": [
+      {
+        "work_id": "INS-01-20",
+        "reference": "Instruction n°01-2020 du 16 février 2020",
+        "partial": false,
+        "evidence": {
+          "source": "title",
+          "page": null,
+          "quote": "Instruction n°03-2021 du 15 février 2021, modifiant et complétant l’Instruction n°01-2020 du 16 février 2020 portant normalisation de la Lettre de C",
+          "copied_from": "INS-03-21.fr"
+        }
+      }
+    ],
+    "remplace": [
+      {
+        "work_id": "INS-01-20",
+        "reference": "instruction n°01-2020 du 16 février 2020",
+        "partial": false,
+        "evidence": {
+          "source": "text",
+          "page": 1,
+          "quote": "La présente instruction annule et remplace les annexes ci-après, de l’instruction n°01-2020 du 16 février 2020 portant normalisation de la lettre de c",
+          "copied_from": "INS-03-21.fr"
+        }
+      }
+    ],
+    "abroge_par": [],
+    "modifie_par": [],
+    "complete_par": [],
+    "remplace_par": [],
+    "status": "STATUT À VÉRIFIER",
+    "status_evidence": [],
+    "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+    "same_work_documents": [
+      "INS-03-21.fr"
+    ],
+    "complété_par": [],
+    "modifié_par": [],
+    "abrogé_par": [],
+    "remplacé_par": [],
+    "complète": [
+      {
+        "work_id": "INS-01-20",
+        "reference": "Instruction n°01-2020 du 16 février 2020",
+        "partial": false,
+        "evidence": {
+          "source": "title",
+          "page": null,
+          "quote": "Instruction n°03-2021 du 15 février 2021, modifiant et complétant l’Instruction n°01-2020 du 16 février 2020 portant normalisation de la Lettre de C",
+          "copied_from": "INS-03-21.fr"
+        }
+      }
+    ],
+    "needs_manual_review": true,
+    "quality": {
+      "flags": [
+        "ocr_utilise_verification_humaine",
+        "ocr_faible_confiance"
+      ],
+      "severity": "review",
+      "details": {
+        "non_alnum_ratio": 0.091,
+        "ocr_pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "ocr_mean_confidence": 63.0
+      }
+    },
+    "pipeline_version": "1.1",
+    "extracted_text_path": "extracted/und/INS-03-21.und.txt",
+    "extraction": {
+      "method": "ocr",
+      "errors": []
+    }
+  }
+]

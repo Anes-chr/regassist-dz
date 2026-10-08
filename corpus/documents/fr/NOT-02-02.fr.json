@@ -1,0 +1,243 @@
+{
+  "document_id": "NOT-02-02.fr",
+  "work_id": "NOT-02-02",
+  "title": "Note n°02-2002 du 14 février 2002 relative à l’expédition des marchandises à destination directe et exclusive du territoire douanier algérien.",
+  "document_type": "note",
+  "type_code": "NOT",
+  "type_source": "label",
+  "number": "02-2002",
+  "number_source": "en-tête du document",
+  "date": "2002-02-14",
+  "date_raw": "N°02-2002 DU 14 FEVRIER 2002",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-05",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "notes_aux_banques",
+  "subcategory": "Année 2002",
+  "source_url": "https://www.bank-of-algeria.dz/les-notes-aux-banques-2002/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/05/note022002.pdf",
+  "format": "pdf",
+  "file_hash": "63fd9a4b87ebfb9e7d5b168c08fd6f6fd1e9392be3cfce477cf2d701c13ca2c9",
+  "file_size": 51964,
+  "raw_path": "raw/63fd9a4b87eb__note022002.pdf",
+  "retrieved_at": "2026-10-05T13:23:47+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "4d49608fa81c7d8d5a85732a3c42ae2d56375cc287dff33e096be5f9a6e88f57",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/les-notes-aux-banques-2002/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document1",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210228112030+01'00'",
+    "modDate": "D:20210228112030+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2616,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": false,
+    "article_count": 0,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "NOTE N°02-2002 DU 14 FEVRIER 2002 AUX BANQUES ET ETABLISSEMENTS FINANCIERS, INTERMEDIAIRES AGREES La présente note a pour objet de rappeler aux banques et établissements financiers intermédiaires agréés, que la réglementation des changes et du commerce extérieur dispose que l'importateur peut, après justification de l'expédition des marchandises à destination directe et exclusive du territoire douanier algérien, faire procéder aux opérations de transfert de fonds en faveur de son créancier.",
+  "alias_urls": [],
+  "text_hash": "6b580cead62689530953dcf959a8bdb62d83e24c46e71dbd64fadb233998f9d7",
+  "relations_out": [
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "NOT",
+        "number": "29-2001",
+        "date": "2001-12-02",
+        "raw": "note n°29-2001 du 02 décembre 2001"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "s de la réglementation des changes et du commerce extérieur. Les dispositions de la présente note abrogent celles de la note n°29-2001 du 02 décembre 2001 aux banques et établissements financier"
+      },
+      "target_work_id": null
+    }
+  ],
+  "unresolved_references": [
+    {
+      "type_code": "NOT",
+      "number": "29-2001",
+      "date": "2001-12-02",
+      "raw": "note n°29-2001 du 02 décembre 2001",
+      "relation": "abroge"
+    }
+  ],
+  "abroge": [
+    {
+      "work_id": null,
+      "reference": "note n°29-2001 du 02 décembre 2001",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "s de la réglementation des changes et du commerce extérieur. Les dispositions de la présente note abrogent celles de la note n°29-2001 du 02 décembre 2001 aux banques et établissements financier"
+      }
+    }
+  ],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "NOTE N°02-2002 DU 14 FEVRIER 2002 AUX BANQUES\nET ETABLISSEMENTS FINANCIERS, INTERMEDIAIRES AGREES\nLa présente note a pour objet de rappeler aux banques et établissements financiers intermédiaires agréés, que la réglementation des changes et du commerce extérieur dispose que l'importateur peut, après justification de l'expédition des marchandises à destination directe et exclusive du territoire douanier algérien, faire procéder aux opérations de transfert de fonds en faveur de son créancier.\nLa justification de l'expédition résulte de la présentation des derniers titres de transport créés à destination directe et exclusive du territoire douanier algérien.\nSelon les modes de transport retenus par les parties contractuelles, le titre de transport ne peut être que le connaissement maritime « reçu à bord » (shipped on board), le duplicata de lettre de voiture (DLV) ou la lettre de transport aérien (LTA).\nL'exécution des opérations de transfert de fonds ne peut s'effectuer que sur la base d'un dossier de domiciliation préalablement ouvert par l'importateur auprès de l'intermédiaire agréé au titre de chaque importation.\nLe règlement à vue dans le cadre des remises documentaires est subordonné à l'existence dans le dossier de domiciliation d'une copie du titre de transport des marchandises et le règlement dans le cadre d'un crédit documentaire s'effectue selon la technique qui lui est spécifique.\nL'apurement du dossier de domiciliation par la banque domiciliataire de l'opération, s'effectue par la réunion des documents contractuels, financiers (ordre de paiement du client et formule statistique annotée) et du document douanier - exemplaire client (copie)\net banque.\nLes opérations d'importations réalisées sous forme de remises documentaires doivent obligatoirement transiter par le canal du circuit bancaire international et ce dans le respect des règles uniformes relatives aux encaissements publiées par la Chambre de\nCommerce Internationale (C.C.I.).\nLes banques et établissements financiers intermédiaires agréés, ont donc l'obligation de limiter la réception et le traitement des documents qu'aux remises documentaires émanant de correspondants bancaires dont les instructions sont authentifiées, de faire preuve de vigilance et de veiller au respect des dispositions de la réglementation des changes et du commerce extérieur.\nLes dispositions de la présente note abrogent celles de la note n°29-2001 du 02 décembre 2001 aux banques et établissements financiers agrées.\nLe Vice-Gouverneur\nAli TOUATI\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "NOTE N°02-2002 DU 14 FEVRIER 2002 AUX BANQUES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET ETABLISSEMENTS FINANCIERS, INTERMEDIAIRES AGREES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La présente note a pour objet de rappeler aux banques et établissements financiers intermédiaires agréés, que la réglementation des changes et du commerce extérieur dispose que l'importateur peut, après justification de l'expédition des marchandises à destination directe et exclusive du territoire douanier algérien, faire procéder aux opérations de transfert de fonds en faveur de son créancier.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La justification de l'expédition résulte de la présentation des derniers titres de transport créés à destination directe et exclusive du territoire douanier algérien.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Selon les modes de transport retenus par les parties contractuelles, le titre de transport ne peut être que le connaissement maritime « reçu à bord » (shipped on board), le duplicata de lettre de voiture (DLV) ou la lettre de transport aérien (LTA).",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L'exécution des opérations de transfert de fonds ne peut s'effectuer que sur la base d'un dossier de domiciliation préalablement ouvert par l'importateur auprès de l'intermédiaire agréé au titre de chaque importation.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le règlement à vue dans le cadre des remises documentaires est subordonné à l'existence dans le dossier de domiciliation d'une copie du titre de transport des marchandises et le règlement dans le cadre d'un crédit documentaire s'effectue selon la technique qui lui est spécifique.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L'apurement du dossier de domiciliation par la banque domiciliataire de l'opération, s'effectue par la réunion des documents contractuels, financiers (ordre de paiement du client et formule statistique annotée) et du document douanier - exemplaire client (copie)",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "et banque.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les opérations d'importations réalisées sous forme de remises documentaires doivent obligatoirement transiter par le canal du circuit bancaire international et ce dans le respect des règles uniformes relatives aux encaissements publiées par la Chambre de",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Commerce Internationale (C.C.I.).",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les banques et établissements financiers intermédiaires agréés, ont donc l'obligation de limiter la réception et le traitement des documents qu'aux remises documentaires émanant de correspondants bancaires dont les instructions sont authentifiées, de faire preuve de vigilance et de veiller au respect des dispositions de la réglementation des changes et du commerce extérieur.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les dispositions de la présente note abrogent celles de la note n°29-2001 du 02 décembre 2001 aux banques et établissements financiers agrées.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Vice-Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Ali TOUATI",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.028
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/NOT-02-02.fr.txt"
+}

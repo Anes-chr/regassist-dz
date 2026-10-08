@@ -1,0 +1,477 @@
+{
+  "document_id": "REG-02-05.ar",
+  "work_id": "REG-02-05",
+  "title": "نظام رقم 02-05 المؤرخ في 31 ديسمبر 2002، يعدل ويتمم النظام رقم 97-02 المؤرخ 6 أبريل 1997 المتعلق بشروط إقامة شبكة البنوك والمؤسسات المالية.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "02-05",
+  "number_source": "libelle",
+  "date": "2002-12-31",
+  "date_raw": "المؤرخ في 31 ديسمبر 2002",
+  "date_source": "libelle",
+  "publication_date": "2023-02-28",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "règlements",
+  "subcategory": "شروط تأسيس و إنشاء البنوك و المؤسسات المالية و الحد الادنى لرأس المال",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%b4%d8%b1%d9%88%d8%b7-%d8%aa%d8%a3%d8%b3%d9%8a%d8%b3-%d9%88-%d8%a5%d9%86%d8%b4%d8%a7%d8%a1-%d8%a7%d9%84%d8%a8%d9%86%d9%88%d9%83-%d9%88-%d8%a7%d9%84%d9%85%d8%a4%d8%b3%d8%b3%d8%a7%d8%aa-%d8%a7%d9%84/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/02/05-02.pdf",
+  "format": "pdf",
+  "file_hash": "7195f0b1c9059ba2fdfe91b9a4689936662b07d8198c82b203843b7b79f0b496",
+  "file_size": 445781,
+  "raw_path": "raw/7195f0b1c905__05-02.pdf",
+  "retrieved_at": "2026-10-05T13:28:29+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 1,
+  "url_hash": "607f7f960ce0e73b0ac6dd15c5995c83c59e685c3d1a634d2d4e4d2f4897e2b5",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%b4%d8%b1%d9%88%d8%b7-%d8%aa%d8%a3%d8%b3%d9%8a%d8%b3-%d9%88-%d8%a5%d9%86%d8%b4%d8%a7%d8%a1-%d8%a7%d9%84%d8%a8%d9%86%d9%88%d9%83-%d9%88-%d8%a7%d9%84%d9%85%d8%a4%d8%b3%d8%b3%d8%a7%d8%aa-%d8%a7%d9%84/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "author": "lynda benhaha",
+    "creator": "Microsoft® Word 2016",
+    "producer": "Microsoft® Word 2016",
+    "creationDate": "D:20230227143859+01'00'",
+    "modDate": "D:20230227143859+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 1998,
+        "ocr_confidence": 78.06631299734748
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 5,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine",
+    "numerotation:articles_manquants:[2]"
+  ],
+  "title_document": "نظام رقم 02 - 05 مؤرخ في 27 شوال عام 1423 الموافق 31 ديسمبر سنة 42002 يعدّل ويتسّم النظام رقم 02-7المؤرّخ في 28 ذي القعدة عم 1417 الموافق 6 أبريل سنة 1997 والمتعلق بشروط إقامة شبكة البتوك والمؤسسات المالية. - بمقتضى القاثون رقم 0 90 0 المواد 43 مكرر, 44 و47 منه. -وبمقتضى النظام رقم 02-97 الموّرخ فى 28",
+  "alias_urls": [],
+  "text_hash": "075320d81252b20fb630c14b99427571cb5655ff1b2512ff449d3d641d86bdcc",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "97-02",
+        "date": "1997-04-06",
+        "raw": "règlement n°97-02 du 06 avril 1997"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2002-05 du 31 décembre 2002 modifiant et complétant le règlement n°97-02 du 06 avril 1997 relatif aux conditions d’implantation d",
+        "copied_from": "REG-02-05.fr"
+      },
+      "target_work_id": "REG-97-02"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "97-02",
+        "date": "1997-04-06",
+        "raw": "règlement n°97-02 du 06 avril 1997"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2002-05 du 31 décembre 2002 modifiant et complétant le règlement n°97-02 du 06 avril 1997 relatif aux conditions d’implantation d",
+        "copied_from": "REG-02-05.fr"
+      },
+      "target_work_id": "REG-97-02"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "97-02",
+        "date": "1997-04-06",
+        "raw": "Règlement n° 97-02 du 06 Avril 1997"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le Règlement n° 97-02 du 06 Avril 1997 relatif aux conditions d'implantation d",
+        "copied_from": "REG-02-05.fr"
+      },
+      "target_work_id": "REG-97-02"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "97-02",
+        "date": "1997-04-06",
+        "raw": "Règlement n° 97-02 du 06 Avril 1997"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le Règlement n° 97-02 du 06 Avril 1997 relatif aux conditions d'implantation d",
+        "copied_from": "REG-02-05.fr"
+      },
+      "target_work_id": "REG-97-02"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "REG-97-02",
+      "reference": "règlement n°97-02 du 06 avril 1997",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2002-05 du 31 décembre 2002 modifiant et complétant le règlement n°97-02 du 06 avril 1997 relatif aux conditions d’implantation d",
+        "copied_from": "REG-02-05.fr"
+      }
+    },
+    {
+      "work_id": "REG-97-02",
+      "reference": "Règlement n° 97-02 du 06 Avril 1997",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le Règlement n° 97-02 du 06 Avril 1997 relatif aux conditions d'implantation d",
+        "copied_from": "REG-02-05.fr"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "REG-97-02",
+      "reference": "règlement n°97-02 du 06 avril 1997",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2002-05 du 31 décembre 2002 modifiant et complétant le règlement n°97-02 du 06 avril 1997 relatif aux conditions d’implantation d",
+        "copied_from": "REG-02-05.fr"
+      }
+    },
+    {
+      "work_id": "REG-97-02",
+      "reference": "Règlement n° 97-02 du 06 Avril 1997",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le Règlement n° 97-02 du 06 Avril 1997 relatif aux conditions d'implantation d",
+        "copied_from": "REG-02-05.fr"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-02-05.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "REG-97-02",
+      "reference": "règlement n°97-02 du 06 avril 1997",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2002-05 du 31 décembre 2002 modifiant et complétant le règlement n°97-02 du 06 avril 1997 relatif aux conditions d’implantation d",
+        "copied_from": "REG-02-05.fr"
+      }
+    },
+    {
+      "work_id": "REG-97-02",
+      "reference": "Règlement n° 97-02 du 06 Avril 1997",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le Règlement n° 97-02 du 06 Avril 1997 relatif aux conditions d'implantation d",
+        "copied_from": "REG-02-05.fr"
+      }
+    }
+  ],
+  "ocr_numeric_check": {
+    "units": 6,
+    "units_flagged": 0,
+    "units_compared_with_french": 5,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "نظام رقم 02 - 05 مؤرخ في 27 شوال عام 1423 الموافق 31 ديسمبر سنة 42002 يعدّل ويتسّم النظام رقم 02-7المؤرّخ في 28 ذي القعدة عم 1417 الموافق 6 أبريل سنة 1997 والمتعلق بشروط إقامة شبكة البتوك والمؤسسات المالية.\n- بمقتضى القاثون رقم 0 90 0 المواد 43 مكرر, 44 و47 منه.\n-وبمقتضى النظام رقم 02-97 الموّرخ فى 28 في اعد هام :147 التجوافق 6 ai Jay‏ 1997 والمتعلّق بشروط إقامة شبكة البنوك والمؤسّسات allait‏\n— وبناء على مداولات مجلس النقد والقرضص",
+      "paragraphs": [
+        {
+          "text": "نظام رقم 02 - 05 مؤرخ في 27 شوال عام 1423 الموافق 31 ديسمبر سنة 42002 يعدّل ويتسّم النظام رقم 02-7المؤرّخ في 28 ذي القعدة عم 1417 الموافق 6 أبريل سنة 1997 والمتعلق بشروط إقامة شبكة البتوك والمؤسسات المالية.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- بمقتضى القاثون رقم 0 90 0 المواد 43 مكرر, 44 و47 منه.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-وبمقتضى النظام رقم 02-97 الموّرخ فى 28 في اعد هام :147 التجوافق 6 ai Jay‏ 1997 والمتعلّق بشروط إقامة شبكة البنوك والمؤسّسات allait‏",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "— وبناء على مداولات مجلس النقد والقرضص",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يعدّل هذا النظام ويتمّم النظام رقم 02-97المؤرخ في 28 ذي القعدة عام 1417 الموافق 6 أبريل سنة 1997 والمتعلّق بيشروط إقامة شبكة البنوك والمؤسسات الماليّة.\nالماوة 2: تعدل أحكام المانزة 2 من النظام رقم 02-97 المؤرخ في 28 ذي القعدة عام 1417الموافق - الخصوص: بناء على الإمكانيات المالية والتسييرية التي هي بحوزة صاحب ball‏ تحدد العناصر المكوتة للملق المذكور أعلاه: عن طريق تعليمة من بنك الجزائر يتعين على اليتوك.والموؤسسات المالية أن تصرح لبنك الجزائتر بكل مشروع تغييرء تحويل أو\n- وبمقتضى المرسوم الرئاسي ي المسؤرخ في 10 الجزائر.\n- وبمقتضي المرسوم الراسي El‏ 0!\n- ويمقتضى النظام رقم 92 - 05 المؤرخ في 17 رمضان عام 1412 الموافق 22 مارس سنة 1992\n- وبمقتضى النظام رقم 93 - 01 المؤرخ في 10 رجب عام 1413 الموافق 3 يناير سنة 1993 الذي يحدد شروط تأسيس بنك ومؤسسة مالية وشروط إقامة فرع",
+      "paragraphs": [
+        {
+          "text": "يعدّل هذا النظام ويتمّم النظام رقم 02-97المؤرخ في 28 ذي القعدة عام 1417 الموافق 6 أبريل سنة 1997 والمتعلّق بيشروط إقامة شبكة البنوك والمؤسسات الماليّة.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الماوة 2: تعدل أحكام المانزة 2 من النظام رقم 02-97 المؤرخ في 28 ذي القعدة عام 1417الموافق - الخصوص: بناء على الإمكانيات المالية والتسييرية التي هي بحوزة صاحب ball‏ تحدد العناصر المكوتة للملق المذكور أعلاه: عن طريق تعليمة من بنك الجزائر يتعين على اليتوك.والموؤسسات المالية أن تصرح لبنك الجزائتر بكل مشروع تغييرء تحويل أو",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى المرسوم الرئاسي ي المسؤرخ في 10 الجزائر.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضي المرسوم الراسي El‏ 0!",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- ويمقتضى النظام رقم 92 - 05 المؤرخ في 17 رمضان عام 1412 الموافق 22 مارس سنة 1992",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى النظام رقم 93 - 01 المؤرخ في 10 رجب عام 1413 الموافق 3 يناير سنة 1993 الذي يحدد شروط تأسيس بنك ومؤسسة مالية وشروط إقامة فرع",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تعذدل أحكام المادّة 3 من النظام رقم 02-97 المؤرخ في 28 ذي القعدة عام 1417 الموافق \"المادة 3 : يجبء اغعتيارا من تاريخ دور هذا النظام, أن Jus‏ لبنك الجزائر آي طلب ترخيص بفتح شياك بنك أو سوم De à‏ ..شهرين (2) على لاقل قم ل CE sm — UN‏ لبداية تنفيذ البرنامج",
+      "paragraphs": [
+        {
+          "text": "تعذدل أحكام المادّة 3 من النظام رقم 02-97 المؤرخ في 28 ذي القعدة عام 1417 الموافق \"المادة 3 : يجبء اغعتيارا من تاريخ دور هذا النظام, أن Jus‏ لبنك الجزائر آي طلب ترخيص بفتح شياك بنك أو سوم De à‏ ..شهرين (2) على لاقل قم ل CE sm — UN‏ لبداية تنفيذ البرنامج",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تعدل أحكام المادّة 7 من النظام رقم 2-7 المؤرخ في 8 ذي القعدة عام 1417 الموافق 6 أبريل سنة 1997 والمذكور أغلاه. وتحرر كما يأتي :\nRE‏ هداليم على PS‏ الباقي يفون",
+      "paragraphs": [
+        {
+          "text": "تعدل أحكام المادّة 7 من النظام رقم 2-7 المؤرخ في 8 ذي القعدة عام 1417 الموافق 6 أبريل سنة 1997 والمذكور أغلاه. وتحرر كما يأتي :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "RE‏ هداليم على PS‏ الباقي يفون",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تعدل أحكام المادرّة 12 من النظام رقم 02-97 المؤرخ في 28 ذي القعدة عام 1417 الموافق 6 أبريل سنة 1997 والمذكور أعلاه: وتحرر كما يآتي :\n\"المادة 2/ : يجب على بنك الجزائر أن يسهر على و8 آعلاه.\"”",
+      "paragraphs": [
+        {
+          "text": "تعدل أحكام المادرّة 12 من النظام رقم 02-97 المؤرخ في 28 ذي القعدة عام 1417 الموافق 6 أبريل سنة 1997 والمذكور أعلاه: وتحرر كما يآتي :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "\"المادة 2/ : يجب على بنك الجزائر أن يسهر على و8 آعلاه.\"”",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "ينشر هذا النظام في الجريدة الرسمية للجمهورية الجزائّريَة الديمقراطية الشعبية.\nحرر بالجزائر فى 27 شوال عام 1423 الموافق 31 محمد لكساسي",
+      "paragraphs": [
+        {
+          "text": "ينشر هذا النظام في الجريدة الرسمية للجمهورية الجزائّريَة الديمقراطية الشعبية.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "حرر بالجزائر فى 27 شوال عام 1423 الموافق 31 محمد لكساسي",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine",
+      "numerotation:articles_manquants:[2]"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.047,
+      "ocr_pages": [
+        1
+      ],
+      "ocr_mean_confidence": 78.1
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/REG-02-05.ar.txt"
+}

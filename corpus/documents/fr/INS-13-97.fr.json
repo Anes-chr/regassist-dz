@@ -1,0 +1,430 @@
+{
+  "document_id": "INS-13-97.fr",
+  "work_id": "INS-13-97",
+  "title": "Instruction n°13-97 du 10 décembre 1997 modifiant et complétant l’instruction n°08-96 du 18 décembre 1996 fixant les conditions de création et d’agrément des bureaux de change.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "13-97",
+  "number_source": "en-tête du document",
+  "date": "1997-12-10",
+  "date_raw": "N°13-97 DU 10 DECEMBRE 1997",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction1397.pdf",
+      "uploaded": "2023-01-24T14:48:07"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Année 1997",
+  "source_url": "https://www.bank-of-algeria.dz/annee-1997/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction1397.pdf",
+  "format": "pdf",
+  "file_hash": "4de62bddfc7c3ac298f63cb489fc260b46125204a895cda9708dfbee7c76686f",
+  "file_size": 31197,
+  "raw_path": "raw/4de62bddfc7c__instruction1397.pdf",
+  "retrieved_at": "2026-10-05T13:22:00+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "10a48814d2058b4e3832a39f141bff75335eaecf6b4952e3c7ad16e59642e3bb",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-1997/",
+    "https://www.bank-of-algeria.dz/importations-exportations-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document2",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200813151551+01'00'",
+    "modDate": "D:20200813151551+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 1722,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 4,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°13-97 DU 10 DECEMBRE 1997 MODIFIANT ET COMPLETANT L'INSTRUCTION N°08-96 DU 18 DECEMBRE 1996 FIXANT LES CONDITIONS DE CREATION ET D'AGREMENT DES BURAUX DE CHANGE",
+  "alias_urls": [
+    {
+      "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction1397.pdf",
+      "source_url": "https://www.bank-of-algeria.dz/importations-exportations-instruction/",
+      "title": "Instruction n°13-97 du 10 décembre 1997 modifiant et complétant l’instruction n°08-96 du 18 décembre 1996 fixant les conditions de création et d’agrément des bureaux de change."
+    }
+  ],
+  "text_hash": "1bdc7ac4029b9863a463601f728dba3f07f3639e2c274243358ca6a11140c574",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "08-96",
+        "date": "1996-12-18",
+        "raw": "instruction n°08-96 du 18 décembre 1996"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°13-97 du 10 décembre 1997 modifiant et complétant l’instruction n°08-96 du 18 décembre 1996 fixant les conditions de création et d’"
+      },
+      "target_work_id": "INS-08-96"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "08-96",
+        "date": "1996-12-18",
+        "raw": "instruction n°08-96 du 18 décembre 1996"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°13-97 du 10 décembre 1997 modifiant et complétant l’instruction n°08-96 du 18 décembre 1996 fixant les conditions de création et d’"
+      },
+      "target_work_id": "INS-08-96"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "08-96",
+        "date": "1996-12-18",
+        "raw": "instruction n°08-96 du 18 décembre 1996"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente Instruction a pour objet de modifier et de compléter l'instruction n°08-96 du 18 décembre 1996 fixant les conditions de création et d'"
+      },
+      "target_work_id": "INS-08-96"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "08-96",
+        "date": "1996-12-18",
+        "raw": "instruction n°08-96 du 18 décembre 1996"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente Instruction a pour objet de modifier et de compléter l'instruction n°08-96 du 18 décembre 1996 fixant les conditions de création et d'"
+      },
+      "target_work_id": "INS-08-96"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-08-96",
+      "reference": "instruction n°08-96 du 18 décembre 1996",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°13-97 du 10 décembre 1997 modifiant et complétant l’instruction n°08-96 du 18 décembre 1996 fixant les conditions de création et d’"
+      }
+    },
+    {
+      "work_id": "INS-08-96",
+      "reference": "instruction n°08-96 du 18 décembre 1996",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente Instruction a pour objet de modifier et de compléter l'instruction n°08-96 du 18 décembre 1996 fixant les conditions de création et d'"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "INS-08-96",
+      "reference": "instruction n°08-96 du 18 décembre 1996",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°13-97 du 10 décembre 1997 modifiant et complétant l’instruction n°08-96 du 18 décembre 1996 fixant les conditions de création et d’"
+      }
+    },
+    {
+      "work_id": "INS-08-96",
+      "reference": "instruction n°08-96 du 18 décembre 1996",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente Instruction a pour objet de modifier et de compléter l'instruction n°08-96 du 18 décembre 1996 fixant les conditions de création et d'"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "INS-08-96",
+      "reference": "instruction n°08-96 du 18 décembre 1996",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°13-97 du 10 décembre 1997 modifiant et complétant l’instruction n°08-96 du 18 décembre 1996 fixant les conditions de création et d’"
+      }
+    },
+    {
+      "work_id": "INS-08-96",
+      "reference": "instruction n°08-96 du 18 décembre 1996",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente Instruction a pour objet de modifier et de compléter l'instruction n°08-96 du 18 décembre 1996 fixant les conditions de création et d'"
+      }
+    }
+  ],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°13-97 DU 10 DECEMBRE 1997 MODIFIANT\nET COMPLETANT L'INSTRUCTION N°08-96 DU 18 DECEMBRE 1996 FIXANT\nLES CONDITIONS DE CREATION ET D'AGREMENT DES BURAUX DE CHANGE",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°13-97 DU 10 DECEMBRE 1997 MODIFIANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET COMPLETANT L'INSTRUCTION N°08-96 DU 18 DECEMBRE 1996 FIXANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "LES CONDITIONS DE CREATION ET D'AGREMENT DES BURAUX DE CHANGE",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente Instruction a pour objet de modifier et de compléter l'instruction n°08-96 du 18 décembre 1996 fixant les conditions de création et d'agrément de bureaux de change.",
+      "paragraphs": [
+        {
+          "text": "La présente Instruction a pour objet de modifier et de compléter l'instruction n°08-96 du 18 décembre 1996 fixant les conditions de création et d'agrément de bureaux de change.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L'article 6 de l'instruction n°08-96 du 18 décembre 1996 suscitée est modifié et complété ainsi qu'il suit :\n\"Article 6 : Outre les informations figurant sur la fiche annexée à la présente instruction, le demandeur et les personnes chargées du fonctionnement du Bureau de Change doivent remettre un dossier comprenant :\n- un extrait de l'acte de naissance délivré à partir du registre de l'état civil de la commune du lieu de naissance ;\n- une copie de l'extrait n°3 du casier judiciaire datée de moins de trois (03) mois ;\n- une attestation certifiant de l'expérience professionnelle de ou des personnes chargées du fonctionnement du Bureau de Change\".",
+      "paragraphs": [
+        {
+          "text": "L'article 6 de l'instruction n°08-96 du 18 décembre 1996 suscitée est modifié et complété ainsi qu'il suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "\"Article 6 : Outre les informations figurant sur la fiche annexée à la présente instruction, le demandeur et les personnes chargées du fonctionnement du Bureau de Change doivent remettre un dossier comprenant :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- un extrait de l'acte de naissance délivré à partir du registre de l'état civil de la commune du lieu de naissance ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- une copie de l'extrait n°3 du casier judiciaire datée de moins de trois (03) mois ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- une attestation certifiant de l'expérience professionnelle de ou des personnes chargées du fonctionnement du Bureau de Change\".",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L'instruction n°08-96 du 18 décembre 1996 suscitée est complétée par un article 6 bis ainsi rédigé :\n\"Article 6 bis : Les personnes physiques et morales candidates à la création et à l'agrément de Bureaux de Change, ne disposant pas de locaux appropriés au moment du dépôt de la demande d'agrément, peuvent solliciter un accord de principe auprès des services compétents de la Banque d'Algérie.\nL'Agrément du Bureau de Change sera délivré par la Banque d'Algérie dès que le local sera jugé conforme aux usages de la profession\".",
+      "paragraphs": [
+        {
+          "text": "L'instruction n°08-96 du 18 décembre 1996 suscitée est complétée par un article 6 bis ainsi rédigé :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "\"Article 6 bis : Les personnes physiques et morales candidates à la création et à l'agrément de Bureaux de Change, ne disposant pas de locaux appropriés au moment du dépôt de la demande d'agrément, peuvent solliciter un accord de principe auprès des services compétents de la Banque d'Algérie.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L'Agrément du Bureau de Change sera délivré par la Banque d'Algérie dès que le local sera jugé conforme aux usages de la profession\".",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction est applicable à compter de la date de sa signature.\nLe Gouverneur\nAbdelouahab KERAMANE",
+      "paragraphs": [
+        {
+          "text": "La présente instruction est applicable à compter de la date de sa signature.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.04
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-13-97.fr.txt"
+}

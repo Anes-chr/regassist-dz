@@ -1,0 +1,341 @@
+{
+  "document_id": "INS-27-91.fr",
+  "work_id": "INS-27-91",
+  "title": "Instruction n°27-91 du 1er octobre 1991 relative au comité des emprunts extérieurs.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "27-91",
+  "number_source": "en-tête du document",
+  "date": "1991-10-01",
+  "date_raw": "n°27-91 du 1er octobre 1991",
+  "date_source": "libelle",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction2791.pdf",
+      "uploaded": "2023-01-25T14:36:34"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Les Comités",
+  "source_url": "https://www.bank-of-algeria.dz/comite-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction2791.pdf",
+  "format": "pdf",
+  "file_hash": "7cc02be9628753eb545d307948fe5c146334fa871e0b7132c8e602722c6d43ae",
+  "file_size": 59185,
+  "raw_path": "raw/7cc02be96287__instruction2791.pdf",
+  "retrieved_at": "2026-10-05T14:17:33+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "e0b24aa90fcc87a1624bbe020484d8b68d18f95f7cf1dd056c5df5bf79911bf0",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/comite-instruction/",
+    "https://www.bank-of-algeria.dz/importations-exportations-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document2",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200803091750+01'00'",
+    "modDate": "D:20200803091750+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 3070,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 2775,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": false,
+    "article_count": 0,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°27-91 DU 1er OCTORE 1991 RELATIVE AU COMITE DES EMPRUNTS EXTERIEURS Préambule : Depuis la mise en application de l'Instruction n° 03-91 du 21 Avril 1991, l'interprétation de l'article 6 stipulant : \"Les importations d'un montant inférieur ou égal à US $ 2.000.000 (deux millions de dollars US) ne doivent pas faire l'objet d'une recherche de financement spécifique\" a conduit les entreprises publiques et privées à solliciter du sous-Comité des Emprunts Extérieurs, par l'intermédiaire de leurs banques domiciliataires des autorisations",
+  "alias_urls": [
+    {
+      "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction2791.pdf",
+      "source_url": "https://www.bank-of-algeria.dz/importations-exportations-instruction/",
+      "title": "Instruction n°27-91 du 1er octobre 1991 relative au comte des emprunts extérieurs."
+    }
+  ],
+  "text_hash": "14cc568423e6b100c7395b857d1f1e7e466dfd346f9a14113f51b5bc6583d2ea",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "91-03",
+        "date": "1991-04-21",
+        "raw": "instruction n° 91-03 du 21 Avril 1991"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "e les efforts raisonnables de mobilisation des crédits extérieurs appropriés n'ont pas pu aboutir. 16- L'article 6 de l'instruction n° 91-03 du 21 Avril 1991 fixant un plancher de 2 millions de dol"
+      },
+      "target_work_id": null
+    }
+  ],
+  "unresolved_references": [
+    {
+      "type_code": "INS",
+      "number": "91-03",
+      "date": "1991-04-21",
+      "raw": "instruction n° 91-03 du 21 Avril 1991",
+      "relation": "modifie"
+    }
+  ],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": null,
+      "reference": "instruction n° 91-03 du 21 Avril 1991",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "e les efforts raisonnables de mobilisation des crédits extérieurs appropriés n'ont pas pu aboutir. 16- L'article 6 de l'instruction n° 91-03 du 21 Avril 1991 fixant un plancher de 2 millions de dol"
+      }
+    }
+  ],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "INSTRUCTION N°27-91 DU 1er OCTORE 1991 RELATIVE\nAU COMITE DES EMPRUNTS EXTERIEURS\nPréambule : Depuis la mise en application de l'Instruction n° 03-91 du 21 Avril 1991, l'interprétation de l'article 6 stipulant :\n\"Les importations d'un montant inférieur ou égal à US $ 2.000.000 (deux millions de dollars US) ne doivent pas faire l'objet d'une recherche de financement spécifique\" a conduit les entreprises publiques et privées à solliciter du sous-Comité des Emprunts\nExtérieurs, par l'intermédiaire de leurs banques domiciliataires des autorisations dérogatoires pour le paiement cash de leurs contrats d'importation.\nCette attitude a généré d'une part un encombrement important du sous-comité et a dénaturé d'autre part ses missions et prérogatives en le sollicitant pour des arbitrages de priorité dans l'affectation des ressources en devises cash, ce qui n'est pas de son ressort.\nAussi, convient-il de rappeler la mission exclusive qui est confiée au sous-comité des emprunts extérieurs, composé des représentants de l'ensemble des banques commerciales et dont la coordination des travaux est confiée à la Banque d'Algérie qui préside les réunions et organise les travaux et leur suivi.\n1- Le sous-comité des Emprunts Extérieurs est composé d'un représentant dûment désigné par chacune des banques commerciales et de représentants de la Banque d'Algérie.\n2- La Banque d'Algérie assume la présidence des réunions et le secrétariat des travaux.\n3- Le sous-comité se réunit hebdomadairement au siège de la Banque d'Algérie. En cas d'urgence, le Président peut convoquer le Sous-Comité sous un délai de 48 heures.\n4- Le Sous-comité est chargé d'examiner les projets de prêt et de crédit ainsi que toute opération et ligne de financement proposée à un résident algérien, sous les aspects de durée du financement, du taux d'intérêt, des commissions et charges annexes.\n5- Les crédits gouvernementaux et les accords passés avec les organismes internationaux n'entrent pas dans le champ de compétence du Sous-Comité.\n6- Le sous-comité sanctionne chaque opération par un accord préalable, une demande de modification d'une ou plusieurs des conditions précitées, ou par un refus.\nLa décision du sous-comité est prise après exposé des avis et remarques des membres représentants des banques. La recherche du consensus dans la décision est de règle.\n7- En cas d'absence de consensus, la décision est prise à la majorité des membres présents.\n8- Au cas où une des conditions serait contraire à la politique d'endettement ou des changes ou prévoirait des formes légales d'engagement ou de nantissement incompatibles avec les règles raisonnables courantes par ailleurs pour le type d'opération concernée, le représentant de la Banque d'Algérie peut prononcer le blocage de la dite opération et son transfert au Comité de Stratégie Bancaire à titre d'arbitrage ou de recours.\n9- Le Sous-comité des emprunts extérieurs n'a pas de compétence pour juger de l'opportunité d'un contrat commercial d'importation, sauf si un tel contrat prévoit des\nconditions de financement ou de différé de paiement à titre onéreux. Dans un tel cas, l'examen du sous-comité portera sur les seuls aspects du financement ou du différé et des conditions financières de taux, de commissions ou de frais assimilés qui s'y rattachent.\n10- Le Sous-comité n'est pas habilité à décider des affectations de devises en cash pour la couverture partielle ou totale des importations.\n11- L'autorisation de paiements au comptant pour un contrat particulier et l'affectation consécutive de devises en cash pour une telle couverture relève exclusivement de la banque commerciale auprès de laquelle est domicilié le client importateur.\n12- Pour permettre la prise en charge par les banques des prérogatives citées au point 11 ci-dessus, la Banque d'Algérie allouera mensuellement, à chaque banque commerciale, une côte de ressources cash. Cette allocation interviendra le 1er de chaque mois, sur la base d'une demande prévisionnelle de chaque banque et au prorata des disponibilités en cash auprès de la Banque d'Algérie.\n13- A la fin de chaque période mensuelle, les banque commerciales remettront à la\nBanque d'Algérie, en même temps que leur demande prévisionnelle pour le mois suivant, un état des affectations de cash pour le mois en cours, par entreprise et par contrat (l'information indiquera seulement, pour chaque entreprise, le montant du contrat, le fournisseur, la nature des produits à importer et le montant affecté en cash).\n14- Le cash non attribué par une banque au cours d'un mois considéré sera reporté au mois suivant.\n15- Les Banques sont invitées à sélectionner les opérations éligibles au cash en fonction du degré d'utilité ou d'urgence de l'importation et surtout en fonction de la constatation que les efforts raisonnables de mobilisation des crédits extérieurs appropriés n'ont pas pu aboutir.\n16- L'article 6 de l'instruction n° 91-03 du 21 Avril 1991 fixant un plancher de 2 millions de dollars au-dessous duquel aucun financement spécifique ne doit être recherché par l'importateur, est modifié comme suit :\n\"Article 6 : les importations d'un montant inférieur à 500.000 US $ (cinq cent mille dollars US) ne doivent pas faire l'objet de la part de l'importateur d'une recherche de financement spécifique\".\n17- Pour tout contrat dont le montant est inférieur à ce plancher, la banque domiciliataire est seule compétente pour décider de la possibilité :\ni)- d'imputation sur une ligne de crédit disponible, ou ii)- d'appel à un crédit spécifique en relation ou non avec l'importateur, ou iii)- de paiement cash par ponction sur la côte allouée à la banque par la Banque d'Algérie.\nCette instruction prend effet à compter du 1er Octobre 1991.\nLe Gouverneur\nAbderrahmane Roustoumi HADJ NACER",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°27-91 DU 1er OCTORE 1991 RELATIVE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AU COMITE DES EMPRUNTS EXTERIEURS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Préambule : Depuis la mise en application de l'Instruction n° 03-91 du 21 Avril 1991, l'interprétation de l'article 6 stipulant :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "\"Les importations d'un montant inférieur ou égal à US $ 2.000.000 (deux millions de dollars US) ne doivent pas faire l'objet d'une recherche de financement spécifique\" a conduit les entreprises publiques et privées à solliciter du sous-Comité des Emprunts",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Extérieurs, par l'intermédiaire de leurs banques domiciliataires des autorisations dérogatoires pour le paiement cash de leurs contrats d'importation.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Cette attitude a généré d'une part un encombrement important du sous-comité et a dénaturé d'autre part ses missions et prérogatives en le sollicitant pour des arbitrages de priorité dans l'affectation des ressources en devises cash, ce qui n'est pas de son ressort.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Aussi, convient-il de rappeler la mission exclusive qui est confiée au sous-comité des emprunts extérieurs, composé des représentants de l'ensemble des banques commerciales et dont la coordination des travaux est confiée à la Banque d'Algérie qui préside les réunions et organise les travaux et leur suivi.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "1- Le sous-comité des Emprunts Extérieurs est composé d'un représentant dûment désigné par chacune des banques commerciales et de représentants de la Banque d'Algérie.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "2- La Banque d'Algérie assume la présidence des réunions et le secrétariat des travaux.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "3- Le sous-comité se réunit hebdomadairement au siège de la Banque d'Algérie. En cas d'urgence, le Président peut convoquer le Sous-Comité sous un délai de 48 heures.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "4- Le Sous-comité est chargé d'examiner les projets de prêt et de crédit ainsi que toute opération et ligne de financement proposée à un résident algérien, sous les aspects de durée du financement, du taux d'intérêt, des commissions et charges annexes.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "5- Les crédits gouvernementaux et les accords passés avec les organismes internationaux n'entrent pas dans le champ de compétence du Sous-Comité.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "6- Le sous-comité sanctionne chaque opération par un accord préalable, une demande de modification d'une ou plusieurs des conditions précitées, ou par un refus.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La décision du sous-comité est prise après exposé des avis et remarques des membres représentants des banques. La recherche du consensus dans la décision est de règle.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "7- En cas d'absence de consensus, la décision est prise à la majorité des membres présents.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "8- Au cas où une des conditions serait contraire à la politique d'endettement ou des changes ou prévoirait des formes légales d'engagement ou de nantissement incompatibles avec les règles raisonnables courantes par ailleurs pour le type d'opération concernée, le représentant de la Banque d'Algérie peut prononcer le blocage de la dite opération et son transfert au Comité de Stratégie Bancaire à titre d'arbitrage ou de recours.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "9- Le Sous-comité des emprunts extérieurs n'a pas de compétence pour juger de l'opportunité d'un contrat commercial d'importation, sauf si un tel contrat prévoit des",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "conditions de financement ou de différé de paiement à titre onéreux. Dans un tel cas, l'examen du sous-comité portera sur les seuls aspects du financement ou du différé et des conditions financières de taux, de commissions ou de frais assimilés qui s'y rattachent.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "10- Le Sous-comité n'est pas habilité à décider des affectations de devises en cash pour la couverture partielle ou totale des importations.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "11- L'autorisation de paiements au comptant pour un contrat particulier et l'affectation consécutive de devises en cash pour une telle couverture relève exclusivement de la banque commerciale auprès de laquelle est domicilié le client importateur.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "12- Pour permettre la prise en charge par les banques des prérogatives citées au point 11 ci-dessus, la Banque d'Algérie allouera mensuellement, à chaque banque commerciale, une côte de ressources cash. Cette allocation interviendra le 1er de chaque mois, sur la base d'une demande prévisionnelle de chaque banque et au prorata des disponibilités en cash auprès de la Banque d'Algérie.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "13- A la fin de chaque période mensuelle, les banque commerciales remettront à la",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Banque d'Algérie, en même temps que leur demande prévisionnelle pour le mois suivant, un état des affectations de cash pour le mois en cours, par entreprise et par contrat (l'information indiquera seulement, pour chaque entreprise, le montant du contrat, le fournisseur, la nature des produits à importer et le montant affecté en cash).",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "14- Le cash non attribué par une banque au cours d'un mois considéré sera reporté au mois suivant.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "15- Les Banques sont invitées à sélectionner les opérations éligibles au cash en fonction du degré d'utilité ou d'urgence de l'importation et surtout en fonction de la constatation que les efforts raisonnables de mobilisation des crédits extérieurs appropriés n'ont pas pu aboutir.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "16- L'article 6 de l'instruction n° 91-03 du 21 Avril 1991 fixant un plancher de 2 millions de dollars au-dessous duquel aucun financement spécifique ne doit être recherché par l'importateur, est modifié comme suit :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "\"Article 6 : les importations d'un montant inférieur à 500.000 US $ (cinq cent mille dollars US) ne doivent pas faire l'objet de la part de l'importateur d'une recherche de financement spécifique\".",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "17- Pour tout contrat dont le montant est inférieur à ce plancher, la banque domiciliataire est seule compétente pour décider de la possibilité :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "i)- d'imputation sur une ligne de crédit disponible, ou ii)- d'appel à un crédit spécifique en relation ou non avec l'importateur, ou iii)- de paiement cash par ponction sur la côte allouée à la banque par la Banque d'Algérie.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Cette instruction prend effet à compter du 1er Octobre 1991.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Abderrahmane Roustoumi HADJ NACER",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.037
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-27-91.fr.txt"
+}

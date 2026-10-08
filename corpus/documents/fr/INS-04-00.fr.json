@@ -1,0 +1,377 @@
+{
+  "document_id": "INS-04-00.fr",
+  "work_id": "INS-04-00",
+  "title": "Instruction n°04-2000 du 30 avril 2000 déterminant les éléments constitutifs du dossier de demande d’agrément de banque ou d’établissement financier.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "04-2000",
+  "number_source": "en-tête du document",
+  "date": "2000-04-30",
+  "date_raw": "N°04-2000 DU 30 AVRIL 2000",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Conditions de constitution et d'installation de banques, établissements financiers, PSP et capital minimum",
+  "source_url": "https://www.bank-of-algeria.dz/agrement-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction042000.pdf",
+  "format": "pdf",
+  "file_hash": "2f57ca47dccc9486573b6bc3109ce86e925fbbef549551bfea518b1631e6c3b4",
+  "file_size": 56678,
+  "raw_path": "raw/2f57ca47dccc__instruction042000.pdf",
+  "retrieved_at": "2026-10-05T13:21:22+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "5a16ac37c8ba2c651b76e218405f05eb4924f24bd43324bf90e541011ea9cd35",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/agrement-instruction/",
+    "https://www.bank-of-algeria.dz/annee-2000/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Microsoft Word - instruction042000",
+    "author": "chahra.yahiaoui",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "creationDate": "D:20210228160353+01'00'",
+    "modDate": "D:20210228160353+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2475,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 1729,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 4,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°04-2000 DU 30 AVRIL 2000 DETERMINANT LES ELEMENTS CONSTITUTIFS DU DOSSIER DE DEMANDE D'AGREMENT DE BANQUE OU D'ETABLISSEMENT FINANCIER",
+  "alias_urls": [],
+  "text_hash": "7de77ac9271674596f4ae9495ae26be52e9351adb54dbda9f6af24a4f739af01",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°04-2000 DU 30 AVRIL 2000 DETERMINANT\nLES ELEMENTS CONSTITUTIFS DU DOSSIER DE DEMANDE D'AGREMENT DE\nBANQUE OU D'ETABLISSEMENT FINANCIER",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°04-2000 DU 30 AVRIL 2000 DETERMINANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "LES ELEMENTS CONSTITUTIFS DU DOSSIER DE DEMANDE D'AGREMENT DE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANQUE OU D'ETABLISSEMENT FINANCIER",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "En application du règlement n°92-05 du 22 Mars 1992 concernant les conditions que doivent remplir les fondateurs, dirigeants et représentants des banques et établissements financiers et du règlement n°93-01 du 3 Janvier 1993 modifié fixant les conditions de constitution de banque et d'établissement financier et d'installation de succursale de banque et d'établissement financier étranger, la présente Instruction a pour objet de déterminer les éléments constitutifs du dossier accompagnant la demande d'agrément adressée au Gouverneur de la Banque d'Algérie en vue de l'exercice de l'activité de banque ou d'établissement financier.",
+      "paragraphs": [
+        {
+          "text": "En application du règlement n°92-05 du 22 Mars 1992 concernant les conditions que doivent remplir les fondateurs, dirigeants et représentants des banques et établissements financiers et du règlement n°93-01 du 3 Janvier 1993 modifié fixant les conditions de constitution de banque et d'établissement financier et d'installation de succursale de banque et d'établissement financier étranger, la présente Instruction a pour objet de déterminer les éléments constitutifs du dossier accompagnant la demande d'agrément adressée au Gouverneur de la Banque d'Algérie en vue de l'exercice de l'activité de banque ou d'établissement financier.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "A l'appui de la demande d'Agrément visée à l'article 1er ci-dessus, les fondateurs d'une banque ou d'un établissement financier ou les promoteurs d'une\nSuccursale d'une banque ou d'un établissement financier étranger doivent remettre un dossier en sept (7) exemplaires comportant :\n1 - la lettre d'engagement approuvée par l'Assemblée Générale des actionnaires, signée par le Président du Conseil d'Administration de la banque ou l'établissement financier, dont le modèle est déterminé par décision du Gouverneur de la Banque d'Algérie ;\n2 - l'original des statuts établis par acte notarié ou la copie certifiée conforme des statuts de la maison mère ;\n3 - la copie légalisée du registre du commerce ;\n4 - la copie légalisée de la déclaration d'existence fiscale établie auprès de la recette des impôts du lieu d'implantation du siège social ;\n5 - l'attestation de libération, auprès du notaire, de la tranche du capital ou de la dotation souscrite et la photocopie légalisée du reçu de versement effectif dans un compte bancaire ;\n6 - l'attestation de rapatriement de devises pour les actionnaires non-résidents ;\n7 - l'original du rapport portant valeur des apports en nature établi par les commissaires aux apports ;\n8 - le procès-verbal de l'Assemblée Générale constitutive portant notamment élection de son Président ou le procès-verbal du Conseil de Surveillance portant nomination des membres du Directoire et de son président ou le procès-verbal du Conseil d'Administration de la banque ou de l'établissement financier étranger relatif aux pouvoirs accordés aux dirigeants de la succursale ;\nBANK OF ALGERIA\n9 - le procès-verbal de l'Assemblée Générale Ordinaire portant désignation des membres du Conseil d'Administration ou du Conseil de surveillance, le procès-verbal du Conseil de surveillance de la maison mère désignant au moins deux (2) personnes chargées de l'activité et de la gestion de la succursale ;\n10 - l'approbation par le Gouverneur de la Banque d'Algérie des membres du Conseil d'Administration, du ou des Directeurs Généraux ou des personnes chargées de l'activité et de la gestion de la succursale selon le cas ;\n11 - le procès-verbal de la réunion du Conseil d'Administration portant notamment élection du Président du Conseil d'Administration et désignation du ou des Directeurs\nGénéraux ;\n12 - la copie légalisée du titre de propriété ou du contrat de location des locaux devant abriter le siège de la banque ou de l'établissement financier avec adresse et numéro de téléphone.",
+      "paragraphs": [
+        {
+          "text": "A l'appui de la demande d'Agrément visée à l'article 1er ci-dessus, les fondateurs d'une banque ou d'un établissement financier ou les promoteurs d'une",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Succursale d'une banque ou d'un établissement financier étranger doivent remettre un dossier en sept (7) exemplaires comportant :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "1 - la lettre d'engagement approuvée par l'Assemblée Générale des actionnaires, signée par le Président du Conseil d'Administration de la banque ou l'établissement financier, dont le modèle est déterminé par décision du Gouverneur de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "2 - l'original des statuts établis par acte notarié ou la copie certifiée conforme des statuts de la maison mère ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "3 - la copie légalisée du registre du commerce ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "4 - la copie légalisée de la déclaration d'existence fiscale établie auprès de la recette des impôts du lieu d'implantation du siège social ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "5 - l'attestation de libération, auprès du notaire, de la tranche du capital ou de la dotation souscrite et la photocopie légalisée du reçu de versement effectif dans un compte bancaire ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "6 - l'attestation de rapatriement de devises pour les actionnaires non-résidents ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "7 - l'original du rapport portant valeur des apports en nature établi par les commissaires aux apports ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "8 - le procès-verbal de l'Assemblée Générale constitutive portant notamment élection de son Président ou le procès-verbal du Conseil de Surveillance portant nomination des membres du Directoire et de son président ou le procès-verbal du Conseil d'Administration de la banque ou de l'établissement financier étranger relatif aux pouvoirs accordés aux dirigeants de la succursale ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "9 - le procès-verbal de l'Assemblée Générale Ordinaire portant désignation des membres du Conseil d'Administration ou du Conseil de surveillance, le procès-verbal du Conseil de surveillance de la maison mère désignant au moins deux (2) personnes chargées de l'activité et de la gestion de la succursale ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "10 - l'approbation par le Gouverneur de la Banque d'Algérie des membres du Conseil d'Administration, du ou des Directeurs Généraux ou des personnes chargées de l'activité et de la gestion de la succursale selon le cas ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "11 - le procès-verbal de la réunion du Conseil d'Administration portant notamment élection du Président du Conseil d'Administration et désignation du ou des Directeurs",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Généraux ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "12 - la copie légalisée du titre de propriété ou du contrat de location des locaux devant abriter le siège de la banque ou de l'établissement financier avec adresse et numéro de téléphone.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les fondateurs d'une banque ou d'un établissement financier ainsi que les dirigeants d'une succursale de banque ou d'établissement financier étranger remettent également une étude détaillée de mise en œuvre du projet reprenant notamment :\n- l'organigramme de l'institution,\n- l'identification et la fonction des cadres dirigeants avec leur Curriculum Vitae,\n- le schéma de développement institutionnel,\n- la présentation du système de procédure de gestion,\n- le schéma directeur de la fonction de contrôle de l'ensemble des opérations de banque,\n- les conditions de prise en charge du plan de compte,\n- les conditions de mise en place de l'outil informatique.",
+      "paragraphs": [
+        {
+          "text": "Les fondateurs d'une banque ou d'un établissement financier ainsi que les dirigeants d'une succursale de banque ou d'établissement financier étranger remettent également une étude détaillée de mise en œuvre du projet reprenant notamment :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- l'organigramme de l'institution,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- l'identification et la fonction des cadres dirigeants avec leur Curriculum Vitae,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- le schéma de développement institutionnel,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- la présentation du système de procédure de gestion,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- le schéma directeur de la fonction de contrôle de l'ensemble des opérations de banque,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les conditions de prise en charge du plan de compte,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les conditions de mise en place de l'outil informatique.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "La présente Instruction est applicable à compter de la date de sa signature.\nLe Gouverneur\nAbdelouahab KERAMANE",
+      "paragraphs": [
+        {
+          "text": "La présente Instruction est applicable à compter de la date de sa signature.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.036
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-04-00.fr.txt"
+}

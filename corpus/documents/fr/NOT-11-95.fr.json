@@ -1,0 +1,269 @@
+{
+  "document_id": "NOT-11-95.fr",
+  "work_id": "NOT-11-95",
+  "title": "Note n°11-95 du 22 juin 1995 portant rétrocession de sommes en provenance de l’étranger par voie postale.",
+  "document_type": "note",
+  "type_code": "NOT",
+  "type_source": "label",
+  "number": "11-95",
+  "number_source": "en-tête du document",
+  "date": "1995-06-22",
+  "date_raw": "N°11-95 DU 22 JUIN 1995",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-05",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "notes_aux_banques",
+  "subcategory": "Année 1995",
+  "source_url": "https://www.bank-of-algeria.dz/les-notes-aux-banques-1995/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/05/note1195.pdf",
+  "format": "pdf",
+  "file_hash": "ade07d93b39b40c0b8bd9198341f9567b2bfc4f15a0b7e9fd0b11aa955c7ac1a",
+  "file_size": 60615,
+  "raw_path": "raw/ade07d93b39b__note1195.pdf",
+  "retrieved_at": "2026-10-05T13:24:10+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "22812eebd85a1059ff9dc807144235a932f17271c6b0fc80c8c8f4f003f912ff",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/les-notes-aux-banques-1995/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document1",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210301114905+01'00'",
+    "modDate": "D:20210301114905+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2472,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 1526,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": false,
+    "article_count": 0,
+    "annex_count": 1
+  },
+  "quality_flags": [],
+  "title_document": "NOTE N°11-95 DU 22 JUIN 1995 AUX BANQUES INTERMEDIAIRES AGREES ET A L'ADMINISTRATION DES POSTES ET TELECOMMUNICATIONS En vertu des dispositions législatives et réglementaires applicables aux comptes devises, les nationaux résidents et les opérateurs économiques destinataires de sommes en provenance de l'étranger par voie postale (mandats poste et virements postaux internationaux), peuvent bénéficier d'une rétrocession totale ou partielle au profit de leur compte devises.",
+  "alias_urls": [],
+  "text_hash": "ac16bbdd9367a1cf4cb68e0d4e15006ceb81a04784a657f0990b7dfdbb30101d",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe A",
+      "number": "A",
+      "heading": "LA NOTE B.A N°11-95 DU 22 JUIN 1995",
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "NOTE N°11-95 DU 22 JUIN 1995 AUX BANQUES INTERMEDIAIRES\nAGREES ET A L'ADMINISTRATION DES POSTES ET TELECOMMUNICATIONS\nEn vertu des dispositions législatives et réglementaires applicables aux comptes devises, les nationaux résidents et les opérateurs économiques destinataires de sommes en provenance de l'étranger par voie postale (mandats poste et virements postaux internationaux), peuvent bénéficier d'une rétrocession totale ou partielle au profit de leur compte devises.\nAinsi, la présente note a pour objet de faire connaître que, désormais le règlement au profit des bénéficiaires concernés effectué par les guichets des Services Postaux conformément aux conditions et aux modalités définies par la réglementation en vigueur, applicable aux comptes devises, donnera lieu à l'établissement et à la délivrance par le guichet payeur d'une attestation établie selon le modèle joint en annexe.\nCette attestation qui constitue un document comptable pour la réalisation de l'inscription en compte devises de la totalité ou d'une partie du montant correspondant auprès des établissements bancaires, sera établie sans rature ni surcharge et délivrée en un unique exemplaire original.\nLes Banques Intermédiaires Agréés et l'Administration des Postes et Télécommunications voudront bien noter que la présente note vise à normaliser le modèle d'attestation de paiement à délivrer par l'Administration des Postes et Télécommunications au titre du règlement des mandats ou virements postaux internationaux en provenance de l'étranger.\nLes Banques Intermédiaires Agréés domiciliataires des comptes devises des bénéficiaires visés par la présente note, voudront bien avant l'exécution de toute opération d'inscription en comptes devises, s'assurer de l'éligibilité totale ou partielle en comptes devises de la contre-valeur devises du montant indiqué par ladite attestation.\nIl est par ailleurs préciser que l'attestation de paiement établie par les comptables publics conformément aux dispositions de l'instruction n°089 du 12 octobre 1991 du Ministère de l'Économie demeure toujours valable.\nAussi, les banques intermédiaires agréés et l'Administration des Postes et Télécommunications voudront bien noter que l'attestation de paiement annexée à notre instruction n°20-95 du 04 avril 1995 est remplacée par celle prévue par la présente note.\nLe Directeur du Contrôle des Changes\nD. SAIDI\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "NOTE N°11-95 DU 22 JUIN 1995 AUX BANQUES INTERMEDIAIRES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AGREES ET A L'ADMINISTRATION DES POSTES ET TELECOMMUNICATIONS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "En vertu des dispositions législatives et réglementaires applicables aux comptes devises, les nationaux résidents et les opérateurs économiques destinataires de sommes en provenance de l'étranger par voie postale (mandats poste et virements postaux internationaux), peuvent bénéficier d'une rétrocession totale ou partielle au profit de leur compte devises.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Ainsi, la présente note a pour objet de faire connaître que, désormais le règlement au profit des bénéficiaires concernés effectué par les guichets des Services Postaux conformément aux conditions et aux modalités définies par la réglementation en vigueur, applicable aux comptes devises, donnera lieu à l'établissement et à la délivrance par le guichet payeur d'une attestation établie selon le modèle joint en annexe.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Cette attestation qui constitue un document comptable pour la réalisation de l'inscription en compte devises de la totalité ou d'une partie du montant correspondant auprès des établissements bancaires, sera établie sans rature ni surcharge et délivrée en un unique exemplaire original.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les Banques Intermédiaires Agréés et l'Administration des Postes et Télécommunications voudront bien noter que la présente note vise à normaliser le modèle d'attestation de paiement à délivrer par l'Administration des Postes et Télécommunications au titre du règlement des mandats ou virements postaux internationaux en provenance de l'étranger.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Les Banques Intermédiaires Agréés domiciliataires des comptes devises des bénéficiaires visés par la présente note, voudront bien avant l'exécution de toute opération d'inscription en comptes devises, s'assurer de l'éligibilité totale ou partielle en comptes devises de la contre-valeur devises du montant indiqué par ladite attestation.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Il est par ailleurs préciser que l'attestation de paiement établie par les comptables publics conformément aux dispositions de l'instruction n°089 du 12 octobre 1991 du Ministère de l'Économie demeure toujours valable.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Aussi, les banques intermédiaires agréés et l'Administration des Postes et Télécommunications voudront bien noter que l'attestation de paiement annexée à notre instruction n°20-95 du 04 avril 1995 est remplacée par celle prévue par la présente note.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Directeur du Contrôle des Changes",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "D. SAIDI",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe A",
+      "number": "A",
+      "heading": "LA NOTE B.A N°11-95 DU 22 JUIN 1995",
+      "context": {},
+      "annexe": {
+        "number": "A",
+        "heading": "LA NOTE B.A N°11-95 DU 22 JUIN 1995",
+        "label": "Annexe A"
+      },
+      "page_start": 2,
+      "page_end": 2,
+      "text": "N° d'enregistrement : ..............................\nMinistère des Postes et Télécommunications\nATTESTATION DE PAIEMENT (Bureau de Poste .....................................)\n(Griffe Horizontale)\nJe Soussigné, Receveur du Bureau de Postes de .............................. atteste qu'il a été procédé ce jour au paiement entre les mains, ou au virement au crédit du compte CCP (1) (désignation du bénéficiaire Nom et\nPrénom ou Raison Sociale) demeurant au ou sis au ................................... du montant de DA (en chiffres et en toutes lettres), en règlement du mandat poste ou virement postal international (1) émis à (Bureau et pays d'émission) le .................................... sous le numéro ou référence .........................\nJ'atteste en outre, que le paiement ou le versement (1) effectué au profit du bénéficiaire sus désigné représente le règlement du mandat poste ou virement postal international (1) en provenance de l'étranger.\nLa présente attestation qui est établie en un unique exemplaire original est délivrée aux fins de servir au bénéficiaire à inscrire la contre-valeur devise de la totalité ou d'une partie du montant sus évoqué à son compte devises et ce, conformément à la réglementation des changes en vigueur notamment celle concernant le rapatriement du produit des exportations de biens et / ou de services.\nSigné le Receveur Fait à............. le ................……… (Nom,\nPrénom du Signataire)",
+      "paragraphs": [
+        {
+          "text": "N° d'enregistrement : ..............................",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Ministère des Postes et Télécommunications",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "ATTESTATION DE PAIEMENT (Bureau de Poste .....................................)",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "(Griffe Horizontale)",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Je Soussigné, Receveur du Bureau de Postes de .............................. atteste qu'il a été procédé ce jour au paiement entre les mains, ou au virement au crédit du compte CCP (1) (désignation du bénéficiaire Nom et",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Prénom ou Raison Sociale) demeurant au ou sis au ................................... du montant de DA (en chiffres et en toutes lettres), en règlement du mandat poste ou virement postal international (1) émis à (Bureau et pays d'émission) le .................................... sous le numéro ou référence .........................",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "J'atteste en outre, que le paiement ou le versement (1) effectué au profit du bénéficiaire sus désigné représente le règlement du mandat poste ou virement postal international (1) en provenance de l'étranger.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "La présente attestation qui est établie en un unique exemplaire original est délivrée aux fins de servir au bénéficiaire à inscrire la contre-valeur devise de la totalité ou d'une partie du montant sus évoqué à son compte devises et ce, conformément à la réglementation des changes en vigueur notamment celle concernant le rapatriement du produit des exportations de biens et / ou de services.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Signé le Receveur Fait à............. le ................……… (Nom,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Prénom du Signataire)",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.094
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/NOT-11-95.fr.txt"
+}

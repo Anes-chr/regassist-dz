@@ -1,0 +1,588 @@
+{
+  "document_id": "REG-18-03.fr",
+  "work_id": "REG-18-03",
+  "title": "Règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques et établissements financiers exerçant en Algérie.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "2018-03",
+  "number_source": "en-tête du document",
+  "date": "2018-11-04",
+  "date_raw": "N°2018-03 DU 04 NOVEMBRE 2018",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/reglement201803.pdf",
+      "uploaded": "2023-01-25T10:01:05"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Année 2018",
+  "source_url": "https://www.bank-of-algeria.dz/reglement-2018/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement201803.pdf",
+  "format": "pdf",
+  "file_hash": "94e1bb6b3e8d6a53cac01be81dc29fb9500cbbea60ed5e08bce2db81af196a3a",
+  "file_size": 74900,
+  "raw_path": "raw/94e1bb6b3e8d__reglement201803.pdf",
+  "retrieved_at": "2026-10-05T13:22:55+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "03ef47618b19f2d7cb52c343692bf9a0c13c4f2b99260ec6408d5e6cbaacc978",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/reglement-2018/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - reglement201803",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210208102633+01'00'",
+    "modDate": "D:20210208102633+01'00'"
+  },
+  "hijri_date_raw": "27 Joumada Ethania 1424",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2776,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 1270,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 6,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "meme_texte_plusieurs_fichiers"
+  ],
+  "title_document": "REGLEMENT N°2018-03 DU 04 NOVEMBRE 2018 RELATIF AU CAPITAL MINIMUM DES BANQUES ET ETABLISSEMENTS FINANCIERS EXERÇANT EN ALGERIE",
+  "alias_urls": [],
+  "text_hash": "4c34aa707bb65f8651f7f9f957d28fcde6ca681e5aeb8e15200d70d7337d6f04",
+  "relations_out": [
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "08-04",
+        "date": "2008-12-23",
+        "raw": "Règlement n°08-04 du 23 décembre 2008"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Les dispositions du Règlement n°08-04 du 23 décembre 2008 relatif au capital minimum des banques"
+      },
+      "target_work_id": "REG-08-04"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "REG-08-04",
+      "reference": "Règlement n°08-04 du 23 décembre 2008",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Les dispositions du Règlement n°08-04 du 23 décembre 2008 relatif au capital minimum des banques"
+      }
+    }
+  ],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [
+    {
+      "work_id": "REG-24-02",
+      "document_id": "REG-24-02.fr",
+      "date": "2024-02-06",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Toutes les dispositions contraires au présent règlement sont abrogées, notamment celles du règlement n°18-03 du 26 Safar 1440 correspondant au 4 novembre 2018, modif"
+      }
+    }
+  ],
+  "modifie_par": [
+    {
+      "work_id": "REG-20-08",
+      "document_id": "REG-20-08.fr",
+      "date": "2020-12-07",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2020-08 du 7 décembre 2020 modifiant et complétant le règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques"
+      }
+    },
+    {
+      "work_id": "REG-20-08",
+      "document_id": "REG-20-08.fr",
+      "date": "2020-12-07",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et compléter le règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques"
+      }
+    }
+  ],
+  "complete_par": [
+    {
+      "work_id": "REG-20-08",
+      "document_id": "REG-20-08.fr",
+      "date": "2020-12-07",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2020-08 du 7 décembre 2020 modifiant et complétant le règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques"
+      }
+    },
+    {
+      "work_id": "REG-20-08",
+      "document_id": "REG-20-08.fr",
+      "date": "2020-12-07",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et compléter le règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques"
+      }
+    }
+  ],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "REG-24-02",
+      "document_id": "REG-24-02.fr",
+      "date": "2024-02-06",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Toutes les dispositions contraires au présent règlement sont abrogées, notamment celles du règlement n°18-03 du 26 Safar 1440 correspondant au 4 novembre 2018, modif"
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [
+    "REG-18-03.ar",
+    "REG-18-03.fr~2"
+  ],
+  "complété_par": [
+    {
+      "work_id": "REG-20-08",
+      "document_id": "REG-20-08.fr",
+      "date": "2020-12-07",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2020-08 du 7 décembre 2020 modifiant et complétant le règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques"
+      }
+    },
+    {
+      "work_id": "REG-20-08",
+      "document_id": "REG-20-08.fr",
+      "date": "2020-12-07",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et compléter le règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques"
+      }
+    }
+  ],
+  "modifié_par": [
+    {
+      "work_id": "REG-20-08",
+      "document_id": "REG-20-08.fr",
+      "date": "2020-12-07",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2020-08 du 7 décembre 2020 modifiant et complétant le règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques"
+      }
+    },
+    {
+      "work_id": "REG-20-08",
+      "document_id": "REG-20-08.fr",
+      "date": "2020-12-07",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et compléter le règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques"
+      }
+    }
+  ],
+  "abrogé_par": [
+    {
+      "work_id": "REG-24-02",
+      "document_id": "REG-24-02.fr",
+      "date": "2024-02-06",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Toutes les dispositions contraires au présent règlement sont abrogées, notamment celles du règlement n°18-03 du 26 Safar 1440 correspondant au 4 novembre 2018, modif"
+      }
+    }
+  ],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°2018-03 DU 04 NOVEMBRE 2018 RELATIF\nAU CAPITAL MINIMUM DES BANQUES ET ETABLISSEMENTS\nFINANCIERS EXERÇANT EN ALGERIE\nLe Gouverneur de la Banque d'Algérie,\n- Vu l’Ordonnance n°03-11du 27 Joumada Ethania 1424 correspondant au 26 août 2003 relative à la monnaie et au crédit, modifiée et complétée notamment ses articles 62, 63, 64, 65 et 88 ;\n- Vu le Décret Présidentiel du 24 Dhou El Kaâda 1424 correspondant au 14 janvier 2004 portant nomination des membres du Conseil de la Monnaie et du Crédit de la Banque d’Algérie ;\n- Vu Décret Présidentiel du 05 Joumada El Oula 1427 correspondant au 1er juin 2006 portant nomination d’un Vice-Gouverneur de la Banque d’Algérie ;\n- Vu le Décret Présidentiel du 5 Safar 1437 correspondant au 17 novembre 2015 portant nomination de membres du Conseil d’Administration de la Banque d’Algérie ;\n- Vu le Décret Présidentiel du 24 Chaabane 1437 correspondant au 31 mai 2016 portant nomination du Gouverneur de la Banque d’Algérie ;\n- Vu le Décret Présidentiel du 17 Safar 1438 correspondant au 17 Novembre 2016 portant nomination de Vice-Gouverneurs de la Banque d’Algérie ;\n- Vu le Règlement n°08-04 du 23 décembre 2008 relatif au capital minimum des banques et établissements financiers exerçant en Algérie ;\n- Après délibération du Conseil de la Monnaie et du Crédit en date du 04 novembre 2018 ;\nPromulgue le Règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°2018-03 DU 04 NOVEMBRE 2018 RELATIF",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AU CAPITAL MINIMUM DES BANQUES ET ETABLISSEMENTS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "FINANCIERS EXERÇANT EN ALGERIE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d'Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’Ordonnance n°03-11du 27 Joumada Ethania 1424 correspondant au 26 août 2003 relative à la monnaie et au crédit, modifiée et complétée notamment ses articles 62, 63, 64, 65 et 88 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 24 Dhou El Kaâda 1424 correspondant au 14 janvier 2004 portant nomination des membres du Conseil de la Monnaie et du Crédit de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu Décret Présidentiel du 05 Joumada El Oula 1427 correspondant au 1er juin 2006 portant nomination d’un Vice-Gouverneur de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 5 Safar 1437 correspondant au 17 novembre 2015 portant nomination de membres du Conseil d’Administration de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 24 Chaabane 1437 correspondant au 31 mai 2016 portant nomination du Gouverneur de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 17 Safar 1438 correspondant au 17 Novembre 2016 portant nomination de Vice-Gouverneurs de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Règlement n°08-04 du 23 décembre 2008 relatif au capital minimum des banques et établissements financiers exerçant en Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Après délibération du Conseil de la Monnaie et du Crédit en date du 04 novembre 2018 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le Règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le présent Règlement a pour objet de fixer le capital minimum que doivent libérer, à leur constitution, les banques et établissements financiers exerçant en Algérie.",
+      "paragraphs": [
+        {
+          "text": "Le présent Règlement a pour objet de fixer le capital minimum que doivent libérer, à leur constitution, les banques et établissements financiers exerçant en Algérie.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les banques et établissements financiers, constitués sous forme de sociétés par actions de droit algérien, doivent disposer, à leur constitution, d’un capital libéré en totalité et en numéraire au moins égal à :\na - Vingt milliards de dinars (20 000 000 000 DA) pour les banques visées à l’article 70 de l’Ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003 modifiée et complétée susvisée ;\nb - Six milliards Cinq cents Millions de dinars (6 500 000 000 DA) pour les établissements financiers définis à l’article 71 de l’Ordonnance n° 03-11 du 27 Joumada\nEthania 1424 correspondant au 26 août 2003 modifiée et complétée susvisée.",
+      "paragraphs": [
+        {
+          "text": "Les banques et établissements financiers, constitués sous forme de sociétés par actions de droit algérien, doivent disposer, à leur constitution, d’un capital libéré en totalité et en numéraire au moins égal à :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "a - Vingt milliards de dinars (20 000 000 000 DA) pour les banques visées à l’article 70 de l’Ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003 modifiée et complétée susvisée ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "b - Six milliards Cinq cents Millions de dinars (6 500 000 000 DA) pour les établissements financiers définis à l’article 71 de l’Ordonnance n° 03-11 du 27 Joumada",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Ethania 1424 correspondant au 26 août 2003 modifiée et complétée susvisée.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "Les banques et établissements financiers dont le siège social est à l’étranger sont tenus d’affecter à leurs succursales, autorisées par le Conseil de la monnaie et du crédit pour effectuer des opérations de banque en Algérie, une dotation au moins égale au capital minimum exigé pour la constitution des banques et établissements financiers de droit algérien relevant de la même catégorie, pour laquelle la succursale a été autorisée.\nBANK OF ALGERIA\nCette dotation doit être libérée dans les mêmes conditions que celles prévues à l’article 2 ci-dessus.",
+      "paragraphs": [
+        {
+          "text": "Les banques et établissements financiers dont le siège social est à l’étranger sont tenus d’affecter à leurs succursales, autorisées par le Conseil de la monnaie et du crédit pour effectuer des opérations de banque en Algérie, une dotation au moins égale au capital minimum exigé pour la constitution des banques et établissements financiers de droit algérien relevant de la même catégorie, pour laquelle la succursale a été autorisée.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Cette dotation doit être libérée dans les mêmes conditions que celles prévues à l’article 2 ci-dessus.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les banques et établissements financiers en activité sont tenus de se conformer aux dispositions du présent Règlement au plus tard le 31 décembre 2020.\nLes banques et établissements financiers doivent disposer, le 31 décembre 2019 au plus tard, d'un capital libéré en numéraire au moins égal à :\n- quinze milliards de dinars (15 000 000 000 DA) pour les banques ;\n- cinq milliards de dinars (5 000 000 000 DA) pour les établissements financiers.\nA l’expiration du délai prévu à l’alinéa 1er ci-dessus, les banques et établissements financiers qui ne se seront pas conformés aux prescriptions du présent Règlement se verront retirer l’agrément conformément à l’article 95 de l’Ordonnance n°03-11 du 27\nJoumada Ethania 1424 correspondant au 26 août 2003 modifiée et complétée susvisée.",
+      "paragraphs": [
+        {
+          "text": "Les banques et établissements financiers en activité sont tenus de se conformer aux dispositions du présent Règlement au plus tard le 31 décembre 2020.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Les banques et établissements financiers doivent disposer, le 31 décembre 2019 au plus tard, d'un capital libéré en numéraire au moins égal à :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- quinze milliards de dinars (15 000 000 000 DA) pour les banques ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- cinq milliards de dinars (5 000 000 000 DA) pour les établissements financiers.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "A l’expiration du délai prévu à l’alinéa 1er ci-dessus, les banques et établissements financiers qui ne se seront pas conformés aux prescriptions du présent Règlement se verront retirer l’agrément conformément à l’article 95 de l’Ordonnance n°03-11 du 27",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Joumada Ethania 1424 correspondant au 26 août 2003 modifiée et complétée susvisée.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les dispositions du Règlement n°08-04 du 23 décembre 2008 relatif au capital minimum des banques et établissements financiers exerçant en Algérie susvisé, sont abrogées.",
+      "paragraphs": [
+        {
+          "text": "Les dispositions du Règlement n°08-04 du 23 décembre 2008 relatif au capital minimum des banques et établissements financiers exerçant en Algérie susvisé, sont abrogées.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le présent Règlement sera publié au Journal Officiel de la République algérienne démocratique et populaire.\nLe Gouverneur\nMohamed LOUKAL",
+      "paragraphs": [
+        {
+          "text": "Le présent Règlement sera publié au Journal Officiel de la République algérienne démocratique et populaire.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Mohamed LOUKAL",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "meme_texte_plusieurs_fichiers"
+    ],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.033
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-18-03.fr.txt"
+}

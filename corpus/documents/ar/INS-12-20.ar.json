@@ -1,0 +1,503 @@
+{
+  "document_id": "INS-12-20.ar",
+  "work_id": "INS-12-20",
+  "title": "تعليمة رقم 12-2020 المؤرخة في 25 نوفمبر 2020، المتضمنة توحيد البطاقة المصرفية",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "12-2020",
+  "number_source": "libelle",
+  "date": "2020-11-25",
+  "date_raw": "المؤرخة في 25 نوفمبر 2020",
+  "date_source": "libelle",
+  "publication_date": "2023-03-02",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "instructions",
+  "subcategory": "تسويق و توحيد المنتجات و الخدمات البنكية",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d8%aa%d9%88%d8%ad%d9%8a%d8%af-%d8%a7%d9%84%d9%82%d9%8a%d8%a7%d8%b3%d9%8a/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/03/12-20.pdf",
+  "format": "pdf",
+  "file_hash": "48f9a334aef0e1b06f011517c0a58383142e4816dcee61ecf463dbea381bfc65",
+  "file_size": 316261,
+  "raw_path": "raw/48f9a334aef0__12-20.pdf",
+  "retrieved_at": "2026-10-05T13:30:17+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 2,
+  "url_hash": "3284e840f00f32476d315679fad36bf84520e4a557a3e4316018d1254e2f544b",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d8%aa%d9%88%d8%ad%d9%8a%d8%af-%d8%a7%d9%84%d9%82%d9%8a%d8%a7%d8%b3%d9%8a/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "author": "lynda benhaha",
+    "creator": "Microsoft® Word 2016",
+    "producer": "Microsoft® Word 2016",
+    "creationDate": "D:20230301103822+01'00'",
+    "modDate": "D:20230301103822+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 1566,
+        "ocr_confidence": 87.97933884297521
+      },
+      {
+        "page": 2,
+        "method": "ocr",
+        "chars": 293,
+        "ocr_confidence": 87.53333333333333
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 8,
+    "annex_count": 1
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine",
+    "numerotation:articles_manquants:[2]"
+  ],
+  "title_document": null,
+  "alias_urls": [],
+  "text_hash": "1ef6163d71c0ec243d5fb4821a8b9f4f2260ce6871fe53e9d0fe5bbbb59f5e20",
+  "relations_out": [
+    {
+      "relation": "remplace",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "05-04",
+        "date": "2004-08-02",
+        "raw": "Instruction n° 05-04 du 2 août 2004"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "La présente Instruction annule et remplace l’Instruction n° 05-04 du 2 août 2004 portant normalisation de la carte banca",
+        "copied_from": "INS-12-20.fr"
+      },
+      "target_work_id": "INS-05-04"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [
+    {
+      "work_id": "INS-05-04",
+      "reference": "Instruction n° 05-04 du 2 août 2004",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "La présente Instruction annule et remplace l’Instruction n° 05-04 du 2 août 2004 portant normalisation de la carte banca",
+        "copied_from": "INS-12-20.fr"
+      }
+    }
+  ],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-12-20.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "ocr_numeric_check": {
+    "units": 10,
+    "units_flagged": 0,
+    "units_compared_with_french": 8,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe بالتعليمة",
+      "number": "بالتعليمة",
+      "heading": "رقم 2020-12 المؤرخة في 25 نوفمبر 2020",
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "التعليمة رقم 12 -2020 المؤرخة في 25 نوفمبر 2020. المتضمنة توحيد البطاقة المصرفية",
+      "paragraphs": [
+        {
+          "text": "التعليمة رقم 12 -2020 المؤرخة في 25 نوفمبر 2020. المتضمنة توحيد البطاقة المصرفية",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تهدف هذه التعليمة إلى توحيد البطاقة المصرفية الذكية الصادرة عن البنوك وبريد الجزائر.\n0 للمعايير الدولية الواردة في الجدول المرفق.\nكما يجب أن تستجيب لمعايير (Europay-Mastercard-Visa) EMV‏ وتسمح البيانات المسجلة في البطاقة المصرفية القيام بعمليات السحب والدفع.",
+      "paragraphs": [
+        {
+          "text": "تهدف هذه التعليمة إلى توحيد البطاقة المصرفية الذكية الصادرة عن البنوك وبريد الجزائر.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "0 للمعايير الدولية الواردة في الجدول المرفق.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "كما يجب أن تستجيب لمعايير (Europay-Mastercard-Visa) EMV‏ وتسمح البيانات المسجلة في البطاقة المصرفية القيام بعمليات السحب والدفع.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يشمل توحيد البطاقة المصرفية:\n- تشفير البيانات على المساحات المغناطيسية؛",
+      "paragraphs": [
+        {
+          "text": "يشمل توحيد البطاقة المصرفية:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- تشفير البيانات على المساحات المغناطيسية؛",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "إن مناطق وضع العلامات والختم هي مناطق مُعدَّة للتشخيص غير المشفر والتشخيص المشفر للمعلومات وفق المناهج المعمول بها.",
+      "paragraphs": [
+        {
+          "text": "إن مناطق وضع العلامات والختم هي مناطق مُعدَّة للتشخيص غير المشفر والتشخيص المشفر للمعلومات وفق المناهج المعمول بها.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يتمتل تشفير الشريط المغناطيسي للبطاقة المصرفية في تسجيل المعلومات اللازمة لتشغيلهاء باستعمال أجهزة وبرمجيات خاصة lbs‏ للمعايير الدولية الواردة في الملحق.",
+      "paragraphs": [
+        {
+          "text": "يتمتل تشفير الشريط المغناطيسي للبطاقة المصرفية في تسجيل المعلومات اللازمة لتشغيلهاء باستعمال أجهزة وبرمجيات خاصة lbs‏ للمعايير الدولية الواردة في الملحق.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يتمتل النقش على الشريحة المكونة من معالج دقيق وذاكرة: في تسجيل المعلومات Les‏ في ذلك\n- إثيات البطاقة المصرفية والجهة المصدرة لها؛\n- صاحب البطاقة المصرفية (الاسمء اللقب).\nويتم نقش هذه البيانات باستعمال أجهزة وبرمجيات خاصة طبقاً للمعايير الدولية المدرجة في الجدول الملحق.",
+      "paragraphs": [
+        {
+          "text": "يتمتل النقش على الشريحة المكونة من معالج دقيق وذاكرة: في تسجيل المعلومات Les‏ في ذلك",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- إثيات البطاقة المصرفية والجهة المصدرة لها؛",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- صاحب البطاقة المصرفية (الاسمء اللقب).",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ويتم نقش هذه البيانات باستعمال أجهزة وبرمجيات خاصة طبقاً للمعايير الدولية المدرجة في الجدول الملحق.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تُحدّد الخصائص التقنية للبطاقات المصرفية موضوع هذه التعليمة» في مُدونة مرجعية تُبرز:\n- كيفية تشغيلها مع واجهة الاتصال ««بالتلامس» و/أو «بدون التالامس»؛\n- كيفية التحفق من طبيعة البطاقة المصرفية ‘(SDA / DDA / CDA)‏\n- التحقق من صاحب البطاقة المصرفية؛\n- المواصفات التقنية والوظيفية؛\n- المعالجة الآلية لعمليات السحب والدفع؛\n- الوظائف والخدمات المتوفرة؛\n- بروتوكولات تبادل المعلومات.",
+      "paragraphs": [
+        {
+          "text": "تُحدّد الخصائص التقنية للبطاقات المصرفية موضوع هذه التعليمة» في مُدونة مرجعية تُبرز:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- كيفية تشغيلها مع واجهة الاتصال ««بالتلامس» و/أو «بدون التالامس»؛",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- كيفية التحفق من طبيعة البطاقة المصرفية ‘(SDA / DDA / CDA)‏",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- التحقق من صاحب البطاقة المصرفية؛",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- المواصفات التقنية والوظيفية؛",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- المعالجة الآلية لعمليات السحب والدفع؛",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- الوظائف والخدمات المتوفرة؛",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- بروتوكولات تبادل المعلومات.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تلغي هذه التعليمة (ai‏ محل التعليمة رقم 05-04 المؤرخة في 2 أوت 2004 المتضمنة توحيد",
+      "paragraphs": [
+        {
+          "text": "تلغي هذه التعليمة (ai‏ محل التعليمة رقم 05-04 المؤرخة في 2 أوت 2004 المتضمنة توحيد",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "تدخل هذه التعليمة حيز التنفيذ ابتداء من تاريخ الإمضاء عليها.\nالمحافظ رمز المعبار ISO 7810 ISO 7811 ISO 7812 ISO 7813",
+      "paragraphs": [
+        {
+          "text": "تدخل هذه التعليمة حيز التنفيذ ابتداء من تاريخ الإمضاء عليها.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المحافظ رمز المعبار ISO 7810 ISO 7811 ISO 7812 ISO 7813",
+          "page_start": 1,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe بالتعليمة",
+      "number": "بالتعليمة",
+      "heading": "رقم 2020-12 المؤرخة في 25 نوفمبر 2020",
+      "context": {},
+      "annexe": {
+        "number": "بالتعليمة",
+        "heading": "رقم 2020-12 المؤرخة في 25 نوفمبر 2020",
+        "label": "Annexe بالتعليمة"
+      },
+      "page_start": 2,
+      "page_end": 2,
+      "text": "المتضمنة توحيد البطاقة المصرفية المعابير الدولية المطبقة على البطاقة المصرفية الخصائص المادية لبطاقات التعريف ISO 7816‏ ISO 14443‏ البطاقات الذكية المزودة بهوائي يسمح باستخدامها بدون التلامس",
+      "paragraphs": [
+        {
+          "text": "المتضمنة توحيد البطاقة المصرفية المعابير الدولية المطبقة على البطاقة المصرفية الخصائص المادية لبطاقات التعريف ISO 7816‏ ISO 14443‏ البطاقات الذكية المزودة بهوائي يسمح باستخدامها بدون التلامس",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine",
+      "numerotation:articles_manquants:[2]"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.048,
+      "ocr_pages": [
+        1,
+        2
+      ],
+      "ocr_mean_confidence": 87.8
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/INS-12-20.ar.txt"
+}

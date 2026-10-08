@@ -1,0 +1,451 @@
+{
+  "document_id": "INS-05-14.fr",
+  "work_id": "INS-05-14",
+  "title": "Instruction n°05-2014 du 30 décembre 2014 portant modèles de déclaration des grands risques par les banques et établissements financiers.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "05-2014",
+  "number_source": "en-tête du document",
+  "date": "2014-12-30",
+  "date_raw": "N°05-2014 DU 30 DECEMBRE 2014",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-02",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Normes prudentielles",
+  "source_url": "https://www.bank-of-algeria.dz/banque-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/02/instruction052014.pdf",
+  "format": "pdf",
+  "file_hash": "0fd97620061c8fd2433bbf3b35fb523af940f51eb9a982f8f994022379a2d458",
+  "file_size": 385050,
+  "raw_path": "raw/0fd97620061c__instruction052014.pdf",
+  "retrieved_at": "2026-10-05T13:20:40+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 3,
+  "url_hash": "d5f4aaef04b39f69521b55869b9410939a6246b927b0d574b22a4239808a505c",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-2014/",
+    "https://www.bank-of-algeria.dz/ar/%D8%A7%D9%84%D9%85%D8%AE%D8%A7%D8%B7%D8%B1-%D8%A7%D9%84%D8%A8%D9%86%D9%83%D9%8A%D8%A9/",
+    "https://www.bank-of-algeria.dz/ar/%d8%a7%d9%84%d9%85%d8%ae%d8%a7%d8%b7%d8%b1-%d8%a7%d9%84%d8%a8%d9%86%d9%83%d9%8a%d8%a9/",
+    "https://www.bank-of-algeria.dz/banque-instruction/",
+    "https://www.bank-of-algeria.dz/risques-bancaires-instruction/",
+    "https://www.bank-of-algeria.dz/risques-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document20",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210211095042+01'00'",
+    "modDate": "D:20210211095042+01'00'"
+  },
+  "hijri_date_raw": "16 Rabie Ethani 1435",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 3,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 1560,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 199,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 1104,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 5,
+    "annex_count": 2
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°05-2014 DU 30 DECEMBRE 2014 PORTANT MODELES DE DECLARATION DES GRANDS RISQUES PAR LES BANQUES ET ETABLISSEMENTS FINANCIERS",
+  "alias_urls": [],
+  "text_hash": "17c68535d37718c5b7f435511f186ab9bd7c9b62f9dc56e67e7a26286d1cc756",
+  "relations_out": [
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "74-94",
+        "date": "1994-11-29",
+        "raw": "instruction n°74-94 du 29 novembre 1994"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Sont abrogées toutes dispositions contraires, notamment l’instruction n°74-94 du 29 novembre 1994 relative à la fixation des règles prude"
+      },
+      "target_work_id": "INS-74-94"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "INS-74-94",
+      "reference": "instruction n°74-94 du 29 novembre 1994",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Sont abrogées toutes dispositions contraires, notamment l’instruction n°74-94 du 29 novembre 1994 relative à la fixation des règles prude"
+      }
+    }
+  ],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-05-14.ar"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe I",
+      "number": "I",
+      "heading": "A L'INSTRCTION N°05-14 DU 30 DECEMBRE 2014",
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe II",
+      "number": "II",
+      "heading": "A L'INSTRCTION N°05-14 DU 30 DECEMBRE 2014",
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°05-2014 DU 30 DECEMBRE 2014 PORTANT\nMODELES DE DECLARATION DES GRANDS RISQUES PAR LES BANQUES\nET ETABLISSEMENTS FINANCIERS",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°05-2014 DU 30 DECEMBRE 2014 PORTANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "MODELES DE DECLARATION DES GRANDS RISQUES PAR LES BANQUES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET ETABLISSEMENTS FINANCIERS",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction a pour objet de fixer les modèles de déclaration des grands risques par les banques et les établissements financiers, conformément à l’article 17 du règlement n°14-02 du 16 Rabie Ethani 1435 correspondant au 16 février 2014 relatif aux grands risques et aux participations.",
+      "paragraphs": [
+        {
+          "text": "La présente instruction a pour objet de fixer les modèles de déclaration des grands risques par les banques et les établissements financiers, conformément à l’article 17 du règlement n°14-02 du 16 Rabie Ethani 1435 correspondant au 16 février 2014 relatif aux grands risques et aux participations.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Sont annexés à la présente instruction :\n- le modèle G1000 (annexe I) relatif au contrôle des grands risques ;\n- le modèle G2000 (annexes II), relatif au relevé des grands risques.",
+      "paragraphs": [
+        {
+          "text": "Sont annexés à la présente instruction :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- le modèle G1000 (annexe I) relatif au contrôle des grands risques ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- le modèle G2000 (annexes II), relatif au relevé des grands risques.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les modèles cités à l’article 2 sont renseignés à la fin de chaque trimestre. Ils doivent parvenir à la Commission bancaire et à la Banque d’Algérie – Direction Générale de l’Inspection Générale - au plus tard trente (30) jours à compter de la date d’arrêté trimestriel.",
+      "paragraphs": [
+        {
+          "text": "Les modèles cités à l’article 2 sont renseignés à la fin de chaque trimestre. Ils doivent parvenir à la Commission bancaire et à la Banque d’Algérie – Direction Générale de l’Inspection Générale - au plus tard trente (30) jours à compter de la date d’arrêté trimestriel.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Sont abrogées toutes dispositions contraires, notamment l’instruction n°74-94 du 29 novembre 1994 relative à la fixation des règles prudentielles de gestion des banques et établissements financiers, modifiée et complétée et l’instruction n°04-99 du 12 août 1999 portant modèles de déclaration par les banques et établissements financiers des ratios de couverture et de division des risques.",
+      "paragraphs": [
+        {
+          "text": "Sont abrogées toutes dispositions contraires, notamment l’instruction n°74-94 du 29 novembre 1994 relative à la fixation des règles prudentielles de gestion des banques et établissements financiers, modifiée et complétée et l’instruction n°04-99 du 12 août 1999 portant modèles de déclaration par les banques et établissements financiers des ratios de couverture et de division des risques.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction prend effet à compter de la date de sa signature.\nLe Gouverneur\nMohammed LAKSACI\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "La présente instruction prend effet à compter de la date de sa signature.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe I",
+      "number": "I",
+      "heading": "A L'INSTRCTION N°05-14 DU 30 DECEMBRE 2014",
+      "context": {},
+      "annexe": {
+        "number": "I",
+        "heading": "A L'INSTRCTION N°05-14 DU 30 DECEMBRE 2014",
+        "label": "Annexe I"
+      },
+      "page_start": 2,
+      "page_end": 2,
+      "text": "* : Fonds propres réglementaires prévus par le règlement 14-01 du 16 février 2014",
+      "paragraphs": [
+        {
+          "text": "* : Fonds propres réglementaires prévus par le règlement 14-01 du 16 février 2014",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe II",
+      "number": "II",
+      "heading": "A L'INSTRCTION N°05-14 DU 30 DECEMBRE 2014",
+      "context": {},
+      "annexe": {
+        "number": "II",
+        "heading": "A L'INSTRCTION N°05-14 DU 30 DECEMBRE 2014",
+        "label": "Annexe II"
+      },
+      "page_start": 3,
+      "page_end": 3,
+      "text": "(*) Dans le cas où les bénéficiaires sont des \"personnes liées\" au sens de l'article 2 du règlement n°14-02, il convient d'inscrire la raison sociale :\n- de la maison mère : pour les entités du groupe (maison-mère, filiales et co-entreprises) ;\n- de l'entité porteuse du risque le plus élevé : pour les autres catégories de « personnes liées ».\n(**) Modalités de calcul des risques pondérés :\na) pour les postes de bilan = (4) * taux de pondération\nb) pour les postes hors bilan = (4) * facteur de conversion * coefficient de pondération.\n(***) Y compris les crédits-bails et les valeurs reçues en pension.\n(****) Tous les titres non déduits des fonds propres et quel que soit leur classement comptable ( actifs détenus à des fins de transaction, actifs disponibles à la vente , actifs détenus jusqu'à l'échéance et participations dans les filiales, les co-entreprises ou les entités associés).\n(*****) Dans le cas où les bénéficiaires sont des \"personnes liées\" au sens de l'article 2 du règlement n°14-02, indiquer pour chacune d'elle : la raison sociale et le montant des risques nets.",
+      "paragraphs": [
+        {
+          "text": "(*) Dans le cas où les bénéficiaires sont des \"personnes liées\" au sens de l'article 2 du règlement n°14-02, il convient d'inscrire la raison sociale :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- de la maison mère : pour les entités du groupe (maison-mère, filiales et co-entreprises) ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- de l'entité porteuse du risque le plus élevé : pour les autres catégories de « personnes liées ».",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "(**) Modalités de calcul des risques pondérés :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "a) pour les postes de bilan = (4) * taux de pondération",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "b) pour les postes hors bilan = (4) * facteur de conversion * coefficient de pondération.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "(***) Y compris les crédits-bails et les valeurs reçues en pension.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "(****) Tous les titres non déduits des fonds propres et quel que soit leur classement comptable ( actifs détenus à des fins de transaction, actifs disponibles à la vente , actifs détenus jusqu'à l'échéance et participations dans les filiales, les co-entreprises ou les entités associés).",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "(*****) Dans le cas où les bénéficiaires sont des \"personnes liées\" au sens de l'article 2 du règlement n°14-02, indiquer pour chacune d'elle : la raison sociale et le montant des risques nets.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.057
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-05-14.fr.txt"
+}

@@ -1,0 +1,2210 @@
+{
+  "document_id": "INS-07-11.fr",
+  "work_id": "INS-07-11",
+  "title": "Instruction n°07-2011 du 21 décembre 2011 portant coefficients de liquidité des banques et des établissements financiers.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "07-2011",
+  "number_source": "en-tête du document",
+  "date": "2011-12-21",
+  "date_raw": "N°07-2011 DU 21 DECEMBRE 2011",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-02",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction072011.pdf",
+      "uploaded": "2023-01-24T10:56:47"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Année 2011",
+  "source_url": "https://www.bank-of-algeria.dz/annee-2011/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/02/instruction072011.pdf",
+  "format": "pdf",
+  "file_hash": "174d96548ae38d2c89f5d4284c14f5b9da1a492be6dee3969ec87008ea8ae968",
+  "file_size": 90980,
+  "raw_path": "raw/174d96548ae3__instruction072011.pdf",
+  "retrieved_at": "2026-10-05T13:20:47+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 9,
+  "url_hash": "977d10ebac58ac8a26cc9068e55e4a52a5afa3ce0cfc9cb85f76b01b305a329c",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-2011/",
+    "https://www.bank-of-algeria.dz/liquidite-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Microsoft Word - instruction072011",
+    "author": "chahra.yahiaoui",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "creationDate": "D:20210210163109+01'00'",
+    "modDate": "D:20210210163109+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 9,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2494,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 2418,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 1611,
+        "ocr_confidence": null
+      },
+      {
+        "page": 4,
+        "method": "pdf_text",
+        "chars": 2472,
+        "ocr_confidence": null
+      },
+      {
+        "page": 5,
+        "method": "pdf_text",
+        "chars": 1935,
+        "ocr_confidence": null
+      },
+      {
+        "page": 6,
+        "method": "pdf_text",
+        "chars": 710,
+        "ocr_confidence": null
+      },
+      {
+        "page": 7,
+        "method": "pdf_text",
+        "chars": 2744,
+        "ocr_confidence": null
+      },
+      {
+        "page": 8,
+        "method": "pdf_text",
+        "chars": 2022,
+        "ocr_confidence": null
+      },
+      {
+        "page": 9,
+        "method": "pdf_text",
+        "chars": 1485,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": [
+      {
+        "page": 4,
+        "removed": "ELEMENTS DE CALCUL DU NUMERATEUR DU COEFFICIENT DE LIQUIDITE – MOD. 5000 -",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 4,
+        "removed": "EN MILLIERS DE DINARS",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 4,
+        "removed": "DATE D’ARRETE",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 4,
+        "removed": "10",
+        "why": "numéro de page"
+      },
+      {
+        "page": 4,
+        "removed": "116",
+        "why": "numéro de page"
+      },
+      {
+        "page": 5,
+        "removed": "ELEMENTS DE CALCUL DU NUMERATEUR DU COEFFICIENT DE LIQUIDITE – MOD. 5001 -",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 5,
+        "removed": "EN MILLIERS DE DINARS",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 5,
+        "removed": "DATE D’ARRETE",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 5,
+        "removed": "5",
+        "why": "numéro de page"
+      },
+      {
+        "page": 5,
+        "removed": "129",
+        "why": "numéro de page"
+      },
+      {
+        "page": 6,
+        "removed": "ELEMENTS DE CALCUL DU NUMERATEUR DU COEFFICIENT DE LIQUIDITE – MOD. 5002 -",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 6,
+        "removed": "EN MILLIERS DE DINARS",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 6,
+        "removed": "DATE D’ARRETE",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 6,
+        "removed": "130",
+        "why": "numéro de page"
+      },
+      {
+        "page": 6,
+        "removed": "131",
+        "why": "numéro de page"
+      },
+      {
+        "page": 7,
+        "removed": "ELEMENTS DE CALCUL DU NUMERATEUR DU COEFFICIENT DE LIQUIDITE – MOD. 5003 -",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 7,
+        "removed": "EN MILLIERS DE DINARS",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 7,
+        "removed": "DATE D’ARRETE",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 7,
+        "removed": "10",
+        "why": "numéro de page"
+      },
+      {
+        "page": 7,
+        "removed": "116",
+        "why": "numéro de page"
+      },
+      {
+        "page": 8,
+        "removed": "ELEMENTS DE CALCUL DU NUMERATEUR DU COEFFICIENT DE LIQUIDITE – MOD. 5004 -",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 8,
+        "removed": "EN MILLIERS DE DINARS",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 8,
+        "removed": "DATE D’ARRETE",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 8,
+        "removed": "5",
+        "why": "numéro de page"
+      },
+      {
+        "page": 8,
+        "removed": "229",
+        "why": "numéro de page"
+      },
+      {
+        "page": 9,
+        "removed": "ELEMENTS DE CALCUL DU NUMERATEUR DU COEFFICIENT DE LIQUIDITE – MOD. 5005 -",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 9,
+        "removed": "EN MILLIERS DE DINARS",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 9,
+        "removed": "DATE D’ARRETE",
+        "why": "en-tête/pied répété"
+      },
+      {
+        "page": 9,
+        "removed": "230",
+        "why": "numéro de page"
+      },
+      {
+        "page": 9,
+        "removed": "230",
+        "why": "numéro de page"
+      }
+    ]
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 8,
+    "annex_count": 7
+  },
+  "quality_flags": [
+    "meme_texte_plusieurs_fichiers"
+  ],
+  "title_document": "INSTRUCTION N°07-2011 DU 21 DECEMBRE 2011 PORTANT COEFFICIENTS DE LIQUIDITE DES BANQUES ET DES ETABLISSEMENTS FINANCIERS",
+  "alias_urls": [],
+  "text_hash": "68bf53797c2285aaf0afcd4c78e9229878e03d70d5dce1a799bd39681a6ed3b6",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-07-11.ar",
+    "INS-07-11.fr~2"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe 1",
+      "number": "1",
+      "heading": "à l’instruction N°07-2011",
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe 1",
+      "number": "1",
+      "heading": "à l’instruction N°07-2011",
+      "page_start": 5,
+      "page_end": 5,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe 1",
+      "number": "1",
+      "heading": "à l’instruction N°07-2011",
+      "page_start": 6,
+      "page_end": 6,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe 2",
+      "number": "2",
+      "heading": "à l’instruction N°07-2011",
+      "page_start": 7,
+      "page_end": 7,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe 2",
+      "number": "2",
+      "heading": "à l’instruction N°07-2011",
+      "page_start": 8,
+      "page_end": 8,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe 2",
+      "number": "2",
+      "heading": "à l’instruction N°07-2011",
+      "page_start": 9,
+      "page_end": 9,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe 3",
+      "number": "3",
+      "heading": "à l’instruction N°07-2011",
+      "page_start": 9,
+      "page_end": 9,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°07-2011 DU 21 DECEMBRE 2011 PORTANT COEFFICIENTS\nDE LIQUIDITE DES BANQUES ET DES ETABLISSEMENTS FINANCIERS",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°07-2011 DU 21 DECEMBRE 2011 PORTANT COEFFICIENTS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DE LIQUIDITE DES BANQUES ET DES ETABLISSEMENTS FINANCIERS",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction a pour objet la mise en œuvre des dispositions des articles 3 et 4 du règlement n°11-04 du 24 mai 2011 portant identification, mesure, gestion et contrôle du risque de liquidité.\nElle définit les composantes du coefficient minimum de liquidité des banques et établissements financiers ainsi que celles du coefficient de liquidité d’observation, visés aux articles 3 et 4 du règlement précité. Elle précise les modalités d’établissement et de transmission de ces coefficients à la Banque d’Algérie.",
+      "paragraphs": [
+        {
+          "text": "La présente instruction a pour objet la mise en œuvre des dispositions des articles 3 et 4 du règlement n°11-04 du 24 mai 2011 portant identification, mesure, gestion et contrôle du risque de liquidité.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Elle définit les composantes du coefficient minimum de liquidité des banques et établissements financiers ainsi que celles du coefficient de liquidité d’observation, visés aux articles 3 et 4 du règlement précité. Elle précise les modalités d’établissement et de transmission de ces coefficients à la Banque d’Algérie.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les banques et établissements financiers établissent à chaque fin de trimestre :\n- un état déclaratif comprenant les modèles 5000, 5001 et 5002 figurant en annexe 1, du coefficient de liquidité du mois à venir ;\n- un état déclaratif comprenant les modèles 5003, 5004 et 5005 figurant en annexe 2, du coefficient de liquidité d’observation rendant compte de la situation prévisionnelle de liquidité à la fin du trimestre suivant la date d’arrêté ;\n- un état déclaratif modèle 5006, figurant en annexe 3, reprenant les deux rapports susvisés et le coefficient de liquidité de chacun des deux (02) derniers mois du trimestre écoulé.",
+      "paragraphs": [
+        {
+          "text": "Les banques et établissements financiers établissent à chaque fin de trimestre :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- un état déclaratif comprenant les modèles 5000, 5001 et 5002 figurant en annexe 1, du coefficient de liquidité du mois à venir ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- un état déclaratif comprenant les modèles 5003, 5004 et 5005 figurant en annexe 2, du coefficient de liquidité d’observation rendant compte de la situation prévisionnelle de liquidité à la fin du trimestre suivant la date d’arrêté ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- un état déclaratif modèle 5006, figurant en annexe 3, reprenant les deux rapports susvisés et le coefficient de liquidité de chacun des deux (02) derniers mois du trimestre écoulé.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les états visés à l’article 2 doivent être adressés à la Banque d’Algérie\nDirection Générale de l’Inspection Générale- dans un délai de 30 jours à compter de la fin du trimestre considéré.",
+      "paragraphs": [
+        {
+          "text": "Les états visés à l’article 2 doivent être adressés à la Banque d’Algérie",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Direction Générale de l’Inspection Générale- dans un délai de 30 jours à compter de la fin du trimestre considéré.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "Les éléments du numérateur du coefficient de liquidité et les quotités à hauteur desquelles ils doivent être pris en considération sont précisés ci-après :\nQuotité de 100 %\n- les avoirs en caisse (dinars) ;\n- les avoirs en comptes devises fonds propres déposés auprès de la Banque d’Algérie ;\n- les avoirs à vue en dinars auprès de la Banque d'Algérie correspondant à la réserve libre et les placements à terme en dinars auprès de la Banque d’Algérie dont l'échéance n'excède pas un (01) mois ;\n- les dépôts auprès du Trésor Public et Algérie Poste (dépôts au Centre des\nChèques Postaux) ;\n- les comptes débiteurs à vue auprès des banques et établissements financiers et des correspondants étrangers ;\n- les prêts sur le marché monétaire interbancaire dont l'échéance n'excède pas un\n(01) mois ;\n- les bons du trésor négociables sur le marché secondaire des titres de l'Etat ;\nBANK OF ALGERIA\n- les titres participatifs du Trésor remboursables à première demande ; - les obligations et autres valeurs mobilières à revenu fixe émises par l'Etat et faisant l'objet d'une cotation sur un marché officiel ;\n- le solde, lorsqu’il est prêteur, des comptes de recouvrement.\nQuotité de 75 %\nLes concours ayant au plus un (01) mois à courir consentis à la clientèle sous forme de crédits d'exploitation, de crédits d'investissement, d'opérations de crédit-bail et de location simple.\nQuotité de 60 %\nLes obligations et autres valeurs mobilières à revenu fixe émises par les entreprises publiques et privées et faisant l'objet d'une cotation sur un marché officiel algérien.\nQuotité de 50 %\nLes engagements de financement reçus des banques et établissements financiers agrées en Algérie et répondant aux conditions fixées par l’article 7 de la présente instruction.\nQuotité de 10 %\nLes actions et autres titres à revenu variable faisant l'objet d'une cotation sur un marché officiel algérien.",
+      "paragraphs": [
+        {
+          "text": "Les éléments du numérateur du coefficient de liquidité et les quotités à hauteur desquelles ils doivent être pris en considération sont précisés ci-après :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Quotité de 100 %",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- les avoirs en caisse (dinars) ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- les avoirs en comptes devises fonds propres déposés auprès de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- les avoirs à vue en dinars auprès de la Banque d'Algérie correspondant à la réserve libre et les placements à terme en dinars auprès de la Banque d’Algérie dont l'échéance n'excède pas un (01) mois ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- les dépôts auprès du Trésor Public et Algérie Poste (dépôts au Centre des",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Chèques Postaux) ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- les comptes débiteurs à vue auprès des banques et établissements financiers et des correspondants étrangers ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- les prêts sur le marché monétaire interbancaire dont l'échéance n'excède pas un",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "(01) mois ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- les bons du trésor négociables sur le marché secondaire des titres de l'Etat ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- les titres participatifs du Trésor remboursables à première demande ; - les obligations et autres valeurs mobilières à revenu fixe émises par l'Etat et faisant l'objet d'une cotation sur un marché officiel ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- le solde, lorsqu’il est prêteur, des comptes de recouvrement.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Quotité de 75 %",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Les concours ayant au plus un (01) mois à courir consentis à la clientèle sous forme de crédits d'exploitation, de crédits d'investissement, d'opérations de crédit-bail et de location simple.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Quotité de 60 %",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Les obligations et autres valeurs mobilières à revenu fixe émises par les entreprises publiques et privées et faisant l'objet d'une cotation sur un marché officiel algérien.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Quotité de 50 %",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Les engagements de financement reçus des banques et établissements financiers agrées en Algérie et répondant aux conditions fixées par l’article 7 de la présente instruction.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Quotité de 10 %",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Les actions et autres titres à revenu variable faisant l'objet d'une cotation sur un marché officiel algérien.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Ne sont pas pris en considération pour le calcul du numérateur du coefficient de liquidité :\n- les concours à la clientèle dont l'échéance n'est pas fixée ;\n- les créances classées au sens de l’article 17 de l’instruction n°74-94 du 29 novembre 1994 modifiée et complétée, relative à la fixation des règles prudentielles de gestion des banques et établissements financiers ;\n- les valeurs mobilières émises par les banques et établissements financiers et rachetées par eux-mêmes ;\n- les titres de participation et de filiales ;\n- les actifs financiers détenus jusqu’à échéance à l’exception de ceux qui viennent à échéance dans le mois à venir.",
+      "paragraphs": [
+        {
+          "text": "Ne sont pas pris en considération pour le calcul du numérateur du coefficient de liquidité :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les concours à la clientèle dont l'échéance n'est pas fixée ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les créances classées au sens de l’article 17 de l’instruction n°74-94 du 29 novembre 1994 modifiée et complétée, relative à la fixation des règles prudentielles de gestion des banques et établissements financiers ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les valeurs mobilières émises par les banques et établissements financiers et rachetées par eux-mêmes ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les titres de participation et de filiales ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les actifs financiers détenus jusqu’à échéance à l’exception de ceux qui viennent à échéance dans le mois à venir.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 3,
+      "text": "Les éléments du dénominateur du coefficient de liquidité et les quotités à hauteur desquelles ils doivent être pris en considération sont précisés ci-après :\nQuotité de 100 %\n- les comptes créditeurs à vue en dinars des banques et établissements financiers ;\n- les réescomptes auprès de la Banque d'Algérie et les refinancements dans le cadre de la politique monétaire (pensions, adjudications) dont l'échéance n'excède pas un (01) mois ;\n- les emprunts sur le marché monétaire interbancaire remboursables dans un délai ne dépassant pas un (01) mois ;\n- les emprunts obligataires, subordonnés et autres remboursables dans un délai d'un (01) mois ;\n- la partie non utilisée des accords de refinancement donnés à d’autres banques et établissements financiers n’excédant pas six (06) mois ;\n- le solde, lorsqu’il est emprunteur, des comptes de recouvrement.\nQuotité de 70 %\nLes dépôts à terme (en dinars) et les bons de caisse ayant au plus un (01) mois à courir.\nQuotité de 30 %\nLes livrets d'épargne banque.\nQuotité de 25 %\nLes dépôts à vue (en dinars) des entreprises.\nQuotité de 20 %\nLes autres dépôts à vue (en dinars).\nQuotité de 15 %\nLes livrets d'épargne logement.\nQuotité de 5 %\nLes engagements de hors bilan donnés en faveur des banques et établissements financiers autres que ceux pris à 100 %, et les engagements de hors bilan en faveur ou d'ordre de la clientèle.",
+      "paragraphs": [
+        {
+          "text": "Les éléments du dénominateur du coefficient de liquidité et les quotités à hauteur desquelles ils doivent être pris en considération sont précisés ci-après :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Quotité de 100 %",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les comptes créditeurs à vue en dinars des banques et établissements financiers ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les réescomptes auprès de la Banque d'Algérie et les refinancements dans le cadre de la politique monétaire (pensions, adjudications) dont l'échéance n'excède pas un (01) mois ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les emprunts sur le marché monétaire interbancaire remboursables dans un délai ne dépassant pas un (01) mois ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- les emprunts obligataires, subordonnés et autres remboursables dans un délai d'un (01) mois ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- la partie non utilisée des accords de refinancement donnés à d’autres banques et établissements financiers n’excédant pas six (06) mois ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- le solde, lorsqu’il est emprunteur, des comptes de recouvrement.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Quotité de 70 %",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Les dépôts à terme (en dinars) et les bons de caisse ayant au plus un (01) mois à courir.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Quotité de 30 %",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Les livrets d'épargne banque.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Quotité de 25 %",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Les dépôts à vue (en dinars) des entreprises.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Quotité de 20 %",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Les autres dépôts à vue (en dinars).",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Quotité de 15 %",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Les livrets d'épargne logement.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Quotité de 5 %",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Les engagements de hors bilan donnés en faveur des banques et établissements financiers autres que ceux pris à 100 %, et les engagements de hors bilan en faveur ou d'ordre de la clientèle.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Les engagements de financement reçus visés à l’article 4 de la présente instruction doivent :\n- être conclus par écrit ;\n- comprendre des clauses expresses d’irrévocabilité durant la période contractuelle de validité et de mise à disposition des fonds à première demande.\nLes banques et les établissements financiers assujettis adressent à la Commission\nBancaire tout élément démontrant que les conditions susvisées sont respectées lors de la mise en place de l’accord de refinancement et l’informent de toute modification susceptible de remettre en cause le respect de ces conditions.",
+      "paragraphs": [
+        {
+          "text": "Les engagements de financement reçus visés à l’article 4 de la présente instruction doivent :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- être conclus par écrit ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- comprendre des clauses expresses d’irrévocabilité durant la période contractuelle de validité et de mise à disposition des fonds à première demande.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Les banques et les établissements financiers assujettis adressent à la Commission",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Bancaire tout élément démontrant que les conditions susvisées sont respectées lors de la mise en place de l’accord de refinancement et l’informent de toute modification susceptible de remettre en cause le respect de ces conditions.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Les états visés à l’article 2 de la présente instruction sont établis pour la première fois à l’échéance du 31 janvier 2012.\nLe Gouverneur\nMohammed LAKSACI",
+      "paragraphs": [
+        {
+          "text": "Les états visés à l’article 2 de la présente instruction sont établis pour la première fois à l’échéance du 31 janvier 2012.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe 1",
+      "number": "1",
+      "heading": "à l’instruction N°07-2011",
+      "context": {},
+      "annexe": {
+        "number": "1",
+        "heading": "à l’instruction N°07-2011",
+        "label": "Annexe 1"
+      },
+      "page_start": 4,
+      "page_end": 4,
+      "text": "JOUR MOIS ANNEE\nDECLARANT………………………………………………………………………………………………………………………………………………………………\nELEMENTS DE CALCUL\nCODE\nMontants (1)\nPondération en% (2)\nMontants pondérés (3)=(1)X(2)\nLes avoirs en caisse (dinars).\n101\n100\nLes avoirs en comptes de vises fonds propres auprès de la Banque d’Algérie.\n102\n100\nLes avoirs à vue en dinars auprès de la Banque d'Algérie correspondant à la réserve libre et les placements à terme en dinars auprès de la\nBanque d’Algérie dont l'échéance n'excède pas un (01) mois.\n103\n100\nLes dépôts auprès du Trésor Public et Algérie Poste (dépôts au Centre des Chèques Postaux).\n105\n100\nLes comptes débiteurs à vue auprès des banques et établissements financiers et des correspondants étrangers.\n106\n100\nLes prêts sur le marché monétaire interbancaire dont l'échéance n'excède pas un (01) mois.\n107\n100\nLes bons du trésor négociables sur le marché secondaire des titres de l'Etat.\n108\n100\nLes titres participatifs du Trésor remboursables à première demande.\n109\n100\nLes obligations et autres valeurs mobilières à revenu fixe émises par l'Etat et faisant l'objet d'une cotation sur un marché officiel.\n110\n100\nLe solde, lorsqu’il est prêteur, des comptes de recouvrement.\n111\n100\nLes concours ayant au plus un (01) mois à courir consentis à la clientèle sous forme de crédits d'exploitation, de crédits d'investissement, d'opérations de crédit-bail, et de location simple.\n112\n75\nLes obligations et autres valeurs mobilières à revenu fixe émises par les entreprises publiques et privées et faisant l'objet d'une cotation sur un marché officiel.\n113\n60\nLes engagements de financement reçus des banques et établissements financiers agrées en Algérie et respectant les conditions fixées par l’article 6.\n114\n50\nLes actions et autres titres à revenu variable faisant l'objet d'une cotation sur un marché officiel algérien.\n115\nTOTAL DES ACTIFS DISPONIBLES REALISABLES A COURT\nTERME ET DES ENGAGEMENTS DE FINANCEMENT REÇUS",
+      "paragraphs": [
+        {
+          "text": "JOUR MOIS ANNEE",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "DECLARANT………………………………………………………………………………………………………………………………………………………………",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "ELEMENTS DE CALCUL",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "CODE",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Montants (1)",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Pondération en% (2)",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Montants pondérés (3)=(1)X(2)",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Les avoirs en caisse (dinars).",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "101",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "100",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Les avoirs en comptes de vises fonds propres auprès de la Banque d’Algérie.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "102",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "100",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Les avoirs à vue en dinars auprès de la Banque d'Algérie correspondant à la réserve libre et les placements à terme en dinars auprès de la",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Banque d’Algérie dont l'échéance n'excède pas un (01) mois.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "103",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "100",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Les dépôts auprès du Trésor Public et Algérie Poste (dépôts au Centre des Chèques Postaux).",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "105",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "100",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Les comptes débiteurs à vue auprès des banques et établissements financiers et des correspondants étrangers.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "106",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "100",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Les prêts sur le marché monétaire interbancaire dont l'échéance n'excède pas un (01) mois.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "107",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "100",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Les bons du trésor négociables sur le marché secondaire des titres de l'Etat.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "108",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "100",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Les titres participatifs du Trésor remboursables à première demande.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "109",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "100",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Les obligations et autres valeurs mobilières à revenu fixe émises par l'Etat et faisant l'objet d'une cotation sur un marché officiel.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "110",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "100",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Le solde, lorsqu’il est prêteur, des comptes de recouvrement.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "111",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "100",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Les concours ayant au plus un (01) mois à courir consentis à la clientèle sous forme de crédits d'exploitation, de crédits d'investissement, d'opérations de crédit-bail, et de location simple.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "112",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "75",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Les obligations et autres valeurs mobilières à revenu fixe émises par les entreprises publiques et privées et faisant l'objet d'une cotation sur un marché officiel.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "113",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "60",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Les engagements de financement reçus des banques et établissements financiers agrées en Algérie et respectant les conditions fixées par l’article 6.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "114",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "50",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Les actions et autres titres à revenu variable faisant l'objet d'une cotation sur un marché officiel algérien.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "115",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "TOTAL DES ACTIFS DISPONIBLES REALISABLES A COURT",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "TERME ET DES ENGAGEMENTS DE FINANCEMENT REÇUS",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe 1",
+      "number": "1",
+      "heading": "à l’instruction N°07-2011",
+      "context": {},
+      "annexe": {
+        "number": "1",
+        "heading": "à l’instruction N°07-2011",
+        "label": "Annexe 1"
+      },
+      "page_start": 5,
+      "page_end": 5,
+      "text": "JOUR MOIS ANNEE\nDECLARANT………………………………………………………………………………………………………………………………………………………………\nELEMENTS DE CALCUL\nCODE\nMontants (1)\nPondération en% (2)\nMontants pondérés (3)=(1)X(2)\nLes comptes créditeurs à vue en dinars des banques et établissements financiers.\n117\n100\nLes réescomptes auprès de la Banque d'Algérie et les refinancements dans le cadre des opérations de politique monétaire (pensions, adjudications) dont l'échéance n'excède pas un (01) mois.\n118\n100\nLes emprunts sur le marché monétaire interbancaire remboursables dans un délai ne dépassant pas un (01) mois.\n119\n100\nLes emprunts obligataires, subordonnés et autres remboursables dans un délai d'un (01) mois.\n120\n100\nLa partie non utilisée des accords de refinancement donnés à d’autres banques et établissements financiers n’excédant pas six (06) mois.\n121\n100\nLe solde, lorsqu’il est emprunteur, des comptes de recouvrement.\n122\n100\nLes dépôts à terme (en dinars) et les bons de caisse ayant au plus un\n(01) mois à courir.\n123\n70\nLes livrets d'épargne banque.\n124\n30\nLes dépôts à vue (en dinars) des entreprises.\n125\n25\nLes autres dépôts à vue (en dinars).\n126\n20\nLes livrets d'épargne logement.\n127\n15\nLes engagements de hors bilan donnés en faveur des banques et établissements financiers autres que ceux pris à 100%, et les engagements de hors bilan en faveur ou d'ordre de la clientèle.\n128\nTOTAL DES EXIGIBILITES A VUE ET A COURT TERME ET DES\nENGAGEMENTS DONNES",
+      "paragraphs": [
+        {
+          "text": "JOUR MOIS ANNEE",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "DECLARANT………………………………………………………………………………………………………………………………………………………………",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "ELEMENTS DE CALCUL",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "CODE",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Montants (1)",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Pondération en% (2)",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Montants pondérés (3)=(1)X(2)",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Les comptes créditeurs à vue en dinars des banques et établissements financiers.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "117",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "100",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Les réescomptes auprès de la Banque d'Algérie et les refinancements dans le cadre des opérations de politique monétaire (pensions, adjudications) dont l'échéance n'excède pas un (01) mois.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "118",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "100",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Les emprunts sur le marché monétaire interbancaire remboursables dans un délai ne dépassant pas un (01) mois.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "119",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "100",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Les emprunts obligataires, subordonnés et autres remboursables dans un délai d'un (01) mois.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "120",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "100",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "La partie non utilisée des accords de refinancement donnés à d’autres banques et établissements financiers n’excédant pas six (06) mois.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "121",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "100",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Le solde, lorsqu’il est emprunteur, des comptes de recouvrement.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "122",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "100",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Les dépôts à terme (en dinars) et les bons de caisse ayant au plus un",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "(01) mois à courir.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "123",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "70",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Les livrets d'épargne banque.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "124",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "30",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Les dépôts à vue (en dinars) des entreprises.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "125",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "25",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Les autres dépôts à vue (en dinars).",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "126",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "20",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Les livrets d'épargne logement.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "127",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "15",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Les engagements de hors bilan donnés en faveur des banques et établissements financiers autres que ceux pris à 100%, et les engagements de hors bilan en faveur ou d'ordre de la clientèle.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "128",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "TOTAL DES EXIGIBILITES A VUE ET A COURT TERME ET DES",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "ENGAGEMENTS DONNES",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe 1",
+      "number": "1",
+      "heading": "à l’instruction N°07-2011",
+      "context": {},
+      "annexe": {
+        "number": "1",
+        "heading": "à l’instruction N°07-2011",
+        "label": "Annexe 1"
+      },
+      "page_start": 6,
+      "page_end": 6,
+      "text": "JOUR MOIS ANNEE\nDECLARANT………………………………………………………………………………………………………………………………………………………………\nTOTAL DES ACTIFS DISPONIBLES REALISABLES A COURT TERME ET\nDES ENGAGEMENTS DE FINANCEMENT REÇUS (A)\n116\nTOTAL DES EXIGIBILITES A VUE ET A COURT TERME ET DES\nENGAGEMENTS DONNES (B)\n129\nCOEFFICIENT DE LIQUIDITE (A/B)\nEXCEDENT/INSUFFISANCE DE LIQUIDITES (A-B)",
+      "paragraphs": [
+        {
+          "text": "JOUR MOIS ANNEE",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "DECLARANT………………………………………………………………………………………………………………………………………………………………",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "TOTAL DES ACTIFS DISPONIBLES REALISABLES A COURT TERME ET",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "DES ENGAGEMENTS DE FINANCEMENT REÇUS (A)",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "116",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "TOTAL DES EXIGIBILITES A VUE ET A COURT TERME ET DES",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "ENGAGEMENTS DONNES (B)",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "129",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "COEFFICIENT DE LIQUIDITE (A/B)",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "EXCEDENT/INSUFFISANCE DE LIQUIDITES (A-B)",
+          "page_start": 6,
+          "page_end": 6
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe 2",
+      "number": "2",
+      "heading": "à l’instruction N°07-2011",
+      "context": {},
+      "annexe": {
+        "number": "2",
+        "heading": "à l’instruction N°07-2011",
+        "label": "Annexe 2"
+      },
+      "page_start": 7,
+      "page_end": 7,
+      "text": "JOUR MOIS ANNEES\nDECLARANT………………………………………………………………………………………………………………………………………………………………\nELEMENTS DE CALCUL\nCODE\nMontants (1)\nPondération en% (2)\nMontants pondérés (3)=(1)X(2)\nLes avoirs en caisse (dinars).\n201\n100\nLes avoirs en comptes de vises fonds propres auprès de la Banque d’Algérie.\n202\n100\nLes avoirs à vue en dinars auprès de la Banque d'Algérie correspondant à la réserve libre et les placements à terme en dinars à la Banque d’Algérie dont l'échéance n'excède pas trois (03) mois à partir de la date d’arrêté.\n203\n100\nLa partie non utilisée des accords de refinancement obtenus auprès de la Banque d'Algérie pour une durée n'excédant pas six (06) mois à partir de la date d’arrêté.\n204\n100\nLes dépôts auprès du Trésor Public et Algérie Poste (dépôts au Centre des Chèques Postaux).\n205\n100\nLes comptes débiteurs à vue auprès des banques et établissements financiers et des correspondants étrangers.\n206\n100\nLes prêts sur le marché monétaire interbancaire dont l'échéance n'excède pas trois (03) mois à partir de la date d’arrêté.\n207\n100\nLes bons du trésor négociables sur le marché secondaire des titres de l'Etat.\n208\n100\nLes titres participatifs du Trésor remboursables à première demande.\n209\n100\nLes obligations et autres valeurs mobilières à revenu fixe émises par l'Etat et faisant l'objet d'une cotation sur un marché officiel.\n210\n100\nLe solde, lorsqu’il est prêteur, des comptes de recouvrement.\n211\n100\nDes concours ayant au plus trois (03) mois à courir à partir de la date d’arrêté, consentis à la clientèle sous forme de crédits d'exploitation, de crédits d'investissement, d'opérations de crédit-bail, et de location simple.\n212\n75\nLes obligations et autres valeurs mobilières à revenu fixe émises par les entreprises publiques et privées et faisant l'objet d'une cotation sur un marché officiel algérien.\n213\n60\nLes engagements de financement reçus des banques et établissements financiers agrées en Algérie et respectant les conditions fixées par l’article 6.\n214\n50\nLes actions et autres titres à revenu variable faisant l'objet d'une cotation sur un marché officiel.\n215\nTOTAL DES ACTIFS DISPONIBLES REALISABLES A COURT\nTERME ET DES ENGAGEMENTS DE FINANCEMENT REÇUS",
+      "paragraphs": [
+        {
+          "text": "JOUR MOIS ANNEES",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "DECLARANT………………………………………………………………………………………………………………………………………………………………",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "ELEMENTS DE CALCUL",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "CODE",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Montants (1)",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Pondération en% (2)",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Montants pondérés (3)=(1)X(2)",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Les avoirs en caisse (dinars).",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "201",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "100",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Les avoirs en comptes de vises fonds propres auprès de la Banque d’Algérie.",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "202",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "100",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Les avoirs à vue en dinars auprès de la Banque d'Algérie correspondant à la réserve libre et les placements à terme en dinars à la Banque d’Algérie dont l'échéance n'excède pas trois (03) mois à partir de la date d’arrêté.",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "203",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "100",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "La partie non utilisée des accords de refinancement obtenus auprès de la Banque d'Algérie pour une durée n'excédant pas six (06) mois à partir de la date d’arrêté.",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "204",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "100",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Les dépôts auprès du Trésor Public et Algérie Poste (dépôts au Centre des Chèques Postaux).",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "205",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "100",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Les comptes débiteurs à vue auprès des banques et établissements financiers et des correspondants étrangers.",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "206",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "100",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Les prêts sur le marché monétaire interbancaire dont l'échéance n'excède pas trois (03) mois à partir de la date d’arrêté.",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "207",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "100",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Les bons du trésor négociables sur le marché secondaire des titres de l'Etat.",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "208",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "100",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Les titres participatifs du Trésor remboursables à première demande.",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "209",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "100",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Les obligations et autres valeurs mobilières à revenu fixe émises par l'Etat et faisant l'objet d'une cotation sur un marché officiel.",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "210",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "100",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Le solde, lorsqu’il est prêteur, des comptes de recouvrement.",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "211",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "100",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Des concours ayant au plus trois (03) mois à courir à partir de la date d’arrêté, consentis à la clientèle sous forme de crédits d'exploitation, de crédits d'investissement, d'opérations de crédit-bail, et de location simple.",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "212",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "75",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Les obligations et autres valeurs mobilières à revenu fixe émises par les entreprises publiques et privées et faisant l'objet d'une cotation sur un marché officiel algérien.",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "213",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "60",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Les engagements de financement reçus des banques et établissements financiers agrées en Algérie et respectant les conditions fixées par l’article 6.",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "214",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "50",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Les actions et autres titres à revenu variable faisant l'objet d'une cotation sur un marché officiel.",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "215",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "TOTAL DES ACTIFS DISPONIBLES REALISABLES A COURT",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "TERME ET DES ENGAGEMENTS DE FINANCEMENT REÇUS",
+          "page_start": 7,
+          "page_end": 7
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe 2",
+      "number": "2",
+      "heading": "à l’instruction N°07-2011",
+      "context": {},
+      "annexe": {
+        "number": "2",
+        "heading": "à l’instruction N°07-2011",
+        "label": "Annexe 2"
+      },
+      "page_start": 8,
+      "page_end": 8,
+      "text": "JOUR MOIS ANNEE\nDECLARANT………………………………………………………………………………………………………………………………………………………………\nELEMENTS DE CALCUL\nCODE\nMontants (1)\nPondération en% (2)\nMontants pondérés (3)=(1)X(2)\nLes comptes créditeurs à vue en dinars des banques et établissements financiers.\n217\n100\nLes réescomptes auprès de la Banque d'Algérie et les emprunts (pensions, adjudications) dont l'échéance n'excède pas trois (03) mois à partir de la date d’arrêté.\n218\n100\nLes emprunts sur le marché monétaire remboursables dans un délai ne dépassant pas trois (03) mois à partir de la date d’arrêté.\n219\n100\nLes emprunts obligataires, subordonnés et autres remboursables dans un délai de trois (03) mois à partir de la date d’arrêté.\n220\n100\nLa partie non utilisée des accords de refinancement donnés à d’autres banques et établissements financiers n’excédant pas six (06) mois à partir de la date d’arrêté.\n221\n100\nLe solde, lorsqu’il est emprunteur, des comptes de recouvrement.\n222\n100\nLes dépôts à terme (en dinars) et les bons de caisse ayant au plus trois\n(03) mois à courir à partir de la date d’arrêté.\n223\n70\nLes livrets d'épargne banque.\n224\n30\nLes dépôts à vue (en dinars) des entreprises.\n225\n25\nLes autres dépôts à vue (en dinars).\n226\n20\nLes livrets d'épargne logement.\n227\n15\nLes engagements de hors bilan donnés en faveur des banques et établissements financiers autres que ceux pris à 100%, et les engagements de hors bilan en faveur ou d'ordre de la clientèle.\n228\nTOTAL DES EXIGIBILITES A VUE ET A COURT TERME ET DES\nENGAGEMENTS DONNES",
+      "paragraphs": [
+        {
+          "text": "JOUR MOIS ANNEE",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "DECLARANT………………………………………………………………………………………………………………………………………………………………",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "ELEMENTS DE CALCUL",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "CODE",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "Montants (1)",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "Pondération en% (2)",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "Montants pondérés (3)=(1)X(2)",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "Les comptes créditeurs à vue en dinars des banques et établissements financiers.",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "217",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "100",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "Les réescomptes auprès de la Banque d'Algérie et les emprunts (pensions, adjudications) dont l'échéance n'excède pas trois (03) mois à partir de la date d’arrêté.",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "218",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "100",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "Les emprunts sur le marché monétaire remboursables dans un délai ne dépassant pas trois (03) mois à partir de la date d’arrêté.",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "219",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "100",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "Les emprunts obligataires, subordonnés et autres remboursables dans un délai de trois (03) mois à partir de la date d’arrêté.",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "220",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "100",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "La partie non utilisée des accords de refinancement donnés à d’autres banques et établissements financiers n’excédant pas six (06) mois à partir de la date d’arrêté.",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "221",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "100",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "Le solde, lorsqu’il est emprunteur, des comptes de recouvrement.",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "222",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "100",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "Les dépôts à terme (en dinars) et les bons de caisse ayant au plus trois",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "(03) mois à courir à partir de la date d’arrêté.",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "223",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "70",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "Les livrets d'épargne banque.",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "224",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "30",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "Les dépôts à vue (en dinars) des entreprises.",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "225",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "25",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "Les autres dépôts à vue (en dinars).",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "226",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "20",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "Les livrets d'épargne logement.",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "227",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "15",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "Les engagements de hors bilan donnés en faveur des banques et établissements financiers autres que ceux pris à 100%, et les engagements de hors bilan en faveur ou d'ordre de la clientèle.",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "228",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "TOTAL DES EXIGIBILITES A VUE ET A COURT TERME ET DES",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "ENGAGEMENTS DONNES",
+          "page_start": 8,
+          "page_end": 8
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe 2",
+      "number": "2",
+      "heading": "à l’instruction N°07-2011",
+      "context": {},
+      "annexe": {
+        "number": "2",
+        "heading": "à l’instruction N°07-2011",
+        "label": "Annexe 2"
+      },
+      "page_start": 9,
+      "page_end": 9,
+      "text": "JOUR MOIS ANNEE\nDECLARANT………………………………………………………………………………………………………………………………………………………………\nTOTAL DES ACTIFS DISPONIBLES, REALISABLES A COURT TERME ET\nDES ENGAGEMENTS DE FINANCEMENT REÇUS (A)\n216\nTOTAL DES EXIGIBILITES A VUE ET A COURT TERME ET DES\nENGAGEMENTS DONNES (B)\n229\nCOEFFICIENT DE LIQUIDITE D’OBSERVATION (A/B)\n230",
+      "paragraphs": [
+        {
+          "text": "JOUR MOIS ANNEE",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "DECLARANT………………………………………………………………………………………………………………………………………………………………",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "TOTAL DES ACTIFS DISPONIBLES, REALISABLES A COURT TERME ET",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "DES ENGAGEMENTS DE FINANCEMENT REÇUS (A)",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "216",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "TOTAL DES EXIGIBILITES A VUE ET A COURT TERME ET DES",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "ENGAGEMENTS DONNES (B)",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "229",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "COEFFICIENT DE LIQUIDITE D’OBSERVATION (A/B)",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "230",
+          "page_start": 9,
+          "page_end": 9
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe 3",
+      "number": "3",
+      "heading": "à l’instruction N°07-2011",
+      "context": {},
+      "annexe": {
+        "number": "3",
+        "heading": "à l’instruction N°07-2011",
+        "label": "Annexe 3"
+      },
+      "page_start": 9,
+      "page_end": 9,
+      "text": "ETAT RECAPITULATIF DES COEFFICIENTS DE LIQUIDITE – MOD. 5006 - EN\nMILLIERS DE DINARS\nDATE D’ARRETE\nJOUR MOIS ANNEES\nDECLARANT………………………………………………………………………………………………………………………………………………………………\nLIBELLE\nCODE NUMERATEUR (A)\nDENOMINATEUR (B)\nRAPPORT (A/B)\nCoefficient de liquidité à un mois (cf. modèle 5002).\n216\nCoefficient de liquidité d'observation (cf. modèle 5005).\n229\nCoefficient de liquidité relatif au deuxième mois du trimestre écoulé.\nCoefficient de liquidité relatif au troisième mois du trimestre écoulé.",
+      "paragraphs": [
+        {
+          "text": "ETAT RECAPITULATIF DES COEFFICIENTS DE LIQUIDITE – MOD. 5006 - EN",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "MILLIERS DE DINARS",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "DATE D’ARRETE",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "JOUR MOIS ANNEES",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "DECLARANT………………………………………………………………………………………………………………………………………………………………",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "LIBELLE",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "CODE NUMERATEUR (A)",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "DENOMINATEUR (B)",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "RAPPORT (A/B)",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "Coefficient de liquidité à un mois (cf. modèle 5002).",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "216",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "Coefficient de liquidité d'observation (cf. modèle 5005).",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "229",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "Coefficient de liquidité relatif au deuxième mois du trimestre écoulé.",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "Coefficient de liquidité relatif au troisième mois du trimestre écoulé.",
+          "page_start": 9,
+          "page_end": 9
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [
+    {
+      "page": 4,
+      "tables": [
+        "|ELEMENTS DE CALCUL|CODE|Montants<br>(1)|Pondération<br>en%<br>(2)|Col5|Montants<br>pondérés<br>(3)=(1)X(2)|\n|---|---|---|---|---|---|\n|Les avoirs en caisse (dinars).<br>|101||100|100||\n|Les avoirs en comptes de vises fonds propres auprès de la Banque<br>d’Algérie.|102||100|100||\n|Les avoirs à vue en dinars auprès de la Banque d'Algérie correspondant<br>à la réserve libre et les placements à terme en dinars auprès de la<br>Banque d’Algérie dont l'échéance n'excède pas un (01) mois.|103||100|100||\n|Les dépôts auprès du Trésor Public et Algérie Poste (dépôts au Centre<br>des Chèques Postaux).|105||100|100||\n|Les comptes débiteurs à vue auprès des banques et établissements<br>financiers et des correspondants étrangers.|106||100|100||\n|Les prêts sur le marché monétaire interbancaire dont l'échéance<br>n'excède pas un (01) mois.|107||100|100||\n|Les bons du trésor négociables sur le marché secondaire des titres de<br>l'Etat.|108||100|100||\n|Les titres participatifs du Trésor remboursables à première demande.<br>|109||100|100||\n|Les obligations et autres valeurs mobilières à revenu fixe émises par<br>l'Etat et faisant l'objet d'une cotation sur un marché officiel.|110||100|100||\n|Le solde, lorsqu’il est prêteur, des comptes de recouvrement.<br>|111||100|100||\n|Les concours ayant au plus un (01) mois à courir consentis à la<br>clientèle sous forme de crédits d'exploitation, de crédits<br>d'investissement, d'opérations de crédit-bail, et de location simple.|112||75|75||\n|Les obligations et autres valeurs mobilières à revenu fixe émises par<br>les entreprises publiques et privées et faisant l'objet d'une cotation sur<br>un marché officiel.|113||60|60||\n|Les engagements de financement reçus des banques et établissements<br>financiers agrées en Algérie et respectant les conditions fixées par<br>l’article 6.|<br> <br>114||50|50||\n|Les actions et autres titres à revenu variable faisant l'objet d'une<br>cotation sur un marché officiel algérien.|115||10|10||\n|**TOTAL DES ACTIFS DISPONIBLES REALISABLES A COURT**<br>**TERME ET DES ENGAGEMENTS DE FINANCEMENT REÇUS**|**116**|||||\n\n"
+      ]
+    },
+    {
+      "page": 5,
+      "tables": [
+        "|ELEMENTS DE CALCUL|CODE|Montants<br>(1)|Pondération<br>en%<br>(2)|Col5|Montants<br>pondérés<br>(3)=(1)X(2)|\n|---|---|---|---|---|---|\n|Les comptes créditeurs à vue en dinars des banques et établissements<br>financiers.|117||100|100||\n|Les réescomptes auprès de la Banque d'Algérie et les refinancements<br>dans le cadre des opérations de politique monétaire (pensions,<br>adjudications) dont l'échéance n'excède pas un (01) mois.|118||100|100||\n|Les emprunts sur le marché monétaire interbancaire remboursables<br>dans un délai ne dépassant pas un (01) mois.|119||100|100||\n|Les emprunts obligataires, subordonnés et autres remboursables dans<br>un délai d'un (01) mois.|120||100|100||\n|La partie non utilisée des accords de refinancement donnés à d’autres<br>banques et établissements financiers n’excédant pas six (06) mois.|121||100|100||\n|Le solde, lorsqu’il est emprunteur, des comptes de recouvrement.<br>|122||100|100||\n|Les dépôts à terme (en dinars) et les bons de caisse ayant au plus un<br>(01) mois à courir.|123||70|70||\n|Les livrets d'épargne banque.<br>|124||30|30||\n|Les dépôts à vue (en dinars) des entreprises.|125||25|25||\n|Les autres dépôts à vue (en dinars).|126||20|20||\n|Les livrets d'épargne logement.|127||15|15||\n|Les engagements de hors bilan donnés en faveur des banques et<br>établissements financiers autres que ceux pris à 100%, et les<br>engagements de hors bilan en faveur ou d'ordre de la clientèle.|128||5|5||\n|**TOTAL DES EXIGIBILITES A VUE ET A COURT TERME ET DES**<br>**ENGAGEMENTS DONNES**|129|||||\n\n"
+      ]
+    },
+    {
+      "page": 6,
+      "tables": [
+        "|TOTAL DES ACTIFS DISPONIBLES REALISABLES A COURT TERME ET<br>DES ENGAGEMENTS DE FINANCEMENT REÇUS (A)|116|Col3|Col4|Col5|\n|---|---|---|---|---|\n||||||\n|**TOTAL DES EXIGIBILITES A VUE ET A COURT TERME ET DES**<br>**ENGAGEMENTS DONNES(B)  **|**129**||||\n||||||\n|**COEFFICIENT DE LIQUIDITE (A/B)**|**130**||||\n||||||\n|**EXCEDENT/INSUFFISANCE DE LIQUIDITES (A-B)**|**131**||||\n\n"
+      ]
+    },
+    {
+      "page": 7,
+      "tables": [
+        "|ELEMENTS DE CALCUL|CODE|Montants<br>(1)|Pondération<br>en%<br>(2)|Col5|Montants<br>pondérés<br>(3)=(1)X(2)|\n|---|---|---|---|---|---|\n|Les avoirs en caisse (dinars).<br>|201||100|100||\n|Les avoirs en comptes de vises fonds propres auprès de la Banque<br>d’Algérie.|202||100|100||\n|Les avoirs à vue en dinars auprès de la Banque d'Algérie correspondant<br>à la réserve libre et les placements à terme en dinars à la Banque<br>d’Algérie dont l'échéance n'excède pas trois (03) mois à partir de la<br>date d’arrêté.|203||100|100||\n|La partie non utilisée des accords de refinancement obtenus auprès de<br>la Banque d'Algérie pour une durée n'excédant pas six (06) mois à<br>partir de la date d’arrêté.|204||100|100||\n|Les dépôts auprès du Trésor Public et Algérie Poste (dépôts au Centre<br>des Chèques Postaux).|205||100|100||\n|Les comptes débiteurs à vue auprès des banques et établissements<br>financiers et des correspondants étrangers.|206||100|100||\n|Les prêts sur le marché monétaire interbancaire dont l'échéance<br>n'excède pas trois (03) mois à partir de la date d’arrêté.|207||100|100||\n|Les bons du trésor négociables sur le marché secondaire des titres de<br>l'Etat.|208||100|100||\n|Les titres participatifs du Trésor remboursables à première demande.<br>|209||100|100||\n|Les obligations et autres valeurs mobilières à revenu fixe émises par<br>l'Etat et faisant l'objet d'une cotation sur un marché officiel.|210||100|100||\n|Le solde, lorsqu’il est prêteur, des comptes de recouvrement.<br>|211||100|100||\n|Des concours ayant au plus trois (03) mois à courir à partir de la date<br>d’arrêté, consentis à la clientèle sous forme de crédits d'exploitation,<br>de crédits d'investissement, d'opérations de crédit-bail, et de location<br>simple.|212||75|75||\n|Les obligations et autres valeurs mobilières à revenu fixe émises par<br>les entreprises publiques et privées et faisant l'objet d'une cotation sur<br>un marché officiel algérien.|213||60|60||\n|Les engagements de financement reçus des banques et établissements<br>financiers agrées en Algérie et respectant les conditions fixées par<br>l’article 6.|<br> <br>214||50|50||\n|Les actions et autres titres à revenu variable faisant l'objet d'une<br>cotation sur un marché officiel.|215||10|10||\n|**TOTAL DES ACTIFS DISPONIBLES REALISABLES A COURT**<br>**TERME ET DES ENGAGEMENTS DE FINANCEMENT REÇUS**|**116**|||||\n\n"
+      ]
+    },
+    {
+      "page": 8,
+      "tables": [
+        "|ELEMENTS DE CALCUL|CODE|Montants<br>(1)|Pondération<br>en%<br>(2)|Col5|Montants<br>pondérés<br>(3)=(1)X(2)|\n|---|---|---|---|---|---|\n|Les comptes créditeurs à vue en dinars des banques et établissements<br>financiers.|217||100|100||\n|Les réescomptes auprès de la Banque d'Algérie et les emprunts<br>(pensions, adjudications) dont l'échéance n'excède pas trois (03) mois<br>à partir de la date d’arrêté.|218||100|100||\n|Les emprunts sur le marché monétaire remboursables dans un délai ne<br>dépassant pas trois (03) mois à partir de la date d’arrêté.|219||100|100||\n|Les emprunts obligataires, subordonnés et autres remboursables dans<br>un délai de trois (03) mois à partir de la date d’arrêté.|220||100|100||\n|La partie non utilisée des accords de refinancement donnés à d’autres<br>banques et établissements financiers n’excédant pas six (06) mois à<br>partir de la date d’arrêté.|221||100|100||\n|Le solde, lorsqu’il est emprunteur, des comptes de recouvrement.<br>|222||100|100||\n|Les dépôts à terme (en dinars) et les bons de caisse ayant au plus trois<br>(03) mois à courir à partir de la date d’arrêté.|223||70|70||\n|Les livrets d'épargne banque.<br>|224||30|30||\n|Les dépôts à vue (en dinars) des entreprises.|225||25|25||\n|Les autres dépôts à vue (en dinars).|226||20|20||\n|Les livrets d'épargne logement.|227||15|15||\n|Les engagements de hors bilan donnés en faveur des banques et<br>établissements financiers autres que ceux pris à 100%, et les<br>engagements de hors bilan en faveur ou d'ordre de la clientèle.|228||5|5||\n|**TOTAL DES EXIGIBILITES A VUE ET A COURT TERME ET DES**<br>**ENGAGEMENTS DONNES**|**229**|||||\n\n"
+      ]
+    },
+    {
+      "page": 9,
+      "tables": [
+        "|TOTAL DES ACTIFS DISPONIBLES, REALISABLES A COURT TERME ET<br>DES ENGAGEMENTS DE FINANCEMENT REÇUS (A)|216|Col3|Col4|Col5|\n|---|---|---|---|---|\n||||||\n|**TOTAL DES EXIGIBILITES A VUE ET A COURT TERME ET DES**<br>**ENGAGEMENTS DONNES(B) **|**229**||||\n||||||\n|**COEFFICIENT DE LIQUIDITE D’OBSERVATION (A/B)**|**230**||||\n\n",
+        "|LIBELLE|CODE|NUMERATEUR<br>(A)|DENOMINATEUR<br>(B)|RAPPORT<br>(A/B)|\n|---|---|---|---|---|\n|**Coefficient de liquidité à un mois (cf. modèle 5002).**<br>|**216**||||\n||||||\n|**Coefficient de liquidité d'observation (cf. modèle 5005).**|**229**||||\n||||||\n|**Coefficient de liquidité relatif au deuxième mois du**<br>**trimestre écoulé.**|**230**||||\n||||||\n|**Coefficient de liquidité relatif au troisième mois du**<br>**trimestre écoulé.**|**230**||||\n\n"
+      ]
+    }
+  ],
+  "quality": {
+    "flags": [
+      "meme_texte_plusieurs_fichiers"
+    ],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.076
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-07-11.fr.txt"
+}

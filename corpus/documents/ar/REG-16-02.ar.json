@@ -1,0 +1,440 @@
+{
+  "document_id": "REG-16-02.ar",
+  "work_id": "REG-16-02",
+  "title": "نظام رقم 16-02 المؤرخ في 21 ابريل 2016، يحدد سقف التصريح باستيراد وتصدير الأوراق النقدية و/او الأدوات القابلة للتداول المحررة بالعملات الأجنبية القابلة للتحويل بصفة حرة من طرف المقيمين وغير المقيمين.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "16-02",
+  "number_source": "libelle",
+  "date": "2016-04-21",
+  "date_raw": "المؤرخ في 21 ابريل 2016",
+  "date_source": "libelle",
+  "publication_date": "2023-02-28",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "règlements",
+  "subcategory": "تنظيم الصرف",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%aa%d9%86%d8%b8%d9%8a%d9%85-%d8%a7%d9%84%d8%b5%d8%b1%d9%81-2/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/02/02-2016.pdf",
+  "format": "pdf",
+  "file_hash": "874490a4d3c7efc6eedb350815ac0bbf8328a503e01e4e7132506cd2864ae1e4",
+  "file_size": 202569,
+  "raw_path": "raw/874490a4d3c7__02-2016.pdf",
+  "retrieved_at": "2026-10-05T13:27:53+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 2,
+  "url_hash": "9c89dec614523ae933364d8a233318e34e47ddeac6a6b68e91c43efb46ad0b3d",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%aa%d9%86%d8%b8%d9%8a%d9%85-%d8%a7%d9%84%d8%b5%d8%b1%d9%81-2/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document2",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20230228092713+01'00'",
+    "modDate": "D:20230228092713+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 1940,
+        "ocr_confidence": 77.71470588235294
+      },
+      {
+        "page": 2,
+        "method": "ocr",
+        "chars": 1393,
+        "ocr_confidence": 80.9535864978903
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 3,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine",
+    "numerotation:articles_manquants:[2, 3, 5, 6]"
+  ],
+  "title_document": "نظام رقم 02-16 مؤرخ في 13 رجب عام 1437 الموافق 21 أبريل ستة 2016 : يهدد سقف التصريح باستيراد وتصدير الأوراق النقدية 91/9 الآدوات القابلة للتداول المهررة بالعملات الأجِنبية القابلة للتهسويل بصفة هرة من طرف المقيمين près‏ المقيمين. إن محافظ بنك الجزائر. بمقتضى القانون رقم 79 07 الممؤر خ في 26",
+  "alias_urls": [],
+  "text_hash": "d6517ed41df42c5ac1e583ea56a3fe3f1bc55c49ece7ce1eb24a238c3d6f6cb5",
+  "relations_out": [
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "07-01",
+        "date": null,
+        "raw": "règlement n° 07-01"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Toutes dispositions contraires au présent règlement, notamment les articles 19 et 20 du règlement n° 07-01 février 2007 susvisé, sont abrogées.",
+        "copied_from": "REG-16-02.fr"
+      },
+      "target_work_id": "REG-07-01"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "REG-07-01",
+      "reference": "règlement n° 07-01",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Toutes dispositions contraires au présent règlement, notamment les articles 19 et 20 du règlement n° 07-01 février 2007 susvisé, sont abrogées.",
+        "copied_from": "REG-16-02.fr"
+      }
+    }
+  ],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [
+    {
+      "work_id": "REG-24-05",
+      "document_id": "REG-24-05.fr",
+      "date": "2024-10-13",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°24-05 du 13 octobre 2024 modifiant et complétant le règlement n°16-02 du 21 avril 2016 fixant le seuil de déclaration d’import"
+      }
+    },
+    {
+      "work_id": "REG-24-05",
+      "document_id": "REG-24-05.fr",
+      "date": "2024-10-13",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter les dispositions du règlement n°16-02 du 13 Rajab 1437 correspondant au 21 avril 2016 fixant l"
+      }
+    }
+  ],
+  "complete_par": [
+    {
+      "work_id": "REG-24-05",
+      "document_id": "REG-24-05.fr",
+      "date": "2024-10-13",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°24-05 du 13 octobre 2024 modifiant et complétant le règlement n°16-02 du 21 avril 2016 fixant le seuil de déclaration d’import"
+      }
+    },
+    {
+      "work_id": "REG-24-05",
+      "document_id": "REG-24-05.fr",
+      "date": "2024-10-13",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter les dispositions du règlement n°16-02 du 13 Rajab 1437 correspondant au 21 avril 2016 fixant l"
+      }
+    }
+  ],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée. Ce texte a été modifié/complété : consulter aussi les textes listés dans modifié_par / complété_par.",
+  "same_work_documents": [
+    "REG-16-02.fr"
+  ],
+  "complété_par": [
+    {
+      "work_id": "REG-24-05",
+      "document_id": "REG-24-05.fr",
+      "date": "2024-10-13",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°24-05 du 13 octobre 2024 modifiant et complétant le règlement n°16-02 du 21 avril 2016 fixant le seuil de déclaration d’import"
+      }
+    },
+    {
+      "work_id": "REG-24-05",
+      "document_id": "REG-24-05.fr",
+      "date": "2024-10-13",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter les dispositions du règlement n°16-02 du 13 Rajab 1437 correspondant au 21 avril 2016 fixant l"
+      }
+    }
+  ],
+  "modifié_par": [
+    {
+      "work_id": "REG-24-05",
+      "document_id": "REG-24-05.fr",
+      "date": "2024-10-13",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°24-05 du 13 octobre 2024 modifiant et complétant le règlement n°16-02 du 21 avril 2016 fixant le seuil de déclaration d’import"
+      }
+    },
+    {
+      "work_id": "REG-24-05",
+      "document_id": "REG-24-05.fr",
+      "date": "2024-10-13",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 2,
+        "quote": "Le présent règlement a pour objet de modifier et de compléter les dispositions du règlement n°16-02 du 13 Rajab 1437 correspondant au 21 avril 2016 fixant l"
+      }
+    }
+  ],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "ocr_numeric_check": {
+    "units": 4,
+    "units_flagged": 0,
+    "units_compared_with_french": 3,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "نظام رقم 02-16 مؤرخ في 13 رجب عام 1437 الموافق 21 أبريل ستة 2016 : يهدد سقف التصريح باستيراد وتصدير الأوراق النقدية 91/9 الآدوات القابلة للتداول المهررة بالعملات الأجِنبية القابلة للتهسويل بصفة هرة من طرف المقيمين près‏ المقيمين.\nإن محافظ بنك الجزائر.\nبمقتضى القانون رقم 79 07 الممؤر خ في 26 شعبان ن ele‏ 1399 الوافق 21 يوليو سنة 19/9 والتضمن عام 1417 الموافق 9 يوليو سنة 1996 والمتعلق بقمع مخالفة التشريم والتنظيم الخاصين بالصرف وحركة رؤّوس الأموال من وإلى الخارج:؛ المعدل pal‏ 27 رقم 11-03 الؤرخ في‎ juil uns us جمادى الثائية عام 1424 الموافق 26 غشت سنة 2003 والمتعلق بالئقد والقرض: المعدل والمتمم: لا Si gli Less‏ 5 و62 ais)‏ م) و127 منه؛ ويمسفتضى القائنون رقم 05 1 المؤر = خ في si‏ di‏ عام 1425 الموافق 6 js | pi‏ سسئة 2005 والمتعلق بالوقاية من تببيض الأموال وتمويل الإرهضاب ومكافحتهما. المعدّل والمتمم.\nويبمفقتضى القائون رقم 15 15 الممؤرخ في 18 ربيع الأول عام1437 الموافق 30 ديس م بر سسنة 2015 والتضمن قانون المالية لسنة 2016. لا سيماالمادة 72 Lens وبمقتضى المرسوم الرئاسي المؤرخ في 10 ربيء الأول عام 1422 الموافق 2 يونيو سنة 2001 لبنك الجزائر:\nذي القعدة عام 1424 الموافق 14 polis‏ سنة 2004 والتضمن tte‏ أعشساء مجلس النقد والقرض ut‏ السزائر لأولى عام 1427 SI‏ فق أول pre‏ سنة 2006 والملتضمن تعيين أعضاء في مجلس إدارة بنك الجزائر, وبمقتضى النظام رقم 95 8 المؤرخ في 30 رجب عام 1416 الموافق 23 ديسمبر ستة 1995 والمتعلق بسوق وبمقتضى النظام رقم 01-07 المؤرخ في 15 محرم عام 1428 الموافق 3 فبراير سنة 2007 والمتعلق بالقواعد اللطبقة على المعاملات الجارية مع الخارج والحسايات بالعملة الصعيبة: المعدل والمتمم.\nوبمقتضى النظام رقم 03-12 المؤرخ في 14 محرم عام 1434 الموافق 28 نوفمبر سنة 2012 والمتعلق بالوقاية من تبييض الأموال وتمويل الإرهضاب ومكافحتهما.\nsus‏ الاطلاع على مداولات مجلس النقد والقرض بتاريخ 21 أبريل سنة 2016, بصدر النظام الآتيى نتصه :",
+      "paragraphs": [
+        {
+          "text": "نظام رقم 02-16 مؤرخ في 13 رجب عام 1437 الموافق 21 أبريل ستة 2016 : يهدد سقف التصريح باستيراد وتصدير الأوراق النقدية 91/9 الآدوات القابلة للتداول المهررة بالعملات الأجِنبية القابلة للتهسويل بصفة هرة من طرف المقيمين près‏ المقيمين.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "إن محافظ بنك الجزائر.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "بمقتضى القانون رقم 79 07 الممؤر خ في 26 شعبان ن ele‏ 1399 الوافق 21 يوليو سنة 19/9 والتضمن عام 1417 الموافق 9 يوليو سنة 1996 والمتعلق بقمع مخالفة التشريم والتنظيم الخاصين بالصرف وحركة رؤّوس الأموال من وإلى الخارج:؛ المعدل pal‏ 27 رقم 11-03 الؤرخ في‎ juil uns us جمادى الثائية عام 1424 الموافق 26 غشت سنة 2003 والمتعلق بالئقد والقرض: المعدل والمتمم: لا Si gli Less‏ 5 و62 ais)‏ م) و127 منه؛ ويمسفتضى القائنون رقم 05 1 المؤر = خ في si‏ di‏ عام 1425 الموافق 6 js | pi‏ سسئة 2005 والمتعلق بالوقاية من تببيض الأموال وتمويل الإرهضاب ومكافحتهما. المعدّل والمتمم.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ويبمفقتضى القائون رقم 15 15 الممؤرخ في 18 ربيع الأول عام1437 الموافق 30 ديس م بر سسنة 2015 والتضمن قانون المالية لسنة 2016. لا سيماالمادة 72 Lens وبمقتضى المرسوم الرئاسي المؤرخ في 10 ربيء الأول عام 1422 الموافق 2 يونيو سنة 2001 لبنك الجزائر:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ذي القعدة عام 1424 الموافق 14 polis‏ سنة 2004 والتضمن tte‏ أعشساء مجلس النقد والقرض ut‏ السزائر لأولى عام 1427 SI‏ فق أول pre‏ سنة 2006 والملتضمن تعيين أعضاء في مجلس إدارة بنك الجزائر, وبمقتضى النظام رقم 95 8 المؤرخ في 30 رجب عام 1416 الموافق 23 ديسمبر ستة 1995 والمتعلق بسوق وبمقتضى النظام رقم 01-07 المؤرخ في 15 محرم عام 1428 الموافق 3 فبراير سنة 2007 والمتعلق بالقواعد اللطبقة على المعاملات الجارية مع الخارج والحسايات بالعملة الصعيبة: المعدل والمتمم.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى النظام رقم 03-12 المؤرخ في 14 محرم عام 1434 الموافق 28 نوفمبر سنة 2012 والمتعلق بالوقاية من تبييض الأموال وتمويل الإرهضاب ومكافحتهما.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "sus‏ الاطلاع على مداولات مجلس النقد والقرض بتاريخ 21 أبريل سنة 2016, بصدر النظام الآتيى نتصه :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "يهدف هذا النظام إلى تحديد سقف القادمين من الخارج أو المتوجهين إلى الخارج باستيراد وتصدير الأوراق النقدية و/أو الأدوات القابلة للتداول المصررة بالعملات الأجنبية LUI‏ للتحويل بصفة حرة.\nGt‏ 2 : يرخص باستيراد الأوراق النقدية وكل أدذاة أخرى قابلة للتداول محررة بالعملات الأجنبية الوقاء بإلزامية التصريح JS‏ مبلغ يساوي أو يفوق المبلغ الأدنى المحدد في 341 3 أدنان.\nالادة 3 : يلزم المسافرون المذكورون في المادة الأولى أعلاه. بالتصريح لدى مكتب sie sd La all‏ الدخول إلى التراب الوطني وعند الخروج us‏ بالأوراق النقدية و/,أو كل أداة أخرى قائبلة للتداول محررة بالعملات الأجنبية قابلة للتحويل بصفة حرة التي يستوردونها أو يصدر ونهاإذا كان ميلغها يساوي أو بفوق ما يعادل قيمة ألف (1.000) أورو.\nالحمارك لاستمارة التصريح.",
+      "paragraphs": [
+        {
+          "text": "يهدف هذا النظام إلى تحديد سقف القادمين من الخارج أو المتوجهين إلى الخارج باستيراد وتصدير الأوراق النقدية و/أو الأدوات القابلة للتداول المصررة بالعملات الأجنبية LUI‏ للتحويل بصفة حرة.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Gt‏ 2 : يرخص باستيراد الأوراق النقدية وكل أدذاة أخرى قابلة للتداول محررة بالعملات الأجنبية الوقاء بإلزامية التصريح JS‏ مبلغ يساوي أو يفوق المبلغ الأدنى المحدد في 341 3 أدنان.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "الادة 3 : يلزم المسافرون المذكورون في المادة الأولى أعلاه. بالتصريح لدى مكتب sie sd La all‏ الدخول إلى التراب الوطني وعند الخروج us‏ بالأوراق النقدية و/,أو كل أداة أخرى قائبلة للتداول محررة بالعملات الأجنبية قابلة للتحويل بصفة حرة التي يستوردونها أو يصدر ونهاإذا كان ميلغها يساوي أو بفوق ما يعادل قيمة ألف (1.000) أورو.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "الحمارك لاستمارة التصريح.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "يمكن المسافرين غير الملقيمين تصدير الأوراق النقدية و/أو الأدوات القابلة للتحويل والمحررة الملستوردة وغير اللستعملة في الجزائر. باستظهار استمارة التصريح بالاستيراد لدى مكتب الممارك تحمل ختم شباك بنك الجزائر أو شباك بنك وسيط معتمد و/أو مكتب صرفء تثبت عمليات الصرف التي قاموا بها خلال تواجدهم بالحزائر.\nلا تصلح الاستمارة النصوص عليها في الفقرة أعلاه: إلا لإقامة واحدة.\nللادة 5 nan:‏ النظر عن أحكام المادة 4 أعلاذ.\nالجزائر وبمناسبة كل سفرء بتصدير :\nمبلغ أقصاه ما يعادل 7.500 (سبعة آلاف وخمسمانة) أورو. مسحويا من حساب مصرفي بالعملة الحزائر.\nals :6 Li‏ كل الأحكاء المضشضالفة لهذا النظام, لا سيما المادتان 19 و20 من النظام رقم 01-07 المؤرخ في 15 محرم عام 1428 الموافق 3 فبراير سنة 7, المعدل والمتمم والمذكور أعلاه.",
+      "paragraphs": [
+        {
+          "text": "يمكن المسافرين غير الملقيمين تصدير الأوراق النقدية و/أو الأدوات القابلة للتحويل والمحررة الملستوردة وغير اللستعملة في الجزائر. باستظهار استمارة التصريح بالاستيراد لدى مكتب الممارك تحمل ختم شباك بنك الجزائر أو شباك بنك وسيط معتمد و/أو مكتب صرفء تثبت عمليات الصرف التي قاموا بها خلال تواجدهم بالحزائر.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "لا تصلح الاستمارة النصوص عليها في الفقرة أعلاه: إلا لإقامة واحدة.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "للادة 5 nan:‏ النظر عن أحكام المادة 4 أعلاذ.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "الجزائر وبمناسبة كل سفرء بتصدير :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "مبلغ أقصاه ما يعادل 7.500 (سبعة آلاف وخمسمانة) أورو. مسحويا من حساب مصرفي بالعملة الحزائر.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "als :6 Li‏ كل الأحكاء المضشضالفة لهذا النظام, لا سيما المادتان 19 و20 من النظام رقم 01-07 المؤرخ في 15 محرم عام 1428 الموافق 3 فبراير سنة 7, المعدل والمتمم والمذكور أعلاه.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "ينشر هذا النظام في الجريدة الرسمية للجمهورية الجزائرية الديمقراطية الشعبية.\nحصرر بالجزائشر في 13 رجب عام 1437 الموافق 21 أبريل سنة 2016.\ngd as",
+      "paragraphs": [
+        {
+          "text": "ينشر هذا النظام في الجريدة الرسمية للجمهورية الجزائرية الديمقراطية الشعبية.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "حصرر بالجزائشر في 13 رجب عام 1437 الموافق 21 أبريل سنة 2016.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "gd as",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine",
+      "numerotation:articles_manquants:[2, 3, 5, 6]"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.033,
+      "ocr_pages": [
+        1,
+        2
+      ],
+      "ocr_mean_confidence": 79.3
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/REG-16-02.ar.txt"
+}

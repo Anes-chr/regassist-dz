@@ -1,0 +1,1647 @@
+{
+  "document_id": "REG-25-05.fr",
+  "work_id": "REG-25-05",
+  "title": "Règlement n°25-05 du 28 Moharram 1447 correspondant au 24 juillet 2025 relatif aux règles d’évaluation et de comptabilisation des opérations sur titres par les banques et les établissements financiers.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "25-05",
+  "number_source": "en-tête du document",
+  "date": "2025-07-24",
+  "date_raw": "CORRESPONDANT AU 24 JUILLET 2025",
+  "date_source": "en-tête du document",
+  "publication_date": "2025-10",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "règlements",
+  "subcategory": "25 Septembre 2025",
+  "source_url": "https://www.bank-of-algeria.dz/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2025/10/REG-N%C2%B025-05-FR.pdf",
+  "format": "pdf",
+  "file_hash": "3f9719b0866211947c61381f7f83967cad466834e9d951bc6242977b706ed142",
+  "file_size": 160960,
+  "raw_path": "raw/3f9719b08662__REG-N_25-05-FR.pdf",
+  "retrieved_at": "2026-10-05T13:31:28+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 9,
+  "url_hash": "17a3719497f201bc3d81bd20204df31bf2e43f426c77bf53ce63aaff57a61836",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/",
+    "https://www.bank-of-algeria.dz/regles-comptables-et-declarations-statistiques-par-banques-etablissements-financiers-reglement/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "(Microsoft Word - REG N\\26025-05 FR)",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20251007110012+01'00'",
+    "modDate": "D:20251007110012+01'00'"
+  },
+  "hijri_date_raw": "16 Rajab 1431",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 9,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2386,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 2355,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 2141,
+        "ocr_confidence": null
+      },
+      {
+        "page": 4,
+        "method": "pdf_text",
+        "chars": 2171,
+        "ocr_confidence": null
+      },
+      {
+        "page": 5,
+        "method": "pdf_text",
+        "chars": 2133,
+        "ocr_confidence": null
+      },
+      {
+        "page": 6,
+        "method": "pdf_text",
+        "chars": 2516,
+        "ocr_confidence": null
+      },
+      {
+        "page": 7,
+        "method": "pdf_text",
+        "chars": 2450,
+        "ocr_confidence": null
+      },
+      {
+        "page": 8,
+        "method": "pdf_text",
+        "chars": 2685,
+        "ocr_confidence": null
+      },
+      {
+        "page": 9,
+        "method": "pdf_text",
+        "chars": 2632,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 30,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "REGLEMENT N°25-05 DU 28 MOHARRAM 1447 CORRESPONDANT AU 24 JUILLET 2025 RELATIF AUX REGLES D'EVALUATION ET DE COMPTABILISATION DES OPERATIONS SUR",
+  "alias_urls": [
+    {
+      "document_url": "https://www.bank-of-algeria.dz/stoodroa/2025/10/REG-N°25-05-FR.pdf",
+      "source_url": "https://www.bank-of-algeria.dz/regles-comptables-et-declarations-statistiques-par-banques-etablissements-financiers-reglement/",
+      "title": "Règlement n°25-05 du 28 Moharram 1447 correspondant au 24 juillet 2025 relatif aux règles d’évaluation et de comptabilisation des opérations sur titres par les banques et les établissements financiers ."
+    }
+  ],
+  "text_hash": "60e3343e9865789acef6e3566a7c756d3dd2aeb6b24c940dca7bbe3e2448d3b2",
+  "relations_out": [
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "09-08",
+        "date": null,
+        "raw": "règlement n°09- 08"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 9,
+        "quote": "Sont abrogées, toutes dispositions contraires, notamment celles du règlement n°09- 08 correspondant du 12 Moharram 1431 corre"
+      },
+      "target_work_id": "REG-09-08"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "REG-09-08",
+      "reference": "règlement n°09- 08",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 9,
+        "quote": "Sont abrogées, toutes dispositions contraires, notamment celles du règlement n°09- 08 correspondant du 12 Moharram 1431 corre"
+      }
+    }
+  ],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-25-05.ar"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 4,
+      "page_end": 5,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "page_start": 5,
+      "page_end": 5,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "page_start": 5,
+      "page_end": 5,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "page_start": 5,
+      "page_end": 6,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "page_start": 6,
+      "page_end": 6,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "page_start": 6,
+      "page_end": 6,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "page_start": 6,
+      "page_end": 6,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "page_start": 6,
+      "page_end": 6,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 16",
+      "number": "16",
+      "heading": null,
+      "page_start": 6,
+      "page_end": 7,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 17",
+      "number": "17",
+      "heading": null,
+      "page_start": 7,
+      "page_end": 7,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 18",
+      "number": "18",
+      "heading": null,
+      "page_start": 7,
+      "page_end": 7,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 19",
+      "number": "19",
+      "heading": null,
+      "page_start": 7,
+      "page_end": 8,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 20",
+      "number": "20",
+      "heading": null,
+      "page_start": 8,
+      "page_end": 8,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 21",
+      "number": "21",
+      "heading": null,
+      "page_start": 8,
+      "page_end": 8,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 22",
+      "number": "22",
+      "heading": null,
+      "page_start": 8,
+      "page_end": 8,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 23",
+      "number": "23",
+      "heading": null,
+      "page_start": 8,
+      "page_end": 9,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 24",
+      "number": "24",
+      "heading": null,
+      "page_start": 9,
+      "page_end": 9,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 25",
+      "number": "25",
+      "heading": null,
+      "page_start": 9,
+      "page_end": 9,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 26",
+      "number": "26",
+      "heading": null,
+      "page_start": 9,
+      "page_end": 9,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 27",
+      "number": "27",
+      "heading": null,
+      "page_start": 9,
+      "page_end": 9,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 28",
+      "number": "28",
+      "heading": null,
+      "page_start": 9,
+      "page_end": 9,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 29",
+      "number": "29",
+      "heading": null,
+      "page_start": 9,
+      "page_end": 9,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 30",
+      "number": "30",
+      "heading": null,
+      "page_start": 9,
+      "page_end": 9,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°25-05 DU 28 MOHARRAM 1447 CORRESPONDANT\nAU 24 JUILLET 2025 RELATIF AUX REGLES D'EVALUATION\nET DE COMPTABILISATION DES OPERATIONS SUR TITRES\nPAR LES BANQUES ET LES ETABLISSEMENTS FINANCIERS\nLe Gouverneur de la Banque d’Algérie,\n- Vu la loi n°07-11 du 15 Dhou El Kaâda 1428 correspondant au 25 novembre 2007, modifiée, portant système comptable financier ;\n- Vu la loi n° 10-01 du 16 Rajab 1431 correspondant au 29 juin 2010, modifiée, relative aux professions d’expert-comptable, de commissaire aux comptes et de comptable agréé ;\n- Vu la loi n°23-09 du 3 Dhou El Hidja 1444 correspondant au 21 juin 2023 portant loi monétaire et bancaire, notamment son article 64, point j ;\n- Vu le décret présidentiel du 22 Chaoual 1443 correspondant au 23 mai 2022 portant nomination du Gouverneur de la Banque d’Algérie ;\n- Vu le décret présidentiel du 5 Safar 1437 correspondant au 17 novembre 2015 portant nomination de membres du conseil d’administration de la Banque d’Algérie ;\n- Vu le décret Présidentiel du 18 Rabie Ethani 1441 correspondant au 15 décembre 2019 portant nomination de\nVice-gouverneurs de la\nBanque d’Algérie ;\n- Vu le décret Présidentiel du 6 Ramadhan 1443 correspondant au 7 avril 2022 portant nomination de membres du conseil d’administration de la\nBanque d’Algérie ;\n- Vu le décret présidentiel du 12 Joumada El Oula 1444 correspondant au 6 décembre 2022 portant nomination d’un membre du Conseil de la monnaie et du crédit;\n- Vu le décret Présidentiel du 18 Joumada Ethania 1445 correspondant au 31 décembre 2023 portant nomination de Vice-gouverneurs de la Banque d’Algérie ;\n- Vu le décret présidentiel du 4 Chaâbane 1445 correspondant au 14 février 2024 portant nomination d’un membre du conseil d’administration de la Banque d’Algérie ;\n- Vu le règlement n°09-08 du 12 Moharram 1431 correspondant au 29 décembre 2009 relatif aux règles d'évaluation et de comptabilisation des instruments financiers par les banques et les établissements financiers ;\nAprès la délibération du Conseil monétaire et bancaire en date du 24 juillet 2025 ;\nPromulgue le règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°25-05 DU 28 MOHARRAM 1447 CORRESPONDANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AU 24 JUILLET 2025 RELATIF AUX REGLES D'EVALUATION",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET DE COMPTABILISATION DES OPERATIONS SUR TITRES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "PAR LES BANQUES ET LES ETABLISSEMENTS FINANCIERS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d’Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la loi n°07-11 du 15 Dhou El Kaâda 1428 correspondant au 25 novembre 2007, modifiée, portant système comptable financier ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la loi n° 10-01 du 16 Rajab 1431 correspondant au 29 juin 2010, modifiée, relative aux professions d’expert-comptable, de commissaire aux comptes et de comptable agréé ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la loi n°23-09 du 3 Dhou El Hidja 1444 correspondant au 21 juin 2023 portant loi monétaire et bancaire, notamment son article 64, point j ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 22 Chaoual 1443 correspondant au 23 mai 2022 portant nomination du Gouverneur de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 5 Safar 1437 correspondant au 17 novembre 2015 portant nomination de membres du conseil d’administration de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret Présidentiel du 18 Rabie Ethani 1441 correspondant au 15 décembre 2019 portant nomination de",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Vice-gouverneurs de la",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret Présidentiel du 6 Ramadhan 1443 correspondant au 7 avril 2022 portant nomination de membres du conseil d’administration de la",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 12 Joumada El Oula 1444 correspondant au 6 décembre 2022 portant nomination d’un membre du Conseil de la monnaie et du crédit;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret Présidentiel du 18 Joumada Ethania 1445 correspondant au 31 décembre 2023 portant nomination de Vice-gouverneurs de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 4 Chaâbane 1445 correspondant au 14 février 2024 portant nomination d’un membre du conseil d’administration de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le règlement n°09-08 du 12 Moharram 1431 correspondant au 29 décembre 2009 relatif aux règles d'évaluation et de comptabilisation des instruments financiers par les banques et les établissements financiers ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Après la délibération du Conseil monétaire et bancaire en date du 24 juillet 2025 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le présent règlement a pour objet de fixer les règles d'évaluation et de comptabilisation des opérations sur titres par les banques et les établissements financiers désignés ci-après « assujettis ».",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement a pour objet de fixer les règles d'évaluation et de comptabilisation des opérations sur titres par les banques et les établissements financiers désignés ci-après « assujettis ».",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 3,
+      "text": "Au sens du présent règlement, on entend par :\na) \"Taux d'intérêt effectif (TIE)\" : taux qui actualise les sorties ou entrées de trésorerie futures estimées sur la durée de vie attendue d'un actif financier ou d'un passif financier, de manière à obtenir exactement la valeur comptable brute de l'actif financier ou le coût amorti du passif financier.\nb) \"Filiale\" : sous réserve des dispositions du code de commerce, la filiale est une entité contrôlée par l’assujetti. Il y a contrôle lorsque l’assujetti est exposé ou a des droits sur les rendements variables, en raison de ses liens avec l’entité et qu’il a la capacité d’influencer sur ces rendements du fait du pouvoir qu’il détient.\nc) \"Co-entreprise\" : une co-entreprise est un partenariat dans lequel l’assujetti exerce un contrôle conjoint sur l’entreprise et a des droits sur l’actif net de celle-ci.\nd) \"Entité associée\" : l’entreprise associée est une entité sur laquelle l’assujetti a une influence notable. L'influence notable est présumée exister dans les cas suivants :\n- détention (directe ou indirecte) de 20% ou plus des droits de vote ;\n- représentation dans les organes dirigeants ;\n- participation au processus d'élaboration des politiques stratégiques ;\n- transactions d'importance significative, échange d'informations techniques essentielles ou échange de cadres et de dirigeants.\ne) \"Modèle économique\" : le modèle économique définit les modalités d'appréciation de la performance du portefeuille par les dirigeants de l’assujetti compte tenu de l'intention de gestion retenue.\nf) \"Coût amorti\" : valeur attribuée à un actif financier ou à un passif financier lors de sa comptabilisation initiale :\n- diminuée des remboursements en principal ;\n- majorée ou diminuée de l'amortissement cumulé, calculé selon la méthode du taux d'intérêt effectif, de toute différence entre cette valeur initiale et la valeur à l'échéance ;\net - dans le cas d'un actif financier ajustée au titre de la correction de valeur pour pertes, le cas échéant.\ng) \"Méthode du taux d'intérêt effectif (TIE)\" : méthode servant au calcul du coût amorti d'un actif financier ou d'un passif financier ainsi qu'à l'imputation des produits d'intérêts ou des charges d'intérêts afin qu'ils soient comptabilisés en résultat net dans la période pertinente.\nh) \"Juste valeur niveau 1\" : les justes valeurs de niveau 1 s’entendent des cours (non ajustés)\nauxquels l’entité peut avoir accès à la date d’évaluation, sur des marchés actifs, pour des actifs ou des passifs identiques.\ni) \"Juste valeur niveau 2\" : les justes valeurs de niveau 2 sont des données concernant l’actif ou le passif, autres que les cours du marché inclus dans les données d’entrées de niveau 1, qui sont observables directement ou indirectement.\nj) \"Juste valeur niveau 3\" : les justes valeurs de niveau 3 sont des données non observables concernant l’actif ou le passif.\nk) \"Indication objective de dépréciation\" : est considérée comme une indication objective de dépréciation, toute donnée observable portée à la connaissance de l'entité sur les évènements générateurs de pertes suivants:\n- des difficultés financières importantes de l’émetteur ;\n- un manquement à un contrat, tel qu’un défaut ou un paiement en souffrance ;\n- l’octroi d’un financement pour des raisons économiques ou contractuelles liées aux difficultés financières de l’émetteur ;\n- la probabilité croissante de faillite ou de restructuration financière de l’émetteur ;\n- la disparition d’un marché actif pour le titre en raison de difficultés financières ;\n- l’achat ou la création d’un actif financier avec une forte décote ;\n- l’existence d’impayés de plus de quatre-vingt dix (90) jours sur un actif financier.\nl) \"Valeur comptable brute d'un actif financier\" : est le coût amorti d'un actif financier, avant toute correction de valeur pour pertes.\nm) \"Autres titres du passif\" : autres titres inscrits au passif, définis par la législation en vigueur.",
+      "paragraphs": [
+        {
+          "text": "Au sens du présent règlement, on entend par :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "a) \"Taux d'intérêt effectif (TIE)\" : taux qui actualise les sorties ou entrées de trésorerie futures estimées sur la durée de vie attendue d'un actif financier ou d'un passif financier, de manière à obtenir exactement la valeur comptable brute de l'actif financier ou le coût amorti du passif financier.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "b) \"Filiale\" : sous réserve des dispositions du code de commerce, la filiale est une entité contrôlée par l’assujetti. Il y a contrôle lorsque l’assujetti est exposé ou a des droits sur les rendements variables, en raison de ses liens avec l’entité et qu’il a la capacité d’influencer sur ces rendements du fait du pouvoir qu’il détient.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "c) \"Co-entreprise\" : une co-entreprise est un partenariat dans lequel l’assujetti exerce un contrôle conjoint sur l’entreprise et a des droits sur l’actif net de celle-ci.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "d) \"Entité associée\" : l’entreprise associée est une entité sur laquelle l’assujetti a une influence notable. L'influence notable est présumée exister dans les cas suivants :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- détention (directe ou indirecte) de 20% ou plus des droits de vote ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- représentation dans les organes dirigeants ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- participation au processus d'élaboration des politiques stratégiques ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- transactions d'importance significative, échange d'informations techniques essentielles ou échange de cadres et de dirigeants.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "e) \"Modèle économique\" : le modèle économique définit les modalités d'appréciation de la performance du portefeuille par les dirigeants de l’assujetti compte tenu de l'intention de gestion retenue.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "f) \"Coût amorti\" : valeur attribuée à un actif financier ou à un passif financier lors de sa comptabilisation initiale :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- diminuée des remboursements en principal ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- majorée ou diminuée de l'amortissement cumulé, calculé selon la méthode du taux d'intérêt effectif, de toute différence entre cette valeur initiale et la valeur à l'échéance ;",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "et - dans le cas d'un actif financier ajustée au titre de la correction de valeur pour pertes, le cas échéant.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "g) \"Méthode du taux d'intérêt effectif (TIE)\" : méthode servant au calcul du coût amorti d'un actif financier ou d'un passif financier ainsi qu'à l'imputation des produits d'intérêts ou des charges d'intérêts afin qu'ils soient comptabilisés en résultat net dans la période pertinente.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "h) \"Juste valeur niveau 1\" : les justes valeurs de niveau 1 s’entendent des cours (non ajustés)",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "auxquels l’entité peut avoir accès à la date d’évaluation, sur des marchés actifs, pour des actifs ou des passifs identiques.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "i) \"Juste valeur niveau 2\" : les justes valeurs de niveau 2 sont des données concernant l’actif ou le passif, autres que les cours du marché inclus dans les données d’entrées de niveau 1, qui sont observables directement ou indirectement.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "j) \"Juste valeur niveau 3\" : les justes valeurs de niveau 3 sont des données non observables concernant l’actif ou le passif.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "k) \"Indication objective de dépréciation\" : est considérée comme une indication objective de dépréciation, toute donnée observable portée à la connaissance de l'entité sur les évènements générateurs de pertes suivants:",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- des difficultés financières importantes de l’émetteur ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- un manquement à un contrat, tel qu’un défaut ou un paiement en souffrance ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- l’octroi d’un financement pour des raisons économiques ou contractuelles liées aux difficultés financières de l’émetteur ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- la probabilité croissante de faillite ou de restructuration financière de l’émetteur ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- la disparition d’un marché actif pour le titre en raison de difficultés financières ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- l’achat ou la création d’un actif financier avec une forte décote ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- l’existence d’impayés de plus de quatre-vingt dix (90) jours sur un actif financier.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "l) \"Valeur comptable brute d'un actif financier\" : est le coût amorti d'un actif financier, avant toute correction de valeur pour pertes.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "m) \"Autres titres du passif\" : autres titres inscrits au passif, définis par la législation en vigueur.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Sont considérés comme des titres :\n- les valeurs mobilières ;\n- les bons et obligations du Trésor ;\n- les instruments du marché interbancaire ;\n- toutes autres créances représentées par un titre négociable.",
+      "paragraphs": [
+        {
+          "text": "Sont considérés comme des titres :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- les valeurs mobilières ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- les bons et obligations du Trésor ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- les instruments du marché interbancaire ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- toutes autres créances représentées par un titre négociable.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 4,
+      "text": "Les titres se décomposent en titres de créances et en titres de propriété.\nLes titres de créance ou à revenu fixe sont, notamment :\n- des titres à taux d'intérêt fixe ;\n- des titres à taux d'intérêt variable.\nLes titres subordonnés sont traités comme des instruments de dettes, dès lors qu'il est possible de calculer un taux d'intérêt effectif (TIE).\nLes titres de propriété sont des titres de capitaux propres, ou des titres à revenu variable.\nI.\nCLASSIFICATION",
+      "paragraphs": [
+        {
+          "text": "Les titres se décomposent en titres de créances et en titres de propriété.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Les titres de créance ou à revenu fixe sont, notamment :",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- des titres à taux d'intérêt fixe ;",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "- des titres à taux d'intérêt variable.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Les titres subordonnés sont traités comme des instruments de dettes, dès lors qu'il est possible de calculer un taux d'intérêt effectif (TIE).",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Les titres de propriété sont des titres de capitaux propres, ou des titres à revenu variable.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "I.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "CLASSIFICATION",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Les titres à l'actif en fonction de l’intention de leur détention, sont classés dans les rubriques suivantes:\n- titres détenus à des fins de transaction ;\n- titres de placement ;\n- titres détenus jusqu’à leur échéance ;\n- titres de participation dans les filiales, les co-entreprises et les entités associées ;\n- autres titres de participation ;\n- autres titres immobilisés.\nLes titres classés dans les catégories de titres de placement, autres titres de participation et autres titres immobilisés, sont considérés comme des « actifs financiers disponibles à la vente ».\nL’intention de gestion détermine le modèle économique retenu par l’assujetti. Ce modèle économique détermine les règles de comptabilisation.",
+      "paragraphs": [
+        {
+          "text": "Les titres à l'actif en fonction de l’intention de leur détention, sont classés dans les rubriques suivantes:",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- titres détenus à des fins de transaction ;",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- titres de placement ;",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- titres détenus jusqu’à leur échéance ;",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- titres de participation dans les filiales, les co-entreprises et les entités associées ;",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- autres titres de participation ;",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- autres titres immobilisés.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Les titres classés dans les catégories de titres de placement, autres titres de participation et autres titres immobilisés, sont considérés comme des « actifs financiers disponibles à la vente ».",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "L’intention de gestion détermine le modèle économique retenu par l’assujetti. Ce modèle économique détermine les règles de comptabilisation.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Sont classés dans la catégorie de « titres détenus à des fins de transaction » les titres négociables sur un marché qui, à l'origine, sont :\n- acquis ou vendus avec l'intention de les revendre ou de les racheter à court terme ;\n- détenus par l’assujetti, du fait de son activité de mainteneur de marché.\nLe modèle économique des titres détenus à des fins de transaction, est la recherche de gains à court terme.",
+      "paragraphs": [
+        {
+          "text": "Sont classés dans la catégorie de « titres détenus à des fins de transaction » les titres négociables sur un marché qui, à l'origine, sont :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- acquis ou vendus avec l'intention de les revendre ou de les racheter à court terme ;",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- détenus par l’assujetti, du fait de son activité de mainteneur de marché.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Le modèle économique des titres détenus à des fins de transaction, est la recherche de gains à court terme.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Sont classés dans la catégorie « titres de placement », les titres qui ne peuvent être classés dans une autre catégorie de titres, notamment :\n- les titres de créance détenus à long terme et qui ne satisfont pas aux critères de clas-sement dans la rubrique « titres détenus jusqu'à leur échéance» ;\n- les titres détenus dans le cadre d'une activité de capital-risque.\nLe modèle économique des titres de placement repose sur la perception des flux de trésorerie et de leur vente.",
+      "paragraphs": [
+        {
+          "text": "Sont classés dans la catégorie « titres de placement », les titres qui ne peuvent être classés dans une autre catégorie de titres, notamment :",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- les titres de créance détenus à long terme et qui ne satisfont pas aux critères de clas-sement dans la rubrique « titres détenus jusqu'à leur échéance» ;",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "- les titres détenus dans le cadre d'une activité de capital-risque.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Le modèle économique des titres de placement repose sur la perception des flux de trésorerie et de leur vente.",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 4,
+      "page_end": 5,
+      "text": "Sont classés dans la catégorie de « titres détenus jusqu’à leur échéance », les titres de créance assortis d’une échéance fixée dont l’assujetti à l’intention manifeste et la capacité de détenir jusqu'à leur échéance.\nL’assujetti doit être en mesure de calculer le coût amorti selon la méthode du taux d'intérêt effectif (TIE).\nLes titres subordonnés assimilés à des titres de créance, peuvent figurer dans cette catégorie.\nLe modèle économique des titres détenus jusqu’à leur échéance, repose sur la perception des flux de trésorerie contractuels.\nLes ventes qui ne remettent pas en cause ce modèle économique sont celles liées :\n- à la gestion du risque de crédit ;\n- à des cessions isolées ;\n- à la perception d’un montant correspondant approximativement aux flux de trésorerie contractuels restant à percevoir.",
+      "paragraphs": [
+        {
+          "text": "Sont classés dans la catégorie de « titres détenus jusqu’à leur échéance », les titres de créance assortis d’une échéance fixée dont l’assujetti à l’intention manifeste et la capacité de détenir jusqu'à leur échéance.",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "L’assujetti doit être en mesure de calculer le coût amorti selon la méthode du taux d'intérêt effectif (TIE).",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Les titres subordonnés assimilés à des titres de créance, peuvent figurer dans cette catégorie.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Le modèle économique des titres détenus jusqu’à leur échéance, repose sur la perception des flux de trésorerie contractuels.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Les ventes qui ne remettent pas en cause ce modèle économique sont celles liées :",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- à la gestion du risque de crédit ;",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- à des cessions isolées ;",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "- à la perception d’un montant correspondant approximativement aux flux de trésorerie contractuels restant à percevoir.",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 5,
+      "text": "Sont classés dans les catégories « titres de participation dans les filiales, les co-entreprises et les entités associées » et « autres titres de participation », les titres qui ne sont pas détenus dans l’unique perspective d’une cession dans un proche avenir.\nCes titres de participation sont des titres dont la possession durable est estimée utile à l’activité de l’assujetti et permet d’exercer une influence sur la société émettrice des titres ou d’en avoir le contrôle.",
+      "paragraphs": [
+        {
+          "text": "Sont classés dans les catégories « titres de participation dans les filiales, les co-entreprises et les entités associées » et « autres titres de participation », les titres qui ne sont pas détenus dans l’unique perspective d’une cession dans un proche avenir.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Ces titres de participation sont des titres dont la possession durable est estimée utile à l’activité de l’assujetti et permet d’exercer une influence sur la société émettrice des titres ou d’en avoir le contrôle.",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 5,
+      "text": "Sont classés dans la catégorie « autres titres immobilisés », les autres titres des sociétés dont la possession durable est estimée utile à l’activité de l’assujetti et/ou ceux acquis, en vertu d’une disposition légale ou réglementaire.\nLes titres subordonnés classés dans cette catégorie, sont affectés dans des comptes appropriés.\nII.\nCOMPTABILISATION",
+      "paragraphs": [
+        {
+          "text": "Sont classés dans la catégorie « autres titres immobilisés », les autres titres des sociétés dont la possession durable est estimée utile à l’activité de l’assujetti et/ou ceux acquis, en vertu d’une disposition légale ou réglementaire.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Les titres subordonnés classés dans cette catégorie, sont affectés dans des comptes appropriés.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "II.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "COMPTABILISATION",
+          "page_start": 5,
+          "page_end": 5
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 5,
+      "page_end": 6,
+      "text": "Le portefeuille de titres dont le modèle économique repose sur « la recherche de gains à court terme », est évalué à la juste valeur par résultat.\nLe portefeuille de titres dont le modèle économique repose sur « la perception des flux de trésorerie et de la vente », est évalué à la juste valeur par les capitaux propres (autres éléments du résultat global).\nL'évaluation par la juste valeur des portefeuilles titres, est effectuée selon une hiérarchie à trois niveaux 1, 2 et 3.\nLe portefeuille de titres dont le modèle économique repose sur la « perception des flux de trésorerie contractuels » est évalué au coût amorti.\na. Comptabilisation initiale",
+      "paragraphs": [
+        {
+          "text": "Le portefeuille de titres dont le modèle économique repose sur « la recherche de gains à court terme », est évalué à la juste valeur par résultat.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Le portefeuille de titres dont le modèle économique repose sur « la perception des flux de trésorerie et de la vente », est évalué à la juste valeur par les capitaux propres (autres éléments du résultat global).",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "L'évaluation par la juste valeur des portefeuilles titres, est effectuée selon une hiérarchie à trois niveaux 1, 2 et 3.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "Le portefeuille de titres dont le modèle économique repose sur la « perception des flux de trésorerie contractuels » est évalué au coût amorti.",
+          "page_start": 5,
+          "page_end": 5
+        },
+        {
+          "text": "a. Comptabilisation initiale",
+          "page_start": 6,
+          "page_end": 6
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 6,
+      "page_end": 6,
+      "text": "Les titres sont comptabilisés initialement au coût d’acquisition qui est la juste valeur de la contrepartie donnée ou reçue pour acquérir cet actif, y compris les frais de transaction (les frais de courtage, les taxes non déductibles et les frais de banque) inclus.\nPour les titres détenus à des fins de transaction, les frais de transaction sont comptabilisés directement en charges.\nPour les titres de créance, à l’exception de ceux classés en titres détenus à des fins de transaction, les assujettis déterminent le taux d’intérêt effectif (TIE) et ventilent le coût d’acquisition dans trois (3) comptes distincts : le premier enregistre la valeur de remboursement, le deuxième la surcote/décote actuarielle et le troisième les créances rattachées représentant les intérêts courus constatés lors de l’acquisition des titres.\nLorsque le coût d'acquisition des titres à revenu fixe est supérieur à leur prix de remboursement (surcote), la différence est amortie sur la durée de vie résiduelle des titres. Lorsque le coût d'acquisition des titres à revenu fixe est inférieur à leur prix de remboursement (décote), la différence est portée en produits sur la durée de vie résiduelle des titres. L'étalement de ces différences est réalisé en utilisant la méthode du taux d’intérêt effectif (TIE).",
+      "paragraphs": [
+        {
+          "text": "Les titres sont comptabilisés initialement au coût d’acquisition qui est la juste valeur de la contrepartie donnée ou reçue pour acquérir cet actif, y compris les frais de transaction (les frais de courtage, les taxes non déductibles et les frais de banque) inclus.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Pour les titres détenus à des fins de transaction, les frais de transaction sont comptabilisés directement en charges.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Pour les titres de créance, à l’exception de ceux classés en titres détenus à des fins de transaction, les assujettis déterminent le taux d’intérêt effectif (TIE) et ventilent le coût d’acquisition dans trois (3) comptes distincts : le premier enregistre la valeur de remboursement, le deuxième la surcote/décote actuarielle et le troisième les créances rattachées représentant les intérêts courus constatés lors de l’acquisition des titres.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Lorsque le coût d'acquisition des titres à revenu fixe est supérieur à leur prix de remboursement (surcote), la différence est amortie sur la durée de vie résiduelle des titres. Lorsque le coût d'acquisition des titres à revenu fixe est inférieur à leur prix de remboursement (décote), la différence est portée en produits sur la durée de vie résiduelle des titres. L'étalement de ces différences est réalisé en utilisant la méthode du taux d’intérêt effectif (TIE).",
+          "page_start": 6,
+          "page_end": 6
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 6,
+      "page_end": 6,
+      "text": "Si le titre est négocié sur un marché officiel, dont le délai entre les dates de négociation et de règlement/livraison est fixé, l’enregistrement de l’achat ou de la vente est réalisé au bilan, à la date de négociation :\n- l'enregistrement des acquisitions conduit à inscrire au bilan, dès cette date, en contrepartie d'une dette au passif ;\n- l'enregistrement des cessions conduit à sortir du bilan, dès cette date, les titres à livrer ;\nen contrepartie, une créance sur l'acquéreur est enregistrée à l'actif pour le prix de cession des titres.\nb. Evaluation des titres à la date d’arrêté",
+      "paragraphs": [
+        {
+          "text": "Si le titre est négocié sur un marché officiel, dont le délai entre les dates de négociation et de règlement/livraison est fixé, l’enregistrement de l’achat ou de la vente est réalisé au bilan, à la date de négociation :",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "- l'enregistrement des acquisitions conduit à inscrire au bilan, dès cette date, en contrepartie d'une dette au passif ;",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "- l'enregistrement des cessions conduit à sortir du bilan, dès cette date, les titres à livrer ;",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "en contrepartie, une créance sur l'acquéreur est enregistrée à l'actif pour le prix de cession des titres.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "b. Evaluation des titres à la date d’arrêté",
+          "page_start": 6,
+          "page_end": 6
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 6,
+      "page_end": 6,
+      "text": "Les titres détenus à des fins de transaction sont évalués, après leur comptabilisation initiale, à la juste valeur par le résultat net. Les variations de la juste valeur afférentes à ces actifs financiers sont comptabilisées au compte de résultats.",
+      "paragraphs": [
+        {
+          "text": "Les titres détenus à des fins de transaction sont évalués, après leur comptabilisation initiale, à la juste valeur par le résultat net. Les variations de la juste valeur afférentes à ces actifs financiers sont comptabilisées au compte de résultats.",
+          "page_start": 6,
+          "page_end": 6
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 6,
+      "page_end": 6,
+      "text": "Les titres détenus jusqu’à leur échéance sont évalués, après leur comptabilisation initiale, au coût amorti.",
+      "paragraphs": [
+        {
+          "text": "Les titres détenus jusqu’à leur échéance sont évalués, après leur comptabilisation initiale, au coût amorti.",
+          "page_start": 6,
+          "page_end": 6
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 16",
+      "number": "16",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 6,
+      "page_end": 7,
+      "text": "Les actifs financiers disponibles à la vente sont évalués, après leur comptabilisation initiale, à leur juste valeur par les capitaux propres.\nLes écarts d’évaluation dégagés entre la juste valeur et le coût amorti pour les titres de créances ou le coût pour les autres titres, sont comptabilisés directement en diminution (pertes latentes)\nou en augmentation (gains latents) des capitaux propres.\nLes titres non cotés ou dont la juste valeur ne peut être déterminée de façon fiable, sont évalués :\n- au coût historique pour les titres à revenu variable ;\n- au coût amorti pour les titres à revenu fixe.",
+      "paragraphs": [
+        {
+          "text": "Les actifs financiers disponibles à la vente sont évalués, après leur comptabilisation initiale, à leur juste valeur par les capitaux propres.",
+          "page_start": 6,
+          "page_end": 6
+        },
+        {
+          "text": "Les écarts d’évaluation dégagés entre la juste valeur et le coût amorti pour les titres de créances ou le coût pour les autres titres, sont comptabilisés directement en diminution (pertes latentes)",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "ou en augmentation (gains latents) des capitaux propres.",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Les titres non cotés ou dont la juste valeur ne peut être déterminée de façon fiable, sont évalués :",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "- au coût historique pour les titres à revenu variable ;",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "- au coût amorti pour les titres à revenu fixe.",
+          "page_start": 7,
+          "page_end": 7
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 17",
+      "number": "17",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 7,
+      "page_end": 7,
+      "text": "Les titres de participation dans les filiales, les co-entreprises et les entités associées sont évalués au coût historique et sont soumis à un test de dépréciation, au moins, annuellement ou lors de la constatation de toute indication objective de dépréciation.\nc. Pertes de valeur (test de dépréciation)",
+      "paragraphs": [
+        {
+          "text": "Les titres de participation dans les filiales, les co-entreprises et les entités associées sont évalués au coût historique et sont soumis à un test de dépréciation, au moins, annuellement ou lors de la constatation de toute indication objective de dépréciation.",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "c. Pertes de valeur (test de dépréciation)",
+          "page_start": 7,
+          "page_end": 7
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 18",
+      "number": "18",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 7,
+      "page_end": 7,
+      "text": "A l’exception des titres détenus à des fins de transaction, tout titre présentant une indication objective de dépréciation ou soumis à un test de dépréciation doit faire l’objet d’une dépréciation.\nPour les titres de créances, le montant de la perte de valeur est égal à la différence entre le coût amorti avant correction de valeur et les flux de trésorerie estimés, actualisés au taux d’intérêt effectif (TIE) calculés lors de la comptabilisation initiale.\nPour les titres de propriété, le montant de la perte de valeur est égal à la différence entre le coût et la juste valeur. Si la juste valeur ne peut être déterminée, l'assujetti définit la valeur, laquelle ne peut pas être supérieure au coût corrigé du cumul des résultats non distribués, revenant au titre, depuis sa comptabilisation initiale.\nPour un actif disponible à la vente évalué à la juste valeur, la perte nette cumulée (y compris la dépréciation), directement comptabilisée en capitaux propres, est transférée au compte de résultats, en tant que perte de valeur.\nAu titre du présent article, les pertes de valeur des titres à revenu variable ne font pas l’objet d’une reprise en cas d’amélioration future de la qualité du titre.\nd. Enregistrement des produits",
+      "paragraphs": [
+        {
+          "text": "A l’exception des titres détenus à des fins de transaction, tout titre présentant une indication objective de dépréciation ou soumis à un test de dépréciation doit faire l’objet d’une dépréciation.",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Pour les titres de créances, le montant de la perte de valeur est égal à la différence entre le coût amorti avant correction de valeur et les flux de trésorerie estimés, actualisés au taux d’intérêt effectif (TIE) calculés lors de la comptabilisation initiale.",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Pour les titres de propriété, le montant de la perte de valeur est égal à la différence entre le coût et la juste valeur. Si la juste valeur ne peut être déterminée, l'assujetti définit la valeur, laquelle ne peut pas être supérieure au coût corrigé du cumul des résultats non distribués, revenant au titre, depuis sa comptabilisation initiale.",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Pour un actif disponible à la vente évalué à la juste valeur, la perte nette cumulée (y compris la dépréciation), directement comptabilisée en capitaux propres, est transférée au compte de résultats, en tant que perte de valeur.",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Au titre du présent article, les pertes de valeur des titres à revenu variable ne font pas l’objet d’une reprise en cas d’amélioration future de la qualité du titre.",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "d. Enregistrement des produits",
+          "page_start": 7,
+          "page_end": 7
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 19",
+      "number": "19",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 7,
+      "page_end": 8,
+      "text": "Pour les titres détenus à des fins de transaction, les produits et les pertes résultent de l’enregistrement des variations des valeurs en distinguant les intérêts, les dividendes et les autres éléments de variation.\nPour les titres de créance comptabilisés dans les autres portefeuilles, les produits sont enregistrés selon la méthode du taux d’intérêt effectif (TIE).\nPour les titres à revenu variable comptabilisés dans les autres portefeuilles, les produits sont constitués des dividendes ainsi que des autres éléments de rémunération.\ne. Décomptabilisation du titre",
+      "paragraphs": [
+        {
+          "text": "Pour les titres détenus à des fins de transaction, les produits et les pertes résultent de l’enregistrement des variations des valeurs en distinguant les intérêts, les dividendes et les autres éléments de variation.",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Pour les titres de créance comptabilisés dans les autres portefeuilles, les produits sont enregistrés selon la méthode du taux d’intérêt effectif (TIE).",
+          "page_start": 7,
+          "page_end": 7
+        },
+        {
+          "text": "Pour les titres à revenu variable comptabilisés dans les autres portefeuilles, les produits sont constitués des dividendes ainsi que des autres éléments de rémunération.",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "e. Décomptabilisation du titre",
+          "page_start": 8,
+          "page_end": 8
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 20",
+      "number": "20",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 8,
+      "page_end": 8,
+      "text": "Un titre est décomptabilisé dès lors qu’il est vendu, recouvré et, en cas de transfert à un tiers, avec tous les risques et avantages qui s’y rattachent.\nLors de la décomptabilisation d’un titre, la différence entre sa valeur comptable et la contrepartie reçue doit être comptabilisée au compte de résultats. Les montants constatés en capitaux propres sont soldés par le compte de résultats.\nIII.\nRECLASSEMENT",
+      "paragraphs": [
+        {
+          "text": "Un titre est décomptabilisé dès lors qu’il est vendu, recouvré et, en cas de transfert à un tiers, avec tous les risques et avantages qui s’y rattachent.",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "Lors de la décomptabilisation d’un titre, la différence entre sa valeur comptable et la contrepartie reçue doit être comptabilisée au compte de résultats. Les montants constatés en capitaux propres sont soldés par le compte de résultats.",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "III.",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "RECLASSEMENT",
+          "page_start": 8,
+          "page_end": 8
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 21",
+      "number": "21",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 8,
+      "page_end": 8,
+      "text": "Lorsque l’assujetti change de modèle économique pour la gestion de ses titres, et seulement alors, il doit reclasser tous les titres concernés.\nDe tels changements sont censés être très peu fréquents. Ils sont décidés par l'organe exécutif de l’assujetti à la suite de changements externes ou internes ; ils doivent être importants pour l'exploitation de l'assujetti qui doit pouvoir en faire la preuve devant des parties externes. Ils ne peuvent se produire que lorsqu'il commence ou cesse une activité importante pour son exploitation.\nA cette fin, l’assujetti transmet à la Commission Bancaire la documentation concernant tout reclassement avant sa réalisation. Les commissaires aux comptes sont tenus informés.\nL'assujetti doit appliquer le reclassement de manière prospective, à compter de la date de reclassement. Il ne doit pas retraiter les profits, les pertes (y compris les gains ou les pertes de valeur) et les intérêts comptabilisés antérieurement.",
+      "paragraphs": [
+        {
+          "text": "Lorsque l’assujetti change de modèle économique pour la gestion de ses titres, et seulement alors, il doit reclasser tous les titres concernés.",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "De tels changements sont censés être très peu fréquents. Ils sont décidés par l'organe exécutif de l’assujetti à la suite de changements externes ou internes ; ils doivent être importants pour l'exploitation de l'assujetti qui doit pouvoir en faire la preuve devant des parties externes. Ils ne peuvent se produire que lorsqu'il commence ou cesse une activité importante pour son exploitation.",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "A cette fin, l’assujetti transmet à la Commission Bancaire la documentation concernant tout reclassement avant sa réalisation. Les commissaires aux comptes sont tenus informés.",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "L'assujetti doit appliquer le reclassement de manière prospective, à compter de la date de reclassement. Il ne doit pas retraiter les profits, les pertes (y compris les gains ou les pertes de valeur) et les intérêts comptabilisés antérieurement.",
+          "page_start": 8,
+          "page_end": 8
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 22",
+      "number": "22",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 8,
+      "page_end": 8,
+      "text": "Si l’assujetti reclasse un titre détenu à des fins de transaction dans l’un des portefeuilles évalué à la juste valeur par capitaux propres (disponibles à la vente) ou détenus jusqu’à leur échéance, la juste valeur du titre à la date du reclassement devient sa nouvelle valeur comptable brute. Le titre demeure évalué à la juste valeur.\nPour les titres de créance, cette juste valeur est retenue pour la détermination du taux d'intérêt effectif (TIE).",
+      "paragraphs": [
+        {
+          "text": "Si l’assujetti reclasse un titre détenu à des fins de transaction dans l’un des portefeuilles évalué à la juste valeur par capitaux propres (disponibles à la vente) ou détenus jusqu’à leur échéance, la juste valeur du titre à la date du reclassement devient sa nouvelle valeur comptable brute. Le titre demeure évalué à la juste valeur.",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "Pour les titres de créance, cette juste valeur est retenue pour la détermination du taux d'intérêt effectif (TIE).",
+          "page_start": 8,
+          "page_end": 8
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 23",
+      "number": "23",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 8,
+      "page_end": 9,
+      "text": "Si l’assujetti reclasse un titre classé dans l’un des portefeuilles de \"titres disponibles à la vente\" vers les \"titres détenus à des fins de transaction\", le titre reste évalué à la juste valeur.\nLe cumul des gains et pertes comptabilisés antérieurement dans les capitaux propres, est reclassé au compte de résultats à la date du reclassement.\nSi l’assujetti reclasse un titre classé dans l’un des portefeuilles de « titres disponibles à la vente » vers les « titres détenus jusqu’à leur échéance », le titre reste évalué à la juste valeur jusqu’à la date du reclassement.\nLe cumul des gains et des pertes comptabilisés antérieurement dans les capitaux propres, est sorti des capitaux propres par ajustement de la valeur comptable du titre. Par conséquent, le titre est évalué comme s’il avait toujours été évalué au coût amorti pour les titres de créances ou au coût pour les autres titres. Ce reclassement n’a aucun impact sur le taux d'intérêt effectif (TIE) d’origine des titres de créances.",
+      "paragraphs": [
+        {
+          "text": "Si l’assujetti reclasse un titre classé dans l’un des portefeuilles de \"titres disponibles à la vente\" vers les \"titres détenus à des fins de transaction\", le titre reste évalué à la juste valeur.",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "Le cumul des gains et pertes comptabilisés antérieurement dans les capitaux propres, est reclassé au compte de résultats à la date du reclassement.",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "Si l’assujetti reclasse un titre classé dans l’un des portefeuilles de « titres disponibles à la vente » vers les « titres détenus jusqu’à leur échéance », le titre reste évalué à la juste valeur jusqu’à la date du reclassement.",
+          "page_start": 8,
+          "page_end": 8
+        },
+        {
+          "text": "Le cumul des gains et des pertes comptabilisés antérieurement dans les capitaux propres, est sorti des capitaux propres par ajustement de la valeur comptable du titre. Par conséquent, le titre est évalué comme s’il avait toujours été évalué au coût amorti pour les titres de créances ou au coût pour les autres titres. Ce reclassement n’a aucun impact sur le taux d'intérêt effectif (TIE) d’origine des titres de créances.",
+          "page_start": 9,
+          "page_end": 9
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 24",
+      "number": "24",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 9,
+      "page_end": 9,
+      "text": "Si l’assujetti reclasse un titre classé en \"titres détenus jusqu’à leur échéance\" vers \"les titres détenus à des fins de transaction\", l’assujetti évalue la juste valeur du titre à la date du reclassement. La différence entre l’ancien coût amorti et cette juste valeur est comptabilisée au compte de résultats.\nSi l’assujetti reclasse un titre classé en \"titres détenus jusqu’à leur échéance\" vers l’un des portefeuilles de disponibles à la vente, l’assujetti évalue la juste valeur du titre à la date du reclassement. La différence entre l’ancien coût amorti et cette juste valeur est comptabilisée dans les capitaux propres. Ce reclassement n’entraîne aucun ajustement du taux d'intérêt effectif (TIE). La dépréciation sera décomptabilisée.",
+      "paragraphs": [
+        {
+          "text": "Si l’assujetti reclasse un titre classé en \"titres détenus jusqu’à leur échéance\" vers \"les titres détenus à des fins de transaction\", l’assujetti évalue la juste valeur du titre à la date du reclassement. La différence entre l’ancien coût amorti et cette juste valeur est comptabilisée au compte de résultats.",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "Si l’assujetti reclasse un titre classé en \"titres détenus jusqu’à leur échéance\" vers l’un des portefeuilles de disponibles à la vente, l’assujetti évalue la juste valeur du titre à la date du reclassement. La différence entre l’ancien coût amorti et cette juste valeur est comptabilisée dans les capitaux propres. Ce reclassement n’entraîne aucun ajustement du taux d'intérêt effectif (TIE). La dépréciation sera décomptabilisée.",
+          "page_start": 9,
+          "page_end": 9
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 25",
+      "number": "25",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 9,
+      "page_end": 9,
+      "text": "Les titres, au passif, comprennent deux (02) catégories :\n- titres détenus à des fins de transaction ;\n- autres titres du passif.",
+      "paragraphs": [
+        {
+          "text": "Les titres, au passif, comprennent deux (02) catégories :",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "- titres détenus à des fins de transaction ;",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "- autres titres du passif.",
+          "page_start": 9,
+          "page_end": 9
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 26",
+      "number": "26",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 9,
+      "page_end": 9,
+      "text": "Les titres détenus à des fins de transaction, enregistrés au passif de l'assujetti, sont acquis en vue de dégager des revenus à court terme en raison des fluctuations de leur prix.",
+      "paragraphs": [
+        {
+          "text": "Les titres détenus à des fins de transaction, enregistrés au passif de l'assujetti, sont acquis en vue de dégager des revenus à court terme en raison des fluctuations de leur prix.",
+          "page_start": 9,
+          "page_end": 9
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 27",
+      "number": "27",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 9,
+      "page_end": 9,
+      "text": "Les titres détenus à des fins de transaction au passif, sont soumis aux mêmes règles de comptabilisation que ceux enregistrés à l'actif.",
+      "paragraphs": [
+        {
+          "text": "Les titres détenus à des fins de transaction au passif, sont soumis aux mêmes règles de comptabilisation que ceux enregistrés à l'actif.",
+          "page_start": 9,
+          "page_end": 9
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 28",
+      "number": "28",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 9,
+      "page_end": 9,
+      "text": "Les autres titres du passif sont évalués initialement au coût, qui est la juste valeur de la contrepartie nette reçue après déduction des coûts accessoires encourus lors de leur mise en place. Après leur comptabilisation initiale, les autres titres du passif sont évalués au coût amorti.",
+      "paragraphs": [
+        {
+          "text": "Les autres titres du passif sont évalués initialement au coût, qui est la juste valeur de la contrepartie nette reçue après déduction des coûts accessoires encourus lors de leur mise en place. Après leur comptabilisation initiale, les autres titres du passif sont évalués au coût amorti.",
+          "page_start": 9,
+          "page_end": 9
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 29",
+      "number": "29",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 9,
+      "page_end": 9,
+      "text": "Sont abrogées, toutes dispositions contraires, notamment celles du règlement n°09- 08 correspondant du 12 Moharram 1431 correspondant au 29 décembre 2009 relatif aux règles d'évaluation et de comptabilisation des instruments financiers par les banques et les établissements financiers.",
+      "paragraphs": [
+        {
+          "text": "Sont abrogées, toutes dispositions contraires, notamment celles du règlement n°09- 08 correspondant du 12 Moharram 1431 correspondant au 29 décembre 2009 relatif aux règles d'évaluation et de comptabilisation des instruments financiers par les banques et les établissements financiers.",
+          "page_start": 9,
+          "page_end": 9
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 30",
+      "number": "30",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 9,
+      "page_end": 9,
+      "text": "Le présent règlement sera publié au Journal Officiel de la République algérienne démocratique et populaire.\nLe Gouverneur\nSalah-Eddine TALEB",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement sera publié au Journal Officiel de la République algérienne démocratique et populaire.",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 9,
+          "page_end": 9
+        },
+        {
+          "text": "Salah-Eddine TALEB",
+          "page_start": 9,
+          "page_end": 9
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.044
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-25-05.fr.txt"
+}

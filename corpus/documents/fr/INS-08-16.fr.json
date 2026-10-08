@@ -1,0 +1,989 @@
+{
+  "document_id": "INS-08-16.fr",
+  "work_id": "INS-08-16",
+  "title": "Instruction n°08-2016 du 1er septembre 2016 relative aux modalités de fixation des taux excessifs.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "08-2016",
+  "number_source": "en-tête du document",
+  "date": "2016-09-01",
+  "date_raw": "N°08-2016 DU 1er SEPTEMBRE 2016",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-02",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Règles générales en matière de conditions de banque applicables aux opérations de banque",
+  "source_url": "https://www.bank-of-algeria.dz/taux-excessifs-instruction-2/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/02/instruction082016.pdf",
+  "format": "pdf",
+  "file_hash": "45277a9a0358d0dbe878452ca9a43d52a812362150988799a73f526139730ed4",
+  "file_size": 66297,
+  "raw_path": "raw/45277a9a0358__instruction082016.pdf",
+  "retrieved_at": "2026-10-05T13:20:50+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 4,
+  "url_hash": "d2b0a59445248b91e504e09914009705b6bde9086c086779e13813757ced51db",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-2016/",
+    "https://www.bank-of-algeria.dz/taux-excessifs-instruction-2/",
+    "https://www.bank-of-algeria.dz/taux-excessifs-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document20",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210210160102+01'00'",
+    "modDate": "D:20210210160102+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 4,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2181,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 3124,
+        "ocr_confidence": null
+      },
+      {
+        "page": 3,
+        "method": "pdf_text",
+        "chars": 868,
+        "ocr_confidence": null
+      },
+      {
+        "page": 4,
+        "method": "pdf_text",
+        "chars": 694,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 18,
+    "annex_count": 1
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°08-2016 DU 1er SEPTEMBRE 2016 RELATIVE AUX MODALITES DE FIXATION DES TAUX EXCESSIFS",
+  "alias_urls": [],
+  "text_hash": "67d7951969c50dd50b1007df145b7052492e4ebac78fb06dec6fe7d5d6fe1596",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [
+    {
+      "work_id": "INS-06-26",
+      "document_id": "INS-06-26.fr",
+      "date": "2026-06-29",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°06-2026 du 29 juin 2026 modifiant l’instruction n°08-2016 du premier septembre 2016 relative aux"
+      }
+    },
+    {
+      "work_id": "INS-06-26",
+      "document_id": "INS-06-26.fr",
+      "date": "2026-06-29",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier l’instruction N°08-2016 du premier septembre 2016 relative aux"
+      }
+    },
+    {
+      "work_id": "INS-10-21",
+      "document_id": "INS-10-21.fr",
+      "date": "2021-11-21",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°10-2021 du 21 novembre 2021 modifiant et complétant l’instruction n°08-2016 du 1er septembre 2016 relative aux modalités de fixation des"
+      }
+    },
+    {
+      "work_id": "INS-10-21",
+      "document_id": "INS-10-21.fr",
+      "date": "2021-11-21",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l’instruction n°8-2016 du 1er septembre 2016 relative aux modalités de fixation des"
+      }
+    }
+  ],
+  "complete_par": [
+    {
+      "work_id": "INS-10-21",
+      "document_id": "INS-10-21.fr",
+      "date": "2021-11-21",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°10-2021 du 21 novembre 2021 modifiant et complétant l’instruction n°08-2016 du 1er septembre 2016 relative aux modalités de fixation des"
+      }
+    },
+    {
+      "work_id": "INS-10-21",
+      "document_id": "INS-10-21.fr",
+      "date": "2021-11-21",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l’instruction n°8-2016 du 1er septembre 2016 relative aux modalités de fixation des"
+      }
+    }
+  ],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée. Ce texte a été modifié/complété : consulter aussi les textes listés dans modifié_par / complété_par.",
+  "same_work_documents": [
+    "INS-08-16.ar"
+  ],
+  "complété_par": [
+    {
+      "work_id": "INS-10-21",
+      "document_id": "INS-10-21.fr",
+      "date": "2021-11-21",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°10-2021 du 21 novembre 2021 modifiant et complétant l’instruction n°08-2016 du 1er septembre 2016 relative aux modalités de fixation des"
+      }
+    },
+    {
+      "work_id": "INS-10-21",
+      "document_id": "INS-10-21.fr",
+      "date": "2021-11-21",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l’instruction n°8-2016 du 1er septembre 2016 relative aux modalités de fixation des"
+      }
+    }
+  ],
+  "modifié_par": [
+    {
+      "work_id": "INS-06-26",
+      "document_id": "INS-06-26.fr",
+      "date": "2026-06-29",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°06-2026 du 29 juin 2026 modifiant l’instruction n°08-2016 du premier septembre 2016 relative aux"
+      }
+    },
+    {
+      "work_id": "INS-06-26",
+      "document_id": "INS-06-26.fr",
+      "date": "2026-06-29",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier l’instruction N°08-2016 du premier septembre 2016 relative aux"
+      }
+    },
+    {
+      "work_id": "INS-10-21",
+      "document_id": "INS-10-21.fr",
+      "date": "2021-11-21",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°10-2021 du 21 novembre 2021 modifiant et complétant l’instruction n°08-2016 du 1er septembre 2016 relative aux modalités de fixation des"
+      }
+    },
+    {
+      "work_id": "INS-10-21",
+      "document_id": "INS-10-21.fr",
+      "date": "2021-11-21",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier et de compléter l’instruction n°8-2016 du 1er septembre 2016 relative aux modalités de fixation des"
+      }
+    }
+  ],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 16",
+      "number": "16",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 17",
+      "number": "17",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 18",
+      "number": "18",
+      "heading": null,
+      "page_start": 3,
+      "page_end": 3,
+      "children": []
+    },
+    {
+      "type": "annexe",
+      "label": "Annexe A",
+      "number": "A",
+      "heading": "L’INSTRUCTION N° 08-2016 DU 1er SEPTEMBRE 2016",
+      "page_start": 4,
+      "page_end": 4,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°08-2016 DU 1er SEPTEMBRE 2016 RELATIVE\nAUX MODALITES DE FIXATION DES TAUX EXCESSIFS",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°08-2016 DU 1er SEPTEMBRE 2016 RELATIVE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "AUX MODALITES DE FIXATION DES TAUX EXCESSIFS",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction a pour objet de fixer les modalités d'application de l'article 9 du règlement n°2013-01 du 08 avril 2013 fixant les règles générales en matière de conditions de banque, et de préciser les modalités de calcul des taux d’intérêt excessifs.",
+      "paragraphs": [
+        {
+          "text": "La présente instruction a pour objet de fixer les modalités d'application de l'article 9 du règlement n°2013-01 du 08 avril 2013 fixant les règles générales en matière de conditions de banque, et de préciser les modalités de calcul des taux d’intérêt excessifs.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Constitue un crédit à taux d’intérêt excessif, tout concours consenti à un taux d’intérêt effectif global qui excède, au moment où il est consenti, de plus d'un cinquième (20%), le taux effectif moyen pratiqué au cours du semestre précédent par les banques et établissements financiers pour des opérations de même nature.",
+      "paragraphs": [
+        {
+          "text": "Constitue un crédit à taux d’intérêt excessif, tout concours consenti à un taux d’intérêt effectif global qui excède, au moment où il est consenti, de plus d'un cinquième (20%), le taux effectif moyen pratiqué au cours du semestre précédent par les banques et établissements financiers pour des opérations de même nature.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Chaque groupe d’opérations de même nature est soumis à un taux d’intérêt excessif. Ces groupes d’opérations sont les catégories de concours ci-après :\na - les découverts ;\nb - les crédits à la consommation ;\nc - les crédits à court terme ;\nd - les crédits à moyen terme ;\ne - les crédits à long terme ;\nf - les crédits de financement de l’habitat ;\ng - le leasing.",
+      "paragraphs": [
+        {
+          "text": "Chaque groupe d’opérations de même nature est soumis à un taux d’intérêt excessif. Ces groupes d’opérations sont les catégories de concours ci-après :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "a - les découverts ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "b - les crédits à la consommation ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "c - les crédits à court terme ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "d - les crédits à moyen terme ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "e - les crédits à long terme ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "f - les crédits de financement de l’habitat ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "g - le leasing.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le taux d’intérêt effectif global est un taux annuel proportionnel au taux de période calculé à terme échu et exprimé en pourcentage avec deux décimales.\nIl englobe, en plus du taux d’intérêt nominal, tous frais, commissions ou autres rémunérations facturés par la banque ou l’établissement financier lors de l’octroi du crédit.",
+      "paragraphs": [
+        {
+          "text": "Le taux d’intérêt effectif global est un taux annuel proportionnel au taux de période calculé à terme échu et exprimé en pourcentage avec deux décimales.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Il englobe, en plus du taux d’intérêt nominal, tous frais, commissions ou autres rémunérations facturés par la banque ou l’établissement financier lors de l’octroi du crédit.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le taux de période est le taux actuariel qui égalise le montant du prêt, net des commissions, frais et rémunérations prélevés par le préteur lors du déblocage du prêt avec les montants actualisés dus par l'emprunteur au titre du remboursement en capital, du paiement d'intérêts, de commissions, de frais et autres rémunérations de toute nature.\nSont exclus du calcul de ce taux, les droits et taxes prélevés par la banque ou l’établissement financier, en qualité de percepteur au profit de l’Etat.",
+      "paragraphs": [
+        {
+          "text": "Le taux de période est le taux actuariel qui égalise le montant du prêt, net des commissions, frais et rémunérations prélevés par le préteur lors du déblocage du prêt avec les montants actualisés dus par l'emprunteur au titre du remboursement en capital, du paiement d'intérêts, de commissions, de frais et autres rémunérations de toute nature.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Sont exclus du calcul de ce taux, les droits et taxes prélevés par la banque ou l’établissement financier, en qualité de percepteur au profit de l’Etat.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "Le taux de période est déterminé sur base actuarielle, selon la formule mathématique suivante :\nn t\nP-C =∑Fp / (1+r)\nt=1\nBANK OF ALGERIA\noù :\nP : montant du prêt\nC : total des commissions, frais et rémunérations prélevés par le prêteur lors du déblocage de prêt\nFp : montant total de chaque versement périodique (principal, intérêts, frais, commissions et autres rémunérations)\nt : périodicité du remboursement r : taux de période n : nombre des périodes de remboursement.\nLorsque la périodicité des versements n'est pas régulière, la période unitaire à retenir est celle correspondant au plus petit intervalle séparant deux versements. Cette période unitaire ne doit, en aucun cas, être inférieure à un mois.\nLorsque les versements ne sont pas annuels, le taux d’intérêt effectif global est déterminé en multipliant le taux de période par le nombre annuel des périodes de remboursement.",
+      "paragraphs": [
+        {
+          "text": "Le taux de période est déterminé sur base actuarielle, selon la formule mathématique suivante :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "n t",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "P-C =∑Fp / (1+r)",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "t=1",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "où :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "P : montant du prêt",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "C : total des commissions, frais et rémunérations prélevés par le prêteur lors du déblocage de prêt",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Fp : montant total de chaque versement périodique (principal, intérêts, frais, commissions et autres rémunérations)",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "t : périodicité du remboursement r : taux de période n : nombre des périodes de remboursement.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Lorsque la périodicité des versements n'est pas régulière, la période unitaire à retenir est celle correspondant au plus petit intervalle séparant deux versements. Cette période unitaire ne doit, en aucun cas, être inférieure à un mois.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Lorsque les versements ne sont pas annuels, le taux d’intérêt effectif global est déterminé en multipliant le taux de période par le nombre annuel des périodes de remboursement.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Lorsqu’il s’agit d’un prêt accordé sous forme de découvert en compte, le taux d’intérêt effectif global doit être calculé en appliquant la méthode des nombres, selon laquelle chacun des soldes débiteurs, successivement inscrits en compte au cours de l’intervalle séparant deux arrêtés de compte, est multiplié par sa propre durée.",
+      "paragraphs": [
+        {
+          "text": "Lorsqu’il s’agit d’un prêt accordé sous forme de découvert en compte, le taux d’intérêt effectif global doit être calculé en appliquant la méthode des nombres, selon laquelle chacun des soldes débiteurs, successivement inscrits en compte au cours de l’intervalle séparant deux arrêtés de compte, est multiplié par sa propre durée.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le calcul du taux de la période des opérations d’escompte résulte du rapport de tout coût financier supporté par l’emprunteur sur le montant de l’effet escompté.",
+      "paragraphs": [
+        {
+          "text": "Le calcul du taux de la période des opérations d’escompte résulte du rapport de tout coût financier supporté par l’emprunteur sur le montant de l’effet escompté.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Pour chaque catégorie de concours, visée dans l’article 3 ci-dessus, les banques et établissements financiers doivent calculer un taux d’intérêt effectif global égal à la moyenne des taux d’intérêts effectifs globaux des crédits qui composent la catégorie, pondérée par l’encours desdits crédits.",
+      "paragraphs": [
+        {
+          "text": "Pour chaque catégorie de concours, visée dans l’article 3 ci-dessus, les banques et établissements financiers doivent calculer un taux d’intérêt effectif global égal à la moyenne des taux d’intérêts effectifs globaux des crédits qui composent la catégorie, pondérée par l’encours desdits crédits.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Seuls les crédits productifs d’intérêts sont pris en considération pour le calcul du taux d’intérêt effectif global. Sont exclus du calcul du taux d’intérêt effectif global, tous les crédits faisant l’objet de contentieux, les crédits gelés et les crédits dont les taux d’intérêt sont réglementés ou bonifiés par l’Etat.",
+      "paragraphs": [
+        {
+          "text": "Seuls les crédits productifs d’intérêts sont pris en considération pour le calcul du taux d’intérêt effectif global. Sont exclus du calcul du taux d’intérêt effectif global, tous les crédits faisant l’objet de contentieux, les crédits gelés et les crédits dont les taux d’intérêt sont réglementés ou bonifiés par l’Etat.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le taux d’intérêt effectif global doit être mentionné dans toute offre de crédit et dans tout écrit constatant un contrat de prêt lors de l’entrée en relation, du renouvellement de concours ou d’une sollicitation de financement nouveau.",
+      "paragraphs": [
+        {
+          "text": "Le taux d’intérêt effectif global doit être mentionné dans toute offre de crédit et dans tout écrit constatant un contrat de prêt lors de l’entrée en relation, du renouvellement de concours ou d’une sollicitation de financement nouveau.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les banques et les établissements financiers adressent à la Banque d’Algérie cinq (5) jours au plus tard après l’expiration des cinq premiers mois du premier et du deuxième semestre de chaque année, une déclaration du taux d’intérêt effectif global appliqué durant les cinq premiers mois du semestre considéré et ce, par catégorie de concours conformément à l’annexe jointe.",
+      "paragraphs": [
+        {
+          "text": "Les banques et les établissements financiers adressent à la Banque d’Algérie cinq (5) jours au plus tard après l’expiration des cinq premiers mois du premier et du deuxième semestre de chaque année, une déclaration du taux d’intérêt effectif global appliqué durant les cinq premiers mois du semestre considéré et ce, par catégorie de concours conformément à l’annexe jointe.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "La Banque d’Algérie procède, au cours du dernier mois de chaque semestre, au calcul des taux d’intérêts effectifs moyens des différentes catégories de concours et des seuils des taux d’intérêts excessifs applicables pour le semestre suivant.",
+      "paragraphs": [
+        {
+          "text": "La Banque d’Algérie procède, au cours du dernier mois de chaque semestre, au calcul des taux d’intérêts effectifs moyens des différentes catégories de concours et des seuils des taux d’intérêts excessifs applicables pour le semestre suivant.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "La Banque d’Algérie communique aux banques et établissements financiers, les taux d’intérêt effectifs moyens ainsi que les seuils des taux d’intérêt excessifs y relatifs. Ces taux font l’objet de publication.",
+      "paragraphs": [
+        {
+          "text": "La Banque d’Algérie communique aux banques et établissements financiers, les taux d’intérêt effectifs moyens ainsi que les seuils des taux d’intérêt excessifs y relatifs. Ces taux font l’objet de publication.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Lorsqu’il est appliqué des taux supérieurs aux taux d’intérêt excessifs, l’emprunteur est en droit de réclamer à la banque ou à l’établissement financier concerné les sommes indûment perçus, majorées des intérêts calculés au taux d’intérêt effectif moyen de la catégorie de prêt concerné, déterminé par la Banque d’Algérie.",
+      "paragraphs": [
+        {
+          "text": "Lorsqu’il est appliqué des taux supérieurs aux taux d’intérêt excessifs, l’emprunteur est en droit de réclamer à la banque ou à l’établissement financier concerné les sommes indûment perçus, majorées des intérêts calculés au taux d’intérêt effectif moyen de la catégorie de prêt concerné, déterminé par la Banque d’Algérie.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 16",
+      "number": "16",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Dans des circonstances exceptionnelles, la Banque d’Algérie peut apporter les ajustements appropriés aux taux d'intérêt excessifs arrêtés suivant les modalités sus indiquées.",
+      "paragraphs": [
+        {
+          "text": "Dans des circonstances exceptionnelles, la Banque d’Algérie peut apporter les ajustements appropriés aux taux d'intérêt excessifs arrêtés suivant les modalités sus indiquées.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 17",
+      "number": "17",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Toutes infractions aux dispositions de la présente instruction, notamment celles prévues par les articles 2 et 11, exposeront les contrevenants aux sanctions de la\nCommission bancaire.",
+      "paragraphs": [
+        {
+          "text": "Toutes infractions aux dispositions de la présente instruction, notamment celles prévues par les articles 2 et 11, exposeront les contrevenants aux sanctions de la",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Commission bancaire.",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 18",
+      "number": "18",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 3,
+      "page_end": 3,
+      "text": "La présente instruction entre en vigueur à la date de sa signature.\nLe Gouverneur\nMohamed LOUKAL",
+      "paragraphs": [
+        {
+          "text": "La présente instruction entre en vigueur à la date de sa signature.",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 3,
+          "page_end": 3
+        },
+        {
+          "text": "Mohamed LOUKAL",
+          "page_start": 3,
+          "page_end": 3
+        }
+      ]
+    },
+    {
+      "kind": "annexe",
+      "label": "Annexe A",
+      "number": "A",
+      "heading": "L’INSTRUCTION N° 08-2016 DU 1er SEPTEMBRE 2016",
+      "context": {},
+      "annexe": {
+        "number": "A",
+        "heading": "L’INSTRUCTION N° 08-2016 DU 1er SEPTEMBRE 2016",
+        "label": "Annexe A"
+      },
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Déclaration du taux d’intérêt effectif global par catégorie de concours relative au semestre ………………….\nCatégorie de concours\nTaux d’intérêt effectif global en %\na) Découverts\nb) Crédits à la consommation\nc) Crédits à court terme\nd) Crédits à moyen terme\ne) Crédits à long terme\nf) Crédits de financement de l’habitat\ng) Leasing\nFait à ………. le…………….\nSignatures accréditées",
+      "paragraphs": [
+        {
+          "text": "Déclaration du taux d’intérêt effectif global par catégorie de concours relative au semestre ………………….",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Catégorie de concours",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Taux d’intérêt effectif global en %",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "a) Découverts",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "b) Crédits à la consommation",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "c) Crédits à court terme",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "d) Crédits à moyen terme",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "e) Crédits à long terme",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "f) Crédits de financement de l’habitat",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "g) Leasing",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Fait à ………. le…………….",
+          "page_start": 4,
+          "page_end": 4
+        },
+        {
+          "text": "Signatures accréditées",
+          "page_start": 4,
+          "page_end": 4
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [
+    {
+      "page": 4,
+      "tables": [
+        "|Catégorie de concours|Taux d’intérêt effectif global en %|\n|---|---|\n|a)     Découverts||\n|b)     Crédits à la consommation||\n|c)     Crédits à court terme||\n|d)     Crédits à moyen terme||\n|e)     Crédits à long terme||\n|f)       Crédits de financement de l’habitat||\n|g)     Leasing||\n\n"
+      ]
+    }
+  ],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.042
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-08-16.fr.txt"
+}

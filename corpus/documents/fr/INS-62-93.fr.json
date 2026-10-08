@@ -1,0 +1,308 @@
+{
+  "document_id": "INS-62-93.fr",
+  "work_id": "INS-62-93",
+  "title": "Instruction n°62-93 complétant l’instruction n°08-91 du 20 novembre 1991 modifiant l’instruction n°06-90 du 16 décembre 1990 définissant les conditions d’éligibilité aux comptes devises “personnes morales” des recettes réalisées en Algérie.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "62-93",
+  "number_source": "en-tête du document",
+  "date": null,
+  "date_raw": null,
+  "date_source": null,
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction6293.pdf",
+      "uploaded": "2023-01-24T15:05:47"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Année 1993",
+  "source_url": "https://www.bank-of-algeria.dz/annee-1993/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction6293.pdf",
+  "format": "pdf",
+  "file_hash": "47ddbb0c4b9a63317739019f2dd7aa45384ef051f492ca7d3979089a7059f9e0",
+  "file_size": 30226,
+  "raw_path": "raw/47ddbb0c4b9a__instruction6293.pdf",
+  "retrieved_at": "2026-10-05T14:17:46+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "2e90626754a7f2a6e2299c4efdbc755b808e51cb038fddee13b6deb5e26a091b",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-1993/",
+    "https://www.bank-of-algeria.dz/ar/%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%AC%D9%86%D8%A8%D9%8A%D8%A9/",
+    "https://www.bank-of-algeria.dz/ar/%d8%ad%d8%b3%d8%a7%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%85%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d8%ac%d9%86%d8%a8%d9%8a%d8%a9/",
+    "https://www.bank-of-algeria.dz/comptes-devises-instruction/",
+    "https://www.bank-of-algeria.dz/importations-exportations-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - INSTRUCTION 32-91",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200806150540+01'00'",
+    "modDate": "D:20200806150540+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 1922,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 0,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "metadonnees_incompletes:date"
+  ],
+  "title_document": "INSTRUCTION N°62-93 COMPLETANT L'INSTRUCTION N°08-91 DU 20 NOVEMBRE 1991 MODIFIANT L'INSTRUCTION N°06-90 DU 16 DECEMBRE 1990 DEFINISSANT LES CONDITIONS D'ELIGIBILITE AUX COMPTES DEVISES \"PERSONNES MORALES\" DES RECETTES REALISEES EN ALGERIE La présente Instruction a pour objet de faire connaître que les dispositions du titre II paragraphe \"a\" sont complétées par les dispositions suivantes : II - MODALITES D'INSCRIPTION",
+  "alias_urls": [
+    {
+      "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction6293.pdf",
+      "source_url": "https://www.bank-of-algeria.dz/importations-exportations-instruction/",
+      "title": "Instruction n°62-93 complétant l’instruction n°08-91 du 20 novembre 1991 modifiant l’instruction n°06-90 du 16 décembre 1990 définissant les conditions d’éligibilité aux comptes devises “personnes morales” des recettes réalisées en Algérie."
+    }
+  ],
+  "text_hash": "55910f23b582cdcbd0bdb707852161c4ea0bfa030b60adfcefec2ac7bc989b57",
+  "relations_out": [
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "08-91",
+        "date": "1991-11-20",
+        "raw": "instruction n°08-91 du 20 novembre 1991"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°62-93 complétant l’instruction n°08-91 du 20 novembre 1991 modifiant l’instruction n°06-90 du 16 d"
+      },
+      "target_work_id": "INS-08-91"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "06-90",
+        "date": "1990-12-16",
+        "raw": "instruction n°06-90 du 16 décembre 1990"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°62-93 complétant l’instruction n°08-91 du 20 novembre 1991 modifiant l’instruction n°06-90 du 16 décembre 1990 définissant les conditions d’éligibilit"
+      },
+      "target_work_id": "INS-06-90"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-06-90",
+      "reference": "instruction n°06-90 du 16 décembre 1990",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°62-93 complétant l’instruction n°08-91 du 20 novembre 1991 modifiant l’instruction n°06-90 du 16 décembre 1990 définissant les conditions d’éligibilit"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "INS-08-91",
+      "reference": "instruction n°08-91 du 20 novembre 1991",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°62-93 complétant l’instruction n°08-91 du 20 novembre 1991 modifiant l’instruction n°06-90 du 16 d"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "INS-08-91",
+      "reference": "instruction n°08-91 du 20 novembre 1991",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°62-93 complétant l’instruction n°08-91 du 20 novembre 1991 modifiant l’instruction n°06-90 du 16 d"
+      }
+    }
+  ],
+  "missing_metadata": [
+    "date"
+  ],
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°62-93 COMPLETANT L'INSTRUCTION N°08-91\nDU 20 NOVEMBRE 1991 MODIFIANT L'INSTRUCTION N°06-90\nDU 16 DECEMBRE 1990 DEFINISSANT LES CONDITIONS\nD'ELIGIBILITE AUX COMPTES DEVISES \"PERSONNES MORALES\"\nDES RECETTES REALISEES EN ALGERIE\nLa présente Instruction a pour objet de faire connaître que les dispositions du titre II paragraphe \"a\" sont complétées par les dispositions suivantes :",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°62-93 COMPLETANT L'INSTRUCTION N°08-91",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DU 20 NOVEMBRE 1991 MODIFIANT L'INSTRUCTION N°06-90",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DU 16 DECEMBRE 1990 DEFINISSANT LES CONDITIONS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "D'ELIGIBILITE AUX COMPTES DEVISES \"PERSONNES MORALES\"",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DES RECETTES REALISEES EN ALGERIE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La présente Instruction a pour objet de faire connaître que les dispositions du titre II paragraphe \"a\" sont complétées par les dispositions suivantes :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {
+        "section": {
+          "number": "II",
+          "heading": "MODALITES D'INSCRIPTION",
+          "label": "Section II"
+        }
+      },
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "a)- Cas des personnes morales de droit algérien réalisant des projets d'investissement financés par des institutions financières internationales.\nAlinéa 4.1 : A titre transitoire, les contrats libellés en dinars bénéficieront du paiement en devises correspondant à la contre-valeur du montant des situations et factures, établies par l'entreprise algérienne adjudicataire et dûment approuvées par le promoteur maître de l'ouvrage.\nA ce titre, après réception des situations ou factures représentatives de travaux réalisés, la banque chargée de la gestion des accords de financement procédera au paiement du montant correspondant à la contre-valeur devises déterminée sur la base du cours \"vente\" ressortant de la cotation \"devises en compte\" de la Banque d'Algérie en vigueur le jour de l'exécution de l'opération. Ledit paiement s'effectuera directement au profit du compte devises \"personnes morales\" de l'entreprise algérienne adjudicataire et ce, conformément aux procédures mises en œuvre pour cette nature de financement externe.\nAlinéa 4.2 : Les contrats prévoyant une part en dinars convertibles, sont régis par les dispositions reprises à l'alinéa 4.1 ci-dessus.\nAlinéa 4.3 : La contre-valeur devises des montants en dinars Algériens éligibles au compte devises de la personne morale sont ceux prévus contractuellement, dans la limite cependant des montants mobilisés dans le cadre des accords de financement concernés.\nLe Directeur Général des Changes\nAli TOUATI",
+      "paragraphs": [
+        {
+          "text": "a)- Cas des personnes morales de droit algérien réalisant des projets d'investissement financés par des institutions financières internationales.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Alinéa 4.1 : A titre transitoire, les contrats libellés en dinars bénéficieront du paiement en devises correspondant à la contre-valeur du montant des situations et factures, établies par l'entreprise algérienne adjudicataire et dûment approuvées par le promoteur maître de l'ouvrage.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "A ce titre, après réception des situations ou factures représentatives de travaux réalisés, la banque chargée de la gestion des accords de financement procédera au paiement du montant correspondant à la contre-valeur devises déterminée sur la base du cours \"vente\" ressortant de la cotation \"devises en compte\" de la Banque d'Algérie en vigueur le jour de l'exécution de l'opération. Ledit paiement s'effectuera directement au profit du compte devises \"personnes morales\" de l'entreprise algérienne adjudicataire et ce, conformément aux procédures mises en œuvre pour cette nature de financement externe.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Alinéa 4.2 : Les contrats prévoyant une part en dinars convertibles, sont régis par les dispositions reprises à l'alinéa 4.1 ci-dessus.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Alinéa 4.3 : La contre-valeur devises des montants en dinars Algériens éligibles au compte devises de la personne morale sont ceux prévus contractuellement, dans la limite cependant des montants mobilisés dans le cadre des accords de financement concernés.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Directeur Général des Changes",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Ali TOUATI",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "metadonnees_incompletes:date"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.035
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-62-93.fr.txt"
+}

@@ -1,0 +1,227 @@
+{
+  "document_id": "INS-08-00.fr~2",
+  "work_id": "INS-08-00",
+  "title": "Instruction n°08-2000 du 21 octobre 2000 fixant le taux de réescompte.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "08-2000",
+  "number_source": "en-tête du document",
+  "date": "2000-10-21",
+  "date_raw": "N°08-2000 DU 21 OCTOBRE 2000",
+  "date_source": "en-tête du document",
+  "publication_date": "2023-01-24",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Instruments de la politique monétaire",
+  "source_url": "https://www.bank-of-algeria.dz/marche-monetaire-instruction/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction082000.pdf",
+  "format": "pdf",
+  "file_hash": "72868c98f689ebce780fd2f295f469f73d0a4313d21a7ccf10cf104e7b97cdb6",
+  "file_size": 32251,
+  "raw_path": "raw/72868c98f689__instruction082000.pdf",
+  "retrieved_at": "2026-10-05T13:26:16+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "834a7b27465ba6bd94121ae4cbf0eecb4ac055f66a83684df3f54e2210efa1cd",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/marche-monetaire-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document2",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200920120923+01'00'",
+    "modDate": "D:20200920120923+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 394,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": false,
+    "article_count": 0,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "meme_texte_plusieurs_fichiers"
+  ],
+  "title_document": "INSTRUCTION N°08-2000 DU 21 OCTOBRE 2000 FIXANT LE TAUX DE REESCOMPTE",
+  "alias_urls": [],
+  "text_hash": "0536265838bc170df2bb8f816b8fb97fcef7115b878116f9f4b012b07b201bcd",
+  "relations_out": [
+    {
+      "relation": "abroge",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "01-2000",
+        "date": "2000-01-26",
+        "raw": "instruction n°01-2000 du 26 janvier 2000"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "t en date du 21 octobre 2000, le taux de réescompte est fixé à 6%. La présente Instruction abroge les dispositions de l’instruction n°01-2000 du 26 janvier 2000 et entre en vigueur à compter du 22 oct"
+      },
+      "target_work_id": "INS-01-00"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [
+    {
+      "work_id": "INS-01-00",
+      "reference": "instruction n°01-2000 du 26 janvier 2000",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "t en date du 21 octobre 2000, le taux de réescompte est fixé à 6%. La présente Instruction abroge les dispositions de l’instruction n°01-2000 du 26 janvier 2000 et entre en vigueur à compter du 22 oct"
+      }
+    }
+  ],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [
+    {
+      "work_id": "INS-01-02",
+      "document_id": "INS-01-02.fr",
+      "date": "2002-01-17",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "en date du 17 janvier 2002, le taux de réescompte est fixé à 5,5%. La présente instruction abroge les dispositions de l’instruction n°08-2000 du 21 octobre 2000 et entre en vigueur à compter du 20 jan"
+      }
+    }
+  ],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "INS-01-02",
+      "document_id": "INS-01-02.fr",
+      "date": "2002-01-17",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "en date du 17 janvier 2002, le taux de réescompte est fixé à 5,5%. La présente instruction abroge les dispositions de l’instruction n°08-2000 du 21 octobre 2000 et entre en vigueur à compter du 20 jan"
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [
+    "INS-08-00.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [
+    {
+      "work_id": "INS-01-02",
+      "document_id": "INS-01-02.fr",
+      "date": "2002-01-17",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "en date du 17 janvier 2002, le taux de réescompte est fixé à 5,5%. La présente instruction abroge les dispositions de l’instruction n°08-2000 du 21 octobre 2000 et entre en vigueur à compter du 20 jan"
+      }
+    }
+  ],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°08-2000 DU 21 OCTOBRE 2000\nFIXANT LE TAUX DE REESCOMPTE\nEn application de la délibération du Conseil de la Monnaie et du Crédit en date du 21 octobre 2000, le taux de réescompte est fixé à 6%.\nLa présente Instruction abroge les dispositions de l’instruction n°01-2000 du 26 janvier 2000 et entre en vigueur à compter du 22 octobre 2000.\nLe Gouverneur\nAbdelouahab KERAMANE",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°08-2000 DU 21 OCTOBRE 2000",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "FIXANT LE TAUX DE REESCOMPTE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "En application de la délibération du Conseil de la Monnaie et du Crédit en date du 21 octobre 2000, le taux de réescompte est fixé à 6%.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La présente Instruction abroge les dispositions de l’instruction n°01-2000 du 26 janvier 2000 et entre en vigueur à compter du 22 octobre 2000.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "meme_texte_plusieurs_fichiers"
+    ],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.028
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-08-00.fr~2.txt"
+}

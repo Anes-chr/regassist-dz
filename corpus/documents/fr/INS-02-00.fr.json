@@ -1,0 +1,313 @@
+{
+  "document_id": "INS-02-00.fr",
+  "work_id": "INS-02-00",
+  "title": "Instruction n°02-2000 du 19 mars 2000 fixant les dispositions applicables au séjour en Algérie des personnes physiques étrangères non résidentes.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "02-2000",
+  "number_source": "en-tête du document",
+  "date": "2000-03-19",
+  "date_raw": "N°02-2000 DU 19 MARS 2000",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction022000.pdf",
+      "uploaded": "2023-01-24T14:42:48"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Année 2000",
+  "source_url": "https://www.bank-of-algeria.dz/annee-2000/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction022000.pdf",
+  "format": "pdf",
+  "file_hash": "25c1c4e4fbffec6834c525106b87056c050d7608b66919a504dda60b82ad0379",
+  "file_size": 38410,
+  "raw_path": "raw/25c1c4e4fbff__instruction022000.pdf",
+  "retrieved_at": "2026-10-05T13:21:05+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "01f9687d7d10f84ffb6f1f479f8abe6a57327d196057238dbda49caf1bf9ad8c",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-2000/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "Microsoft Word - instruction022000",
+    "author": "chahra.yahiaoui",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 9.0.0 (Windows)",
+    "creationDate": "D:20210228155510+01'00'",
+    "modDate": "D:20210228155510+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 1458,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 5,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "meme_texte_plusieurs_fichiers"
+  ],
+  "title_document": "INSTRUCTION N°02-2000 DU 19 MARS 2000 FIXANT LES DISPOSITIONS APPLICABLES AU SEJOUR EN ALGERIE DES PERSONNES PHYSIQUES ETRANGERES NON-RESIDENTES",
+  "alias_urls": [],
+  "text_hash": "19285cad7c7513968e66a982288774ea097678444f07b51a547f749e27db1d38",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "INS-02-00.fr~2"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°02-2000 DU 19 MARS 2000 FIXANT\nLES DISPOSITIONS APPLICABLES AU SEJOUR EN ALGERIE\nDES PERSONNES PHYSIQUES ETRANGERES NON-RESIDENTES",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°02-2000 DU 19 MARS 2000 FIXANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "LES DISPOSITIONS APPLICABLES AU SEJOUR EN ALGERIE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DES PERSONNES PHYSIQUES ETRANGERES NON-RESIDENTES",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction a pour objet de fixer les dispositions applicables au séjour en Algérie des personnes physiques étrangères non résidentes, en application de l'article 2 du règlement n°95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n°92-04 du 22 mars 1992, relatif au contrôle des changes.",
+      "paragraphs": [
+        {
+          "text": "La présente instruction a pour objet de fixer les dispositions applicables au séjour en Algérie des personnes physiques étrangères non résidentes, en application de l'article 2 du règlement n°95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n°92-04 du 22 mars 1992, relatif au contrôle des changes.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les personnes physiques étrangères non résidentes qui entrent sur le territoire douanier national, pour un séjour en Algérie et ce, à quelque titre que ce soit (touristique, professionnel, etc.) ne sont pas tenues à obligation de change de devises.\nLa présente instruction s'applique, sans préjudice des dispositions réglementaires qui régissent, par ailleurs, la déclaration en douane de l'importation en Algérie des moyens de paiement.",
+      "paragraphs": [
+        {
+          "text": "Les personnes physiques étrangères non résidentes qui entrent sur le territoire douanier national, pour un séjour en Algérie et ce, à quelque titre que ce soit (touristique, professionnel, etc.) ne sont pas tenues à obligation de change de devises.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La présente instruction s'applique, sans préjudice des dispositions réglementaires qui régissent, par ailleurs, la déclaration en douane de l'importation en Algérie des moyens de paiement.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les opérations de change doivent s'effectuer auprès des banques et établissements financiers, intermédiaires agréés et des bureaux de change agréés.",
+      "paragraphs": [
+        {
+          "text": "Les opérations de change doivent s'effectuer auprès des banques et établissements financiers, intermédiaires agréés et des bureaux de change agréés.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les personnes physiques étrangères non résidentes qui séjournent dans un établissement hôtelier ou touristique en Algérie, sont autorisées à régler leurs factures en\nDinars algériens.",
+      "paragraphs": [
+        {
+          "text": "Les personnes physiques étrangères non résidentes qui séjournent dans un établissement hôtelier ou touristique en Algérie, sont autorisées à régler leurs factures en",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Dinars algériens.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction entre en vigueur à compter de la date de sa signature.\nLe Gouverneur\nAbdelouahab KERAMANE\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": "La présente instruction entre en vigueur à compter de la date de sa signature.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "meme_texte_plusieurs_fichiers"
+    ],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.03
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-02-00.fr.txt"
+}

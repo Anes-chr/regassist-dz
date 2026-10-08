@@ -1,0 +1,408 @@
+{
+  "document_id": "INS-15-94.fr",
+  "work_id": "INS-15-94",
+  "title": "Instruction n°15-94 du 09 avril 1994 portant modification de l’instruction n°83-92 du 27 décembre 1992 relative aux modalités d’attribution d’allocations devises a l’occasion d’hospitalisation et/ou de décès de nationaux a l’étranger.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "15-94",
+  "number_source": "en-tête du document",
+  "date": "1994-04-09",
+  "date_raw": "N°15-94 DU 09 AVRIL 1994",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction1594.pdf",
+      "uploaded": "2023-01-24T14:55:44"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Année 1994",
+  "source_url": "https://www.bank-of-algeria.dz/annee-1994/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction1594.pdf",
+  "format": "pdf",
+  "file_hash": "758b6ddbdc1d348b42b134f6c052c76a3dcae55c73cb14f82cebe0cfe2b58f02",
+  "file_size": 35882,
+  "raw_path": "raw/758b6ddbdc1d__instruction1594.pdf",
+  "retrieved_at": "2026-10-05T14:17:26+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "0342310ea0f19b7bdf3a3121e0d64d570030977119621d47b60f9f1e951c72a5",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-1994/",
+    "https://www.bank-of-algeria.dz/devisesinstruction/",
+    "https://www.bank-of-algeria.dz/importations-exportations-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - INSTRUCTION 32-91",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200809094330+01'00'",
+    "modDate": "D:20200809094330+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2856,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 524,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 4,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°15-94 DU 09 AVRIL 1994 PORTANT MODIFICATION DE L'INSTRUCTION N°83-92 DU 27 DECEMBRE 1992 RELATIVE AUX MODALITES D'ATTRIBUTION D'ALLOCATIONS DEVISES A L'OCCASION D'HOSPITALISATION ET/OU DE DECES DE NATIONAUX A L'ETRANGER",
+  "alias_urls": [
+    {
+      "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction1594.pdf",
+      "source_url": "https://www.bank-of-algeria.dz/importations-exportations-instruction/",
+      "title": "Instruction n°15-94 du 09 avril 1994 portant modification de l’instruction n°83-92 du 27 décembre 1992 relative aux modalités d’attribution d’allocations devises a l’occasion d’hospitalisation et/ou de décès de nationaux a l’étranger."
+    }
+  ],
+  "text_hash": "5265cc3d7bd244cd7c21db2abd2d09014a23edb0ff219a09ae1ca53d599ad97c",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "83-92",
+        "date": "1992-12-27",
+        "raw": "instruction n°83-92 du 27 décembre 1992"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°15-94 du 09 avril 1994 portant modification de l’instruction n°83-92 du 27 décembre 1992 relative aux modalités d’attribution d’"
+      },
+      "target_work_id": "INS-83-92"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "INS",
+        "number": "83-92",
+        "date": "1992-12-27",
+        "raw": "Instruction n°83-92 du 27 Décembre 1992"
+      },
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier les dispositions des articles 2, 3, 4 et 5 de l'Instruction n°83-92 du 27 Décembre 1992 relative aux modalités d'attribution d'"
+      },
+      "target_work_id": "INS-83-92"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "INS-83-92",
+      "reference": "instruction n°83-92 du 27 décembre 1992",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°15-94 du 09 avril 1994 portant modification de l’instruction n°83-92 du 27 décembre 1992 relative aux modalités d’attribution d’"
+      }
+    },
+    {
+      "work_id": "INS-83-92",
+      "reference": "Instruction n°83-92 du 27 Décembre 1992",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier les dispositions des articles 2, 3, 4 et 5 de l'Instruction n°83-92 du 27 Décembre 1992 relative aux modalités d'attribution d'"
+      }
+    }
+  ],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°15-94 DU 09 AVRIL 1994 PORTANT MODIFICATION\nDE L'INSTRUCTION N°83-92 DU 27 DECEMBRE 1992 RELATIVE AUX MODALITES\nD'ATTRIBUTION D'ALLOCATIONS DEVISES A L'OCCASION D'HOSPITALISATION\nET/OU DE DECES DE NATIONAUX A L'ETRANGER",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°15-94 DU 09 AVRIL 1994 PORTANT MODIFICATION",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "DE L'INSTRUCTION N°83-92 DU 27 DECEMBRE 1992 RELATIVE AUX MODALITES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "D'ATTRIBUTION D'ALLOCATIONS DEVISES A L'OCCASION D'HOSPITALISATION",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET/OU DE DECES DE NATIONAUX A L'ETRANGER",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente instruction a pour objet de modifier les dispositions des articles 2, 3, 4 et 5 de l'Instruction n°83-92 du 27 Décembre 1992 relative aux modalités d'attribution d'allocations devises à l'occasion d'hospitalisation et/ou de décès de nationaux à l'étranger.",
+      "paragraphs": [
+        {
+          "text": "La présente instruction a pour objet de modifier les dispositions des articles 2, 3, 4 et 5 de l'Instruction n°83-92 du 27 Décembre 1992 relative aux modalités d'attribution d'allocations devises à l'occasion d'hospitalisation et/ou de décès de nationaux à l'étranger.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 2,
+      "text": "Les dispositions des articles 2, 3, 4 et 5 de l'Instruction susvisée sont modifiées et rédigées comme suit :\n\"Article 2 : Les nationaux résidents se rendant à l'étranger pour soins médicaux sous couvert d'une prise en charge délivrée par un organisme de sécurité sociale ou par le\nMinistère chargé de la santé publique selon que le malade est assuré social ou non bénéficient d'une allocation devises dite allocation à caractère médical dont le montant est fixé à la contrevaleur en devises de :\n- 10 800 DA lorsque le malade est âgé de plus de 15 ans ;\n- 5 200 DA lorsque le malade est âgé de 15 ans ou moins\".\n\"Article 3 : Au cas où l'état du malade nécessite l'assistance d'une tierce personne expressément prescrite par l'organisme ayant délivré la prise en charge et ou par le service étranger d'hospitalisation, l'accompagnateur résident bénéficie d’une allocation fixée à la contrevaleur en devises de :\n- 9 200 DA à l'occasion du départ du malade ;\n- 4 000 DA à l'occasion du retour du malade.\n\"Article 4 : En cas de décès à l'étranger d'un malade hospitalisé sous couvert d'une prise en charge ou d'un national résident en voyage touristique ou d'affaires, le membre de la famille chargé du rapatriement de la dépouille mortelle bénéficie d'une allocation devises dite allocation de rapatriement dont le montant est fixé à la contrevaleur en devises de 75.000 DA.\nIl peut être accordé au membre de la famille chargé du rapatriement de la dépouille mortelle une dérogation pour l'acquisition en dinars auprès d'une compagnie aérienne d'un titre de transport de ladite dépouille\".\n\"Article 5 : Les parents rendant visite conjointement à leur (s) enfants (s) de 15 ans et moins hospitalisé (s) à l'étranger depuis au moins douze (12) mois sous couvert d'une prise en charge telle que définie à l'article 2 ci-dessus bénéficient d'une allocation devises dite allocation de visite parentale annuelle dont le montant est fixé à la contrevaleur en devises de 20.000 DA.\nCe montant est fixé à 12.000 DA lorsque l'un des parents seulement (père ou mère)\neffectue la visite parentale annuelle. Au cas où l'autre parent (père ou mère selon le cas)\neffectue à son tour, au cours de la même année, une visite parentale, il bénéficie du reste de l'allocation de visite parentale soit 8.000 DA.\nL'allocation de visite parentale cumulée par les deux parents (père et mère) ne peut dans tous les cas être supérieure à 20.000 DA\".",
+      "paragraphs": [
+        {
+          "text": "Les dispositions des articles 2, 3, 4 et 5 de l'Instruction susvisée sont modifiées et rédigées comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "\"Article 2 : Les nationaux résidents se rendant à l'étranger pour soins médicaux sous couvert d'une prise en charge délivrée par un organisme de sécurité sociale ou par le",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Ministère chargé de la santé publique selon que le malade est assuré social ou non bénéficient d'une allocation devises dite allocation à caractère médical dont le montant est fixé à la contrevaleur en devises de :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- 10 800 DA lorsque le malade est âgé de plus de 15 ans ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- 5 200 DA lorsque le malade est âgé de 15 ans ou moins\".",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "\"Article 3 : Au cas où l'état du malade nécessite l'assistance d'une tierce personne expressément prescrite par l'organisme ayant délivré la prise en charge et ou par le service étranger d'hospitalisation, l'accompagnateur résident bénéficie d’une allocation fixée à la contrevaleur en devises de :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- 9 200 DA à l'occasion du départ du malade ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- 4 000 DA à l'occasion du retour du malade.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "\"Article 4 : En cas de décès à l'étranger d'un malade hospitalisé sous couvert d'une prise en charge ou d'un national résident en voyage touristique ou d'affaires, le membre de la famille chargé du rapatriement de la dépouille mortelle bénéficie d'une allocation devises dite allocation de rapatriement dont le montant est fixé à la contrevaleur en devises de 75.000 DA.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Il peut être accordé au membre de la famille chargé du rapatriement de la dépouille mortelle une dérogation pour l'acquisition en dinars auprès d'une compagnie aérienne d'un titre de transport de ladite dépouille\".",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "\"Article 5 : Les parents rendant visite conjointement à leur (s) enfants (s) de 15 ans et moins hospitalisé (s) à l'étranger depuis au moins douze (12) mois sous couvert d'une prise en charge telle que définie à l'article 2 ci-dessus bénéficient d'une allocation devises dite allocation de visite parentale annuelle dont le montant est fixé à la contrevaleur en devises de 20.000 DA.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Ce montant est fixé à 12.000 DA lorsque l'un des parents seulement (père ou mère)",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "effectue la visite parentale annuelle. Au cas où l'autre parent (père ou mère selon le cas)",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "effectue à son tour, au cours de la même année, une visite parentale, il bénéficie du reste de l'allocation de visite parentale soit 8.000 DA.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "L'allocation de visite parentale cumulée par les deux parents (père et mère) ne peut dans tous les cas être supérieure à 20.000 DA\".",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les dispositions de l'Instruction n° 83-92 du 27 Décembre 1992 relative aux modalités d'attribution d'allocations devises à l'allocation d'hospitalisation et/ou de décès de nationaux à l'étranger non modifiées par la présente demeurent applicables.",
+      "paragraphs": [
+        {
+          "text": "Les dispositions de l'Instruction n° 83-92 du 27 Décembre 1992 relative aux modalités d'attribution d'allocations devises à l'allocation d'hospitalisation et/ou de décès de nationaux à l'étranger non modifiées par la présente demeurent applicables.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "La présente Instruction est applicable à compter de la date de sa signature.\nLe Gouverneur\nAbdelouahab KERAMANE",
+      "paragraphs": [
+        {
+          "text": "La présente Instruction est applicable à compter de la date de sa signature.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.044
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-15-94.fr.txt"
+}

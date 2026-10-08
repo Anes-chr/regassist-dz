@@ -1,0 +1,203 @@
+{
+  "document_id": "NOT-001-22.fr",
+  "work_id": "NOT-001-22",
+  "title": "Note aux banques n°001/2022 du 6 mars 2022",
+  "document_type": "note",
+  "type_code": "NOT",
+  "type_source": "label",
+  "number": "001-2022",
+  "number_source": "libelle",
+  "date": "2022-03-06",
+  "date_raw": "n°001/2022 du 6 mars 2022",
+  "date_source": "libelle",
+  "publication_date": "2022-04-17",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "notes_aux_banques",
+  "subcategory": "Année 2022",
+  "source_url": "https://www.bank-of-algeria.dz/les-notes-aux-banques-2022/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2022/04/nb01cab.pdf",
+  "format": "pdf",
+  "file_hash": "1d6b421604b4b54504f8bd3eb54e139fe595e16b89e04088aae67f806244aacf",
+  "file_size": 3504730,
+  "raw_path": "raw/1d6b421604b4__nb01cab.pdf",
+  "retrieved_at": "2026-10-05T13:25:08+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 1,
+  "url_hash": "73428f0c0ab28b643728e9d78fbd0ffc9b3015105e102e1b0b33cf78ea5cad17",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/les-notes-aux-banques-2022/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.7",
+    "creator": "Scan Process Machine",
+    "producer": "secPdfProducer",
+    "creationDate": "D:20220307170314Z",
+    "modDate": "D:20220307170736+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 965,
+        "ocr_confidence": 90.73049645390071
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": false,
+    "article_count": 0,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_utilise_verification_humaine"
+  ],
+  "title_document": null,
+  "alias_urls": [],
+  "text_hash": "123c934d7f57462f2d583eb2bfcc23ff2ab270e44ca34bfb4238846ec52c7d0a",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "body",
+      "label": "Corps du texte",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Lol. SI\nAlger, le 6 mars 2022 001/2022\nNote à Messieurs les :\n- Présidents Directeurs Généraux ;\n- Directeurs Généraux ;\n- Présidents des Directoires ;\n- Directeur exécutif, des banques et établissements financiers.\nObjet : financements extérieurs d’investissements.\nEn vertu des dispositions de l’article 108 de la Loi n° 19-14 du 11 décembre 2019 portant loi de finances pour 2020, seuls les projets stratégiques et structurants pour l’économie nationale, sont éligibles aux financements extérieurs auprès d'institutions financières internationales de développement et ce, après avis des autorités compétentes.\n“\nPar conséquent, il importe de souligner que tout concours extérieur de quelque nature qu’il soit, qui ne s’inscrit pas dans ce cadre, demeure considéré comme endettement extérieur, et proscrit.\nAussi, votre attention est attirée sur l’impérieuse nécessité de veiller au strict respect des prescriptions légales sus indiquées.\nBank of Algeria\nGovernor",
+      "paragraphs": [
+        {
+          "text": "Lol. SI",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Alger, le 6 mars 2022 001/2022",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Note à Messieurs les :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Présidents Directeurs Généraux ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Directeurs Généraux ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Présidents des Directoires ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Directeur exécutif, des banques et établissements financiers.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Objet : financements extérieurs d’investissements.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "En vertu des dispositions de l’article 108 de la Loi n° 19-14 du 11 décembre 2019 portant loi de finances pour 2020, seuls les projets stratégiques et structurants pour l’économie nationale, sont éligibles aux financements extérieurs auprès d'institutions financières internationales de développement et ce, après avis des autorités compétentes.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "“",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Par conséquent, il importe de souligner que tout concours extérieur de quelque nature qu’il soit, qui ne s’inscrit pas dans ce cadre, demeure considéré comme endettement extérieur, et proscrit.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Aussi, votre attention est attirée sur l’impérieuse nécessité de veiller au strict respect des prescriptions légales sus indiquées.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Bank of Algeria",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Governor",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_utilise_verification_humaine"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.044,
+      "ocr_pages": [
+        1
+      ],
+      "ocr_mean_confidence": 90.7
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/NOT-001-22.fr.txt"
+}

@@ -1,0 +1,701 @@
+{
+  "document_id": "INS-09-96.fr",
+  "work_id": "INS-09-96",
+  "title": "Instruction n°09-96 du 19 décembre1996 instituant un droit de change au profit des nationaux résidents poursuivant une scolarité a l’étranger.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "09-96",
+  "number_source": "en-tête du document",
+  "date": "1996-12-19",
+  "date_raw": "N°09-96 DU 19 DECEMBRE1996",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [
+    {
+      "url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction0996.pdf",
+      "uploaded": "2023-01-24T14:50:42"
+    }
+  ],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "instructions",
+  "subcategory": "Année 1996",
+  "source_url": "https://www.bank-of-algeria.dz/annee-1996/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/instruction0996.pdf",
+  "format": "pdf",
+  "file_hash": "981bf3c0a5ad052171ead9b5979e222cbf64a0d12b7fa3ef16cc69666b9e4292",
+  "file_size": 39875,
+  "raw_path": "raw/981bf3c0a5ad__instruction0996.pdf",
+  "retrieved_at": "2026-10-05T14:17:17+00:00",
+  "scope_reason": "type_juridique_dans_libelle",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "5f625327b4ea180501ae345c416e42b97b50f3a9a0f3cd3256d9a05b104e1814",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/annee-1996/",
+    "https://www.bank-of-algeria.dz/importations-exportations-instruction/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document2",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200813121256+01'00'",
+    "modDate": "D:20200813121256+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2706,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "pdf_text",
+        "chars": 2082,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 15,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "INSTRUCTION N°09-96 DU 19 DECEMBRE1996 INSTITUANT UN DROIT DE CHANGE AU PROFIT DES NATIONAUX RESIDENTS POURSUIVANT UNE SCOLARITE A L'ETRANGER",
+  "alias_urls": [
+    {
+      "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction0996.pdf",
+      "source_url": "https://www.bank-of-algeria.dz/importations-exportations-instruction/",
+      "title": "Instruction n°09-96 du 19 décembre1996 instituant un droit de change au profit des nationaux résidents poursuivant une scolarité a l’étranger."
+    }
+  ],
+  "text_hash": "b1c05d0f33605c17618ab1778a4d1be817cefbe3d8de27f29338e7a21c36ca77",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [
+    {
+      "work_id": "INS-07-00",
+      "document_id": "INS-07-00.fr",
+      "date": "2000-07-26",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°07-2000 du 26 juillet 2000 portant modification de l’instruction n°09-96 du 19 décembre 1996 instituant un droit de change au profit"
+      }
+    },
+    {
+      "work_id": "INS-07-00",
+      "document_id": "INS-07-00.fr",
+      "date": "2000-07-26",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente Instruction a pour objet de modifier les dispositions de l’article 2 de l’instruction n°09-96 du 19 décembre 1996 instituant un droit de change au profit"
+      }
+    }
+  ],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée. Ce texte a été modifié/complété : consulter aussi les textes listés dans modifié_par / complété_par.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [
+    {
+      "work_id": "INS-07-00",
+      "document_id": "INS-07-00.fr",
+      "date": "2000-07-26",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°07-2000 du 26 juillet 2000 portant modification de l’instruction n°09-96 du 19 décembre 1996 instituant un droit de change au profit"
+      }
+    },
+    {
+      "work_id": "INS-07-00",
+      "document_id": "INS-07-00.fr",
+      "date": "2000-07-26",
+      "partial": true,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente Instruction a pour objet de modifier les dispositions de l’article 2 de l’instruction n°09-96 du 19 décembre 1996 instituant un droit de change au profit"
+      }
+    }
+  ],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "page_start": 2,
+      "page_end": 2,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "INSTRUCTION N°09-96 DU 19 DECEMBRE1996 INSTITUANT\nUN DROIT DE CHANGE AU PROFIT DES NATIONAUX RESIDENTS\nPOURSUIVANT UNE SCOLARITE A L'ETRANGER",
+      "paragraphs": [
+        {
+          "text": "INSTRUCTION N°09-96 DU 19 DECEMBRE1996 INSTITUANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "UN DROIT DE CHANGE AU PROFIT DES NATIONAUX RESIDENTS",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "POURSUIVANT UNE SCOLARITE A L'ETRANGER",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "En application de l'article 42 du règlement n°95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes, la présente Instruction a pour objet de fixer le droit de change au profit des nationaux résidents poursuivant une scolarité à l'étranger et de définir les modalités de son transfert.",
+      "paragraphs": [
+        {
+          "text": "En application de l'article 42 du règlement n°95-07 du 23 décembre 1995 modifiant et remplaçant le règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes, la présente Instruction a pour objet de fixer le droit de change au profit des nationaux résidents poursuivant une scolarité à l'étranger et de définir les modalités de son transfert.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le montant du droit de change visé à l'article précédent est fixé à Sept Mille\nCinq Cents (7.500) Dinars Algériens maximum par mois pour une période maximale de dix (10) mois s'écoulant entre le 1er Septembre et le 30 Juin.",
+      "paragraphs": [
+        {
+          "text": "Le montant du droit de change visé à l'article précédent est fixé à Sept Mille",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Cinq Cents (7.500) Dinars Algériens maximum par mois pour une période maximale de dix (10) mois s'écoulant entre le 1er Septembre et le 30 Juin.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les dispositions de la présente Instruction sont applicables exclusivement aux nationaux résidents en Algérie :\n- poursuivant des études à l'étranger auprès d'un établissement d'enseignement supérieur ;\n- subissant des soins de longue durée à l'étranger et scolarisés dans un établissement d'enseignement normal ou spécialisé du niveau primaire, secondaire ou supérieur.",
+      "paragraphs": [
+        {
+          "text": "Les dispositions de la présente Instruction sont applicables exclusivement aux nationaux résidents en Algérie :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- poursuivant des études à l'étranger auprès d'un établissement d'enseignement supérieur ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- subissant des soins de longue durée à l'étranger et scolarisés dans un établissement d'enseignement normal ou spécialisé du niveau primaire, secondaire ou supérieur.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le transfert, au titre du droit de change visé à l'article 2 ci-dessus, s'effectue par tout guichet de banque ou d'établissement financier, intermédiaire agréé installé dans la wilaya de résidence de l'ordonnateur du transfert ou du Centre des Chèques\nPostaux (C.C.P) auprès duquel le dossier doit être domicilié.",
+      "paragraphs": [
+        {
+          "text": "Le transfert, au titre du droit de change visé à l'article 2 ci-dessus, s'effectue par tout guichet de banque ou d'établissement financier, intermédiaire agréé installé dans la wilaya de résidence de l'ordonnateur du transfert ou du Centre des Chèques",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Postaux (C.C.P) auprès duquel le dossier doit être domicilié.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le dossier de transfert doit être présenté par une personne physique de nationalité algérienne résidente en Algérie.",
+      "paragraphs": [
+        {
+          "text": "Le dossier de transfert doit être présenté par une personne physique de nationalité algérienne résidente en Algérie.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le dossier de transfert à présenter au guichet de banque ou d'établissement financier, intermédiaire agréé ou au Centre des Chèques Postaux (C.C.P) doit comporter les pièces suivantes :\n1- Une copie légalisée de la pièce d'identité établie en Algérie (carte nationale ou passeport) faisant ressortir la résidence en Algérie :\n• de l'ordonnateur du transfert ;\n• du bénéficiaire étudiant ou du malade selon le cas.\n2- Un certificat de scolarité justifiant l'inscription du bénéficiaire auprès d'un des établissements visés à l'article 3 ci-dessus.\n3- Une attestation de non boursier délivrée par l'Administration Algérienne.",
+      "paragraphs": [
+        {
+          "text": "Le dossier de transfert à présenter au guichet de banque ou d'établissement financier, intermédiaire agréé ou au Centre des Chèques Postaux (C.C.P) doit comporter les pièces suivantes :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "1- Une copie légalisée de la pièce d'identité établie en Algérie (carte nationale ou passeport) faisant ressortir la résidence en Algérie :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "• de l'ordonnateur du transfert ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "• du bénéficiaire étudiant ou du malade selon le cas.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "2- Un certificat de scolarité justifiant l'inscription du bénéficiaire auprès d'un des établissements visés à l'article 3 ci-dessus.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "3- Une attestation de non boursier délivrée par l'Administration Algérienne.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 7",
+      "number": "7",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Outre les pièces 1 à 3 énumérées à l'article 6 ci-dessus, le dossier de transfert concernant les malades subissant des soins à l'étranger, doit comporter les documents suivants :\n- une copie légalisée de la prise en charge pour soins à l'étranger, délivrée par un organisme algérien de sécurité sociale ;\n- une attestation dudit organisme confirmant la poursuite des soins à l'étranger dans le cas d'une prolongation de l'hospitalisation.",
+      "paragraphs": [
+        {
+          "text": "Outre les pièces 1 à 3 énumérées à l'article 6 ci-dessus, le dossier de transfert concernant les malades subissant des soins à l'étranger, doit comporter les documents suivants :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- une copie légalisée de la prise en charge pour soins à l'étranger, délivrée par un organisme algérien de sécurité sociale ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- une attestation dudit organisme confirmant la poursuite des soins à l'étranger dans le cas d'une prolongation de l'hospitalisation.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 8",
+      "number": "8",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les pièces désignées aux articles 6 et 7 ci-dessus doivent être produites en original ou en copies dûment légalisées.",
+      "paragraphs": [
+        {
+          "text": "Les pièces désignées aux articles 6 et 7 ci-dessus doivent être produites en original ou en copies dûment légalisées.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 9",
+      "number": "9",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le dossier de transfert, visé à l'article 6 ci-dessus, ne doit, en aucun cas, servir à la réalisation d'autres transferts du montant du droit de change objet de la présente Instruction par d'autres guichets de banque ou d'établissement financier, intermédiaire agréé.\nCette disposition doit être expressément portée à la connaissance de l'ordonnateur au moment de la présentation du dossier visé audit article 6.",
+      "paragraphs": [
+        {
+          "text": "Le dossier de transfert, visé à l'article 6 ci-dessus, ne doit, en aucun cas, servir à la réalisation d'autres transferts du montant du droit de change objet de la présente Instruction par d'autres guichets de banque ou d'établissement financier, intermédiaire agréé.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Cette disposition doit être expressément portée à la connaissance de l'ordonnateur au moment de la présentation du dossier visé audit article 6.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 10",
+      "number": "10",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les dispositions de la présente Instruction ne s'appliquent pas aux bénéficiaires de bourses d'études.",
+      "paragraphs": [
+        {
+          "text": "Les dispositions de la présente Instruction ne s'appliquent pas aux bénéficiaires de bourses d'études.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 11",
+      "number": "11",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Les banques et les établissements financiers, intermédiaires agréés et le\nCentre des Chèques Postaux (C.C.P) devront adresser mensuellement à la Banque d'Algérie, un état consolidé des transferts réalisés par leurs guichets durant le mois de référence. Cet état doit notamment faire ressortir les informations suivantes :\n- nom, prénom et adresse de l'ordonnateur du transfert,\n- nom, prénom, date et lieu de naissance et adresse à l'étranger du bénéficiaire,\n- Adresse et numéro d'immatriculation du guichet de banque ou d'établissement financier, intermédiaire agréé auprès duquel est domicilié le dossier de transfert.",
+      "paragraphs": [
+        {
+          "text": "Les banques et les établissements financiers, intermédiaires agréés et le",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Centre des Chèques Postaux (C.C.P) devront adresser mensuellement à la Banque d'Algérie, un état consolidé des transferts réalisés par leurs guichets durant le mois de référence. Cet état doit notamment faire ressortir les informations suivantes :",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- nom, prénom et adresse de l'ordonnateur du transfert,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- nom, prénom, date et lieu de naissance et adresse à l'étranger du bénéficiaire,",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "- Adresse et numéro d'immatriculation du guichet de banque ou d'établissement financier, intermédiaire agréé auprès duquel est domicilié le dossier de transfert.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 12",
+      "number": "12",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Le nom respect des dispositions de la présente Instruction constitue une infraction à la réglementation des changes qui expose son auteur aux sanctions prévues par la législation en vigueur.",
+      "paragraphs": [
+        {
+          "text": "Le nom respect des dispositions de la présente Instruction constitue une infraction à la réglementation des changes qui expose son auteur aux sanctions prévues par la législation en vigueur.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 13",
+      "number": "13",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Toute demande de transfert d'un montant supérieur à celui fixé à l'article 2 ci-dessus doit faire l'objet d'un accord préalable de la Banque d'Algérie.",
+      "paragraphs": [
+        {
+          "text": "Toute demande de transfert d'un montant supérieur à celui fixé à l'article 2 ci-dessus doit faire l'objet d'un accord préalable de la Banque d'Algérie.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 14",
+      "number": "14",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "L'Instruction n°46-95 du 14 Juin 1995 instituant un droit de change au profit des nationaux résidents poursuivant une scolarité à l'étranger ainsi que toutes les dispositions réglementaires contraires à la présente Instruction sont abrogées.",
+      "paragraphs": [
+        {
+          "text": "L'Instruction n°46-95 du 14 Juin 1995 instituant un droit de change au profit des nationaux résidents poursuivant une scolarité à l'étranger ainsi que toutes les dispositions réglementaires contraires à la présente Instruction sont abrogées.",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 15",
+      "number": "15",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 2,
+      "page_end": 2,
+      "text": "La présente instruction est applicable à compter de la date de sa signature.\nLe Gouverneur\nAbdelouahab KERAMANE",
+      "paragraphs": [
+        {
+          "text": "La présente instruction est applicable à compter de la date de sa signature.",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 2,
+          "page_end": 2
+        },
+        {
+          "text": "Abdelouahab KERAMANE",
+          "page_start": 2,
+          "page_end": 2
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.039
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/INS-09-96.fr.txt"
+}

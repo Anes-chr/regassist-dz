@@ -1,0 +1,351 @@
+{
+  "document_id": "LOI-17-10.fr",
+  "work_id": "LOI-17-10",
+  "title": "Loi n°17-10 du 11 octobre 2017 complétant l’ordonnance n°03-11 du 26 août 2003 relative à la monnaie et au crédit",
+  "document_type": "loi",
+  "type_code": "LOI",
+  "type_source": "label",
+  "number": "17-10",
+  "number_source": "en-tête du document",
+  "date": "2017-10-11",
+  "date_raw": "N°17-10 DU 11 OCTOBRE 2017",
+  "date_source": "en-tête du document",
+  "publication_date": "2022-03-30",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": null,
+  "issuer_note": "Émetteur non établi par la source (publié sur le site de la Banque d'Algérie).",
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "loi_monetaire_et_bancaire",
+  "subcategory": "Historique",
+  "source_url": "https://www.bank-of-algeria.dz/loi-monnaie-et-credit/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2022/03/loi1710.pdf",
+  "format": "pdf",
+  "file_hash": "97003929daca2efb9fdf9faf239f31ae141462d4758a3cefd08d8c2ab4308d8d",
+  "file_size": 52750,
+  "raw_path": "raw/97003929daca__loi1710.pdf",
+  "retrieved_at": "2026-10-05T13:25:00+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "d91efacfd06a5c4fa02ded0a68496d596d365edf3d3901e577c3a81fc379b473",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/loi-monnaie-et-credit/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document14",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20210204094002+01'00'",
+    "modDate": "D:20210204094002+01'00'"
+  },
+  "hijri_date_raw": "27 Joumada Ethania 1424",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 1887,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 2,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "LOI N°17-10 DU 11 OCTOBRE 2017 COMPLETANT L’ORDONNANCE N°03-11 DU 26 AOUT 2003 RELATIVE A LA MONNAIE ET AU CREDIT (J.O N°57 DU 17 OCTOBRE 2017) Le Président de la République, -",
+  "alias_urls": [],
+  "text_hash": "cb4dd99ae4562de6c54e9287d5f4cda3773363bf74b338ede8f0fb721d04126d",
+  "relations_out": [
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "ORD",
+        "number": "03-11",
+        "date": "2003-08-26",
+        "raw": "ordonnance n°03-11 du 26 août 2003"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Loi n°17-10 du 11 octobre 2017 complétant l’ordonnance n°03-11 du 26 août 2003 relative à la monnaie et au crédit"
+      },
+      "target_work_id": "ORD-03-11"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "ORD",
+        "number": "03-11",
+        "date": null,
+        "raw": "ordonnance n° 03-11"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Les dispositions de l’ordonnance n° 03-11 du 27 Joumada Ethania 1424 correspondan"
+      },
+      "target_work_id": "ORD-03-11"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [
+    {
+      "work_id": "ORD-03-11",
+      "reference": "ordonnance n°03-11 du 26 août 2003",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Loi n°17-10 du 11 octobre 2017 complétant l’ordonnance n°03-11 du 26 août 2003 relative à la monnaie et au crédit"
+      }
+    },
+    {
+      "work_id": "ORD-03-11",
+      "reference": "ordonnance n° 03-11",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Les dispositions de l’ordonnance n° 03-11 du 27 Joumada Ethania 1424 correspondan"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "ORD-03-11",
+      "reference": "ordonnance n°03-11 du 26 août 2003",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Loi n°17-10 du 11 octobre 2017 complétant l’ordonnance n°03-11 du 26 août 2003 relative à la monnaie et au crédit"
+      }
+    },
+    {
+      "work_id": "ORD-03-11",
+      "reference": "ordonnance n° 03-11",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Les dispositions de l’ordonnance n° 03-11 du 27 Joumada Ethania 1424 correspondan"
+      }
+    }
+  ],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "LOI N°17-10 DU 11 OCTOBRE 2017 COMPLETANT L’ORDONNANCE\nN°03-11 DU 26 AOUT 2003 RELATIVE A LA MONNAIE ET AU CREDIT (J.O N°57 DU 17 OCTOBRE 2017)\nLe Président de la République,\n- Vu la Constitution, notamment ses articles 136, 138, 140-14 et 144 ;\n- Vu l’ordonnance n° 03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, modifiée et complétée, relative à la monnaie et au crédit ;\nAprès avis du Conseil d’Etat,\nAprès adoption par le Parlement,\nPromulgue la loi dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "LOI N°17-10 DU 11 OCTOBRE 2017 COMPLETANT L’ORDONNANCE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "N°03-11 DU 26 AOUT 2003 RELATIVE A LA MONNAIE ET AU CREDIT (J.O N°57 DU 17 OCTOBRE 2017)",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Président de la République,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la Constitution, notamment ses articles 136, 138, 140-14 et 144 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’ordonnance n° 03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, modifiée et complétée, relative à la monnaie et au crédit ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Après avis du Conseil d’Etat,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Après adoption par le Parlement,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue la loi dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les dispositions de l’ordonnance n° 03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, modifiée et complétée, relative à la monnaie et au crédit, sont complétées par l’article 45 bis rédigé comme suit :\n« Art. 45 bis. — Nonobstant toute disposition contraire, la Banque d’Algérie procède, dès l’entrée en vigueur de la présente disposition, à titre exceptionnel et durant une période de cinq (5) années, à l’achat directement auprès du Trésor, de titres émis par celui-ci, à l’effet de participer, notamment :\n— à la couverture des besoins de financement du Trésor ;\n— au financement de la dette publique interne ;\n— au financement du Fonds National d’Investissement (FNI).\nCe dispositif est mis en œuvre pour accompagner la réalisation d’un programme de réformes structurelles économiques et budgétaires devant aboutir, au plus tard, à l’issue de la période susvisée, notamment, au rétablissement :\n— des équilibres de la trésorerie de l’Etat ;\n— de l’équilibre de la balance des paiements.\nUn mécanisme de suivi de la mise en œuvre de cette disposition, par le Trésor et la\nBanque d’Algérie, est défini par voie réglementaire ».",
+      "paragraphs": [
+        {
+          "text": "Les dispositions de l’ordonnance n° 03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003, modifiée et complétée, relative à la monnaie et au crédit, sont complétées par l’article 45 bis rédigé comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "« Art. 45 bis. — Nonobstant toute disposition contraire, la Banque d’Algérie procède, dès l’entrée en vigueur de la présente disposition, à titre exceptionnel et durant une période de cinq (5) années, à l’achat directement auprès du Trésor, de titres émis par celui-ci, à l’effet de participer, notamment :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "— à la couverture des besoins de financement du Trésor ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "— au financement de la dette publique interne ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "— au financement du Fonds National d’Investissement (FNI).",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Ce dispositif est mis en œuvre pour accompagner la réalisation d’un programme de réformes structurelles économiques et budgétaires devant aboutir, au plus tard, à l’issue de la période susvisée, notamment, au rétablissement :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "— des équilibres de la trésorerie de l’Etat ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "— de l’équilibre de la balance des paiements.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Un mécanisme de suivi de la mise en œuvre de cette disposition, par le Trésor et la",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Banque d’Algérie, est défini par voie réglementaire ».",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La présente loi sera publiée au Journal officiel de la République algérienne démocratique et populaire.\nFait à Alger, le 20 Moharram 1439 correspondant au 11 octobre 2017\nAbdelaziz BOUTEFLIKA",
+      "paragraphs": [
+        {
+          "text": "La présente loi sera publiée au Journal officiel de la République algérienne démocratique et populaire.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Fait à Alger, le 20 Moharram 1439 correspondant au 11 octobre 2017",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Abdelaziz BOUTEFLIKA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.056
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/LOI-17-10.fr.txt"
+}

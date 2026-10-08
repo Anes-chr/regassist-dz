@@ -1,0 +1,669 @@
+{
+  "document_id": "REG-20-08.ar",
+  "work_id": "REG-20-08",
+  "title": "نظام رقم 20-08 المؤرخ في 7 ديسمبر 2020، يعدل ويتمم النظام رقم 18-03 المؤرخ في 4 نوفمبر 2018 المتعلق بالحد الأدنى لرأسمال البنوك والمؤسسات المالية العاملة في الجزائر.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "20-08",
+  "number_source": "libelle",
+  "date": "2020-12-07",
+  "date_raw": "المؤرخ في 7 ديسمبر 2020",
+  "date_source": "libelle",
+  "publication_date": "2023-02-28",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "règlements",
+  "subcategory": "شروط تأسيس و إنشاء البنوك و المؤسسات المالية و الحد الادنى لرأس المال",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%b4%d8%b1%d9%88%d8%b7-%d8%aa%d8%a3%d8%b3%d9%8a%d8%b3-%d9%88-%d8%a5%d9%86%d8%b4%d8%a7%d8%a1-%d8%a7%d9%84%d8%a8%d9%86%d9%88%d9%83-%d9%88-%d8%a7%d9%84%d9%85%d8%a4%d8%b3%d8%b3%d8%a7%d8%aa-%d8%a7%d9%84/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/02/08-2020.pdf",
+  "format": "pdf",
+  "file_hash": "ae2780e9cf3795c06aeb2fa019bdd27eb73cfa39479e0d17980e2054dfa2023d",
+  "file_size": 71225,
+  "raw_path": "raw/ae2780e9cf37__08-2020.pdf",
+  "retrieved_at": "2026-10-05T13:28:54+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "285f5438fe7f3f6a311e7df97bdbd7b87de6f3cbf7642d03f387667731f64977",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%b4%d8%b1%d9%88%d8%b7-%d8%aa%d8%a3%d8%b3%d9%8a%d8%b3-%d9%88-%d8%a5%d9%86%d8%b4%d8%a7%d8%a1-%d8%a7%d9%84%d8%a8%d9%86%d9%88%d9%83-%d9%88-%d8%a7%d9%84%d9%85%d8%a4%d8%b3%d8%b3%d8%a7%d8%aa-%d8%a7%d9%84/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - reglements2020arabe",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20230226123446+01'00'",
+    "modDate": "D:20230226123446+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 1896,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": [
+      {
+        "page": 1,
+        "removed": "08",
+        "why": "numéro de page"
+      }
+    ]
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 3,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "نظام رقم2020 - ال مؤرخ في 21 ربيع الثاني عا م 1442",
+  "alias_urls": [],
+  "text_hash": "0d596c3f7ba82005c38256d5cacf525c8c0f4b74b096c47d898942c3609e0640",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "2018-03",
+        "date": "2018-11-04",
+        "raw": "règlement n°2018-03 du 4 novembre 2018"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2020-08 du 7 décembre 2020 modifiant et complétant le règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques",
+        "copied_from": "REG-20-08.fr"
+      },
+      "target_work_id": "REG-18-03"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "2018-03",
+        "date": "2018-11-04",
+        "raw": "règlement n°2018-03 du 4 novembre 2018"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2020-08 du 7 décembre 2020 modifiant et complétant le règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques",
+        "copied_from": "REG-20-08.fr"
+      },
+      "target_work_id": "REG-18-03"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "2018-03",
+        "date": "2018-11-04",
+        "raw": "règlement n°2018-03 du 4 novembre 2018"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et compléter le règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques",
+        "copied_from": "REG-20-08.fr"
+      },
+      "target_work_id": "REG-18-03"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "2018-03",
+        "date": "2018-11-04",
+        "raw": "règlement n°2018-03 du 4 novembre 2018"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et compléter le règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques",
+        "copied_from": "REG-20-08.fr"
+      },
+      "target_work_id": "REG-18-03"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "REG-18-03",
+      "reference": "règlement n°2018-03 du 4 novembre 2018",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2020-08 du 7 décembre 2020 modifiant et complétant le règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques",
+        "copied_from": "REG-20-08.fr"
+      }
+    },
+    {
+      "work_id": "REG-18-03",
+      "reference": "règlement n°2018-03 du 4 novembre 2018",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et compléter le règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques",
+        "copied_from": "REG-20-08.fr"
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "REG-18-03",
+      "reference": "règlement n°2018-03 du 4 novembre 2018",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2020-08 du 7 décembre 2020 modifiant et complétant le règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques",
+        "copied_from": "REG-20-08.fr"
+      }
+    },
+    {
+      "work_id": "REG-18-03",
+      "reference": "règlement n°2018-03 du 4 novembre 2018",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et compléter le règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques",
+        "copied_from": "REG-20-08.fr"
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-20-08.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "REG-18-03",
+      "reference": "règlement n°2018-03 du 4 novembre 2018",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2020-08 du 7 décembre 2020 modifiant et complétant le règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques",
+        "copied_from": "REG-20-08.fr"
+      }
+    },
+    {
+      "work_id": "REG-18-03",
+      "reference": "règlement n°2018-03 du 4 novembre 2018",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent règlement a pour objet de modifier et compléter le règlement n°2018-03 du 4 novembre 2018 relatif au capital minimum des banques",
+        "copied_from": "REG-20-08.fr"
+      }
+    }
+  ],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "نظام رقم2020 - ال مؤرخ في 21 ربيع الثاني عا م 1442\nالموافق\n7\nديسمبر سنة2020 ، يعدّل ويتمّم النظام رقم2018 - 03\nالمؤرخ في4\nنوفمبر سنة2018\nالمتعلّق بالحدّ الأدنى لرأسمال البنوك والمؤسسات المالية العاملة في الجزائر\nإنّ محافظ بنك الجزائر؛\n-\nبمقتضى الأمر رقم03 - 11\nالمؤرّخ في27\nجمادى الثانية عام1424\nالموافق26\nغشت سنة2003\nوالمتعلق بالنقد والقرض، المعدّل والمتمم، لا سيّما المواد 62 و63 و64 و65 و88\n،منه\n-\nوبمقتضى المرسوم الرئاسي المؤرّخ في5 صفر عام1437\nالموافق17\nنوفمبر سنة2015\nوالمتضمّن تعيين أعضاء في مجلس إدارة بنك الجزائر،\n-\nوبمقتضى المرسوم الرئاسي المؤرّخ في27\nمحرم عام1442\nالموافق15\nسبتمبر سنة2020\nوالمتضمّن تعيين محافظ بنك الجزائر،\n-\nوبمقتضى المرسوم الرئاسي المؤرّخ في17\nصفر عام1438\nالموافق17\nنوفمبر سنة2016\nوالمتضمن تعيين نائبين لمحافظ بنك الجزائر،\n-\nوبمقتضى المرسوم الرئاسي المؤرّخ في18\nربيع الثاني عام1441\nالموافق15\nديسمبر سنة2019\nوالمتضمّن تعيين نائبين لمحافظ بنك الجزائر،\n- وبمقتضى\nالنظام رقم 2018 - 03\nالمؤرخ في4\nنوفمبر سنة2018\nالمتعلّق بالحدّ الأدنى لرأسمال البنوك والمؤسسات المالية العاملة في الجزائر،\n-\nوبعد الاطلاع على مداولة مجلس النقد والقرض بتاريخ7\nديسمبر سنة2020 ،\n:يصدر النظام الآتي نصه",
+      "paragraphs": [
+        {
+          "text": "نظام رقم2020 - ال مؤرخ في 21 ربيع الثاني عا م 1442",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "7",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ديسمبر سنة2020 ، يعدّل ويتمّم النظام رقم2018 - 03",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرخ في4",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "نوفمبر سنة2018",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المتعلّق بالحدّ الأدنى لرأسمال البنوك والمؤسسات المالية العاملة في الجزائر",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "إنّ محافظ بنك الجزائر؛",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "بمقتضى الأمر رقم03 - 11",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرّخ في27",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "جمادى الثانية عام1424",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق26",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "غشت سنة2003",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتعلق بالنقد والقرض، المعدّل والمتمم، لا سيّما المواد 62 و63 و64 و65 و88",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "،منه",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى المرسوم الرئاسي المؤرّخ في5 صفر عام1437",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق17",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "نوفمبر سنة2015",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتضمّن تعيين أعضاء في مجلس إدارة بنك الجزائر،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى المرسوم الرئاسي المؤرّخ في27",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "محرم عام1442",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق15",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "سبتمبر سنة2020",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتضمّن تعيين محافظ بنك الجزائر،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى المرسوم الرئاسي المؤرّخ في17",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "صفر عام1438",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق17",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "نوفمبر سنة2016",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتضمن تعيين نائبين لمحافظ بنك الجزائر،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبمقتضى المرسوم الرئاسي المؤرّخ في18",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ربيع الثاني عام1441",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "الموافق15",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ديسمبر سنة2019",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتضمّن تعيين نائبين لمحافظ بنك الجزائر،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- وبمقتضى",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "النظام رقم 2018 - 03",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرخ في4",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "نوفمبر سنة2018",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المتعلّق بالحدّ الأدنى لرأسمال البنوك والمؤسسات المالية العاملة في الجزائر،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "-",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "وبعد الاطلاع على مداولة مجلس النقد والقرض بتاريخ7",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ديسمبر سنة2020 ،",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": ":يصدر النظام الآتي نصه",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يعدل هذا النظام وتتميم ا لنظام رقم 2018 - 03\nالمؤرخ في4\nنوفمبر سنة2018\nوالمتعلّق بالحدّ الأدنى .لرأسمال البنوك والمؤسسات المالية العاملة في الجزائر",
+      "paragraphs": [
+        {
+          "text": "يعدل هذا النظام وتتميم ا لنظام رقم 2018 - 03",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرخ في4",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "نوفمبر سنة2018",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتعلّق بالحدّ الأدنى .لرأسمال البنوك والمؤسسات المالية العاملة في الجزائر",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": ":\nتُتمم وتُعدّل الفقرة الأولى من المادة4\nمن النظام رقم2018 - 03\nالمؤرخ في4\nنوفمبر سنة2018\nوالمتعلّق بالحدّ الأدنى لرأسمال ا لبنوك والمؤسسات المالية العاملة في الجزائر، وتحرّر كما يأتي:\n»\nتلزم البنوك والمؤسسات المالية العاملة بالامتثال لأحكام هذا النظام في أجل أقصاه 30\nيونيو سنة2021 .«",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "تُتمم وتُعدّل الفقرة الأولى من المادة4",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "من النظام رقم2018 - 03",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المؤرخ في4",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "نوفمبر سنة2018",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "والمتعلّق بالحدّ الأدنى لرأسمال ا لبنوك والمؤسسات المالية العاملة في الجزائر، وتحرّر كما يأتي:",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "»",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "تلزم البنوك والمؤسسات المالية العاملة بالامتثال لأحكام هذا النظام في أجل أقصاه 30",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "يونيو سنة2021 .«",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": ":\n.ينشر هذا النظام في الجريدة الرسمية للجمهورية الجزائرية الديمقراطية الشعبية\nالمحافظ\nرستم فضلي\nBANK OF ALGERIA",
+      "paragraphs": [
+        {
+          "text": ":",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": ".ينشر هذا النظام في الجريدة الرسمية للجمهورية الجزائرية الديمقراطية الشعبية",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "المحافظ",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "رستم فضلي",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "BANK OF ALGERIA",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.042
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/REG-20-08.ar.txt"
+}

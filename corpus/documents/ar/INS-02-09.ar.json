@@ -1,0 +1,324 @@
+{
+  "document_id": "INS-02-09.ar",
+  "work_id": "INS-02-09",
+  "title": "تعليمة رقم 02-2009 المؤرخة في 25 فيفري 2009، المتعلقة بمعدلات الفائدة المطبقة على تسهيلة الودائع المغلة للفائدة.",
+  "document_type": "instruction",
+  "type_code": "INS",
+  "type_source": "label",
+  "number": "02-2009",
+  "number_source": "libelle",
+  "date": "2009-02-25",
+  "date_raw": "المؤرخة في 25 فيفري 2009",
+  "date_source": "libelle",
+  "publication_date": "2023-03-02",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "ar",
+  "category": "instructions",
+  "subcategory": "أدوات السياسة النقدية",
+  "source_url": "https://www.bank-of-algeria.dz/ar/%d8%a3%d8%af%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d9%86%d9%82%d8%af%d9%8a%d8%a9/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/03/09-02.pdf",
+  "format": "pdf",
+  "file_hash": "efcea06382692ee7171ef8f64be8c6420d706b35953e1b93b615769f50ffa40d",
+  "file_size": 132549,
+  "raw_path": "raw/efcea0638269__09-02.pdf",
+  "retrieved_at": "2026-10-05T13:29:58+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "ocr",
+  "ocr_required": true,
+  "page_count": 1,
+  "url_hash": "5519a3900743fba8171cfee6c834f70763aa6c75a17a2d46d3f75588de9fb512",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/ar/%d8%a3%d8%af%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d9%86%d9%82%d8%af%d9%8a%d8%a9/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "producer": "Epson Scan 2",
+    "creationDate": "D:20230301094623+01'00'",
+    "modDate": "D:20230301094623+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "ocr",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "ocr",
+        "chars": 432,
+        "ocr_confidence": 89.34246575342466
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 2,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "ocr_uncertain_numbers:1",
+    "ocr_utilise_verification_humaine"
+  ],
+  "title_document": null,
+  "alias_urls": [],
+  "text_hash": "54771f61bf419afe9a89a60fe35dacecec2abffdf6c816f1007d91cca4ab04fb",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [
+    {
+      "work_id": "INS-09-16",
+      "document_id": "INS-09-16.fr",
+      "date": "2016-10-26",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions de l’instruction n°02-2009 du 25 février 2009."
+      }
+    }
+  ],
+  "modifie_par": [
+    {
+      "work_id": "INS-09-16",
+      "document_id": "INS-09-16.fr",
+      "date": "2016-10-26",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°09-2016 du 26 octobre modifiant l’instruction n°02-09 du 25 février 2009 relative aux taux d’intérêt applicable"
+      }
+    },
+    {
+      "work_id": "INS-09-16",
+      "document_id": "INS-09-16.fr",
+      "date": "2016-10-26",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier l’instruction n°02-09 relative au taux d’intérêt applicable à"
+      }
+    }
+  ],
+  "complete_par": [],
+  "remplace_par": [
+    {
+      "work_id": "INS-09-16",
+      "document_id": "INS-09-16.fr",
+      "date": "2016-10-26",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions de l’instruction n°02-2009 du 25 février 2009."
+      }
+    }
+  ],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [
+    {
+      "work_id": "INS-09-16",
+      "document_id": "INS-09-16.fr",
+      "date": "2016-10-26",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions de l’instruction n°02-2009 du 25 février 2009."
+      }
+    },
+    {
+      "work_id": "INS-09-16",
+      "document_id": "INS-09-16.fr",
+      "date": "2016-10-26",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions de l’instruction n°02-2009 du 25 février 2009."
+      }
+    }
+  ],
+  "status_note": "Une abrogation/un remplacement (ou une abrogation partielle) est évoqué dans un texte du corpus mais n'est pas établi sans ambiguïté : vérification humaine requise.",
+  "same_work_documents": [
+    "INS-02-09.fr",
+    "INS-02-09.fr~2"
+  ],
+  "complété_par": [],
+  "modifié_par": [
+    {
+      "work_id": "INS-09-16",
+      "document_id": "INS-09-16.fr",
+      "date": "2016-10-26",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Instruction n°09-2016 du 26 octobre modifiant l’instruction n°02-09 du 25 février 2009 relative aux taux d’intérêt applicable"
+      }
+    },
+    {
+      "work_id": "INS-09-16",
+      "document_id": "INS-09-16.fr",
+      "date": "2016-10-26",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction a pour objet de modifier l’instruction n°02-09 relative au taux d’intérêt applicable à"
+      }
+    }
+  ],
+  "abrogé_par": [
+    {
+      "work_id": "INS-09-16",
+      "document_id": "INS-09-16.fr",
+      "date": "2016-10-26",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions de l’instruction n°02-2009 du 25 février 2009."
+      }
+    }
+  ],
+  "remplacé_par": [
+    {
+      "work_id": "INS-09-16",
+      "document_id": "INS-09-16.fr",
+      "date": "2016-10-26",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "La présente instruction abroge et remplace les dispositions de l’instruction n°02-2009 du 25 février 2009."
+      }
+    }
+  ],
+  "complète": [],
+  "ocr_numeric_check": {
+    "units": 3,
+    "units_flagged": 1,
+    "units_compared_with_french": 1,
+    "french_twin": true
+  },
+  "needs_manual_review": true,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 02",
+      "number": "02",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "المحافقظ تغليمة رقم 09-02 تتعلق بسعر الفائدة المطبق على التسهيلة الخاصة بالوديعة المغلة للفائدة",
+      "paragraphs": [
+        {
+          "text": "المحافقظ تغليمة رقم 09-02 تتعلق بسعر الفائدة المطبق على التسهيلة الخاصة بالوديعة المغلة للفائدة",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "يحددء وفقا لأحكام المادة 4 من التعليمة رقم 05-04 المؤرخة في 14 جوان 2005 و المتعلقة بالتسهيلة الخاصة بالوديعة المغلة ll‏ سعر الفائدة المطبق على التسهيلة الخاصة بالوديعة المغلة للفائدة ب 900,30.",
+      "paragraphs": [
+        {
+          "text": "يحددء وفقا لأحكام المادة 4 من التعليمة رقم 05-04 المؤرخة في 14 جوان 2005 و المتعلقة بالتسهيلة الخاصة بالوديعة المغلة ll‏ سعر الفائدة المطبق على التسهيلة الخاصة بالوديعة المغلة للفائدة ب 900,30.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 02",
+      "number": "02",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "تدخل هذه التعليمة حيز التطبيق ابتداء من أول مارس 2009.\nحرر بالجزائر في» 25 فيفري 2009 Bank of Algeria The Governor",
+      "paragraphs": [
+        {
+          "text": "تدخل هذه التعليمة حيز التطبيق ابتداء من أول مارس 2009.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "حرر بالجزائر في» 25 فيفري 2009 Bank of Algeria The Governor",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "ocr_uncertain_numbers:1",
+      "ocr_utilise_verification_humaine"
+    ],
+    "severity": "review",
+    "details": {
+      "non_alnum_ratio": 0.025,
+      "ocr_pages": [
+        1
+      ],
+      "ocr_mean_confidence": 89.3
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/ar/INS-02-09.ar.txt"
+}

@@ -1,0 +1,397 @@
+{
+  "document_id": "REG-92-02.fr",
+  "work_id": "REG-92-02",
+  "title": "Règlement n°92-02 du 22 mars 1992 portant organisation et fonctionnement de la “Centrale des impayés”.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "92-02",
+  "number_source": "en-tête du document",
+  "date": "1992-03-22",
+  "date_raw": "N°92-02 DU 22 MARS 1992",
+  "date_source": "en-tête du document",
+  "publication_date": "2021-03",
+  "publication_date_source": "url_path(mois)",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Centrales des Risques, des Impayés et des Bilans et chèques sans provision",
+  "source_url": "https://www.bank-of-algeria.dz/centrale-reglement/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement9202.pdf",
+  "format": "pdf",
+  "file_hash": "d6c90826c3ad961592cc3cbf8cace27a29145c5d7a10ae7817da894cd2b57c57",
+  "file_size": 40672,
+  "raw_path": "raw/d6c90826c3ad__reglement9202.pdf",
+  "retrieved_at": "2026-10-05T13:23:09+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 1,
+  "url_hash": "9f0089992ec2682d228ad90379d742b46ffa5dbe05eb81d4e531860bcb2d7399",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/centrale-reglement/",
+    "https://www.bank-of-algeria.dz/centrale/",
+    "https://www.bank-of-algeria.dz/reglement-1992/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document2",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200708102904+01'00'",
+    "modDate": "D:20200708102904+01'00'"
+  },
+  "hijri_date_raw": null,
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 1,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2395,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 6,
+    "annex_count": 0
+  },
+  "quality_flags": [],
+  "title_document": "REGLEMENT N°92-02 DU 22 MARS 1992 PORTANT ORGANISATION ET FONCTIONNEMENT DE LA CENTRALE DES IMPAYES",
+  "alias_urls": [],
+  "text_hash": "291d05116571e78f713635cb8d0a4c38436b9061e40e090272a9aca37482f61f",
+  "relations_out": [],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [],
+  "complete": [],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [
+    {
+      "work_id": "REG-94-10",
+      "document_id": "REG-94-10.fr",
+      "date": "1994-04-12",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°94-10 du 13 avril 1994 modifiant le règlement n°92-02 du 8 septembre 1990 fixant les conditions d’ouverture et de"
+      }
+    }
+  ],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée. Ce texte a été modifié/complété : consulter aussi les textes listés dans modifié_par / complété_par.",
+  "same_work_documents": [
+    "REG-92-02.ar"
+  ],
+  "complété_par": [],
+  "modifié_par": [
+    {
+      "work_id": "REG-94-10",
+      "document_id": "REG-94-10.fr",
+      "date": "1994-04-12",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°94-10 du 13 avril 1994 modifiant le règlement n°92-02 du 8 septembre 1990 fixant les conditions d’ouverture et de"
+      }
+    }
+  ],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°92-02 DU 22 MARS 1992 PORTANT ORGANISATION\nET FONCTIONNEMENT DE LA CENTRALE DES IMPAYES\nLe Gouverneur de la Banque d'Algérie ;\n- Vu la loi n°90-10 du 14 avril 1990 relative à la monnaie et au crédit, notamment ses article 96, 110, 113 et 121 ;\n- Vu le décret présidentiel du 15 avril 1990 portant nomination du Gouverneur de la Banque d’Algérie ;\n- Vu les décrets présidentiels du 14 mai 1990 portant nomination de Vice\nGouverneurs de la Banque d’Algérie ;\n- Vu le décret exécutif du 1er juillet 1991 portant désignation des membres titulaires et suppléants au Conseil de la Monnaie et du Crédit ;\n- Vu la délibération du Conseil de la Monnaie et du Crédit en date du 22 mars 1992 ;\nPromulgue le règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°92-02 DU 22 MARS 1992 PORTANT ORGANISATION",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "ET FONCTIONNEMENT DE LA CENTRALE DES IMPAYES",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d'Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la loi n°90-10 du 14 avril 1990 relative à la monnaie et au crédit, notamment ses article 96, 110, 113 et 121 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret présidentiel du 15 avril 1990 portant nomination du Gouverneur de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu les décrets présidentiels du 14 mai 1990 portant nomination de Vice",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Gouverneurs de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le décret exécutif du 1er juillet 1991 portant désignation des membres titulaires et suppléants au Conseil de la Monnaie et du Crédit ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu la délibération du Conseil de la Monnaie et du Crédit en date du 22 mars 1992 ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le présent règlement a pour objet l’installation, au sein des structures de la\nBanque d’Algérie, d’une \" Centrale des Impayés \" à laquelle doivent adhérer tous les intermédiaires financiers.",
+      "paragraphs": [
+        {
+          "text": "Le présent règlement a pour objet l’installation, au sein des structures de la",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Banque d’Algérie, d’une \" Centrale des Impayés \" à laquelle doivent adhérer tous les intermédiaires financiers.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Au sens du présent règlement, on entend par intermédiaires financiers, les banques, les établissements financiers, le Trésor public, les services financiers des P et T et tout autre établissement qui met à la disposition de la clientèle des moyens de paiement et en assume la gestion.",
+      "paragraphs": [
+        {
+          "text": "Au sens du présent règlement, on entend par intermédiaires financiers, les banques, les établissements financiers, le Trésor public, les services financiers des P et T et tout autre établissement qui met à la disposition de la clientèle des moyens de paiement et en assume la gestion.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "La \" Centrale des Impayés \" est chargée pour chaque instrument de paiement et/ou de crédit :\n- d’organiser et de gérer un fichier central des incidents de paiements et des éventuelles suites qui en découlent ;\n- de diffuser périodiquement auprès des intermédiaires financiers et de toute autre autorité concernée, la liste des incidents de paiement avec leurs éventuelles suites.",
+      "paragraphs": [
+        {
+          "text": "La \" Centrale des Impayés \" est chargée pour chaque instrument de paiement et/ou de crédit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- d’organiser et de gérer un fichier central des incidents de paiements et des éventuelles suites qui en découlent ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- de diffuser périodiquement auprès des intermédiaires financiers et de toute autre autorité concernée, la liste des incidents de paiement avec leurs éventuelles suites.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les intermédiaires financiers sont tenus de déclarer à la \" Centrale des\nImpayés \" les incidents de paiement survenus sur les crédits qu’ils ont octroyés et/ou sur les instruments de paiement mis à la disposition de leur clientèle.",
+      "paragraphs": [
+        {
+          "text": "Les intermédiaires financiers sont tenus de déclarer à la \" Centrale des",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Impayés \" les incidents de paiement survenus sur les crédits qu’ils ont octroyés et/ou sur les instruments de paiement mis à la disposition de leur clientèle.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 5",
+      "number": "5",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les contraventions aux dispositions du présent règlement et à celle des textes subséquents seront déclarées à la commission bancaire.",
+      "paragraphs": [
+        {
+          "text": "Les contraventions aux dispositions du présent règlement et à celle des textes subséquents seront déclarées à la commission bancaire.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 6",
+      "number": "6",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Les règles de fonctionnement et de gestion de la \" Centrale des Impayés \", notamment en ce qui concerne les modalités de déclaration, la périodicité et les supports seront fixés par les règlements et/ou instructions spécifiques à chaque instrument de paiement ou de crédit.\nLe Gouverneur\nAbderrahmane Roustoumi HADJ NACER",
+      "paragraphs": [
+        {
+          "text": "Les règles de fonctionnement et de gestion de la \" Centrale des Impayés \", notamment en ce qui concerne les modalités de déclaration, la périodicité et les supports seront fixés par les règlements et/ou instructions spécifiques à chaque instrument de paiement ou de crédit.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Abderrahmane Roustoumi HADJ NACER",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.033
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-92-02.fr.txt"
+}

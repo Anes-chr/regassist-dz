@@ -1,0 +1,486 @@
+{
+  "document_id": "REG-05-02.fr~2",
+  "work_id": "REG-05-02",
+  "title": "Règlement n°2005-02 du 5 mars 2005 modifiant et complétant le règlement n°95-01 du 28 février 1995 portant dérogation en faveur de la caisse nationale de la mutualité agricole « CNMA » pour effectuer des opérations de banque.",
+  "document_type": "règlement",
+  "type_code": "REG",
+  "type_source": "label",
+  "number": "2005-02",
+  "number_source": "en-tête du document",
+  "date": "2005-03-05",
+  "date_raw": "N°2005-02 DU 05 MARS 2005",
+  "date_source": "en-tête du document",
+  "publication_date": "2023-01-25",
+  "publication_date_source": "wp_media_upload_date",
+  "media_library_alternates": [],
+  "publication_note": "Date de mise en ligne sur le site (≠ date de signature, ≠ publication au Journal officiel).",
+  "issuer": "Banque d'Algérie",
+  "issuer_note": null,
+  "published_on": "Banque d'Algérie (site officiel)",
+  "language": "fr",
+  "category": "reglements",
+  "subcategory": "Divers",
+  "source_url": "https://www.bank-of-algeria.dz/risques-reglement/",
+  "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/reglement200502.pdf",
+  "format": "pdf",
+  "file_hash": "35f1a161dd1ae81f5878bb3fe82b6471efcdd3eb8d468ce01e16aa297e421376",
+  "file_size": 51512,
+  "raw_path": "raw/35f1a161dd1a__reglement200502.pdf",
+  "retrieved_at": "2026-10-05T13:26:43+00:00",
+  "scope_reason": "page_juridique",
+  "extraction_method": "pdf_text",
+  "ocr_required": false,
+  "page_count": 2,
+  "url_hash": "9235be324023e826528526223a03717539f212c874c9f77b2fe77e7fa74e0891",
+  "all_source_urls": [
+    "https://www.bank-of-algeria.dz/risques-reglement/"
+  ],
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - Document4",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200714111253+01'00'",
+    "modDate": "D:20200714111253+01'00'"
+  },
+  "hijri_date_raw": "10 Rabie El Aouel 1422",
+  "extraction": {
+    "method": "pdf_text",
+    "page_count": 2,
+    "errors": [],
+    "pages": [
+      {
+        "page": 1,
+        "method": "pdf_text",
+        "chars": 2761,
+        "ocr_confidence": null
+      },
+      {
+        "page": 2,
+        "method": "blank",
+        "chars": 0,
+        "ocr_confidence": null
+      }
+    ],
+    "cleaning_removed": []
+  },
+  "structure_info": {
+    "structure_detected": true,
+    "article_count": 4,
+    "annex_count": 0
+  },
+  "quality_flags": [
+    "meme_texte_plusieurs_fichiers"
+  ],
+  "title_document": "REGLEMENT N°2005-02 DU 05 MARS 2005 MODIFIANT ET COMPLETANT LE REGLEMENT N°95-01 DU 28 FEVRIER 1995 PORTANT DEROGATION EN FAVEUR DE LA CAISSE NATIONALE DE LA MUTUALITE AGRICOLE « CNMA » POUR EFFECTUER DES OPERATIONS DE BANQUE",
+  "alias_urls": [],
+  "text_hash": "2a970a5c638e1beef8d1f8b308c04d115efe5f975659cef2ee44d3bfed8c436f",
+  "relations_out": [
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "95-01",
+        "date": "1995-02-28",
+        "raw": "règlement n°95-01 du 28 février 1995"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2005-02 du 5 mars 2005 modifiant et complétant le règlement n°95-01 du 28 février 1995 portant dérogation en faveur de la cais"
+      },
+      "target_work_id": "REG-95-01"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "95-01",
+        "date": "1995-02-28",
+        "raw": "règlement n°95-01 du 28 février 1995"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2005-02 du 5 mars 2005 modifiant et complétant le règlement n°95-01 du 28 février 1995 portant dérogation en faveur de la cais"
+      },
+      "target_work_id": "REG-95-01"
+    },
+    {
+      "relation": "modifie",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "95-01",
+        "date": "1995-02-28",
+        "raw": "Règlement n°95-01 du 28 Février 1995"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le Règlement n°95-01 du 28 Février 1995 susvisé."
+      },
+      "target_work_id": "REG-95-01"
+    },
+    {
+      "relation": "complete",
+      "target_ref": {
+        "type_code": "REG",
+        "number": "95-01",
+        "date": "1995-02-28",
+        "raw": "Règlement n°95-01 du 28 Février 1995"
+      },
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le Règlement n°95-01 du 28 Février 1995 susvisé."
+      },
+      "target_work_id": "REG-95-01"
+    }
+  ],
+  "unresolved_references": [],
+  "abroge": [],
+  "modifie": [
+    {
+      "work_id": "REG-95-01",
+      "reference": "règlement n°95-01 du 28 février 1995",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2005-02 du 5 mars 2005 modifiant et complétant le règlement n°95-01 du 28 février 1995 portant dérogation en faveur de la cais"
+      }
+    },
+    {
+      "work_id": "REG-95-01",
+      "reference": "Règlement n°95-01 du 28 Février 1995",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le Règlement n°95-01 du 28 Février 1995 susvisé."
+      }
+    }
+  ],
+  "complete": [
+    {
+      "work_id": "REG-95-01",
+      "reference": "règlement n°95-01 du 28 février 1995",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2005-02 du 5 mars 2005 modifiant et complétant le règlement n°95-01 du 28 février 1995 portant dérogation en faveur de la cais"
+      }
+    },
+    {
+      "work_id": "REG-95-01",
+      "reference": "Règlement n°95-01 du 28 Février 1995",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le Règlement n°95-01 du 28 Février 1995 susvisé."
+      }
+    }
+  ],
+  "remplace": [],
+  "abroge_par": [],
+  "modifie_par": [],
+  "complete_par": [],
+  "remplace_par": [],
+  "status": "STATUT À VÉRIFIER",
+  "status_evidence": [],
+  "status_note": "Aucune source officielle collectée n'indique l'abrogation, mais le site ne publie pas de statut de vigueur : l'applicabilité actuelle ne peut pas être affirmée.",
+  "same_work_documents": [
+    "REG-05-02.ar",
+    "REG-05-02.fr"
+  ],
+  "complété_par": [],
+  "modifié_par": [],
+  "abrogé_par": [],
+  "remplacé_par": [],
+  "complète": [
+    {
+      "work_id": "REG-95-01",
+      "reference": "règlement n°95-01 du 28 février 1995",
+      "partial": false,
+      "evidence": {
+        "source": "title",
+        "page": null,
+        "quote": "Règlement n°2005-02 du 5 mars 2005 modifiant et complétant le règlement n°95-01 du 28 février 1995 portant dérogation en faveur de la cais"
+      }
+    },
+    {
+      "work_id": "REG-95-01",
+      "reference": "Règlement n°95-01 du 28 Février 1995",
+      "partial": false,
+      "evidence": {
+        "source": "text",
+        "page": 1,
+        "quote": "Le présent Règlement a pour objet de modifier et de compléter le Règlement n°95-01 du 28 Février 1995 susvisé."
+      }
+    }
+  ],
+  "needs_manual_review": false,
+  "structure": [
+    {
+      "type": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "page_start": 1,
+      "page_end": 1,
+      "children": []
+    }
+  ],
+  "units": [
+    {
+      "kind": "preamble",
+      "label": "Préambule",
+      "number": null,
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "REGLEMENT N°2005-02 DU 05 MARS 2005 MODIFIANT ET COMPLETANT\nLE REGLEMENT N°95-01 DU 28 FEVRIER 1995 PORTANT DEROGATION EN\nFAVEUR DE LA CAISSE NATIONALE DE LA MUTUALITE AGRICOLE « CNMA »\nPOUR EFFECTUER DES OPERATIONS DE BANQUE\nLe Gouverneur de la Banque d'Algérie,\n- Vu l’Ordonnance n°03-11 relative à la Monnaie et au Crédit du 27 Joumada\nEthania 1424 correspondant au 26 Août 2003 notamment ses articles 62f, 63, 64, 65,78,88,89,90;\n- Vu le Décret Présidentiel du 10 Rabie El Aouel 1422 correspondant au 02 Juin 2001 portant nomination du Gouverneur et Vice-Gouverneurs de la Banque d’Algérie ;\n- Vu le Décret Présidentiel du 10 Rabie El Aouel 1422 correspondant au 02 juin 2001 portant nomination des Membres du Conseil d’Administration de la Banque d’Algérie ;\n- Vu le Décret Présidentiel du 24 Dhu Al Quida 1424 correspondant au 14 Janvier 2004 portant nomination des Membres du Conseil de la Monnaie et du Crédit de la\nBanque d’Algérie ;\n- Vu le Règlement n°95-01 du 28 Février 1995 portant dérogation en faveur de la\nCaisse Nationale de la Mutualité Agricole « CNMA » pour effectuer des opérations de banque ;\n- Vu le Règlement n° 04-01 du 04 mars 2004 relatif au capital minimum des banques et établissements financiers exerçant en Algérie ;\nAprès délibération du Conseil de la Monnaie et du Crédit en date du 05 Mars 2005,\nPromulgue le Règlement dont la teneur suit :",
+      "paragraphs": [
+        {
+          "text": "REGLEMENT N°2005-02 DU 05 MARS 2005 MODIFIANT ET COMPLETANT",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "LE REGLEMENT N°95-01 DU 28 FEVRIER 1995 PORTANT DEROGATION EN",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "FAVEUR DE LA CAISSE NATIONALE DE LA MUTUALITE AGRICOLE « CNMA »",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "POUR EFFECTUER DES OPERATIONS DE BANQUE",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur de la Banque d'Algérie,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu l’Ordonnance n°03-11 relative à la Monnaie et au Crédit du 27 Joumada",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Ethania 1424 correspondant au 26 Août 2003 notamment ses articles 62f, 63, 64, 65,78,88,89,90;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 10 Rabie El Aouel 1422 correspondant au 02 Juin 2001 portant nomination du Gouverneur et Vice-Gouverneurs de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 10 Rabie El Aouel 1422 correspondant au 02 juin 2001 portant nomination des Membres du Conseil d’Administration de la Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Décret Présidentiel du 24 Dhu Al Quida 1424 correspondant au 14 Janvier 2004 portant nomination des Membres du Conseil de la Monnaie et du Crédit de la",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Banque d’Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Règlement n°95-01 du 28 Février 1995 portant dérogation en faveur de la",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Caisse Nationale de la Mutualité Agricole « CNMA » pour effectuer des opérations de banque ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "- Vu le Règlement n° 04-01 du 04 mars 2004 relatif au capital minimum des banques et établissements financiers exerçant en Algérie ;",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Après délibération du Conseil de la Monnaie et du Crédit en date du 05 Mars 2005,",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Promulgue le Règlement dont la teneur suit :",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 1",
+      "number": "1",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le présent Règlement a pour objet de modifier et de compléter le Règlement n°95-01 du 28 Février 1995 susvisé.",
+      "paragraphs": [
+        {
+          "text": "Le présent Règlement a pour objet de modifier et de compléter le Règlement n°95-01 du 28 Février 1995 susvisé.",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 2",
+      "number": "2",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L’article 3 du Règlement n°95-01 du 28 Février 1995 portant dérogation en faveur de la Caisse Nationale de Mutualité Agricole « CNMA » pour effectuer des opérations de banque est modifié et complété comme suit :\n« Article 2 : la Caisse Nationale de Mutualité Agricole « CNMA » est autorisée dans le cadre de la mise en œuvre du présent Règlement à créer une société par actions ayant pour objet social exclusif l’exercice des opérations de banque. »",
+      "paragraphs": [
+        {
+          "text": "L’article 3 du Règlement n°95-01 du 28 Février 1995 portant dérogation en faveur de la Caisse Nationale de Mutualité Agricole « CNMA » pour effectuer des opérations de banque est modifié et complété comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "« Article 2 : la Caisse Nationale de Mutualité Agricole « CNMA » est autorisée dans le cadre de la mise en œuvre du présent Règlement à créer une société par actions ayant pour objet social exclusif l’exercice des opérations de banque. »",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 3",
+      "number": "3",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "L’article 4 du Règlement n°95-01 du 28 Février 1995 portant dérogation en faveur de la Caisse Nationale de Mutualité Agricole « CNMA » pour effectuer des opérations de banque est modifié et complété comme suit :\n« Article 4 : Pour la mise en œuvre des dispositions de l’article 3 ci-dessus, la Société par actions est soumise, dans sa fondation et son fonctionnement, à la législation et la réglementation bancaire en vigueur.\nLa société est autorisée à effectuer les opérations de banque prévues par la Loi, à l’exclusion des opérations de change et de commerce extérieur. »",
+      "paragraphs": [
+        {
+          "text": "L’article 4 du Règlement n°95-01 du 28 Février 1995 portant dérogation en faveur de la Caisse Nationale de Mutualité Agricole « CNMA » pour effectuer des opérations de banque est modifié et complété comme suit :",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "« Article 4 : Pour la mise en œuvre des dispositions de l’article 3 ci-dessus, la Société par actions est soumise, dans sa fondation et son fonctionnement, à la législation et la réglementation bancaire en vigueur.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "La société est autorisée à effectuer les opérations de banque prévues par la Loi, à l’exclusion des opérations de change et de commerce extérieur. »",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    },
+    {
+      "kind": "article",
+      "label": "Article 4",
+      "number": "4",
+      "heading": null,
+      "context": {},
+      "annexe": null,
+      "page_start": 1,
+      "page_end": 1,
+      "text": "Le présent Règlement sera publié au Journal Officiel de la République\nAlgérienne Démocratique et Populaire.\nLe Gouverneur\nMohammed LAKSACI",
+      "paragraphs": [
+        {
+          "text": "Le présent Règlement sera publié au Journal Officiel de la République",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Algérienne Démocratique et Populaire.",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Le Gouverneur",
+          "page_start": 1,
+          "page_end": 1
+        },
+        {
+          "text": "Mohammed LAKSACI",
+          "page_start": 1,
+          "page_end": 1
+        }
+      ]
+    }
+  ],
+  "tables_markdown": [],
+  "quality": {
+    "flags": [
+      "meme_texte_plusieurs_fichiers"
+    ],
+    "severity": "ok",
+    "details": {
+      "non_alnum_ratio": 0.037
+    }
+  },
+  "pipeline_version": "1.1",
+  "extracted_text_path": "extracted/fr/REG-05-02.fr~2.txt"
+}
