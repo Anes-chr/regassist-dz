@@ -1,0 +1,706 @@
+{
+ "run": "agent_fr/eval/results/human_bench_smoke_llm.json",
+ "bench_sha256": "6698118af4861909969e9d0fdf3a463b26e49a22c29fb893d8e78d19ea1c1f8b",
+ "pipeline": "hybrid_rerank",
+ "split": "ALL",
+ "global": {
+  "n": 3,
+  "n_repondre": 3,
+  "R@1": [
+   0.667,
+   3
+  ],
+  "R@3": [
+   0.667,
+   3
+  ],
+  "R@5": [
+   0.667,
+   3
+  ],
+  "R@10": [
+   0.667,
+   3
+  ],
+  "doc@1": [
+   0.667,
+   3
+  ],
+  "doc@5": [
+   0.667,
+   3
+  ],
+  "article@1": [
+   0.667,
+   3
+  ],
+  "article@5": [
+   0.667,
+   3
+  ],
+  "temporel@1": [
+   0.5,
+   2
+  ],
+  "juridique@1": [
+   1.0,
+   2
+  ],
+  "contexte_suffisant": [
+   0.667,
+   3
+  ],
+  "retrieval_correct": [
+   0.667,
+   3
+  ],
+  "C1": [
+   1.0,
+   3
+  ],
+  "C2": [
+   0.667,
+   3
+  ],
+  "C3": [
+   0.667,
+   3
+  ],
+  "C4": [
+   0.667,
+   3
+  ],
+  "C5": [
+   0.333,
+   3
+  ],
+  "reponse_correcte": [
+   0.333,
+   3
+  ],
+  "citation_correcte": [
+   0.667,
+   3
+  ],
+  "statut_correct": [
+   1.0,
+   3
+  ],
+  "hallucination": [
+   0.667,
+   3
+  ],
+  "refus_a_tort": [
+   0.0,
+   3
+  ],
+  "erreur_temporelle_critique": [
+   0.0,
+   3
+  ],
+  "MRR": [
+   0.667,
+   3
+  ],
+  "refus_correct": [
+   null,
+   0
+  ],
+  "hors_corpus_repondu": [
+   null,
+   0
+  ],
+  "clarification_correcte": [
+   null,
+   0
+  ],
+  "reponse_correcte_toutes": [
+   0.333,
+   3
+  ]
+ },
+ "par_type": {
+  "A_direct": {
+   "n": 1,
+   "n_repondre": 1,
+   "R@1": [
+    1.0,
+    1
+   ],
+   "R@3": [
+    1.0,
+    1
+   ],
+   "R@5": [
+    1.0,
+    1
+   ],
+   "R@10": [
+    1.0,
+    1
+   ],
+   "doc@1": [
+    1.0,
+    1
+   ],
+   "doc@5": [
+    1.0,
+    1
+   ],
+   "article@1": [
+    1.0,
+    1
+   ],
+   "article@5": [
+    1.0,
+    1
+   ],
+   "temporel@1": [
+    null,
+    0
+   ],
+   "juridique@1": [
+    null,
+    0
+   ],
+   "contexte_suffisant": [
+    1.0,
+    1
+   ],
+   "retrieval_correct": [
+    1.0,
+    1
+   ],
+   "C1": [
+    1.0,
+    1
+   ],
+   "C2": [
+    1.0,
+    1
+   ],
+   "C3": [
+    1.0,
+    1
+   ],
+   "C4": [
+    1.0,
+    1
+   ],
+   "C5": [
+    1.0,
+    1
+   ],
+   "reponse_correcte": [
+    1.0,
+    1
+   ],
+   "citation_correcte": [
+    1.0,
+    1
+   ],
+   "statut_correct": [
+    1.0,
+    1
+   ],
+   "hallucination": [
+    0.0,
+    1
+   ],
+   "refus_a_tort": [
+    0.0,
+    1
+   ],
+   "erreur_temporelle_critique": [
+    0.0,
+    1
+   ],
+   "MRR": [
+    1.0,
+    1
+   ],
+   "refus_correct": [
+    null,
+    0
+   ],
+   "hors_corpus_repondu": [
+    null,
+    0
+   ],
+   "clarification_correcte": [
+    null,
+    0
+   ],
+   "reponse_correcte_toutes": [
+    1.0,
+    1
+   ]
+  },
+  "C_temporelle": {
+   "n": 1,
+   "n_repondre": 1,
+   "R@1": [
+    1.0,
+    1
+   ],
+   "R@3": [
+    1.0,
+    1
+   ],
+   "R@5": [
+    1.0,
+    1
+   ],
+   "R@10": [
+    1.0,
+    1
+   ],
+   "doc@1": [
+    1.0,
+    1
+   ],
+   "doc@5": [
+    1.0,
+    1
+   ],
+   "article@1": [
+    1.0,
+    1
+   ],
+   "article@5": [
+    1.0,
+    1
+   ],
+   "temporel@1": [
+    1.0,
+    1
+   ],
+   "juridique@1": [
+    1.0,
+    1
+   ],
+   "contexte_suffisant": [
+    1.0,
+    1
+   ],
+   "retrieval_correct": [
+    1.0,
+    1
+   ],
+   "C1": [
+    1.0,
+    1
+   ],
+   "C2": [
+    1.0,
+    1
+   ],
+   "C3": [
+    1.0,
+    1
+   ],
+   "C4": [
+    1.0,
+    1
+   ],
+   "C5": [
+    0.0,
+    1
+   ],
+   "reponse_correcte": [
+    0.0,
+    1
+   ],
+   "citation_correcte": [
+    1.0,
+    1
+   ],
+   "statut_correct": [
+    1.0,
+    1
+   ],
+   "hallucination": [
+    1.0,
+    1
+   ],
+   "refus_a_tort": [
+    0.0,
+    1
+   ],
+   "erreur_temporelle_critique": [
+    0.0,
+    1
+   ],
+   "MRR": [
+    1.0,
+    1
+   ],
+   "refus_correct": [
+    null,
+    0
+   ],
+   "hors_corpus_repondu": [
+    null,
+    0
+   ],
+   "clarification_correcte": [
+    null,
+    0
+   ],
+   "reponse_correcte_toutes": [
+    0.0,
+    1
+   ]
+  },
+  "E_abrogation": {
+   "n": 1,
+   "n_repondre": 1,
+   "R@1": [
+    0.0,
+    1
+   ],
+   "R@3": [
+    0.0,
+    1
+   ],
+   "R@5": [
+    0.0,
+    1
+   ],
+   "R@10": [
+    0.0,
+    1
+   ],
+   "doc@1": [
+    0.0,
+    1
+   ],
+   "doc@5": [
+    0.0,
+    1
+   ],
+   "article@1": [
+    0.0,
+    1
+   ],
+   "article@5": [
+    0.0,
+    1
+   ],
+   "temporel@1": [
+    0.0,
+    1
+   ],
+   "juridique@1": [
+    1.0,
+    1
+   ],
+   "contexte_suffisant": [
+    0.0,
+    1
+   ],
+   "retrieval_correct": [
+    0.0,
+    1
+   ],
+   "C1": [
+    1.0,
+    1
+   ],
+   "C2": [
+    0.0,
+    1
+   ],
+   "C3": [
+    0.0,
+    1
+   ],
+   "C4": [
+    0.0,
+    1
+   ],
+   "C5": [
+    0.0,
+    1
+   ],
+   "reponse_correcte": [
+    0.0,
+    1
+   ],
+   "citation_correcte": [
+    0.0,
+    1
+   ],
+   "statut_correct": [
+    1.0,
+    1
+   ],
+   "hallucination": [
+    1.0,
+    1
+   ],
+   "refus_a_tort": [
+    0.0,
+    1
+   ],
+   "erreur_temporelle_critique": [
+    0.0,
+    1
+   ],
+   "MRR": [
+    0.0,
+    1
+   ],
+   "refus_correct": [
+    null,
+    0
+   ],
+   "hors_corpus_repondu": [
+    null,
+    0
+   ],
+   "clarification_correcte": [
+    null,
+    0
+   ],
+   "reponse_correcte_toutes": [
+    0.0,
+    1
+   ]
+  }
+ },
+ "items": [
+  {
+   "id": "S001",
+   "type": "A_direct",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 1,
+   "rank_succ": 1,
+   "R@1": true,
+   "R@3": true,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 1.0,
+   "doc@1": true,
+   "doc@5": true,
+   "article@1": true,
+   "article@5": true,
+   "contexte_suffisant": true,
+   "retrieval_correct": true,
+   "C1": true,
+   "C2": true,
+   "C3": true,
+   "C4": true,
+   "C5": true,
+   "nombres_hors_contexte": [],
+   "articles_hors_contexte": [],
+   "citation_correcte": true,
+   "reponse_correcte": true,
+   "hallucination": false,
+   "refus_a_tort": false,
+   "statut_calcule": "UNKNOWN",
+   "statut_correct": true,
+   "statut_signale": true,
+   "erreur_temporelle_critique": false
+  },
+  {
+   "id": "S002",
+   "type": "C_temporelle",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 1,
+   "rank_succ": 1,
+   "R@1": true,
+   "R@3": true,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 1.0,
+   "doc@1": true,
+   "doc@5": true,
+   "article@1": true,
+   "article@5": true,
+   "temporel@1": true,
+   "temporel_sans_interdite_devant": true,
+   "juridique@1": true,
+   "statut_top1_calcule": "ACTIVE",
+   "contexte_suffisant": true,
+   "retrieval_correct": true,
+   "C1": true,
+   "C2": true,
+   "C3": true,
+   "C4": true,
+   "C5": false,
+   "nombres_hors_contexte": [
+    "1",
+    "2026",
+    "7"
+   ],
+   "articles_hors_contexte": [],
+   "citation_correcte": true,
+   "reponse_correcte": false,
+   "hallucination": true,
+   "refus_a_tort": false,
+   "statut_calcule": "ACTIVE",
+   "statut_correct": true,
+   "erreur_temporelle_critique": false
+  },
+  {
+   "id": "S003",
+   "type": "E_abrogation",
+   "split": "TEST",
+   "comportement": "repondre",
+   "rank": null,
+   "rank_succ": null,
+   "R@1": false,
+   "R@3": false,
+   "R@5": false,
+   "R@10": false,
+   "mrr": 0.0,
+   "doc@1": false,
+   "doc@5": false,
+   "article@1": false,
+   "article@5": false,
+   "temporel@1": false,
+   "temporel_sans_interdite_devant": false,
+   "juridique@1": true,
+   "statut_top1_calcule": "ABROGATED",
+   "contexte_suffisant": false,
+   "retrieval_correct": false,
+   "C1": true,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": false,
+   "nombres_hors_contexte": [
+    "2004",
+    "3"
+   ],
+   "articles_hors_contexte": [],
+   "citation_correcte": false,
+   "reponse_correcte": false,
+   "hallucination": true,
+   "refus_a_tort": false,
+   "statut_calcule": "ABROGATED",
+   "statut_correct": true,
+   "statut_signale": true,
+   "erreur_temporelle_critique": false
+  }
+ ],
+ "sous_benchmark_temporalite": {
+  "n": 1,
+  "n_repondre": 1,
+  "R@1": [
+   1.0,
+   1
+  ],
+  "R@3": [
+   1.0,
+   1
+  ],
+  "R@5": [
+   1.0,
+   1
+  ],
+  "R@10": [
+   1.0,
+   1
+  ],
+  "doc@1": [
+   1.0,
+   1
+  ],
+  "doc@5": [
+   1.0,
+   1
+  ],
+  "article@1": [
+   1.0,
+   1
+  ],
+  "article@5": [
+   1.0,
+   1
+  ],
+  "temporel@1": [
+   1.0,
+   1
+  ],
+  "juridique@1": [
+   1.0,
+   1
+  ],
+  "contexte_suffisant": [
+   1.0,
+   1
+  ],
+  "retrieval_correct": [
+   1.0,
+   1
+  ],
+  "C1": [
+   1.0,
+   1
+  ],
+  "C2": [
+   1.0,
+   1
+  ],
+  "C3": [
+   1.0,
+   1
+  ],
+  "C4": [
+   1.0,
+   1
+  ],
+  "C5": [
+   0.0,
+   1
+  ],
+  "reponse_correcte": [
+   0.0,
+   1
+  ],
+  "citation_correcte": [
+   1.0,
+   1
+  ],
+  "statut_correct": [
+   1.0,
+   1
+  ],
+  "hallucination": [
+   1.0,
+   1
+  ],
+  "refus_a_tort": [
+   0.0,
+   1
+  ],
+  "erreur_temporelle_critique": [
+   0.0,
+   1
+  ],
+  "MRR": [
+   1.0,
+   1
+  ],
+  "refus_correct": [
+   null,
+   0
+  ],
+  "hors_corpus_repondu": [
+   null,
+   0
+  ],
+  "clarification_correcte": [
+   null,
+   0
+  ],
+  "reponse_correcte_toutes": [
+   0.0,
+   1
+  ]
+ }
+}

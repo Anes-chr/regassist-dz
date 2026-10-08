@@ -1,0 +1,1778 @@
+{
+ "actuel": {
+  "classes": {
+   "A": {
+    "chiffres": [
+     0.96,
+     334,
+     348
+    ],
+    "pourcentages": [
+     null,
+     0,
+     0
+    ],
+    "montants": [
+     1.0,
+     4,
+     4
+    ],
+    "dates": [
+     0.934,
+     57,
+     61
+    ],
+    "articles": [
+     0.914,
+     32,
+     35
+    ],
+    "numeros_de_textes": [
+     0.976,
+     41,
+     42
+    ],
+    "noms_propres": [
+     0.636,
+     7,
+     11
+    ],
+    "termes_juridiques": [
+     0.986,
+     73,
+     74
+    ]
+   },
+   "B": {
+    "chiffres": [
+     0.337,
+     573,
+     1700
+    ],
+    "pourcentages": [
+     0.071,
+     2,
+     28
+    ],
+    "montants": [
+     0.043,
+     1,
+     23
+    ],
+    "dates": [
+     0.398,
+     45,
+     113
+    ],
+    "articles": [
+     0.585,
+     79,
+     135
+    ],
+    "numeros_de_textes": [
+     0.688,
+     55,
+     80
+    ],
+    "noms_propres": [
+     null,
+     0,
+     0
+    ],
+    "termes_juridiques": [
+     null,
+     0,
+     0
+    ]
+   }
+  },
+  "chiffres_parasites": {
+   "A": [
+    0.021,
+    14,
+    677
+   ],
+   "B": [
+    0.089,
+    193,
+    2171
+   ]
+  },
+  "cer_jeu_A_moyen": 0.1795,
+  "exactitude_caracteres_jeu_A": 0.8205,
+  "secondes_par_page_moy": 1.51,
+  "secondes_par_page_med": 1.42,
+  "pages": 95,
+  "confiance_moy": 83.7,
+  "par_document": {
+   "REG-20-02.ar": {
+    "chiffres": [
+     68,
+     68
+    ],
+    "dates": [
+     16,
+     16
+    ],
+    "articles": [
+     11,
+     11
+    ],
+    "numeros_de_textes": [
+     14,
+     14
+    ],
+    "noms_propres": [
+     1,
+     1
+    ],
+    "termes_juridiques": [
+     14,
+     14
+    ],
+    "chiffres_parasites": [
+     3,
+     126
+    ]
+   },
+   "REG-20-03.ar": {
+    "chiffres": [
+     58,
+     58
+    ],
+    "dates": [
+     10,
+     10
+    ],
+    "articles": [
+     6,
+     6
+    ],
+    "numeros_de_textes": [
+     7,
+     7
+    ],
+    "noms_propres": [
+     1,
+     1
+    ],
+    "termes_juridiques": [
+     15,
+     15
+    ],
+    "chiffres_parasites": [
+     1,
+     119
+    ]
+   },
+   "REG-20-06.ar": {
+    "chiffres": [
+     39,
+     40
+    ],
+    "montants": [
+     2,
+     2
+    ],
+    "dates": [
+     7,
+     7
+    ],
+    "articles": [
+     1,
+     1
+    ],
+    "numeros_de_textes": [
+     2,
+     2
+    ],
+    "noms_propres": [
+     1,
+     2
+    ],
+    "termes_juridiques": [
+     8,
+     8
+    ],
+    "chiffres_parasites": [
+     0,
+     85
+    ]
+   },
+   "REG-21-01.ar": {
+    "chiffres": [
+     62,
+     66
+    ],
+    "dates": [
+     12,
+     15
+    ],
+    "articles": [
+     5,
+     8
+    ],
+    "numeros_de_textes": [
+     12,
+     13
+    ],
+    "noms_propres": [
+     1,
+     2
+    ],
+    "termes_juridiques": [
+     16,
+     16
+    ],
+    "chiffres_parasites": [
+     1,
+     127
+    ]
+   },
+   "REG-22-01.ar": {
+    "chiffres": [
+     44,
+     48
+    ],
+    "montants": [
+     1,
+     1
+    ],
+    "dates": [
+     5,
+     6
+    ],
+    "articles": [
+     4,
+     4
+    ],
+    "numeros_de_textes": [
+     2,
+     2
+    ],
+    "noms_propres": [
+     2,
+     2
+    ],
+    "termes_juridiques": [
+     8,
+     8
+    ],
+    "chiffres_parasites": [
+     3,
+     84
+    ]
+   },
+   "REG-22-03.ar": {
+    "chiffres": [
+     35,
+     36
+    ],
+    "montants": [
+     1,
+     1
+    ],
+    "dates": [
+     6,
+     6
+    ],
+    "articles": [
+     2,
+     2
+    ],
+    "numeros_de_textes": [
+     3,
+     3
+    ],
+    "noms_propres": [
+     1,
+     2
+    ],
+    "termes_juridiques": [
+     7,
+     8
+    ],
+    "chiffres_parasites": [
+     0,
+     75
+    ]
+   },
+   "REG-NA-e5cdea89.ar": {
+    "chiffres": [
+     28,
+     32
+    ],
+    "dates": [
+     1,
+     1
+    ],
+    "articles": [
+     3,
+     3
+    ],
+    "numeros_de_textes": [
+     1,
+     1
+    ],
+    "noms_propres": [
+     0,
+     1
+    ],
+    "termes_juridiques": [
+     5,
+     5
+    ],
+    "chiffres_parasites": [
+     6,
+     61
+    ]
+   },
+   "REG-25-07.ar": {
+    "chiffres": [
+     159,
+     987
+    ],
+    "montants": [
+     0,
+     7
+    ],
+    "dates": [
+     12,
+     13
+    ],
+    "articles": [
+     0,
+     1
+    ],
+    "numeros_de_textes": [
+     7,
+     8
+    ],
+    "chiffres_parasites": [
+     43,
+     1094
+    ]
+   },
+   "INS-04-14.ar": {
+    "chiffres": [
+     25,
+     72
+    ],
+    "pourcentages": [
+     0,
+     2
+    ],
+    "montants": [
+     0,
+     2
+    ],
+    "dates": [
+     2,
+     4
+    ],
+    "articles": [
+     6,
+     7
+    ],
+    "numeros_de_textes": [
+     3,
+     8
+    ],
+    "chiffres_parasites": [
+     6,
+     51
+    ]
+   },
+   "INS-07-11.ar": {
+    "chiffres": [
+     36,
+     100
+    ],
+    "pourcentages": [
+     1,
+     11
+    ],
+    "montants": [
+     0,
+     4
+    ],
+    "dates": [
+     3,
+     4
+    ],
+    "articles": [
+     3,
+     8
+    ],
+    "numeros_de_textes": [
+     2,
+     3
+    ],
+    "chiffres_parasites": [
+     9,
+     68
+    ]
+   },
+   "REG-92-08.ar": {
+    "chiffres": [
+     40,
+     92
+    ],
+    "dates": [
+     1,
+     10
+    ],
+    "articles": [
+     7,
+     13
+    ],
+    "numeros_de_textes": [
+     5,
+     6
+    ],
+    "chiffres_parasites": [
+     18,
+     142
+    ]
+   },
+   "REG-94-13.ar": {
+    "chiffres": [
+     13,
+     26
+    ],
+    "dates": [
+     0,
+     5
+    ],
+    "articles": [
+     4,
+     9
+    ],
+    "numeros_de_textes": [
+     1,
+     2
+    ],
+    "chiffres_parasites": [
+     12,
+     28
+    ]
+   },
+   "INS-01-13.ar": {
+    "chiffres": [
+     17,
+     30
+    ],
+    "montants": [
+     0,
+     2
+    ],
+    "dates": [
+     1,
+     3
+    ],
+    "articles": [
+     8,
+     10
+    ],
+    "numeros_de_textes": [
+     2,
+     3
+    ],
+    "chiffres_parasites": [
+     0,
+     30
+    ]
+   },
+   "REG-09-04.ar": {
+    "chiffres": [
+     54,
+     104
+    ],
+    "dates": [
+     3,
+     15
+    ],
+    "articles": [
+     3,
+     9
+    ],
+    "numeros_de_textes": [
+     3,
+     9
+    ],
+    "chiffres_parasites": [
+     18,
+     150
+    ]
+   },
+   "INS-08-20.ar": {
+    "chiffres": [
+     11,
+     19
+    ],
+    "pourcentages": [
+     0,
+     6
+    ],
+    "dates": [
+     2,
+     3
+    ],
+    "articles": [
+     0,
+     3
+    ],
+    "numeros_de_textes": [
+     2,
+     2
+    ],
+    "chiffres_parasites": [
+     4,
+     30
+    ]
+   },
+   "INS-08-25.ar": {
+    "chiffres": [
+     8,
+     10
+    ],
+    "pourcentages": [
+     0,
+     1
+    ],
+    "dates": [
+     1,
+     2
+    ],
+    "articles": [
+     2,
+     3
+    ],
+    "numeros_de_textes": [
+     2,
+     2
+    ],
+    "chiffres_parasites": [
+     3,
+     20
+    ]
+   },
+   "INS-02-26.ar": {
+    "chiffres": [
+     8,
+     9
+    ],
+    "pourcentages": [
+     0,
+     1
+    ],
+    "dates": [
+     2,
+     2
+    ],
+    "articles": [
+     2,
+     3
+    ],
+    "numeros_de_textes": [
+     2,
+     2
+    ],
+    "chiffres_parasites": [
+     2,
+     21
+    ]
+   },
+   "INS-01-26.ar": {
+    "chiffres": [
+     9,
+     10
+    ],
+    "pourcentages": [
+     1,
+     1
+    ],
+    "dates": [
+     3,
+     3
+    ],
+    "articles": [
+     2,
+     3
+    ],
+    "numeros_de_textes": [
+     2,
+     2
+    ],
+    "chiffres_parasites": [
+     4,
+     24
+    ]
+   },
+   "INS-03-26.ar": {
+    "chiffres": [
+     8,
+     10
+    ],
+    "pourcentages": [
+     0,
+     1
+    ],
+    "dates": [
+     1,
+     3
+    ],
+    "articles": [
+     2,
+     3
+    ],
+    "numeros_de_textes": [
+     2,
+     2
+    ],
+    "chiffres_parasites": [
+     6,
+     22
+    ]
+   },
+   "REG-09-01.ar": {
+    "chiffres": [
+     34,
+     47
+    ],
+    "montants": [
+     0,
+     1
+    ],
+    "dates": [
+     0,
+     10
+    ],
+    "articles": [
+     8,
+     12
+    ],
+    "numeros_de_textes": [
+     1,
+     8
+    ],
+    "chiffres_parasites": [
+     13,
+     74
+    ]
+   },
+   "INS-07-21.ar": {
+    "chiffres": [
+     7,
+     10
+    ],
+    "dates": [
+     1,
+     2
+    ],
+    "articles": [
+     2,
+     3
+    ],
+    "numeros_de_textes": [
+     2,
+     2
+    ],
+    "chiffres_parasites": [
+     1,
+     11
+    ]
+   },
+   "INS-05-21.ar": {
+    "chiffres": [
+     20,
+     21
+    ],
+    "dates": [
+     2,
+     2
+    ],
+    "articles": [
+     7,
+     9
+    ],
+    "numeros_de_textes": [
+     2,
+     2
+    ],
+    "chiffres_parasites": [
+     6,
+     54
+    ]
+   },
+   "REG-97-04.ar": {
+    "chiffres": [
+     49,
+     58
+    ],
+    "pourcentages": [
+     0,
+     2
+    ],
+    "montants": [
+     0,
+     1
+    ],
+    "dates": [
+     2,
+     12
+    ],
+    "articles": [
+     11,
+     21
+    ],
+    "numeros_de_textes": [
+     6,
+     7
+    ],
+    "chiffres_parasites": [
+     19,
+     135
+    ]
+   },
+   "REG-08-04-20051223.ar": {
+    "chiffres": [
+     26,
+     35
+    ],
+    "montants": [
+     1,
+     3
+    ],
+    "dates": [
+     1,
+     5
+    ],
+    "articles": [
+     3,
+     6
+    ],
+    "numeros_de_textes": [
+     3,
+     3
+    ],
+    "chiffres_parasites": [
+     9,
+     67
+    ]
+   },
+   "INS-02-21.ar": {
+    "chiffres": [
+     8,
+     9
+    ],
+    "pourcentages": [
+     0,
+     1
+    ],
+    "dates": [
+     3,
+     3
+    ],
+    "articles": [
+     2,
+     3
+    ],
+    "numeros_de_textes": [
+     2,
+     2
+    ],
+    "chiffres_parasites": [
+     1,
+     25
+    ]
+   },
+   "REG-18-01.ar": {
+    "chiffres": [
+     41,
+     51
+    ],
+    "pourcentages": [
+     0,
+     2
+    ],
+    "montants": [
+     0,
+     3
+    ],
+    "dates": [
+     5,
+     12
+    ],
+    "articles": [
+     7,
+     9
+    ],
+    "numeros_de_textes": [
+     6,
+     7
+    ],
+    "chiffres_parasites": [
+     19,
+     125
+    ]
+   }
+  },
+  "jeu_B_hors_REG_25_07": {
+   "classes": {
+    "chiffres": [
+     0.581,
+     414,
+     713
+    ],
+    "pourcentages": [
+     0.071,
+     2,
+     28
+    ],
+    "montants": [
+     0.062,
+     1,
+     16
+    ],
+    "dates": [
+     0.33,
+     33,
+     100
+    ],
+    "articles": [
+     0.59,
+     79,
+     134
+    ],
+    "numeros_de_textes": [
+     0.667,
+     48,
+     72
+    ],
+    "noms_propres": [
+     null,
+     0,
+     0
+    ],
+    "termes_juridiques": [
+     null,
+     0,
+     0
+    ]
+   },
+   "chiffres_parasites": [
+    0.139,
+    150,
+    1077
+   ]
+  },
+  "jeu_B_moyenne_par_document": {
+   "chiffres": 0.738,
+   "pourcentages": 0.109,
+   "montants": 0.303,
+   "dates": 0.624,
+   "articles": 0.662,
+   "numeros_de_textes": 0.847
+  },
+  "alertes_ocr_uncertain_jeu_B": {
+   "unites": 84,
+   "unites_signalees": 13,
+   "jetons": 26,
+   "docs_sans_jumeau": 0
+  },
+  "jeu_A_exclus_couche_texte_corrompue": [
+   "REG-25-01.ar",
+   "REG-25-02.ar",
+   "REG-NA-4ee7a720.ar"
+  ]
+ },
+ "tessdata_best": {
+  "classes": {
+   "A": {
+    "chiffres": [
+     0.954,
+     332,
+     348
+    ],
+    "pourcentages": [
+     null,
+     0,
+     0
+    ],
+    "montants": [
+     1.0,
+     4,
+     4
+    ],
+    "dates": [
+     0.934,
+     57,
+     61
+    ],
+    "articles": [
+     0.886,
+     31,
+     35
+    ],
+    "numeros_de_textes": [
+     0.976,
+     41,
+     42
+    ],
+    "noms_propres": [
+     0.727,
+     8,
+     11
+    ],
+    "termes_juridiques": [
+     0.986,
+     73,
+     74
+    ]
+   },
+   "B": {
+    "chiffres": [
+     0.428,
+     728,
+     1700
+    ],
+    "pourcentages": [
+     0.107,
+     3,
+     28
+    ],
+    "montants": [
+     0.13,
+     3,
+     23
+    ],
+    "dates": [
+     0.407,
+     46,
+     113
+    ],
+    "articles": [
+     0.578,
+     78,
+     135
+    ],
+    "numeros_de_textes": [
+     0.688,
+     55,
+     80
+    ],
+    "noms_propres": [
+     null,
+     0,
+     0
+    ],
+    "termes_juridiques": [
+     null,
+     0,
+     0
+    ]
+   }
+  },
+  "chiffres_parasites": {
+   "A": [
+    0.031,
+    21,
+    683
+   ],
+   "B": [
+    0.074,
+    166,
+    2245
+   ]
+  },
+  "cer_jeu_A_moyen": 0.1527,
+  "exactitude_caracteres_jeu_A": 0.8473,
+  "secondes_par_page_moy": 2.18,
+  "secondes_par_page_med": 1.99,
+  "pages": 95,
+  "confiance_moy": 84.6,
+  "par_document": {
+   "REG-20-02.ar": {
+    "chiffres": [
+     68,
+     68
+    ],
+    "dates": [
+     16,
+     16
+    ],
+    "articles": [
+     11,
+     11
+    ],
+    "numeros_de_textes": [
+     14,
+     14
+    ],
+    "noms_propres": [
+     1,
+     1
+    ],
+    "termes_juridiques": [
+     14,
+     14
+    ],
+    "chiffres_parasites": [
+     2,
+     125
+    ]
+   },
+   "REG-20-03.ar": {
+    "chiffres": [
+     55,
+     58
+    ],
+    "dates": [
+     9,
+     10
+    ],
+    "articles": [
+     6,
+     6
+    ],
+    "numeros_de_textes": [
+     7,
+     7
+    ],
+    "noms_propres": [
+     1,
+     1
+    ],
+    "termes_juridiques": [
+     15,
+     15
+    ],
+    "chiffres_parasites": [
+     3,
+     115
+    ]
+   },
+   "REG-20-06.ar": {
+    "chiffres": [
+     39,
+     40
+    ],
+    "montants": [
+     2,
+     2
+    ],
+    "dates": [
+     7,
+     7
+    ],
+    "articles": [
+     1,
+     1
+    ],
+    "numeros_de_textes": [
+     2,
+     2
+    ],
+    "noms_propres": [
+     1,
+     2
+    ],
+    "termes_juridiques": [
+     7,
+     8
+    ],
+    "chiffres_parasites": [
+     0,
+     83
+    ]
+   },
+   "REG-21-01.ar": {
+    "chiffres": [
+     63,
+     66
+    ],
+    "dates": [
+     13,
+     15
+    ],
+    "articles": [
+     5,
+     8
+    ],
+    "numeros_de_textes": [
+     12,
+     13
+    ],
+    "noms_propres": [
+     1,
+     2
+    ],
+    "termes_juridiques": [
+     16,
+     16
+    ],
+    "chiffres_parasites": [
+     4,
+     137
+    ]
+   },
+   "REG-22-01.ar": {
+    "chiffres": [
+     44,
+     48
+    ],
+    "montants": [
+     1,
+     1
+    ],
+    "dates": [
+     5,
+     6
+    ],
+    "articles": [
+     4,
+     4
+    ],
+    "numeros_de_textes": [
+     2,
+     2
+    ],
+    "noms_propres": [
+     2,
+     2
+    ],
+    "termes_juridiques": [
+     8,
+     8
+    ],
+    "chiffres_parasites": [
+     6,
+     86
+    ]
+   },
+   "REG-22-03.ar": {
+    "chiffres": [
+     35,
+     36
+    ],
+    "montants": [
+     1,
+     1
+    ],
+    "dates": [
+     6,
+     6
+    ],
+    "articles": [
+     2,
+     2
+    ],
+    "numeros_de_textes": [
+     3,
+     3
+    ],
+    "noms_propres": [
+     2,
+     2
+    ],
+    "termes_juridiques": [
+     8,
+     8
+    ],
+    "chiffres_parasites": [
+     1,
+     77
+    ]
+   },
+   "REG-NA-e5cdea89.ar": {
+    "chiffres": [
+     28,
+     32
+    ],
+    "dates": [
+     1,
+     1
+    ],
+    "articles": [
+     2,
+     3
+    ],
+    "numeros_de_textes": [
+     1,
+     1
+    ],
+    "noms_propres": [
+     0,
+     1
+    ],
+    "termes_juridiques": [
+     5,
+     5
+    ],
+    "chiffres_parasites": [
+     5,
+     60
+    ]
+   },
+   "REG-25-07.ar": {
+    "chiffres": [
+     288,
+     987
+    ],
+    "montants": [
+     0,
+     7
+    ],
+    "dates": [
+     11,
+     13
+    ],
+    "articles": [
+     0,
+     1
+    ],
+    "numeros_de_textes": [
+     6,
+     8
+    ],
+    "chiffres_parasites": [
+     15,
+     1099
+    ]
+   },
+   "INS-04-14.ar": {
+    "chiffres": [
+     24,
+     72
+    ],
+    "pourcentages": [
+     0,
+     2
+    ],
+    "montants": [
+     0,
+     2
+    ],
+    "dates": [
+     2,
+     4
+    ],
+    "articles": [
+     6,
+     7
+    ],
+    "numeros_de_textes": [
+     3,
+     8
+    ],
+    "chiffres_parasites": [
+     8,
+     52
+    ]
+   },
+   "INS-07-11.ar": {
+    "chiffres": [
+     36,
+     100
+    ],
+    "pourcentages": [
+     2,
+     11
+    ],
+    "montants": [
+     0,
+     4
+    ],
+    "dates": [
+     3,
+     4
+    ],
+    "articles": [
+     4,
+     8
+    ],
+    "numeros_de_textes": [
+     2,
+     3
+    ],
+    "chiffres_parasites": [
+     6,
+     68
+    ]
+   },
+   "REG-92-08.ar": {
+    "chiffres": [
+     46,
+     92
+    ],
+    "dates": [
+     2,
+     10
+    ],
+    "articles": [
+     7,
+     13
+    ],
+    "numeros_de_textes": [
+     4,
+     6
+    ],
+    "chiffres_parasites": [
+     19,
+     144
+    ]
+   },
+   "REG-94-13.ar": {
+    "chiffres": [
+     13,
+     26
+    ],
+    "dates": [
+     0,
+     5
+    ],
+    "articles": [
+     6,
+     9
+    ],
+    "numeros_de_textes": [
+     1,
+     2
+    ],
+    "chiffres_parasites": [
+     10,
+     26
+    ]
+   },
+   "INS-01-13.ar": {
+    "chiffres": [
+     23,
+     30
+    ],
+    "montants": [
+     0,
+     2
+    ],
+    "dates": [
+     1,
+     3
+    ],
+    "articles": [
+     9,
+     10
+    ],
+    "numeros_de_textes": [
+     2,
+     3
+    ],
+    "chiffres_parasites": [
+     1,
+     39
+    ]
+   },
+   "REG-09-04.ar": {
+    "chiffres": [
+     62,
+     104
+    ],
+    "dates": [
+     4,
+     15
+    ],
+    "articles": [
+     1,
+     9
+    ],
+    "numeros_de_textes": [
+     5,
+     9
+    ],
+    "chiffres_parasites": [
+     20,
+     177
+    ]
+   },
+   "INS-08-20.ar": {
+    "chiffres": [
+     11,
+     19
+    ],
+    "pourcentages": [
+     0,
+     6
+    ],
+    "dates": [
+     2,
+     3
+    ],
+    "articles": [
+     0,
+     3
+    ],
+    "numeros_de_textes": [
+     2,
+     2
+    ],
+    "chiffres_parasites": [
+     4,
+     30
+    ]
+   },
+   "INS-08-25.ar": {
+    "chiffres": [
+     8,
+     10
+    ],
+    "pourcentages": [
+     0,
+     1
+    ],
+    "dates": [
+     1,
+     2
+    ],
+    "articles": [
+     2,
+     3
+    ],
+    "numeros_de_textes": [
+     2,
+     2
+    ],
+    "chiffres_parasites": [
+     3,
+     20
+    ]
+   },
+   "INS-02-26.ar": {
+    "chiffres": [
+     7,
+     9
+    ],
+    "pourcentages": [
+     0,
+     1
+    ],
+    "dates": [
+     2,
+     2
+    ],
+    "articles": [
+     2,
+     3
+    ],
+    "numeros_de_textes": [
+     2,
+     2
+    ],
+    "chiffres_parasites": [
+     3,
+     21
+    ]
+   },
+   "INS-01-26.ar": {
+    "chiffres": [
+     9,
+     10
+    ],
+    "pourcentages": [
+     1,
+     1
+    ],
+    "dates": [
+     3,
+     3
+    ],
+    "articles": [
+     2,
+     3
+    ],
+    "numeros_de_textes": [
+     2,
+     2
+    ],
+    "chiffres_parasites": [
+     4,
+     24
+    ]
+   },
+   "INS-03-26.ar": {
+    "chiffres": [
+     8,
+     10
+    ],
+    "pourcentages": [
+     0,
+     1
+    ],
+    "dates": [
+     2,
+     3
+    ],
+    "articles": [
+     2,
+     3
+    ],
+    "numeros_de_textes": [
+     2,
+     2
+    ],
+    "chiffres_parasites": [
+     3,
+     19
+    ]
+   },
+   "REG-09-01.ar": {
+    "chiffres": [
+     38,
+     47
+    ],
+    "montants": [
+     0,
+     1
+    ],
+    "dates": [
+     0,
+     10
+    ],
+    "articles": [
+     9,
+     12
+    ],
+    "numeros_de_textes": [
+     2,
+     8
+    ],
+    "chiffres_parasites": [
+     13,
+     82
+    ]
+   },
+   "INS-07-21.ar": {
+    "chiffres": [
+     7,
+     10
+    ],
+    "dates": [
+     1,
+     2
+    ],
+    "articles": [
+     2,
+     3
+    ],
+    "numeros_de_textes": [
+     2,
+     2
+    ],
+    "chiffres_parasites": [
+     1,
+     11
+    ]
+   },
+   "INS-05-21.ar": {
+    "chiffres": [
+     20,
+     21
+    ],
+    "dates": [
+     2,
+     2
+    ],
+    "articles": [
+     7,
+     9
+    ],
+    "numeros_de_textes": [
+     2,
+     2
+    ],
+    "chiffres_parasites": [
+     4,
+     48
+    ]
+   },
+   "REG-97-04.ar": {
+    "chiffres": [
+     53,
+     58
+    ],
+    "pourcentages": [
+     0,
+     2
+    ],
+    "montants": [
+     0,
+     1
+    ],
+    "dates": [
+     1,
+     12
+    ],
+    "articles": [
+     10,
+     21
+    ],
+    "numeros_de_textes": [
+     6,
+     7
+    ],
+    "chiffres_parasites": [
+     21,
+     137
+    ]
+   },
+   "REG-08-04-20051223.ar": {
+    "chiffres": [
+     27,
+     35
+    ],
+    "montants": [
+     2,
+     3
+    ],
+    "dates": [
+     1,
+     5
+    ],
+    "articles": [
+     0,
+     6
+    ],
+    "numeros_de_textes": [
+     3,
+     3
+    ],
+    "chiffres_parasites": [
+     10,
+     71
+    ]
+   },
+   "INS-02-21.ar": {
+    "chiffres": [
+     8,
+     9
+    ],
+    "pourcentages": [
+     0,
+     1
+    ],
+    "dates": [
+     3,
+     3
+    ],
+    "articles": [
+     2,
+     3
+    ],
+    "numeros_de_textes": [
+     2,
+     2
+    ],
+    "chiffres_parasites": [
+     1,
+     25
+    ]
+   },
+   "REG-18-01.ar": {
+    "chiffres": [
+     40,
+     51
+    ],
+    "pourcentages": [
+     0,
+     2
+    ],
+    "montants": [
+     1,
+     3
+    ],
+    "dates": [
+     5,
+     12
+    ],
+    "articles": [
+     7,
+     9
+    ],
+    "numeros_de_textes": [
+     5,
+     7
+    ],
+    "chiffres_parasites": [
+     20,
+     152
+    ]
+   }
+  },
+  "jeu_B_hors_REG_25_07": {
+   "classes": {
+    "chiffres": [
+     0.617,
+     440,
+     713
+    ],
+    "pourcentages": [
+     0.107,
+     3,
+     28
+    ],
+    "montants": [
+     0.188,
+     3,
+     16
+    ],
+    "dates": [
+     0.35,
+     35,
+     100
+    ],
+    "articles": [
+     0.582,
+     78,
+     134
+    ],
+    "numeros_de_textes": [
+     0.681,
+     49,
+     72
+    ],
+    "noms_propres": [
+     null,
+     0,
+     0
+    ],
+    "termes_juridiques": [
+     null,
+     0,
+     0
+    ]
+   },
+   "chiffres_parasites": [
+    0.132,
+    151,
+    1146
+   ]
+  },
+  "jeu_B_moyenne_par_document": {
+   "chiffres": 0.756,
+   "pourcentages": 0.118,
+   "montants": 0.364,
+   "dates": 0.636,
+   "articles": 0.64,
+   "numeros_de_textes": 0.843
+  },
+  "alertes_ocr_uncertain_jeu_B": {
+   "unites": 88,
+   "unites_signalees": 15,
+   "jetons": 28,
+   "docs_sans_jumeau": 0
+  },
+  "jeu_A_exclus_couche_texte_corrompue": [
+   "REG-25-01.ar",
+   "REG-25-02.ar",
+   "REG-NA-4ee7a720.ar"
+  ]
+ }
+}

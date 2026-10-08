@@ -1,0 +1,363 @@
+{
+ "_avertissement": "RELECTURE PAR UNE IA (Claude) des seules réponses que la notation automatique a rejetées, DEV et TEST. Ce n'est PAS une validation par un juriste humain. Elle ne sert qu'à documenter les causes d'échec et les divergences probables avec une évaluation humaine ; elle ne modifie aucune règle de notation ni aucun chiffre officiel de la décision. Asymétrique : les réponses jugées correctes par la notation automatique n'ont pas été relues ici (le paquet human_eval.html est prévu pour cela).",
+ "_labels": {
+  "correcte": "la réponse est correcte au regard de la réponse attendue ; la notation automatique est trop stricte (formulation, article voisin, citation)",
+  "correcte_avec_defaut": "la valeur juridique est correcte mais la réponse ajoute un élément non soutenu par les sources (ex. date de référence reprise de la consigne interne)",
+  "partielle": "réponse incomplète ou mêlant éléments justes et non justifiés",
+  "incorrecte": "réponse fausse, refus à tort, ou absence de la bonne source",
+  "a_arbitrer": "contenu cohérent mais la source citée diffère de la source attendue : au juriste de dire si la source alternative est légitime"
+ },
+ "_causes": {
+  "RETR_DOC": "le bon texte n'est pas dans les 5 premiers passages",
+  "RETR_ART": "bon texte, mauvais article / article de la valeur absent du contexte",
+  "RETR_REFUS": "refus décidé par le moteur de recherche (aucun passage pertinent) alors que la réponse existe",
+  "LLM_REFUS": "le bon passage est dans le contexte mais le LLM répond qu'il ne trouve rien",
+  "LLM_CHAIN": "le LLM nomme le mauvais texte dans une chaîne de modifications/abrogations, ou synthèse multi-textes incomplète",
+  "OCR_AR": "texte arabe OCR altéré (chiffres, mots, passage tronqué) à l'origine de l'erreur",
+  "CORPUS_ID": "défaut d'identification du texte dans le corpus (jumeau FR/AR non rattaché, date erronée)",
+  "SCORER": "notation automatique trop stricte",
+  "HINT_LEAK": "date de référence de la consigne interne reprise comme si elle venait des sources",
+  "DERIVED_NUMBER": "nombre calculé par le modèle (différence) ou chiffres écrits en lettres puis en chiffres, absent tel quel du contexte",
+  "AMBIG_MISS": "question ambiguë non détectée",
+  "OOS_ANSWERED": "question hors corpus traitée comme valide",
+  "GOLD_ARB": "source attendue à arbitrer par le juriste"
+ },
+ "items": [
+  {
+   "id": "H019",
+   "split": "DEV",
+   "ai": "correcte",
+   "cause": "SCORER",
+   "note": "réponse identique à la réponse attendue"
+  },
+  {
+   "id": "H026",
+   "split": "DEV",
+   "ai": "a_arbitrer",
+   "cause": "GOLD_ARB",
+   "note": "réponse conforme sur le fond, citée à partir de INS-03-24 art. 12 au lieu de REG-24-03 art. 19"
+  },
+  {
+   "id": "H029",
+   "split": "DEV",
+   "ai": "incorrecte",
+   "cause": "RETR_DOC",
+   "note": "ne cite que INS-08-97 ; INS-05-2025 et INS-07-2026 absentes (question multi-textes)"
+  },
+  {
+   "id": "H031",
+   "split": "DEV",
+   "ai": "partielle",
+   "cause": "RETR_DOC",
+   "note": "chaîne 2005-05 → 2012-03 → 24-03 donnée, mais REG-24-03 absent du top-5 et phrase finale non justifiée"
+  },
+  {
+   "id": "H032",
+   "split": "DEV",
+   "ai": "correcte",
+   "cause": "SCORER",
+   "note": "les deux règlements sont nommés avec leur objet"
+  },
+  {
+   "id": "H034",
+   "split": "DEV",
+   "ai": "partielle",
+   "cause": "RETR_DOC",
+   "note": "cite 07-2020, 08-2025 et 02-2026 sans les valeurs 2,75 % et 2,50 %"
+  },
+  {
+   "id": "H041",
+   "split": "DEV",
+   "ai": "correcte_avec_defaut",
+   "cause": "HINT_LEAK",
+   "note": "15 000 DA correct ; « 31 décembre 1998 » ne vient pas des sources"
+  },
+  {
+   "id": "H045",
+   "split": "DEV",
+   "ai": "incorrecte",
+   "cause": "LLM_REFUS",
+   "note": "INS-03-13 art. 3 (15 décembre 2013) est dans le contexte ; le modèle refuse"
+  },
+  {
+   "id": "H046",
+   "split": "DEV",
+   "ai": "incorrecte",
+   "cause": "RETR_ART",
+   "note": "INS-07-25 art. 3 (échéance) classé avant l'art. 2 (taux) : le taux n'est pas dans le contexte"
+  },
+  {
+   "id": "H055",
+   "split": "DEV",
+   "ai": "partielle",
+   "cause": "HINT_LEAK",
+   "note": "donne 9,5 % (INS-01-98) mais affirme que le taux de juin 1998 n'est pas mentionné ; date de la consigne reprise"
+  },
+  {
+   "id": "H060",
+   "split": "DEV",
+   "ai": "incorrecte",
+   "cause": "LLM_REFUS",
+   "note": "INS-08-25 art. 2 (2,75 %) est dans le contexte ; le modèle refuse"
+  },
+  {
+   "id": "H067",
+   "split": "DEV",
+   "ai": "incorrecte",
+   "cause": "LLM_CHAIN",
+   "note": "décrit l'article 2 bis sans nommer l'instruction 09-2007"
+  },
+  {
+   "id": "H070",
+   "split": "DEV",
+   "ai": "correcte",
+   "cause": "SCORER",
+   "note": "instruction 03-2026 correctement nommée"
+  },
+  {
+   "id": "H084",
+   "split": "DEV",
+   "ai": "incorrecte",
+   "cause": "LLM_REFUS",
+   "note": "INS-09-25 art. 2 (REPLACED) est dans le contexte ; le texte remplaçant n'est pas retrouvé et le modèle refuse au lieu de signaler le remplacement"
+  },
+  {
+   "id": "H087",
+   "split": "DEV",
+   "ai": "incorrecte",
+   "cause": "RETR_DOC",
+   "note": "compare sans retrouver les articles de valeur des deux instructions"
+  },
+  {
+   "id": "H090",
+   "split": "DEV",
+   "ai": "correcte",
+   "cause": "DERIVED_NUMBER",
+   "note": "9,5 % et 3,75 % exacts ; différence 5,75 % calculée"
+  },
+  {
+   "id": "H091",
+   "split": "DEV",
+   "ai": "incorrecte",
+   "cause": "RETR_DOC",
+   "note": "le texte actuel (INS-01-26) n'est pas retrouvé ; le modèle refuse de comparer"
+  },
+  {
+   "id": "H092",
+   "split": "DEV",
+   "ai": "correcte",
+   "cause": "DERIVED_NUMBER",
+   "note": "3 % et 2,50 % exacts ; baisse de 0,50 point calculée"
+  },
+  {
+   "id": "H120",
+   "split": "DEV",
+   "ai": "incorrecte",
+   "cause": "OCR_AR",
+   "note": "passage arabe altéré (« رصيد عدين » pour « رصيد مدين ») ; le modèle refuse"
+  },
+  {
+   "id": "H121",
+   "split": "DEV",
+   "ai": "incorrecte",
+   "cause": "OCR_AR",
+   "note": "le passage arabe de l'article 2 est tronqué : le délai n'y figure pas"
+  },
+  {
+   "id": "H123",
+   "split": "DEV",
+   "ai": "correcte",
+   "cause": "DERIVED_NUMBER",
+   "note": "50 % exact ; le modèle écrit « خمسين بالمئة (50%) »"
+  },
+  {
+   "id": "H124",
+   "split": "DEV",
+   "ai": "correcte",
+   "cause": "SCORER",
+   "note": "définition exacte ; la notation compare « الفوائد » et « فوائد »"
+  },
+  {
+   "id": "H128",
+   "split": "DEV",
+   "ai": "incorrecte",
+   "cause": "RETR_DOC",
+   "note": "répond avec INS-02-12 (autre exercice) : exercice 2012 mal rattaché en arabe"
+  },
+  {
+   "id": "H129",
+   "split": "DEV",
+   "ai": "incorrecte",
+   "cause": "OCR_AR",
+   "note": "cite INS-02-21 comme actuel ; INS-01-26 (arabe) a un taux illisible (« د 1 % ») et n'est pas retrouvé — erreur temporelle critique"
+  },
+  {
+   "id": "H130",
+   "split": "DEV",
+   "ai": "incorrecte",
+   "cause": "OCR_AR",
+   "note": "« 902.75 % » (OCR de « 2,75 % ») et texte remplacé cité comme actuel — erreur temporelle critique"
+  },
+  {
+   "id": "H008",
+   "split": "TEST",
+   "ai": "a_arbitrer",
+   "cause": "GOLD_ARB",
+   "note": "réponse conforme sur le fond, tirée de REG-20-01 art. 9 au lieu de REG-94-13 art. 6"
+  },
+  {
+   "id": "H018",
+   "split": "TEST",
+   "ai": "correcte",
+   "cause": "SCORER",
+   "note": "« interdire l'établissement » = « s'abstenir d'établir »"
+  },
+  {
+   "id": "H028",
+   "split": "TEST",
+   "ai": "incorrecte",
+   "cause": "RETR_DOC",
+   "note": "chaîne arrêtée à 2008-04 ; 2018-03 et 24-02 absents ; affirme qu'aucun texte ne remplace 2008-04"
+  },
+  {
+   "id": "H030",
+   "split": "TEST",
+   "ai": "incorrecte",
+   "cause": "LLM_REFUS",
+   "note": "refus alors que REG-20-03 art. 10 est le premier passage"
+  },
+  {
+   "id": "H036",
+   "split": "TEST",
+   "ai": "incorrecte",
+   "cause": "RETR_ART",
+   "note": "REG-24-02 n'apparaît que par son article 1 (objet) et pas dans le contexte donné au LLM ; l'article 2 (montants) n'est pas retrouvé ; le modèle refuse"
+  },
+  {
+   "id": "H037",
+   "split": "TEST",
+   "ai": "incorrecte",
+   "cause": "RETR_REFUS",
+   "note": "le moteur refuse (aucun passage pertinent) alors que REG-04-01 est en tête"
+  },
+  {
+   "id": "H038",
+   "split": "TEST",
+   "ai": "incorrecte",
+   "cause": "RETR_ART",
+   "note": "bon texte (2008-04) mais l'article 2 (montants) absent du contexte"
+  },
+  {
+   "id": "H039",
+   "split": "TEST",
+   "ai": "correcte_avec_defaut",
+   "cause": "HINT_LEAK",
+   "note": "500 millions de DA correct ; « 31 décembre 1995 » ne vient pas des sources"
+  },
+  {
+   "id": "H052",
+   "split": "TEST",
+   "ai": "incorrecte",
+   "cause": "RETR_DOC",
+   "note": "répond avec une note de 1999 sans rapport avec la période demandée au lieu de refuser"
+  },
+  {
+   "id": "H053",
+   "split": "TEST",
+   "ai": "correcte_avec_defaut",
+   "cause": "HINT_LEAK",
+   "note": "180 jours correct ; « 31 décembre 2013 » ne vient pas des sources"
+  },
+  {
+   "id": "H068",
+   "split": "TEST",
+   "ai": "correcte",
+   "cause": "SCORER",
+   "note": "règlement 2021-01 correctement nommé"
+  },
+  {
+   "id": "H069",
+   "split": "TEST",
+   "ai": "correcte",
+   "cause": "SCORER",
+   "note": "INS-02-2017 absente des passages mais donnée par les relations « Complété par » du texte retrouvé ; ajoute aussi la note 01-2017"
+  },
+  {
+   "id": "H071",
+   "split": "TEST",
+   "ai": "partielle",
+   "cause": "LLM_CHAIN",
+   "note": "nomme REG-2016-03 (juste) mais ajoute INS-02-2017 qui complète un autre texte"
+  },
+  {
+   "id": "H073",
+   "split": "TEST",
+   "ai": "incorrecte",
+   "cause": "RETR_DOC",
+   "note": "REG-16-04 n'est retrouvé qu'au rang 8 (hors contexte) ; le refus du modèle est cohérent avec le contexte reçu"
+  },
+  {
+   "id": "H078",
+   "split": "TEST",
+   "ai": "incorrecte",
+   "cause": "LLM_CHAIN",
+   "note": "dit « abrogé par 2018-03 » ; c'est 2008-04 (art. 5) qui abroge 2004-01, 2018-03 abroge 2008-04"
+  },
+  {
+   "id": "H086",
+   "split": "TEST",
+   "ai": "incorrecte",
+   "cause": "RETR_DOC",
+   "note": "REG-24-02 est absent du contexte ; le refus du modèle est cohérent avec le contexte reçu"
+  },
+  {
+   "id": "H095",
+   "split": "TEST",
+   "ai": "incorrecte",
+   "cause": "AMBIG_MISS",
+   "note": "« Quels documents faut-il fournir ? » : réponse rédigée au lieu d'une demande de précision"
+  },
+  {
+   "id": "H100",
+   "split": "TEST",
+   "ai": "incorrecte",
+   "cause": "AMBIG_MISS",
+   "note": "« Quelle est la procédure à suivre ? » : réponse rédigée au lieu d'une demande de précision"
+  },
+  {
+   "id": "H103",
+   "split": "TEST",
+   "ai": "incorrecte",
+   "cause": "OOS_ANSWERED",
+   "note": "question hors corpus (allocation familiale) : réponse qui cite une allocation en devises sans rapport"
+  },
+  {
+   "id": "H117",
+   "split": "TEST",
+   "ai": "incorrecte",
+   "cause": "CORPUS_ID",
+   "note": "jumeau arabe de REG-08-04 rattaché à un faux texte du 23/12/2005 (OCR du millésime) : valeur de 2008 présentée pour 2005"
+  },
+  {
+   "id": "H118",
+   "split": "TEST",
+   "ai": "incorrecte",
+   "cause": "OCR_AR",
+   "note": "phrase du signataire unique mêlée de caractères latins parasites ; le modèle refuse"
+  },
+  {
+   "id": "H119",
+   "split": "TEST",
+   "ai": "a_arbitrer",
+   "cause": "GOLD_ARB",
+   "note": "réponse conforme sur le fond, tirée de REG-20-01 art. 9 au lieu de REG-94-13 art. 6"
+  },
+  {
+   "id": "H126",
+   "split": "TEST",
+   "ai": "incorrecte",
+   "cause": "LLM_REFUS",
+   "note": "REG-97-04 art. 9 (600.000 DA, en arabe) est la 4e source du contexte ; le modèle refuse"
+  }
+ ]
+}

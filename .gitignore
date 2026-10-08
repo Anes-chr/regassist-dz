@@ -1,19 +1,11 @@
-# Données : jamais versionnées (corpus officiel, état de collecte, modèles, index, caches, sorties d'exécution, jeux de relecture).
-# Raisons : taille, et règle du projet (le contenu du corpus ne part pas vers une plateforme externe sans autorisation explicite).
-/corpus/
-/state/
+# Versionnes (depot PRIVE) : le code, la documentation, le corpus officiel (corpus/), l'etat de collecte (state/), les jeux et resultats
+# figes de l'evaluation, et replication/ (vecteurs + instantane du corpus) : tout ce qu'il faut pour reproduire le projet.
+# Reste hors depot : les modeles (trop gros, telecharges et verifies par replication/setup_machine.ps1), les caches et les sorties d'execution.
 /agent_fr/.cache/
-/agent_fr/eval/results/
-/agent_fr/eval/llm_blind/*.jsonl
-/agent_fr/eval/llm_blind/*.json
-/agent_fr/eval/human/review/
-/agent_fr/eval/human/benchmark_*.jsonl
-/agent_fr/eval/human/benchmark_dev_phase4.remap.json
-/agent_fr/eval/human/ai_adjudication.json
 /llm_local/results/
 /local_app/runtime/
 
-# Fichiers générés
+# Fichiers generes
 __pycache__/
 *.py[cod]
 *.log
@@ -22,8 +14,11 @@ __pycache__/
 *.npy
 *.npz
 
-# Binaires lourds (modèles, documents sources)
+# Binaires lourds (modeles, archives) ; les PDF sources du corpus et les vecteurs de replication/ sont inclus ci-dessous
 *.gguf
 *.onnx
 *.pdf
 *.zip
+!/corpus/**/*.pdf
+!/replication/**/*.npy
+!/replication/**/*.npz

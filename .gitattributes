@@ -1,0 +1,6 @@
+# Aucune conversion de fin de ligne ni de texte : les empreintes SHA-256 du gel (PHASE_4_FROZEN.manifest.json) portent sur les octets exacts.
+# Sans cette regle, un clone sous Windows (core.autocrlf=true) modifierait les fichiers et le contenu du corpus changerait de cle de vecteurs.
+* -text
+*.pdf binary
+*.npy binary
+*.npz binary

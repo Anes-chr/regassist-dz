@@ -1,0 +1,3557 @@
+{
+ "run": "agent_fr/eval/results/human_bench_ret_legacy_DEV.json",
+ "bench_sha256": "f56d576d4e79cd70ea48843f9747f0fe7a8fead8ac45facee59ae2363d3825d2",
+ "pipeline": "legacy",
+ "split": "DEV",
+ "global": {
+  "n": 78,
+  "n_repondre": 64,
+  "R@1": [
+   0.453,
+   64
+  ],
+  "R@3": [
+   0.594,
+   64
+  ],
+  "R@5": [
+   0.656,
+   64
+  ],
+  "R@10": [
+   0.734,
+   64
+  ],
+  "doc@1": [
+   0.5,
+   64
+  ],
+  "doc@5": [
+   0.734,
+   64
+  ],
+  "article@1": [
+   0.431,
+   58
+  ],
+  "article@5": [
+   0.638,
+   58
+  ],
+  "temporel@1": [
+   0.524,
+   42
+  ],
+  "juridique@1": [
+   0.714,
+   42
+  ],
+  "contexte_suffisant": [
+   0.719,
+   64
+  ],
+  "retrieval_correct": [
+   0.656,
+   64
+  ],
+  "C1": [
+   0.0,
+   64
+  ],
+  "C2": [
+   0.0,
+   64
+  ],
+  "C3": [
+   0.0,
+   64
+  ],
+  "C4": [
+   0.0,
+   64
+  ],
+  "C5": [
+   1.0,
+   64
+  ],
+  "reponse_correcte": [
+   0.0,
+   64
+  ],
+  "citation_correcte": [
+   0.0,
+   64
+  ],
+  "statut_correct": [
+   null,
+   0
+  ],
+  "hallucination": [
+   0.0,
+   64
+  ],
+  "refus_a_tort": [
+   0.0,
+   64
+  ],
+  "erreur_temporelle_critique": [
+   null,
+   0
+  ],
+  "MRR": [
+   0.547,
+   64
+  ],
+  "refus_correct": [
+   0.333,
+   9
+  ],
+  "hors_corpus_repondu": [
+   0.667,
+   9
+  ],
+  "clarification_correcte": [
+   0.0,
+   5
+  ],
+  "reponse_correcte_toutes": [
+   0.038,
+   78
+  ]
+ },
+ "par_type": {
+  "A_direct": {
+   "n": 16,
+   "n_repondre": 16,
+   "R@1": [
+    0.688,
+    16
+   ],
+   "R@3": [
+    0.875,
+    16
+   ],
+   "R@5": [
+    1.0,
+    16
+   ],
+   "R@10": [
+    1.0,
+    16
+   ],
+   "doc@1": [
+    0.75,
+    16
+   ],
+   "doc@5": [
+    1.0,
+    16
+   ],
+   "article@1": [
+    0.688,
+    16
+   ],
+   "article@5": [
+    1.0,
+    16
+   ],
+   "temporel@1": [
+    null,
+    0
+   ],
+   "juridique@1": [
+    null,
+    0
+   ],
+   "contexte_suffisant": [
+    1.0,
+    16
+   ],
+   "retrieval_correct": [
+    1.0,
+    16
+   ],
+   "C1": [
+    0.0,
+    16
+   ],
+   "C2": [
+    0.0,
+    16
+   ],
+   "C3": [
+    0.0,
+    16
+   ],
+   "C4": [
+    0.0,
+    16
+   ],
+   "C5": [
+    1.0,
+    16
+   ],
+   "reponse_correcte": [
+    0.0,
+    16
+   ],
+   "citation_correcte": [
+    0.0,
+    16
+   ],
+   "statut_correct": [
+    null,
+    0
+   ],
+   "hallucination": [
+    0.0,
+    16
+   ],
+   "refus_a_tort": [
+    0.0,
+    16
+   ],
+   "erreur_temporelle_critique": [
+    null,
+    0
+   ],
+   "MRR": [
+    0.799,
+    16
+   ],
+   "refus_correct": [
+    null,
+    0
+   ],
+   "hors_corpus_repondu": [
+    null,
+    0
+   ],
+   "clarification_correcte": [
+    null,
+    0
+   ],
+   "reponse_correcte_toutes": [
+    0.0,
+    16
+   ]
+  },
+  "B_multi_textes": {
+   "n": 5,
+   "n_repondre": 5,
+   "R@1": [
+    0.0,
+    5
+   ],
+   "R@3": [
+    0.0,
+    5
+   ],
+   "R@5": [
+    0.0,
+    5
+   ],
+   "R@10": [
+    0.2,
+    5
+   ],
+   "doc@1": [
+    0.0,
+    5
+   ],
+   "doc@5": [
+    0.8,
+    5
+   ],
+   "article@1": [
+    0.0,
+    5
+   ],
+   "article@5": [
+    0.0,
+    5
+   ],
+   "temporel@1": [
+    0.25,
+    4
+   ],
+   "juridique@1": [
+    0.5,
+    4
+   ],
+   "contexte_suffisant": [
+    0.2,
+    5
+   ],
+   "retrieval_correct": [
+    0.0,
+    5
+   ],
+   "C1": [
+    0.0,
+    5
+   ],
+   "C2": [
+    0.0,
+    5
+   ],
+   "C3": [
+    0.0,
+    5
+   ],
+   "C4": [
+    0.0,
+    5
+   ],
+   "C5": [
+    1.0,
+    5
+   ],
+   "reponse_correcte": [
+    0.0,
+    5
+   ],
+   "citation_correcte": [
+    0.0,
+    5
+   ],
+   "statut_correct": [
+    null,
+    0
+   ],
+   "hallucination": [
+    0.0,
+    5
+   ],
+   "refus_a_tort": [
+    0.0,
+    5
+   ],
+   "erreur_temporelle_critique": [
+    null,
+    0
+   ],
+   "MRR": [
+    0.029,
+    5
+   ],
+   "refus_correct": [
+    null,
+    0
+   ],
+   "hors_corpus_repondu": [
+    null,
+    0
+   ],
+   "clarification_correcte": [
+    null,
+    0
+   ],
+   "reponse_correcte_toutes": [
+    0.0,
+    5
+   ]
+  },
+  "C_temporelle": {
+   "n": 18,
+   "n_repondre": 18,
+   "R@1": [
+    0.5,
+    18
+   ],
+   "R@3": [
+    0.611,
+    18
+   ],
+   "R@5": [
+    0.667,
+    18
+   ],
+   "R@10": [
+    0.833,
+    18
+   ],
+   "doc@1": [
+    0.5,
+    18
+   ],
+   "doc@5": [
+    0.722,
+    18
+   ],
+   "article@1": [
+    0.429,
+    14
+   ],
+   "article@5": [
+    0.643,
+    14
+   ],
+   "temporel@1": [
+    0.5,
+    18
+   ],
+   "juridique@1": [
+    0.833,
+    18
+   ],
+   "contexte_suffisant": [
+    0.833,
+    18
+   ],
+   "retrieval_correct": [
+    0.667,
+    18
+   ],
+   "C1": [
+    0.0,
+    18
+   ],
+   "C2": [
+    0.0,
+    18
+   ],
+   "C3": [
+    0.0,
+    18
+   ],
+   "C4": [
+    0.0,
+    18
+   ],
+   "C5": [
+    1.0,
+    18
+   ],
+   "reponse_correcte": [
+    0.0,
+    18
+   ],
+   "citation_correcte": [
+    0.0,
+    18
+   ],
+   "statut_correct": [
+    null,
+    0
+   ],
+   "hallucination": [
+    0.0,
+    18
+   ],
+   "refus_a_tort": [
+    0.0,
+    18
+   ],
+   "erreur_temporelle_critique": [
+    null,
+    0
+   ],
+   "MRR": [
+    0.592,
+    18
+   ],
+   "refus_correct": [
+    null,
+    0
+   ],
+   "hors_corpus_repondu": [
+    null,
+    0
+   ],
+   "clarification_correcte": [
+    null,
+    0
+   ],
+   "reponse_correcte_toutes": [
+    0.0,
+    18
+   ]
+  },
+  "D_modification": {
+   "n": 7,
+   "n_repondre": 7,
+   "R@1": [
+    0.429,
+    7
+   ],
+   "R@3": [
+    0.714,
+    7
+   ],
+   "R@5": [
+    0.857,
+    7
+   ],
+   "R@10": [
+    1.0,
+    7
+   ],
+   "doc@1": [
+    0.714,
+    7
+   ],
+   "doc@5": [
+    0.857,
+    7
+   ],
+   "article@1": [
+    0.429,
+    7
+   ],
+   "article@5": [
+    0.857,
+    7
+   ],
+   "temporel@1": [
+    0.429,
+    7
+   ],
+   "juridique@1": [
+    0.714,
+    7
+   ],
+   "contexte_suffisant": [
+    1.0,
+    7
+   ],
+   "retrieval_correct": [
+    0.857,
+    7
+   ],
+   "C1": [
+    0.0,
+    7
+   ],
+   "C2": [
+    0.0,
+    7
+   ],
+   "C3": [
+    0.0,
+    7
+   ],
+   "C4": [
+    0.0,
+    7
+   ],
+   "C5": [
+    1.0,
+    7
+   ],
+   "reponse_correcte": [
+    0.0,
+    7
+   ],
+   "citation_correcte": [
+    0.0,
+    7
+   ],
+   "statut_correct": [
+    null,
+    0
+   ],
+   "hallucination": [
+    0.0,
+    7
+   ],
+   "refus_a_tort": [
+    0.0,
+    7
+   ],
+   "erreur_temporelle_critique": [
+    null,
+    0
+   ],
+   "MRR": [
+    0.631,
+    7
+   ],
+   "refus_correct": [
+    null,
+    0
+   ],
+   "hors_corpus_repondu": [
+    null,
+    0
+   ],
+   "clarification_correcte": [
+    null,
+    0
+   ],
+   "reponse_correcte_toutes": [
+    0.0,
+    7
+   ]
+  },
+  "E_abrogation": {
+   "n": 6,
+   "n_repondre": 6,
+   "R@1": [
+    1.0,
+    6
+   ],
+   "R@3": [
+    1.0,
+    6
+   ],
+   "R@5": [
+    1.0,
+    6
+   ],
+   "R@10": [
+    1.0,
+    6
+   ],
+   "doc@1": [
+    1.0,
+    6
+   ],
+   "doc@5": [
+    1.0,
+    6
+   ],
+   "article@1": [
+    1.0,
+    5
+   ],
+   "article@5": [
+    1.0,
+    5
+   ],
+   "temporel@1": [
+    1.0,
+    6
+   ],
+   "juridique@1": [
+    1.0,
+    6
+   ],
+   "contexte_suffisant": [
+    1.0,
+    6
+   ],
+   "retrieval_correct": [
+    1.0,
+    6
+   ],
+   "C1": [
+    0.0,
+    6
+   ],
+   "C2": [
+    0.0,
+    6
+   ],
+   "C3": [
+    0.0,
+    6
+   ],
+   "C4": [
+    0.0,
+    6
+   ],
+   "C5": [
+    1.0,
+    6
+   ],
+   "reponse_correcte": [
+    0.0,
+    6
+   ],
+   "citation_correcte": [
+    0.0,
+    6
+   ],
+   "statut_correct": [
+    null,
+    0
+   ],
+   "hallucination": [
+    0.0,
+    6
+   ],
+   "refus_a_tort": [
+    0.0,
+    6
+   ],
+   "erreur_temporelle_critique": [
+    null,
+    0
+   ],
+   "MRR": [
+    1.0,
+    6
+   ],
+   "refus_correct": [
+    null,
+    0
+   ],
+   "hors_corpus_repondu": [
+    null,
+    0
+   ],
+   "clarification_correcte": [
+    null,
+    0
+   ],
+   "reponse_correcte_toutes": [
+    0.0,
+    6
+   ]
+  },
+  "F_comparaison": {
+   "n": 4,
+   "n_repondre": 4,
+   "R@1": [
+    0.0,
+    4
+   ],
+   "R@3": [
+    0.5,
+    4
+   ],
+   "R@5": [
+    0.5,
+    4
+   ],
+   "R@10": [
+    0.5,
+    4
+   ],
+   "doc@1": [
+    0.0,
+    4
+   ],
+   "doc@5": [
+    0.5,
+    4
+   ],
+   "article@1": [
+    0.0,
+    3
+   ],
+   "article@5": [
+    0.333,
+    3
+   ],
+   "temporel@1": [
+    0.75,
+    4
+   ],
+   "juridique@1": [
+    0.25,
+    4
+   ],
+   "contexte_suffisant": [
+    0.25,
+    4
+   ],
+   "retrieval_correct": [
+    0.5,
+    4
+   ],
+   "C1": [
+    0.0,
+    4
+   ],
+   "C2": [
+    0.0,
+    4
+   ],
+   "C3": [
+    0.0,
+    4
+   ],
+   "C4": [
+    0.0,
+    4
+   ],
+   "C5": [
+    1.0,
+    4
+   ],
+   "reponse_correcte": [
+    0.0,
+    4
+   ],
+   "citation_correcte": [
+    0.0,
+    4
+   ],
+   "statut_correct": [
+    null,
+    0
+   ],
+   "hallucination": [
+    0.0,
+    4
+   ],
+   "refus_a_tort": [
+    0.0,
+    4
+   ],
+   "erreur_temporelle_critique": [
+    null,
+    0
+   ],
+   "MRR": [
+    0.25,
+    4
+   ],
+   "refus_correct": [
+    null,
+    0
+   ],
+   "hors_corpus_repondu": [
+    null,
+    0
+   ],
+   "clarification_correcte": [
+    null,
+    0
+   ],
+   "reponse_correcte_toutes": [
+    0.0,
+    4
+   ]
+  },
+  "G_ambigue": {
+   "n": 5,
+   "n_repondre": 0,
+   "R@1": [
+    null,
+    0
+   ],
+   "R@3": [
+    null,
+    0
+   ],
+   "R@5": [
+    null,
+    0
+   ],
+   "R@10": [
+    null,
+    0
+   ],
+   "doc@1": [
+    null,
+    0
+   ],
+   "doc@5": [
+    null,
+    0
+   ],
+   "article@1": [
+    null,
+    0
+   ],
+   "article@5": [
+    null,
+    0
+   ],
+   "temporel@1": [
+    null,
+    0
+   ],
+   "juridique@1": [
+    null,
+    0
+   ],
+   "contexte_suffisant": [
+    null,
+    0
+   ],
+   "retrieval_correct": [
+    null,
+    0
+   ],
+   "C1": [
+    null,
+    0
+   ],
+   "C2": [
+    null,
+    0
+   ],
+   "C3": [
+    null,
+    0
+   ],
+   "C4": [
+    null,
+    0
+   ],
+   "C5": [
+    null,
+    0
+   ],
+   "reponse_correcte": [
+    null,
+    0
+   ],
+   "citation_correcte": [
+    null,
+    0
+   ],
+   "statut_correct": [
+    null,
+    0
+   ],
+   "hallucination": [
+    null,
+    0
+   ],
+   "refus_a_tort": [
+    null,
+    0
+   ],
+   "erreur_temporelle_critique": [
+    null,
+    0
+   ],
+   "MRR": [
+    0.0,
+    0
+   ],
+   "refus_correct": [
+    null,
+    0
+   ],
+   "hors_corpus_repondu": [
+    null,
+    0
+   ],
+   "clarification_correcte": [
+    0.0,
+    5
+   ],
+   "reponse_correcte_toutes": [
+    0.0,
+    5
+   ]
+  },
+  "H_hors_corpus": {
+   "n": 6,
+   "n_repondre": 0,
+   "R@1": [
+    null,
+    0
+   ],
+   "R@3": [
+    null,
+    0
+   ],
+   "R@5": [
+    null,
+    0
+   ],
+   "R@10": [
+    null,
+    0
+   ],
+   "doc@1": [
+    null,
+    0
+   ],
+   "doc@5": [
+    null,
+    0
+   ],
+   "article@1": [
+    null,
+    0
+   ],
+   "article@5": [
+    null,
+    0
+   ],
+   "temporel@1": [
+    null,
+    0
+   ],
+   "juridique@1": [
+    null,
+    0
+   ],
+   "contexte_suffisant": [
+    null,
+    0
+   ],
+   "retrieval_correct": [
+    null,
+    0
+   ],
+   "C1": [
+    null,
+    0
+   ],
+   "C2": [
+    null,
+    0
+   ],
+   "C3": [
+    null,
+    0
+   ],
+   "C4": [
+    null,
+    0
+   ],
+   "C5": [
+    null,
+    0
+   ],
+   "reponse_correcte": [
+    null,
+    0
+   ],
+   "citation_correcte": [
+    null,
+    0
+   ],
+   "statut_correct": [
+    null,
+    0
+   ],
+   "hallucination": [
+    null,
+    0
+   ],
+   "refus_a_tort": [
+    null,
+    0
+   ],
+   "erreur_temporelle_critique": [
+    null,
+    0
+   ],
+   "MRR": [
+    0.0,
+    0
+   ],
+   "refus_correct": [
+    0.167,
+    6
+   ],
+   "hors_corpus_repondu": [
+    0.833,
+    6
+   ],
+   "clarification_correcte": [
+    null,
+    0
+   ],
+   "reponse_correcte_toutes": [
+    0.167,
+    6
+   ]
+  },
+  "I_hors_sujet": {
+   "n": 3,
+   "n_repondre": 0,
+   "R@1": [
+    null,
+    0
+   ],
+   "R@3": [
+    null,
+    0
+   ],
+   "R@5": [
+    null,
+    0
+   ],
+   "R@10": [
+    null,
+    0
+   ],
+   "doc@1": [
+    null,
+    0
+   ],
+   "doc@5": [
+    null,
+    0
+   ],
+   "article@1": [
+    null,
+    0
+   ],
+   "article@5": [
+    null,
+    0
+   ],
+   "temporel@1": [
+    null,
+    0
+   ],
+   "juridique@1": [
+    null,
+    0
+   ],
+   "contexte_suffisant": [
+    null,
+    0
+   ],
+   "retrieval_correct": [
+    null,
+    0
+   ],
+   "C1": [
+    null,
+    0
+   ],
+   "C2": [
+    null,
+    0
+   ],
+   "C3": [
+    null,
+    0
+   ],
+   "C4": [
+    null,
+    0
+   ],
+   "C5": [
+    null,
+    0
+   ],
+   "reponse_correcte": [
+    null,
+    0
+   ],
+   "citation_correcte": [
+    null,
+    0
+   ],
+   "statut_correct": [
+    null,
+    0
+   ],
+   "hallucination": [
+    null,
+    0
+   ],
+   "refus_a_tort": [
+    null,
+    0
+   ],
+   "erreur_temporelle_critique": [
+    null,
+    0
+   ],
+   "MRR": [
+    0.0,
+    0
+   ],
+   "refus_correct": [
+    0.667,
+    3
+   ],
+   "hors_corpus_repondu": [
+    0.333,
+    3
+   ],
+   "clarification_correcte": [
+    null,
+    0
+   ],
+   "reponse_correcte_toutes": [
+    0.667,
+    3
+   ]
+  },
+  "J_fr_ar": {
+   "n": 8,
+   "n_repondre": 8,
+   "R@1": [
+    0.0,
+    8
+   ],
+   "R@3": [
+    0.0,
+    8
+   ],
+   "R@5": [
+    0.0,
+    8
+   ],
+   "R@10": [
+    0.0,
+    8
+   ],
+   "doc@1": [
+    0.0,
+    8
+   ],
+   "doc@5": [
+    0.0,
+    8
+   ],
+   "article@1": [
+    0.0,
+    8
+   ],
+   "article@5": [
+    0.0,
+    8
+   ],
+   "temporel@1": [
+    0.0,
+    3
+   ],
+   "juridique@1": [
+    0.333,
+    3
+   ],
+   "contexte_suffisant": [
+    0.0,
+    8
+   ],
+   "retrieval_correct": [
+    0.0,
+    8
+   ],
+   "C1": [
+    0.0,
+    8
+   ],
+   "C2": [
+    0.0,
+    8
+   ],
+   "C3": [
+    0.0,
+    8
+   ],
+   "C4": [
+    0.0,
+    8
+   ],
+   "C5": [
+    1.0,
+    8
+   ],
+   "reponse_correcte": [
+    0.0,
+    8
+   ],
+   "citation_correcte": [
+    0.0,
+    8
+   ],
+   "statut_correct": [
+    null,
+    0
+   ],
+   "hallucination": [
+    0.0,
+    8
+   ],
+   "refus_a_tort": [
+    0.0,
+    8
+   ],
+   "erreur_temporelle_critique": [
+    null,
+    0
+   ],
+   "MRR": [
+    0.0,
+    8
+   ],
+   "refus_correct": [
+    null,
+    0
+   ],
+   "hors_corpus_repondu": [
+    null,
+    0
+   ],
+   "clarification_correcte": [
+    null,
+    0
+   ],
+   "reponse_correcte_toutes": [
+    0.0,
+    8
+   ]
+  }
+ },
+ "items": [
+  {
+   "id": "H001",
+   "type": "A_direct",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 1,
+   "rank_succ": 1,
+   "R@1": true,
+   "R@3": true,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 1.0,
+   "doc@1": true,
+   "doc@5": true,
+   "article@1": true,
+   "article@5": true,
+   "contexte_suffisant": true,
+   "retrieval_correct": true,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H003",
+   "type": "A_direct",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 1,
+   "rank_succ": 1,
+   "R@1": true,
+   "R@3": true,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 1.0,
+   "doc@1": true,
+   "doc@5": true,
+   "article@1": true,
+   "article@5": true,
+   "contexte_suffisant": true,
+   "retrieval_correct": true,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H004",
+   "type": "A_direct",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 1,
+   "rank_succ": 1,
+   "R@1": true,
+   "R@3": true,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 1.0,
+   "doc@1": true,
+   "doc@5": true,
+   "article@1": true,
+   "article@5": true,
+   "contexte_suffisant": true,
+   "retrieval_correct": true,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H009",
+   "type": "A_direct",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 1,
+   "rank_succ": 1,
+   "R@1": true,
+   "R@3": true,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 1.0,
+   "doc@1": true,
+   "doc@5": true,
+   "article@1": true,
+   "article@5": true,
+   "contexte_suffisant": true,
+   "retrieval_correct": true,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H010",
+   "type": "A_direct",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 2,
+   "rank_succ": 2,
+   "R@1": false,
+   "R@3": true,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 0.5,
+   "doc@1": false,
+   "doc@5": true,
+   "article@1": false,
+   "article@5": true,
+   "contexte_suffisant": true,
+   "retrieval_correct": true,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H011",
+   "type": "A_direct",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 1,
+   "rank_succ": 1,
+   "R@1": true,
+   "R@3": true,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 1.0,
+   "doc@1": true,
+   "doc@5": true,
+   "article@1": true,
+   "article@5": true,
+   "contexte_suffisant": true,
+   "retrieval_correct": true,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H013",
+   "type": "A_direct",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 3,
+   "rank_succ": 3,
+   "R@1": false,
+   "R@3": true,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 0.3333333333333333,
+   "doc@1": false,
+   "doc@5": true,
+   "article@1": false,
+   "article@5": true,
+   "contexte_suffisant": true,
+   "retrieval_correct": true,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H015",
+   "type": "A_direct",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 1,
+   "rank_succ": 1,
+   "R@1": true,
+   "R@3": true,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 1.0,
+   "doc@1": true,
+   "doc@5": true,
+   "article@1": true,
+   "article@5": true,
+   "contexte_suffisant": true,
+   "retrieval_correct": true,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H017",
+   "type": "A_direct",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 1,
+   "rank_succ": 1,
+   "R@1": true,
+   "R@3": true,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 1.0,
+   "doc@1": true,
+   "doc@5": true,
+   "article@1": true,
+   "article@5": true,
+   "contexte_suffisant": true,
+   "retrieval_correct": true,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H019",
+   "type": "A_direct",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 1,
+   "rank_succ": 1,
+   "R@1": true,
+   "R@3": true,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 1.0,
+   "doc@1": true,
+   "doc@5": true,
+   "article@1": true,
+   "article@5": true,
+   "contexte_suffisant": true,
+   "retrieval_correct": true,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H020",
+   "type": "A_direct",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 4,
+   "rank_succ": 4,
+   "R@1": false,
+   "R@3": false,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 0.25,
+   "doc@1": false,
+   "doc@5": true,
+   "article@1": false,
+   "article@5": true,
+   "contexte_suffisant": true,
+   "retrieval_correct": true,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H021",
+   "type": "A_direct",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 1,
+   "rank_succ": 1,
+   "R@1": true,
+   "R@3": true,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 1.0,
+   "doc@1": true,
+   "doc@5": true,
+   "article@1": true,
+   "article@5": true,
+   "contexte_suffisant": true,
+   "retrieval_correct": true,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H022",
+   "type": "A_direct",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 5,
+   "rank_succ": 5,
+   "R@1": false,
+   "R@3": false,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 0.2,
+   "doc@1": true,
+   "doc@5": true,
+   "article@1": false,
+   "article@5": true,
+   "contexte_suffisant": true,
+   "retrieval_correct": true,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H024",
+   "type": "A_direct",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 1,
+   "rank_succ": 1,
+   "R@1": true,
+   "R@3": true,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 1.0,
+   "doc@1": true,
+   "doc@5": true,
+   "article@1": true,
+   "article@5": true,
+   "contexte_suffisant": true,
+   "retrieval_correct": true,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H025",
+   "type": "A_direct",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 1,
+   "rank_succ": 1,
+   "R@1": true,
+   "R@3": true,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 1.0,
+   "doc@1": true,
+   "doc@5": true,
+   "article@1": true,
+   "article@5": true,
+   "contexte_suffisant": true,
+   "retrieval_correct": true,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H026",
+   "type": "A_direct",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 2,
+   "rank_succ": 2,
+   "R@1": false,
+   "R@3": true,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 0.5,
+   "doc@1": false,
+   "doc@5": true,
+   "article@1": false,
+   "article@5": true,
+   "contexte_suffisant": true,
+   "retrieval_correct": true,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H027",
+   "type": "B_multi_textes",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": null,
+   "rank_succ": null,
+   "R@1": false,
+   "R@3": false,
+   "R@5": false,
+   "R@10": false,
+   "mrr": 0.0,
+   "doc@1": false,
+   "doc@5": true,
+   "article@1": false,
+   "article@5": false,
+   "temporel@1": false,
+   "temporel_sans_interdite_devant": true,
+   "juridique@1": true,
+   "statut_top1_calcule": "UNKNOWN",
+   "contexte_suffisant": false,
+   "retrieval_correct": false,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H029",
+   "type": "B_multi_textes",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": null,
+   "rank_succ": null,
+   "R@1": false,
+   "R@3": false,
+   "R@5": false,
+   "R@10": false,
+   "mrr": 0.0,
+   "doc@1": false,
+   "doc@5": true,
+   "article@1": false,
+   "article@5": false,
+   "temporel@1": false,
+   "temporel_sans_interdite_devant": false,
+   "juridique@1": false,
+   "statut_top1_calcule": "ABROGATED",
+   "contexte_suffisant": false,
+   "retrieval_correct": false,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H031",
+   "type": "B_multi_textes",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": null,
+   "rank_succ": null,
+   "R@1": false,
+   "R@3": false,
+   "R@5": false,
+   "R@10": false,
+   "mrr": 0.0,
+   "doc@1": false,
+   "doc@5": true,
+   "article@1": false,
+   "article@5": false,
+   "temporel@1": false,
+   "temporel_sans_interdite_devant": false,
+   "juridique@1": true,
+   "statut_top1_calcule": "MODIFIED",
+   "contexte_suffisant": false,
+   "retrieval_correct": false,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H032",
+   "type": "B_multi_textes",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": null,
+   "rank_succ": null,
+   "R@1": false,
+   "R@3": false,
+   "R@5": false,
+   "R@10": false,
+   "mrr": 0.0,
+   "doc@1": false,
+   "doc@5": true,
+   "article@1": false,
+   "article@5": false,
+   "contexte_suffisant": false,
+   "retrieval_correct": false,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H034",
+   "type": "B_multi_textes",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 7,
+   "rank_succ": 7,
+   "R@1": false,
+   "R@3": false,
+   "R@5": false,
+   "R@10": true,
+   "mrr": 0.14285714285714285,
+   "doc@1": false,
+   "doc@5": false,
+   "article@1": false,
+   "article@5": false,
+   "temporel@1": true,
+   "temporel_sans_interdite_devant": true,
+   "juridique@1": false,
+   "statut_top1_calcule": "REPLACED",
+   "contexte_suffisant": true,
+   "retrieval_correct": false,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H040",
+   "type": "C_temporelle",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 1,
+   "rank_succ": 1,
+   "R@1": true,
+   "R@3": true,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 1.0,
+   "doc@1": true,
+   "doc@5": true,
+   "article@1": true,
+   "article@5": true,
+   "temporel@1": true,
+   "temporel_sans_interdite_devant": true,
+   "juridique@1": true,
+   "statut_top1_calcule": "ACTIVE",
+   "contexte_suffisant": true,
+   "retrieval_correct": true,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H041",
+   "type": "C_temporelle",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 2,
+   "rank_succ": 2,
+   "R@1": false,
+   "R@3": true,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 0.5,
+   "doc@1": false,
+   "doc@5": true,
+   "article@1": false,
+   "article@5": true,
+   "temporel@1": false,
+   "temporel_sans_interdite_devant": true,
+   "juridique@1": true,
+   "statut_top1_calcule": "UNKNOWN",
+   "contexte_suffisant": true,
+   "retrieval_correct": true,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H044",
+   "type": "C_temporelle",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 6,
+   "rank_succ": 6,
+   "R@1": false,
+   "R@3": false,
+   "R@5": false,
+   "R@10": true,
+   "mrr": 0.16666666666666666,
+   "doc@1": false,
+   "doc@5": true,
+   "article@1": false,
+   "article@5": false,
+   "temporel@1": false,
+   "temporel_sans_interdite_devant": false,
+   "juridique@1": true,
+   "statut_top1_calcule": "UNKNOWN",
+   "contexte_suffisant": true,
+   "retrieval_correct": false,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H045",
+   "type": "C_temporelle",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": null,
+   "rank_succ": null,
+   "R@1": false,
+   "R@3": false,
+   "R@5": false,
+   "R@10": false,
+   "mrr": 0.0,
+   "doc@1": false,
+   "doc@5": false,
+   "article@1": false,
+   "article@5": false,
+   "temporel@1": false,
+   "temporel_sans_interdite_devant": false,
+   "juridique@1": true,
+   "statut_top1_calcule": "HISTORICAL",
+   "contexte_suffisant": false,
+   "retrieval_correct": false,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H046",
+   "type": "C_temporelle",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": null,
+   "rank_succ": null,
+   "R@1": false,
+   "R@3": false,
+   "R@5": false,
+   "R@10": false,
+   "mrr": 0.0,
+   "doc@1": false,
+   "doc@5": false,
+   "article@1": false,
+   "article@5": false,
+   "temporel@1": false,
+   "temporel_sans_interdite_devant": false,
+   "juridique@1": false,
+   "statut_top1_calcule": "HISTORICAL",
+   "contexte_suffisant": false,
+   "retrieval_correct": false,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H047",
+   "type": "C_temporelle",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 7,
+   "rank_succ": 7,
+   "R@1": false,
+   "R@3": false,
+   "R@5": false,
+   "R@10": true,
+   "mrr": 0.14285714285714285,
+   "doc@1": false,
+   "doc@5": false,
+   "article@1": false,
+   "article@5": false,
+   "temporel@1": false,
+   "temporel_sans_interdite_devant": false,
+   "juridique@1": true,
+   "statut_top1_calcule": "HISTORICAL",
+   "contexte_suffisant": false,
+   "retrieval_correct": false,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H048",
+   "type": "C_temporelle",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 1,
+   "rank_succ": 1,
+   "R@1": true,
+   "R@3": true,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 1.0,
+   "doc@1": true,
+   "doc@5": true,
+   "article@1": true,
+   "article@5": true,
+   "temporel@1": true,
+   "temporel_sans_interdite_devant": true,
+   "juridique@1": true,
+   "statut_top1_calcule": "HISTORICAL",
+   "contexte_suffisant": true,
+   "retrieval_correct": true,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H049",
+   "type": "C_temporelle",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 1,
+   "rank_succ": 1,
+   "R@1": true,
+   "R@3": true,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 1.0,
+   "doc@1": true,
+   "doc@5": true,
+   "article@1": true,
+   "article@5": true,
+   "temporel@1": true,
+   "temporel_sans_interdite_devant": true,
+   "juridique@1": true,
+   "statut_top1_calcule": "HISTORICAL",
+   "contexte_suffisant": true,
+   "retrieval_correct": true,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H054",
+   "type": "C_temporelle",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 1,
+   "rank_succ": 1,
+   "R@1": true,
+   "R@3": true,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 1.0,
+   "doc@1": true,
+   "doc@5": true,
+   "article@1": null,
+   "article@5": null,
+   "temporel@1": true,
+   "temporel_sans_interdite_devant": true,
+   "juridique@1": true,
+   "statut_top1_calcule": "ACTIVE",
+   "contexte_suffisant": true,
+   "retrieval_correct": true,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H055",
+   "type": "C_temporelle",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 1,
+   "rank_succ": 1,
+   "R@1": true,
+   "R@3": true,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 1.0,
+   "doc@1": true,
+   "doc@5": true,
+   "article@1": null,
+   "article@5": null,
+   "temporel@1": true,
+   "temporel_sans_interdite_devant": true,
+   "juridique@1": true,
+   "statut_top1_calcule": "ABROGATED",
+   "contexte_suffisant": true,
+   "retrieval_correct": true,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H056",
+   "type": "C_temporelle",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": null,
+   "rank_succ": null,
+   "R@1": false,
+   "R@3": false,
+   "R@5": false,
+   "R@10": false,
+   "mrr": 0.0,
+   "doc@1": false,
+   "doc@5": false,
+   "article@1": false,
+   "article@5": false,
+   "temporel@1": false,
+   "temporel_sans_interdite_devant": false,
+   "juridique@1": false,
+   "statut_top1_calcule": "REPLACED",
+   "contexte_suffisant": true,
+   "retrieval_correct": false,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H057",
+   "type": "C_temporelle",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 2,
+   "rank_succ": 2,
+   "R@1": false,
+   "R@3": true,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 0.5,
+   "doc@1": false,
+   "doc@5": true,
+   "article@1": false,
+   "article@5": true,
+   "temporel@1": false,
+   "temporel_sans_interdite_devant": false,
+   "juridique@1": false,
+   "statut_top1_calcule": "REPLACED",
+   "contexte_suffisant": true,
+   "retrieval_correct": true,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H058",
+   "type": "C_temporelle",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 1,
+   "rank_succ": 1,
+   "R@1": true,
+   "R@3": true,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 1.0,
+   "doc@1": true,
+   "doc@5": true,
+   "article@1": true,
+   "article@5": true,
+   "temporel@1": true,
+   "temporel_sans_interdite_devant": true,
+   "juridique@1": true,
+   "statut_top1_calcule": "REPLACED",
+   "contexte_suffisant": true,
+   "retrieval_correct": true,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H059",
+   "type": "C_temporelle",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 1,
+   "rank_succ": 1,
+   "R@1": true,
+   "R@3": true,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 1.0,
+   "doc@1": true,
+   "doc@5": true,
+   "article@1": true,
+   "article@5": true,
+   "temporel@1": true,
+   "temporel_sans_interdite_devant": true,
+   "juridique@1": true,
+   "statut_top1_calcule": "ACTIVE",
+   "contexte_suffisant": true,
+   "retrieval_correct": true,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H060",
+   "type": "C_temporelle",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 1,
+   "rank_succ": 1,
+   "R@1": true,
+   "R@3": true,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 1.0,
+   "doc@1": true,
+   "doc@5": true,
+   "article@1": true,
+   "article@5": true,
+   "temporel@1": true,
+   "temporel_sans_interdite_devant": true,
+   "juridique@1": true,
+   "statut_top1_calcule": "REPLACED",
+   "contexte_suffisant": true,
+   "retrieval_correct": true,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H061",
+   "type": "C_temporelle",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 5,
+   "rank_succ": 5,
+   "R@1": false,
+   "R@3": false,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 0.2,
+   "doc@1": false,
+   "doc@5": true,
+   "article@1": false,
+   "article@5": true,
+   "temporel@1": false,
+   "temporel_sans_interdite_devant": false,
+   "juridique@1": true,
+   "statut_top1_calcule": "HISTORICAL",
+   "contexte_suffisant": true,
+   "retrieval_correct": true,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H062",
+   "type": "C_temporelle",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 1,
+   "rank_succ": 1,
+   "R@1": true,
+   "R@3": true,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 1.0,
+   "doc@1": true,
+   "doc@5": true,
+   "article@1": null,
+   "article@5": null,
+   "temporel@1": true,
+   "temporel_sans_interdite_devant": true,
+   "juridique@1": true,
+   "statut_top1_calcule": "HISTORICAL",
+   "contexte_suffisant": true,
+   "retrieval_correct": true,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H063",
+   "type": "C_temporelle",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 7,
+   "rank_succ": 7,
+   "R@1": false,
+   "R@3": false,
+   "R@5": false,
+   "R@10": true,
+   "mrr": 0.14285714285714285,
+   "doc@1": false,
+   "doc@5": false,
+   "article@1": null,
+   "article@5": null,
+   "temporel@1": false,
+   "temporel_sans_interdite_devant": false,
+   "juridique@1": true,
+   "statut_top1_calcule": "HISTORICAL",
+   "contexte_suffisant": true,
+   "retrieval_correct": false,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H065",
+   "type": "D_modification",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 2,
+   "rank_succ": 2,
+   "R@1": false,
+   "R@3": true,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 0.5,
+   "doc@1": true,
+   "doc@5": true,
+   "article@1": false,
+   "article@5": true,
+   "temporel@1": false,
+   "temporel_sans_interdite_devant": true,
+   "juridique@1": true,
+   "statut_top1_calcule": "ABROGATED",
+   "contexte_suffisant": true,
+   "retrieval_correct": true,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H066",
+   "type": "D_modification",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 1,
+   "rank_succ": 1,
+   "R@1": true,
+   "R@3": true,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 1.0,
+   "doc@1": true,
+   "doc@5": true,
+   "article@1": true,
+   "article@5": true,
+   "temporel@1": true,
+   "temporel_sans_interdite_devant": true,
+   "juridique@1": true,
+   "statut_top1_calcule": "ABROGATED",
+   "contexte_suffisant": true,
+   "retrieval_correct": true,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H067",
+   "type": "D_modification",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 4,
+   "rank_succ": 4,
+   "R@1": false,
+   "R@3": false,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 0.25,
+   "doc@1": true,
+   "doc@5": true,
+   "article@1": false,
+   "article@5": true,
+   "temporel@1": false,
+   "temporel_sans_interdite_devant": true,
+   "juridique@1": true,
+   "statut_top1_calcule": "ACTIVE",
+   "contexte_suffisant": true,
+   "retrieval_correct": true,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H070",
+   "type": "D_modification",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 1,
+   "rank_succ": 1,
+   "R@1": true,
+   "R@3": true,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 1.0,
+   "doc@1": true,
+   "doc@5": true,
+   "article@1": true,
+   "article@5": true,
+   "temporel@1": true,
+   "temporel_sans_interdite_devant": true,
+   "juridique@1": true,
+   "statut_top1_calcule": "ACTIVE",
+   "contexte_suffisant": true,
+   "retrieval_correct": true,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H072",
+   "type": "D_modification",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 2,
+   "rank_succ": 2,
+   "R@1": false,
+   "R@3": true,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 0.5,
+   "doc@1": false,
+   "doc@5": true,
+   "article@1": false,
+   "article@5": true,
+   "temporel@1": false,
+   "temporel_sans_interdite_devant": true,
+   "juridique@1": false,
+   "statut_top1_calcule": "REPLACED",
+   "contexte_suffisant": true,
+   "retrieval_correct": true,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H074",
+   "type": "D_modification",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 6,
+   "rank_succ": 6,
+   "R@1": false,
+   "R@3": false,
+   "R@5": false,
+   "R@10": true,
+   "mrr": 0.16666666666666666,
+   "doc@1": false,
+   "doc@5": false,
+   "article@1": false,
+   "article@5": false,
+   "temporel@1": false,
+   "temporel_sans_interdite_devant": false,
+   "juridique@1": false,
+   "statut_top1_calcule": "REPLACED",
+   "contexte_suffisant": true,
+   "retrieval_correct": false,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H075",
+   "type": "D_modification",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 1,
+   "rank_succ": 1,
+   "R@1": true,
+   "R@3": true,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 1.0,
+   "doc@1": true,
+   "doc@5": true,
+   "article@1": true,
+   "article@5": true,
+   "temporel@1": true,
+   "temporel_sans_interdite_devant": true,
+   "juridique@1": true,
+   "statut_top1_calcule": "REPLACED",
+   "contexte_suffisant": true,
+   "retrieval_correct": true,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H076",
+   "type": "E_abrogation",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 1,
+   "rank_succ": 1,
+   "R@1": true,
+   "R@3": true,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 1.0,
+   "doc@1": true,
+   "doc@5": true,
+   "article@1": true,
+   "article@5": true,
+   "temporel@1": true,
+   "temporel_sans_interdite_devant": true,
+   "juridique@1": true,
+   "statut_top1_calcule": "MODIFIED",
+   "contexte_suffisant": true,
+   "retrieval_correct": true,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H080",
+   "type": "E_abrogation",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 1,
+   "rank_succ": 1,
+   "R@1": true,
+   "R@3": true,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 1.0,
+   "doc@1": true,
+   "doc@5": true,
+   "article@1": true,
+   "article@5": true,
+   "temporel@1": true,
+   "temporel_sans_interdite_devant": true,
+   "juridique@1": true,
+   "statut_top1_calcule": "ABROGATED",
+   "contexte_suffisant": true,
+   "retrieval_correct": true,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H082",
+   "type": "E_abrogation",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 1,
+   "rank_succ": 1,
+   "R@1": true,
+   "R@3": true,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 1.0,
+   "doc@1": true,
+   "doc@5": true,
+   "article@1": true,
+   "article@5": true,
+   "temporel@1": true,
+   "temporel_sans_interdite_devant": true,
+   "juridique@1": true,
+   "statut_top1_calcule": "ABROGATED",
+   "contexte_suffisant": true,
+   "retrieval_correct": true,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H083",
+   "type": "E_abrogation",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 1,
+   "rank_succ": 1,
+   "R@1": true,
+   "R@3": true,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 1.0,
+   "doc@1": true,
+   "doc@5": true,
+   "article@1": null,
+   "article@5": null,
+   "temporel@1": true,
+   "temporel_sans_interdite_devant": true,
+   "juridique@1": true,
+   "statut_top1_calcule": "ABROGATED",
+   "contexte_suffisant": true,
+   "retrieval_correct": true,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H084",
+   "type": "E_abrogation",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 1,
+   "rank_succ": 1,
+   "R@1": true,
+   "R@3": true,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 1.0,
+   "doc@1": true,
+   "doc@5": true,
+   "article@1": true,
+   "article@5": true,
+   "temporel@1": true,
+   "temporel_sans_interdite_devant": true,
+   "juridique@1": true,
+   "statut_top1_calcule": "REPLACED",
+   "contexte_suffisant": true,
+   "retrieval_correct": true,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H085",
+   "type": "E_abrogation",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 1,
+   "rank_succ": 1,
+   "R@1": true,
+   "R@3": true,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 1.0,
+   "doc@1": true,
+   "doc@5": true,
+   "article@1": true,
+   "article@5": true,
+   "temporel@1": true,
+   "temporel_sans_interdite_devant": true,
+   "juridique@1": true,
+   "statut_top1_calcule": "ACTIVE",
+   "contexte_suffisant": true,
+   "retrieval_correct": true,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H087",
+   "type": "F_comparaison",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": null,
+   "rank_succ": null,
+   "R@1": false,
+   "R@3": false,
+   "R@5": false,
+   "R@10": false,
+   "mrr": 0.0,
+   "doc@1": false,
+   "doc@5": false,
+   "article@1": false,
+   "article@5": false,
+   "temporel@1": false,
+   "temporel_sans_interdite_devant": false,
+   "juridique@1": true,
+   "statut_top1_calcule": "ACTIVE",
+   "contexte_suffisant": false,
+   "retrieval_correct": false,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H090",
+   "type": "F_comparaison",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 2,
+   "rank_succ": 2,
+   "R@1": false,
+   "R@3": true,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 0.5,
+   "doc@1": false,
+   "doc@5": true,
+   "article@1": null,
+   "article@5": null,
+   "temporel@1": true,
+   "temporel_sans_interdite_devant": true,
+   "juridique@1": false,
+   "statut_top1_calcule": "ABROGATED",
+   "contexte_suffisant": false,
+   "retrieval_correct": true,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H091",
+   "type": "F_comparaison",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": null,
+   "rank_succ": null,
+   "R@1": false,
+   "R@3": false,
+   "R@5": false,
+   "R@10": false,
+   "mrr": 0.0,
+   "doc@1": false,
+   "doc@5": false,
+   "article@1": false,
+   "article@5": false,
+   "temporel@1": true,
+   "temporel_sans_interdite_devant": true,
+   "juridique@1": false,
+   "statut_top1_calcule": "REPLACED",
+   "contexte_suffisant": false,
+   "retrieval_correct": false,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H092",
+   "type": "F_comparaison",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": 2,
+   "rank_succ": 2,
+   "R@1": false,
+   "R@3": true,
+   "R@5": true,
+   "R@10": true,
+   "mrr": 0.5,
+   "doc@1": false,
+   "doc@5": true,
+   "article@1": false,
+   "article@5": true,
+   "temporel@1": true,
+   "temporel_sans_interdite_devant": true,
+   "juridique@1": false,
+   "statut_top1_calcule": "REPLACED",
+   "contexte_suffisant": true,
+   "retrieval_correct": true,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H093",
+   "type": "G_ambigue",
+   "split": "DEV",
+   "comportement": "clarifier",
+   "clarification_correcte": false,
+   "reponse_correcte": false,
+   "retrieval_correct": false
+  },
+  {
+   "id": "H096",
+   "type": "G_ambigue",
+   "split": "DEV",
+   "comportement": "clarifier",
+   "clarification_correcte": false,
+   "reponse_correcte": false,
+   "retrieval_correct": false
+  },
+  {
+   "id": "H097",
+   "type": "G_ambigue",
+   "split": "DEV",
+   "comportement": "clarifier",
+   "clarification_correcte": false,
+   "reponse_correcte": false,
+   "retrieval_correct": false
+  },
+  {
+   "id": "H098",
+   "type": "G_ambigue",
+   "split": "DEV",
+   "comportement": "clarifier",
+   "clarification_correcte": false,
+   "reponse_correcte": false,
+   "retrieval_correct": false
+  },
+  {
+   "id": "H099",
+   "type": "G_ambigue",
+   "split": "DEV",
+   "comportement": "clarifier",
+   "clarification_correcte": false,
+   "reponse_correcte": false,
+   "retrieval_correct": false
+  },
+  {
+   "id": "H101",
+   "type": "H_hors_corpus",
+   "split": "DEV",
+   "comportement": "refuser",
+   "refus_correct": false,
+   "reponse_correcte": false,
+   "retrieval_correct": false,
+   "hors_corpus_repondu": true
+  },
+  {
+   "id": "H102",
+   "type": "H_hors_corpus",
+   "split": "DEV",
+   "comportement": "refuser",
+   "refus_correct": true,
+   "reponse_correcte": true,
+   "retrieval_correct": true,
+   "hors_corpus_repondu": false
+  },
+  {
+   "id": "H104",
+   "type": "H_hors_corpus",
+   "split": "DEV",
+   "comportement": "refuser",
+   "refus_correct": false,
+   "reponse_correcte": false,
+   "retrieval_correct": false,
+   "hors_corpus_repondu": true
+  },
+  {
+   "id": "H107",
+   "type": "H_hors_corpus",
+   "split": "DEV",
+   "comportement": "refuser",
+   "refus_correct": false,
+   "reponse_correcte": false,
+   "retrieval_correct": false,
+   "hors_corpus_repondu": true
+  },
+  {
+   "id": "H109",
+   "type": "H_hors_corpus",
+   "split": "DEV",
+   "comportement": "refuser",
+   "refus_correct": false,
+   "reponse_correcte": false,
+   "retrieval_correct": false,
+   "hors_corpus_repondu": true
+  },
+  {
+   "id": "H110",
+   "type": "H_hors_corpus",
+   "split": "DEV",
+   "comportement": "refuser",
+   "refus_correct": false,
+   "reponse_correcte": false,
+   "retrieval_correct": false,
+   "hors_corpus_repondu": true
+  },
+  {
+   "id": "H111",
+   "type": "I_hors_sujet",
+   "split": "DEV",
+   "comportement": "refuser",
+   "refus_correct": true,
+   "reponse_correcte": true,
+   "retrieval_correct": true,
+   "hors_corpus_repondu": false
+  },
+  {
+   "id": "H114",
+   "type": "I_hors_sujet",
+   "split": "DEV",
+   "comportement": "refuser",
+   "refus_correct": false,
+   "reponse_correcte": false,
+   "retrieval_correct": false,
+   "hors_corpus_repondu": true
+  },
+  {
+   "id": "H116",
+   "type": "I_hors_sujet",
+   "split": "DEV",
+   "comportement": "refuser",
+   "refus_correct": true,
+   "reponse_correcte": true,
+   "retrieval_correct": true,
+   "hors_corpus_repondu": false
+  },
+  {
+   "id": "H120",
+   "type": "J_fr_ar",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": null,
+   "rank_succ": null,
+   "R@1": false,
+   "R@3": false,
+   "R@5": false,
+   "R@10": false,
+   "mrr": 0.0,
+   "doc@1": false,
+   "doc@5": false,
+   "article@1": false,
+   "article@5": false,
+   "contexte_suffisant": false,
+   "retrieval_correct": false,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H121",
+   "type": "J_fr_ar",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": null,
+   "rank_succ": null,
+   "R@1": false,
+   "R@3": false,
+   "R@5": false,
+   "R@10": false,
+   "mrr": 0.0,
+   "doc@1": false,
+   "doc@5": false,
+   "article@1": false,
+   "article@5": false,
+   "contexte_suffisant": false,
+   "retrieval_correct": false,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H123",
+   "type": "J_fr_ar",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": null,
+   "rank_succ": null,
+   "R@1": false,
+   "R@3": false,
+   "R@5": false,
+   "R@10": false,
+   "mrr": 0.0,
+   "doc@1": false,
+   "doc@5": false,
+   "article@1": false,
+   "article@5": false,
+   "contexte_suffisant": false,
+   "retrieval_correct": false,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H124",
+   "type": "J_fr_ar",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": null,
+   "rank_succ": null,
+   "R@1": false,
+   "R@3": false,
+   "R@5": false,
+   "R@10": false,
+   "mrr": 0.0,
+   "doc@1": false,
+   "doc@5": false,
+   "article@1": false,
+   "article@5": false,
+   "contexte_suffisant": false,
+   "retrieval_correct": false,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H127",
+   "type": "J_fr_ar",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": null,
+   "rank_succ": null,
+   "R@1": false,
+   "R@3": false,
+   "R@5": false,
+   "R@10": false,
+   "mrr": 0.0,
+   "doc@1": false,
+   "doc@5": false,
+   "article@1": false,
+   "article@5": false,
+   "contexte_suffisant": false,
+   "retrieval_correct": false,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H128",
+   "type": "J_fr_ar",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": null,
+   "rank_succ": null,
+   "R@1": false,
+   "R@3": false,
+   "R@5": false,
+   "R@10": false,
+   "mrr": 0.0,
+   "doc@1": false,
+   "doc@5": false,
+   "article@1": false,
+   "article@5": false,
+   "temporel@1": false,
+   "temporel_sans_interdite_devant": false,
+   "juridique@1": true,
+   "statut_top1_calcule": "UNKNOWN",
+   "contexte_suffisant": false,
+   "retrieval_correct": false,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H129",
+   "type": "J_fr_ar",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": null,
+   "rank_succ": null,
+   "R@1": false,
+   "R@3": false,
+   "R@5": false,
+   "R@10": false,
+   "mrr": 0.0,
+   "doc@1": false,
+   "doc@5": false,
+   "article@1": false,
+   "article@5": false,
+   "temporel@1": false,
+   "juridique@1": false,
+   "contexte_suffisant": false,
+   "retrieval_correct": false,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  },
+  {
+   "id": "H130",
+   "type": "J_fr_ar",
+   "split": "DEV",
+   "comportement": "repondre",
+   "rank": null,
+   "rank_succ": null,
+   "R@1": false,
+   "R@3": false,
+   "R@5": false,
+   "R@10": false,
+   "mrr": 0.0,
+   "doc@1": false,
+   "doc@5": false,
+   "article@1": false,
+   "article@5": false,
+   "temporel@1": false,
+   "juridique@1": false,
+   "contexte_suffisant": false,
+   "retrieval_correct": false,
+   "C1": false,
+   "C2": false,
+   "C3": false,
+   "C4": false,
+   "C5": true,
+   "reponse_correcte": false,
+   "citation_correcte": false,
+   "statut_correct": null,
+   "hallucination": false,
+   "refus_a_tort": false
+  }
+ ],
+ "sous_benchmark_temporalite": {
+  "n": 41,
+  "n_repondre": 41,
+  "R@1": [
+   0.439,
+   41
+  ],
+  "R@3": [
+   0.585,
+   41
+  ],
+  "R@5": [
+   0.634,
+   41
+  ],
+  "R@10": [
+   0.756,
+   41
+  ],
+  "doc@1": [
+   0.488,
+   41
+  ],
+  "doc@5": [
+   0.707,
+   41
+  ],
+  "article@1": [
+   0.4,
+   35
+  ],
+  "article@5": [
+   0.6,
+   35
+  ],
+  "temporel@1": [
+   0.537,
+   41
+  ],
+  "juridique@1": [
+   0.707,
+   41
+  ],
+  "contexte_suffisant": [
+   0.732,
+   41
+  ],
+  "retrieval_correct": [
+   0.634,
+   41
+  ],
+  "C1": [
+   0.0,
+   41
+  ],
+  "C2": [
+   0.0,
+   41
+  ],
+  "C3": [
+   0.0,
+   41
+  ],
+  "C4": [
+   0.0,
+   41
+  ],
+  "C5": [
+   1.0,
+   41
+  ],
+  "reponse_correcte": [
+   0.0,
+   41
+  ],
+  "citation_correcte": [
+   0.0,
+   41
+  ],
+  "statut_correct": [
+   null,
+   0
+  ],
+  "hallucination": [
+   0.0,
+   41
+  ],
+  "refus_a_tort": [
+   0.0,
+   41
+  ],
+  "erreur_temporelle_critique": [
+   null,
+   0
+  ],
+  "MRR": [
+   0.542,
+   41
+  ],
+  "refus_correct": [
+   null,
+   0
+  ],
+  "hors_corpus_repondu": [
+   null,
+   0
+  ],
+  "clarification_correcte": [
+   null,
+   0
+  ],
+  "reponse_correcte_toutes": [
+   0.0,
+   41
+  ]
+ }
+}

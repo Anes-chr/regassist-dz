@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-06 19:23:34",
+  "machine": {
+    "cpu_logiques": 24,
+    "ram_totale_mb": 16758.6
+  },
+  "ram_libre_avant_mb": 4637.9,
+  "rss_mb": {
+    "processus_vide": 20.9,
+    "apres_index_corpus": 166.9,
+    "apres_chargement_hybrid": 987.1,
+    "apres_chargement_hybrid_rerank": 1581.5,
+    "final": 1667.4
+  },
+  "n_questions": 40,
+  "pipelines": {
+    "legacy": {
+      "total_ms": {
+        "moy": 2.7,
+        "mediane": 2.6,
+        "p95": 6.8,
+        "max": 7.5
+      },
+      "embedding_ms": null,
+      "recherche_ms": null,
+      "reranking_ms": null,
+      "rss_pic_mb": 168.1,
+      "cpu_utilise_coeurs_moy": 1.02
+    },
+    "hybrid": {
+      "total_ms": {
+        "moy": 9.0,
+        "mediane": 9.1,
+        "p95": 14.8,
+        "max": 15.4
+      },
+      "embedding_ms": {
+        "moy": 4.6,
+        "mediane": 4.5,
+        "p95": 5.7,
+        "max": 5.8
+      },
+      "recherche_ms": {
+        "moy": 3.6,
+        "mediane": 3.8,
+        "p95": 7.8,
+        "max": 8.6
+      },
+      "reranking_ms": null,
+      "rss_pic_mb": 988.7,
+      "cpu_utilise_coeurs_moy": 5.86
+    },
+    "hybrid_rerank": {
+      "total_ms": {
+        "moy": 893.2,
+        "mediane": 832.3,
+        "p95": 1391.0,
+        "max": 1396.9
+      },
+      "embedding_ms": {
+        "moy": 23.4,
+        "mediane": 21.5,
+        "p95": 47.1,
+        "max": 66.2
+      },
+      "recherche_ms": {
+        "moy": 4.3,
+        "mediane": 4.8,
+        "p95": 9.0,
+        "max": 11.8
+      },
+      "reranking_ms": {
+        "moy": 864.3,
+        "mediane": 815.6,
+        "p95": 1377.8,
+        "max": 1381.5
+      },
+      "rss_pic_mb": 1667.4,
+      "cpu_utilise_coeurs_moy": 6.2
+    }
+  },
+  "premier_appel_s": {
+    "hybrid": 1.17,
+    "hybrid_rerank": 1.22
+  },
+  "llama_server_rss_mb": 3007.3,
+  "ram_libre_apres_mb": 3051.7,
+  "disque_mb": {
+    "modele_embeddings_e5_small": 487.4,
+    "modele_reranker_mmarco_int8": 135.7,
+    "index_vecteurs": 17.0,
+    "instantane_corpus_figé": 37.9,
+    "modele_llm_qwen3_4b_q4km": 3120.3,
+    "llama_cpp": 68.9
+  }
+}

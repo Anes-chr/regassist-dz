@@ -1,0 +1,54 @@
+{
+ "date": "2026-10-07T10:21:37",
+ "controles": {
+  "1_empreintes": {
+   "ok": true,
+   "duree_s": 5.0
+  },
+  "2_vecteurs_reencodes": {
+   "ok": true,
+   "chunks": 11314,
+   "cosinus_min": 1.0,
+   "cosinus_moyen": 1.0,
+   "vecteurs_cos_inferieur_a_0_99999": 0,
+   "duree_s": 340.8
+  },
+  "3_reconstruction_du_corpus": {
+   "ok": true,
+   "comparaisons": {
+    "chunks_fr.jsonl": true,
+    "chunks_ar.jsonl": true,
+    "chunks_und.jsonl": true,
+    "documents_*.json (contenu JSON identique)": true
+   },
+   "code_retour": 0,
+   "raw_intact": true,
+   "duree_s": 6.8,
+   "stderr": ""
+  },
+  "4_retrieval_dev_rejoue": {
+   "ok": true,
+   "questions": 78,
+   "identiques": 78,
+   "differentes": [],
+   "duree_s": 40.7
+  },
+  "5_generation_llm_rejouee_sans_cache": {
+   "ok": true,
+   "questions": [
+    "H001",
+    "H003",
+    "H004",
+    "H009",
+    "H010",
+    "H011"
+   ],
+   "identiques": 6,
+   "differentes": [],
+   "non_executees_llm_indisponible": [],
+   "duree_s": 202.6,
+   "note": "une différence signale que le décodage local n'est pas strictement déterministe (les sorties enregistrées restent la référence)"
+  }
+ },
+ "ok": true
+}

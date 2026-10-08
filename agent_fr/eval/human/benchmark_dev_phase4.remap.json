@@ -1,0 +1,32 @@
+{
+ "source": "C:\\Users\\salim.mabed\\Desktop\\ai agent\\agent_fr\\eval\\human\\benchmark_v1_draft.jsonl",
+ "source_sha256": "f56d576d4e79cd70ea48843f9747f0fe7a8fead8ac45facee59ae2363d3825d2",
+ "derivee": "agent_fr\\eval\\human\\benchmark_dev_phase4.jsonl",
+ "derivee_sha256": "158988307f42b2010b65cdd376a72ddd04c62f3fb518c6f59a88b80e579ea093",
+ "split": "DEV",
+ "items": 78,
+ "ancien_corpus": "D:/llm/snapshots/corpus_phase3_final",
+ "nouveau_corpus": "D:/llm/snapshots/corpus_phase4",
+ "identifiants_changes": {
+  "REG-04-04-20040719": "REG-04-04",
+  "REG-06-02-20060924": "REG-06-02",
+  "REG-08-04-20081223": "REG-08-04",
+  "REG-91-02-19910220": "REG-91-02",
+  "REG-92-10-19921117": "REG-92-10",
+  "INS-08-21-20210701": "INS-08-21",
+  "REG-91-09-19910814": "REG-91-09",
+  "NOT-02-24-20160901": "NOT-02-24",
+  "LD-02-24-20241128": "LD-02-24",
+  "REG-25-03-20250414": "REG-25-03",
+  "REG-08-04-20051223": "REG-08-04"
+ },
+ "remplacements_effectues": {
+  "REG-25-03-20250414": 3,
+  "NOT-02-24-20160901": 1
+ },
+ "identifiants_utilises_par_le_benchmark_et_changes": [
+  "NOT-02-24-20160901",
+  "REG-08-04-20081223",
+  "REG-25-03-20250414"
+ ]
+}

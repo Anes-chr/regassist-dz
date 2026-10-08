@@ -1,0 +1,490 @@
+{
+ "tag": "smoke_llm",
+ "date": "2026-10-06 20:05:55",
+ "pipeline": "hybrid_rerank",
+ "split": "ALL",
+ "bench": "C:/Users/SALIM~1.MAB/AppData/Local/Temp/claude/C--Users-salim-mabed-Desktop-ai-agent/c22b696b-c207-4d58-8b86-89c242a01e76/scratchpad/smoke_bench.jsonl",
+ "bench_sha256": "6698118af4861909969e9d0fdf3a463b26e49a22c29fb893d8e78d19ea1c1f8b",
+ "corpus": "D:/llm/snapshots/corpus_2026-10-06",
+ "llm": true,
+ "llm_cache": {
+  "hits": 0,
+  "calls": 3
+ },
+ "n": 3,
+ "records": [
+  {
+   "id": "S001",
+   "split": "DEV",
+   "pipeline": "hybrid_rerank",
+   "found": true,
+   "clarify": false,
+   "reason": "ok",
+   "retrieval_notes": [],
+   "retrieved": [
+    {
+     "work_id": "REG-05-07",
+     "article": "10",
+     "chunk_id": "REG-05-07.fr::article-10",
+     "date": "2005-12-28",
+     "langue": "fr",
+     "score": 0.0656,
+     "via": "",
+     "superseded_by": ""
+    },
+    {
+     "work_id": "REG-05-04",
+     "article": "61",
+     "chunk_id": "REG-05-04.fr::article-61",
+     "date": "2005-10-13",
+     "langue": "fr",
+     "score": 0.0631,
+     "via": "",
+     "superseded_by": ""
+    },
+    {
+     "work_id": "REG-05-06",
+     "article": "47",
+     "chunk_id": "REG-05-06.fr::article-47",
+     "date": "2005-12-15",
+     "langue": "fr",
+     "score": 0.062,
+     "via": "",
+     "superseded_by": ""
+    },
+    {
+     "work_id": "REG-05-06",
+     "article": "11",
+     "chunk_id": "REG-05-06.fr::article-11",
+     "date": "2005-12-15",
+     "langue": "fr",
+     "score": 0.0609,
+     "via": "",
+     "superseded_by": ""
+    },
+    {
+     "work_id": "REG-05-07",
+     "article": "9",
+     "chunk_id": "REG-05-07.fr::article-9",
+     "date": "2005-12-28",
+     "langue": "fr",
+     "score": 0.0608,
+     "via": "",
+     "superseded_by": ""
+    },
+    {
+     "work_id": "REG-05-04",
+     "article": "58",
+     "chunk_id": "REG-05-04.fr::article-58",
+     "date": "2005-10-13",
+     "langue": "fr",
+     "score": 0.0608,
+     "via": "",
+     "superseded_by": ""
+    }
+   ],
+   "search_ms": 2347.6,
+   "timings": {
+    "embed_question_ms": 1048.1,
+    "search_ms": 4.7,
+    "rerank_ms": 1229.0,
+    "rerank_best": 6.66,
+    "total_ms": 2347.2
+   },
+   "mode": "llm",
+   "answer_found": true,
+   "answer_clarify": false,
+   "answer": "Les participants aux systèmes de paiement doivent assurer la confidentialité et l'intégrité des informations qui transitent par ces systèmes [S1]. De plus, ils sont responsables des préjudices résultant d'erreurs matérielles, de retards imputables aux rejets ou refus de solde de compensation effectués à tort, ou de non-respect des obligations financières y afférentes [S4].",
+   "citations": [
+    "REG-05-07.fr::article-10",
+    "REG-05-06.fr::article-11"
+   ],
+   "sources": [
+    {
+     "id": "S1",
+     "chunk_id": "REG-05-07.fr::article-10",
+     "work_id": "REG-05-07",
+     "article": "10",
+     "texte": "Les participants aux systèmes de paiement doivent assurer la confidentialité et l’intégrité des informations qui transitent par les systèmes de paiement.",
+     "statut_juridique": "UNKNOWN",
+     "statut_detail": "Statut de vigueur non déterminé (aucune relation ni période dans le corpus) : ne pas présenter comme applicable [règle U-ISOLE, confiance LOW]",
+     "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement200507.pdf",
+     "source_url": "https://www.bank-of-algeria.dz/systemes-de-paiement-reglement/",
+     "page": 2
+    },
+    {
+     "id": "S2",
+     "chunk_id": "REG-05-04.fr::article-61",
+     "work_id": "REG-05-04",
+     "article": "61",
+     "texte": "Les participants ont la responsabilité de l’archivage et de la conservation des informations émanant du système ARTS.\nIls ne peuvent demander à la Banque d’Algérie de leur transmettre de nouveau une information qu’en cas de dysfonctionnement du réseau de transmission.\nIls peuvent demander à la Banque d’Algérie de leur retransmettre les informations portant sur leur relevé de comptes de règlement ; ce service faisant l’objet de facturation spécifique.\nQ) Règles de preuve",
+     "statut_juridique": "UNKNOWN",
+     "statut_detail": "Statut de vigueur non déterminé (aucune relation ni période dans le corpus) : ne pas présenter comme applicable [règle U-ISOLE, confiance LOW]",
+     "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement200504.pdf",
+     "source_url": "https://www.bank-of-algeria.dz/systeme-de-paiements-gros-reglement/",
+     "page": 8
+    },
+    {
+     "id": "S3",
+     "chunk_id": "REG-05-06.fr::article-47",
+     "work_id": "REG-05-06",
+     "article": "47",
+     "texte": "Toutes les informations devant être fournies aux participants par le CPI, et par les participants au gestionnaire du système au cours d'une journée d'échange, sont indiquées dans le \" Guide utilisateur \". Aucune autre information ne peut être exigée.\nLes participants ne peuvent demander au CPI de transmettre à nouveau une information, sauf en cas de dysfonctionnement du processus de transmission de remises et sous condition que ce dysfonctionnement ne provient pas de leur propre interface avec le système. Ils peuvent demander des copies d'information sur support papier qui peuvent faire l'objet d'une facturation.\nUn participant peut, dans un délai ne dépassant pas un mois, demander contre paiement au gestionnaire du système des copies de remises électroniques ou des images scannées le concernant pour des journées données.",
+     "statut_juridique": "MODIFIED",
+     "statut_detail": "Modifié d'après Instruction n° 11-2021 du 1er décembre 2021 : vérifier la rédaction à jour [règle R-MOD-TEXTE, confiance MEDIUM]",
+     "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement200506.pdf",
+     "source_url": "https://www.bank-of-algeria.dz/finance-islamique-reglement/",
+     "page": 7
+    },
+    {
+     "id": "S4",
+     "chunk_id": "REG-05-06.fr::article-11",
+     "work_id": "REG-05-06",
+     "article": "11",
+     "texte": "Les participants au système sont responsables des préjudices causés dans les cas :\n- d'erreurs matérielles commises sur les opérations transmises au système, soit directement, soit par l'intermédiaire d'un autre participant ;\n- de retards imputables aux rejets, rejets de rejets, refus de solde de compensation effectués à tort ;\n- de non-respect des obligations financières y afférentes.",
+     "statut_juridique": "MODIFIED",
+     "statut_detail": "Modifié d'après Instruction n° 11-2021 du 1er décembre 2021 : vérifier la rédaction à jour [règle R-MOD-TEXTE, confiance MEDIUM]",
+     "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement200506.pdf",
+     "source_url": "https://www.bank-of-algeria.dz/finance-islamique-reglement/",
+     "page": 2
+    }
+   ],
+   "notes": [
+    "[S4] Ce texte a été modifié par Instruction n° 11-2021 du 1er décembre 2021 : la version citée n'est peut-être plus à jour. Vérifiez les textes modificateurs avant d'utiliser cette réponse.",
+    "[S1] Statut de vigueur non déterminé (aucune relation ni période dans le corpus) : ne pas présenter comme applicable [règle U-ISOLE, confiance LOW]."
+   ],
+   "latency_llm_s": 26.8,
+   "total_s": 29.15
+  },
+  {
+   "id": "S002",
+   "split": "DEV",
+   "pipeline": "hybrid_rerank",
+   "found": true,
+   "clarify": false,
+   "reason": "ok",
+   "retrieval_notes": [
+    "Le corpus ne permet pas d'établir quel texte est actuellement en vigueur (le site ne publie pas de statut de vigueur) : les textes les plus récents sont privilégiés, à vérifier auprès de la Banque d'Algérie."
+   ],
+   "retrieved": [
+    {
+     "work_id": "INS-01-26-20260107",
+     "article": "2",
+     "chunk_id": "INS-01-26-20260107.fr::article-2",
+     "date": "2026-01-07",
+     "langue": "fr",
+     "score": 0.0658,
+     "via": "modifie le texte « instruction n° 02-2004 » cité plus bas",
+     "superseded_by": ""
+    },
+    {
+     "work_id": "REG-04-02",
+     "article": "5",
+     "chunk_id": "REG-04-02.fr::article-5",
+     "date": "2004-03-04",
+     "langue": "fr",
+     "score": 0.0656,
+     "via": "",
+     "superseded_by": ""
+    },
+    {
+     "work_id": "INS-03-09",
+     "article": "1",
+     "chunk_id": "INS-03-09.fr::article-1",
+     "date": "2009-02-25",
+     "langue": "fr",
+     "score": 0.0633,
+     "via": "modifie le texte « instruction n° 02-2008 » cité plus bas",
+     "superseded_by": ""
+    },
+    {
+     "work_id": "INS-03-09",
+     "article": "2",
+     "chunk_id": "INS-03-09.fr~2::article-2",
+     "date": "2009-02-25",
+     "langue": "fr",
+     "score": 0.0611,
+     "via": "",
+     "superseded_by": ""
+    },
+    {
+     "work_id": "INS-09-25-20250910",
+     "article": "2",
+     "chunk_id": "INS-09-25-20250910.fr::article-2",
+     "date": "2025-09-10",
+     "langue": "fr",
+     "score": 0.0395,
+     "via": "modifie le texte « instruction n° 02-2004 » cité plus bas",
+     "superseded_by": "INS-01-26-20260107.fr::article-2"
+    },
+    {
+     "work_id": "INS-02-23-20230413",
+     "article": "2",
+     "chunk_id": "INS-02-23-20230413.fr::article-2",
+     "date": "2023-04-13",
+     "langue": "fr",
+     "score": 0.0395,
+     "via": "modifie le texte « instruction n° 02-2004 » cité plus bas",
+     "superseded_by": "INS-01-26-20260107.fr::article-2"
+    },
+    {
+     "work_id": "INS-02-04",
+     "article": "3",
+     "chunk_id": "INS-02-04.fr::article-3",
+     "date": "2004-05-13",
+     "langue": "fr",
+     "score": 0.0387,
+     "via": "",
+     "superseded_by": "INS-01-26-20260107.fr::article-2"
+    },
+    {
+     "work_id": "INS-02-08",
+     "article": "2",
+     "chunk_id": "INS-02-08.fr::article-2",
+     "date": "2008-03-11",
+     "langue": "fr",
+     "score": 0.0372,
+     "via": "",
+     "superseded_by": "INS-03-09.fr::article-1"
+    },
+    {
+     "work_id": "INS-09-20-20200914",
+     "article": "2",
+     "chunk_id": "INS-09-20-20200914.fr::article-2",
+     "date": "2020-09-14",
+     "langue": "fr",
+     "score": 0.0353,
+     "via": "",
+     "superseded_by": "INS-01-26-20260107.fr::article-2"
+    },
+    {
+     "work_id": "INS-01-18-20180110",
+     "article": "2",
+     "chunk_id": "INS-01-18-20180110.fr::article-2",
+     "date": "2018-01-10",
+     "langue": "fr",
+     "score": 0.0347,
+     "via": "",
+     "superseded_by": "INS-01-26-20260107.fr::article-2"
+    }
+   ],
+   "search_ms": 650.7,
+   "timings": {
+    "embed_question_ms": 8.3,
+    "search_ms": 2.5,
+    "rerank_ms": 635.0,
+    "rerank_best": 3.77,
+    "total_ms": 650.4
+   },
+   "mode": "llm",
+   "answer_found": true,
+   "answer_clarify": false,
+   "answer": "Le taux des réserves obligatoires est fixé à 1% de l'assiette des réserves définie dans l'article 2 ci-dessus [S1]. Cette disposition est contenue dans l'Instruction n° 01-2026 du 7 janvier 2026, qui modifie et complète l'Instruction n° 02-2004 du 13 mai 2004. La source S1 est la plus récente (date : 2026-01-07) et est en statut juridique ACTIVE, donc elle représente la valeur actuelle.",
+   "citations": [
+    "INS-01-26-20260107.fr::article-2"
+   ],
+   "sources": [
+    {
+     "id": "S1",
+     "chunk_id": "INS-01-26-20260107.fr::article-2",
+     "work_id": "INS-01-26-20260107",
+     "article": "2",
+     "texte": "L’article 3 de l'instruction n° 02-2004 du 13 mai 2004 relative au régime des réserves obligatoires est modifié et rédigé comme suit :\n« Article 3 : Le taux des réserves obligatoires est fixé à 1% de l'assiette des réserves définie dans l'article 2 ci-dessus ».",
+     "statut_juridique": "ACTIVE",
+     "statut_detail": "Dernière version connue dans le corpus (vigueur non prouvée) [règle A-ART-COURANT, confiance MEDIUM]",
+     "document_url": "https://www.bank-of-algeria.dz/stoodroa/2026/01/Instruction-01-26-FR1-1.pdf",
+     "source_url": "https://www.bank-of-algeria.dz/marche-monetaire-instruction/",
+     "page": 1
+    },
+    {
+     "id": "S2",
+     "chunk_id": "REG-04-02.fr::article-5",
+     "work_id": "REG-04-02",
+     "article": "5",
+     "texte": "Le taux de réserves obligatoires ne peut dépasser 15 %. Ce taux peut être égal à 0 %.\nLe taux de réserves obligatoires peut être modulé en fonction de la nature des exigibilités, en particulier pour les exigibilités à maturité longue.",
+     "statut_juridique": "UNKNOWN",
+     "statut_detail": "Statut de vigueur non déterminé (aucune relation ni période dans le corpus) : ne pas présenter comme applicable [règle U-ISOLE, confiance LOW]",
+     "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement200402.pdf",
+     "source_url": "https://www.bank-of-algeria.dz/politique-monetaire-reglement/",
+     "page": 1
+    },
+    {
+     "id": "S3",
+     "chunk_id": "INS-03-09.fr::article-1",
+     "work_id": "INS-03-09",
+     "article": "1",
+     "texte": "La présente instruction a pour objet de modifier le taux de rémunération visé à l'article 2 de l’instruction n°02-08 relative au régime des réserves obligatoires.",
+     "statut_juridique": "ACTIVE",
+     "statut_detail": "Dernière version connue dans le corpus (vigueur non prouvée) [règle A-DERNIER, confiance MEDIUM]",
+     "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/02/instruction032009.pdf",
+     "source_url": "https://www.bank-of-algeria.dz/annee-2009/",
+     "page": 1
+    },
+    {
+     "id": "S4",
+     "chunk_id": "INS-03-09.fr~2::article-2",
+     "work_id": "INS-03-09",
+     "article": "2",
+     "texte": "Le taux de rémunération des réserves obligatoires est fixé à 0,50% par an.",
+     "statut_juridique": "ACTIVE",
+     "statut_detail": "Dernière version connue dans le corpus (vigueur non prouvée) [règle A-DERNIER, confiance MEDIUM]",
+     "document_url": "https://www.bank-of-algeria.dz/stoodroa/2023/01/instruction032009-1.pdf",
+     "source_url": "https://www.bank-of-algeria.dz/marche-monetaire-instruction/",
+     "page": 1
+    }
+   ],
+   "notes": [
+    "Le corpus ne permet pas d'établir quel texte est actuellement en vigueur (le site ne publie pas de statut de vigueur) : les textes les plus récents sont privilégiés, à vérifier auprès de la Banque d'Algérie.",
+    "Version remplacée par un texte plus récent, écartée du contexte du LLM : Instruction n° 09-2025 du 10 septembre 2025, Article 2.",
+    "Version remplacée par un texte plus récent, écartée du contexte du LLM : Instruction n° 02-2023 du 13 avril 2023, Article 2."
+   ],
+   "latency_llm_s": 27.7,
+   "total_s": 28.35
+  },
+  {
+   "id": "S003",
+   "split": "TEST",
+   "pipeline": "hybrid_rerank",
+   "found": true,
+   "clarify": false,
+   "reason": "ok",
+   "retrieval_notes": [
+    "Le corpus ne permet pas d'établir quel texte est actuellement en vigueur (le site ne publie pas de statut de vigueur) : les textes les plus récents sont privilégiés, à vérifier auprès de la Banque d'Algérie."
+   ],
+   "retrieved": [
+    {
+     "work_id": "REG-97-04",
+     "article": "3",
+     "chunk_id": "REG-97-04.fr::article-3",
+     "date": "1997-12-31",
+     "langue": "fr",
+     "score": 0.0656,
+     "via": "",
+     "superseded_by": ""
+    },
+    {
+     "work_id": "REG-97-04",
+     "article": "1",
+     "chunk_id": "REG-97-04.fr::article-1",
+     "date": "1997-12-31",
+     "langue": "fr",
+     "score": 0.0645,
+     "via": "",
+     "superseded_by": ""
+    },
+    {
+     "work_id": "REG-97-04",
+     "article": "2",
+     "chunk_id": "REG-97-04.fr::article-2",
+     "date": "1997-12-31",
+     "langue": "fr",
+     "score": 0.0618,
+     "via": "",
+     "superseded_by": ""
+    },
+    {
+     "work_id": "REG-97-04",
+     "article": "4",
+     "chunk_id": "REG-97-04.fr::article-4",
+     "date": "1997-12-31",
+     "langue": "fr",
+     "score": 0.0616,
+     "via": "",
+     "superseded_by": ""
+    },
+    {
+     "work_id": "REG-97-04",
+     "article": "10",
+     "chunk_id": "REG-97-04.fr::article-10",
+     "date": "1997-12-31",
+     "langue": "fr",
+     "score": 0.0603,
+     "via": "",
+     "superseded_by": ""
+    },
+    {
+     "work_id": "REG-97-04",
+     "article": "20",
+     "chunk_id": "REG-97-04.fr::article-20",
+     "date": "1997-12-31",
+     "langue": "fr",
+     "score": 0.0599,
+     "via": "",
+     "superseded_by": ""
+    }
+   ],
+   "search_ms": 1299.8,
+   "timings": {
+    "embed_question_ms": 10.7,
+    "search_ms": 0.6,
+    "rerank_ms": 1287.5,
+    "rerank_best": 9.33,
+    "total_ms": 1299.8
+   },
+   "mode": "llm",
+   "answer_found": true,
+   "answer_clarify": false,
+   "answer": "Non, le règlement n° 97-04 relatif au système de garantie des dépôts n'est plus applicable. Il a été abrogé par le Règlement n° 2004-03 du 4 mars 2004. Les sources S1, S2 et S3 indiquent explicitement que le statut juridique de ce règlement est ABROGATED, et que cette abrogation est signalée dans les relations de chacune des sources [S1].",
+   "citations": [
+    "REG-97-04.fr::article-3"
+   ],
+   "sources": [
+    {
+     "id": "S1",
+     "chunk_id": "REG-97-04.fr::article-3",
+     "work_id": "REG-97-04",
+     "article": "3",
+     "texte": "Le système de garantie des dépôts bancaires vise à indemniser les déposants en cas d'indisponibilité de leurs dépôts et autres sommes assimilées aux dépôts remboursables.",
+     "statut_juridique": "ABROGATED",
+     "statut_detail": "Abrogé d'après Règlement n° 2004-03 du 4 mars 2004 [règle R-ABR-TEXTE, confiance MEDIUM]",
+     "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement9704.pdf",
+     "source_url": "https://www.bank-of-algeria.dz/reglement-1997/",
+     "page": 1
+    },
+    {
+     "id": "S2",
+     "chunk_id": "REG-97-04.fr::article-1",
+     "work_id": "REG-97-04",
+     "article": "1",
+     "texte": "Conformément à l'article 170 de la Loi n°90-10 du 14 Avril 1990 modifiée susvisée, le présent Règlement a pour objet la mise en place d'un système de garantie des dépôts bancaires.",
+     "statut_juridique": "ABROGATED",
+     "statut_detail": "Abrogé d'après Règlement n° 2004-03 du 4 mars 2004 [règle R-ABR-TEXTE, confiance MEDIUM]",
+     "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement9704.pdf",
+     "source_url": "https://www.bank-of-algeria.dz/reglement-1997/",
+     "page": 1
+    },
+    {
+     "id": "S3",
+     "chunk_id": "REG-97-04.fr::article-2",
+     "work_id": "REG-97-04",
+     "article": "2",
+     "texte": "Les banques ainsi que les succursales de banques étrangères ci-après dénommées \"Banques\" sont tenus d'adhérer, dans les conditions prévues par le présent règlement, au système de garantie des dépôts bancaires.",
+     "statut_juridique": "ABROGATED",
+     "statut_detail": "Abrogé d'après Règlement n° 2004-03 du 4 mars 2004 [règle R-ABR-TEXTE, confiance MEDIUM]",
+     "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement9704.pdf",
+     "source_url": "https://www.bank-of-algeria.dz/reglement-1997/",
+     "page": 1
+    },
+    {
+     "id": "S4",
+     "chunk_id": "REG-97-04.fr::article-4",
+     "work_id": "REG-97-04",
+     "article": "4",
+     "texte": "Au sens du présent règlement, il faut entendre par \"dépôts et autres sommes assimilées aux dépôts remboursables\", tout solde créditeur résultant de fonds laissés en compte ou de fonds en situation transitoire provenant d'opérations bancaires normales devant être restitué conformément aux conditions légales et contractuelles applicables, notamment en matière de compensation.\nSon inclus dans cette définition, les dépôts de garantie lorsqu'ils deviennent exigibles, les dépôts liées à des opérations sur titres, à l'exclusion des dépôts définis à l'article 117 de la Loi n° 90-10 du 14 Avril 1990 modifiée susvisée et les sommes dues en représentation de bons de caisse et autres moyens de paiement émis par les Banques.\nBANK OF ALGERIA",
+     "statut_juridique": "ABROGATED",
+     "statut_detail": "Abrogé d'après Règlement n° 2004-03 du 4 mars 2004 [règle R-ABR-TEXTE, confiance MEDIUM]",
+     "document_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement9704.pdf",
+     "source_url": "https://www.bank-of-algeria.dz/reglement-1997/",
+     "page": 1
+    }
+   ],
+   "notes": [
+    "Le corpus ne permet pas d'établir quel texte est actuellement en vigueur (le site ne publie pas de statut de vigueur) : les textes les plus récents sont privilégiés, à vérifier auprès de la Banque d'Algérie.",
+    "[S1] Ce texte a été abrogé par Règlement n° 2004-03 du 4 mars 2004 : la version citée n'est peut-être plus à jour. Vérifiez les textes modificateurs avant d'utiliser cette réponse.",
+    "[S1] Abrogé d'après Règlement n° 2004-03 du 4 mars 2004 [règle R-ABR-TEXTE, confiance MEDIUM]."
+   ],
+   "latency_llm_s": 28.4,
+   "total_s": 29.7
+  }
+ ]
+}

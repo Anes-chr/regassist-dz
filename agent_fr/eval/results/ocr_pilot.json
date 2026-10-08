@@ -1,0 +1,55 @@
+{
+ "docs": [
+  "REG-14-04",
+  "REG-90-03",
+  "INS-01-20",
+  "REG-92-05",
+  "INS-01-09",
+  "REG-09-04",
+  "REG-18-02",
+  "REG-05-05",
+  "REG-93-01",
+  "INS-06-17",
+  "REG-08-01",
+  "REG-97-01"
+ ],
+ "pages": 2,
+ "variantes": {
+  "courant (400 dpi, ara+fra, psm auto)": {
+   "conf": 81.177,
+   "ar": 0.93,
+   "rappel": 0.676,
+   "t": 2.515
+  },
+  "ara seul (400 dpi)": {
+   "conf": 80.67,
+   "ar": 0.97,
+   "rappel": 0.693,
+   "t": 1.864
+  },
+  "300 dpi, ara+fra": {
+   "conf": 80.481,
+   "ar": 0.929,
+   "rappel": 0.706,
+   "t": 2.028
+  },
+  "400 dpi + binarisation Otsu": {
+   "conf": 75.264,
+   "ar": 0.911,
+   "rappel": 0.618,
+   "t": 2.186
+  },
+  "400 dpi, psm 6 (bloc uniforme)": {
+   "conf": 78.606,
+   "ar": 0.912,
+   "rappel": 0.647,
+   "t": 2.571
+  },
+  "500 dpi, ara+fra": {
+   "conf": 80.284,
+   "ar": 0.927,
+   "rappel": 0.679,
+   "t": 3.21
+  }
+ }
+}

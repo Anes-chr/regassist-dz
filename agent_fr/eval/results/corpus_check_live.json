@@ -1,0 +1,172 @@
+{
+ "corpus": "corpus vivant",
+ "anomalies": [
+  {
+   "niveau": "A_CORRIGER",
+   "type": "documents_en_echec",
+   "detail": "documents non extraits ou non téléchargés (voir failed_documents.json)",
+   "n": 38,
+   "exemples": [
+    "https://www.bank-of-algeria.dz/pdf/instructions1990/instruction0690.pdf",
+    "https://www.bank-of-algeria.dz/pdf/instructions1995/instruction7895.pdf",
+    "https://www.bank-of-algeria.dz/pdf/instructions1995/instruction7995.pdf",
+    "https://www.bank-of-algeria.dz/pdf/instructions2002/instruction042002.pdf",
+    "https://www.bank-of-algeria.dz/pdf/instructions2004/instruction012004.pdf",
+    "https://www.bank-of-algeria.dz/pdf/instructions2011/instruction042011.pdf"
+   ]
+  },
+  {
+   "niveau": "A_CORRIGER",
+   "type": "texte_illisible",
+   "detail": "couche texte corrompue (lettres remplacées par des caractères de contrôle)",
+   "n": 5,
+   "exemples": [
+    "INS-06-21.ar::annexe-1",
+    "LD-02-24.ar::body-0::p1",
+    "LD-02-24.ar::body-0::p2",
+    "REG-01-24.ar::article-15",
+    "REG-25-01.ar::article-18"
+   ]
+  },
+  {
+   "niveau": "INFO",
+   "type": "langue_incoherente",
+   "detail": "chunk dont l'écriture dominante contredit la langue annotée (tableaux bilingues, annexes)",
+   "n": 1,
+   "exemples": [
+    "LD-01-24.fr::annexe-N"
+   ]
+  },
+  {
+   "niveau": "A_CORRIGER",
+   "type": "date_suspecte",
+   "detail": "l'année du numéro (ex. 01-2023) diffère de plus d'un an de la date enregistrée (ex. 2016-09-01 par défaut)",
+   "n": 4,
+   "exemples": [
+    "REG-20-01-20220131.fr",
+    "NOT-02-24-20160901.fr",
+    "NOT-01-26.fr",
+    "REG-20-01-20260514.fr"
+   ]
+  },
+  {
+   "niveau": "INFO",
+   "type": "date_manquante",
+   "detail": "documents sans date",
+   "n": 27,
+   "exemples": []
+  },
+  {
+   "niveau": "INFO",
+   "type": "chunk_id_non_unique",
+   "detail": "mêmes identifiants (articles répétés dans un texte) : comparer par position, pas par identifiant",
+   "n": 76,
+   "exemples": [
+    "INS-04-19.fr::annexe-N::p1",
+    "INS-04-19.fr::annexe-N::p2",
+    "INS-04-19.fr::annexe-N",
+    "INS-34-91.fr::article-1",
+    "INS-34-91.fr::article-2",
+    "INS-34-91.fr::article-3"
+   ]
+  }
+ ],
+ "documents": {
+  "fr": 757,
+  "ar": 327,
+  "und": 1
+ },
+ "chunks": {
+  "fr": 7789,
+  "ar": 3317,
+  "und": 6
+ },
+ "textes_distincts": {
+  "fr": 642,
+  "ar": 323,
+  "und": 1
+ },
+ "taille_chunks_car": {
+  "mediane": 332,
+  "max": 6252
+ },
+ "raw": {
+  "documents_sans_fichier": 0,
+  "empreinte_differente": 0
+ },
+ "echecs": {
+  "documents_en_echec": 38,
+  "telechargement": {
+   "new": 13,
+   "changed": 0,
+   "unchanged": 1156,
+   "failed": 19,
+   "removed_from_site": 0
+  }
+ },
+ "doublons": {
+  "textes_identiques_documents_differents": 3,
+  "copies_~N": 119
+ },
+ "extraction": {
+  "pdf_text": 778,
+  "mixed": 23,
+  "ocr": 284
+ },
+ "texte_illisible": {
+  "chunks_arabes_peu_arabes": 3,
+  "chunks_caracteres_controle": 2
+ },
+ "langues": {
+  "chunks_langue_incoherente": 1
+ },
+ "metadonnees": {
+  "champs_manquants": {
+   "date": 27,
+   "number": 22
+  },
+  "date_incoherente_avec_le_numero": 4
+ },
+ "chunks_controle": {
+  "identifiants_en_double": 76,
+  "chunks_vides": 0,
+  "sans_texte_avec_contexte": 0
+ },
+ "relations": {
+  "cibles_non_resolues": 17,
+  "reciproques_manquantes": 0,
+  "texte_modificateur_anterieur_a_sa_cible": 0
+ },
+ "statut_juridique": {
+  "textes": 642,
+  "series": 2,
+  "articles_avec_statut": 170,
+  "amendements_non_resolus": 3,
+  "par_statut": {
+   "ACTIVE": 144,
+   "MODIFIED": 55,
+   "REPLACED": 12,
+   "ABROGATED": 64,
+   "HISTORICAL": 30,
+   "UNKNOWN": 337
+  }
+ },
+ "vecteurs": {
+  "fichier": "D:\\llm\\index\\vec_334e65e37efa.npy",
+  "n": 11106,
+  "attendus": 11106,
+  "dim": 384,
+  "nan": 0,
+  "norme_min": 0.9999998807907104,
+  "norme_max": 1.0000001192092896
+ },
+ "cache_vecteurs": {
+  "entrees": 10506,
+  "doublons_empreinte": 0,
+  "recalcul_20_vecteurs_cos_min": 1.0
+ },
+ "synthese": {
+  "A_CORRIGER": 3,
+  "INFO": 3
+ }
+}

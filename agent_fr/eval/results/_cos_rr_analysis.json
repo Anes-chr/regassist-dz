@@ -1,0 +1,1822 @@
+[
+{
+"set": "v2",
+"split": "dev",
+"kind": "valid",
+"cat": "fond",
+"q": "Quelle part de ses fonds propres une banque peut-elle consacrer à une seule participation ?",
+"cos": 0.8624,
+"rr_max": -1.433,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "dev",
+"kind": "valid",
+"cat": "fond",
+"q": "Quelle commission les banques perçoivent-elles pour la tenue des comptes en devises ?",
+"cos": 0.8745,
+"rr_max": 5.893,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "dev",
+"kind": "valid",
+"cat": "fond",
+"q": "Que comprend l'assiette des réserves obligatoires ?",
+"cos": 0.8986,
+"rr_max": 9.033,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "dev",
+"kind": "valid",
+"cat": "fond",
+"q": "Le crédit intra-journalier de la Banque d'Algérie est-il payant ?",
+"cos": 0.8924,
+"rr_max": 6.676,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "dev",
+"kind": "valid",
+"cat": "fond",
+"q": "Dans quel cas la régularisation d'un chèque sans provision est-elle refusée au titulaire du compte ?",
+"cos": 0.8917,
+"rr_max": 7.139,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "dev",
+"kind": "valid",
+"cat": "fond",
+"q": "Dans quel cadre doivent être conclues les opérations de finance islamique sur le marché monétaire interbancaire ?",
+"cos": 0.9103,
+"rr_max": 10.457,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "dev",
+"kind": "valid",
+"cat": "fond",
+"q": "Que peut faire la Banque d'Algérie pour se couvrir de ses créances douteuses ?",
+"cos": 0.8831,
+"rr_max": 10.508,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "dev",
+"kind": "valid",
+"cat": "fond",
+"q": "Que se passe-t-il en cas de litige entre intermédiaires agréés sur une opération de change conclue entre eux ?",
+"cos": 0.8699,
+"rr_max": 7.414,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "dev",
+"kind": "valid",
+"cat": "fond",
+"q": "Un membre du comité de stabilité financière peut-il donner mandat à quelqu'un pour siéger à sa place ?",
+"cos": 0.8806,
+"rr_max": 3.941,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "dev",
+"kind": "valid",
+"cat": "fond",
+"q": "Peut-on échanger sans limite de montant les billets retirés de la circulation ?",
+"cos": 0.8872,
+"rr_max": 9.088,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "dev",
+"kind": "valid",
+"cat": "fond",
+"q": "Qui peut fixer le taux d'intérêt excessif ?",
+"cos": 0.8821,
+"rr_max": 4.361,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "dev",
+"kind": "valid",
+"cat": "relation",
+"q": "Quelle instruction a modifié l'article 2 de l'instruction n° 09-96 sur le droit de change des étudiants à l'étranger ?",
+"cos": 0.9068,
+"rr_max": 10.798,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "dev",
+"kind": "valid",
+"cat": "fond",
+"q": "Quelles qualités du dirigeant sont examinées pour son agrément ?",
+"cos": 0.8608,
+"rr_max": 1.759,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "dev",
+"kind": "valid",
+"cat": "fond",
+"q": "Quels effets publics peuvent servir aux opérations de politique monétaire ?",
+"cos": 0.8992,
+"rr_max": 7.372,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "dev",
+"kind": "valid",
+"cat": "reference",
+"q": "Quel délai les établissements ont-ils pour se conformer au règlement n° 25-07 ?",
+"cos": 0.8944,
+"rr_max": 10.567,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "dev",
+"kind": "valid",
+"cat": "evolutif",
+"q": "Quel est le plafond d'indemnisation par déposant ?",
+"cos": 0.8767,
+"rr_max": 7.852,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "dev",
+"kind": "valid",
+"cat": "evolutif",
+"q": "Quel montant maximal un voyageur peut-il sortir d'Algérie en espèces ?",
+"cos": 0.8765,
+"rr_max": 5.664,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "dev",
+"kind": "valid",
+"cat": "evolutif",
+"q": "Quelle indemnité journalière de mission à l'étranger pour un cadre dirigeant d'entreprise ?",
+"cos": 0.8865,
+"rr_max": 2.685,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "test",
+"kind": "valid",
+"cat": "fond",
+"q": "À quel cours convertit-on les avoirs et engagements en devises dans les états périodiques ?",
+"cos": 0.8968,
+"rr_max": 7.048,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "test",
+"kind": "valid",
+"cat": "fond",
+"q": "Quels cours s'appliquent aux achats à terme de devises avec décaissement immédiat de dinars ?",
+"cos": 0.8996,
+"rr_max": 9.714,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "test",
+"kind": "valid",
+"cat": "fond",
+"q": "Qui a droit à l'ouverture d'un compte de dépôt en dinars ?",
+"cos": 0.8642,
+"rr_max": 0.544,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "test",
+"kind": "valid",
+"cat": "fond",
+"q": "Comment la banque prévient-elle les déposants que leurs dépôts sont indisponibles ?",
+"cos": 0.8847,
+"rr_max": 7.601,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "test",
+"kind": "valid",
+"cat": "fond",
+"q": "Quel taux d'intérêt s'applique à une avance consentie sur un dépôt à terme ?",
+"cos": 0.8934,
+"rr_max": 0.785,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "test",
+"kind": "valid",
+"cat": "fond",
+"q": "Dans quelle monnaie les crédits sont-ils déclarés à la centrale des risques ?",
+"cos": 0.8886,
+"rr_max": 3.407,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "test",
+"kind": "valid",
+"cat": "fond",
+"q": "Qui l'organe exécutif doit-il informer des incidents significatifs de contrôle interne ?",
+"cos": 0.9052,
+"rr_max": 8.549,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "test",
+"kind": "valid",
+"cat": "fond",
+"q": "À qui s'appliquent les diligences d'identification prévues par l'instruction n° 04-2026 ?",
+"cos": 0.8794,
+"rr_max": 10.871,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "test",
+"kind": "valid",
+"cat": "fond",
+"q": "Quel cours de change s'applique aux éléments en devises à la date d'arrêté des comptes ?",
+"cos": 0.9092,
+"rr_max": 7.243,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "test",
+"kind": "valid",
+"cat": "fond",
+"q": "Les exportateurs reçoivent-ils toujours la totalité du produit de leurs exportations en devises ?",
+"cos": 0.8485,
+"rr_max": 4.887,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "test",
+"kind": "valid",
+"cat": "fond",
+"q": "Où sont versées les allocations médicales en devises ?",
+"cos": 0.888,
+"rr_max": 1.157,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "test",
+"kind": "valid",
+"cat": "fond",
+"q": "Un projet de coopérative d'épargne et de crédit peut-il faire de la publicité sur son agrément ?",
+"cos": 0.8925,
+"rr_max": 10.394,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "test",
+"kind": "valid",
+"cat": "fond",
+"q": "Un rejet bancaire est-il encore possible une fois le délai de rejet dépassé ?",
+"cos": 0.8827,
+"rr_max": 7.121,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "test",
+"kind": "valid",
+"cat": "fond",
+"q": "Un prestataire de services de paiement est-il soumis aux règles de lutte contre le blanchiment ?",
+"cos": 0.8751,
+"rr_max": 6.521,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "test",
+"kind": "valid",
+"cat": "fond",
+"q": "Quels comptes les banques utilisent-elles pour enregistrer les opérations de change ?",
+"cos": 0.887,
+"rr_max": 6.914,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "test",
+"kind": "valid",
+"cat": "relation",
+"q": "Quel article a été ajouté au règlement n° 91-09 pour permettre une dérogation temporaire ?",
+"cos": 0.886,
+"rr_max": 8.524,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "test",
+"kind": "valid",
+"cat": "reference",
+"q": "Que dit l'article 4 du règlement n° 14-02 ?",
+"cos": 0.8383,
+"rr_max": null,
+"reranked": false
+},
+{
+"set": "v2",
+"split": "test",
+"kind": "valid",
+"cat": "reference",
+"q": "Que prévoit l'article 5 du règlement n° 14-02 ?",
+"cos": 0.8408,
+"rr_max": null,
+"reranked": false
+},
+{
+"set": "v2",
+"split": "test",
+"kind": "valid",
+"cat": "evolutif",
+"q": "À combien s'élève la garantie maximale des dépôts d'un client ?",
+"cos": 0.8677,
+"rr_max": -0.268,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "test",
+"kind": "valid",
+"cat": "evolutif",
+"q": "Combien d'euros un résident peut-il emporter à l'étranger par an ?",
+"cos": 0.8554,
+"rr_max": -0.743,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "holdout",
+"kind": "valid",
+"cat": "fond",
+"q": "Comment doit être traitée une perte attendue sur des travaux d'Istisna'a en cours à la fin d'un exercice ?",
+"cos": 0.8473,
+"rr_max": 9.149,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "holdout",
+"kind": "valid",
+"cat": "fond",
+"q": "En combien de compartiments la centrale des risques est-elle divisée ?",
+"cos": 0.8602,
+"rr_max": 5.238,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "holdout",
+"kind": "valid",
+"cat": "fond",
+"q": "Que doit faire l'intermédiaire agréé en cas de retard dans l'exécution des mouvements de fonds avec l'étranger ?",
+"cos": 0.8655,
+"rr_max": 7.745,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "holdout",
+"kind": "valid",
+"cat": "fond",
+"q": "Que doivent obtenir les banques avant d'entrer en relation avec une personne politiquement exposée ?",
+"cos": 0.8729,
+"rr_max": 8.371,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "holdout",
+"kind": "valid",
+"cat": "fond",
+"q": "Les importations déjà expédiées avant la promulgation de l'instruction n° 05-2026 sont-elles concernées ?",
+"cos": 0.8929,
+"rr_max": 10.287,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "holdout",
+"kind": "valid",
+"cat": "fond",
+"q": "Qui approuve la procédure de communication financière des banques ?",
+"cos": 0.8619,
+"rr_max": 6.958,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "holdout",
+"kind": "valid",
+"cat": "fond",
+"q": "Vers où les revenus autorisés par la Banque d'Algérie peuvent-ils être transférés ?",
+"cos": 0.895,
+"rr_max": 8.137,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "holdout",
+"kind": "valid",
+"cat": "reference",
+"q": "Quel est l'objet du règlement n° 2009-05 ?",
+"cos": 0.872,
+"rr_max": 10.666,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "holdout",
+"kind": "valid",
+"cat": "fond",
+"q": "Comment étaient enregistrées les opérations de compensation en attendant la télé-compensation ?",
+"cos": 0.8809,
+"rr_max": 9.334,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "holdout",
+"kind": "valid",
+"cat": "fond",
+"q": "Les banques peuvent-elles accorder de nouveaux crédits aux clients qui ont bénéficié d'un report d'échéance ?",
+"cos": 0.8811,
+"rr_max": 6.21,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "holdout",
+"kind": "valid",
+"cat": "fond",
+"q": "Qu'appelle-t-on actifs financiers détenus jusqu'à leur échéance ?",
+"cos": 0.9228,
+"rr_max": 8.325,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "holdout",
+"kind": "valid",
+"cat": "fond",
+"q": "Comment calcule-t-on le solde de liquidation quand une partie est défaillante ?",
+"cos": 0.8908,
+"rr_max": 4.621,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "holdout",
+"kind": "valid",
+"cat": "fond",
+"q": "Que doivent vérifier les assujettis pour les agents et courtiers qui agissent pour le compte d'autrui ?",
+"cos": 0.8694,
+"rr_max": 9.203,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "test",
+"kind": "oos",
+"cat": "trap_texte_inexistant",
+"q": "Que dit le règlement n° 99-99 ?",
+"cos": null,
+"rr_max": null,
+"reranked": false
+},
+{
+"set": "v2",
+"split": "test",
+"kind": "oos",
+"cat": "trap_texte_inexistant",
+"q": "Que prévoit l'article 12 de l'instruction n° 77-77 ?",
+"cos": null,
+"rr_max": null,
+"reranked": false
+},
+{
+"set": "v2",
+"split": "test",
+"kind": "oos",
+"cat": "trap_article_inexistant",
+"q": "Que dit l'article 400 du règlement n° 14-02 ?",
+"cos": null,
+"rr_max": null,
+"reranked": false
+},
+{
+"set": "v2",
+"split": "test",
+"kind": "oos",
+"cat": "hors_sujet",
+"q": "Quelle est la recette du couscous ?",
+"cos": 0.8029,
+"rr_max": -4.14,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "test",
+"kind": "oos",
+"cat": "hors_sujet",
+"q": "Comment installer Python sur Windows ?",
+"cos": 0.7796,
+"rr_max": -4.81,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "test",
+"kind": "oos",
+"cat": "hors_sujet",
+"q": "météo à Alger demain",
+"cos": 0.8423,
+"rr_max": -4.331,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "test",
+"kind": "oos",
+"cat": "hors_sujet",
+"q": "Quel est le cours de l'action Apple aujourd'hui ?",
+"cos": 0.8175,
+"rr_max": -5.396,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "test",
+"kind": "oos",
+"cat": "hors_sujet",
+"q": "Quel est le taux d'imposition des sociétés en France ?",
+"cos": 0.825,
+"rr_max": -4.322,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "holdout",
+"kind": "oos",
+"cat": "hors_sujet",
+"q": "Combien coûte un billet d'avion Alger-Paris ?",
+"cos": 0.842,
+"rr_max": -2.752,
+"reranked": true
+},
+{
+"set": "v2",
+"split": "holdout",
+"kind": "oos",
+"cat": "trap_texte_inexistant",
+"q": "Que dit l'article 3 du règlement n° 00-00 ?",
+"cos": null,
+"rr_max": null,
+"reranked": false
+},
+{
+"set": "v2",
+"split": "test",
+"kind": "valid",
+"cat": "temporel",
+"q": "Quel est le taux de réescompte actuellement en vigueur ?",
+"cos": 0.8927,
+"rr_max": 2.792,
+"reranked": true
+},
+{
+"set": "v3",
+"split": "v3",
+"kind": "valid",
+"cat": "direct_definition",
+"q": "Qu'appelle-t-on coût d'acquisition dans un contrat de Mourabaha ?",
+"cos": 0.89,
+"rr_max": 8.481,
+"reranked": true
+},
+{
+"set": "v3",
+"split": "v3",
+"kind": "valid",
+"cat": "direct_definition",
+"q": "Que désigne la partie imprimée d'un effet de commerce ?",
+"cos": 0.881,
+"rr_max": 8.074,
+"reranked": true
+},
+{
+"set": "v3",
+"split": "v3",
+"kind": "valid",
+"cat": "direct_montant",
+"q": "À quel niveau a été ramené le seuil minimum du coefficient de liquidité par les mesures exceptionnelles de 2020 ?",
+"cos": 0.9176,
+"rr_max": 9.295,
+"reranked": true
+},
+{
+"set": "v3",
+"split": "v3",
+"kind": "valid",
+"cat": "direct_delai",
+"q": "Dans quel délai la Banque d'Algérie désigne-t-elle une banque à une personne dont l'ouverture de compte a été refusée ?",
+"cos": 0.9098,
+"rr_max": 10.285,
+"reranked": true
+},
+{
+"set": "v3",
+"split": "v3",
+"kind": "valid",
+"cat": "direct_delai",
+"q": "Quel délai a une banque pour compléter un dossier de crédit jugé incomplet par la Banque d'Algérie ?",
+"cos": 0.8939,
+"rr_max": 9.459,
+"reranked": true
+},
+{
+"set": "v3",
+"split": "v3",
+"kind": "valid",
+"cat": "direct_obligation",
+"q": "Que doit faire une banque qui refuse d'ouvrir un compte de dépôt à un demandeur ?",
+"cos": 0.8794,
+"rr_max": 7.617,
+"reranked": true
+},
+{
+"set": "v3",
+"split": "v3",
+"kind": "valid",
+"cat": "direct_interdiction",
+"q": "Peut-on prévoir une clause pénale pour retard de livraison dans un contrat Salam ?",
+"cos": 0.9092,
+"rr_max": 6.604,
+"reranked": true
+},
+{
+"set": "v3",
+"split": "v3",
+"kind": "valid",
+"cat": "direct_interdiction",
+"q": "La facturation en devises de biens et services sur le territoire national est-elle permise ?",
+"cos": 0.8828,
+"rr_max": 8.938,
+"reranked": true
+},
+{
+"set": "v3",
+"split": "v3",
+"kind": "valid",
+"cat": "direct_procedure",
+"q": "À qui les banques adressent-elles les dossiers de crédit des entreprises publiques pour le contrôle a posteriori ?",
+"cos": 0.8642,
+"rr_max": 8.928,
+"reranked": true
+},
+{
+"set": "v3",
+"split": "v3",
+"kind": "valid",
+"cat": "multi_textes",
+"q": "Quels textes ont successivement fixé le plafond d'indemnisation des déposants ?",
+"cos": 0.8663,
+"rr_max": 4.331,
+"reranked": true
+},
+{
+"set": "v3",
+"split": "v3",
+"kind": "valid",
+"cat": "multi_textes",
+"q": "Quel était le montant du droit de change pour soins à l'étranger en 1995 puis en 1996 ?",
+"cos": 0.9038,
+"rr_max": 6.921,
+"reranked": true
+},
+{
+"set": "v3",
+"split": "v3",
+"kind": "valid",
+"cat": "multi_textes",
+"q": "Quel règlement fixe ce que les voyageurs peuvent exporter en devises, et quel texte récent l'a modifié ?",
+"cos": 0.8847,
+"rr_max": 6.079,
+"reranked": true
+},
+{
+"set": "v3",
+"split": "v3",
+"kind": "valid",
+"cat": "historique",
+"q": "Quel était le plafond d'indemnisation des déposants en 1998 ?",
+"cos": 0.8731,
+"rr_max": 0.054,
+"reranked": true
+},
+{
+"set": "v3",
+"split": "v3",
+"kind": "valid",
+"cat": "historique",
+"q": "Quel était le plafond d'indemnisation par déposant avant 2018 ?",
+"cos": 0.8651,
+"rr_max": 4.47,
+"reranked": true
+},
+{
+"set": "v3",
+"split": "v3",
+"kind": "valid",
+"cat": "historique",
+"q": "Quel était le taux de réescompte au 1er septembre 2016 ?",
+"cos": 0.8891,
+"rr_max": 10.61,
+"reranked": true
+},
+{
+"set": "v3",
+"split": "v3",
+"kind": "valid",
+"cat": "historique",
+"q": "Quel était le taux de réescompte en avril 1997 ?",
+"cos": 0.8877,
+"rr_max": 10.607,
+"reranked": true
+},
+{
+"set": "v3",
+"split": "v3",
+"kind": "valid",
+"cat": "historique",
+"q": "Quel était le montant du droit de change pour soins à l'étranger en 1995 ?",
+"cos": 0.9039,
+"rr_max": 10.654,
+"reranked": true
+},
+{
+"set": "v3",
+"split": "v3",
+"kind": "valid",
+"cat": "etat_actuel",
+"q": "Quel est le plafond actuel d'indemnisation des déposants ?",
+"cos": 0.8716,
+"rr_max": 4.874,
+"reranked": true
+},
+{
+"set": "v3",
+"split": "v3",
+"kind": "valid",
+"cat": "etat_actuel",
+"q": "Quel montant maximal un voyageur peut-il actuellement sortir d'Algérie ?",
+"cos": 0.8702,
+"rr_max": 3.874,
+"reranked": true
+},
+{
+"set": "v3",
+"split": "v3",
+"kind": "valid",
+"cat": "etat_actuel",
+"q": "Quelle est actuellement l'indemnité journalière de mission à l'étranger d'un cadre dirigeant ?",
+"cos": 0.8817,
+"rr_max": 1.026,
+"reranked": true
+},
+{
+"set": "v3",
+"split": "v3",
+"kind": "valid",
+"cat": "modification",
+"q": "Quel texte a modifié l'article 5 du règlement n° 16-02 ?",
+"cos": 0.8377,
+"rr_max": 7.805,
+"reranked": true
+},
+{
+"set": "v3",
+"split": "v3",
+"kind": "valid",
+"cat": "modification",
+"q": "Quel règlement a abrogé le règlement n° 97-04 ?",
+"cos": 0.8559,
+"rr_max": 9.287,
+"reranked": true
+},
+{
+"set": "v3",
+"split": "v3",
+"kind": "valid",
+"cat": "modification",
+"q": "Quel règlement a modifié le plafond d'indemnisation fixé par le règlement n° 04-03 ?",
+"cos": 0.8727,
+"rr_max": 10.177,
+"reranked": true
+},
+{
+"set": "v3",
+"split": "v3",
+"kind": "valid",
+"cat": "modification",
+"q": "Quelle instruction a ramené à 1 % le taux des réserves obligatoires ?",
+"cos": 0.8913,
+"rr_max": 7.096,
+"reranked": true
+},
+{
+"set": "v3",
+"split": "v3",
+"kind": "oos",
+"cat": "hors_corpus",
+"q": "Quelle est la durée maximale de la garde à vue en Algérie ?",
+"cos": 0.853,
+"rr_max": -1.086,
+"reranked": true
+},
+{
+"set": "v3",
+"split": "v3",
+"kind": "oos",
+"cat": "hors_corpus",
+"q": "Quelle est la durée légale du congé de maternité en Algérie ?",
+"cos": 0.8542,
+"rr_max": -3.479,
+"reranked": true
+},
+{
+"set": "v3",
+"split": "v3",
+"kind": "oos",
+"cat": "hors_corpus",
+"q": "Quel est le salaire national minimum garanti en Algérie ?",
+"cos": 0.8503,
+"rr_max": -0.602,
+"reranked": true
+},
+{
+"set": "v3",
+"split": "v3",
+"kind": "oos",
+"cat": "hors_corpus",
+"q": "Que prévoit le code de la route pour la vitesse maximale en ville ?",
+"cos": 0.8149,
+"rr_max": -4.962,
+"reranked": true
+},
+{
+"set": "v3",
+"split": "v3",
+"kind": "oos",
+"cat": "hors_sujet",
+"q": "Quelle est la capitale du Japon ?",
+"cos": 0.7693,
+"rr_max": -6.165,
+"reranked": true
+},
+{
+"set": "v3",
+"split": "v3",
+"kind": "oos",
+"cat": "hors_sujet",
+"q": "Qui a remporté la Coupe du monde de football en 2018 ?",
+"cos": 0.7923,
+"rr_max": -6.136,
+"reranked": true
+},
+{
+"set": "v3",
+"split": "v3",
+"kind": "oos",
+"cat": "hors_sujet",
+"q": "Donne-moi une recette de tajine aux olives.",
+"cos": 0.8244,
+"rr_max": -5.347,
+"reranked": true
+},
+{
+"set": "v3",
+"split": "v3",
+"kind": "oos",
+"cat": "hors_sujet",
+"q": "Comment installer Python sur Windows ?",
+"cos": 0.7796,
+"rr_max": -4.81,
+"reranked": true
+},
+{
+"set": "v3",
+"split": "v3",
+"kind": "valid",
+"cat": "arabe",
+"q": "ما هو سقف التعويض لكل مودع في نظام ضمان الودائع المصرفية؟",
+"cos": 0.8972,
+"rr_max": 6.306,
+"reranked": true
+},
+{
+"set": "v3",
+"split": "v3",
+"kind": "valid",
+"cat": "arabe",
+"q": "ما هو الحد الأدنى لمعامل الملاءة الذي يجب على البنوك احترامه؟",
+"cos": 0.887,
+"rr_max": 4.644,
+"reranked": true
+},
+{
+"set": "v3",
+"split": "v3",
+"kind": "valid",
+"cat": "arabe",
+"q": "كيف تُعرَّف المخاطر الكبرى في النظام المتعلق بالمخاطر الكبرى والمساهمات؟",
+"cos": 0.8734,
+"rr_max": 4.183,
+"reranked": true
+},
+{
+"set": "v3",
+"split": "v3",
+"kind": "valid",
+"cat": "arabe",
+"q": "من له صلاحية تحديد سعر الفائدة المفرط؟",
+"cos": 0.8514,
+"rr_max": 0.928,
+"reranked": true
+},
+{
+"set": "v3",
+"split": "v3",
+"kind": "valid",
+"cat": "arabe",
+"q": "هل القرض داخل اليوم الذي يمنحه بنك الجزائر مجاني؟",
+"cos": 0.8766,
+"rr_max": 4.681,
+"reranked": true
+},
+{
+"set": "v3",
+"split": "v3",
+"kind": "valid",
+"cat": "arabe",
+"q": "ما هي المدة الممنوحة للمؤسسات للامتثال لأحكام النظام رقم 25-07؟",
+"cos": 0.8658,
+"rr_max": 5.151,
+"reranked": true
+},
+{
+"set": "v4",
+"split": "v4",
+"kind": "valid",
+"cat": "direct_delai",
+"q": "Dans quel délai doit se tenir la réunion du Comité en cas de défaut de règlement d'une banque ?",
+"cos": 0.9021,
+"rr_max": 9.919,
+"reranked": true
+},
+{
+"set": "v4",
+"split": "v4",
+"kind": "valid",
+"cat": "direct_delai",
+"q": "En combien de temps s'exécutent les appels d'offres rapides pour les reprises de liquidité ?",
+"cos": 0.9097,
+"rr_max": 8.636,
+"reranked": true
+},
+{
+"set": "v4",
+"split": "v4",
+"kind": "valid",
+"cat": "direct_delai",
+"q": "Dans quel délai une banque adjudicataire doit-elle créditer le compte de règlement de la Banque d'Algérie après l'ouverture de la journée d'échange ?",
+"cos": 0.9058,
+"rr_max": 10.164,
+"reranked": true
+},
+{
+"set": "v4",
+"split": "v4",
+"kind": "valid",
+"cat": "direct_obligation",
+"q": "Que doivent faire les établissements déclarants au sujet du spécimen de signature de leurs personnes habilitées ?",
+"cos": 0.8545,
+"rr_max": 4.212,
+"reranked": true
+},
+{
+"set": "v4",
+"split": "v4",
+"kind": "valid",
+"cat": "direct_montant",
+"q": "Pendant combien de mois au maximum les effets créés en représentation de crédits à moyen terme sont-ils réescomptables ?",
+"cos": 0.9073,
+"rr_max": 8.289,
+"reranked": true
+},
+{
+"set": "v4",
+"split": "v4",
+"kind": "valid",
+"cat": "reference",
+"q": "Quel est le montant maximal du droit de change pour soins à l'étranger fixé par l'instruction n° 10-96 ?",
+"cos": 0.9147,
+"rr_max": 10.884,
+"reranked": true
+},
+{
+"set": "v4",
+"split": "v4",
+"kind": "valid",
+"cat": "etat_actuel",
+"q": "Quel est le taux actuel des réserves obligatoires ?",
+"cos": 0.8883,
+"rr_max": 3.767,
+"reranked": true
+},
+{
+"set": "v4",
+"split": "v4",
+"kind": "valid",
+"cat": "historique",
+"q": "Quel était le taux des réserves obligatoires en 2013 ?",
+"cos": 0.8837,
+"rr_max": 6.929,
+"reranked": true
+},
+{
+"set": "v4",
+"split": "v4",
+"kind": "valid",
+"cat": "historique",
+"q": "Quel était le taux des réserves obligatoires en 2017 ?",
+"cos": 0.8887,
+"rr_max": 6.033,
+"reranked": true
+},
+{
+"set": "v4",
+"split": "v4",
+"kind": "valid",
+"cat": "historique",
+"q": "Quel était le taux des réserves obligatoires au 1er mars 2018 ?",
+"cos": 0.8994,
+"rr_max": 1.863,
+"reranked": true
+},
+{
+"set": "v4",
+"split": "v4",
+"kind": "valid",
+"cat": "historique",
+"q": "Quel était le taux des réserves obligatoires en juin 2019 ?",
+"cos": 0.8752,
+"rr_max": 3.336,
+"reranked": true
+},
+{
+"set": "v4",
+"split": "v4",
+"kind": "valid",
+"cat": "historique",
+"q": "Quel était le taux des réserves obligatoires en 2005 ?",
+"cos": 0.877,
+"rr_max": 8.022,
+"reranked": true
+},
+{
+"set": "v4",
+"split": "v4",
+"kind": "valid",
+"cat": "multi_textes",
+"q": "Quels taux de réserves obligatoires ont été fixés au cours de l'année 2020 ?",
+"cos": 0.902,
+"rr_max": 7.087,
+"reranked": true
+},
+{
+"set": "v4",
+"split": "v4",
+"kind": "valid",
+"cat": "modification",
+"q": "Quelles instructions ont modifié le taux des réserves obligatoires en 2018 ?",
+"cos": 0.9178,
+"rr_max": 10.278,
+"reranked": true
+},
+{
+"set": "v4",
+"split": "v4",
+"kind": "valid",
+"cat": "etat_actuel",
+"q": "Quel est le taux de réescompte actuellement applicable ?",
+"cos": 0.8866,
+"rr_max": 1.32,
+"reranked": true
+},
+{
+"set": "v4",
+"split": "v4",
+"kind": "oos",
+"cat": "hors_corpus",
+"q": "Quelle est la durée du service national en Algérie ?",
+"cos": 0.8451,
+"rr_max": -2.012,
+"reranked": true
+},
+{
+"set": "v4",
+"split": "v4",
+"kind": "oos",
+"cat": "hors_corpus",
+"q": "Quel est le montant de la pension de retraite minimale ?",
+"cos": 0.8401,
+"rr_max": -3.025,
+"reranked": true
+},
+{
+"set": "v4",
+"split": "v4",
+"kind": "oos",
+"cat": "hors_corpus",
+"q": "Comment contester une amende de stationnement ?",
+"cos": 0.8097,
+"rr_max": -2.95,
+"reranked": true
+},
+{
+"set": "v4",
+"split": "v4",
+"kind": "oos",
+"cat": "hors_sujet",
+"q": "Quelle est la hauteur de la tour Eiffel ?",
+"cos": 0.7851,
+"rr_max": -4.101,
+"reranked": true
+},
+{
+"set": "v4",
+"split": "v4",
+"kind": "oos",
+"cat": "hors_sujet",
+"q": "Traduis « bonjour » en anglais.",
+"cos": 0.843,
+"rr_max": -5.432,
+"reranked": true
+},
+{
+"set": "v4",
+"split": "v4",
+"kind": "oos",
+"cat": "hors_sujet",
+"q": "Qui a peint la Joconde ?",
+"cos": 0.7737,
+"rr_max": -4.168,
+"reranked": true
+},
+{
+"set": "v4",
+"split": "v4",
+"kind": "valid",
+"cat": "arabe",
+"q": "ما هي نسبة الاحتياطي الإلزامي المطبقة حاليا؟",
+"cos": 0.8674,
+"rr_max": -0.651,
+"reranked": true
+},
+{
+"set": "v4",
+"split": "v4",
+"kind": "valid",
+"cat": "arabe",
+"q": "ما هي مدة تنفيذ طلبات العروض السريعة لاسترجاع السيولة؟",
+"cos": 0.8543,
+"rr_max": 3.27,
+"reranked": true
+},
+{
+"set": "v4",
+"split": "v4",
+"kind": "valid",
+"cat": "arabe",
+"q": "ما هو الحد الأقصى لمبلغ حق الصرف للعلاج في الخارج حسب التعليمة رقم 10-96؟",
+"cos": 0.8672,
+"rr_max": 7.721,
+"reranked": true
+},
+{
+"set": "v5",
+"split": "v5",
+"kind": "valid",
+"cat": "direct_definition",
+"q": "Au sens du règlement sur l'apport de liquidité d'urgence, quand une banque est-elle jugée viable ?",
+"cos": 0.8803,
+"rr_max": 10.527,
+"reranked": true
+},
+{
+"set": "v5",
+"split": "v5",
+"kind": "valid",
+"cat": "direct_definition",
+"q": "Quel est l'effet de la subrogation en matière d'affacturage ?",
+"cos": 0.871,
+"rr_max": 0.89,
+"reranked": true
+},
+{
+"set": "v5",
+"split": "v5",
+"kind": "valid",
+"cat": "direct_definition",
+"q": "Quelles effigies figurent sur les revers des pièces de 10 DA argent frappées en 1994 ?",
+"cos": 0.8888,
+"rr_max": 10.422,
+"reranked": true
+},
+{
+"set": "v5",
+"split": "v5",
+"kind": "valid",
+"cat": "direct_definition",
+"q": "Sur quelles exigibilités les réserves obligatoires des banques sont-elles constituées selon le règlement 2004-02 ?",
+"cos": 0.9125,
+"rr_max": 10.872,
+"reranked": true
+},
+{
+"set": "v5",
+"split": "v5",
+"kind": "valid",
+"cat": "direct_obligation",
+"q": "Quelle obligation les participants aux systèmes de paiement ont-ils à l'égard des informations qui transitent par ces systèmes ?",
+"cos": 0.884,
+"rr_max": 6.664,
+"reranked": true
+},
+{
+"set": "v5",
+"split": "v5",
+"kind": "valid",
+"cat": "direct_obligation",
+"q": "Dans quels documents le taux d'intérêt effectif global doit-il être mentionné ?",
+"cos": 0.9139,
+"rr_max": 8.71,
+"reranked": true
+},
+{
+"set": "v5",
+"split": "v5",
+"kind": "valid",
+"cat": "direct_obligation",
+"q": "Comment les produits importés pour la revente en l'état par les concessionnaires et grossistes peuvent-ils être réglés ?",
+"cos": 0.8947,
+"rr_max": 9.579,
+"reranked": true
+},
+{
+"set": "v5",
+"split": "v5",
+"kind": "valid",
+"cat": "direct_obligation",
+"q": "Un voyageur qui quitte l'Algérie peut-il exporter des billets de banque étrangers, et jusqu'à quel montant ?",
+"cos": 0.889,
+"rr_max": 6.956,
+"reranked": true
+},
+{
+"set": "v5",
+"split": "v5",
+"kind": "valid",
+"cat": "direct_interdiction",
+"q": "Les comptes devises « commerçants » peuvent-ils être débiteurs ou recevoir des avances en devises ?",
+"cos": 0.8933,
+"rr_max": 9.999,
+"reranked": true
+},
+{
+"set": "v5",
+"split": "v5",
+"kind": "valid",
+"cat": "direct_procedure",
+"q": "Que doit faire la banque domiciliataire d'un budget lorsque l'examen du justificatif révèle une irrégularité grave ?",
+"cos": 0.8617,
+"rr_max": 5.601,
+"reranked": true
+},
+{
+"set": "v5",
+"split": "v5",
+"kind": "valid",
+"cat": "direct_procedure",
+"q": "Comment une banque qui n'est pas Spécialiste en Valeurs du Trésor peut-elle participer à la facilité de prêt marginal ?",
+"cos": 0.8993,
+"rr_max": 10.372,
+"reranked": true
+},
+{
+"set": "v5",
+"split": "v5",
+"kind": "valid",
+"cat": "direct_procedure",
+"q": "Qui effectue l'inspection sur le site d'implantation d'un guichet de banque, et à qui le rapport est-il adressé ?",
+"cos": 0.868,
+"rr_max": 4.855,
+"reranked": true
+},
+{
+"set": "v5",
+"split": "v5",
+"kind": "valid",
+"cat": "reference",
+"q": "Selon le règlement n°92-01, qui est tenu d'adhérer à la Centrale des Risques ?",
+"cos": 0.8859,
+"rr_max": 10.53,
+"reranked": true
+},
+{
+"set": "v5",
+"split": "v5",
+"kind": "valid",
+"cat": "etat_actuel",
+"q": "Quel est le montant annuel maximum du droit de change pour voyage à l'étranger actuellement en vigueur ?",
+"cos": 0.9042,
+"rr_max": 8.406,
+"reranked": true
+},
+{
+"set": "v5",
+"split": "v5",
+"kind": "valid",
+"cat": "etat_actuel",
+"q": "Quelle durée de séjour minimale donne droit au montant maximum du droit de change pour voyage à l'étranger ?",
+"cos": 0.9088,
+"rr_max": 7.879,
+"reranked": true
+},
+{
+"set": "v5",
+"split": "v5",
+"kind": "valid",
+"cat": "etat_actuel",
+"q": "Quel est le taux actuel de la prime due au fonds de garantie des dépôts bancaires ?",
+"cos": 0.8962,
+"rr_max": 0.854,
+"reranked": true
+},
+{
+"set": "v5",
+"split": "v5",
+"kind": "valid",
+"cat": "historique",
+"q": "Quel était le montant annuel du droit de change pour voyage à l'étranger en 1998 ?",
+"cos": 0.8885,
+"rr_max": 3.771,
+"reranked": true
+},
+{
+"set": "v5",
+"split": "v5",
+"kind": "valid",
+"cat": "historique",
+"q": "Quel était le montant annuel maximum du droit de change pour voyage à l'étranger en septembre 2025 ?",
+"cos": 0.9046,
+"rr_max": 9.509,
+"reranked": true
+},
+{
+"set": "v5",
+"split": "v5",
+"kind": "valid",
+"cat": "historique",
+"q": "Quel était le taux de la prime due au fonds de garantie des dépôts bancaires en 2003 ?",
+"cos": 0.8976,
+"rr_max": 10.09,
+"reranked": true
+},
+{
+"set": "v5",
+"split": "v5",
+"kind": "valid",
+"cat": "historique",
+"q": "Quel était le taux de la prime due au fonds de garantie des dépôts bancaires en 2000 ?",
+"cos": 0.8815,
+"rr_max": 9.348,
+"reranked": true
+},
+{
+"set": "v5",
+"split": "v5",
+"kind": "valid",
+"cat": "historique",
+"q": "Quel était le taux de la prime due au fonds de garantie des dépôts bancaires en 2024 ?",
+"cos": 0.9106,
+"rr_max": 10.374,
+"reranked": true
+},
+{
+"set": "v5",
+"split": "v5",
+"kind": "valid",
+"cat": "historique",
+"q": "Quel était le taux de réescompte en juin 1997 ?",
+"cos": 0.887,
+"rr_max": 9.97,
+"reranked": true
+},
+{
+"set": "v5",
+"split": "v5",
+"kind": "valid",
+"cat": "historique",
+"q": "Quel était le taux de réescompte au 1er décembre 1999 ?",
+"cos": 0.8807,
+"rr_max": 1.716,
+"reranked": true
+},
+{
+"set": "v5",
+"split": "v5",
+"kind": "valid",
+"cat": "historique",
+"q": "Quel était le taux de réescompte en 2001 ?",
+"cos": 0.8631,
+"rr_max": 1.28,
+"reranked": true
+},
+{
+"set": "v5",
+"split": "v5",
+"kind": "valid",
+"cat": "historique",
+"q": "Quel était le taux de réescompte en 2012 ?",
+"cos": 0.8432,
+"rr_max": 0.148,
+"reranked": true
+},
+{
+"set": "v5",
+"split": "v5",
+"kind": "valid",
+"cat": "direct_delai",
+"q": "Jusqu'à quelle date les banques devaient-elles verser la prime au fonds de garantie des dépôts bancaires en 2012 ?",
+"cos": 0.8988,
+"rr_max": 9.384,
+"reranked": true
+},
+{
+"set": "v5",
+"split": "v5",
+"kind": "valid",
+"cat": "multi_textes",
+"q": "Quelles instructions ont fixé le taux de réescompte au cours de l'année 1997 ?",
+"cos": 0.9165,
+"rr_max": 10.693,
+"reranked": true
+},
+{
+"set": "v5",
+"split": "v5",
+"kind": "valid",
+"cat": "multi_textes",
+"q": "Quelles instructions ont fixé le taux de la prime due au fonds de garantie des dépôts bancaires en 2016 ?",
+"cos": 0.9254,
+"rr_max": 10.596,
+"reranked": true
+},
+{
+"set": "v5",
+"split": "v5",
+"kind": "valid",
+"cat": "modification",
+"q": "Quelles instructions ont modifié l'instruction n°22-92 du 10 juin 1992 ?",
+"cos": 0.8658,
+"rr_max": 10.761,
+"reranked": true
+},
+{
+"set": "v5",
+"split": "v5",
+"kind": "valid",
+"cat": "modification",
+"q": "Quel règlement a modifié et remplacé le règlement n°92-04 du 22 mars 1992 relatif au contrôle des changes ?",
+"cos": 0.904,
+"rr_max": 10.843,
+"reranked": true
+},
+{
+"set": "v5",
+"split": "v5",
+"kind": "valid",
+"cat": "modification",
+"q": "Quelle instruction a modifié l'instruction n°71-92 du 24 novembre 1992 ?",
+"cos": 0.8721,
+"rr_max": 10.893,
+"reranked": true
+},
+{
+"set": "v5",
+"split": "v5",
+"kind": "valid",
+"cat": "modification",
+"q": "Quel règlement a remplacé le règlement n°92-01 portant organisation et fonctionnement de la Centrale des risques ?",
+"cos": 0.886,
+"rr_max": 10.874,
+"reranked": true
+},
+{
+"set": "v5",
+"split": "v5",
+"kind": "oos",
+"cat": "hors_corpus",
+"q": "Quelle est la durée du congé de maternité en Algérie ?",
+"cos": 0.8507,
+"rr_max": -3.163,
+"reranked": true
+},
+{
+"set": "v5",
+"split": "v5",
+"kind": "oos",
+"cat": "hors_corpus",
+"q": "Quel est le montant du salaire national minimum garanti ?",
+"cos": 0.8386,
+"rr_max": -4.143,
+"reranked": true
+},
+{
+"set": "v5",
+"split": "v5",
+"kind": "oos",
+"cat": "hors_corpus",
+"q": "Quelles pièces faut-il fournir pour obtenir un permis de construire ?",
+"cos": 0.8309,
+"rr_max": -4.097,
+"reranked": true
+},
+{
+"set": "v5",
+"split": "v5",
+"kind": "oos",
+"cat": "hors_sujet",
+"q": "Combien de planètes compte le système solaire ?",
+"cos": 0.7824,
+"rr_max": -6.671,
+"reranked": true
+},
+{
+"set": "v5",
+"split": "v5",
+"kind": "oos",
+"cat": "hors_sujet",
+"q": "Écris-moi un poème sur la mer.",
+"cos": 0.813,
+"rr_max": -6.352,
+"reranked": true
+},
+{
+"set": "v5",
+"split": "v5",
+"kind": "oos",
+"cat": "hors_sujet",
+"q": "Quel est le meilleur club de football d'Algérie ?",
+"cos": 0.7972,
+"rr_max": -4.433,
+"reranked": true
+},
+{
+"set": "v5",
+"split": "v5",
+"kind": "valid",
+"cat": "arabe",
+"q": "ما هو المبلغ السنوي الأقصى لحق الصرف للسفر إلى الخارج المعمول به حاليا؟",
+"cos": 0.8386,
+"rr_max": -2.565,
+"reranked": true
+},
+{
+"set": "v5",
+"split": "v5",
+"kind": "valid",
+"cat": "arabe",
+"q": "ما هي التزامات المشاركين في أنظمة الدفع بخصوص سرية وسلامة المعلومات؟",
+"cos": 0.861,
+"rr_max": 3.91,
+"reranked": true
+},
+{
+"set": "v5",
+"split": "v5",
+"kind": "valid",
+"cat": "arabe",
+"q": "على أي مستحقات تتكون الاحتياطيات الإلزامية للبنوك حسب النظام رقم 2004-02؟",
+"cos": 0.9022,
+"rr_max": 8.427,
+"reranked": true
+},
+{
+"set": "v5",
+"split": "v5",
+"kind": "valid",
+"cat": "arabe",
+"q": "ما هي نسبة العلاوة المستحقة على البنوك لفائدة صندوق ضمان الودائع البنكية سنة 2020؟",
+"cos": 0.9024,
+"rr_max": 7.146,
+"reranked": true
+},
+{
+"set": "oos_dev",
+"split": "dev",
+"kind": "oos",
+"cat": "oos_dev",
+"q": "Combien de joueurs y a-t-il dans une équipe de football ?",
+"cos": 0.7837,
+"rr_max": -3.815,
+"reranked": true
+},
+{
+"set": "oos_dev",
+"split": "dev",
+"kind": "oos",
+"cat": "oos_dev",
+"q": "Quelle est la distance entre la Terre et la Lune ?",
+"cos": 0.7952,
+"rr_max": -7.567,
+"reranked": true
+},
+{
+"set": "oos_dev",
+"split": "dev",
+"kind": "oos",
+"cat": "oos_dev",
+"q": "Comment préparer une mayonnaise maison ?",
+"cos": 0.8054,
+"rr_max": -4.835,
+"reranked": true
+},
+{
+"set": "oos_dev",
+"split": "dev",
+"kind": "oos",
+"cat": "oos_dev",
+"q": "Qui a écrit le roman Les Misérables ?",
+"cos": 0.761,
+"rr_max": -6.666,
+"reranked": true
+},
+{
+"set": "oos_dev",
+"split": "dev",
+"kind": "oos",
+"cat": "oos_dev",
+"q": "Explique le principe de la photosynthèse.",
+"cos": 0.8373,
+"rr_max": -5.802,
+"reranked": true
+},
+{
+"set": "oos_dev",
+"split": "dev",
+"kind": "oos",
+"cat": "oos_dev",
+"q": "Quel est le meilleur langage de programmation pour débuter ?",
+"cos": 0.7985,
+"rr_max": -6.164,
+"reranked": true
+},
+{
+"set": "oos_dev",
+"split": "dev",
+"kind": "oos",
+"cat": "oos_dev",
+"q": "À quelle température l'eau bout-elle ?",
+"cos": 0.7928,
+"rr_max": -5.449,
+"reranked": true
+},
+{
+"set": "oos_dev",
+"split": "dev",
+"kind": "oos",
+"cat": "oos_dev",
+"q": "Donne-moi un conseil pour mieux dormir.",
+"cos": 0.8227,
+"rr_max": -6.345,
+"reranked": true
+},
+{
+"set": "oos_dev",
+"split": "dev",
+"kind": "oos",
+"cat": "oos_dev",
+"q": "Quelle est la durée du mandat du président de la République ?",
+"cos": 0.8321,
+"rr_max": -4.249,
+"reranked": true
+},
+{
+"set": "oos_dev",
+"split": "dev",
+"kind": "oos",
+"cat": "oos_dev",
+"q": "À quel âge atteint-on la majorité civile ?",
+"cos": 0.8108,
+"rr_max": -3.758,
+"reranked": true
+},
+{
+"set": "oos_dev",
+"split": "dev",
+"kind": "oos",
+"cat": "oos_dev",
+"q": "Comment divorcer en Algérie ?",
+"cos": 0.8376,
+"rr_max": -2.306,
+"reranked": true
+},
+{
+"set": "oos_dev",
+"split": "dev",
+"kind": "oos",
+"cat": "oos_dev",
+"q": "Quelles sont les peines prévues pour la conduite en état d'ivresse ?",
+"cos": 0.853,
+"rr_max": -3.032,
+"reranked": true
+},
+{
+"set": "oos_dev",
+"split": "dev",
+"kind": "oos",
+"cat": "oos_dev",
+"q": "Quel est le prix du baril de pétrole aujourd'hui ?",
+"cos": 0.8269,
+"rr_max": -4.807,
+"reranked": true
+},
+{
+"set": "oos_dev",
+"split": "dev",
+"kind": "oos",
+"cat": "oos_dev",
+"q": "Quelle est la procédure pour obtenir un passeport biométrique ?",
+"cos": 0.8433,
+"rr_max": -5.54,
+"reranked": true
+},
+{
+"set": "oos_dev",
+"split": "dev",
+"kind": "oos",
+"cat": "oos_dev",
+"q": "Quel est le montant de l'allocation chômage ?",
+"cos": 0.8407,
+"rr_max": -3.118,
+"reranked": true
+},
+{
+"set": "oos_dev",
+"split": "dev",
+"kind": "oos",
+"cat": "oos_dev",
+"q": "Quelles sont les règles du baccalauréat en Algérie ?",
+"cos": 0.8459,
+"rr_max": -2.849,
+"reranked": true
+}
+]

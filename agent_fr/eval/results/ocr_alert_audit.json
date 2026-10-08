@@ -1,0 +1,547 @@
+{
+ "corpus": "corpus vivant",
+ "taux": {
+  "pdf_text": {
+   "articles_compares": 155,
+   "alertes_critiques": 0,
+   "taux": 0.0,
+   "raisons": {},
+   "dont_symbole_pourcent_identifie": 0
+  },
+  "ocr": {
+   "articles_compares": 2043,
+   "alertes_critiques": 67,
+   "taux": 0.033,
+   "raisons": {
+    "R-OCR-MANQUANT": 60,
+    "R-OCR-TAUX": 1,
+    "R-OCR-ABSENT-JUMEAU": 33,
+    "R-OCR-SYMBOLE": 4
+   },
+   "dont_symbole_pourcent_identifie": 15
+  },
+  "mixed": {
+   "articles_compares": 144,
+   "alertes_critiques": 0,
+   "taux": 0.0,
+   "raisons": {},
+   "dont_symbole_pourcent_identifie": 0
+  }
+ },
+ "echantillon_graine": 11,
+ "echantillon": [
+  {
+   "document_id": "INS-01-12.ar",
+   "chunk_id": "INS-01-12.ar::article-2",
+   "article": "2",
+   "alertes": [
+    {
+     "token": "11",
+     "reason": "R-OCR-MANQUANT",
+     "severity": "critique",
+     "detail": "valeur du texte français non retrouvée dans le texte arabe"
+    }
+   ],
+   "ar": "تُعدّل المادة 3 من التعليمة رقم 04-02 المؤرخة في 13 ماي 2004 « المادة 3 : يُحدّد معدل الاحتياطيات الإجبارية ب 9011 من وعاء الاحتياطيات الإجبارية المنصوص عليها في المادة 2 أعلاه».",
+   "fr": "L’article 3 de l'instruction n° 02-04 du 13 mai 2004 relative au régime des réserves obligatoires est modifié et rédigé comme suit\n\" Article 3 : Le taux des réserves obligatoires est fixé à 11 % de l'assiette des réserves définie dans l'article 2 ci-dessus\"."
+  },
+  {
+   "document_id": "INS-03-13.ar",
+   "chunk_id": "INS-03-13.ar::article-2",
+   "article": "2",
+   "alertes": [
+    {
+     "token": "900.25",
+     "reason": "R-OCR-ABSENT-JUMEAU",
+     "detail": "valeur absente du texte français",
+     "expected_in_french": [
+      "0.25"
+     ],
+     "severity": "critique",
+     "likely_cause": "R-OCR-PCT-GLYPH : symbole % probablement lu comme des chiffres (« 90 », « 96 », « 00 »…)",
+     "value_in_french_text": "0.25"
+    },
+    {
+     "token": "0.25",
+     "reason": "R-OCR-MANQUANT",
+     "severity": "critique",
+     "detail": "valeur du texte français non retrouvée dans le texte arabe"
+    }
+   ],
+   "ar": "تم تحديد نسبة العلاوة المستحقة على البنوك و فروع البنوك الأجنبية العاملة بالجزائرء تطبيقا للنظام المذكور في المادة الأولى أعلاه» بموجب ضمان الودائع المصرفية؛ خلال السنة المالية 62012 و هذا وفقا لمداولة مجلس النقد و القرض المنعقد بتاريخ 19 نوفمبر 2013« ب 900,25 من مجموع الودائع المصرفية المسجلة بتاريخ 1 ديسمبر 2012.",
+   "fr": "Le taux de la prime due par les banques ainsi que les succursales de banques étrangères exerçant en Algérie, en application du Règlement visé à l’article 1er ci-dessus, au titre de leur participation au système de garantie des dépôts bancaires est fixé pour l’exercice 2012, conformément à la délibération du Conseil de la Monnaie et du Crédit en date du 19novembre 2013, à 0,25% de l’ensemble des dé"
+  },
+  {
+   "document_id": "INS-06-26.ar",
+   "chunk_id": "INS-06-26.ar::article-2",
+   "article": "2",
+   "alertes": [
+    {
+     "token": "5",
+     "reason": "R-OCR-MANQUANT",
+     "severity": "critique",
+     "detail": "valeur du texte français non retrouvée dans le texte arabe"
+    }
+   ],
+   "ar": "تعدّل المادة 2 من التعليمة رقم 2016-8 المؤرخة في الفاتح perte‏ 42016 المتعلّقة يفيات تحديد معدلات الفائدة المفرطة. وتحرر كما يلي:\n\" المادة 2: يعتبر قرض بمعدل فائدة «Lis‏ كل دعم مالي ممنوح بمعدل فائدة فعلي إجمالي يفوق عند cdi‏ نسبة خمسة في AU‏ )965( من متوسط المعدل الفعلي المطبق في العمليات",
+   "fr": "L’article 2 de l’instruction n°08-2016 du premier septembre 2016 relative aux modalités de fixation des taux excessifs est modifié et rédigé comme suit :\n« Article 2 : Constitue un crédit à taux d’intérêt excessif, tout concours consenti à un taux d’intérêt effectif global qui excède, au moment où il est consenti, de plus cinq pour cent (5%), le taux effectif moyen pratiqué au cours du semestre pr"
+  },
+  {
+   "document_id": "REG-91-06.ar",
+   "chunk_id": "REG-91-06.ar::article-8",
+   "article": "8",
+   "alertes": [
+    {
+     "token": "5000",
+     "reason": "R-OCR-MANQUANT",
+     "severity": "critique",
+     "detail": "valeur du texte français non retrouvée dans le texte arabe"
+    }
+   ],
+   "ar": "تحدد المنحة السنوية بالعملة الصعبة, ولدهما اي 2.500 دجء للفرد الواحدء\n- 3.000 دج Lie‏ يقوم احد الوالدين فقط بالزيارة.",
+   "fr": "L'allocation en devises annuelle visée à l'article 4 ci-dessus est fixée comme suit :\n- 5.000 DA lorsque le père et la mère rendent conjointement visite à leur enfant, soit 2.500 DA par personne.\n- 3.000 DA lorsque seul l'un des parents effectue le déplacement."
+  },
+  {
+   "document_id": "REG-14-03.ar",
+   "chunk_id": "REG-14-03.ar::article-10",
+   "article": "10",
+   "alertes": [
+    {
+     "token": "20",
+     "reason": "R-OCR-MANQUANT",
+     "severity": "critique",
+     "detail": "valeur du texte français non retrouvée dans le texte arabe"
+    }
+   ],
+   "ar": "يتم تكوين مؤونات للمستحقات ذات و6100؟ على التوالي.\nكما تطبق هذه النسب على الالتزامات بالتوقيع المعطاة لطرف مقابل بصفة غير قابلة للرجوع Lost‏ تكون مستحقاته مصنفة في إحدى الفنات المذكورة أعلاه.\nإن المؤونات على الالتزامات بالتوقيع المقدمة بصفة غين قابلة للرجوع فيها لطرف مقابل لم يستقد إلآمن الالتزامات بالتوقيع ويُشكل في نفس الوقت خطر عجزء تكون وفق مستوى الخطر المتعرض له.",
+   "fr": "Les créances à problèmes potentiels, les créances très risquées et les créances compromises sont provisionnées respectivement au taux minimum de 20 %, 50 % et 100 %.\nCes taux sont également appliqués aux engagements par signature donnés de façon irrévocable à une contrepartie dont les créances sont classées dans l’une des catégories ci-dessus.\nLes engagements par signature donnés de façon irrévoca"
+  },
+  {
+   "document_id": "INS-05-09.ar",
+   "chunk_id": "INS-05-09.ar::article-2",
+   "article": "2",
+   "alertes": [
+    {
+     "token": "25",
+     "reason": "R-OCR-MANQUANT",
+     "severity": "critique",
+     "detail": "valeur du texte français non retrouvée dans le texte arabe"
+    }
+   ],
+   "ar": "طبقا للمادة 107 من الأمر 01-09 Hoi‏ يمكن أن يمنح أي بنك وأية مؤسسة مالية؛ في حدود 9025 من أموالها الخاصة الأساسية؛» قروضا لمؤسسة يملك أو تملك فيها مساهمة في رأس المال.",
+   "fr": "Conformément aux dispositions de l’article 107 de l’Ordonnance n° 09-01 susvisée, une banque ou un établissement financier peut consentir, dans la limite de vingt cinq pour cent (25 %) de ses fonds propres de base, des crédits à une entreprise dont elle ou il détient une participation au capital."
+  },
+  {
+   "document_id": "INS-01-16.ar",
+   "chunk_id": "INS-01-16.ar::article-2",
+   "article": "2",
+   "alertes": [
+    {
+     "token": "960.25",
+     "reason": "R-OCR-ABSENT-JUMEAU",
+     "detail": "valeur absente du texte français",
+     "expected_in_french": [
+      "0.25"
+     ],
+     "severity": "critique",
+     "likely_cause": "R-OCR-PCT-GLYPH : symbole % probablement lu comme des chiffres (« 90 », « 96 », « 00 »…)",
+     "value_in_french_text": "0.25"
+    },
+    {
+     "token": "0.25",
+     "reason": "R-OCR-MANQUANT",
+     "severity": "critique",
+     "detail": "valeur du texte français non retrouvée dans le texte arabe"
+    }
+   ],
+   "ar": "تم تحديد نسبة العلاوة المستحقة على البنوك و فروع البنوك الأجنبية العاملة ضمان الودائع المصرفية؛ خلال السنة المالية 62014 و هذا وفقا لمداولة مجلس النقد و القرض المنعقد بتاريخ 21 فيفري 2016» ب 960.25 من مجموع الودائع المصرفية المسجلة بتاريخ 31 ديسمبر 2014",
+   "fr": "Le taux de la prime due par les banques ainsi que les succursales de banques étrangères exerçant en Algérie, en application du Règlement visé à l’article 1er ci-dessus, au titre de leur participation au système de garantie des dépôts bancaires est fixé pour l’exercice 2014, conformément à la délibération du Conseil de la Monnaie et du Crédit en date du 21 février 2016, à 0,25 % de l’ensemble des d"
+  },
+  {
+   "document_id": "INS-01-15.ar",
+   "chunk_id": "INS-01-15.ar::article-2::p2",
+   "article": "2",
+   "alertes": [
+    {
+     "token": "30",
+     "reason": "R-OCR-MANQUANT",
+     "severity": "critique",
+     "detail": "valeur du texte français non retrouvée dans le texte arabe"
+    }
+   ],
+   "ar": "يومين قبل افتتاح جلسة البيع بالمزادء ولد الأرضية رسالة تأكيد لعملية البيع بالمؤزادء تظهر في الموقع الإلكتروني المخصص لعملية البيع هذه في ds‏ الخاص بالقائمين على إدارة وتسيير الأرضية (بنك الجزائر والمديرية العامة للخزينة العمومية). يتم نشر رسالة التأكيد المصادق عليها والمختومة من طرف بنك الجزائر إلكترونيا إلى وسطاء السوق الأولية.\n4- إدراج عروض شراء سندات الخزينة العمومية 1-4 يتم في يوم البيع بالمزا",
+   "fr": "L’article 5 de l'instruction n°28-95 du 22 avril 1995 relative à l’organisation du marché monétaire est modifié et rédigé comme suit :\n« Article 5 : Adjudication de bons du Trésor en compte courant\n1- Dispositions générales\nLe Trésor intervient sur le marché monétaire par l’émission de bons du Trésor dont les différents types sont définis par l’arrêté n° 08 du 21 janvier 1998 du Ministère des\nFina"
+  },
+  {
+   "document_id": "INS-03-18.ar",
+   "chunk_id": "INS-03-18.ar::article-2",
+   "article": "2",
+   "alertes": [
+    {
+     "token": "10",
+     "reason": "R-OCR-MANQUANT",
+     "severity": "critique",
+     "detail": "valeur du texte français non retrouvée dans le texte arabe"
+    }
+   ],
+   "ar": "ثعدل المادة 3 من التعليمة رقم 2004-02 المؤرخة في 13 ماي 2004 المتعلقة بنظام الاحتياطيات الإجبارية وتحرر على النحو التالي :\n« المادة 3 : يُحدّد معدل الاحتياطيات الإجبارية ب 010؟ من وعاء الاحتياطيات الإجبارية المنصوص عليه في المادة 2 dei‏",
+   "fr": "L’article 3 de l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligatoires est modifié et rédigé comme suit :\n« Article 3 : Le taux des réserves obligatoires est fixé à 10 % de l'assiette des réserves définie dans l'article 2 ci-dessus »."
+  },
+  {
+   "document_id": "INS-02-19.ar",
+   "chunk_id": "INS-02-19.ar::article-2",
+   "article": "2",
+   "alertes": [
+    {
+     "token": "10",
+     "reason": "R-OCR-MANQUANT",
+     "severity": "critique",
+     "detail": "valeur du texte français non retrouvée dans le texte arabe"
+    }
+   ],
+   "ar": "تُعدّل المادة 3 من التعليمة رقم 2004-02 المؤرخة في 13 ماي 2004 المتعلقة بنظام الاحتياطيات الإجبارية وتحرّر على النحو التالي :\nبر المادة 3 : das‏ معدل الاحتياطيات الإجبارية ب 9010 من وعاء الاحتياطيات الإجبارية المنتصوص عليه في المادة 2 أعلاة».\nالمادةٌ 3 : يسري مفعول هذه التعليمة ابتداء من تاريخ 15 ديسمبر 2019",
+   "fr": "L’article 3 de l'instruction n°02-2004 du 13 mai 2004 relative au régime des réserves obligatoires est modifié et rédigé comme suit :\n« Article 3 : Le taux des réserves obligatoires est fixé à 10 % de l'assiette des réserves définie dans l'article 2 ci-dessus »."
+  },
+  {
+   "document_id": "INS-04-09.ar",
+   "chunk_id": "INS-04-09.ar::article-2",
+   "article": "2",
+   "alertes": [
+    {
+     "token": "900.25",
+     "reason": "R-OCR-ABSENT-JUMEAU",
+     "detail": "valeur absente du texte français",
+     "expected_in_french": [
+      "0.25"
+     ],
+     "severity": "critique",
+     "likely_cause": "R-OCR-PCT-GLYPH : symbole % probablement lu comme des chiffres (« 90 », « 96 », « 00 »…)",
+     "value_in_french_text": "0.25"
+    },
+    {
+     "token": "0.25",
+     "reason": "R-OCR-MANQUANT",
+     "severity": "critique",
+     "detail": "valeur du texte français non retrouvée dans le texte arabe"
+    }
+   ],
+   "ar": "تم تحديد نسبة العلاوة المستحقة على البنوك و فروع البنوك الأجنبية العاملة بالجزائرء تطبيقا للنظام المذكور في المادة الأولى cel‏ بموجب ضمان الودائع المصرفية؛ خلال السنة المالية 42008 و هذا وفقا لمداولة مجلس النقد و القرض المنعقد بتاريخ 23 جويلية 2009» ب 900,25 من مجموع الودائع المصرفية المسجلة بتاريخ 31 ديسمبر 2008.",
+   "fr": "Le taux de la prime due par les banques ainsi que les succursales de banques étrangères exerçant en Algérie, en application du Règlement visé à l’article 1er ci-dessus, au titre de leur participation au système de garantie des dépôts bancaires est fixé pour l’exercice 2008, conformément à la délibération du Conseil de la Monnaie et du Crédit en date du 23 juillet 2009, à 0,25% de l’ensemble des dé"
+  },
+  {
+   "document_id": "INS-09-25.ar",
+   "chunk_id": "INS-09-25.ar::article-3",
+   "article": "3",
+   "alertes": [
+    {
+     "token": "0",
+     "reason": "R-OCR-MANQUANT",
+     "severity": "critique",
+     "detail": "valeur du texte français non retrouvée dans le texte arabe"
+    }
+   ],
+   "ar": "تُعدّل المادة 4 من التعليمة رقم 2004-02 المؤرخة في 13 ماي 2004 المتعلقة بنظام الاحتياطيات الإجبارية وتحرّر على النحو التالي:\n\" المادة 4: يُحدّد سعر الفائدة على الاحتياطي الإلزامي بمعدل يساوي 960.... (الباقي بدون تغيير)\"",
+   "fr": "L’article 4 de l'instruction n° 02-2004 du 13 mai 2004 relative au régime des réserves obligatoires est modifié et rédigé comme suit :\n« Article 4 : Le taux de rémunération des réserves obligatoires est fixé à 0 % … (le reste sans changement) »."
+  },
+  {
+   "document_id": "REG-13-01.ar",
+   "chunk_id": "REG-13-01.ar::article-9",
+   "article": "9",
+   "alertes": [
+    {
+     "token": "25000",
+     "reason": "R-OCR-ABSENT-JUMEAU",
+     "detail": "valeur absente du texte français",
+     "expected_in_french": [],
+     "severity": "critique"
+    },
+    {
+     "token": "54",
+     "reason": "R-OCR-ABSENT-JUMEAU",
+     "detail": "valeur absente du texte français",
+     "expected_in_french": [],
+     "severity": "critique"
+    }
+   ],
+   "ar": "يتم تحديد نسب الفائدة الدائنة والمدينة من قبل البنوك والمؤسسات المالية؛ بكل حرية ولا يمكن في كل الحالات» آن تتعدى نسب القفائدة الفعليةالإجمالية على القروض الموزعة من طرف الينوك والموّسست المالية معدل الفائدة الزائد الذي حدده بتك الحزائر.\npi -‏ وإققال الحسابات بالديثار:\nمنح دفتر الشيكات, الشباك:\nإعداد وإرسال كشف الخساب لكل ثلاثة أشهر إلى الزبون:\nعملية تحويل من حساب إلى حسساب مايين القتطعة هن طرف ال",
+   "fr": "Les taux d'intérêt créditeurs et débiteurs sont librement fixés par les banques et établissements financiers.\nLes taux d'intérêt effectifs globaux sur les crédits distribués par les banques et établissements financiers ne doivent, en aucun cas, dépasser le taux d’intérêt excessif fixé par la Banque d’Algérie."
+  },
+  {
+   "document_id": "REG-18-01.ar",
+   "chunk_id": "REG-18-01.ar::article-5",
+   "article": "5",
+   "alertes": [
+    {
+     "token": "2000.000",
+     "reason": "R-OCR-ABSENT-JUMEAU",
+     "detail": "valeur absente du texte français",
+     "expected_in_french": [
+      "2000000"
+     ],
+     "severity": "critique"
+    },
+    {
+     "token": "2000000",
+     "reason": "R-OCR-MANQUANT",
+     "severity": "critique",
+     "detail": "valeur du texte français non retrouvée dans le texte arabe"
+    }
+   ],
+   "ar": "تعدل وتتمم المادة 8 من النظام رقم 03-04 \"المائّة 8 : بحدّد ail‏ الأقصى للتعويض الممنوح لكل مودع يمليو نى دبثار )2000.000 دج).\nيطبق هذا السقف على مجموع ودائع نفس المودعغ لدى طبقا لمفهوم الوديعة الوحيدة المنصوص عليها في الماذة 8 من الأمر رقم 11-03 xl‏ في 27 جمادى الثانية عام ele‏",
+   "fr": "L’article 8 du Règlement n°04-03 du 4 mars 2004, sus cité, est modifié et complété comme suit :\n« Article 8 : Le plafond d’indemnisation par déposant est fixé à deux millions de dinars (2.000.000 DA).\nLedit plafond s’applique à l’ensemble des dépôts d’un même déposant, auprès d’une même banque quel que soit le nombre de dépôts et la devise concernée, conformément à la notion de dépôt unique consac"
+  },
+  {
+   "document_id": "REG-11-04.ar",
+   "chunk_id": "REG-11-04.ar::article-3",
+   "article": "3",
+   "alertes": [
+    {
+     "token": "55",
+     "reason": "R-OCR-ABSENT-JUMEAU",
+     "detail": "valeur absente du texte français",
+     "expected_in_french": [],
+     "severity": "critique"
+    }
+   ],
+   "ar": "يجب على البنوك والمؤسسات المالية أن تحترم نسبة بين مجموع الأصول المتوقرة و الملمكن تشعكتها على امدق net‏ تالش Deals‏ g pass‏ الاستمقاقات تمع الطلب وعلى المدئ القضير والالتزامات المقدفة. وتسفى 55% التسيبة بالمعامل يجب على البنوك و المؤسسات المالية أن تقدم في JS‏ وقت فعامل سيولة يساوي على الأقل 100 / .\nالملدة 4: ls‏ البنوك و المؤسسات المالية: في نهاية كل ثلاثي: بنك الجزائر ب:\n- المعامل الأدئنى للسيو",
+   "fr": "Les banques et les établissements financiers sont tenus de respecter un rapport entre, d’une part, la somme des actifs disponibles et réalisables à court terme et des engagements de financement reçus des banques, et, d’autre part, la somme des exigibilités à vue et à court terme et des engagements donnés. Ce rapport est appelé coefficient minimum de liquidité. Ses composantes et ses modalités d’ét"
+  },
+  {
+   "document_id": "REG-14-02.ar",
+   "chunk_id": "REG-14-02.ar::article-12",
+   "article": "12",
+   "alertes": [
+    {
+     "token": "0",
+     "reason": "R-OCR-MANQUANT",
+     "severity": "critique",
+     "detail": "valeur du texte français non retrouvée dans le texte arabe"
+    },
+    {
+     "token": "100",
+     "reason": "R-OCR-MANQUANT",
+     "severity": "critique",
+     "detail": "valeur du texte français non retrouvée dans le texte arabe"
+    }
+   ],
+   "ar": "51 عوامل التحويل مختلف العناصر خارج الميزائية هي :\nبالإقراض غمير المستعملة والتي يمكن إلغاؤها بدون شرط في أي وقت وبدون إخطار مسبق.\n2. عامل التحويل ب 20 ؟ الاعتمادات المستندية الممنوحة أو الموؤّكدة عندما تشكل السلع محل الاعتمادات ضمانا.\n3- عامل التهويل ب 50 غ96 1[-الالتزامات بالدفع المترتية على الاعتمادات الملستتدية عتدما لا تشكل السلع محل الاعتمادات ضماتاء ونب Em A RE‏ نت امسو ناه والضريبية:»\n1 --",
+   "fr": "Les facteurs de conversion des éléments du hors bilan sont les suivants :\n1) Facteur de conversion 0 % :\nFacilités de découvert et engagements de prêter non utilisés qui peuvent être annulés sans condition à tout moment et sans préavis.\n2) Facteur de conversion 20 % :\nCrédits documentaires accordés ou confirmés lorsque les marchandises correspondantes constituent une garantie.\n3) Facteur de conver"
+  },
+  {
+   "document_id": "REG-11-01.ar",
+   "chunk_id": "REG-11-01.ar::article-2",
+   "article": "2",
+   "alertes": [
+    {
+     "token": "0",
+     "reason": "R-OCR-ABSENT-JUMEAU",
+     "detail": "valeur absente du texte français",
+     "expected_in_french": [
+      "2000"
+     ],
+     "severity": "critique"
+    }
+   ],
+   "ar": "المميزات العامة للورقة الثقدية من فئّة ألفي | 0 ) دينار جزائرى هى الآتية :\nالأطوال : 160 هم * 71.7 مف الداخلية,",
+   "fr": "Les caractéristiques générales du billet de Banque de deux mille (2000)\ndinars algériens sont les suivantes :\n. Dimensions : 160 mm x 71,7 mm, . Thème : Science, technologie et développement endogène, . Filigrane : effigie de l’Emir Abdelkader, . Tonalité générale : Bleu verdâtre."
+  },
+  {
+   "document_id": "INS-01-22.ar~2",
+   "chunk_id": "INS-01-22.ar~2::article-6",
+   "article": "6",
+   "alertes": [
+    {
+     "token": "900.50",
+     "reason": "R-OCR-ABSENT-JUMEAU",
+     "detail": "valeur absente du texte français",
+     "expected_in_french": [
+      "0.50"
+     ],
+     "severity": "critique",
+     "likely_cause": "R-OCR-PCT-GLYPH : symbole % probablement lu comme des chiffres (« 90 », « 96 », « 00 »…)",
+     "value_in_french_text": "0.50"
+    },
+    {
+     "token": "0.50",
+     "reason": "R-OCR-MANQUANT",
+     "severity": "critique",
+     "detail": "valeur du texte français non retrouvée dans le texte arabe"
+    }
+   ],
+   "ar": "تتلقى البنوك تحت تسيير حسابات العملات الأجنبية المفتوحة لديها و العاملة في دفاترها عمولة تسيير محددة بنسبة 900.50 سنوياً تدفع بالدينار الجزائري.\nتحتسب هذه العمولة على أساس متوسط الرصيد السنوي لمجمل الحسابات بالعملات الأجنبية المسيّرة من طرف مصالحهاء و يتم دفعها لهم مرّة واحدة في بداية كل سنة مالية بموجب السنة المنتهية.",
+   "fr": "Les banques perçoivent, au titre de la gestion des comptes devises ouverts et fonctionnant sur leurs livres, une commission de gestion fixée à 0,50% l’an, versée en dinars Algériens.\nCette rémunération est calculée sur le solde moyen annuel de l’ensemble des comptes devises gérés par leurs services, et leur est versée une fois par an et ce à partir du début de chaque exercice au titre de l’année v"
+  },
+  {
+   "document_id": "INS-04-20.ar",
+   "chunk_id": "INS-04-20.ar::article-2",
+   "article": "2",
+   "alertes": [
+    {
+     "token": "0",
+     "reason": "R-OCR-ABSENT-JUMEAU",
+     "detail": "valeur absente du texte français",
+     "expected_in_french": [
+      "0.25",
+      "0.65",
+      "2",
+      "2500"
+     ],
+     "severity": "critique"
+    },
+    {
+     "token": "0.25",
+     "reason": "R-OCR-MANQUANT",
+     "severity": "critique",
+     "detail": "valeur du texte français non retrouvée dans le texte arabe"
+    },
+    {
+     "token": "0.65",
+     "reason": "R-OCR-MANQUANT",
+     "severity": "critique",
+     "detail": "valeur du texte français non retrouvée dans le texte arabe"
+    },
+    {
+     "token": "2",
+     "reason": "R-OCR-MANQUANT",
+     "severity": "critique",
+     "detail": "valeur du texte français non retrouvée dans le texte arabe"
+    },
+    {
+     "token": "2500",
+     "reason": "R-OCR-MANQUANT",
+     "severity": "critique",
+     "detail": "valeur du texte français non retrouvée dans le texte arabe"
+    },
+    {
+     "token": "3.2",
+     "reason": "R-OCR-MANQUANT",
+     "severity": "critique",
+     "detail": "valeur du texte français non retrouvée dans le texte arabe"
+    },
+    {
+     "token": "4",
+     "reason": "R-OCR-MANQUANT",
+     "severity": "critique",
+     "detail": "valeur du texte français non retrouvée dans le texte arabe"
+    },
+    {
+     "token": "5",
+     "reason": "R-OCR-MANQUANT",
+     "severity": "critique",
+     "detail": "valeur du texte français non retrouvée dans le texte arabe"
+    }
+   ],
+   "ar": "يحدد سقف تعريفات العمولات المقتطعة من طرف البنوك والمؤسسات المالية؛: الوسطاء المعتمدين» بموجب عمليات التجارة الخارجية عند الاستيراد و تحويل المداخيلء: كما يلي:\n0 3 دج + مصاريف سويفت (3000 دج 0 دج 0 دج مصاريف سويفت (3000 دج)\n0 دج الس [ 6 عمولة القبول [EU‏ 3500 دج (*) دون احتساب المصاريف المبررة.",
+   "fr": "Les tarifs des commissions prélevées par les banques et établissements financiers, intermédiaires agréés, au titre des opérations de commerce extérieur à l’import et de transferts de revenus, sont plafonnés comme suit :\nType de commission\nMontants plafonds ou taux maximums (*)\nCrédit documentaire\nRemise documentaire ou autre transfert\n1. Domiciliation 3 000 DA 3 000 DA\n2. Ouverture 3 000 DA+ frais"
+  },
+  {
+   "document_id": "INS-02-12.ar",
+   "chunk_id": "INS-02-12.ar::article-2",
+   "article": "2",
+   "alertes": [
+    {
+     "token": "900.25",
+     "reason": "R-OCR-ABSENT-JUMEAU",
+     "detail": "valeur absente du texte français",
+     "expected_in_french": [
+      "0.25"
+     ],
+     "severity": "critique",
+     "likely_cause": "R-OCR-PCT-GLYPH : symbole % probablement lu comme des chiffres (« 90 », « 96 », « 00 »…)",
+     "value_in_french_text": "0.25"
+    },
+    {
+     "token": "0.25",
+     "reason": "R-OCR-MANQUANT",
+     "severity": "critique",
+     "detail": "valeur du texte français non retrouvée dans le texte arabe"
+    }
+   ],
+   "ar": "تم تحديد نسبة العلاوة المستحقة على البنوك و فروع البنوك الأجنبية العاملة بالجزائرء تطبيقا للنظام المذكور قي المادة الأولى we‏ بموجب ضمان الودائع المصرفية؛ خلال السنة المالية 1؛» و هذا وفقا لمداولة مجلس النقد و القرض المنعقد بتاريخ 20 نوفمبر 2012» ب 900,25 من مجموع الودائع المصرفية المسجلة بتاريخ 1 ديسمبر 2011.",
+   "fr": "Le taux de la prime due par les banques ainsi que les succursales de banques étrangères exerçant en Algérie, en application du Règlement visé à l’article 1er ci-dessus, au titre de leur participation au système de garantie des dépôts bancaires est fixé pour l’exercice 2011, conformément à la délibération du Conseil de la Monnaie et du Crédit en date du 20 novembre 2012, à 0,25% de l’ensemble des d"
+  },
+  {
+   "document_id": "REG-04-01.ar",
+   "chunk_id": "REG-04-01.ar::article-2",
+   "article": "2",
+   "alertes": [
+    {
+     "token": "500000000",
+     "reason": "R-OCR-MANQUANT",
+     "severity": "critique",
+     "detail": "valeur du texte français non retrouvée dans le texte arabe"
+    }
+   ],
+   "ar": "يجب على البتوك والموسسات المالية:\n1) مليارين وخمسماتة مليون ديتار (2.500.000.000 دج) بالتسية للبتوك المتنصوص عليها في المادة 70 من الآأمر رقم 11-03 المؤرخ في 27 فيمايتعلّق بالمؤسّسات الماليّة المحنددة في المادة 71 منالأمر رقم 11-03 المؤرخ في 27 جمادى الثانية عام 1424 الموافق 26 غشت ستة 2003 و المذكور أعلاه.",
+   "fr": "Les banques et établissements financiers, constitués sous forme de société par actions de droit algérien, doivent disposer, à leur constitution, d’un capital libéré en totalité et en numéraire au moins égal à :\na) deux milliards cinq cent millions de dinars (2.500.000.000 DA) pour les banques visées à l’article 70 de l’Ordonnance n°03-11 du 27 Joumada Ethania 1424 correspondant au 26 août 2003 sus"
+  },
+  {
+   "document_id": "INS-02-14.ar",
+   "chunk_id": "INS-02-14.ar::article-2",
+   "article": "2",
+   "alertes": [
+    {
+     "token": "900.25",
+     "reason": "R-OCR-ABSENT-JUMEAU",
+     "detail": "valeur absente du texte français",
+     "expected_in_french": [
+      "0.25"
+     ],
+     "severity": "critique",
+     "likely_cause": "R-OCR-PCT-GLYPH : symbole % probablement lu comme des chiffres (« 90 », « 96 », « 00 »…)",
+     "value_in_french_text": "0.25"
+    },
+    {
+     "token": "0.25",
+     "reason": "R-OCR-MANQUANT",
+     "severity": "critique",
+     "detail": "valeur du texte français non retrouvée dans le texte arabe"
+    }
+   ],
+   "ar": "تم تحديد نسبة العلاوة المستحقة على البنوك و فروع البنوك الأجنبية العاملة بالجزائر» تطبيقا للنظام المذكور في المادة الأولى sel‏ بموجب مساهمتها في نظام ضمان الودائع المصرفية؛ خلال السنة المالية 2013« 5 هذا وفقا لمداولة مجلس النقد و القرض المنعقد بتاريخ 29 سبتمبر 2014« ب 900,25 من مجموع الودائع المصرفية المسجلة بتاريخ 31 ديسمبر 2013.",
+   "fr": "Le taux de la prime due par les banques ainsi que les succursales de banques étrangères exerçant en Algérie, en application du règlement visé à l’article 1er ci-dessus, au titre de leur participation au système de garantie des dépôts bancaires est fixé pour l’exercice 2013, conformément à la délibération du Conseil de la Monnaie et du Crédit en date du 29 septembre 2014, à 0,25 % de l’ensemble des"
+  },
+  {
+   "document_id": "REG-18-07.ar",
+   "chunk_id": "REG-18-07.ar::article-1",
+   "article": "1",
+   "alertes": [
+    {
+     "token": "15",
+     "reason": "R-OCR-ABSENT-JUMEAU",
+     "detail": "valeur absente du texte français",
+     "expected_in_french": [],
+     "severity": "critique"
+    }
+   ],
+   "ar": "ينشئ بنك الجزائر ورقة نقدية من فئة آلف (1000) دينار #15",
+   "fr": "La Banque d’Algérie crée un billet de banque de mille (1000) dinars algériens."
+  },
+  {
+   "document_id": "INS-03-10.ar",
+   "chunk_id": "INS-03-10.ar::article-2",
+   "article": "2",
+   "alertes": [
+    {
+     "token": "900.25",
+     "reason": "R-OCR-ABSENT-JUMEAU",
+     "detail": "valeur absente du texte français",
+     "expected_in_french": [
+      "0.25"
+     ],
+     "severity": "critique",
+     "likely_cause": "R-OCR-PCT-GLYPH : symbole % probablement lu comme des chiffres (« 90 », « 96 », « 00 »…)",
+     "value_in_french_text": "0.25"
+    },
+    {
+     "token": "0.25",
+     "reason": "R-OCR-MANQUANT",
+     "severity": "critique",
+     "detail": "valeur du texte français non retrouvée dans le texte arabe"
+    }
+   ],
+   "ar": "تم تحديد نسبة العلاوة المستحقة على البنوك و فروع البنوك الأجنبية العاملة بالجزائرء تطبيقا للنظام المذكور في المادة الأولى col‏ بموجب ضمان الودائع المصرفيةء خلال السنة المالية 62009 و هذا وفقا لمداولة مجلس النقد و القرض المنعقد بتاريخ 21 أكتوبر 2010« ب 900,25 من مجموع الودائع المصرفية المسجلة بتاريخ 1 ديسمبر 2009.",
+   "fr": "Le taux de la prime due par les banques ainsi que les succursales de banques étrangères exerçant en Algérie, en application du Règlement visé à l’article 1er ci-dessus garantie des dépôts bancaires est fixé pour l’exercice 2009, conformément à la délibération du Conseil de la Monnaie et du Crédit en date du 21 octobre 2010, à 0,25% de l’ensemble des dépôts enregistrés au 31 décembre 2009."
+  }
+ ]
+}

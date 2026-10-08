@@ -1,0 +1,147 @@
+{
+ "corpus": "D:/llm/snapshots/corpus_2026-10-06",
+ "anomalies": [
+  {
+   "niveau": "A_CORRIGER",
+   "type": "texte_illisible",
+   "detail": "couche texte corrompue (lettres remplacées par des caractères de contrôle)",
+   "n": 115,
+   "exemples": [
+    "INS-01-26-20040513.ar::body-0",
+    "INS-02-26-20200429.ar::body-0",
+    "INS-03-24.ar::body-1::p1",
+    "INS-03-24.ar::body-1::p2",
+    "INS-03-24.ar::body-1::p3",
+    "INS-03-24.ar::body-2::p1"
+   ]
+  },
+  {
+   "niveau": "INFO",
+   "type": "langue_incoherente",
+   "detail": "chunk dont l'écriture dominante contredit la langue annotée (tableaux bilingues, annexes)",
+   "n": 1,
+   "exemples": [
+    "LD-01-24.fr::annexe-N"
+   ]
+  },
+  {
+   "niveau": "A_CORRIGER",
+   "type": "date_suspecte",
+   "detail": "l'année du numéro (ex. 01-2023) diffère de plus d'un an de la date enregistrée (ex. 2016-09-01 par défaut)",
+   "n": 43,
+   "exemples": [
+    "INS-09-16.fr",
+    "REG-02-04.fr",
+    "REG-02-05.fr",
+    "NOT-02-01.fr",
+    "REG-06-01-20010602.fr",
+    "REG-20-01-20220131.fr"
+   ]
+  },
+  {
+   "niveau": "INFO",
+   "type": "date_manquante",
+   "detail": "documents sans date",
+   "n": 21,
+   "exemples": []
+  },
+  {
+   "niveau": "INFO",
+   "type": "chunk_id_non_unique",
+   "detail": "mêmes identifiants (articles répétés dans un texte) : comparer par position, pas par identifiant",
+   "n": 61,
+   "exemples": [
+    "INS-04-19.fr::annexe-N::p1",
+    "INS-04-19.fr::annexe-N::p2",
+    "INS-04-19.fr::annexe-N",
+    "INS-34-91.fr::article-1",
+    "INS-34-91.fr::article-2",
+    "INS-34-91.fr::article-3"
+   ]
+  }
+ ],
+ "documents": {
+  "fr": 754,
+  "ar": 318,
+  "und": 1
+ },
+ "chunks": {
+  "fr": 7785,
+  "ar": 3029,
+  "und": 6
+ },
+ "textes_distincts": {
+  "fr": 640,
+  "ar": 318,
+  "und": 1
+ },
+ "taille_chunks_car": {
+  "mediane": 339,
+  "max": 2400
+ },
+ "doublons": {
+  "textes_identiques_documents_differents": 3,
+  "copies_~N": 114
+ },
+ "extraction": {
+  "pdf_text": 813,
+  "mixed": 11,
+  "ocr": 249
+ },
+ "texte_illisible": {
+  "chunks_arabes_peu_arabes": 106,
+  "chunks_caracteres_controle": 98
+ },
+ "langues": {
+  "chunks_langue_incoherente": 1
+ },
+ "metadonnees": {
+  "champs_manquants": {
+   "date": 21,
+   "number": 16
+  },
+  "date_incoherente_avec_le_numero": 43
+ },
+ "chunks_controle": {
+  "identifiants_en_double": 61,
+  "chunks_vides": 0,
+  "sans_texte_avec_contexte": 0
+ },
+ "relations": {
+  "cibles_non_resolues": 41,
+  "reciproques_manquantes": 0,
+  "texte_modificateur_anterieur_a_sa_cible": 0
+ },
+ "statut_juridique": {
+  "textes": 640,
+  "series": 2,
+  "articles_avec_statut": 171,
+  "amendements_non_resolus": 3,
+  "par_statut": {
+   "ACTIVE": 146,
+   "MODIFIED": 55,
+   "REPLACED": 12,
+   "ABROGATED": 63,
+   "HISTORICAL": 30,
+   "UNKNOWN": 334
+  }
+ },
+ "vecteurs": {
+  "fichier": "D:\\llm\\index\\vec_89f927b53fd4.npy",
+  "n": 10814,
+  "attendus": 10814,
+  "dim": 384,
+  "nan": 0,
+  "norme_min": 0.9999998807907104,
+  "norme_max": 1.0000001192092896
+ },
+ "cache_vecteurs": {
+  "entrees": 10215,
+  "doublons_empreinte": 0,
+  "recalcul_20_vecteurs_cos_min": 1.0
+ },
+ "synthese": {
+  "A_CORRIGER": 2,
+  "INFO": 3
+ }
+}

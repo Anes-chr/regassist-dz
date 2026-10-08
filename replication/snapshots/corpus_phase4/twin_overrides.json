@@ -1,0 +1,33 @@
+{
+  "_lisez_moi": "Appariements FR/AR confirmés par un humain compétent. Seules les entrées de `confirmed` dont `confirmed_by` est renseigné sont appliquées par `relations.apply_twin_overrides`. Les `proposals` sont des conflits de dates que l'IA NE tranche PAS : elles attendent l'arbitrage d'un juriste. Ne jamais déplacer une proposition vers `confirmed` sans lire les deux PDF.",
+  "confirmed": [],
+  "proposals": [
+    {
+      "ar_url": "https://www.bank-of-algeria.dz/stoodroa/2023/02/01-90.pdf",
+      "fr_url": "https://www.bank-of-algeria.dz/stoodroa/2022/04/reglement9001-1.pdf",
+      "type_number": "Règlement n° 90-01 (capital minimum des banques et établissements financiers)",
+      "conflit": "libellé et texte arabes : 4 يونيو (4 juin) 1990 ; texte français : 4 juillet 1990",
+      "elements_en_faveur_du_meme_texte": "même type, même numéro, même objet (capital minimum) ; la date hégirienne imprimée dans le PDF arabe (12 Dhou al-Hijja 1410) correspond, au calendrier tabulaire (± 2 jours), au 4-6 juillet 1990, pas au 4 juin : la mention « يونيو » du texte arabe est probablement une coquille de « يوليو »",
+      "elements_contre": "dates grégoriennes explicites différentes ; la conversion hégirienne est une vérification de cohérence, pas une preuve",
+      "confirmed_by": null
+    },
+    {
+      "ar_url": "https://www.bank-of-algeria.dz/stoodroa/2023/02/01-02-1.pdf",
+      "fr_url": "https://www.bank-of-algeria.dz/stoodroa/2021/03/reglement200201.pdf",
+      "type_number": "Règlement n° 2002-01 (dossier de demande d'autorisation d'investissement à l'étranger)",
+      "conflit": "libellé arabe : 20 février 2002 ; texte français : 17 février 2002 ; date du texte arabe illisible à l'OCR (« 8 ذي ا … »)",
+      "elements_en_faveur_du_meme_texte": "même type, même numéro, même objet",
+      "elements_contre": "dates grégoriennes différentes de 3 jours ; date hégirienne du PDF arabe illisible",
+      "confirmed_by": null
+    },
+    {
+      "ar_url": "https://www.bank-of-algeria.dz/stoodroa/2023/02/01-06.pdf",
+      "fr_url": "https://www.bank-of-algeria.dz/stoodroa/2022/04/reglement200601.pdf",
+      "type_number": "Règlement n° 2006-01 (pièce de dix dinars en argent)",
+      "conflit": "libellé et texte arabes : 14 mai 2006 (16 Rabi' II 1427) ; texte français : « 07 septembre » (année absente de l'en-tête)",
+      "elements_en_faveur_du_meme_texte": "même type, même numéro, même objet (pièce de 10 dinars en argent)",
+      "elements_contre": "date différente de plus de trois mois ; il peut s'agir de deux textes distincts ou d'une erreur dans l'un des PDF",
+      "confirmed_by": null
+    }
+  ]
+}

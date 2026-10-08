@@ -1,0 +1,1981 @@
+{
+ "avertissement": "Relecture par un assistant IA, pas par un juriste humain. Règles : voir agent_fr/eval/adjudicate.py.",
+ "pipelines": {
+  "legacy": {
+   "n": 112,
+   "auto": 66,
+   "relu": 75,
+   "recuperes": [
+    "V006",
+    "V007",
+    "V008",
+    "V010",
+    "V012",
+    "V021",
+    "V023",
+    "W005",
+    "W013",
+    "X008"
+   ],
+   "retrogrades": [
+    "X029"
+   ],
+   "par_categorie": {
+    "ambigu": {
+     "relu": 0,
+     "auto": 0,
+     "n": 8
+    },
+    "arabe": {
+     "relu": 0,
+     "auto": 0,
+     "n": 13
+    },
+    "direct_definition": {
+     "relu": 6,
+     "auto": 6,
+     "n": 6
+    },
+    "direct_delai": {
+     "relu": 5,
+     "auto": 5,
+     "n": 6
+    },
+    "direct_interdiction": {
+     "relu": 3,
+     "auto": 1,
+     "n": 3
+    },
+    "direct_montant": {
+     "relu": 2,
+     "auto": 1,
+     "n": 2
+    },
+    "direct_obligation": {
+     "relu": 6,
+     "auto": 4,
+     "n": 6
+    },
+    "direct_procedure": {
+     "relu": 4,
+     "auto": 4,
+     "n": 4
+    },
+    "etat_actuel": {
+     "relu": 5,
+     "auto": 5,
+     "n": 8
+    },
+    "historique": {
+     "relu": 13,
+     "auto": 13,
+     "n": 19
+    },
+    "hors_corpus": {
+     "relu": 10,
+     "auto": 10,
+     "n": 10
+    },
+    "hors_sujet": {
+     "relu": 10,
+     "auto": 10,
+     "n": 10
+    },
+    "modification": {
+     "relu": 6,
+     "auto": 5,
+     "n": 9
+    },
+    "multi_textes": {
+     "relu": 3,
+     "auto": 0,
+     "n": 6
+    },
+    "reference": {
+     "relu": 2,
+     "auto": 2,
+     "n": 2
+    }
+   },
+   "items": {
+    "V001": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V002": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V003": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V004": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "V005": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V006": {
+     "auto": false,
+     "relu": true,
+     "motif": "récupéré : obligation d'informer le demandeur énoncée dans le passage cité"
+    },
+    "V007": {
+     "auto": false,
+     "relu": true,
+     "motif": "récupéré : interdiction des clauses pénales dans le passage cité ; l'adverbe « expressément » faisait échouer la comparaison littérale"
+    },
+    "V008": {
+     "auto": false,
+     "relu": true,
+     "motif": "récupéré : même règle dans un autre texte cité (REG-92-04 / REG-95-07), pas dans le texte attendu"
+    },
+    "V009": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V010": {
+     "auto": false,
+     "relu": true,
+     "motif": "récupéré : liste bien les valeurs successives (600 000 puis 2 000 000) ; « deux millions » attendu en lettres"
+    },
+    "V011": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "V012": {
+     "auto": false,
+     "relu": true,
+     "motif": "récupéré : identifie le règlement 16-02 et son modificateur 24-05, valeur dans le passage cité"
+    },
+    "V013": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V014": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "V015": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V016": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V017": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V018": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V019": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V020": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V021": {
+     "auto": false,
+     "relu": true,
+     "motif": "récupéré : texte modificateur correctement cité"
+    },
+    "V022": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "V023": {
+     "auto": false,
+     "relu": true,
+     "motif": "récupéré : nomme le bon règlement modificateur ; le fait clé « deux millions » n'était pas demandé par la question"
+    },
+    "V024": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "V025": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V026": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V027": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V028": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V029": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V030": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V031": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V032": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V033": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "V034": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "V035": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "V036": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "V037": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "V038": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "V039": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "V040": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "V041": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "W001": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W002": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W003": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W004": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W005": {
+     "auto": false,
+     "relu": true,
+     "motif": "récupéré : six mois, dans un règlement qui complète le texte attendu ; « (06) » vs « (6) »"
+    },
+    "W006": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W007": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "W008": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W009": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W010": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W011": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W012": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "W013": {
+     "auto": false,
+     "relu": true,
+     "motif": "récupéré : les trois taux 8 %, 6 %, 3 % ; le fait clé était écrit « 08% »"
+    },
+    "W014": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W015": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W016": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W017": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W018": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W019": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W020": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W021": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W022": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "W023": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "W024": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "W025": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "W026": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "X001": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X002": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X003": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X004": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X005": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X006": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X007": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X008": {
+     "auto": false,
+     "relu": true,
+     "motif": "récupéré : règle actuelle (REG-24-05) ; le gold visait le texte de 1995, daté"
+    },
+    "X009": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X010": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X011": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X012": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X013": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X014": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X015": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "X016": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "X017": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "X018": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X019": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X020": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X021": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "X022": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X023": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X024": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "X025": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "X026": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X027": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "X028": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "X029": {
+     "auto": true,
+     "relu": false,
+     "motif": "rétrogradé : textes attendus non cités INS-17-94,INS-39-95"
+    },
+    "X030": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X031": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X032": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X033": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X034": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X035": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X036": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X037": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X038": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X039": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "X040": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "X041": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "X042": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "X043": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "X044": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "X045": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    }
+   }
+  },
+  "hybrid": {
+   "n": 112,
+   "auto": 89,
+   "relu": 92,
+   "recuperes": [
+    "V006",
+    "V007",
+    "V023",
+    "W005",
+    "W013",
+    "X009"
+   ],
+   "retrogrades": [
+    "V010",
+    "V011",
+    "X029"
+   ],
+   "par_categorie": {
+    "ambigu": {
+     "relu": 8,
+     "auto": 8,
+     "n": 8
+    },
+    "arabe": {
+     "relu": 5,
+     "auto": 5,
+     "n": 13
+    },
+    "direct_definition": {
+     "relu": 6,
+     "auto": 6,
+     "n": 6
+    },
+    "direct_delai": {
+     "relu": 6,
+     "auto": 6,
+     "n": 6
+    },
+    "direct_interdiction": {
+     "relu": 3,
+     "auto": 1,
+     "n": 3
+    },
+    "direct_montant": {
+     "relu": 2,
+     "auto": 1,
+     "n": 2
+    },
+    "direct_obligation": {
+     "relu": 5,
+     "auto": 4,
+     "n": 6
+    },
+    "direct_procedure": {
+     "relu": 4,
+     "auto": 4,
+     "n": 4
+    },
+    "etat_actuel": {
+     "relu": 7,
+     "auto": 7,
+     "n": 8
+    },
+    "historique": {
+     "relu": 15,
+     "auto": 15,
+     "n": 19
+    },
+    "hors_corpus": {
+     "relu": 10,
+     "auto": 10,
+     "n": 10
+    },
+    "hors_sujet": {
+     "relu": 10,
+     "auto": 10,
+     "n": 10
+    },
+    "modification": {
+     "relu": 8,
+     "auto": 8,
+     "n": 9
+    },
+    "multi_textes": {
+     "relu": 1,
+     "auto": 2,
+     "n": 6
+    },
+    "reference": {
+     "relu": 2,
+     "auto": 2,
+     "n": 2
+    }
+   },
+   "items": {
+    "V001": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V002": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V003": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V004": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V005": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V006": {
+     "auto": false,
+     "relu": true,
+     "motif": "récupéré : obligation d'informer le demandeur énoncée dans le passage cité"
+    },
+    "V007": {
+     "auto": false,
+     "relu": true,
+     "motif": "récupéré : interdiction des clauses pénales dans le passage cité ; l'adverbe « expressément » faisait échouer la comparaison littérale"
+    },
+    "V008": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V009": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V010": {
+     "auto": true,
+     "relu": false,
+     "motif": "rétrogradé : textes attendus non cités REG-04-03"
+    },
+    "V011": {
+     "auto": true,
+     "relu": false,
+     "motif": "rétrogradé : textes attendus non cités INS-10-96"
+    },
+    "V012": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "V013": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V014": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V015": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V016": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V017": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V018": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V019": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V020": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V021": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V022": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V023": {
+     "auto": false,
+     "relu": true,
+     "motif": "récupéré : nomme le bon règlement modificateur ; le fait clé « deux millions » n'était pas demandé par la question"
+    },
+    "V024": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V025": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V026": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V027": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V028": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V029": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V030": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V031": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V032": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V033": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V034": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V035": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V036": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V037": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V038": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "V039": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "V040": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V041": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "W001": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W002": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W003": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W004": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "W005": {
+     "auto": false,
+     "relu": true,
+     "motif": "récupéré : six mois, dans un règlement qui complète le texte attendu ; « (06) » vs « (6) »"
+    },
+    "W006": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W007": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W008": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W009": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W010": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W011": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W012": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "W013": {
+     "auto": false,
+     "relu": true,
+     "motif": "récupéré : les trois taux 8 %, 6 %, 3 % ; le fait clé était écrit « 08% »"
+    },
+    "W014": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W015": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W016": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W017": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W018": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W019": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W020": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W021": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W022": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W023": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W024": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "W025": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "W026": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "X001": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X002": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X003": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X004": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X005": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X006": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X007": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X008": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X009": {
+     "auto": false,
+     "relu": true,
+     "motif": "récupéré : même interdiction dans un autre texte cité (INS-06-21), pas le texte attendu"
+    },
+    "X010": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X011": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X012": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X013": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X014": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X015": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X016": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "X017": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X018": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X019": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X020": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X021": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "X022": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X023": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X024": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "X025": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "X026": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X027": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "X028": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "X029": {
+     "auto": true,
+     "relu": false,
+     "motif": "rétrogradé : textes attendus non cités INS-39-95"
+    },
+    "X030": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X031": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X032": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X033": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X034": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X035": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X036": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X037": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X038": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X039": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X040": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X041": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X042": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "X043": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X044": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X045": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    }
+   }
+  },
+  "hybrid_rerank": {
+   "n": 112,
+   "auto": 96,
+   "relu": 100,
+   "recuperes": [
+    "V006",
+    "V007",
+    "V023",
+    "V039",
+    "W005",
+    "W013",
+    "X008",
+    "X009"
+   ],
+   "retrogrades": [
+    "V010",
+    "V011",
+    "X024",
+    "X029"
+   ],
+   "par_categorie": {
+    "ambigu": {
+     "relu": 8,
+     "auto": 8,
+     "n": 8
+    },
+    "arabe": {
+     "relu": 11,
+     "auto": 10,
+     "n": 13
+    },
+    "direct_definition": {
+     "relu": 6,
+     "auto": 6,
+     "n": 6
+    },
+    "direct_delai": {
+     "relu": 6,
+     "auto": 6,
+     "n": 6
+    },
+    "direct_interdiction": {
+     "relu": 3,
+     "auto": 1,
+     "n": 3
+    },
+    "direct_montant": {
+     "relu": 2,
+     "auto": 1,
+     "n": 2
+    },
+    "direct_obligation": {
+     "relu": 6,
+     "auto": 4,
+     "n": 6
+    },
+    "direct_procedure": {
+     "relu": 4,
+     "auto": 4,
+     "n": 4
+    },
+    "etat_actuel": {
+     "relu": 7,
+     "auto": 7,
+     "n": 8
+    },
+    "historique": {
+     "relu": 15,
+     "auto": 16,
+     "n": 19
+    },
+    "hors_corpus": {
+     "relu": 10,
+     "auto": 10,
+     "n": 10
+    },
+    "hors_sujet": {
+     "relu": 10,
+     "auto": 10,
+     "n": 10
+    },
+    "modification": {
+     "relu": 8,
+     "auto": 8,
+     "n": 9
+    },
+    "multi_textes": {
+     "relu": 2,
+     "auto": 3,
+     "n": 6
+    },
+    "reference": {
+     "relu": 2,
+     "auto": 2,
+     "n": 2
+    }
+   },
+   "items": {
+    "V001": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V002": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V003": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V004": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V005": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V006": {
+     "auto": false,
+     "relu": true,
+     "motif": "récupéré : obligation d'informer le demandeur énoncée dans le passage cité"
+    },
+    "V007": {
+     "auto": false,
+     "relu": true,
+     "motif": "récupéré : interdiction des clauses pénales dans le passage cité ; l'adverbe « expressément » faisait échouer la comparaison littérale"
+    },
+    "V008": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V009": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V010": {
+     "auto": true,
+     "relu": false,
+     "motif": "rétrogradé : textes attendus non cités REG-97-04"
+    },
+    "V011": {
+     "auto": true,
+     "relu": false,
+     "motif": "rétrogradé : textes attendus non cités INS-10-96"
+    },
+    "V012": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "V013": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V014": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V015": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V016": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V017": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V018": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V019": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V020": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V021": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V022": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V023": {
+     "auto": false,
+     "relu": true,
+     "motif": "récupéré : nomme le bon règlement modificateur ; le fait clé « deux millions » n'était pas demandé par la question"
+    },
+    "V024": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V025": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V026": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V027": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V028": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V029": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V030": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V031": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V032": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V033": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V034": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V035": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V036": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V037": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V038": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V039": {
+     "auto": false,
+     "relu": true,
+     "motif": "récupéré : réponse arabe juste, texte cité différent du texte attendu mais pertinent"
+    },
+    "V040": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "V041": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W001": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W002": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W003": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W004": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W005": {
+     "auto": false,
+     "relu": true,
+     "motif": "récupéré : six mois, dans un règlement qui complète le texte attendu ; « (06) » vs « (6) »"
+    },
+    "W006": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W007": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W008": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W009": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W010": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W011": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W012": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "W013": {
+     "auto": false,
+     "relu": true,
+     "motif": "récupéré : les trois taux 8 %, 6 %, 3 % ; le fait clé était écrit « 08% »"
+    },
+    "W014": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W015": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W016": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W017": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W018": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W019": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W020": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W021": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W022": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W023": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W024": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "W025": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "W026": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X001": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X002": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X003": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X004": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X005": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X006": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X007": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X008": {
+     "auto": false,
+     "relu": true,
+     "motif": "récupéré : règle actuelle (REG-24-05) ; le gold visait le texte de 1995, daté"
+    },
+    "X009": {
+     "auto": false,
+     "relu": true,
+     "motif": "récupéré : même interdiction dans un autre texte cité (INS-06-21), pas le texte attendu"
+    },
+    "X010": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X011": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X012": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X013": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X014": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X015": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X016": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "X017": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X018": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X019": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X020": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X021": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "X022": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X023": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X024": {
+     "auto": true,
+     "relu": false,
+     "motif": "rétrogradé : la réponse dit elle-même que l'information n'est pas précisée"
+    },
+    "X025": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "X026": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X027": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X028": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "X029": {
+     "auto": true,
+     "relu": false,
+     "motif": "rétrogradé : textes attendus non cités INS-13-95,INS-17-94"
+    },
+    "X030": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X031": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X032": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X033": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X034": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X035": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X036": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X037": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X038": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X039": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X040": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X041": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X042": {
+     "auto": false,
+     "relu": false,
+     "motif": ""
+    },
+    "X043": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X044": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    },
+    "X045": {
+     "auto": true,
+     "relu": true,
+     "motif": ""
+    }
+   }
+  }
+ }
+}

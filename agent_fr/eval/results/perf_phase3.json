@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-07 00:27:44",
+  "machine": {
+    "cpu_logiques": 24,
+    "ram_totale_mb": 16758.6
+  },
+  "ram_libre_avant_mb": 4725.5,
+  "rss_mb": {
+    "processus_vide": 20.9,
+    "apres_index_corpus": 167.4,
+    "apres_chargement_hybrid": 990.3,
+    "apres_chargement_hybrid_rerank": 1581.2,
+    "final": 1671.4
+  },
+  "n_questions": 40,
+  "pipelines": {
+    "legacy": {
+      "total_ms": {
+        "moy": 2.8,
+        "mediane": 2.7,
+        "p95": 7.2,
+        "max": 7.9
+      },
+      "embedding_ms": null,
+      "recherche_ms": null,
+      "reranking_ms": null,
+      "rss_pic_mb": 168.5,
+      "cpu_utilise_coeurs_moy": 0.98
+    },
+    "hybrid": {
+      "total_ms": {
+        "moy": 11.8,
+        "mediane": 12.4,
+        "p95": 19.0,
+        "max": 19.2
+      },
+      "embedding_ms": {
+        "moy": 5.1,
+        "mediane": 5.0,
+        "p95": 5.9,
+        "max": 6.3
+      },
+      "recherche_ms": {
+        "moy": 3.6,
+        "mediane": 3.9,
+        "p95": 8.4,
+        "max": 9.1
+      },
+      "reranking_ms": null,
+      "rss_pic_mb": 991.7,
+      "cpu_utilise_coeurs_moy": 5.94
+    },
+    "hybrid_rerank": {
+      "total_ms": {
+        "moy": 502.6,
+        "mediane": 538.0,
+        "p95": 720.6,
+        "max": 723.6
+      },
+      "embedding_ms": {
+        "moy": 7.1,
+        "mediane": 7.0,
+        "p95": 8.9,
+        "max": 9.2
+      },
+      "recherche_ms": {
+        "moy": 4.8,
+        "mediane": 4.7,
+        "p95": 11.2,
+        "max": 12.0
+      },
+      "reranking_ms": {
+        "moy": 488.9,
+        "mediane": 525.5,
+        "p95": 704.7,
+        "max": 705.8
+      },
+      "rss_pic_mb": 1671.4,
+      "cpu_utilise_coeurs_moy": 6.62
+    }
+  },
+  "premier_appel_s": {
+    "hybrid": 1.03,
+    "hybrid_rerank": 1.21
+  },
+  "llama_server_rss_mb": 3018.3,
+  "ram_libre_apres_mb": 3078.4,
+  "disque_mb": {
+    "modele_embeddings_e5_small": 487.4,
+    "modele_reranker_mmarco_int8": 135.7,
+    "index_vecteurs": 138.3,
+    "instantane_corpus_figé": 38.2,
+    "modele_llm_qwen3_4b_q4km": 3120.3,
+    "llama_cpp": 68.9
+  }
+}

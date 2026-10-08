@@ -1,0 +1,322 @@
+{
+ "avertissement": "RELECTURE PAR UNE IA (Claude), non humaine, de 24 alertes OCR_UNCERTAIN tirées au sort (graine 11) ; à confirmer par un humain.",
+ "echantillon": [
+  {
+   "chunk_id": "INS-01-12.ar::article-2",
+   "alertes": [
+    [
+     "11",
+     "R-OCR-MANQUANT"
+    ]
+   ],
+   "jugement": "erreur_ocr",
+   "note": null
+  },
+  {
+   "chunk_id": "INS-03-13.ar::article-2",
+   "alertes": [
+    [
+     "900.25",
+     "R-OCR-ABSENT-JUMEAU"
+    ],
+    [
+     "0.25",
+     "R-OCR-MANQUANT"
+    ]
+   ],
+   "jugement": "erreur_ocr",
+   "note": null
+  },
+  {
+   "chunk_id": "INS-06-26.ar::article-2",
+   "alertes": [
+    [
+     "5",
+     "R-OCR-MANQUANT"
+    ]
+   ],
+   "jugement": "erreur_ocr",
+   "note": null
+  },
+  {
+   "chunk_id": "REG-91-06.ar::article-8",
+   "alertes": [
+    [
+     "5000",
+     "R-OCR-MANQUANT"
+    ]
+   ],
+   "jugement": "faux_positif",
+   "note": "le français énumère un montant total, l'arabe les montants par personne (différence de rédaction)"
+  },
+  {
+   "chunk_id": "REG-14-03.ar::article-10",
+   "alertes": [
+    [
+     "20",
+     "R-OCR-MANQUANT"
+    ]
+   ],
+   "jugement": "erreur_ocr",
+   "note": null
+  },
+  {
+   "chunk_id": "INS-05-09.ar::article-2",
+   "alertes": [
+    [
+     "25",
+     "R-OCR-MANQUANT"
+    ]
+   ],
+   "jugement": "erreur_ocr",
+   "note": null
+  },
+  {
+   "chunk_id": "INS-01-16.ar::article-2",
+   "alertes": [
+    [
+     "960.25",
+     "R-OCR-ABSENT-JUMEAU"
+    ],
+    [
+     "0.25",
+     "R-OCR-MANQUANT"
+    ]
+   ],
+   "jugement": "erreur_ocr",
+   "note": null
+  },
+  {
+   "chunk_id": "INS-01-15.ar::article-2::p2",
+   "alertes": [
+    [
+     "30",
+     "R-OCR-MANQUANT"
+    ]
+   ],
+   "jugement": "incertain",
+   "note": null
+  },
+  {
+   "chunk_id": "INS-03-18.ar::article-2",
+   "alertes": [
+    [
+     "10",
+     "R-OCR-MANQUANT"
+    ]
+   ],
+   "jugement": "erreur_ocr",
+   "note": null
+  },
+  {
+   "chunk_id": "INS-02-19.ar::article-2",
+   "alertes": [
+    [
+     "10",
+     "R-OCR-MANQUANT"
+    ]
+   ],
+   "jugement": "erreur_ocr",
+   "note": null
+  },
+  {
+   "chunk_id": "INS-04-09.ar::article-2",
+   "alertes": [
+    [
+     "900.25",
+     "R-OCR-ABSENT-JUMEAU"
+    ],
+    [
+     "0.25",
+     "R-OCR-MANQUANT"
+    ]
+   ],
+   "jugement": "erreur_ocr",
+   "note": null
+  },
+  {
+   "chunk_id": "INS-09-25.ar::article-3",
+   "alertes": [
+    [
+     "0",
+     "R-OCR-MANQUANT"
+    ]
+   ],
+   "jugement": "faux_positif",
+   "note": "article français 3 et article arabe 3 ne se correspondent pas (valeur présente ailleurs)"
+  },
+  {
+   "chunk_id": "REG-13-01.ar::article-9",
+   "alertes": [
+    [
+     "25000",
+     "R-OCR-ABSENT-JUMEAU"
+    ],
+    [
+     "54",
+     "R-OCR-ABSENT-JUMEAU"
+    ]
+   ],
+   "jugement": "incertain",
+   "note": null
+  },
+  {
+   "chunk_id": "REG-18-01.ar::article-5",
+   "alertes": [
+    [
+     "2000.000",
+     "R-OCR-ABSENT-JUMEAU"
+    ],
+    [
+     "2000000",
+     "R-OCR-MANQUANT"
+    ]
+   ],
+   "jugement": "erreur_ocr",
+   "note": null
+  },
+  {
+   "chunk_id": "REG-11-04.ar::article-3",
+   "alertes": [
+    [
+     "55",
+     "R-OCR-ABSENT-JUMEAU"
+    ]
+   ],
+   "jugement": "incertain",
+   "note": null
+  },
+  {
+   "chunk_id": "REG-14-02.ar::article-12",
+   "alertes": [
+    [
+     "0",
+     "R-OCR-MANQUANT"
+    ],
+    [
+     "100",
+     "R-OCR-MANQUANT"
+    ]
+   ],
+   "jugement": "erreur_ocr",
+   "note": null
+  },
+  {
+   "chunk_id": "REG-11-01.ar::article-2",
+   "alertes": [
+    [
+     "0",
+     "R-OCR-ABSENT-JUMEAU"
+    ]
+   ],
+   "jugement": "erreur_ocr",
+   "note": null
+  },
+  {
+   "chunk_id": "INS-01-22.ar~2::article-6",
+   "alertes": [
+    [
+     "900.50",
+     "R-OCR-ABSENT-JUMEAU"
+    ],
+    [
+     "0.50",
+     "R-OCR-MANQUANT"
+    ]
+   ],
+   "jugement": "erreur_ocr",
+   "note": null
+  },
+  {
+   "chunk_id": "INS-04-20.ar::article-2",
+   "alertes": [
+    [
+     "0",
+     "R-OCR-ABSENT-JUMEAU"
+    ],
+    [
+     "0.25",
+     "R-OCR-MANQUANT"
+    ],
+    [
+     "0.65",
+     "R-OCR-MANQUANT"
+    ]
+   ],
+   "jugement": "erreur_ocr",
+   "note": null
+  },
+  {
+   "chunk_id": "INS-02-12.ar::article-2",
+   "alertes": [
+    [
+     "900.25",
+     "R-OCR-ABSENT-JUMEAU"
+    ],
+    [
+     "0.25",
+     "R-OCR-MANQUANT"
+    ]
+   ],
+   "jugement": "erreur_ocr",
+   "note": null
+  },
+  {
+   "chunk_id": "REG-04-01.ar::article-2",
+   "alertes": [
+    [
+     "500000000",
+     "R-OCR-MANQUANT"
+    ]
+   ],
+   "jugement": "incertain",
+   "note": null
+  },
+  {
+   "chunk_id": "INS-02-14.ar::article-2",
+   "alertes": [
+    [
+     "900.25",
+     "R-OCR-ABSENT-JUMEAU"
+    ],
+    [
+     "0.25",
+     "R-OCR-MANQUANT"
+    ]
+   ],
+   "jugement": "erreur_ocr",
+   "note": null
+  },
+  {
+   "chunk_id": "REG-18-07.ar::article-1",
+   "alertes": [
+    [
+     "15",
+     "R-OCR-ABSENT-JUMEAU"
+    ]
+   ],
+   "jugement": "incertain",
+   "note": "caractère parasite « #15 » : peu critique"
+  },
+  {
+   "chunk_id": "INS-03-10.ar::article-2",
+   "alertes": [
+    [
+     "900.25",
+     "R-OCR-ABSENT-JUMEAU"
+    ],
+    [
+     "0.25",
+     "R-OCR-MANQUANT"
+    ]
+   ],
+   "jugement": "erreur_ocr",
+   "note": null
+  }
+ ],
+ "bilan": {
+  "erreur_ocr": 17,
+  "faux_positif": 2,
+  "incertain": 5
+ }
+}

@@ -1,0 +1,186 @@
+{
+ "corpus": "corpus vivant",
+ "anomalies": [
+  {
+   "niveau": "A_CORRIGER",
+   "type": "texte_illisible",
+   "detail": "couche texte corrompue (lettres remplacées par des caractères de contrôle)",
+   "n": 5,
+   "exemples": [
+    "INS-06-21.ar::annexe-1",
+    "LD-02-24.ar::body-0::p1",
+    "LD-02-24.ar::body-0::p2",
+    "REG-01-24.ar::article-15",
+    "REG-25-01.ar::article-18"
+   ]
+  },
+  {
+   "niveau": "INFO",
+   "type": "langue_incoherente",
+   "detail": "chunk dont l'écriture dominante contredit la langue annotée (tableaux bilingues, annexes)",
+   "n": 1,
+   "exemples": [
+    "LD-01-24.fr::annexe-01"
+   ]
+  },
+  {
+   "niveau": "A_CORRIGER",
+   "type": "date_suspecte",
+   "detail": "l'année du numéro (ex. 01-2023) diffère de plus d'un an de la date enregistrée (ex. 2016-09-01 par défaut)",
+   "n": 4,
+   "exemples": [
+    "REG-20-01-20220131.fr",
+    "NOT-02-24-20160901.fr",
+    "NOT-01-26.fr",
+    "REG-20-01-20260514.fr"
+   ]
+  },
+  {
+   "niveau": "INFO",
+   "type": "date_manquante",
+   "detail": "documents sans date",
+   "n": 17,
+   "exemples": []
+  },
+  {
+   "niveau": "INFO",
+   "type": "jumeau_ar_conflit_de_date",
+   "detail": "même type + même numéro qu'un texte français mais dates complètes différentes : NON tranché automatiquement (proposition dans boa_pipeline/twin_overrides.json, arbitrage humain)",
+   "n": 3,
+   "exemples": [
+    "REG-02-01-20020220.ar",
+    "REG-06-01-20060514.ar",
+    "REG-90-01-19900604.ar"
+   ]
+  },
+  {
+   "niveau": "INFO",
+   "type": "lien_deplace",
+   "detail": "ancien chemin du site /pdf/… ; le même fichier est dans le corpus sous son URL officielle actuelle (pas un document manquant)",
+   "n": 19,
+   "exemples": [
+    "https://www.bank-of-algeria.dz/pdf/instructions1990/instruction0690.pdf",
+    "https://www.bank-of-algeria.dz/pdf/instructions1995/instruction7895.pdf",
+    "https://www.bank-of-algeria.dz/pdf/instructions1995/instruction7995.pdf",
+    "https://www.bank-of-algeria.dz/pdf/instructions2002/instruction042002.pdf",
+    "https://www.bank-of-algeria.dz/pdf/instructions2004/instruction012004.pdf",
+    "https://www.bank-of-algeria.dz/pdf/instructions2011/instruction042011.pdf"
+   ]
+  },
+  {
+   "niveau": "INFO",
+   "type": "ocr_uncertain",
+   "detail": "chunks arabes (OCR) dont une valeur numérique n'est pas corroborée par le texte français : signalés, jamais corrigés",
+   "n": 307,
+   "exemples": [
+    "INS-01-10.ar",
+    "INS-01-11.ar",
+    "INS-01-12.ar",
+    "INS-01-15.ar",
+    "INS-01-16.ar",
+    "INS-01-19.ar"
+   ]
+  },
+  {
+   "niveau": "BLOQUANT",
+   "type": "vecteurs_absents",
+   "detail": "D:\\llm\\index\\vec_67c681535ae2.npy absent : python -m agent_fr.build_vectors",
+   "n": null,
+   "exemples": []
+  }
+ ],
+ "documents": {
+  "fr": 757,
+  "ar": 327,
+  "und": 1
+ },
+ "chunks": {
+  "fr": 7789,
+  "ar": 3317,
+  "und": 6
+ },
+ "textes_distincts": {
+  "fr": 642,
+  "ar": 323,
+  "und": 1
+ },
+ "taille_chunks_car": {
+  "mediane": 332,
+  "max": 6252
+ },
+ "doublons": {
+  "textes_identiques_documents_differents": 3,
+  "copies_~N": 119
+ },
+ "extraction": {
+  "pdf_text": 778,
+  "mixed": 23,
+  "ocr": 284
+ },
+ "texte_illisible": {
+  "chunks_arabes_peu_arabes": 3,
+  "chunks_caracteres_controle": 2
+ },
+ "langues": {
+  "chunks_langue_incoherente": 1
+ },
+ "metadonnees": {
+  "champs_manquants": {
+   "date": 17,
+   "number": 22
+  },
+  "date_incoherente_avec_le_numero": 4
+ },
+ "chunks_controle": {
+  "identifiants_en_double": 0,
+  "chunks_vides": 0,
+  "sans_texte_avec_contexte": 0
+ },
+ "relations": {
+  "cibles_non_resolues": 16,
+  "reciproques_manquantes": 0,
+  "texte_modificateur_anterieur_a_sa_cible": 0
+ },
+ "jumeaux_ar": {
+  "ar_sans_jumeau_de_meme_work_id": 28,
+  "non_rattaches_avec_candidat_fr": 0,
+  "exceptions_documentees_conflit_de_date": 3,
+  "exceptions": [
+   "REG-02-01-20020220.ar",
+   "REG-06-01-20060514.ar",
+   "REG-90-01-19900604.ar"
+  ]
+ },
+ "relations_fr_ar": {
+  "textes_bilingues": 295,
+  "relations_differentes_entre_langues": 0
+ },
+ "liens_morts": {
+  "uniques": 19,
+  "MOVED_OFFICIAL": 19
+ },
+ "ocr_uncertain": {
+  "chunks": 307,
+  "documents": 155,
+  "jetons": 2049
+ },
+ "statut_juridique": {
+  "textes": 642,
+  "series": 2,
+  "articles_avec_statut": 170,
+  "amendements_non_resolus": 3,
+  "par_statut": {
+   "ACTIVE": 143,
+   "MODIFIED": 55,
+   "REPLACED": 21,
+   "ABROGATED": 56,
+   "HISTORICAL": 30,
+   "UNKNOWN": 337
+  }
+ },
+ "synthese": {
+  "A_CORRIGER": 2,
+  "INFO": 5,
+  "BLOQUANT": 1
+ }
+}
