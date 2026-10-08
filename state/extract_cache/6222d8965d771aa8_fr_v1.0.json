@@ -1,0 +1,32 @@
+{
+  "method": "pdf_text",
+  "pages": [
+    {
+      "page": 1,
+      "text": "INSTRUCTION N°62-94 DU 28 SEPTEMBRE 1994 \nPORTANT \"IDENTIFICATION BANCAIRE\" \nArticle 1er : La présente instruction a pour objet la mise en œuvre des dispositions du \nrèglement N° 94-12 du 02 Juin 1994, relatif aux principes de gestion et d'établissement \ndes normes dans le secteur financier. \n \nArticle 2 : Les normes définies par la présente instruction se rapportent à l'identification \nbancaire de la clientèle des banques et de toute autre institution émettrice d'instruments \nde paiement. \n \nArticle 3 : Cette instruction couvre la normalisation des éléments ci-après : \n \n- le numéro de compte bancaire (codes intérieurs de l'établissement émetteur \nd'instruments de paiement) ; \n- le relevé d'identité bancaire pour lequel est défini un \"Numéro d'Identité \nBancaire\" ; \n- l'identifiant national. \n \nArticle 4 : Le numéro de compte bancaire est composé de 15 caractères numériques \nrépartis impérativement dans l'ordre suivant : \n \n- 03 caractères pour le code agence ; \n- 10 caractères pour le numéro de compte individuel du client ; \n- 02 caractères pour la clé de contrôle du numéro de compte. \n \nLa clé de contrôle du numéro de compte est générée par l'application de la méthode \nModulo 97 donnée en appendice I-a de cette instruction. \n \nArticle 5 : Le relevé d'identité bancaire (RIB) est un document réunissant les principales \ninformations nécessaires à l'identification d'un client. Ce relevé doit être présenté par le \nclient à chaque fois que le banquier veut s'assurer de son identité bancaire. \n \nLes éléments composant le relevé d'identité bancaire sont : \n \n- les nom et prénoms ou raison sociale du titulaire du compte ; \n- l'intitulé en clair de l'établissement et de l'agence domiciliataire ; \n- le numéro d'identité bancaire composé de 18 caractères numériques structurés \ncomme suit : \n     * le code établissement : 3 caractères numériques, \n     * le numéro de compte bancaire : 15 caractères numériques répartis  \n        conformément à l'article 4 ci-dessus. \n \nLa forme du relevé, ses modes d'attribution et d'utilisation seront précisés ultérieurement \npar voie réglementaire. \n \nArticle 6 : L'identifiant national est un code sur 15 positions numériques permettant \nd'identifier de manière unique un client dans l'ensemble du système bancaire national en \nlui associant tous les comptes bancaires qu'il aura ouvert. \n \nLa structure de cet identifiant de même que ses modes d'attribution et d'utilisation seront \nprécisés par voie réglementaire. \n \nArticle 7 : La présente instruction entre en vigueur à compter du 1er Octobre 1994. \nLe Gouverneur \nAbdelouahab KERAMANE \n",
+      "method": "pdf_text",
+      "ocr_confidence": null,
+      "tables": []
+    },
+    {
+      "page": 2,
+      "text": " \nAPPENDICE I-a \nMéthode modulo 97 de calcul de la clé de contrôle du numéro de compte \na - Accoler de gauche à droite \n- les 3 chiffres du code agence ; \n- les 10 chiffres suivants du numéro de compte (si le numéro ainsi obtenu comporte moins \nde 10 caractères il sera cadré à droite et complété à gauche par des zéros). \nLes caractères alphabétiques éventuels du numéro de compte sont remplacés, mais seulement \npour le calcul de la clé, par l'équivalence numérique suivante : \nA B C D E F G H I \nJ K L M N O P Q R \nS T U V W X Y Z \n—————————— \n1 2 3 4 5 6 7 8 9 \nL'ensemble forme un nombre \"N\" de 13 chiffres \nb - Multiplier \"N\" par 100 = N' \nc - Diviser N' par 97 \nd - Soustraire le reste de cette division du nombre \"97\" \nLe résultat de cette soustraction représente la clé de contrôle des codes intérieurs. \n(Cette clé ne peut mathématiquement prendre que les valeurs de 01 à 97). \nCette clé peut être vérifiée comme suit : \n- accoler de gauche à droite (comme pour le calcul de la clé exposé précédemment), \n- les 3 chiffres du code agence, \n- les 10 chiffres du numéro de compte, \n- les 2 chiffres de la clé de contrôle. \nL'ensemble forme un nombre \"N\" de 15 chiffres  \n \n- diviser \"N\" par 97, \n- le reste doit être nul. \n",
+      "method": "pdf_text",
+      "ocr_confidence": null,
+      "tables": []
+    }
+  ],
+  "errors": [],
+  "page_count": 2,
+  "ocr_pages": 0,
+  "encrypted": false,
+  "metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - INSTRUCTION 32-91",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200809130007+01'00'",
+    "modDate": "D:20200809130007+01'00'"
+  }
+}

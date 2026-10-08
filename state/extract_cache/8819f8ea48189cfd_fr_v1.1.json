@@ -1,0 +1,46 @@
+{
+  "method": "pdf_text",
+  "pages": [
+    {
+      "page": 1,
+      "text": "INSTRUCTION N°64-94 DU 28 SEPTEMBRE 1994 PORTANT \nNORMALISATION DE LA CARTE BANCAIRE \nArticle 1er : La présente instruction a pour objet la mise en œuvre des dispositions du \nrèglement n° 94-12 du 02 Juin 1994, relatif aux principes de gestion et d'établissement \ndes normes dans le secteur financier. \nArticle 2 : Les normes définies par la présente instruction se rapportent à la carte \nbancaire nationale émise par les banques commerciales ou toute autre institution \némettrice d'instruments de paiement. \nArticle 3 : Cette instruction couvre la normalisation des éléments suivants : \n- les zones de marquage et d'estampage, \n- l'encodage des pistes magnétiques. \nArticle 4 : Les zones de marquage et d'estampage sont les zones réservées à la \npersonnalisation en clair et la personnalisation codée des informations selon les procédés \nappropriés. \nArticle 5 : L'encodage des pistes magnétiques consiste à inscrire sur les pistes \nmagnétiques de la carte, l'information codée à y porter avec un matériel et des logiciels \nspécifiques conformément aux normes internationales. \nArticle 6 : Les éléments techniques liés au traitement automatique des opérations de \nretrait d'espèces, et relatifs au support, à la codification, aux procédés d'encodage, aux \nfonctionnalités ainsi qu'aux protocoles d'échanges d'information sont définies dans les \ndeux annexes jointes à la présente instruction : \n- Annexe 1 : les zones de marquage et d'estampage ; \n- Annexe 2 : l'encodage des pistes magnétiques. \nArticle 7 : La présente instruction entre en vigueur à compter du 1er octobre 1994. \nLe Gouverneur \nAbdelouahab KERAMANE \n \n \n \n \n \n \n \n \n \n \n",
+      "method": "pdf_text",
+      "ocr_confidence": null,
+      "tables": []
+    },
+    {
+      "page": 2,
+      "text": " \nLA CARTE BANCAIRE \n \nANNEXE I - LES ZONES DE MARQUAGE ET D'ESTAMPAGE \n \nLa personnalisation de la carte bancaire est réalisée selon deux procédés : \n \n- la personnalisation en clair comprenant le marquage et l'estampage \n- la personnalisation codée qui consiste essentiellement en l'encodage des pistes \nmagnétiques ISO. \n \nI-1 LE MARQUAGE \n \nLe marquage est effectué conformément aux normes internationales, lors de la fabrication de la \ncarte et porte sur les éléments suivants : \n \n- au verso de la carte (partie inférieure gauche) un code indiquant l'atelier de fabrication, \nun numéro d'ordre et un numéro de lot doivent être imprimés ; \n- au recto de la carte (partie médiane) les quatre premiers numéros qui identifient la \nBanque émettrice doivent être imprimés au-dessus de la zone d'estampage ; \n- au recto de la carte (partie basse) la mention \"expire à fin\" ainsi qu'une flèche indiquant \nle sens d'introduction de la carte dans le distributeur automatique doivent être imprimés. \n \nI-2 - ESTAMPAGE (EMBOSSAGE) DES DONNEES \n \nL'estampage ou l'embossage consiste à faire apparaître des caractères en relief sur la surface recto \nde la carte. \n \nLa technique d'enregistrement ou d'impression par estampage est définie dans la norme ISO \nréf/7811 qui en spécifie les caractéristiques. \n \nLes caractéristiques et les emplacements sont précisés comme suit : \n \nI-3 - ZONE D'ESTAMPAGE \n \nLa zone d'estampage est située dans la partie basse de la carte, elle est constituée de quatre ligne \nregroupées en 02 zones qui sont : \n \nI-3-1 - Zone 1 \n \nConstituée par 01 ligne réservée pour le numéro de la carte qui identifie en même temps \nl'émetteur et le porteur de la carte. \n \nCette zone est appelée \"ligne du numéro d'identification\" dont les caractéristiques sont comme \nsuit : \n \nType caractères : FARRINGTON 7 B (Chiffres de 0 à 9 inclus) \nLongueur de la ligne  \n: 65,34 mm (+ ou - 1 mm) \nNombre de caractères  : 16 chiffres répartis par blocs de 4 \nDimension des caractères : \n                                         - hauteur nominale = 3,81 mm ; maximale = 5 mm \n                                         - largeur nominale = 2,03 mm ; maximale = 3,63 mm \nDimension des traits  : \n                                         - largeur nominale = 0,51 mm ; max = 0,76 mm ; min = 0,25 mm \nEspacement et alignement des caractères : \n                                         - Espacement nominal = 7 caractères au pouce \n                                         - Espacement horizontal minimal entre caractères = 0,38 mm \n                                         - Inclinaison du caractère = max 3° \n \nDistance entre la ligne médiane de la ligne du numéro d'identification et le bord inférieur de la \ncarte : 21,42 mm (+ ou - 0,12 mm) \n \nDistance entre la ligne médiane de la première position de caractère et le bord gauche de la carte : \n10,18 mm (+ ou - 0,25 mm). \n",
+      "method": "pdf_text",
+      "ocr_confidence": null,
+      "tables": []
+    },
+    {
+      "page": 3,
+      "text": "Espacement entre la zone 1 et la zone 2 = 3,7mm \n \nDéformation de la surface de la carte après estampage : ne doit pas dépasser 0,13mm. \n \n1.3.2 – Zone 2 \n \nConstituée de trois (03) lignes prévues pour recevoir les données qui identifient le porteur (nom, \nprénom, raison sociale et adresse) et la date de fin de validité de la carte. \n \nCette zone est appelée « zone du nom et de l’adresse ». \n \nType de caractères : OCR-B (alphanumérique). \nLongueur de chaque ligne = 7,65mm. \nNombre de caractères : 27 caractères. \nEspacement entre les caractères : 10 caractères au pouce. \nDimension de la zone : hauteur maximum = 14,53mm (pour les 03 lignes) \nMarge inférieure entre la zone et le bord inférieur de la carte : minimum = 2,41mm – maximum = \n3,30mm. \nDistance entre la ligne médiane de la première position de caractère de chaque ligne au côté \ngauche de la carte = 7,65mm (+ ou – 0,25mm) \n \nConfiguration du recto de la carte \n \n \n \n \nLe numéro d'identification ou numéro de carte est composé de 16 positions numériques \ndéfinies ci-dessous de gauche à droite : \n \n- Les positions 1 à 3 définissent l'organisme émetteur de la carte ; les codes utilisés sont \ncommuns à tous les moyens de paiement et sont définis par l'instruction n°94- ...... du ........... \nportant identification Bancaire. \n \n- La position 4 : Elle est réservée à une utilisation future ; elle est donc mise à zéro.- \n \n- La position 5 : Elle indique le standing de la carte : O : pour débit immédiat, 1 : pour débit \ndifféré, 2 : pour carte de crédit \n \n- La position 6 : Elle détermine les fonctionnalités de la carte : 1 : retrait GAB, 2 : carte de \npaiement, 3 : retrait et paiement \n \n- Les positions 7 à 15 : Elles servent à l'identification du porteur \n \nL'interopérabilité ne peut se faire sans une structure unique de l'identificateur du porteur. Aussi, \nces 9 positions ont été codées comme suit : \n \n- 3 positions numériques pour le code agence, \n- 1 position numérique pour le compte général, \n- 5 positions numériques pour le compte particulier \n \n- La position 16 : Indique la clé de contrôle calculée à partir de la formule de LUHN (algorithme \nde calcul). \n \n \n \n \n",
+      "method": "pdf_text",
+      "ocr_confidence": null,
+      "tables": []
+    },
+    {
+      "page": 4,
+      "text": " \n \nANNEXE II – L’ENCODAGE DES PISTES MAGNETIQUES \n \n \nLa carte contient au verso une bande qui renferme trois pistes ISO1, ISO2, ISO3. \n \nLes caractéristiques du matériau magnétique des pistes et la technique d’encodage sont définies \npar les normes ISO références 7811/2 à 5. \n \nIl est à souligner que ces caractéristiques sont extrêmement importantes car elles sont prises en \ncompte par les constructeurs de guichets automatiques au plan Hardware et Software. \n \nLe codage (écriture sur les Pistes ISO2 – ISO3) s’effectue avec du matériel et des logiciels \nspécifiques conformément au descriptif des pistes et aux normes internationales ISO (références \nISO 7813 et ISO 4909). \n \nLa mise en place du système carte bancaire nationale, impliquant l’interopérabilité et \nl’interbancarité des GAB/DAB, requiert la normalisation du contenu informationnel de nombreux \nchamps des pistes ISO2 et ISO3. Le contenu de ces normes, lié à l’aspect sécurité du système, \nsera détenu par une institution habilité, et devra être scrupuleusement respecté par toutes les \nparties concernées. \n \n",
+      "method": "pdf_text",
+      "ocr_confidence": null,
+      "tables": []
+    }
+  ],
+  "errors": [],
+  "page_count": 4,
+  "ocr_pages": 0,
+  "encrypted": false,
+  "metadata": {
+    "format": "PDF 1.4",
+    "title": "Microsoft Word - INSTRUCTION N64-94",
+    "author": "redouane.mouadene",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.61",
+    "creationDate": "D:20200810113038+01'00'",
+    "modDate": "D:20200810113038+01'00'"
+  }
+}
