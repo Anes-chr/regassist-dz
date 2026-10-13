@@ -335,7 +335,7 @@ class Service:
         if self._warm["state"] in ("pending", "running"):
             raise ServiceError(503, "warming_up", "Le service démarre. Réessayez dans quelques secondes.")
         if not self._lock.acquire(blocking=False):
-            raise ServiceError(429, "busy", "Une question est déjà en cours de traitement. Attendez la fin de la réponse.")
+            raise ServiceError(429, "busy", "Une question est déjà en cours de traitement (peut-être celle d'un autre utilisateur). Réessayez dans quelques secondes.")
         status, out, llm_up, n_src, err = "error", {}, False, 0, None
         try:
             llm_up = bool(self._llm_fresh().get("online"))

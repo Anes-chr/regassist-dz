@@ -142,7 +142,7 @@ Codes d'erreur : `400` `invalid_request` / `invalid_json` / `empty_question` / `
 
 ## 8. Sécurité (vérifications réelles : voir § 12)
 
-* **Écoute locale seulement** : `127.0.0.1` (constante du code, non configurable). Vérifié au niveau du système (sockets en écoute de l'application et de llama-server).
+* **Écoute locale seulement par défaut** : `127.0.0.1` (constante du code). Vérifié au niveau du système (sockets en écoute de l'application et de llama-server). Une **option explicite** (`-Lan`, § 15) ajoute l'écoute sur l'adresse privée de la machine, avec code d'accès ; llama-server reste sur `127.0.0.1` dans tous les cas.
 * **Aucune requête sortante** : le serveur ne contacte que 127.0.0.1:8187 (llama-server) ; l'échantillonnage des connexions de son processus pendant une vraie question n'a vu que des adresses de bouclage. Le navigateur n'a besoin d'aucune ressource externe (test avec un navigateur dont toute résolution DNS externe échoue).
 * **Pas de télémétrie, pas d'analyse, pas de CDN, pas de script distant** ; politique CSP stricte (`default-src 'none'; script-src 'self'; style-src 'self'; connect-src 'self'; frame-ancestors 'none'…`) ; pas de style ni de script en ligne.
 * **LLM distant désactivé** : aucune API OpenAI/Anthropic n'est appelée ; même si l'environnement demande `AGENT_LLM=anthropic`, l'application force le LLM local (testé avec une fausse clé). Aucune clé n'existe dans l'interface ni dans les réponses (balayage automatique).
@@ -190,6 +190,7 @@ Tout fonctionne sans Internet : modèles, corpus, index, LLM et interface sont l
 ```powershell
 python local_app/tests/test_api.py          # API, faux agent, sans modèle : « Tests API : X/Y »
 python local_app/tests/test_ui.py           # interface dans Edge/Chrome sans fenêtre : « Tests UI : X/Y »
+python local_app/tests/test_lan.py          # mode réseau optionnel (§ 15) : code d'accès, sessions, blocage, hôtes, liaisons : « Tests réseau : X/Y »
 python local_app/tests/test_integration.py  # RÉEL : navigateur → API → agent → retrieval → reranker → llama-server (llama-server en ligne)
                                             #   (LOCAL_APP_URL=http://127.0.0.1:8790 pour viser le déploiement déjà démarré)
 python -m agent_fr.eval.human.freeze_phase4 verify   # le système gelé n'a pas bougé
@@ -204,8 +205,41 @@ Résultats au 7 octobre 2026 (sur le déploiement démarré par `start_local.ps1
 
 ## 14. Retour arrière
 
-`.\stop_local.ps1`, puis supprimer `local_app\`, `start_local.ps1`, `stop_local.ps1`, `docs\LOCAL_DEPLOYMENT.md`, `docs\LOCAL_UI.md`. Rien d'autre n'a été créé ni modifié dans le projet : le système gelé est strictement identique (vérifiable par `freeze_phase4 verify`). L'ancienne interface (`python -m agent_fr --serve`, port 8765) et `llm_local\start_server.ps1` fonctionnent comme avant. L'historique de l'interface vit dans le navigateur (le vider : bouton « Effacer l'historique »).
+`.\stop_local.ps1` (et `.\lan_firewall.ps1 -Remove` si la règle du pare-feu a été créée), puis supprimer `local_app\`, `start_local.ps1`, `stop_local.ps1`, `lan_firewall.ps1`, `docs\LOCAL_DEPLOYMENT.md`, `docs\LOCAL_UI.md`. Rien d'autre n'a été créé ni modifié dans le projet : le système gelé est strictement identique (vérifiable par `freeze_phase4 verify`). L'ancienne interface (`python -m agent_fr --serve`, port 8765) et `llm_local\start_server.ps1` fonctionnent comme avant. L'historique de l'interface vit dans le navigateur (le vider : bouton « Effacer l'historique »).
 
-## 15. Limites connues
+## 15. Accès depuis le réseau local (option `-Lan`, désactivée par défaut)
+
+Permet à des collègues du même réseau d'utiliser l'assistant **depuis leur navigateur**, sans rien installer. Ce n'est pas un partage de fichiers : l'application tourne sur CETTE machine (processeur, mémoire et modèle de cette machine) ; les autres ne font qu'afficher la page.
+
+```powershell
+.\lan_firewall.ps1               # facultatif, administrateur : règle étroite du pare-feu Windows (voir « Pare-feu » ci-dessous)
+.\start_local.ps1 -Lan           # [-AccessCode CODE] [-LanIp 10.x.y.z]
+```
+
+Le script affiche les adresses (`http://NOM-DE-LA-MACHINE:8790` et `http://ADRESSE-IP:8790`) et le **code d'accès**, une seule fois. Les collègues ouvrent l'adresse, saisissent le code, puis utilisent l'interface normale. Retour au mode local : `.\stop_local.ps1` puis `.\start_local.ps1`.
+
+**Garde-fous**
+
+| Garde-fou | Détail |
+|---|---|
+| Désactivé par défaut | sans `-Lan`, rien ne change : écoute sur `127.0.0.1` seulement, aucun code |
+| Une seule adresse réseau | l'application écoute sur `127.0.0.1` **et** sur l'adresse privée choisie (détectée sur la carte du réseau d'entreprise, ou `-LanIp`), **jamais sur toutes les cartes** : les cartes VMware et Hyper-V ne sont pas exposées. Refus d'une adresse publique, de la boucle locale ou d'une adresse inconnue |
+| Code obligatoire | 8 caractères au minimum (12 caractères aléatoires lisibles générés par défaut, ~59 bits). Sans code valide l'application refuse de démarrer. Comparaison en temps constant, jamais journalisé |
+| Tout est derrière le code | page, scripts et API ; seules la page d'accès, sa feuille de style et la sonde `/api/health` (qui répond « ok ») restent publiques. Le code s'applique aussi à `127.0.0.1` |
+| Sessions | cookie aléatoire de 12 h, `HttpOnly`, `SameSite=Strict` ; une session expirée renvoie à la page d'accès |
+| Essais limités | 5 codes faux depuis une même adresse bloquent cette adresse 5 minutes |
+| Noms d'hôte | l'en-tête `Host` doit être un nom de cette machine (nom court, nom complet, adresse) ; garde contre le « DNS rebinding » conservée. Noms supplémentaires : `LOCAL_APP_LAN_HOSTS=nom1,nom2` |
+| Une question à la fois | un collègue qui arrive pendant une génération reçoit « Une question est déjà en cours de traitement (peut-être celle d'un autre utilisateur). Réessayez dans quelques secondes. » (une réponse prend ~20 s sur ce processeur) |
+| Pas de nouvelle donnée collectée | le texte des questions n'est toujours pas journalisé ; seuls les essais de connexion (réussis ou non) sont journalisés avec l'adresse de la machine appelante |
+
+**Pare-feu.** `lan_firewall.ps1` crée la règle la plus étroite possible : entrant, TCP, **ce port seulement**, profil **Domaine** seulement, depuis le **sous-réseau local** seulement, pour le **programme Python du projet** seulement ; `-Remove` la supprime. Si le pare-feu Windows est désactivé sur la machine (c'est le cas sur la machine d'origine), la règle est sans effet et le port est joignable par tout le réseau : le code d'accès est alors la seule protection ; `start_local.ps1 -Lan` l'indique.
+
+**Ce que cette option ne fait pas.** Pas de chiffrement (HTTP) : questions et réponses circulent en clair sur le réseau, ce qui se limite ici à des questions sur des textes publics ; pas de comptes individuels (un code partagé, à changer en relançant) ; serveur de développement Werkzeug, adapté à quelques testeurs et pas à un large public ; la machine doit rester allumée, session ouverte, application lancée (`llama-server` s'arrête à la fermeture de la session qui l'a démarré). Elle ne rend pas Internet accessible : toute adresse non privée est refusée.
+
+**Organisation.** Sur une machine d'entreprise (domaine, politique de sécurité), exposer un service sur le réseau est une décision de la sécurité informatique, pas seulement de l'utilisateur de la machine. L'interface garde l'avertissement « projet éducatif non officiel » et la page d'accès le répète.
+
+**Vérifié le 13 octobre 2026** : `test_lan.py` 14/14 (faux agent, aucune adresse réelle) ; démarrage réel avec `-Lan` sur l'adresse du réseau d'entreprise de cette machine, puis, **depuis cette même machine** (pas depuis un autre poste) : redirection vers la page d'accès sans session, 401 sur l'API, 403 pour un en-tête `Host` usurpé, refus d'un faux code, ouverture d'une session avec le bon code, accès par le nom de la machine, vraie question posée par ce chemin et répondue ; sockets en écoute : `127.0.0.1:8790` et `<adresse du réseau>:8790` uniquement ; en mode local par défaut, test d'intégration 13/13 (écoute sur la boucle locale seulement) et test d'interface 23/23. **Non vérifié** : la connexion réelle depuis une autre machine (c'est l'objet de l'essai demandé à un collègue).
+
+## 16. Limites connues
 
 Une seule question à la fois ; pas de flux ni d'annulation (le pipeline gelé n'en fournit pas) ; pas de mémoire de conversation ; `werkzeug` est un serveur de développement, suffisant pour un usage mono-utilisateur sur 127.0.0.1 mais à ne pas exposer ; interface testée seulement sous Edge/Chrome. Les limites et cas connus du système lui-même (H120, H129, conflits de dates FR/AR, OCR arabe, validation humaine absente) restent ceux de `docs/PHASE_4_FROZEN.md` et `docs/NOTE_AU_JURISTE.md`.

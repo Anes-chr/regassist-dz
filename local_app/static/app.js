@@ -327,6 +327,7 @@
     state.busy = true; updateComposer(); showQuestion(q); renderLoading();
     try {
       const res = await fetch('/api/chat', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ question: q }) });
+      if (res.status === 401) { location.assign('/login'); return; }          // mode réseau : session expirée → page du code d'accès
       let data = null; try { data = await res.json(); } catch (e) { data = null; }
       if (!res.ok || !data || data.error) {
         renderError((data && data.error && data.error.message) || 'Le service a répondu par une erreur (' + res.status + ').');
@@ -348,6 +349,7 @@
   async function refreshStatus() {
     try {
       const res = await fetch('/api/status', { cache: 'no-store' });
+      if (res.status === 401) { location.assign('/login'); return; }
       if (!res.ok) throw new Error('status ' + res.status);
       state.status = await res.json(); state.reachable = true;
       state.maxQ = (state.status.limits && state.status.limits.max_question_chars) || DEFAULT_MAX_Q;

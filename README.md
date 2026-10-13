@@ -43,6 +43,8 @@ pip install -r requirements.txt
 .\stop_local.ps1           # arrêt
 ```
 
+**Pour que des collègues l'utilisent depuis leur navigateur** (option, désactivée par défaut) : `.\start_local.ps1 -Lan` ouvre l'accès sur le réseau local avec un code d'accès (affiché une seule fois). L'application tourne sur votre machine ; les autres ne font qu'afficher la page. À n'activer qu'avec l'accord de la sécurité informatique si la machine appartient à une organisation. Garde-fous et limites : [docs/LOCAL_DEPLOYMENT.md](docs/LOCAL_DEPLOYMENT.md) § 15.
+
 **Sur une autre machine** : le dépôt contient le corpus et les données de gel ; les modèles sont téléchargés et vérifiés par un script.
 
 ```powershell
@@ -69,7 +71,8 @@ Prérequis, vérifications et limites : [docs/REPLICATION.md](docs/REPLICATION.m
 | `tests/` | tests du système |
 | `docs/` | documentation |
 | `PHASE_4_FROZEN` | marqueur du gel ; le manifeste d'empreintes est `agent_fr/eval/human/PHASE_4_FROZEN.manifest.json` |
-| `start_local.ps1`, `stop_local.ps1` | démarrage et arrêt de l'application locale |
+| `start_local.ps1`, `stop_local.ps1` | démarrage et arrêt de l'application locale (`-Lan` : accès réseau avec code) |
+| `lan_firewall.ps1` | règle étroite du pare-feu Windows pour l'accès réseau (facultatif) |
 
 **Hors dépôt** : les modèles (trop gros pour Git, téléchargés par `replication/setup_machine.ps1`), les caches et les journaux d'exécution.
 
@@ -87,6 +90,7 @@ L'application locale (`local_app/`) n'est qu'une couche d'accès : elle appelle 
 
 ```powershell
 python local_app/tests/test_api.py          # API, avec un faux agent (sans modèle)
+python local_app/tests/test_lan.py          # accès réseau optionnel : code d'accès, sessions, blocage, liaisons
 python local_app/tests/test_ui.py           # interface dans Edge/Chrome sans fenêtre (Node >= 22)
 python local_app/tests/test_integration.py  # chaîne réelle de bout en bout (application démarrée)
 python tests/test_phase5_freeze.py          # tests du système : un script par thème (tests/test_*.py : agent, pipeline, statut juridique, OCR, gel…)
@@ -117,7 +121,7 @@ python tests/test_phase5_freeze.py          # tests du système : un script par 
 
 ## Sécurité et confidentialité
 
-L'application écoute uniquement sur `127.0.0.1`, n'émet aucune requête sortante (hors clic de l'utilisateur sur un lien vers un PDF officiel), n'utilise aucune API distante et ne journalise pas le texte des questions par défaut. Voir [docs/LOCAL_DEPLOYMENT.md](docs/LOCAL_DEPLOYMENT.md) § 8.
+Par défaut, l'application écoute uniquement sur `127.0.0.1` (l'accès réseau `-Lan` est une option explicite, protégée par un code), n'émet aucune requête sortante (hors clic de l'utilisateur sur un lien vers un PDF officiel), n'utilise aucune API distante et ne journalise pas le texte des questions par défaut. Voir [docs/LOCAL_DEPLOYMENT.md](docs/LOCAL_DEPLOYMENT.md) § 8.
 
 ## Licence, données et responsabilité
 
