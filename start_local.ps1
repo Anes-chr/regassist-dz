@@ -79,6 +79,8 @@ if ($Lan) {
     }
 }
 
+Remove-Item (Join-Path $Runtime 'stopped_by_user.flag') -Force -ErrorAction SilentlyContinue         # un demarrage explicite releve l'arret demande a la main (superviseur)
+
 # ---- 2. Deja demarre ? (jamais deux instances) ----
 $state = $null
 if (Test-Path $PidFile) { try { $state = Get-Content $PidFile -Raw | ConvertFrom-Json } catch { $state = $null } }

@@ -1,11 +1,14 @@
 # Arrete UNIQUEMENT les processus lances par .\start_local.ps1 (enregistres dans local_app\runtime\pids.json avec leur heure de demarrage).
 # Ne touche jamais aux autres processus Python ni a un llama-server que vous aviez lance vous-meme.
 # Usage : .\stop_local.ps1 [-KeepLlm]     (-KeepLlm : laisse tourner le llama-server demarre par start_local.ps1)
+# Un arret demande ici est DEFINITIF pour le superviseur (keep_running.ps1, voir autostart.ps1) : il laisse un drapeau (local_app\runtime\stopped_by_user.flag)
+# et ne relance plus le service tant qu'un .\start_local.ps1 manuel (ou .\autostart.ps1 -Resume) ne l'a pas efface. -Supervised : usage interne du superviseur.
 # Fichier ASCII (PowerShell 5.1).
-param([switch]$KeepLlm)
+param([switch]$KeepLlm, [switch]$Supervised)
 $ErrorActionPreference = 'Stop'
 $Root = $PSScriptRoot
 $PidFile = Join-Path $Root 'local_app\runtime\pids.json'
+if (-not $Supervised) { $null = New-Item -ItemType Directory -Force (Join-Path $Root 'local_app\runtime'); Set-Content -Path (Join-Path $Root 'local_app\runtime\stopped_by_user.flag') -Value (Get-Date -Format 's') -Encoding ASCII }
 
 function Same-Process([int]$id, $startedIso, [string]$nameLike) {
     $p = Get-Process -Id $id -ErrorAction SilentlyContinue

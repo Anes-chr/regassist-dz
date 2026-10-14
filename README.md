@@ -43,7 +43,7 @@ pip install -r requirements.txt
 .\stop_local.ps1           # arrêt
 ```
 
-**Pour que des collègues l'utilisent depuis leur navigateur** (option, désactivée par défaut) : `.\start_local.ps1 -Lan` ouvre l'accès sur le réseau local avec un code d'accès (affiché une seule fois). L'application tourne sur votre machine ; les autres ne font qu'afficher la page. À n'activer qu'avec l'accord de la sécurité informatique si la machine appartient à une organisation. Garde-fous et limites : [docs/LOCAL_DEPLOYMENT.md](docs/LOCAL_DEPLOYMENT.md) § 15.
+**Pour que des collègues l'utilisent depuis leur navigateur** (option, désactivée par défaut) : `.\start_local.ps1 -Lan` ouvre l'accès sur le réseau local avec un code d'accès (affiché une seule fois). L'application tourne sur votre machine ; les autres ne font qu'afficher la page. À n'activer qu'avec l'accord de la sécurité informatique si la machine appartient à une organisation. Garde-fous et limites : [docs/LOCAL_DEPLOYMENT.md](docs/LOCAL_DEPLOYMENT.md) § 15. Pour que le service reste allumé et redémarre seul après un plantage : `.\autostart.ps1 -Install -Lan -NoCode` (§ 17).
 
 **Sur une autre machine** : le dépôt contient le corpus et les données de gel ; les modèles sont téléchargés et vérifiés par un script.
 
@@ -73,6 +73,7 @@ Prérequis, vérifications et limites : [docs/REPLICATION.md](docs/REPLICATION.m
 | `PHASE_4_FROZEN` | marqueur du gel ; le manifeste d'empreintes est `agent_fr/eval/human/PHASE_4_FROZEN.manifest.json` |
 | `start_local.ps1`, `stop_local.ps1` | démarrage et arrêt de l'application locale (`-Lan` : accès réseau avec code) |
 | `lan_firewall.ps1` | règle étroite du pare-feu Windows pour l'accès réseau (facultatif) |
+| `autostart.ps1`, `keep_running.ps1` | tâche planifiée et superviseur qui gardent le service allumé et le relancent s'il tombe |
 
 **Hors dépôt** : les modèles (trop gros pour Git, téléchargés par `replication/setup_machine.ps1`), les caches et les journaux d'exécution.
 

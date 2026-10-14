@@ -205,7 +205,7 @@ Résultats au 7 octobre 2026 (sur le déploiement démarré par `start_local.ps1
 
 ## 14. Retour arrière
 
-`.\stop_local.ps1` (et `.\lan_firewall.ps1 -Remove` si la règle du pare-feu a été créée), puis supprimer `local_app\`, `start_local.ps1`, `stop_local.ps1`, `lan_firewall.ps1`, `docs\LOCAL_DEPLOYMENT.md`, `docs\LOCAL_UI.md`. Rien d'autre n'a été créé ni modifié dans le projet : le système gelé est strictement identique (vérifiable par `freeze_phase4 verify`). L'ancienne interface (`python -m agent_fr --serve`, port 8765) et `llm_local\start_server.ps1` fonctionnent comme avant. L'historique de l'interface vit dans le navigateur (le vider : bouton « Effacer l'historique »).
+`.\autostart.ps1 -Uninstall` (si la tâche planifiée a été installée), `.\stop_local.ps1` (et `.\lan_firewall.ps1 -Remove` si la règle du pare-feu a été créée), puis supprimer `local_app\`, `start_local.ps1`, `stop_local.ps1`, `lan_firewall.ps1`, `autostart.ps1`, `keep_running.ps1`, `docs\LOCAL_DEPLOYMENT.md`, `docs\LOCAL_UI.md`. Rien d'autre n'a été créé ni modifié dans le projet : le système gelé est strictement identique (vérifiable par `freeze_phase4 verify`). L'ancienne interface (`python -m agent_fr --serve`, port 8765) et `llm_local\start_server.ps1` fonctionnent comme avant. L'historique de l'interface vit dans le navigateur (le vider : bouton « Effacer l'historique »).
 
 ## 15. Accès depuis le réseau local (option `-Lan`, désactivée par défaut)
 
@@ -245,3 +245,25 @@ Le script affiche les adresses (`http://NOM-DE-LA-MACHINE:8790` et `http://ADRES
 ## 16. Limites connues
 
 Une seule question à la fois ; pas de flux ni d'annulation (le pipeline gelé n'en fournit pas) ; pas de mémoire de conversation ; `werkzeug` est un serveur de développement, suffisant pour un usage mono-utilisateur sur 127.0.0.1 mais à ne pas exposer ; interface testée seulement sous Edge/Chrome. Les limites et cas connus du système lui-même (H120, H129, conflits de dates FR/AR, OCR arabe, validation humaine absente) restent ceux de `docs/PHASE_4_FROZEN.md` et `docs/NOTE_AU_JURISTE.md`.
+
+## 17. Garder le service allumé en continu (`autostart.ps1`)
+
+Un service lancé depuis une fenêtre ou depuis un outil (par exemple l'application Claude) s'arrête avec elle : c'est ce qui s'est produit le 14 octobre 2026 quand cette application a redémarré. `autostart.ps1` installe un **superviseur** indépendant :
+
+```powershell
+.\autostart.ps1 -Install -Lan -NoCode     # ou -Lan -AccessCode CODE, ou sans -Lan (mode local seulement)
+.\autostart.ps1 -Status                   # tâche, superviseur, état du service, fin du journal
+.\autostart.ps1 -Resume                   # relève un arrêt manuel
+.\autostart.ps1 -Uninstall                # supprime la tâche et arrête le service
+```
+
+| Élément | Détail |
+|---|---|
+| Tâche planifiée | une seule, nommée « RegAssist DZ keep running », au nom de l'utilisateur courant, déclenchée **à l'ouverture de session**, sans droit d'administrateur et sans mot de passe stocké ; relancée toutes les minutes si elle s'arrête ; sans limite de durée ; pas d'arrêt sur batterie |
+| Superviseur `keep_running.ps1` | toutes les 30 s il teste l'application (`/api/health`) et le modèle (`llama-server /health`) ; après **2 contrôles ratés** il arrête ce que `start_local.ps1` avait lancé puis le relance avec les mêmes options. Journal : `local_app\runtime\keep_running.log` (200 Ko au plus, le code d'accès n'y figure jamais) |
+| Arrêt manuel respecté | `.\stop_local.ps1` laisse un drapeau (`local_app\runtime\stopped_by_user.flag`) : le superviseur ne relance plus rien tant que `.\autostart.ps1 -Resume` ou un `.\start_local.ps1` manuel ne l'a pas levé |
+| Hors de toute fenêtre | le service est un descendant du Planificateur de tâches (`svchost` → `powershell` du superviseur), pas de l'application qui l'a installé |
+
+**Ce que ça garantit, et ce que ça ne garantit pas.** Le service reste allumé session **verrouillée** ou non, et revient seul après un plantage (~1 minute) ou après la fermeture d'une fenêtre. Il s'arrête à la **fermeture de session**, à l'arrêt ou au redémarrage de Windows, et ne repart qu'à la **prochaine ouverture de session** de l'utilisateur. Le rendre disponible avant toute ouverture de session exigerait une tâche système avec droits d'administrateur et un compte stocké, ou l'ouverture automatique de session : ce sont des choix de sécurité de l'organisation et ils ne sont pas faits ici. Avec `-AccessCode`, le code fait partie de la commande de la tâche (lisible par l'utilisateur et les administrateurs de la machine) ; avec `-NoCode`, aucun secret n'est stocké.
+
+**Vérifié le 14 octobre 2026** : installation sans droit d'administrateur ; service démarré par la tâche ; descendance du processus vérifiée (Planificateur de tâches, aucune dépendance à l'application Claude) ; plantage simulé (processus tué) → service de retour en 66 s ; arrêt manuel respecté (aucune relance après 80 s) puis `-Resume` → service de retour en 56 s. **Non vérifié** : le comportement après fermeture de session / redémarrage de Windows (il repose sur le déclencheur « à l'ouverture de session » de la tâche planifiée).
