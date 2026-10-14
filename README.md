@@ -91,6 +91,7 @@ L'application locale (`local_app/`) n'est qu'une couche d'accès : elle appelle 
 
 ```powershell
 python local_app/tests/test_api.py          # API, avec un faux agent (sans modèle)
+python local_app/tests/test_smalltalk.py    # messages de courtoisie (« Bonjour », « Merci », « Qui es-tu ? »)
 python local_app/tests/test_lan.py          # accès réseau optionnel : code d'accès, sessions, blocage, liaisons
 python local_app/tests/test_ui.py           # interface dans Edge/Chrome sans fenêtre (Node >= 22)
 python local_app/tests/test_integration.py  # chaîne réelle de bout en bout (application démarrée)

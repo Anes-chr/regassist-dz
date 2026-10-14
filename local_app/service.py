@@ -3,7 +3,8 @@
 Rôle : valider la question, appeler `agent_fr.agent.ask(question, use_llm=True)` TELLE QUELLE (mêmes paramètres que l'interface existante), puis
 mettre la sortie en forme pour l'interface (retirer ce qui est interne, signaler l'état du LLM, mesurer les durées). Aucune règle juridique,
 aucun score, aucun seuil n'est ajouté, modifié ou réinterprété ici : `status` ci-dessous ne fait que NOMMER ce que `found`, `mode`, `clarify`
-et `reason` de la sortie de l'agent disent déjà.
+et `reason` de la sortie de l'agent disent déjà. Seule exception, hors du moteur : les messages de pure courtoisie (« Bonjour », « Merci », « Qui es-tu ? »)
+reçoivent une réponse fixe (`status` = « smalltalk », voir smalltalk.py) au lieu d'être traités comme des questions de recherche.
 """
 import hashlib
 import json
@@ -19,6 +20,7 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 from . import config as C
+from . import smalltalk
 
 LOG = logging.getLogger("local_app")
 _CONTROL = re.compile(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]")
@@ -329,9 +331,21 @@ class Service:
         }
 
     # ----- /api/chat -----
+    def _smalltalk(self, q: str, st: dict, t_api: float) -> dict:
+        """Salutation, remerciement, « qui es-tu » : réponse fixe, sans recherche ni modèle, sans attendre la file des questions."""
+        ms = round((time.perf_counter() - t_api) * 1000)
+        self.log("chat", status="smalltalk", kind=st["kind"], question_chars=len(q), question=q if C.log_questions() else None, sources=0, total_ms=ms)
+        return {"question": q, "status": "smalltalk", "found": False, "clarify": False, "mode": "smalltalk", "reason": "smalltalk", "answer": st["reply"],
+                "citations": [], "sources": [], "notes": [], "disclaimer": None, "model": None, "provider": None, "retriever": None, "latency_s": None,
+                "timings": {}, "durations_ms": {"api": ms, "pipeline": None, "retrieval": None, "reranking": None, "generation": None},
+                "llm": {"requested": False, "available": None, "message": None}, "texts": [], "texts_intro": None}
+
     def chat(self, data) -> dict:
         t_api = time.perf_counter()
         q = validate_payload(data)
+        st = smalltalk.classify(q)
+        if st is not None:                                                       # message de courtoisie : jamais transmis au moteur gelé (voir smalltalk.py)
+            return self._smalltalk(q, st, t_api)
         if self._warm["state"] in ("pending", "running"):
             raise ServiceError(503, "warming_up", "Le service démarre. Réessayez dans quelques secondes.")
         if not self._lock.acquire(blocking=False):

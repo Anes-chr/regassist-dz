@@ -228,6 +228,21 @@ test('pas de réponse directe : intitulé distinct de la référence affiché su
   assert.equal(await text('#answer .text-title'), 'Recueil des dispositions relatives aux opérations de change');
 });
 
+test('courtoisie : « Bonjour » reçoit un accueil, pas un refus ; aucune source, aucun détail technique', async () => {
+  await fresh();
+  await ask('Bonjour'); await waitFor(`document.querySelector('#answer .ans-text')`, 'accueil');
+  const a = await text('#answer');
+  assert.match(a, /^Bonjour !/);
+  assert.ok(a.includes('assistant éducatif non officiel') && a.includes("Quel est le plafond d'indemnisation par déposant"), a);
+  assert.ok(!/Aucune réponse établie|Je ne trouve pas de disposition|Cela ne prouve pas/.test(a), 'présenté comme un refus : ' + a);
+  assert.equal(await exists('#answer .callout'), false, 'pas de cadre de refus ni d\'avertissement');
+  assert.equal(await count('#sources .source'), 0);
+  assert.match(await text('#sources'), /Aucune source : ce message n'est pas une question sur un texte réglementaire/);
+  await assertNoTechnicalDetail('courtoisie');
+  await ask('Merci'); await waitFor(`document.querySelector('#answer .ans-text') && document.querySelector('#answer .ans-text').innerText.startsWith('Avec plaisir')`, 'remerciement');
+  assert.equal(await count('#history-list .hist-item'), 2);                      // chaque message reste dans l'historique du navigateur
+});
+
 test('pas de réponse directe : aucune liste quand aucun texte n\'a été retrouvé (refus de la recherche)', async () => {
   await fresh();
   await ask('REFUS capitale de la France'); await waitFor(`document.querySelector('#answer .callout-info')`, 'refus');

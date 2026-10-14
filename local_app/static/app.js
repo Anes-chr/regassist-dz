@@ -189,7 +189,7 @@
     const box = $('sources'); box.replaceChildren();
     const list = r.sources || [];
     const cited = new Set(r.status === 'answered' ? (r.citations || []).map((c) => c.id) : []);
-    if (!list.length) { box.append(el('p', 'placeholder', r.status === 'clarification' ? 'Aucune source : la question doit d\'abord être précisée.' : 'Aucune source retenue pour cette question.')); return; }
+    if (!list.length) { box.append(el('p', 'placeholder', r.status === 'clarification' ? 'Aucune source : la question doit d\'abord être précisée.' : r.status === 'smalltalk' ? 'Aucune source : ce message n\'est pas une question sur un texte réglementaire.' : 'Aucune source retenue pour cette question.')); return; }
     const sub = {
       answered: list.length + ' passage(s) utilisé(s) pour la réponse ; ceux qu\'elle cite sont signalés. Extraits reproduits tels quels.',
       refused: list.length + ' passage(s) examiné(s) : aucun n\'a permis d\'établir une réponse. Ils ne constituent pas une réponse.',
@@ -269,6 +269,8 @@
       }
       box.append(el('p', 'ans-label', 'Cela ne prouve pas qu\'aucune disposition n\'existe : reformulez la question (texte, numéro, article, période) ou consultez directement les textes officiels.'));
       if (notes.length) box.append(callout('warn', 'Précisions', null, notes.map(plain)));
+    } else if (r.status === 'smalltalk') {
+      const t = el('div', 'ans-text'); (r.answer || '').split('\n\n').forEach((p) => t.append(el('p', null, p))); box.append(t);
     } else if (r.status === 'clarification') {
       box.append(callout('info', 'Précision nécessaire', r.answer || ''));
       if (notes.length) box.append(callout('warn', 'Précisions', null, notes.map(plain)));

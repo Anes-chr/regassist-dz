@@ -119,7 +119,7 @@ Même origine que l'interface. Toutes les erreurs ont la forme `{"error": {"code
 | `GET /api/status` | état **contrôlé** : `phase`, `status`, `status_reasons`, `freeze` (empreinte du manifeste), `app.state` (`starting`/`ready`/`degraded`/`error`), `agent`, `retrieval` (`ready`, `engine`, `fallback`), `reranker`, `llm` (`online`, `model`, `local_only`, `message`), `corpus`, `remote_llm`, `ocr_experimental`, `ocr_uncertain_active`, `limits` |
 | `POST /api/chat` | corps `{"question": "..."}` (aucun autre champ accepté) |
 
-Réponse de `/api/chat` : celle de l'agent, sans les champs internes, plus `status` (`answered`, `refused`, `clarification`, `llm_unavailable`), `llm` (`requested`, `available`, `message`), `durations_ms` (`api`, `pipeline`, `retrieval`, `reranking`, `generation`) :
+Réponse de `/api/chat` : celle de l'agent, sans les champs internes, plus `status` (`answered`, `refused`, `clarification`, `llm_unavailable`, `smalltalk`), `llm` (`requested`, `available`, `message`), `durations_ms` (`api`, `pipeline`, `retrieval`, `reranking`, `generation`) :
 
 ```json
 {"question": "...", "status": "answered", "found": true, "clarify": false, "mode": "llm", "reason": "ok",
@@ -134,7 +134,7 @@ Quand il n'y a pas de réponse directe mais que des textes ont été retrouvés 
 
 Source : `id, chunk_id, texte, titre, type, article, emplacement, chapitre, section, page, page_fin, date, statut, statut_juridique, statut_detail, statut_confiance, relations, alerte, via, autres_copies, extraction, a_verifier, ocr_uncertain, extrait, document_url, source_url`.
 
-* `status` ne fait que nommer la sortie de l'agent : `answered` = `mode:"llm"` et `found:true` ; `refused` = `found:false` ; `clarification` = `clarify:true` ; `llm_unavailable` = recherche trouvée mais aucune génération (llama-server éteint, réponse illisible…).
+* `status` ne fait que nommer la sortie de l'agent : `answered` = `mode:"llm"` et `found:true` ; `refused` = `found:false` ; `clarification` = `clarify:true` ; `llm_unavailable` = recherche trouvée mais aucune génération (llama-server éteint, réponse illisible…). **Seule exception, hors du moteur** : `smalltalk` = message de pure courtoisie (« Bonjour », « Merci », « Au revoir », « Comment vas-tu ? », « Qui es-tu ? », « Aide ») reconnu par `local_app/smalltalk.py` AVANT la recherche ; réponse fixe, sans source, sans appel au moteur ni au modèle, donnée même si une question est en cours (voir § 18).
 * `retrieval` = durée du moteur hors reranking ; `generation` = `latency_s` mesurée par l'agent (précision 0,1 s) ; `api` = durée totale de la requête (validation, sonde du LLM, mise en forme comprises).
 * Les notes de l'agent sont conservées, mais les mentions internes (chemin d'un fichier, nom de script, type d'exception) sont remplacées par un message utilisateur.
 
@@ -190,6 +190,7 @@ Tout fonctionne sans Internet : modèles, corpus, index, LLM et interface sont l
 ```powershell
 python local_app/tests/test_api.py          # API, faux agent, sans modèle : « Tests API : X/Y »
 python local_app/tests/test_ui.py           # interface dans Edge/Chrome sans fenêtre : « Tests UI : X/Y »
+python local_app/tests/test_smalltalk.py    # messages de courtoisie (§ 18) : ce qui est reconnu et, surtout, ce qui ne l'est jamais : « Tests courtoisie : X/Y »
 python local_app/tests/test_lan.py          # mode réseau optionnel (§ 15) : code d'accès, sessions, blocage, hôtes, liaisons : « Tests réseau : X/Y »
 python local_app/tests/test_integration.py  # RÉEL : navigateur → API → agent → retrieval → reranker → llama-server (llama-server en ligne)
                                             #   (LOCAL_APP_URL=http://127.0.0.1:8790 pour viser le déploiement déjà démarré)
@@ -266,4 +267,16 @@ Un service lancé depuis une fenêtre ou depuis un outil (par exemple l'applicat
 
 **Ce que ça garantit, et ce que ça ne garantit pas.** Le service reste allumé session **verrouillée** ou non, et revient seul après un plantage (~1 minute) ou après la fermeture d'une fenêtre. Il s'arrête à la **fermeture de session**, à l'arrêt ou au redémarrage de Windows, et ne repart qu'à la **prochaine ouverture de session** de l'utilisateur. Le rendre disponible avant toute ouverture de session exigerait une tâche système avec droits d'administrateur et un compte stocké, ou l'ouverture automatique de session : ce sont des choix de sécurité de l'organisation et ils ne sont pas faits ici. Avec `-AccessCode`, le code fait partie de la commande de la tâche (lisible par l'utilisateur et les administrateurs de la machine) ; avec `-NoCode`, aucun secret n'est stocké.
 
-**Vérifié le 14 octobre 2026** : installation sans droit d'administrateur ; service démarré par la tâche ; descendance du processus vérifiée (Planificateur de tâches, aucune dépendance à l'application Claude) ; plantage simulé (processus tué) → service de retour en 66 s ; arrêt manuel respecté (aucune relance après 80 s) puis `-Resume` → service de retour en 56 s. **Non vérifié** : le comportement après fermeture de session / redémarrage de Windows (il repose sur le déclencheur « à l'ouverture de session » de la tâche planifiée).
+**Vérifié le 14 octobre 2026 (service permanent)** : installation sans droit d'administrateur ; service démarré par la tâche ; descendance du processus vérifiée (Planificateur de tâches, aucune dépendance à l'application Claude) ; plantage simulé (processus tué) → service de retour en 66 s ; arrêt manuel respecté (aucune relance après 80 s) puis `-Resume` → service de retour en 56 s. **Non vérifié** : le comportement après fermeture de session / redémarrage de Windows (il repose sur le déclencheur « à l'ouverture de session » de la tâche planifiée).
+
+## 18. Messages de courtoisie (`local_app/smalltalk.py`)
+
+**Constat (14 octobre 2026, 13 messages envoyés au service réel).** Le moteur gelé traite tout message comme une question de recherche : 12 messages amicaux (« Bonjour », « Merci beaucoup ! », « Comment vas-tu ? », « Qui es-tu ? », « Hello », « Tu es sympa »…) recevaient le refus « Je ne trouve pas de disposition correspondante dans le corpus disponible » ; « Salam » (salutation, mais aussi contrat de finance islamique du corpus) recevait une définition juridique citant 4 sources.
+
+**Correction, dans la couche d'accès seulement** (le moteur n'est pas modifié ; `freeze_phase4 verify` : aucun écart). Avant la recherche, `smalltalk.classify` reconnaît les messages **entièrement** composés de mots de courtoisie : salutations (français, formules « salam alaykum » et arabe courant), « comment ça va », remerciements et compliments, au revoir, questions sur l'assistant (« qui es-tu », « que sais-tu faire », « à quoi sers-tu », « comment ça marche », « aide »). Réponse : texte fixe, `status` = `smalltalk`, aucune source, aucun appel au moteur ni au modèle (~0 s), donnée **même si une question est en cours**. « Salam » seul est traité comme une salutation et propose de préciser s'il s'agissait du contrat.
+
+**Garde-fou central : ne jamais avaler une vraie question.** Un message est transmis au moteur, tel quel, dès qu'il contient un seul mot hors du vocabulaire de courtoisie, un chiffre, ou plus de 80 caractères / 8 mots. Exemples transmis au moteur : « Bonjour, quel est le plafond de garantie des dépôts ? », « Merci de préciser le capital minimum », « Qu'est-ce que le Salam ? », « Comment ça marche l'agrément… ? », « Aide aux banques en difficulté », « Peux-tu m'aider à trouver le règlement 24-02 ? ».
+
+**Limites.** Seuls les messages de courtoisie ci-dessus sont reconnus : « Raconte-moi une blague » ou « Tu es nul » reçoivent encore le refus habituel du moteur. Les phrases mixtes (« Bonjour, quel est… ») vont au moteur sans accueil. La liste de mots est fixe (pas d'apprentissage). Réponses en français uniquement. Le texte des questions de courtoisie n'est pas journalisé (comme les autres).
+
+**Vérifié le 14 octobre 2026** : `test_smalltalk.py` 11/11 (dont 30 vraies questions qui ne doivent jamais être reconnues, le moteur non appelé pour une salutation, réponse pendant qu'une autre question tourne, aucune donnée interne dans la réponse), `test_ui.py` 24/24 (affichage dans un vrai navigateur), `test_api.py` 41/41, `test_lan.py` 16/16 ; sur le service réel : « Bonjour », « Salam », « Merci beaucoup ! », « Comment vas-tu ? », « Qui es-tu ? » répondus en 0,0 s ; « Quelle est la définition du Salam ? » toujours traitée par le moteur (réponse citant les textes).
