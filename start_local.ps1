@@ -173,7 +173,10 @@ if ($Lan) {
               else { 'regle ABSENTE : lancez .\lan_firewall.ps1 (administrateur) pour que les autres machines puissent se connecter' }
     Write-Host ""
     Write-Host "ACCES RESEAU ACTIVE (collegues du meme reseau)" -ForegroundColor Cyan
-    Write-Host "  Adresses     http://$($env:COMPUTERNAME):$Port    ou    http://$($lanIpUse):$Port"
+    $cs = Get-CimInstance Win32_ComputerSystem -ErrorAction SilentlyContinue
+    $fqdn = if ($cs -and $cs.PartOfDomain) { ("$($env:COMPUTERNAME).$($cs.Domain)").ToLower() } else { $null }
+    if ($fqdn) { Write-Host "  Adresses     http://$($fqdn):$Port   (nom complet : la plus fiable, ex. derriere un proxy d'entreprise)" ; Write-Host "               ou http://$($env:COMPUTERNAME):$Port   ou http://$($lanIpUse):$Port   (une adresse IP peut etre envoyee au proxy de l'entreprise)" }
+    else { Write-Host "  Adresses     http://$($env:COMPUTERNAME):$Port    ou    http://$($lanIpUse):$Port" }
     if ($NoCode) { Write-Host "  Code d'acces AUCUN (-NoCode) : tout poste du reseau qui connait l'adresse peut utiliser l'assistant et occuper l'unique file de questions" -ForegroundColor Yellow }
     else { Write-Host "  Code d'acces $lanCode     (affiche une seule fois ; nouveau a chaque demarrage sauf si -AccessCode est donne)" }
     Write-Host "  Pare-feu     $fwText"

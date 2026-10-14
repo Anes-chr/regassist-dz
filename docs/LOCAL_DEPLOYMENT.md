@@ -216,7 +216,7 @@ Permet à des collègues du même réseau d'utiliser l'assistant **depuis leur n
 .\start_local.ps1 -Lan           # [-AccessCode CODE] [-LanIp 10.x.y.z]
 ```
 
-Le script affiche les adresses (`http://NOM-DE-LA-MACHINE:8790` et `http://ADRESSE-IP:8790`) et le **code d'accès**, une seule fois. Les collègues ouvrent l'adresse, saisissent le code, puis utilisent l'interface normale. Retour au mode local : `.\stop_local.ps1` puis `.\start_local.ps1`.
+Le script affiche les adresses (`http://NOM-COMPLET:8790` en premier, puis `http://NOM-COURT:8790` et `http://ADRESSE-IP:8790`) et le **code d'accès**, une seule fois. **Préférer le nom complet** (ex. `s-mabed.bank-of-algeria.dz`) : il est enregistré dans le DNS de l'entreprise, il est accepté tel quel par l'application et il correspond aux exceptions habituelles de proxy (`*.domaine`) ; le nom court dépend de la liste de suffixes DNS du poste appelant, et une adresse IP peut être envoyée au proxy de l'entreprise, qui ne la joindra pas. Les collègues ouvrent l'adresse, saisissent le code, puis utilisent l'interface normale. Retour au mode local : `.\stop_local.ps1` puis `.\start_local.ps1`.
 
 **Garde-fous**
 
