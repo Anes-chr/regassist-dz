@@ -62,6 +62,8 @@ def create_app(service: Service, port: int | None = None, lan: "L.LanAccess | No
     def login():
         if lan is None:
             return err(404, "not_found", "Ressource introuvable.")
+        if lan.open:                                         # accès libre choisi explicitement : pas de page de connexion
+            return redirect("/", code=302)
         if request.method == "GET":
             r = make_response(L.login_page())
         else:

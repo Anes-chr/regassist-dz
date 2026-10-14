@@ -30,10 +30,10 @@ def main() -> int:
         svc.log("env_neutralised", names=report["neutralised"])
     if report["engine_overrides"]:
         svc.log("env_engine_overrides", names=report["engine_overrides"])
-    svc.log("start", host=C.HOST, port=port, lan_ip=lan.ip if lan else None, debug=svc.debug, log_questions=C.log_questions())   # jamais le code d'accès
+    svc.log("start", host=C.HOST, port=port, lan_ip=lan.ip if lan else None, lan_open=lan.open if lan else None, debug=svc.debug, log_questions=C.log_questions())   # jamais le code d'accès
     print(f"Application locale : http://{C.HOST}:{port}  (chargement du moteur de recherche en cours ; /api/status indique quand il est prêt)", flush=True)
     if lan:
-        print(f"Accès réseau ACTIVÉ sur http://{lan.ip}:{port} (code d'accès obligatoire, trafic HTTP non chiffré).", flush=True)
+        print(f"Accès réseau ACTIVÉ sur http://{lan.ip}:{port} ({'SANS code d’accès : libre pour tout poste du réseau' if lan.open else 'code d’accès obligatoire'}, trafic HTTP non chiffré).", flush=True)
     threading.Thread(target=svc.warm_up, name="warm-up", daemon=True).start()
     for extra in servers[1:]:
         threading.Thread(target=extra.serve_forever, name=f"serve-{extra.server_address[0]}", daemon=True).start()

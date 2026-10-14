@@ -224,13 +224,15 @@ Le script affiche les adresses (`http://NOM-DE-LA-MACHINE:8790` et `http://ADRES
 |---|---|
 | Désactivé par défaut | sans `-Lan`, rien ne change : écoute sur `127.0.0.1` seulement, aucun code |
 | Une seule adresse réseau | l'application écoute sur `127.0.0.1` **et** sur l'adresse privée choisie (détectée sur la carte du réseau d'entreprise, ou `-LanIp`), **jamais sur toutes les cartes** : les cartes VMware et Hyper-V ne sont pas exposées. Refus d'une adresse publique, de la boucle locale ou d'une adresse inconnue |
-| Code obligatoire | 8 caractères au minimum (12 caractères aléatoires lisibles générés par défaut, ~59 bits). Sans code valide l'application refuse de démarrer. Comparaison en temps constant, jamais journalisé |
+| Code obligatoire par défaut | 8 caractères au minimum (12 caractères aléatoires lisibles générés par défaut, ~59 bits). Sans code valide l'application refuse de démarrer, **sauf choix explicite** `-Lan -NoCode` (accès libre, voir ci-dessous). Comparaison en temps constant, jamais journalisé |
 | Tout est derrière le code | page, scripts et API ; seules la page d'accès, sa feuille de style et la sonde `/api/health` (qui répond « ok ») restent publiques. Le code s'applique aussi à `127.0.0.1` |
 | Sessions | cookie aléatoire de 12 h, `HttpOnly`, `SameSite=Strict` ; une session expirée renvoie à la page d'accès |
 | Essais limités | 5 codes faux depuis une même adresse bloquent cette adresse 5 minutes |
 | Noms d'hôte | l'en-tête `Host` doit être un nom de cette machine (nom court, nom complet, adresse) ; garde contre le « DNS rebinding » conservée. Noms supplémentaires : `LOCAL_APP_LAN_HOSTS=nom1,nom2` |
 | Une question à la fois | un collègue qui arrive pendant une génération reçoit « Une question est déjà en cours de traitement (peut-être celle d'un autre utilisateur). Réessayez dans quelques secondes. » (une réponse prend ~20 s sur ce processeur) |
 | Pas de nouvelle donnée collectée | le texte des questions n'est toujours pas journalisé ; seuls les essais de connexion (réussis ou non) sont journalisés avec l'adresse de la machine appelante |
+
+**Accès libre (`-Lan -NoCode`).** Choix explicite de l'utilisateur : aucune page de code, tout poste qui connaît l'adresse utilise l'assistant. Restent actifs : adresse privée uniquement, contrôle de l'en-tête `Host`, de l'origine et de `Sec-Fetch-Site`, une seule question à la fois. N'est plus protégé : l'usage (n'importe qui sur le réseau peut interroger l'assistant, consommer le processeur de la machine et occuper l'unique file de questions). `LOCAL_APP_LAN_NO_CODE=1` n'a d'effet que si aucun code n'est fourni ; un code fourni l'emporte toujours. Passer de l'un à l'autre : `.\stop_local.ps1`, puis `.\start_local.ps1 -Lan` (avec code) ou `.\start_local.ps1 -Lan -NoCode`.
 
 **Pare-feu.** `lan_firewall.ps1` crée la règle la plus étroite possible : entrant, TCP, **ce port seulement**, profil **Domaine** seulement, depuis le **sous-réseau local** seulement, pour le **programme Python du projet** seulement ; `-Remove` la supprime. Si le pare-feu Windows est désactivé sur la machine (c'est le cas sur la machine d'origine), la règle est sans effet et le port est joignable par tout le réseau : le code d'accès est alors la seule protection ; `start_local.ps1 -Lan` l'indique.
 

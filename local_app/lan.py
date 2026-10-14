@@ -1,8 +1,8 @@
 """Accès depuis le réseau local : OPTION, désactivée par défaut (docs/LOCAL_DEPLOYMENT.md § Accès réseau).
 
 Par défaut l'application n'écoute que sur 127.0.0.1. Si LOCAL_APP_LAN_IP est défini (par `.\\start_local.ps1 -Lan`), elle écoute AUSSI sur cette adresse privée,
-jamais sur toutes les cartes réseau, et exige alors un code d'accès :
-* le code (8 caractères au minimum) est obligatoire : sans lui l'application refuse de démarrer ; il n'est jamais écrit dans les journaux ;
+jamais sur toutes les cartes réseau, et exige alors un code d'accès (sauf choix explicite LOCAL_APP_LAN_NO_CODE=1 : accès libre pour tout poste du réseau) :
+* le code (8 caractères au minimum) est obligatoire par défaut : sans lui l'application refuse de démarrer ; il n'est jamais écrit dans les journaux ;
 * une connexion réussie crée une session aléatoire de 12 h, dans un cookie HttpOnly + SameSite=Strict (le trafic reste en HTTP, sans chiffrement) ;
 * 5 codes faux depuis une même adresse bloquent cette adresse 5 minutes ;
 * l'en-tête Host doit être l'un des noms de cette machine (garde contre le « DNS rebinding » conservée).
@@ -19,6 +19,7 @@ import time
 
 LAN_IP_ENV = "LOCAL_APP_LAN_IP"
 CODE_ENV = "LOCAL_APP_ACCESS_CODE"
+NO_CODE_ENV = "LOCAL_APP_LAN_NO_CODE"       # =1 : accès réseau SANS code (choix explicite ; sans cela, un code est obligatoire)
 HOSTS_ENV = "LOCAL_APP_LAN_HOSTS"          # noms supplémentaires acceptés dans l'en-tête Host, séparés par des virgules
 MIN_CODE_LEN = 8
 MAX_CODE_LEN = 64
@@ -44,18 +45,24 @@ def from_env() -> "LanAccess | None":
     if not raw:
         return None
     code = os.environ.get(CODE_ENV, "").strip()
+    extra = [h.strip() for h in os.environ.get(HOSTS_ENV, "").split(",") if h.strip()]
+    if not code and os.environ.get(NO_CODE_ENV, "") == "1":      # choix EXPLICITE de l'utilisateur : accès libre pour tout poste du réseau
+        return LanAccess(parse_lan_ip(raw), None, extra)
     if len(code) < MIN_CODE_LEN:
-        raise SystemExit(f"Mode réseau : un code d'accès d'au moins {MIN_CODE_LEN} caractères est obligatoire ({CODE_ENV}).")
+        raise SystemExit(f"Mode réseau : un code d'accès d'au moins {MIN_CODE_LEN} caractères est obligatoire ({CODE_ENV}), "
+                         f"sauf choix explicite de l'accès libre ({NO_CODE_ENV}=1).")
     if len(code) > MAX_CODE_LEN:
         raise SystemExit(f"Mode réseau : code d'accès trop long ({MAX_CODE_LEN} caractères au plus).")
-    extra = [h.strip() for h in os.environ.get(HOSTS_ENV, "").split(",") if h.strip()]
     return LanAccess(parse_lan_ip(raw), code, extra)
 
 
 class LanAccess:
-    def __init__(self, ip: str, code: str, extra_hosts=(), clock=time.monotonic):
+    """`code` = None : accès libre (aucune connexion demandée) ; les autres garde-fous (adresse privée, noms d'hôte, origine) restent actifs."""
+
+    def __init__(self, ip: str, code: "str | None", extra_hosts=(), clock=time.monotonic):
         self.ip = ip
-        self._code = code.encode("utf-8")
+        self.open = code is None
+        self._code = (code or "").encode("utf-8")
         self._extra = tuple(extra_hosts)
         self._clock = clock
         self._sessions: dict[str, float] = {}
@@ -102,6 +109,8 @@ class LanAccess:
             return None, self._locked_for(addr)
 
     def valid(self, token: str | None) -> bool:
+        if self.open:
+            return True
         if not token:
             return False
         with self._lock:

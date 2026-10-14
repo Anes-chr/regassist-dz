@@ -201,6 +201,66 @@ def test_configuration_is_validated_before_anything_listens():
                 os.environ[k] = v
 
 
+def test_open_mode_needs_no_code_but_keeps_the_other_guards():
+    state = {"online": True}
+    svc = S.Service(agent=fakes.make_agent(state=state), llm_probe=lambda: {"online": True, "model": "m", "model_matches": True})
+    svc.warm_up()
+    c = create_app(svc, PORT, L.LanAccess(IP, None)).test_client()
+    assert c.get("/", base_url=BASE).status_code == 200                          # aucune connexion demandée
+    assert c.get("/api/status", base_url=BASE).status_code == 200
+    r = c.post("/api/chat", json={"question": "plafond"}, base_url=BASE)
+    assert r.status_code == 200 and r.get_json()["status"] == "answered"
+    r = c.get("/login", base_url=BASE)
+    assert r.status_code == 302 and r.headers["Location"].endswith("/")          # plus de page de code
+    assert c.post("/login", data={"code": "x"}, base_url=BASE).status_code == 302
+    r = c.get("/api/health", base_url=f"http://evil.example:{PORT}")             # l'en-tête Host reste contrôlé
+    assert r.status_code == 403 and r.get_json()["error"]["code"] == "forbidden_host"
+    r = c.post("/api/chat", json={"question": "plafond"}, base_url=BASE, headers={"Origin": "http://evil.example"})
+    assert r.status_code == 403                                                  # l'origine reste contrôlée
+    r = c.post("/api/chat", json={"question": "plafond"}, base_url=BASE, headers={"Sec-Fetch-Site": "cross-site"})
+    assert r.status_code == 403
+
+
+def test_open_mode_must_be_chosen_explicitly():
+    saved = {k: os.environ.get(k) for k in (L.LAN_IP_ENV, L.CODE_ENV, L.NO_CODE_ENV)}
+    try:
+        os.environ[L.LAN_IP_ENV] = IP
+        os.environ[L.CODE_ENV] = ""
+        os.environ.pop(L.NO_CODE_ENV, None)
+        try:
+            L.from_env()
+        except SystemExit:
+            pass
+        else:
+            raise AssertionError("l'accès libre ne doit jamais être le défaut")
+        os.environ[L.NO_CODE_ENV] = "0"
+        try:
+            L.from_env()
+        except SystemExit:
+            pass
+        else:
+            raise AssertionError("seule la valeur 1 active l'accès libre")
+        os.environ[L.NO_CODE_ENV] = "1"
+        lan = L.from_env()
+        assert lan is not None and lan.open and lan.ip == IP
+        os.environ[L.CODE_ENV] = CODE                                            # un code fourni l'emporte : jamais d'accès libre par accident
+        assert not L.from_env().open
+        os.environ[L.LAN_IP_ENV] = "8.8.8.8"                                     # l'adresse reste validée en accès libre
+        os.environ[L.CODE_ENV] = ""
+        try:
+            L.from_env()
+        except SystemExit:
+            pass
+        else:
+            raise AssertionError("adresse publique acceptée")
+    finally:
+        for k, v in saved.items():
+            if v is None:
+                os.environ.pop(k, None)
+            else:
+                os.environ[k] = v
+
+
 def _free_port():
     with socket.socket() as s:
         s.bind(("127.0.0.1", 0))
