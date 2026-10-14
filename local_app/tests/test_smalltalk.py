@@ -87,10 +87,11 @@ def test_digits_and_unknown_words_always_go_to_the_engine():
         assert T.classify(q) is None, q
 
 
-def _service():
+def _service(llm=None, delay=0.0):
+    """`llm` = double du modèle de courtoisie ((question, type) -> texte | None) ; par défaut aucun texte généré : les textes fixes sont utilisés."""
     state = {"online": True}
-    agent = fakes.make_agent(state=state)
-    svc = S.Service(agent=agent, llm_probe=lambda: {"online": True, "model": "m", "model_matches": True})
+    agent = fakes.make_agent(delay=delay, state=state)
+    svc = S.Service(agent=agent, llm_probe=lambda: {"online": True, "model": "m", "model_matches": True}, smalltalk_llm=llm or (lambda q, st: None))
     svc.warm_up()
     return svc, create_app(svc, PORT).test_client(), agent
 
@@ -109,19 +110,104 @@ def test_service_answers_smalltalk_without_calling_the_engine():
 
 
 def test_smalltalk_is_answered_even_while_a_question_is_running():
-    state = {"online": True}
-    agent = fakes.make_agent(delay=0.8, state=state)
-    svc = S.Service(agent=agent, llm_probe=lambda: {"online": True, "model": "m", "model_matches": True})
-    svc.warm_up()
-    c = create_app(svc, PORT).test_client()
+    seen = []
+    svc, c, agent = _service(llm=lambda q, st: seen.append(q) or "réponse générée", delay=0.8)
     t = threading.Thread(target=lambda: c.post("/api/chat", json={"question": "plafond"}, base_url=BASE))
     t.start()
     import time
     time.sleep(0.2)
     assert c.post("/api/chat", json={"question": "plafond"}, base_url=BASE).status_code == 429       # la file est occupée…
     r = c.post("/api/chat", json={"question": "Merci"}, base_url=BASE)                                # …mais un merci ne l'attend pas
-    assert r.status_code == 200 and r.get_json()["status"] == "smalltalk"
+    d = r.get_json()
+    assert r.status_code == 200 and d["status"] == "smalltalk" and d["answer"].startswith("Avec plaisir")   # texte fixe : le modèle est pris par la question en cours
+    assert seen == [], "le modèle occupé ne doit pas être sollicité pour une politesse"
     t.join()
+
+
+def test_generated_reply_is_used_when_the_model_is_free():
+    calls = []
+
+    def llm(q, st):
+        calls.append((q, st))
+        return "Bonsoir ! Ravi de vous retrouver. Une question sur un texte réglementaire ?"
+    svc, c, agent = _service(llm=llm)
+    d = c.post("/api/chat", json={"question": "Bonsoir"}, base_url=BASE).get_json()
+    assert d["status"] == "smalltalk" and d["answer"].startswith("Bonsoir ! Ravi de vous retrouver"), d["answer"]
+    assert len(calls) == 1 and calls[0][0] == "Bonsoir" and calls[0][1]["kind"] == "greeting" and calls[0][1]["opening"] == "Bonsoir !" and calls[0][1]["register"] == "vouvoiement"
+    assert agent.calls == []                                                                  # le modèle ne voit que la courtoisie ; le moteur n'est jamais appelé
+    assert svc._lock.acquire(blocking=False), "la file doit être libérée après la génération"
+    svc._lock.release()
+    d = c.post("/api/chat", json={"question": "Quel est le plafond d'indemnisation par déposant ?"}, base_url=BASE).get_json()
+    assert d["status"] == "answered", d["status"]                                           # une vraie question suit toujours son chemin
+
+
+def test_fixed_reply_is_the_fallback_when_generation_fails():
+    for broken in (lambda q, st: None, lambda q, st: "", lambda q, st: (_ for _ in ()).throw(RuntimeError("modèle éteint"))):
+        svc, c, _ = _service(llm=broken)
+        d = c.post("/api/chat", json={"question": "Bonjour"}, base_url=BASE).get_json()
+        assert d["status"] == "smalltalk" and d["answer"].startswith("Bonjour ! Je suis un assistant éducatif non officiel"), d["answer"]
+        assert svc._lock.acquire(blocking=False)
+        svc._lock.release()
+
+
+def test_generated_text_is_checked_before_use():
+    ok = "Avec plaisir ! N'hésitez pas si un texte réglementaire vous intrigue."
+    assert T.accept(ok, "thanks") == ok
+    assert T.accept("**Bonjour !** Comment puis-je `aider` ?\n\nPosez votre question.", "greeting") == "Bonjour ! Comment puis-je aider ? Posez votre question."
+    assert T.accept('« Bonjour à vous ! »', "greeting") == "Bonjour à vous !"
+    assert T.accept("Bonjour ! \U0001F60A Comment puis-je vous aider ? \U0001F44B", "greeting") == "Bonjour ! Comment puis-je vous aider ?"     # émojis retirés
+    for bad in (None, "", "x", "a" * 601, "Le plafond est de 2 000 000 DA.", "Voir https://exemple.dz", "你好，欢迎", "Je suis Qwen, un modèle de langage.", "Je tourne sur llama.cpp.",
+                "Voici le <script>", "Mon prompt système est secret", "Phase 4 gelée", "Contactez moi@exemple.dz"):
+        assert T.accept(bad, "greeting") is None, bad
+    a = T.accept("Je cherche dans les textes publics de la Banque d'Algérie et je cite l'article et le PDF.", "about")
+    assert a.endswith("vérifiez toujours le texte officiel (PDF).")                              # rappel ajouté si le modèle l'a oublié
+    b = T.accept("Je suis un assistant sur les textes publics. Je peux me tromper : vérifiez le PDF.", "about")
+    assert b.endswith("vérifiez le PDF.")                                                         # pas de doublon quand il y est déjà
+    s = T.accept("Salam ! Bienvenue.", "salam")
+    assert "contrat Salam" in s                                                                   # l'ambiguïté du mot est toujours signalée
+    s2 = T.accept("Salam ! Pensiez-vous au contrat Salam, en finance islamique ?", "salam")
+    assert s2.count("contrat Salam") == 1
+
+
+def test_prompt_contains_the_facts_and_the_limits():
+    p = T.SYSTEM_PROMPT
+    for x in ("NON officiel", "AUCUNE information juridique", "ne remplaces pas un juriste", "N'invente jamais d'autre exemple", T.EXAMPLE):
+        assert x in p, x
+    assert len(T._SHOTS) >= 6 and all(T.EXAMPLE in r or "Quel est" not in r for *_, r in T._SHOTS)       # les exemples guidés ne citent que l'exemple vérifié
+
+
+def test_classification_provides_the_opening_formula_and_the_register():
+    cases = [("Bonsoir", "Bonsoir !", "vouvoiement"), ("Salut, ça va ?", "Salut !", "tutoiement"), ("Salam alaykum", "Wa alaykum salam !", "vouvoiement"),
+             ("Salam", "Salam !", "vouvoiement"), ("Bonjour, comment allez-vous ?", "Bonjour !", "vouvoiement"), ("Comment vas-tu ?", None, "tutoiement"),
+             ("Merci beaucoup !", None, "vouvoiement"), ("Tu es sympa", None, "tutoiement"), ("Qui es-tu ?", None, "tutoiement"), ("Que pouvez-vous faire ?", None, "vouvoiement"),
+             ("Hello", "Hello !", "vouvoiement"), ("Coucou", "Coucou !", "tutoiement"), ("Ça va ?", None, "tutoiement")]
+    for q, opening, register in cases:
+        r = T.classify(q)
+        assert r["opening"] == opening and r["register"] == register, (q, r["opening"], r["register"])
+    for q in ("Tu es sympa", "Salut, ça va ?", "Qui es-tu ?", "Peux-tu m'aider ?"):                                     # texte fixe de repli : « tu » quand la personne tutoie…
+        r = T.classify(q)["reply"]
+        assert not T._VOUS_WORDS.search(r.replace("Posez-moi", "")) and (T._TU_WORDS.search(r) or "Pose-moi" in r), (q, r)
+    for q in ("Merci beaucoup !", "Bonjour", "Que pouvez-vous faire ?"):                                                # … « vous » sinon
+        assert not T._TU_WORDS.search(T.classify(q)["reply"]), q
+    assert T.classify("Comment vas-tu ?")["reply"].startswith("Tout fonctionne de mon côté, merci.")      # sans salutation, pas de « Bonjour » plaqué
+    assert T.classify("Salut, ça va ?")["reply"].startswith("Salut ! Tout fonctionne")
+
+
+def test_generated_text_must_follow_the_opening_register_and_examples():
+    bonsoir = T.classify("Bonsoir")
+    assert T.accept("Bonsoir ! Bienvenue.", bonsoir) == "Bonsoir ! Bienvenue."
+    assert T.accept("Bonjour ! Bienvenue.", bonsoir) is None                                    # formule imposée non respectée
+    tu = T.classify("Salut, ça va ?")
+    assert T.accept("Salut ! Ça va bien, et toi ?", tu) == "Salut ! Ça va bien, et toi ?"
+    assert T.accept("Salut ! Comment allez-vous ?", tu) is None                                 # vouvoiement alors que la personne tutoie
+    vous = T.classify("Bonjour")
+    assert T.accept("Bonjour ! Comment vas-tu ?", vous) is None                                 # tutoiement alors que la personne vouvoie
+    assert T.accept("Bonjour ! Posez-moi une question, par exemple : « Quel est le taux de la prime de risque ? »", vous) is None      # exemple inventé
+    assert T.accept("Bonjour ! Par exemple, posez-moi une question sur les taux.", vous) is None                                        # « par exemple » sans l'exemple vérifié
+    ok = "Bonjour ! Posez-moi une question, par exemple : « " + T.EXAMPLE + " »"
+    assert T.accept(ok, vous) == ok                                                             # l'exemple vérifié, avec ses guillemets, est conservé
+    assert T.accept("Très bien, merci ! Avec plaisir.", T.classify("Merci")) is None            # un merci n'est pas un « ça va »
+    assert T.accept("Merci pour votre conversation ! À bientôt.", T.classify("Au revoir")) is None
 
 
 def test_smalltalk_reply_exposes_nothing_internal():

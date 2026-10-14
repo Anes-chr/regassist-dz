@@ -20,7 +20,8 @@ def main() -> int:
     a = ap.parse_args()
     state = {"online": not a.llm_offline}
     setup_logging(Path(tempfile.mkdtemp(prefix="local_app_stub_")) / "api.log")
-    svc = Service(agent=fakes.make_agent(delay=a.delay, state=state), llm_probe=lambda: {"online": state["online"], "model": "qwen3-4b-instruct-2507-q4_k_m", "model_matches": True})
+    svc = Service(agent=fakes.make_agent(delay=a.delay, state=state), llm_probe=lambda: {"online": state["online"], "model": "qwen3-4b-instruct-2507-q4_k_m", "model_matches": True},
+                  smalltalk_llm=lambda q, st: None)            # jamais le vrai modèle dans les tests : textes fixes
     svc.warm_up()
     srv = LocalServer(C.HOST, a.port, create_app(svc, a.port))
     print("pret", flush=True)

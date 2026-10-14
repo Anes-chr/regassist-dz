@@ -213,9 +213,10 @@ def probe_llama(timeout: float = 1.5) -> dict:
 
 
 class Service:
-    def __init__(self, agent=None, llm_probe=None, env_report=None, debug=None):
+    def __init__(self, agent=None, llm_probe=None, env_report=None, debug=None, smalltalk_llm=None):
         self._agent_mod = agent
         self._llm_probe = llm_probe or probe_llama
+        self._smalltalk_llm = smalltalk_llm or smalltalk.generate            # (question, type) -> texte | None ; les tests injectent un double
         self.env_report = env_report or {"neutralised": [], "engine_overrides": []}
         self.debug = C.debug() if debug is None else debug
         self._lock = threading.Lock()
@@ -332,10 +333,21 @@ class Service:
 
     # ----- /api/chat -----
     def _smalltalk(self, q: str, st: dict, t_api: float) -> dict:
-        """Salutation, remerciement, « qui es-tu » : réponse fixe, sans recherche ni modèle, sans attendre la file des questions."""
+        """Salutation, remerciement, « qui es-tu » : jamais de recherche. Réponse naturelle du modèle local si la file est libre (il ne voit que ce message de
+        courtoisie), sinon — file occupée, modèle éteint ou lent, sortie non conforme — texte fixe immédiat. Une question en cours n'est jamais attendue."""
+        reply, source = st["reply"], "fixed"
+        if self._warm["state"] not in ("pending", "running") and self._lock.acquire(blocking=False):
+            try:
+                text = self._smalltalk_llm(q, st)
+            except Exception:
+                text = None
+            finally:
+                self._lock.release()
+            if text:
+                reply, source = text, "llm"
         ms = round((time.perf_counter() - t_api) * 1000)
-        self.log("chat", status="smalltalk", kind=st["kind"], question_chars=len(q), question=q if C.log_questions() else None, sources=0, total_ms=ms)
-        return {"question": q, "status": "smalltalk", "found": False, "clarify": False, "mode": "smalltalk", "reason": "smalltalk", "answer": st["reply"],
+        self.log("chat", status="smalltalk", kind=st["kind"], source=source, question_chars=len(q), question=q if C.log_questions() else None, sources=0, total_ms=ms)
+        return {"question": q, "status": "smalltalk", "found": False, "clarify": False, "mode": "smalltalk", "reason": "smalltalk", "answer": reply,
                 "citations": [], "sources": [], "notes": [], "disclaimer": None, "model": None, "provider": None, "retriever": None, "latency_s": None,
                 "timings": {}, "durations_ms": {"api": ms, "pipeline": None, "retrieval": None, "reranking": None, "generation": None},
                 "llm": {"requested": False, "available": None, "message": None}, "texts": [], "texts_intro": None}
