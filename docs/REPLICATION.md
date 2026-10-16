@@ -2,7 +2,7 @@
 
 Ce document décrit comment obtenir, sur une autre machine, **exactement** le système gelé `PHASE_4_FROZEN` (statut : NO-GO PROVISOIRE) et l'application locale. « Exactement » est vérifiable : `python -m agent_fr.eval.human.freeze_phase4 verify` compare le code, le corpus, les vecteurs, les jeux d'évaluation et les modèles aux empreintes SHA-256 du manifeste et doit répondre **« aucun écart »**.
 
-> Le dépôt GitHub est **privé**. Il contient des textes publics de la Banque d'Algérie (corpus) : ne le rendez pas public sans avoir vérifié les conditions de réutilisation de ces textes (voir le README).
+> Ce dépôt public contient le code, l'interface, la suite d'évaluation et une copie structurée de textes publics de la Banque d'Algérie (corpus) à des fins de reproductibilité et de recherche éducative. Seul le texte officiel (PDF) fait foi (voir la section Gouvernance et Licences du README).
 
 ## 1. Ce qui est dans le dépôt, ce qui ne l'est pas
 
@@ -34,7 +34,7 @@ Les modèles ne sont pas dans Git : le fichier ONNX d'embeddings (448 Mo) et le 
 ## 3. Procédure
 
 ```powershell
-# 1. Cloner (dépôt privé : connexion GitHub requise) — chemins longs activés pour le corpus
+# 1. Cloner le dépôt — chemins longs activés pour le corpus
 git config --global core.longpaths true
 git clone https://github.com/SalimMabed/regassist-dz.git
 cd regassist-dz

@@ -125,8 +125,28 @@ python tests/test_phase5_freeze.py          # tests du système : un script par 
 
 Par défaut, l'application écoute uniquement sur `127.0.0.1` (l'accès réseau `-Lan` est une option explicite, protégée par un code), n'émet aucune requête sortante (hors clic de l'utilisateur sur un lien vers un PDF officiel), n'utilise aucune API distante et ne journalise pas le texte des questions par défaut. Voir [docs/LOCAL_DEPLOYMENT.md](docs/LOCAL_DEPLOYMENT.md) § 8.
 
-## Licence, données et responsabilité
+## Équipe et contributions
 
-Aucune licence n'a été choisie : par défaut, tous droits réservés. Les textes de la Banque d'Algérie restent la propriété de leur auteur. Ce dépôt est **privé** et contient une copie de textes publics à des fins de reproductibilité : vérifiez leurs conditions de réutilisation **avant** de rendre le dépôt public ou de redistribuer le corpus.
+Ce projet est développé dans le cadre de la compétition Thirduni (Cohorte 1) par :
 
-Projet personnel, réalisé seul à partir de documents publics uniquement. Code et documentation produits avec l'assistance d'une IA (Claude). Ce projet n'est pas un conseil juridique.
+* **Salim Mabed** : Collecte et structuration des 1 085 documents de la Banque d'Algérie (OCR arabe, segmentation, liens d'amendement), conception et développement du moteur gelé de recherche hybride, du reranker et du service LLM local (`agent_fr/`, `boa_pipeline/`, `llm_local/`), mise en place de la première application locale Flask et exécution des benchmarks de la Phase 4.
+* **Chouari Mohammed Anes** : Modernisation de l'espace de travail et de l'interface de vérification des sources (`local_app/`), implémentation de l'adaptateur de sécurité de production (filtrage Host/Origin et gestion de la concurrence avec en-tête `Retry-After`), architecture et outillage de déploiement Linux WSGI / Gunicorn / Nginx / systemd (`deploy/`), et mesures de latence et d'empreinte mémoire RSS.
+
+## Gouvernance, données et licences (Split Licensing)
+
+Le projet applique une séparation stricte entre le code logiciel, le corpus réglementaire et les modèles tiers :
+
+### 1. Code source logiciel
+Le code applicatif, les scripts de déploiement et les composants créés par l'équipe font l'objet d'un choix de licence en cours de confirmation entre les co-auteurs (Salim Mabed et Chouari Mohammed Anes). Par respect des droits de propriété intellectuelle du créateur initial de la base de code, aucun fichier de licence unilatéral n'est appliqué sans accord mutuel.
+
+### 2. Attribution du corpus réglementaire officiel
+Les textes réglementaires (règlements, instructions, notes) et documents PDF/HTML présents dans `corpus/` proviennent de publications **publiques** accessibles sur le site officiel de la **Banque d'Algérie** ([bank-of-algeria.dz](https://www.bank-of-algeria.dz)).
+* Ce projet éducatif non officiel n'est ni affilié à la Banque d'Algérie ni mandaté par elle.
+* Les textes officiels demeurent la propriété de leurs auteurs institutionnels et sont inclus ici à des fins de recherche, d'analyse comparative et de reproductibilité académique.
+* Seule la version officielle publiée au *Journal Officiel de la République Algérienne Démocratique et Populaire* ou par la Banque d'Algérie fait foi.
+
+### 3. Modèles tiers et environnements d'exécution
+* **Qwen3-4B-Instruct-2507** (Alibaba Cloud / Qwen team) : distribué sous licence **Apache-2.0**.
+* **multilingual-e5-small** (Microsoft) : distribué sous licence **MIT**.
+* **mmarco-mMiniLMv2-L12-H384** (cross-encoder) : distribué sous licence **Apache-2.0**.
+* **llama.cpp** (Georgi Gerganov & contributeurs) : distribué sous licence **MIT**.

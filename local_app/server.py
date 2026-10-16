@@ -27,10 +27,17 @@ _PUBLIC_IN_LAN = {"/login", "/login.css", "/favicon.svg", "/favicon.ico", "/api/
 def create_app(service: Service, port: int | None = None, lan: "L.LanAccess | None" = None) -> Flask:
     """`lan` = None (défaut) : application locale, 127.0.0.1 seulement. `lan` fourni : accès réseau avec code d'accès (voir lan.py)."""
     port = port or C.port()
-    hosts = {f"127.0.0.1:{port}", f"localhost:{port}"}
-    if lan is not None:
-        hosts |= lan.hosts(port)
-    origins = {f"http://{h}" for h in hosts}
+    deploy_mode = os.environ.get("REGASSIST_DEPLOY_MODE", "local").strip().lower()
+    if deploy_mode == "production":
+        raw_hosts = os.environ.get("REGASSIST_ALLOWED_HOSTS", "")
+        raw_origins = os.environ.get("REGASSIST_ALLOWED_ORIGINS", "")
+        hosts = {h.strip().lower() for h in raw_hosts.split(",") if h.strip() and h.strip() != "*"}
+        origins = {o.strip() for o in raw_origins.split(",") if o.strip() and o.strip() != "*"}
+    else:
+        hosts = {f"127.0.0.1:{port}", f"localhost:{port}"}
+        if lan is not None:
+            hosts |= lan.hosts(port)
+        origins = {f"http://{h}" for h in hosts}
     app = Flask(__name__, static_folder=None)
     app.config["MAX_CONTENT_LENGTH"] = C.MAX_BODY_BYTES
     app.json.ensure_ascii = False
@@ -43,13 +50,22 @@ def create_app(service: Service, port: int | None = None, lan: "L.LanAccess | No
 
     @app.before_request
     def guard():
-        if request.host.lower() not in hosts:
-            if lan is not None:
-                return err(403, "forbidden_host", "Accès refusé : utilisez l'adresse qui vous a été communiquée.")
-            return err(403, "forbidden_host", "Accès refusé : cette application n'est accessible que via http://127.0.0.1:%d." % port)
-        origin = request.headers.get("Origin")
-        if origin is not None and origin not in origins:
-            return err(403, "forbidden_origin", "Accès refusé : origine non autorisée.")
+        req_host = request.host.lower()
+        if deploy_mode == "production":
+            host_no_port = req_host.split(":")[0]
+            if req_host not in hosts and host_no_port not in hosts:
+                return err(403, "forbidden_host", "Accès refusé : hôte non autorisé.")
+            origin = request.headers.get("Origin")
+            if origin is not None and origin not in origins:
+                return err(403, "forbidden_origin", "Accès refusé : origine non autorisée.")
+        else:
+            if req_host not in hosts:
+                if lan is not None:
+                    return err(403, "forbidden_host", "Accès refusé : utilisez l'adresse qui vous a été communiquée.")
+                return err(403, "forbidden_host", "Accès refusé : cette application n'est accessible que via http://127.0.0.1:%d." % port)
+            origin = request.headers.get("Origin")
+            if origin is not None and origin not in origins:
+                return err(403, "forbidden_origin", "Accès refusé : origine non autorisée.")
         if request.path.startswith("/api/") and request.headers.get("Sec-Fetch-Site", "same-origin") in ("cross-site", "same-site"):
             return err(403, "forbidden_origin", "Accès refusé : origine non autorisée.")
         if lan is not None and request.path not in _PUBLIC_IN_LAN and not lan.valid(request.cookies.get(L.COOKIE)):
@@ -94,13 +110,20 @@ def create_app(service: Service, port: int | None = None, lan: "L.LanAccess | No
 
     @app.errorhandler(ServiceError)
     def service_error(e):
-        return err(e.http, e.code, e.message)
+        resp = err(e.http, e.code, e.message)
+        if e.http == 429:
+            resp.headers["Retry-After"] = "30"
+        return resp
 
     @app.errorhandler(HTTPException)
     def http_error(e):
-        messages = {404: "Ressource introuvable.", 405: "Méthode non autorisée.", 413: "Requête trop volumineuse.", 415: "Type de contenu non pris en charge : JSON attendu."}
-        return err(e.code or 500, {404: "not_found", 405: "method_not_allowed", 413: "payload_too_large", 415: "unsupported_media_type"}.get(e.code, "http_error"),
-                   messages.get(e.code, "Requête non valide."))
+        messages = {404: "Ressource introuvable.", 405: "Méthode non autorisée.", 413: "Requête trop volumineuse.", 415: "Type de contenu non pris en charge : JSON attendu.", 429: "Trop de requêtes."}
+        code = e.code or 500
+        resp = err(code, {404: "not_found", 405: "method_not_allowed", 413: "payload_too_large", 415: "unsupported_media_type", 429: "busy"}.get(code, "http_error"),
+                   messages.get(code, "Requête non valide."))
+        if code == 429:
+            resp.headers["Retry-After"] = "30"
+        return resp
 
     @app.errorhandler(Exception)
     def unexpected(e):

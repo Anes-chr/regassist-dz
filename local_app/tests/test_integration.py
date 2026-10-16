@@ -23,7 +23,7 @@ sys.path.insert(0, str(ROOT))
 
 Q_REAL = "Quel est le plafond d'indemnisation par déposant ?"
 Q_REFUS = "Quelle est la capitale de la France ?"
-Q_VAGUE = "Que dit le règlement ?"
+Q_VAGUE = "Que dit l'article 3 ?"
 LOOPBACK = {"127.0.0.1", "::1", "::ffff:127.0.0.1"}
 WIN_PATH = re.compile(r"(?<![A-Za-z0-9])[A-Za-z]:[\\/]")
 
@@ -67,11 +67,18 @@ class Target:
 
     @property
     def pid(self) -> int:
-        if self.proc is not None:
-            return self.proc.pid
         for c in psutil.net_connections(kind="inet"):
             if c.status == "LISTEN" and c.laddr.port == self.port and c.pid:
                 return c.pid
+        if self.proc is not None:
+            try:
+                for ch in psutil.Process(self.proc.pid).children(recursive=True):
+                    for c in ch.net_connections(kind="inet"):
+                        if c.status == "LISTEN" and c.laddr.port == self.port:
+                            return ch.pid
+            except Exception:
+                pass
+            return self.proc.pid
         raise RuntimeError("PID du serveur introuvable")
 
     def stop(self):

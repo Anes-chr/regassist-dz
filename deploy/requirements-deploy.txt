@@ -1,0 +1,4 @@
+# Linux Production Deployment Dependencies
+# Extends root requirements.txt without modifying the frozen baseline
+-r ../requirements.txt
+gunicorn==23.0.0

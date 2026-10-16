@@ -41,6 +41,7 @@ test('chargement : mention « projet éducatif non officiel », données publiqu
   await assertNoTechnicalDetail('chargement');
   assert.equal(await ev(`document.getElementById('btn-send').disabled`), true);
   assert.equal(await count('.placeholder'), 2);
+  assert.equal(await count('.chip'), 4, "4 puces de questions d'exemple");
 });
 
 test("« À propos » : projet éducatif non officiel, données publiques, IA non entraînée sur ces textes, limites et vie privée", async () => {
@@ -59,10 +60,11 @@ test("« À propos » : projet éducatif non officiel, données publiques, IA no
 
 test('envoi d\'une question : affichage du traitement, de la réponse et des sources citées, sans détail technique', async () => {
   await fresh();
-  await ask("Quel est le plafond d'indemnisation par déposant ?");
+  await ev(`document.querySelectorAll('.chip')[0].click()`);
   await waitFor(`document.getElementById('answer').getAttribute('aria-busy') === 'true' && document.querySelector('#answer .loading')`, 'affichage du traitement en cours');
   assert.match(await text('#answer .loading'), /Recherche dans les textes puis rédaction de la réponse/);
   assert.equal(await ev(`document.getElementById('btn-send').disabled`), true, 'envoi désactivé pendant le traitement');
+  assert.equal(await ev(`document.querySelectorAll('.chip')[0].disabled`), true, 'puces désactivées pendant le traitement');
   await waitFor(`document.querySelector('#answer .ans-text')`, 'réponse');
   assert.match(await text('#question-echo .q-text'), /plafond d'indemnisation/);
   assert.match(await text('#answer .ans-text'), /2\.000\.000 DA/);
@@ -74,11 +76,14 @@ test('envoi d\'une question : affichage du traitement, de la réponse et des sou
   assert.match(await text('#answer .tags .tag-warn'), /1 avertissement\(s\)/);
   assert.match(await text('#answer .callout-after'), /Correspondance partielle/);
   assert.equal(await exists('#answer .timings'), false, 'plus de durées affichées');
+  assert.equal(await exists('#answer .timing-badge'), true, 'badge de timing affiché');
+  assert.match(await text('#answer .timing-badge'), /^Recherche : .* · Reclassement : .* · Génération locale : /);
   assert.match(await text('#answer .ans-label'), /Réponse rédigée par une intelligence artificielle uniquement à partir des sources ci-contre/);
   await assertNoTechnicalDetail('réponse');
   assert.match(await text('#answer .disclaimer'), /ne constitue pas un avis juridique/);
   assert.equal(await ev(`document.getElementById('question').value`), '');
   assert.equal(await ev(`document.getElementById('answer').hasAttribute('aria-busy')`), false);
+  assert.equal(await ev(`document.querySelectorAll('.chip')[0].disabled`), false, 'puces réactivées');
 });
 
 test('affichage d\'une source : référence, type, date, article, page, statuts, extrait, liens officiels', async () => {

@@ -1,0 +1,26 @@
+[Unit]
+Description=RegAssist DZ Gunicorn Web Application
+After=network.target regassist-llm.service
+Requires=regassist-llm.service
+
+[Service]
+Type=simple
+User=regassist
+Group=regassist
+WorkingDirectory=/opt/regassist-dz
+EnvironmentFile=/opt/regassist-dz/deploy/regassist.env
+ExecStart=/opt/regassist-dz/.venv/bin/gunicorn \
+    --chdir /opt/regassist-dz \
+    --bind 127.0.0.1:8790 \
+    --workers 1 \
+    --worker-class gthread \
+    --threads 4 \
+    --timeout 240 \
+    deploy.wsgi:app
+Restart=on-failure
+RestartSec=5s
+StandardOutput=append:/var/log/regassist/web.out.log
+StandardError=append:/var/log/regassist/web.err.log
+
+[Install]
+WantedBy=multi-user.target

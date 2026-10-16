@@ -478,6 +478,52 @@ def test_concurrent_status_and_health_answer_while_a_question_is_running():
     t.join()
 
 
+def test_retry_after_header_present_on_http_429():
+    state = {"online": True}
+    agent = fakes.make_agent(delay=0.8, state=state)
+    svc, c, _, _ = build(agent=agent)
+    t = threading.Thread(target=lambda: post(c, {"question": "plafond"}))
+    t.start()
+    import time
+    time.sleep(0.2)
+    busy_resp = post(c, {"question": "plafond"})
+    assert busy_resp.status_code == 429
+    assert busy_resp.headers.get("Retry-After") == "30", f"Retry-After manquant ou incorrect: {busy_resp.headers}"
+    t.join()
+
+
+def test_production_mode_host_and_origin_allowlist():
+    old_mode = os.environ.get("REGASSIST_DEPLOY_MODE")
+    old_hosts = os.environ.get("REGASSIST_ALLOWED_HOSTS")
+    old_origins = os.environ.get("REGASSIST_ALLOWED_ORIGINS")
+    try:
+        os.environ["REGASSIST_DEPLOY_MODE"] = "production"
+        os.environ["REGASSIST_ALLOWED_HOSTS"] = "regassist.example.com,api.example.com"
+        os.environ["REGASSIST_ALLOWED_ORIGINS"] = "https://regassist.example.com"
+
+        _, c, _, _ = build()
+
+        # Rejet de l'hôte loopback par défaut en mode production car non listé
+        assert c.get("/api/health", base_url="http://127.0.0.1:8790").status_code == 403
+        assert c.get("/api/health", base_url="http://evil.example.com").status_code == 403
+
+        # Hôte approuvé
+        assert c.get("/api/health", base_url="https://regassist.example.com").status_code == 200
+
+        # Origine approuvée
+        assert c.get("/api/health", base_url="https://regassist.example.com", headers={"Origin": "https://regassist.example.com"}).status_code == 200
+
+        # Origine non approuvée
+        assert c.get("/api/health", base_url="https://regassist.example.com", headers={"Origin": "https://malicious.example"}).status_code == 403
+        assert c.post("/api/chat", base_url="https://regassist.example.com", json={"question": "plafond"}, headers={"Origin": "https://malicious.example"}).status_code == 403
+    finally:
+        for k, v in [("REGASSIST_DEPLOY_MODE", old_mode), ("REGASSIST_ALLOWED_HOSTS", old_hosts), ("REGASSIST_ALLOWED_ORIGINS", old_origins)]:
+            if v is None:
+                os.environ.pop(k, None)
+            else:
+                os.environ[k] = v
+
+
 TESTS = [(n, f) for n, f in sorted(globals().items(), key=lambda kv: kv[1].__code__.co_firstlineno if callable(kv[1]) and hasattr(kv[1], "__code__") else 0) if n.startswith("test_")]
 
 if __name__ == "__main__":

@@ -8,6 +8,7 @@
   const MAX_CONVS = 30;
   const MAX_ENTRIES = 150;
   const POLL_MS = 20000;
+  const TIMEOUT_MS = 270000; // 270 s : marge supérieure aux 240 s d'amont (Nginx proxy_read_timeout et Gunicorn --timeout)
   const DEFAULT_MAX_Q = 500;
   const UNAVAILABLE = 'Le service de rédaction des réponses est momentanément indisponible.';
 
@@ -109,6 +110,7 @@
 
   /* ---------- rendu ---------- */
   function resetWorkspace() {
+    if (state.timer) { clearInterval(state.timer); state.timer = null; }
     $('question-echo').hidden = true;
     $('sources').replaceChildren(el('p', 'placeholder', 'Les textes officiels retrouvés apparaîtront ici, avec leurs extraits.'));
     $('answer').replaceChildren(el('p', 'placeholder', 'Posez une question en bas de page. La réponse n\'est affichée qu\'accompagnée de ses sources.'));
@@ -126,7 +128,11 @@
     const l = el('div', 'src-links');
     for (const [label, u] of [['PDF officiel', doc.document_url], ['Page du site', doc.source_url]]) {
       const url = safeUrl(u); if (!url) continue;
-      const a = el('a', null, label); a.href = url; a.target = '_blank'; a.rel = 'noopener noreferrer'; l.append(a);
+      const a = el('a', null, label); a.href = url; a.target = '_blank'; a.rel = 'noopener noreferrer';
+      if (label === 'PDF officiel' && doc.page) {
+        a.title = 'Ouvrir le PDF officiel (Page ' + doc.page + ')';
+      }
+      l.append(a);
     }
     return l;
   }
@@ -161,6 +167,8 @@
     if (c.via) card.append(el('div', 'rel', '↳ Texte qui ' + c.via));
     for (const [k, v] of Object.entries(c.relations || {})) card.append(el('div', 'rel', k + ' : ' + (Array.isArray(v) ? v.join(' ; ') : v)));
 
+    const exLabel = el('div', 'excerpt-label', 'Passage extrait du document officiel');
+    card.append(exLabel);
     const ex = el('div', 'excerpt', c.extrait || ''); ex.setAttribute('role', 'document');
     card.append(ex);
     if ((c.extrait || '').length > 450) {
@@ -247,6 +255,29 @@
     return frag;
   }
 
+  function fmtDuration(ms, decimals = 2) {
+    if (typeof ms !== 'number' || isNaN(ms) || ms < 0) return null;
+    const sec = ms / 1000;
+    const formatted = (sec >= 10 ? sec.toFixed(1) : sec >= 0.01 ? sec.toFixed(decimals) : sec.toFixed(3)).replace('.', ',');
+    return formatted + ' s';
+  }
+
+  function renderTiming(r) {
+    const d = r && r.durations_ms;
+    if (!d) return null;
+    const parts = [];
+    const tRet = fmtDuration(d.retrieval, 2);
+    if (tRet) parts.push('Recherche : ' + tRet);
+    const tRer = fmtDuration(d.reranking, 2);
+    if (tRer) parts.push('Reclassement : ' + tRer);
+    if (typeof d.generation === 'number' && d.generation > 0) {
+      const tGen = fmtDuration(d.generation, 1);
+      if (tGen) parts.push('Génération locale : ' + tGen);
+    }
+    if (!parts.length) return null;
+    return el('div', 'timing-badge', parts.join(' · '));
+  }
+
   function renderAnswer(r) {
     const box = $('answer'); box.replaceChildren(); box.removeAttribute('aria-busy');
     const notes = r.notes || [];
@@ -288,12 +319,15 @@
     } else {
       box.append(callout('error', 'Réponse inattendue du service', 'Le service a renvoyé un état non reconnu.'));
     }
+    const timingBadge = renderTiming(r);
+    if (timingBadge) box.append(timingBadge);
     if (r.disclaimer) box.append(el('p', 'disclaimer', r.disclaimer));
   }
 
   function renderResponse(r) { renderSources(r); renderAnswer(r); }
 
   function renderError(message) {
+    if (state.timer) { clearInterval(state.timer); state.timer = null; }
     const box = $('answer'); box.replaceChildren(); box.removeAttribute('aria-busy');
     box.append(callout('error', 'La question n\'a pas pu être traitée', message));
     $('sources').replaceChildren(el('p', 'placeholder', 'Aucune source : la question n\'a pas abouti.'));
@@ -302,9 +336,11 @@
   function renderLoading() {
     const box = $('answer'); box.replaceChildren(); box.setAttribute('aria-busy', 'true');
     const p = el('p', 'loading'); const t0 = Date.now();
-    const msg = el('span', null, 'Recherche dans les textes puis rédaction de la réponse. Cela peut prendre jusqu\'à une minute… ');
-    const sec = el('span', 'elapsed', '0 s'); p.append(msg, sec); box.append(p);
+    const msg = el('span', null, 'Recherche dans les textes puis rédaction de la réponse. Cela peut prendre jusqu\'à deux minutes… ');
+    const sec = el('span', 'elapsed', '0 s'); sec.setAttribute('aria-live', 'off');
+    p.append(msg, sec); box.append(p);
     $('sources').replaceChildren(el('p', 'placeholder', 'Recherche des sources en cours…'));
+    if (state.timer) clearInterval(state.timer);
     state.timer = setInterval(() => { sec.textContent = Math.round((Date.now() - t0) / 1000) + ' s'; }, 1000);
   }
 
@@ -320,19 +356,33 @@
     else if (starting()) msg = 'Le service démarre, veuillez patienter quelques secondes…';
     else if (state.status && state.status.llm && !state.status.llm.online) msg = UNAVAILABLE + ' Les textes pertinents seront affichés sans réponse rédigée.';
     $('composer-msg').textContent = msg;
-    $('btn-send').disabled = state.busy || !state.reachable || n < 3 || q.length > state.maxQ || starting();
+    const disabled = state.busy || !state.reachable || starting();
+    $('btn-send').disabled = disabled || n < 3 || q.length > state.maxQ;
+    document.querySelectorAll('.chip').forEach((b) => { b.disabled = disabled; });
   }
 
   async function sendQuestion() {
     const q = $('question').value.trim();
     if (state.busy || q.length < 3 || q.length > state.maxQ) return;
     state.busy = true; updateComposer(); showQuestion(q); renderLoading();
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), TIMEOUT_MS);
     try {
-      const res = await fetch('/api/chat', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ question: q }) });
+      const res = await fetch('/api/chat', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ question: q }),
+        signal: controller.signal
+      });
       if (res.status === 401) { location.assign('/login'); return; }          // mode réseau : session expirée → page du code d'accès
       let data = null; try { data = await res.json(); } catch (e) { data = null; }
       if (!res.ok || !data || data.error) {
-        renderError((data && data.error && data.error.message) || 'Le service a répondu par une erreur (' + res.status + ').');
+        if (res.status === 429) {
+          const retryAfter = res.headers.get('Retry-After') || '30';
+          renderError('Le serveur traite actuellement une autre question. Veuillez réessayer dans environ ' + retryAfter + ' secondes.');
+        } else {
+          renderError((data && data.error && data.error.message) || 'Le service a répondu par une erreur (' + res.status + ').');
+        }
       } else {
         if (!state.conv) { state.conv = { id: uid(), at: Date.now(), entries: [] }; state.convs.push(state.conv); }
         const entry = { id: uid(), at: Date.now(), q: data.question || q, r: data };
@@ -341,9 +391,15 @@
         $('question').value = '';
       }
     } catch (e) {
-      renderError('Le service est momentanément injoignable. Réessayez dans un instant.');
+      if (e.name === 'AbortError') {
+        renderError('Le délai de traitement a expiré (dépassement de 270 secondes). Le serveur est peut-être surchargé.');
+      } else {
+        renderError('Le service est momentanément injoignable. Réessayez dans un instant.');
+      }
     } finally {
-      clearInterval(state.timer); state.busy = false; refreshStatus(); updateComposer();
+      clearTimeout(timeoutId);
+      if (state.timer) { clearInterval(state.timer); state.timer = null; }
+      state.busy = false; refreshStatus(); updateComposer();
     }
   }
 
@@ -371,6 +427,15 @@
     $('form').addEventListener('submit', (ev) => { ev.preventDefault(); sendQuestion(); });
     $('question').addEventListener('input', updateComposer);
     $('question').addEventListener('keydown', (ev) => { if (ev.key === 'Enter' && !ev.shiftKey && !ev.isComposing) { ev.preventDefault(); sendQuestion(); } });
+    document.querySelectorAll('.chip').forEach((btn) => {
+      btn.addEventListener('click', () => {
+        if (state.busy || !state.reachable || starting()) return;
+        const q = btn.dataset.question || btn.textContent.trim();
+        $('question').value = q;
+        updateComposer();
+        sendQuestion();
+      });
+    });
     $('btn-new').addEventListener('click', newConversation);
     let armed = null;
     $('btn-clear').addEventListener('click', () => {

@@ -1,0 +1,18 @@
+[Unit]
+Description=RegAssist DZ Local LLM Server (llama.cpp b11411 - Qwen3-4B)
+After=network.target
+
+[Service]
+Type=simple
+User=regassist
+Group=regassist
+WorkingDirectory=/opt/regassist-dz
+EnvironmentFile=/opt/regassist-dz/deploy/regassist.env
+ExecStart=/opt/regassist-dz/deploy/start_llm_linux.sh
+Restart=on-failure
+RestartSec=5s
+StandardOutput=append:/var/log/regassist/llm.out.log
+StandardError=append:/var/log/regassist/llm.err.log
+
+[Install]
+WantedBy=multi-user.target
