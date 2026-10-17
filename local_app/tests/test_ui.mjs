@@ -243,6 +243,19 @@ test('courtoisie : « Bonjour » reçoit un accueil, pas un refus ; aucune sourc
   assert.equal(await count('#history-list .hist-item'), 2);                      // chaque message reste dans l'historique du navigateur
 });
 
+test('définition non soutenue par les textes : la réponse fausse est retirée, le terme et la raison sont dits clairement', async () => {
+  await fresh();
+  await ask('C’est quoi l’allocation touristique ?'); await waitFor(`document.querySelector('#answer .callout-info')`, 'refus de définition');
+  const a = await text('#answer');
+  assert.match(a, /Aucune réponse établie/);
+  assert.match(a, /« allocation touristique » n'apparaît dans aucun des textes retrouvés/);
+  assert.ok(!/rapatriement|dépouille|50\.000|allocation en devises/.test(a), 'texte de la fausse réponse encore visible : ' + a);
+  assert.equal(await exists('#answer .ans-text'), false);
+  assert.equal(await count('#sources .source'), 0);
+  assert.equal(await count('#answer .text-item'), 0, 'aucune liste de textes « qui pourraient vous aider » : ils parlaient d\'autre chose');
+  await assertNoTechnicalDetail('définition non soutenue');
+});
+
 test('pas de réponse directe : aucune liste quand aucun texte n\'a été retrouvé (refus de la recherche)', async () => {
   await fresh();
   await ask('REFUS capitale de la France'); await waitFor(`document.querySelector('#answer .callout-info')`, 'refus');

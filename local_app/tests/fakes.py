@@ -85,6 +85,12 @@ def scripted_ask(question: str, use_llm: bool = False, k: int = 6, *, delay: flo
                         notes=["[S1] Statut de vigueur non déterminé (aucune relation ni période dans le corpus) : ne pas présenter comme applicable [règle U-ISOL, confiance LOW].",
                                "Version remplacée par un texte plus récent, écartée du contexte du LLM : Instruction n° 05-2025 du 17 juillet 2025, Article 9.",
                                "[S2] OCR_UNCERTAIN : valeur numérique de ce passage arabe non corroborée par le texte français (2000.000)."])
+    if "ALLOCATION TOURISTIQUE" in q:                       # cas réel du 18/10/2026 : textes qui parlent d'autre chose (rapatriement d'une dépouille) ; le terme demandé n'y figure pas
+        s1 = citation(1, texte="Règlement n° 91-06 du 16 mai 1991", extrait="En cas de décès à l'étranger du malade ou d'un national résidant se trouvant à l'étranger à l'occasion d'un voyage "
+                      "touristique ou d'affaires, une allocation en devises pour le rapatriement de la dépouille mortelle est délivrée au membre de la famille du défunt.",
+                      titre="Règlement n°91-06 du 16 mai 1991 fixant les conditions d’attribution d’allocations en devises à l’occasion d’hospitalisation et/ou de décès de nationaux à l’étranger.")
+        return answered(question, answer="L'allocation touristique est une allocation en devises attribuée aux nationaux résidents en voyage touristique ou d'affaires à l'étranger [S1].",
+                        citations=[s1], sources=[s1])
     if "XSS" in q:
         bad = citation(1, extrait='<img src=x onerror="window.__xss=1"><script>window.__xss=2</script> Texte du corpus', texte="<b>Règlement</b> piégé")
         return answered(question, citations=[bad], sources=[bad], answer="Réponse <i>balisée</i> [S1].")
