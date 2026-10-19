@@ -49,7 +49,7 @@ class Target:
             self.port = free_port()
             self.url = f"http://127.0.0.1:{self.port}"
             self.runtime = Path(tempfile.mkdtemp(prefix="local_app_it_"))
-            env = dict(os.environ, LOCAL_APP_PORT=str(self.port), LOCAL_APP_RUNTIME=str(self.runtime), PYTHONIOENCODING="utf-8", **(env_extra or {}))
+            env = dict(os.environ, LOCAL_APP_PORT=str(self.port), LOCAL_APP_RUNTIME=str(self.runtime), REGASSIST_RATE_LIMIT="1000", PYTHONIOENCODING="utf-8", **(env_extra or {}))
             self.out, self.err = open(self.runtime / "out.txt", "w", encoding="utf-8"), open(self.runtime / "err.txt", "w", encoding="utf-8")
             self.proc = subprocess.Popen([sys.executable, "-m", "local_app"], cwd=ROOT, env=env, stdout=self.out, stderr=self.err)
 

@@ -62,5 +62,7 @@ jobs:
           python local_app/tests/test_lan.py
 
       - name: Run Headless UI Test Suite
+        env:
+          BROWSER_PATH: /usr/bin/google-chrome
         run: |
           python local_app/tests/test_ui.py

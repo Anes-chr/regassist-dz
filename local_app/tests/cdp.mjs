@@ -6,21 +6,43 @@ import os from 'node:os';
 import net from 'node:net';
 import path from 'node:path';
 
-const CANDIDATES = [process.env.BROWSER_PATH, '/usr/bin/google-chrome', '/usr/bin/chromium-browser', '/usr/bin/chromium',
-  'C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe', 'C:\\Program Files\\Microsoft\\Edge\\Application\\msedge.exe',
-  'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe', 'C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe'].filter(Boolean);
+function findBrowser() {
+  if (process.env.BROWSER_PATH && fs.existsSync(process.env.BROWSER_PATH)) return process.env.BROWSER_PATH;
+  if (process.platform !== 'win32') {
+    for (const cmd of ['google-chrome', 'google-chrome-stable', 'chromium-browser', 'chromium']) {
+      try {
+        const res = spawnSync('which', [cmd], { encoding: 'utf-8' });
+        if (res.status === 0 && res.stdout.trim() && fs.existsSync(res.stdout.trim())) {
+          return res.stdout.trim();
+        }
+      } catch {}
+    }
+  }
+  const CANDIDATES = [
+    '/usr/bin/google-chrome', '/usr/bin/google-chrome-stable', '/usr/bin/chromium-browser', '/usr/bin/chromium',
+    'C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe', 'C:\\Program Files\\Microsoft\\Edge\\Application\\msedge.exe',
+    'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe', 'C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe'
+  ];
+  return CANDIDATES.find((p) => fs.existsSync(p));
+}
+
 export const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 const within = (p, ms, what) => Promise.race([p, new Promise((_, rej) => setTimeout(() => rej(new Error('Délai dépassé : ' + what)), ms))]);
 const freePort = () => new Promise((res) => { const s = net.createServer(); s.listen(0, '127.0.0.1', () => { const p = s.address().port; s.close(() => res(p)); }); });
 
 export async function startBrowser() {
-  const exe = CANDIDATES.find((p) => fs.existsSync(p));
+  const exe = findBrowser();
   assert.ok(exe, 'Aucun navigateur Edge/Chrome trouvé');
   const profile = fs.mkdtempSync(path.join(os.tmpdir(), 'local_app_ui_'));
   const port = await freePort();
   // --host-resolver-rules : toute résolution DNS hors 127.0.0.1 échoue (navigateur sans accès Internet) : si les tests passent, l'interface n'a besoin d'aucune ressource externe.
-  const proc = spawn(exe, ['--headless=new', '--disable-gpu', '--no-first-run', '--no-default-browser-check', '--disable-extensions', '--host-resolver-rules=MAP * ~NOTFOUND , EXCLUDE 127.0.0.1', `--user-data-dir=${profile}`,
-    `--remote-debugging-port=${port}`, '--remote-allow-origins=*', '--window-size=1360,900', 'about:blank'], { stdio: 'ignore' });
+  const flags = [
+    '--headless=new', '--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage',
+    '--disable-gpu', '--no-first-run', '--no-default-browser-check', '--disable-extensions',
+    '--host-resolver-rules=MAP * ~NOTFOUND , EXCLUDE 127.0.0.1', `--user-data-dir=${profile}`,
+    `--remote-debugging-port=${port}`, '--remote-allow-origins=*', '--window-size=1360,900', 'about:blank'
+  ];
+  const proc = spawn(exe, flags, { stdio: 'ignore' });
   let target;
   for (let i = 0; i < 100 && !target; i++) {
     await sleep(200);

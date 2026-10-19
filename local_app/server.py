@@ -78,8 +78,9 @@ def create_app(service: Service, port: int | None = None, lan: "L.LanAccess | No
     app.config["MAX_CONTENT_LENGTH"] = C.MAX_BODY_BYTES
     app.json.ensure_ascii = False
     app.json.sort_keys = False
+    default_limit = "10" if mode == "production" else "120"
     limiter = rate_limiter or RateLimiter(
-        max_requests=int(os.environ.get("REGASSIST_RATE_LIMIT", "10")),
+        max_requests=int(os.environ.get("REGASSIST_RATE_LIMIT", default_limit)),
         window_s=int(os.environ.get("REGASSIST_RATE_WINDOW", "60")),
     )
     app.rate_limiter = limiter
