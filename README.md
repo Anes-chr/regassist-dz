@@ -109,6 +109,7 @@ python tests/test_phase5_freeze.py          # tests du système : un script par 
 | Relecture par un juriste | [docs/NOTE_AU_JURISTE.md](docs/NOTE_AU_JURISTE.md), [docs/HUMAN_REVIEW.md](docs/HUMAN_REVIEW.md), [docs/HUMAN_REVIEW_QUICKSTART.md](docs/HUMAN_REVIEW_QUICKSTART.md), [docs/CAS_CRITIQUES_A_EXAMINER.md](docs/CAS_CRITIQUES_A_EXAMINER.md) |
 | Application locale | [docs/LOCAL_DEPLOYMENT.md](docs/LOCAL_DEPLOYMENT.md), [docs/LOCAL_UI.md](docs/LOCAL_UI.md) |
 | Réponses fausses observées en usage (pour le juriste) | [docs/CAS_OBSERVES_EN_USAGE.md](docs/CAS_OBSERVES_EN_USAGE.md) |
+| Tâches ouvertes (issues GitHub T1 à T12) | [docs/TASKS.md](docs/TASKS.md) |
 | Autre machine | [docs/REPLICATION.md](docs/REPLICATION.md) |
 | Mise à jour du corpus | [docs/UPDATE.md](docs/UPDATE.md) |
 | LLM local | [llm_local/README.md](llm_local/README.md) |
