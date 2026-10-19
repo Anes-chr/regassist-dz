@@ -15,20 +15,12 @@ export LLM_ROOT="${REGASSIST_DATA_ROOT}/llm"
 mkdir -p "${REGASSIST_ROOT}/local_app/runtime"
 mkdir -p "/var/log/regassist" 2>/dev/null || mkdir -p "${REGASSIST_ROOT}/runtime/logs"
 
-# Ensure symlink for D:\llm exists so hardcoded Windows path strings resolve
-# seamlessly on Linux ext4 filesystems without modifying engine files
-if [ ! -e "${REGASSIST_ROOT}/D:\\llm" ]; then
-    echo "[linux_env.sh] Creating compatibility symlink for 'D:\\llm'..."
-    ln -sf "${LLM_ROOT}" "${REGASSIST_ROOT}/D:\\llm" 2>/dev/null || true
-fi
-
 # Export required environment variables
 export LOCAL_APP_RUNTIME="${LOCAL_APP_RUNTIME:-${REGASSIST_ROOT}/local_app/runtime}"
 export LOCAL_APP_PORT="${LOCAL_APP_PORT:-8790}"
 export PYTHONIOENCODING="utf-8"
 
-# If environment variable overrides are needed by the container/VPS:
-export LOCAL_APP_ALLOW_ENV_OVERRIDES="1"
+# Path configuration for models, index, and corpus
 export AGENT_EMBED_DIR="${LLM_ROOT}/models/embeddings/multilingual-e5-small"
 export AGENT_RERANK_DIR="${LLM_ROOT}/models/rerankers/mmarco-mMiniLMv2-L12-H384"
 export AGENT_VECTOR_DIR="${LLM_ROOT}/index"

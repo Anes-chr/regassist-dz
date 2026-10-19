@@ -48,6 +48,10 @@ pip install -r requirements.txt
 # 4. Installer : télécharge les modèles (~3 Go), copie les vecteurs et l'instantané ; demande confirmation avant de télécharger
 .\replication\setup_machine.ps1
 #    options : -SkipLlm (sans LLM ni llama.cpp), -WithOcr, -Yes (sans confirmation), -NoFreezeCheck
+#    (Ce script exécute automatiquement python -m deploy.ensure_vectors pour aligner les clés de vecteurs)
+
+# 4b. Alignement autonome des clés de vecteurs (sur toute machine Windows ou Linux)
+python -m deploy.ensure_vectors
 
 # 5. Vérifier l'identité avec le système gelé (le script la lance en dernière étape)
 python -m agent_fr.eval.human.freeze_phase4 verify      # attendu : « RÉSULTAT : aucun écart »
@@ -57,6 +61,20 @@ python -m agent_fr.eval.human.freeze_phase4 verify      # attendu : « RÉSULTAT
 ```
 
 Si PowerShell refuse d'exécuter un script : `powershell -ExecutionPolicy Bypass -File .\replication\setup_machine.ps1`.
+
+### Résolution des clés de vecteurs (différence d'horodatage `st_mtime`)
+
+Dans le moteur gelé (`agent_fr/embed.py`), le calcul de l'identifiant des vecteurs (`vec_<clé>.npy`) repose sur :
+```python
+hashlib.sha1(f"{chunks_path}|{st.st_size}|{int(st.st_mtime)}|{langs}|e5-small|v1".encode()).hexdigest()[:12]
+```
+Parce que `st.st_mtime` dépend de l'horodatage de création du fichier sur le système de fichiers local lors du clone Git, la clé calculée à l'exécution diffère de la clé initiale enregistrée le 7 octobre 2026 (`vec_df4dd33e8c3b.npy` ou `vec_4da0cd6ae37e.npy`).
+
+Le module `deploy/ensure_vectors.py` résout cette divergence automatiquement sans modifier le moteur gelé :
+1. Il vérifie l'intégrité SHA-256 de vos fichiers `chunks_*.jsonl` par rapport au manifeste officiel `PHASE_4_FROZEN.manifest.json`.
+2. Il vérifie l'intégrité cryptographique et la géométrie des vecteurs figés (`replication/index/vec_*.npy`, dimensions `11314 x 384`).
+3. Il crée un lien (symlink ou copie) et génère le fichier `.meta.json` correspondant pour la clé d'exécution locale.
+4. Aucun recalcul d'embeddings n'est requis : l'alignement est instantané et cryptographiquement vérifié.
 
 Le fichier `.gitattributes` du dépôt désactive toute conversion de fin de ligne (`* -text`). **Ne le retirez pas** : une conversion LF/CRLF modifierait les octets du corpus, donc les empreintes du gel et les clés des vecteurs.
 

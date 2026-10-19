@@ -255,29 +255,6 @@
     return frag;
   }
 
-  function fmtDuration(ms, decimals = 2) {
-    if (typeof ms !== 'number' || isNaN(ms) || ms < 0) return null;
-    const sec = ms / 1000;
-    const formatted = (sec >= 10 ? sec.toFixed(1) : sec >= 0.01 ? sec.toFixed(decimals) : sec.toFixed(3)).replace('.', ',');
-    return formatted + ' s';
-  }
-
-  function renderTiming(r) {
-    const d = r && r.durations_ms;
-    if (!d) return null;
-    const parts = [];
-    const tRet = fmtDuration(d.retrieval, 2);
-    if (tRet) parts.push('Recherche : ' + tRet);
-    const tRer = fmtDuration(d.reranking, 2);
-    if (tRer) parts.push('Reclassement : ' + tRer);
-    if (typeof d.generation === 'number' && d.generation > 0) {
-      const tGen = fmtDuration(d.generation, 1);
-      if (tGen) parts.push('Génération locale : ' + tGen);
-    }
-    if (!parts.length) return null;
-    return el('div', 'timing-badge', parts.join(' · '));
-  }
-
   function renderAnswer(r) {
     const box = $('answer'); box.replaceChildren(); box.removeAttribute('aria-busy');
     const notes = r.notes || [];
@@ -319,8 +296,6 @@
     } else {
       box.append(callout('error', 'Réponse inattendue du service', 'Le service a renvoyé un état non reconnu.'));
     }
-    const timingBadge = renderTiming(r);
-    if (timingBadge) box.append(timingBadge);
     if (r.disclaimer) box.append(el('p', 'disclaimer', r.disclaimer));
   }
 
@@ -433,7 +408,7 @@
         const q = btn.dataset.question || btn.textContent.trim();
         $('question').value = q;
         updateComposer();
-        sendQuestion();
+        $('question').focus();
       });
     });
     $('btn-new').addEventListener('click', newConversation);

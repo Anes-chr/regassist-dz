@@ -139,8 +139,8 @@ def check_environment(env=None) -> dict:
     """Garde-fous exécutés au démarrage, sur le processus de l'application uniquement (aucun fichier n'est modifié).
 
     * LLM : toujours LOCAL. Les variables qui activeraient un LLM distant sont retirées de l'environnement du processus ; l'URL du LLM local doit être une adresse de bouclage.
-    * Moteur : si une variable qui change le comportement du moteur gelé est définie (seuil, poids, modèle, moteur de recherche…), l'application refuse de démarrer
-      (elle ne servirait plus PHASE_4_FROZEN), sauf LOCAL_APP_ALLOW_ENV_OVERRIDES=1 (alors signalé dans /api/status).
+    * Moteur : seules les variables de chemin (AGENT_*_DIR) sont tolérées pour adapter l'arborescence (alors signalées dans /api/status).
+      Toute variable modifiant le comportement du moteur gelé (seuil, poids, modèle, moteur de recherche…) entraîne un refus de démarrer.
     """
     env = os.environ if env is None else env
     neutralised = []
@@ -155,16 +155,20 @@ def check_environment(env=None) -> dict:
     if (url.hostname or "").lower() not in _LOOPBACK:
         raise SystemExit("AGENT_LOCAL_URL ne désigne pas la machine locale : refus de démarrer (le corpus ne doit pas quitter l'ordinateur).")
     overrides = []
+    forbidden = []
     for name in C.ENGINE_ENV:
         val = env.get(name, "")
         if not val:
             continue
         if name == "AGENT_RETRIEVER" and val.lower() in ("auto", "default", "hybrid_rerank"):
             continue                                                          # = moteur par défaut du système gelé
-        overrides.append(name)
-    if overrides and env.get("LOCAL_APP_ALLOW_ENV_OVERRIDES", "") != "1":
-        raise SystemExit("Variable(s) d'environnement qui modifient le comportement du système gelé : " + ", ".join(overrides)
-                         + ". Retirez-les (le système PHASE_4_FROZEN ne se configure pas) ou définissez LOCAL_APP_ALLOW_ENV_OVERRIDES=1.")
+        if name.endswith("_DIR"):
+            overrides.append(name)                                            # variable de chemin autorisée (ex. AGENT_VECTOR_DIR)
+        else:
+            forbidden.append(name)                                            # seuil, poids, modèle ou moteur : strictement refusé
+    if forbidden:
+        raise SystemExit("Variable(s) d'environnement qui modifient le comportement du système gelé (seuils, poids, modèles) : " + ", ".join(forbidden)
+                         + ". Retirez-les (le système PHASE_4_FROZEN ne se configure pas).")
     return {"neutralised": sorted(set(neutralised)), "engine_overrides": overrides}
 
 

@@ -7,7 +7,7 @@ import tempfile
 from pathlib import Path
 
 from .. import config as C
-from ..server import LocalServer, create_app
+from ..server import LocalServer, RateLimiter, create_app
 from ..service import Service, setup_logging
 from . import fakes
 
@@ -23,7 +23,7 @@ def main() -> int:
     svc = Service(agent=fakes.make_agent(delay=a.delay, state=state), llm_probe=lambda: {"online": state["online"], "model": "qwen3-4b-instruct-2507-q4_k_m", "model_matches": True},
                   smalltalk_llm=lambda q, st: None)            # jamais le vrai modèle dans les tests : textes fixes
     svc.warm_up()
-    srv = LocalServer(C.HOST, a.port, create_app(svc, a.port))
+    srv = LocalServer(C.HOST, a.port, create_app(svc, a.port, rate_limiter=RateLimiter(max_requests=1000, window_s=60)))
     print("pret", flush=True)
     try:
         srv.serve_forever()

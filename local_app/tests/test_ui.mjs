@@ -41,7 +41,7 @@ test('chargement : mention « projet éducatif non officiel », données publiqu
   await assertNoTechnicalDetail('chargement');
   assert.equal(await ev(`document.getElementById('btn-send').disabled`), true);
   assert.equal(await count('.placeholder'), 2);
-  assert.equal(await count('.chip'), 4, "4 puces de questions d'exemple");
+  assert.equal(await count('.chip'), 3, "3 puces de questions d'exemple");
 });
 
 test("« À propos » : projet éducatif non officiel, données publiques, IA non entraînée sur ces textes, limites et vie privée", async () => {
@@ -61,6 +61,8 @@ test("« À propos » : projet éducatif non officiel, données publiques, IA no
 test('envoi d\'une question : affichage du traitement, de la réponse et des sources citées, sans détail technique', async () => {
   await fresh();
   await ev(`document.querySelectorAll('.chip')[0].click()`);
+  assert.equal(await ev(`document.getElementById('question').value`), "Quel est le plafond d'indemnisation par déposant ?");
+  await ev(`document.getElementById('form').dispatchEvent(new Event('submit', { cancelable: true, bubbles: true }))`);
   await waitFor(`document.getElementById('answer').getAttribute('aria-busy') === 'true' && document.querySelector('#answer .loading')`, 'affichage du traitement en cours');
   assert.match(await text('#answer .loading'), /Recherche dans les textes puis rédaction de la réponse/);
   assert.equal(await ev(`document.getElementById('btn-send').disabled`), true, 'envoi désactivé pendant le traitement');
@@ -76,8 +78,7 @@ test('envoi d\'une question : affichage du traitement, de la réponse et des sou
   assert.match(await text('#answer .tags .tag-warn'), /1 avertissement\(s\)/);
   assert.match(await text('#answer .callout-after'), /Correspondance partielle/);
   assert.equal(await exists('#answer .timings'), false, 'plus de durées affichées');
-  assert.equal(await exists('#answer .timing-badge'), true, 'badge de timing affiché');
-  assert.match(await text('#answer .timing-badge'), /^Recherche : .* · Reclassement : .* · Génération locale : /);
+  assert.equal(await exists('#answer .timing-badge'), false, 'aucun badge technique de timing');
   assert.match(await text('#answer .ans-label'), /Réponse rédigée par une intelligence artificielle uniquement à partir des sources ci-contre/);
   await assertNoTechnicalDetail('réponse');
   assert.match(await text('#answer .disclaimer'), /ne constitue pas un avis juridique/);

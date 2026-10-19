@@ -6,8 +6,11 @@ Conséquences de sécurité :
   en mode réseau OPTIONNEL (lan.py, désactivé par défaut) s'y ajoutent les noms de cette machine, et un code d'accès est exigé ;
 * la politique CSP n'autorise que les fichiers de l'application : pas de CDN, pas de script distant, pas de connexion vers un autre hôte.
 """
+import collections
 import os
 import socket
+import threading
+import time
 
 from flask import Flask, jsonify, make_response, redirect, request, send_from_directory
 from werkzeug.exceptions import HTTPException
@@ -24,13 +27,46 @@ _PAGES = {"": "index.html", "index.html": "index.html", "app.css": "app.css", "a
 _PUBLIC_IN_LAN = {"/login", "/login.css", "/favicon.svg", "/favicon.ico", "/api/health"}
 
 
-def create_app(service: Service, port: int | None = None, lan: "L.LanAccess | None" = None) -> Flask:
+class RateLimiter:
+    """Limiteur de requêtes en mémoire par adresse IP (fenêtre glissante de 60s)."""
+
+    def __init__(self, max_requests: int = 10, window_s: int = 60):
+        self.max_requests = max_requests
+        self.window_s = window_s
+        self.lock = threading.Lock()
+        self.history: dict[str, list[float]] = collections.defaultdict(list)
+
+    def is_allowed(self, client_ip: str) -> tuple[bool, int]:
+        now = time.time()
+        with self.lock:
+            times = self.history[client_ip]
+            cutoff = now - self.window_s
+            while times and times[0] <= cutoff:
+                times.pop(0)
+            if len(times) >= self.max_requests:
+                retry_after = max(1, int(times[0] + self.window_s - now))
+                return False, retry_after
+            times.append(now)
+            if len(self.history) > 5000:
+                for ip in list(self.history.keys()):
+                    if not self.history[ip]:
+                        del self.history[ip]
+            return True, 0
+
+    def reset(self):
+        with self.lock:
+            self.history.clear()
+
+
+def create_app(service: Service, port: int | None = None, lan: "L.LanAccess | None" = None,
+               deploy_mode: str | None = None, allowed_hosts: str | None = None,
+               allowed_origins: str | None = None, rate_limiter: RateLimiter | None = None) -> Flask:
     """`lan` = None (défaut) : application locale, 127.0.0.1 seulement. `lan` fourni : accès réseau avec code d'accès (voir lan.py)."""
     port = port or C.port()
-    deploy_mode = os.environ.get("REGASSIST_DEPLOY_MODE", "local").strip().lower()
-    if deploy_mode == "production":
-        raw_hosts = os.environ.get("REGASSIST_ALLOWED_HOSTS", "")
-        raw_origins = os.environ.get("REGASSIST_ALLOWED_ORIGINS", "")
+    mode = (deploy_mode or os.environ.get("REGASSIST_DEPLOY_MODE", "local")).strip().lower()
+    if mode == "production":
+        raw_hosts = allowed_hosts if allowed_hosts is not None else os.environ.get("REGASSIST_ALLOWED_HOSTS", "")
+        raw_origins = allowed_origins if allowed_origins is not None else os.environ.get("REGASSIST_ALLOWED_ORIGINS", "")
         hosts = {h.strip().lower() for h in raw_hosts.split(",") if h.strip() and h.strip() != "*"}
         origins = {o.strip() for o in raw_origins.split(",") if o.strip() and o.strip() != "*"}
     else:
@@ -42,6 +78,11 @@ def create_app(service: Service, port: int | None = None, lan: "L.LanAccess | No
     app.config["MAX_CONTENT_LENGTH"] = C.MAX_BODY_BYTES
     app.json.ensure_ascii = False
     app.json.sort_keys = False
+    limiter = rate_limiter or RateLimiter(
+        max_requests=int(os.environ.get("REGASSIST_RATE_LIMIT", "10")),
+        window_s=int(os.environ.get("REGASSIST_RATE_WINDOW", "60")),
+    )
+    app.rate_limiter = limiter
 
     def err(http: int, code: str, message: str):
         r = jsonify({"error": {"code": code, "message": message}})
@@ -51,7 +92,7 @@ def create_app(service: Service, port: int | None = None, lan: "L.LanAccess | No
     @app.before_request
     def guard():
         req_host = request.host.lower()
-        if deploy_mode == "production":
+        if mode == "production":
             host_no_port = req_host.split(":")[0]
             if req_host not in hosts and host_no_port not in hosts:
                 return err(403, "forbidden_host", "Accès refusé : hôte non autorisé.")
@@ -140,6 +181,16 @@ def create_app(service: Service, port: int | None = None, lan: "L.LanAccess | No
 
     @app.post("/api/chat")
     def chat():
+        client_ip = (request.headers.get("X-Real-IP")
+                     or request.headers.get("X-Forwarded-For", "").split(",")[0].strip()
+                     or request.remote_addr
+                     or "127.0.0.1")
+        allowed, retry_after = app.rate_limiter.is_allowed(client_ip)
+        if not allowed:
+            resp = err(429, "rate_limited", f"Trop de requêtes. Veuillez patienter {retry_after} seconde(s).")
+            resp.headers["Retry-After"] = str(retry_after)
+            return resp
+
         if request.mimetype != "application/json":
             return err(415, "unsupported_media_type", "Type de contenu non pris en charge : JSON attendu.")
         data = request.get_json(silent=True)

@@ -414,7 +414,13 @@ def test_environment_guard_forces_local_llm_and_refuses_behaviour_changing_varia
     else:
         raise AssertionError("AGENT_RETRIEVER=bm25 doit être refusé")
     assert S.check_environment({"AGENT_RETRIEVER": "auto"})["engine_overrides"] == []
-    assert S.check_environment({"AGENT_RR_MIN": "0", "LOCAL_APP_ALLOW_ENV_OVERRIDES": "1"})["engine_overrides"] == ["AGENT_RR_MIN"]
+    assert S.check_environment({"AGENT_VECTOR_DIR": "/path/to/vectors"})["engine_overrides"] == ["AGENT_VECTOR_DIR"]
+    try:
+        S.check_environment({"AGENT_RR_MIN": "0"})
+    except SystemExit:
+        pass
+    else:
+        raise AssertionError("AGENT_RR_MIN doit être refusé sans exception")
     for url in ("http://example.com:8187", "http://192.168.1.5:8187", "https://api.anthropic.com"):
         try:
             S.check_environment({"AGENT_LOCAL_URL": url})
@@ -490,6 +496,30 @@ def test_retry_after_header_present_on_http_429():
     assert busy_resp.status_code == 429
     assert busy_resp.headers.get("Retry-After") == "30", f"Retry-After manquant ou incorrect: {busy_resp.headers}"
     t.join()
+
+
+def test_rate_limiting_on_chat_endpoint_returns_429_with_retry_after():
+    from local_app.server import RateLimiter
+    limiter = RateLimiter(max_requests=3, window_s=60)
+    svc, c, agent, _ = build()
+    c.application.rate_limiter = limiter
+
+    # 3 requêtes successives autorisées
+    for i in range(3):
+        r = post(c, {"question": "plafond"})
+        assert r.status_code == 200, f"Requête {i+1} doit réussir"
+
+    # La 4e requête dépasse la limite et doit renvoyer 429 avec Retry-After
+    r4 = post(c, {"question": "plafond"})
+    assert r4.status_code == 429
+    assert r4.get_json()["error"]["code"] == "rate_limited"
+    assert "Retry-After" in r4.headers
+    retry_after = int(r4.headers["Retry-After"])
+    assert 1 <= retry_after <= 60
+
+    # /api/health et /api/status ne sont PAS limités
+    assert get(c, "/api/health").status_code == 200
+    assert get(c, "/api/status").status_code == 200
 
 
 def test_production_mode_host_and_origin_allowlist():

@@ -140,6 +140,11 @@ if ($cacheEntry) {
     $cdst = Join-Path $LlmRoot 'index\vec_cache_e5small.npz'
     if (-not (Test-Path $cdst)) { Copy-Item -LiteralPath (Join-Path $PSScriptRoot 'index\vec_cache_e5small.npz') -Destination $cdst }
 }
+if ($py) {
+    Write-Host "`nAlignement des cles de vecteurs d'execution (deploy\ensure_vectors.py)..."
+    Push-Location $Repo
+    try { & python -m deploy.ensure_vectors (Join-Path $LlmRoot 'index') } catch { Write-Host "ATTENTION : resolution automatique des vecteurs : $($_.Exception.Message)" -ForegroundColor Yellow } finally { Pop-Location }
+}
 Write-Host "`nInstallation terminee." -ForegroundColor Green
 
 # ---- 3. Verification finale du gel ----

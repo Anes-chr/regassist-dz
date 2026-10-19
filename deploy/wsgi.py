@@ -43,7 +43,8 @@ try:
     from deploy.ensure_vectors import ensure_runtime_vectors
     runtime_vec_key = ensure_runtime_vectors(verbose=False)
 except Exception as e:
-    runtime_vec_key = None
+    print(f"[FATAL] Échec critique du mappage des vecteurs d'exécution (ensure_vectors) : {e}", file=sys.stderr)
+    raise RuntimeError(f"Échec critique du mappage des vecteurs d'exécution (ensure_vectors) : {e}") from e
 
 # 3. Instantiate exactly ONE Service instance
 port = int(os.environ.get("LOCAL_APP_PORT", str(C.port())))
@@ -70,7 +71,14 @@ service.log(
 )
 
 # 4. Create Flask WSGI application wired to the Service
-app = create_app(service, port=port, lan=None)
+app = create_app(
+    service,
+    port=port,
+    lan=None,
+    deploy_mode=deploy_mode,
+    allowed_hosts=allowed_hosts,
+    allowed_origins=allowed_origins,
+)
 
 # 5. Start background warm-up thread once in this worker process
 threading.Thread(target=service.warm_up, name="wsgi-warm-up", daemon=True).start()

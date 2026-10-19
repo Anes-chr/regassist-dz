@@ -126,14 +126,19 @@ python tests/test_phase5_freeze.py          # tests du système : un script par 
 
 ## Sécurité et confidentialité
 
-Par défaut, l'application écoute uniquement sur `127.0.0.1` (l'accès réseau `-Lan` est une option explicite, protégée par un code), n'émet aucune requête sortante (hors clic de l'utilisateur sur un lien vers un PDF officiel), n'utilise aucune API distante et ne journalise pas le texte des questions par défaut. Voir [docs/LOCAL_DEPLOYMENT.md](docs/LOCAL_DEPLOYMENT.md) § 8.
+* **Zéro journalisation des requêtes sur disque** : le texte des questions posées par les utilisateurs n'est jamais consigné sur le disque par défaut. Les journaux techniques (`access.log` et `api.log`) n'enregistrent que la méthode, le chemin, le code HTTP, les durées et la longueur de la question.
+* **Zéro télémétrie tierce** : l'application n'émet aucun appel vers l'extérieur (aucun traceur, CDN, police distante ou script externe ; politique CSP stricte `default-src 'none'; connect-src 'self'`).
+* **Inférence locale intégrale** : l'ensemble du traitement (embeddings e5-small, reclassement mmarco et génération locale par le modèle Qwen3-4B) s'exécute sur le processeur de la machine sans qu'aucune donnée ne sorte vers un tiers.
+* **Écoute restreinte** : par défaut, le serveur n'écoute que sur la boucle locale (`127.0.0.1`). L'accès réseau (`-Lan`) est une option explicite protégée par un code d'accès temporaire et une limitation de débit par IP.
+
+Pour les détails complets sur la gouvernance, la confidentialité et les licences, voir [docs/GOVERNANCE.md](docs/GOVERNANCE.md).
 
 ## Équipe et contributions
 
 Ce projet est développé dans le cadre de la compétition Thirduni (Cohorte 1) par :
 
 * **Salim Mabed** : Collecte et structuration des 1 085 documents de la Banque d'Algérie (OCR arabe, segmentation, liens d'amendement), conception et développement du moteur gelé de recherche hybride, du reranker et du service LLM local (`agent_fr/`, `boa_pipeline/`, `llm_local/`), mise en place de la première application locale Flask et exécution des benchmarks de la Phase 4.
-* **Chouari Mohammed Anes** : Modernisation de l'espace de travail et de l'interface de vérification des sources (`local_app/`), implémentation de l'adaptateur de sécurité de production (filtrage Host/Origin et gestion de la concurrence avec en-tête `Retry-After`), architecture et outillage de déploiement Linux WSGI / Gunicorn / Nginx / systemd (`deploy/`), et mesures de latence et d'empreinte mémoire RSS.
+* **Chouari Mohammed Anes** : Modernisation de l'espace de travail et de l'interface de vérification des sources (`local_app/`), implémentation de l'adaptateur de sécurité de production (filtrage Host/Origin, limitation de débit native par IP avec en-têtes `Retry-After`), architecture et outillage de déploiement Linux WSGI / Gunicorn / Nginx / systemd (`deploy/`), résolveur de clés de vecteurs pour la réplication multiplateforme (`deploy/ensure_vectors.py`), pipeline d'intégration continue GitHub Actions (`.github/workflows/ci.yml`), et mesures de latence et d'empreinte mémoire RSS.
 
 ## Gouvernance, données et licences (Split Licensing)
 

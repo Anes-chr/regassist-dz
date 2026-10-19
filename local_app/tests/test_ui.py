@@ -2,6 +2,7 @@
 lance Node, puis affiche « Tests UI : X/Y ». Lancer : python local_app/tests/test_ui.py"""
 import os
 import re
+import shutil
 import socket
 import subprocess
 import sys
@@ -33,7 +34,7 @@ def start(port: int, *extra) -> subprocess.Popen:
 
 
 def main() -> int:
-    node = subprocess.run(["where", "node"], capture_output=True, text=True).stdout.split("\n")[0].strip() or "node"
+    node = shutil.which("node") or "node"
     p1, p2 = free_port(), free_port()
     s1 = start(p1, "--delay", "0.7")
     s2 = start(p2, "--delay", "0.2", "--llm-offline")

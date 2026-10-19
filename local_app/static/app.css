@@ -111,7 +111,6 @@ h1, h2, h3, p { margin: 0; }
 .cite { font: inherit; font-size: 13px; font-weight: 700; padding: 0 3px; color: var(--blue-700); background: var(--blue-100); border: 0; border-radius: 3px; cursor: pointer; }
 .cite:hover { background: #cfe0f3; }
 .cited-list { margin-top: 12px; font-size: 13px; color: var(--gray-700); }
-.timing-badge { margin-top: 10px; padding: 4px 10px; font-size: 12px; color: var(--gray-700); background: var(--gray-100); border: 1px solid var(--gray-300); border-radius: 4px; display: inline-block; }
 .disclaimer { margin-top: 10px; padding-top: 8px; border-top: 1px solid var(--gray-200); font-size: 12.5px; color: var(--gray-500); }
 .loading { color: var(--gray-700); }
 .loading .elapsed { font-weight: 700; }

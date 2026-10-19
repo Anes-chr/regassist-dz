@@ -6,6 +6,7 @@ Lancer : python local_app/tests/test_integration.py   (affiche « Tests intégra
 import json
 import os
 import re
+import shutil
 import socket
 import subprocess
 import sys
@@ -23,6 +24,7 @@ sys.path.insert(0, str(ROOT))
 
 Q_REAL = "Quel est le plafond d'indemnisation par déposant ?"
 Q_REFUS = "Quelle est la capitale de la France ?"
+# Both "Que dit l'article 3 ?" and "Que dit le règlement ?" trigger rule U-VAGUE (clarification)
 Q_VAGUE = "Que dit l'article 3 ?"
 LOOPBACK = {"127.0.0.1", "::1", "::ffff:127.0.0.1"}
 WIN_PATH = re.compile(r"(?<![A-Za-z0-9])[A-Za-z]:[\\/]")
@@ -266,7 +268,7 @@ def test_application_refuses_to_start_when_the_frozen_engine_would_be_modified()
 
 def run_browser_end_to_end():
     """Interface -> ... -> réponse affichée, dans un vrai navigateur (2 tests Node). Retourne (réussis, total)."""
-    node = subprocess.run(["where", "node"], capture_output=True, text=True).stdout.split("\n")[0].strip() or "node"
+    node = shutil.which("node") or "node"
     env = dict(os.environ, UI_URL_REAL=T.url + "/")
     r = subprocess.run([node, "--test", "--test-timeout=400000", "--test-reporter=spec", str(ROOT / "local_app" / "tests" / "test_ui_real.mjs")], env=env, cwd=ROOT,
                        capture_output=True, text=True, encoding="utf-8", timeout=900)

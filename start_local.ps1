@@ -50,7 +50,14 @@ $engineVars = 'AGENT_RETRIEVER','AGENT_RERANK_N','AGENT_W_RERANK','AGENT_RR_MIN'
 $setVars = $engineVars | Where-Object { [Environment]::GetEnvironmentVariable($_) -and -not ($_ -eq 'AGENT_RETRIEVER' -and @('auto','default','hybrid_rerank') -contains [Environment]::GetEnvironmentVariable($_).ToLower()) }
 if ($setVars) { Fail ("variable(s) d'environnement qui modifient le systeme fige : " + ($setVars -join ', ') + ". Retirez-les (Remove-Item Env:NOM) avant de demarrer.") }
 
-# ---- 1b. Option -Lan : adresse privee de cette machine + code d'acces (verifie AVANT de demarrer quoi que ce soit) ----
+# ---- 1b. Alignement des cles de vecteurs d'execution (evite FileNotFoundError du a l'horodatage mtime) ----
+try {
+    & $python.Source -m deploy.ensure_vectors (Join-Path $LLM_ROOT 'index') | Out-Null
+} catch {
+    Write-Host "ATTENTION : resolution automatique des vecteurs (ensure_vectors) : $($_.Exception.Message)" -ForegroundColor Yellow
+}
+
+# ---- 1c. Option -Lan : adresse privee de cette machine + code d'acces (verifie AVANT de demarrer quoi que ce soit) ----
 $lanIpUse = $null; $lanCode = $null
 if ($NoCode -and -not $Lan) { Fail "-NoCode n'a de sens qu'avec -Lan (acces reseau)." }
 if ($Lan) {

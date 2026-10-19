@@ -57,7 +57,7 @@ def log_questions() -> bool:
 
 # Variables qui modifient le comportement du moteur gelé (seuils, poids, modèles, jeux de données, moteur, mode de décodage).
 # Si l'une d'elles est définie dans l'environnement, l'application refuse de démarrer : elle servirait un système qui n'est plus PHASE_4_FROZEN.
-ENGINE_ENV = ("AGENT_RETRIEVER", "AGENT_RERANK_N", "AGENT_W_RERANK", "AGENT_RR_MIN", "AGENT_LANGS", "AGENT_RERANK_DIR", "AGENT_RERANK_MODEL",
-              "AGENT_EMBED_DIR", "AGENT_VECTOR_DIR", "AGENT_JSON_SCHEMA")
+ENGINE_ENV = ("AGENT_RETRIEVER", "AGENT_RERANK_N", "AGENT_W_RERANK", "AGENT_RR_MIN", "AGENT_LANGS", "AGENT_RERANK_MODEL",
+              "AGENT_JSON_SCHEMA", "AGENT_RERANK_DIR", "AGENT_EMBED_DIR", "AGENT_VECTOR_DIR", "AGENT_CORPUS_DIR")
 # Variables neutralisées PAR L'APPLICATION dans son propre processus (le LLM est local, jamais distant).
 REMOTE_ENV = ("AGENT_ALLOW_REMOTE_LLM", "ANTHROPIC_API_KEY", "AGENT_MODEL")
