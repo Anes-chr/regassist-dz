@@ -20,6 +20,7 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 from . import config as C
+from . import grounding
 from . import smalltalk
 
 LOG = logging.getLogger("local_app")
@@ -223,6 +224,7 @@ class Service:
         self._warm = {"state": "pending", "engine": None, "embed_ok": False, "rerank_ok": False, "error": None, "duration_ms": None,
                       "documents": None, "passages": None}
         self._types = {}
+        self._texts = {}                                                         # chunk_id -> texte complet du passage (pour vérifier qu'un terme défini figure dans les sources)
         self._llm_cache = (0.0, None)
         self._freeze_cache = (0.0, None)
 
@@ -243,6 +245,7 @@ class Service:
                 ag = self.agent
                 idx = ag.get_index()
                 self._types = {c.get("chunk_id"): c.get("document_type") for c in idx.chunks}
+                self._texts = {c.get("chunk_id"): c.get("text") for c in idx.chunks if c.get("text")}        # mêmes objets chaîne que l'index : pas de copie
                 res = ag.search(idx, C.WARMUP_QUESTION, 3)
                 t = getattr(res, "timings", None) or {}
                 self._warm.update(documents=len(idx.docs), passages=len(idx.chunks), embed_ok="embed_question_ms" in t, rerank_ok="rerank_ms" in t,
@@ -367,7 +370,7 @@ class Service:
             llm_up = bool(self._llm_fresh().get("online"))
             t0 = time.perf_counter()
             try:
-                out = self.agent.ask(q, use_llm=True)                           # appel inchangé : mêmes paramètres que l'interface existante (k par défaut)
+                out = self.agent.ask(grounding.normalise_question(q), use_llm=True)     # appel inchangé (mêmes paramètres que l'interface existante) ; seules les apostrophes/espaces typographiques sont ramenés à l'ASCII
             except (FileNotFoundError, ImportError, OSError, MemoryError) as e:
                 err = type(e).__name__
                 raise ServiceError(503, "agent_unavailable", "Le service de recherche est momentanément indisponible. Réessayez dans un instant.") from e
@@ -375,7 +378,7 @@ class Service:
                 err = type(e).__name__
                 raise ServiceError(500, "internal_error", "Une erreur est survenue. Réessayez dans un instant.") from e
             pipeline_ms = round((time.perf_counter() - t0) * 1000)
-            payload = self._shape(q, out, llm_up, pipeline_ms)
+            payload = self._ground(q, out, self._shape(q, out, llm_up, pipeline_ms))
             status, n_src = payload["status"], len(payload["sources"])
             self._observe(out)
             payload["durations_ms"]["api"] = round((time.perf_counter() - t_api) * 1000)
@@ -392,6 +395,21 @@ class Service:
                      embed_ms=t.get("embed_question_ms"), retrieval_ms=t.get("total_ms"), rerank_ms=t.get("rerank_ms"),
                      generation_ms=round(out["latency_s"] * 1000) if out and out.get("mode") == "llm" and out.get("latency_s") is not None else None,
                      total_ms=round((time.perf_counter() - t_api) * 1000), llm_online=llm_up)
+
+    def _ground(self, q: str, out: dict, payload: dict) -> dict:
+        """Garde-fou de définition (voir grounding.py) : une réponse rédigée à une question « c'est quoi X ? » est retirée si X ne figure dans aucun des textes retrouvés.
+        Ne fait que transformer une réponse en refus ; n'ajoute jamais de contenu juridique."""
+        if payload["status"] != "answered":
+            return payload
+        texts = []
+        for c in (out.get("sources") or out.get("citations") or []):
+            texts += [c.get("titre"), c.get("extrait"), c.get("texte"), self._texts.get(c.get("chunk_id"))]
+        term = grounding.unsupported_term(q, texts)
+        if term is None:
+            return payload
+        self.log("guard", name="terme_absent", term_chars=len(term))
+        payload.update(status="refused", found=False, reason="terme_absent", answer=grounding.MESSAGE.format(term=term), citations=[], sources=[], notes=[], texts=[], texts_intro=None)
+        return payload
 
     def _llm_fresh(self) -> dict:
         self._llm_cache = (0.0, None)

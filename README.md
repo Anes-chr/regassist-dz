@@ -91,6 +91,7 @@ L'application locale (`local_app/`) n'est qu'une couche d'accès : elle appelle 
 
 ```powershell
 python local_app/tests/test_api.py          # API, avec un faux agent (sans modèle)
+python local_app/tests/test_grounding.py    # garde-fous : saisie normalisée, définition non soutenue par les textes retirée
 python local_app/tests/test_smalltalk.py    # messages de courtoisie (« Bonjour », « Merci », « Qui es-tu ? »)
 python local_app/tests/test_lan.py          # accès réseau optionnel : code d'accès, sessions, blocage, liaisons
 python local_app/tests/test_ui.py           # interface dans Edge/Chrome sans fenêtre (Node >= 22)
@@ -107,6 +108,8 @@ python tests/test_phase5_freeze.py          # tests du système : un script par 
 | Gel et statut | [docs/PHASE_4_FROZEN.md](docs/PHASE_4_FROZEN.md) |
 | Relecture par un juriste | [docs/NOTE_AU_JURISTE.md](docs/NOTE_AU_JURISTE.md), [docs/HUMAN_REVIEW.md](docs/HUMAN_REVIEW.md), [docs/HUMAN_REVIEW_QUICKSTART.md](docs/HUMAN_REVIEW_QUICKSTART.md), [docs/CAS_CRITIQUES_A_EXAMINER.md](docs/CAS_CRITIQUES_A_EXAMINER.md) |
 | Application locale | [docs/LOCAL_DEPLOYMENT.md](docs/LOCAL_DEPLOYMENT.md), [docs/LOCAL_UI.md](docs/LOCAL_UI.md) |
+| Réponses fausses observées en usage (pour le juriste) | [docs/CAS_OBSERVES_EN_USAGE.md](docs/CAS_OBSERVES_EN_USAGE.md) |
+| Tâches ouvertes (issues GitHub T1 à T12) | [docs/TASKS.md](docs/TASKS.md) |
 | Autre machine | [docs/REPLICATION.md](docs/REPLICATION.md) |
 | Mise à jour du corpus | [docs/UPDATE.md](docs/UPDATE.md) |
 | LLM local | [llm_local/README.md](llm_local/README.md) |
