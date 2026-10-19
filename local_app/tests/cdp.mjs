@@ -33,23 +33,51 @@ const freePort = () => new Promise((res) => { const s = net.createServer(); s.li
 export async function startBrowser() {
   const exe = findBrowser();
   assert.ok(exe, 'Aucun navigateur Edge/Chrome trouvé');
-  const profile = fs.mkdtempSync(path.join(os.tmpdir(), 'local_app_ui_'));
-  const port = await freePort();
-  // --host-resolver-rules : toute résolution DNS hors 127.0.0.1 échoue (navigateur sans accès Internet) : si les tests passent, l'interface n'a besoin d'aucune ressource externe.
-  const flags = [
-    '--headless=new', '--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage',
-    '--disable-gpu', '--no-first-run', '--no-default-browser-check', '--disable-extensions',
-    '--host-resolver-rules=MAP * ~NOTFOUND , EXCLUDE 127.0.0.1', `--user-data-dir=${profile}`,
-    `--remote-debugging-port=${port}`, '--remote-allow-origins=*', '--window-size=1360,900', 'about:blank'
-  ];
-  const proc = spawn(exe, flags, { stdio: 'ignore' });
-  let target;
-  for (let i = 0; i < 100 && !target; i++) {
-    await sleep(200);
-    try { const l = await (await fetch(`http://127.0.0.1:${port}/json/list`)).json(); target = l.find((t) => t.type === 'page'); } catch (e) { /* démarrage */ }
+
+  let target, proc, profile, wsUrl, lastError = '';
+  for (let attempt = 0; attempt < 3 && !target; attempt++) {
+    profile = fs.mkdtempSync(path.join(os.tmpdir(), 'local_app_ui_'));
+    const port = await freePort();
+    const flags = [
+      '--headless=new', '--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage',
+      '--disable-gpu', '--no-first-run', '--no-default-browser-check', '--disable-extensions',
+      '--host-resolver-rules=MAP * ~NOTFOUND , EXCLUDE 127.0.0.1', `--user-data-dir=${profile}`,
+      `--remote-debugging-port=${port}`, '--remote-allow-origins=*', '--window-size=1360,900', 'about:blank'
+    ];
+    let stderr = '';
+    proc = spawn(exe, flags, { stdio: ['ignore', 'ignore', 'pipe'] });
+    if (proc.stderr) proc.stderr.on('data', (d) => { stderr += d.toString(); });
+    for (let i = 0; i < 60 && !target; i++) {
+      if (proc.exitCode !== null) {
+        lastError = `le processus s'est arrêté avec code ${proc.exitCode} : ${stderr}`;
+        break;
+      }
+      await sleep(200);
+      try {
+        const res = await fetch(`http://127.0.0.1:${port}/json/list`);
+        const l = await res.json();
+        target = l.find((t) => t.type === 'page') || l[0];
+        if (target && target.webSocketDebuggerUrl) {
+          wsUrl = target.webSocketDebuggerUrl;
+          break;
+        }
+      } catch (e) {
+        lastError = e.message;
+      }
+    }
+    if (!target) {
+      try {
+        if (process.platform === 'win32') {
+          spawnSync('taskkill', ['/PID', String(proc.pid), '/T', '/F'], { stdio: 'ignore' });
+        } else {
+          proc.kill('SIGKILL');
+        }
+      } catch {}
+      try { fs.rmSync(profile, { recursive: true, force: true }); } catch {}
+    }
   }
-  assert.ok(target, 'Le navigateur de test ne répond pas');
-  const ws = new WebSocket(target.webSocketDebuggerUrl);
+  assert.ok(target && wsUrl, 'Le navigateur de test ne répond pas : ' + lastError);
+  const ws = new WebSocket(wsUrl);
   await new Promise((res, rej) => { ws.onopen = res; ws.onerror = () => rej(new Error('WebSocket DevTools')); });
 
   let nextId = 0;
@@ -87,7 +115,11 @@ export async function startBrowser() {
   B.ask = (q) => B.ev(`(() => { const t = document.getElementById('question'); t.value = ${JSON.stringify(q)}; t.dispatchEvent(new Event('input', { bubbles: true })); document.getElementById('form').requestSubmit(); })()`);
   B.close = () => {
     try { ws.close(); } catch (e) { /* ignoré */ }
-    spawnSync('taskkill', ['/PID', String(proc.pid), '/T', '/F'], { stdio: 'ignore' });
+    if (process.platform === 'win32') {
+      try { spawnSync('taskkill', ['/PID', String(proc.pid), '/T', '/F'], { stdio: 'ignore' }); } catch {}
+    } else {
+      try { proc.kill('SIGKILL'); } catch {}
+    }
     setTimeout(() => { try { fs.rmSync(profile, { recursive: true, force: true }); } catch (e) { /* profil temporaire : sans importance */ } }, 1500).unref();
   };
   for (const d of ['Page', 'Runtime', 'Network', 'Log']) await B.send(d + '.enable');
