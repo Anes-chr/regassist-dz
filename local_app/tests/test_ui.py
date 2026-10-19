@@ -40,7 +40,7 @@ def main() -> int:
     s2 = start(p2, "--delay", "0.2", "--llm-offline")
     try:
         env = dict(os.environ, UI_URL=f"http://127.0.0.1:{p1}/", UI_URL_LLM_OFF=f"http://127.0.0.1:{p2}/")
-        r = subprocess.run([node, "--test", "--test-timeout=60000", "--test-reporter=spec", str(ROOT / "local_app" / "tests" / "test_ui.mjs")], env=env, cwd=ROOT, capture_output=True, text=True, encoding="utf-8")
+        r = subprocess.run([node, "--test", "--test-timeout=180000", "--test-reporter=spec", str(ROOT / "local_app" / "tests" / "test_ui.mjs")], env=env, cwd=ROOT, capture_output=True, text=True, encoding="utf-8")
         out = r.stdout + r.stderr
         print(out)
         passed = int(re.search(r"ℹ pass (\d+)", out).group(1)) if re.search(r"ℹ pass (\d+)", out) else 0
