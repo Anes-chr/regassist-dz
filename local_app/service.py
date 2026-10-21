@@ -135,12 +135,143 @@ def validate_payload(data) -> str:
     return q
 
 
+ALLOWED_PATH_VARS = frozenset({
+    "AGENT_CORPUS_DIR", "AGENT_VECTOR_DIR", "AGENT_INDEX_DIR",
+    "AGENT_EMBED_DIR", "AGENT_RERANK_DIR", "AGENT_MODELS_DIR"
+})
+
+
+def sha256_file(path: Path) -> str:
+    """Calcule le hachage SHA-256 d'un fichier par blocs de 64 Ko."""
+    h = hashlib.sha256()
+    with open(path, "rb") as f:
+        while chunk := f.read(65536):
+            h.update(chunk)
+    return h.hexdigest()
+
+
+def verify_path_overrides_hashes(env=None):
+    """Vérifie l'intégrité cryptographique SHA-256 des modèles, vecteurs et corpus
+    lorsqu'une variable de chemin est surchargée dans l'environnement.
+    Empêche le remplacement silencieux des modèles ou des données du gel PHASE_4_FROZEN."""
+    env = os.environ if env is None else env
+    manifest_path = C.FREEZE_MANIFEST
+    if not manifest_path.is_file():
+        raise SystemExit(f"Manifeste du gel introuvable : {manifest_path}")
+
+    try:
+        manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+    except Exception as e:
+        raise SystemExit(f"Lecture du manifeste du gel impossible : {e}")
+
+    # 1. Hachages attendus pour les modèles
+    models_manifest = manifest.get("modeles", {})
+    expected_embed_onnx = "ca456c06b3a9505ddfd9131408916dd79290368331e7d76bb621f1cba6bc8665"
+    expected_embed_tok = "0b44a9d7b51c3c62626640cda0e2c2f70fdacdc25bbbd68038369d14ebdf4c39"
+    expected_rerank_onnx = "6c2513767fb63d008a4377bef7a7a3555433d9436342bb53e35a3a72ffc52d4b"
+    expected_rerank_tok = "62c24cdc13d4c9952d63718d6c9fa4c287974249e16b7ade6d5a85e7bbb75626"
+
+    for path_str, meta in models_manifest.items():
+        norm = path_str.replace("\\", "/").lower()
+        sha = meta.get("sha256")
+        if not sha:
+            continue
+        if "multilingual-e5-small" in norm and norm.endswith("model.onnx"):
+            expected_embed_onnx = sha
+        elif "multilingual-e5-small" in norm and norm.endswith("tokenizer.json"):
+            expected_embed_tok = sha
+        elif "mmarco" in norm and norm.endswith(".onnx"):
+            expected_rerank_onnx = sha
+        elif "mmarco" in norm and norm.endswith("tokenizer.json"):
+            expected_rerank_tok = sha
+
+    # 2. Hachage attendu pour les vecteurs
+    expected_vec_sha = "31f4edbf526866d3566af63512de75c50aa101971a6cc966a537d4850f89d51e"
+    vec_dict = manifest.get("index", {}).get("vecteurs", {})
+    for k, v in vec_dict.items():
+        if k.endswith(".npy") and "sha256" in v:
+            expected_vec_sha = v["sha256"]
+            break
+
+    # 3. Hachages attendus pour le corpus
+    corpus_files = dict(manifest.get("corpus", {}).get("instantane_fichiers", {}))
+
+    # --- Vérification AGENT_EMBED_DIR ---
+    if "AGENT_EMBED_DIR" in env and env["AGENT_EMBED_DIR"]:
+        embed_dir = Path(env["AGENT_EMBED_DIR"])
+        if not embed_dir.is_dir():
+            raise SystemExit(f"AGENT_EMBED_DIR ({embed_dir}) n'est pas un dossier existant.")
+        model_p = embed_dir / "onnx" / "model.onnx"
+        if not model_p.exists():
+            model_p = embed_dir / "model.onnx"
+        tok_p = embed_dir / "tokenizer.json"
+        if not model_p.exists():
+            raise SystemExit(f"Fichier modèle ONNX manquant dans AGENT_EMBED_DIR : {model_p}")
+        if not tok_p.exists():
+            raise SystemExit(f"Fichier tokenizer.json manquant dans AGENT_EMBED_DIR : {tok_p}")
+        m_sha = sha256_file(model_p)
+        if m_sha != expected_embed_onnx:
+            raise SystemExit(f"Empreinte SHA-256 non conforme pour {model_p.name} ({m_sha} != {expected_embed_onnx}).")
+        t_sha = sha256_file(tok_p)
+        if t_sha != expected_embed_tok:
+            raise SystemExit(f"Empreinte SHA-256 non conforme pour {tok_p.name} ({t_sha} != {expected_embed_tok}).")
+
+    # --- Vérification AGENT_RERANK_DIR ---
+    if "AGENT_RERANK_DIR" in env and env["AGENT_RERANK_DIR"]:
+        rerank_dir = Path(env["AGENT_RERANK_DIR"])
+        if not rerank_dir.is_dir():
+            raise SystemExit(f"AGENT_RERANK_DIR ({rerank_dir}) n'est pas un dossier existant.")
+        model_p = rerank_dir / "onnx" / "model_quint8_avx2.onnx"
+        if not model_p.exists():
+            model_p = rerank_dir / "model_quint8_avx2.onnx"
+        tok_p = rerank_dir / "tokenizer.json"
+        if not model_p.exists():
+            raise SystemExit(f"Fichier modèle ONNX manquant dans AGENT_RERANK_DIR : {model_p}")
+        if not tok_p.exists():
+            raise SystemExit(f"Fichier tokenizer.json manquant dans AGENT_RERANK_DIR : {tok_p}")
+        m_sha = sha256_file(model_p)
+        if m_sha != expected_rerank_onnx:
+            raise SystemExit(f"Empreinte SHA-256 non conforme pour {model_p.name} ({m_sha} != {expected_rerank_onnx}).")
+        t_sha = sha256_file(tok_p)
+        if t_sha != expected_rerank_tok:
+            raise SystemExit(f"Empreinte SHA-256 non conforme pour {tok_p.name} ({t_sha} != {expected_rerank_tok}).")
+
+    # --- Vérification AGENT_VECTOR_DIR / AGENT_INDEX_DIR ---
+    vec_key = "AGENT_VECTOR_DIR" if ("AGENT_VECTOR_DIR" in env and env["AGENT_VECTOR_DIR"]) else ("AGENT_INDEX_DIR" if ("AGENT_INDEX_DIR" in env and env["AGENT_INDEX_DIR"]) else None)
+    if vec_key:
+        vec_dir = Path(env[vec_key])
+        if not vec_dir.is_dir():
+            raise SystemExit(f"{vec_key} ({vec_dir}) n'est pas un dossier existant.")
+        npys = list(vec_dir.glob("*.npy"))
+        if not npys:
+            raise SystemExit(f"Aucun fichier de vecteurs (.npy) trouvé dans {vec_dir}.")
+        for npy in npys:
+            n_sha = sha256_file(npy)
+            if n_sha != expected_vec_sha:
+                raise SystemExit(f"Empreinte SHA-256 non conforme pour le vecteur {npy.name} ({n_sha} != {expected_vec_sha}).")
+
+    # --- Vérification AGENT_CORPUS_DIR ---
+    if "AGENT_CORPUS_DIR" in env and env["AGENT_CORPUS_DIR"]:
+        corpus_dir = Path(env["AGENT_CORPUS_DIR"])
+        if not corpus_dir.is_dir():
+            raise SystemExit(f"AGENT_CORPUS_DIR ({corpus_dir}) n'est pas un dossier existant.")
+        for fname in ("documents_fr.json", "chunks_fr.jsonl"):
+            fp = corpus_dir / fname
+            if fp.exists():
+                expected = corpus_files.get(fname)
+                if expected:
+                    c_sha = sha256_file(fp)
+                    if c_sha != expected:
+                        raise SystemExit(f"Empreinte SHA-256 non conforme pour le corpus {fname} ({c_sha} != {expected}).")
+
+
 def check_environment(env=None) -> dict:
     """Garde-fous exécutés au démarrage, sur le processus de l'application uniquement (aucun fichier n'est modifié).
 
     * LLM : toujours LOCAL. Les variables qui activeraient un LLM distant sont retirées de l'environnement du processus ; l'URL du LLM local doit être une adresse de bouclage.
-    * Moteur : seules les variables de chemin (AGENT_*_DIR) sont tolérées pour adapter l'arborescence (alors signalées dans /api/status).
-      Toute variable modifiant le comportement du moteur gelé (seuil, poids, modèle, moteur de recherche…) entraîne un refus de démarrer.
+    * Moteur : seules les variables de chemin autorisées (ALLOWED_PATH_VARS) sont tolérées pour adapter l'arborescence
+      (alors vérifiées cryptographiquement par SHA-256 contre le manifeste et signalées dans /api/status).
+      Toute variable modifiant le comportement du moteur gelé (seuil, poids, modèle, moteur de recherche…) ou variable de chemin inconnue entraîne un refus de démarrer.
     """
     env = os.environ if env is None else env
     neutralised = []
@@ -156,19 +287,22 @@ def check_environment(env=None) -> dict:
         raise SystemExit("AGENT_LOCAL_URL ne désigne pas la machine locale : refus de démarrer (le corpus ne doit pas quitter l'ordinateur).")
     overrides = []
     forbidden = []
-    for name in C.ENGINE_ENV:
+    checked_vars = set(C.ENGINE_ENV) | {k for k in env if k.startswith("AGENT_") and k not in ("AGENT_LLM", "AGENT_LOCAL_URL", "AGENT_LOCAL_MODEL_NAME")}
+    for name in sorted(checked_vars):
         val = env.get(name, "")
         if not val:
             continue
         if name == "AGENT_RETRIEVER" and val.lower() in ("auto", "default", "hybrid_rerank"):
             continue                                                          # = moteur par défaut du système gelé
-        if name.endswith("_DIR"):
+        if name in ALLOWED_PATH_VARS:
             overrides.append(name)                                            # variable de chemin autorisée (ex. AGENT_VECTOR_DIR)
         else:
-            forbidden.append(name)                                            # seuil, poids, modèle ou moteur : strictement refusé
+            forbidden.append(name)                                            # seuil, poids, modèle ou chemin non autorisé : strictement refusé
     if forbidden:
-        raise SystemExit("Variable(s) d'environnement qui modifient le comportement du système gelé (seuils, poids, modèles) : " + ", ".join(forbidden)
+        raise SystemExit("Variable(s) d'environnement qui modifient le comportement du système gelé (seuils, poids, modèles) ou chemins non autorisés : " + ", ".join(forbidden)
                          + ". Retirez-les (le système PHASE_4_FROZEN ne se configure pas).")
+    if overrides:
+        verify_path_overrides_hashes(env)
     return {"neutralised": sorted(set(neutralised)), "engine_overrides": overrides}
 
 

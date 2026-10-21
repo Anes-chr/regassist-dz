@@ -140,12 +140,14 @@ Ce projet est développé dans le cadre de la compétition Thirduni (Cohorte 1) 
 * **Salim Mabed** : Collecte et structuration des 1 085 documents de la Banque d'Algérie (OCR arabe, segmentation, liens d'amendement), conception et développement du moteur gelé de recherche hybride, du reranker et du service LLM local (`agent_fr/`, `boa_pipeline/`, `llm_local/`), mise en place de la première application locale Flask et exécution des benchmarks de la Phase 4.
 * **Chouari Mohammed Anes** : Modernisation de l'espace de travail et de l'interface de vérification des sources (`local_app/`), implémentation de l'adaptateur de sécurité de production (filtrage Host/Origin, limitation de débit native par IP avec en-têtes `Retry-After`), architecture et outillage de déploiement Linux WSGI / Gunicorn / Nginx / systemd (`deploy/`), résolveur de clés de vecteurs pour la réplication multiplateforme (`deploy/ensure_vectors.py`), pipeline d'intégration continue GitHub Actions (`.github/workflows/ci.yml`), et mesures de latence et d'empreinte mémoire RSS.
 
+Code et documentation produits avec l'assistance d'une IA (Claude). Ce projet n'est pas un conseil juridique.
+
 ## Gouvernance, données et licences (Split Licensing)
 
 Le projet applique une séparation stricte entre le code logiciel, le corpus réglementaire et les modèles tiers :
 
 ### 1. Code source logiciel
-Le code applicatif, les scripts de déploiement et les composants créés par l'équipe font l'objet d'un choix de licence en cours de confirmation entre les co-auteurs (Salim Mabed et Chouari Mohammed Anes). Par respect des droits de propriété intellectuelle du créateur initial de la base de code, aucun fichier de licence unilatéral n'est appliqué sans accord mutuel.
+Licence : à définir (voir issue #6). En l'absence de licence explicite, tous droits réservés.
 
 ### 2. Attribution du corpus réglementaire officiel
 Les textes réglementaires (règlements, instructions, notes) et documents PDF/HTML présents dans `corpus/` proviennent de publications **publiques** accessibles sur le site officiel de la **Banque d'Algérie** ([bank-of-algeria.dz](https://www.bank-of-algeria.dz)).

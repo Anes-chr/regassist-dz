@@ -46,7 +46,7 @@ RegAssist DZ applique le principe de protection des données dès la conception 
 Le projet applique une séparation stricte entre les différentes composantes :
 
 ### 4.1. Code logiciel développé
-Le code source de l'application, les tests, les scripts d'administration et les fichiers de configuration développés par l'équipe font l'objet d'un accord de licence en cours de finalisation entre les co-auteurs. Aucun fichier de licence unilatéral ne peut être appliqué sans le consentement mutuel de Salim Mabed et Chouari Mohammed Anes.
+Licence : à définir (voir issue #6). En l'absence de licence explicite, tous droits réservés.
 
 ### 4.2. Corpus réglementaire de la Banque d'Algérie
 Les textes réglementaires (règlements, instructions, notes et circulaires) reproduits dans le dossier `corpus/` sont des documents publics émanant de la **Banque d'Algérie** ([bank-of-algeria.dz](https://www.bank-of-algeria.dz)).

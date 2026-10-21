@@ -28,34 +28,88 @@ _PUBLIC_IN_LAN = {"/login", "/login.css", "/favicon.svg", "/favicon.ico", "/api/
 
 
 class RateLimiter:
-    """Limiteur de requêtes en mémoire par adresse IP (fenêtre glissante de 60s)."""
+    """Limiteur de requêtes en mémoire par adresse IP (fenêtre glissante avec élagage actif et capacité bornée)."""
 
-    def __init__(self, max_requests: int = 10, window_s: int = 60):
+    def __init__(self, max_requests: int = 10, window_s: int = 60, max_ips: int = 4096):
         self.max_requests = max_requests
         self.window_s = window_s
+        self.max_ips = max_ips
         self.lock = threading.Lock()
-        self.history: dict[str, list[float]] = collections.defaultdict(list)
+        self.history: collections.OrderedDict[str, list[float]] = collections.OrderedDict()
+        self._last_prune = time.time()
 
     def is_allowed(self, client_ip: str) -> tuple[bool, int]:
         now = time.time()
+        cutoff = now - self.window_s
         with self.lock:
-            times = self.history[client_ip]
-            cutoff = now - self.window_s
-            while times and times[0] <= cutoff:
-                times.pop(0)
-            if len(times) >= self.max_requests:
+            # 1. Élagage périodique ou déclenché par seuil de taille
+            if now - self._last_prune >= self.window_s or len(self.history) >= 256:
+                expired = [ip for ip, times in self.history.items() if not times or times[-1] <= cutoff]
+                for ip in expired:
+                    del self.history[ip]
+                self._last_prune = now
+
+            # 2. Vérification et élagage de l'IP courante
+            times = self.history.get(client_ip)
+            if times:
+                while times and times[0] <= cutoff:
+                    times.pop(0)
+                if not times:
+                    del self.history[client_ip]
+                    times = None
+
+            if times and len(times) >= self.max_requests:
                 retry_after = max(1, int(times[0] + self.window_s - now))
                 return False, retry_after
-            times.append(now)
-            if len(self.history) > 5000:
-                for ip in list(self.history.keys()):
-                    if not self.history[ip]:
-                        del self.history[ip]
+
+            # 3. Insertion / mise à jour avec protection anti-saturation (LRU eviction)
+            if client_ip not in self.history:
+                if len(self.history) >= self.max_ips:
+                    self.history.popitem(last=False)
+                self.history[client_ip] = [now]
+            else:
+                times.append(now)
+                self.history.move_to_end(client_ip)
+
             return True, 0
+
+    def prune(self, now: float | None = None):
+        """Élagage explicite des entrées expirées (utile pour les tests et la maintenance)."""
+        now = time.time() if now is None else now
+        cutoff = now - self.window_s
+        with self.lock:
+            expired = [ip for ip, times in self.history.items() if not times or times[-1] <= cutoff]
+            for ip in expired:
+                del self.history[ip]
+            self._last_prune = now
 
     def reset(self):
         with self.lock:
             self.history.clear()
+            self._last_prune = time.time()
+
+
+def extract_client_ip(req, mode: str) -> str:
+    """Résout l'adresse IP cliente pour le rate limiting.
+    Ne fait confiance aux en-têtes X-Real-IP et X-Forwarded-For QUE si le pair direct du socket
+    est la boucle locale (127.0.0.1 ou ::1) ET que l'application s'exécute en mode production.
+    Dans tous les autres cas (mode local, mode LAN, ou connexion directe sans proxy), l'adresse
+    du pair direct (req.remote_addr) est strictement utilisée."""
+    peer = (req.remote_addr or "").strip()
+    if not peer:
+        peer = "127.0.0.1"
+
+    if mode == "production" and peer in ("127.0.0.1", "::1", "::ffff:127.0.0.1"):
+        forwarded = (req.headers.get("X-Real-IP") or "").strip()
+        if not forwarded:
+            xff = req.headers.get("X-Forwarded-For", "")
+            if xff:
+                forwarded = xff.split(",")[-1].strip()
+        if forwarded:
+            clean = forwarded[:64]
+            if clean:
+                return clean
+    return peer
 
 
 def create_app(service: Service, port: int | None = None, lan: "L.LanAccess | None" = None,
@@ -84,6 +138,7 @@ def create_app(service: Service, port: int | None = None, lan: "L.LanAccess | No
         window_s=int(os.environ.get("REGASSIST_RATE_WINDOW", "60")),
     )
     app.rate_limiter = limiter
+    app.deploy_mode = mode
 
     def err(http: int, code: str, message: str):
         r = jsonify({"error": {"code": code, "message": message}})
@@ -182,10 +237,7 @@ def create_app(service: Service, port: int | None = None, lan: "L.LanAccess | No
 
     @app.post("/api/chat")
     def chat():
-        client_ip = (request.headers.get("X-Real-IP")
-                     or request.headers.get("X-Forwarded-For", "").split(",")[0].strip()
-                     or request.remote_addr
-                     or "127.0.0.1")
+        client_ip = extract_client_ip(request, mode)
         allowed, retry_after = app.rate_limiter.is_allowed(client_ip)
         if not allowed:
             resp = err(429, "rate_limited", f"Trop de requêtes. Veuillez patienter {retry_after} seconde(s).")

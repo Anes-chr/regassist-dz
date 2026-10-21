@@ -6,10 +6,12 @@ import re
 import sys
 import tempfile
 import threading
+import time
 import traceback
 from pathlib import Path
 
-sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
+ROOT = Path(__file__).resolve().parents[2]
+sys.path.insert(0, str(ROOT))
 
 from local_app import config as C                      # noqa: E402
 from local_app import service as S                     # noqa: E402
@@ -414,7 +416,14 @@ def test_environment_guard_forces_local_llm_and_refuses_behaviour_changing_varia
     else:
         raise AssertionError("AGENT_RETRIEVER=bm25 doit être refusé")
     assert S.check_environment({"AGENT_RETRIEVER": "auto"})["engine_overrides"] == []
-    assert S.check_environment({"AGENT_VECTOR_DIR": "/path/to/vectors"})["engine_overrides"] == ["AGENT_VECTOR_DIR"]
+    valid_vec_dir = str(ROOT / "replication" / "index")
+    assert S.check_environment({"AGENT_VECTOR_DIR": valid_vec_dir})["engine_overrides"] == ["AGENT_VECTOR_DIR"]
+    try:
+        S.check_environment({"AGENT_VECTOR_DIR": "/path/to/vectors"})
+    except SystemExit:
+        pass
+    else:
+        raise AssertionError("AGENT_VECTOR_DIR inexistant doit être refusé avec SystemExit")
     try:
         S.check_environment({"AGENT_RR_MIN": "0"})
     except SystemExit:
@@ -552,6 +561,141 @@ def test_production_mode_host_and_origin_allowlist():
                 os.environ.pop(k, None)
             else:
                 os.environ[k] = v
+
+
+def test_forged_header_bypass_rejected():
+    """Vérifie que la rotation d'en-têtes X-Forwarded-For / X-Real-IP ne contourne PAS la limitation en mode standard
+    et n'entraîne PAS de prolifération d'IPs en mémoire (Salim : test des 20 000 adresses forgées)."""
+    from local_app.server import RateLimiter
+    limiter = RateLimiter(max_requests=3, window_s=60)
+    _, c, _, _ = build()
+    c.application.rate_limiter = limiter
+
+    # En mode standard (local/LAN), les en-têtes sont ignorés : le client est identifié par son socket (127.0.0.1)
+    for i in range(1, 4):
+        headers = {"X-Forwarded-For": f"{i}.{i}.{i}.{i}", "X-Real-IP": f"{i}.{i}.{i}.{i}"}
+        r = post(c, {"question": "plafond"}, headers=headers)
+        assert r.status_code == 200, f"Requête {i} doit réussir"
+
+    # La 4e requête avec une nouvelle IP forgée DOIT être bloquée (429) car l'IP réelle est la même
+    headers_4 = {"X-Forwarded-For": "4.4.4.4", "X-Real-IP": "4.4.4.4"}
+    r4 = post(c, {"question": "plafond"}, headers=headers_4)
+    assert r4.status_code == 429
+    assert r4.get_json()["error"]["code"] == "rate_limited"
+
+    # La table ne contient qu'une seule entrée ("127.0.0.1"), pas 4
+    assert len(c.application.rate_limiter.history) == 1
+    assert "127.0.0.1" in c.application.rate_limiter.history
+
+
+def test_production_loopback_proxy_trust():
+    """Vérifie que X-Real-IP et X-Forwarded-For ne sont pris en compte QUE si le pair direct est loopback ET mode production."""
+    from local_app.server import extract_client_ip
+
+    class FakeReq:
+        def __init__(self, remote_addr, headers):
+            self.remote_addr = remote_addr
+            self.headers = headers
+
+    # 1. Mode production derrière proxy loopback (ex. Nginx local sur 127.0.0.1) -> En-têtes fiables
+    req_prod_loop = FakeReq("127.0.0.1", {"X-Real-IP": "198.51.100.1"})
+    assert extract_client_ip(req_prod_loop, "production") == "198.51.100.1"
+
+    req_prod_loop_xff = FakeReq("127.0.0.1", {"X-Forwarded-For": "203.0.113.195, 198.51.100.2"})
+    assert extract_client_ip(req_prod_loop_xff, "production") == "198.51.100.2"
+
+    req_prod_loop_v6 = FakeReq("::1", {"X-Real-IP": "203.0.113.50"})
+    assert extract_client_ip(req_prod_loop_v6, "production") == "203.0.113.50"
+
+    # En-tête surdimensionné tronqué à 64 caractères
+    req_long = FakeReq("127.0.0.1", {"X-Real-IP": "a" * 100})
+    assert len(extract_client_ip(req_long, "production")) == 64
+
+    # 2. Mode production avec pair NON-loopback (ex. accès direct externe sans proxy) -> En-têtes ignorés
+    req_prod_ext = FakeReq("192.168.1.100", {"X-Real-IP": "10.0.0.1", "X-Forwarded-For": "10.0.0.1"})
+    assert extract_client_ip(req_prod_ext, "production") == "192.168.1.100"
+
+    # 3. Mode local/LAN (non-production) même avec pair loopback -> En-têtes ignorés
+    req_local = FakeReq("127.0.0.1", {"X-Real-IP": "10.0.0.1", "X-Forwarded-For": "10.0.0.1"})
+    assert extract_client_ip(req_local, "local") == "127.0.0.1"
+
+
+def test_rate_limiter_memory_pruning_and_capacity_bound():
+    """Reproduit le test de saturation mémoire de Salim (20 000 adresses) :
+    1. La table ne dépasse jamais la borne max_ips (éviction LRU) même sous flux massif.
+    2. Les entrées expirées sont activement purgées lors de l'avance du temps."""
+    from local_app.server import RateLimiter
+
+    limiter = RateLimiter(max_requests=5, window_s=60, max_ips=512)
+
+    # Simulation de 20 000 requêtes d'adresses distinctes
+    for i in range(20000):
+        allowed, _ = limiter.is_allowed(f"fake_ip_{i}")
+        assert allowed is True
+
+    # Vérification de la borne mémoire : la table ne doit jamais dépasser max_ips (512)
+    assert len(limiter.history) <= 512
+
+    # Avance temporelle : au-delà de window_s, toutes les entrées sont expirées
+    future_time = time.time() + 100.0
+    limiter.prune(now=future_time)
+    assert len(limiter.history) == 0
+
+
+def test_tampered_model_and_vector_overrides_rejected():
+    """Vérifie que la falsification (1 octet modifié) des modèles ou vecteurs via les variables de chemin
+    est détectée immédiatement au démarrage par comparaison SHA-256 avec PHASE_4_FROZEN.manifest.json."""
+    # 1. Vecteur corrompu
+    with tempfile.TemporaryDirectory(prefix="corrupt_vec_") as tmp_dir:
+        fake_vec = Path(tmp_dir) / "corrupt_vec.npy"
+        fake_vec.write_bytes(b"corrupt vector bytes")
+        try:
+            S.check_environment({"AGENT_VECTOR_DIR": str(tmp_dir)})
+        except SystemExit as e:
+            assert "non conforme" in str(e)
+        else:
+            raise AssertionError("AGENT_VECTOR_DIR avec vecteur corrompu doit lever SystemExit")
+
+    # 2. Dossier vecteurs vide
+    with tempfile.TemporaryDirectory(prefix="empty_vec_") as tmp_dir:
+        try:
+            S.check_environment({"AGENT_VECTOR_DIR": str(tmp_dir)})
+        except SystemExit as e:
+            assert "Aucun fichier de vecteurs" in str(e)
+        else:
+            raise AssertionError("AGENT_VECTOR_DIR vide doit lever SystemExit")
+
+    # 3. Modèle d'embedding corrompu
+    with tempfile.TemporaryDirectory(prefix="corrupt_embed_") as tmp_dir:
+        d = Path(tmp_dir)
+        (d / "model.onnx").write_bytes(b"corrupt onnx")
+        (d / "tokenizer.json").write_bytes(b"corrupt tokenizer")
+        try:
+            S.check_environment({"AGENT_EMBED_DIR": str(tmp_dir)})
+        except SystemExit as e:
+            assert "non conforme" in str(e)
+        else:
+            raise AssertionError("AGENT_EMBED_DIR corrompu doit lever SystemExit")
+
+    # 4. Modèle reranker corrompu
+    with tempfile.TemporaryDirectory(prefix="corrupt_rerank_") as tmp_dir:
+        d = Path(tmp_dir)
+        (d / "model_quint8_avx2.onnx").write_bytes(b"corrupt rerank onnx")
+        (d / "tokenizer.json").write_bytes(b"corrupt rerank tokenizer")
+        try:
+            S.check_environment({"AGENT_RERANK_DIR": str(tmp_dir)})
+        except SystemExit as e:
+            assert "non conforme" in str(e)
+        else:
+            raise AssertionError("AGENT_RERANK_DIR corrompu doit lever SystemExit")
+
+    # 5. Variable de chemin non autorisée / inconnue (ex. AGENT_CUSTOM_DIR)
+    try:
+        S.check_environment({"AGENT_CUSTOM_DIR": "/tmp"})
+    except SystemExit as e:
+        assert "AGENT_CUSTOM_DIR" in str(e) and "non autoris" in str(e)
+    else:
+        raise AssertionError("Variable de chemin inconnue doit lever SystemExit")
 
 
 TESTS = [(n, f) for n, f in sorted(globals().items(), key=lambda kv: kv[1].__code__.co_firstlineno if callable(kv[1]) and hasattr(kv[1], "__code__") else 0) if n.startswith("test_")]
