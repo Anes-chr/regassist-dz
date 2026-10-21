@@ -35,16 +35,17 @@ from local_app.service import Service, check_environment, setup_logging
 # 1. Logging setup
 setup_logging()
 
-# 2. Environment check & validation
-report = check_environment()
-
-# 2b. Idempotent runtime vector mapping (ensures machine/path-specific key exists)
+# 2. Idempotent runtime vector mapping (ensures machine/path-specific key exists before check_environment)
+runtime_vec_key = None
 try:
     from deploy.ensure_vectors import ensure_runtime_vectors
     runtime_vec_key = ensure_runtime_vectors(verbose=False)
 except Exception as e:
     print(f"[FATAL] Échec critique du mappage des vecteurs d'exécution (ensure_vectors) : {e}", file=sys.stderr)
     raise RuntimeError(f"Échec critique du mappage des vecteurs d'exécution (ensure_vectors) : {e}") from e
+
+# 2b. Environment check & validation
+report = check_environment()
 
 # 3. Instantiate exactly ONE Service instance
 port = int(os.environ.get("LOCAL_APP_PORT", str(C.port())))

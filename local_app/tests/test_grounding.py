@@ -113,6 +113,32 @@ def test_guard_is_logged_without_the_question_text():
             h.close()
 
 
+def test_definition_guard_comprehensive_edge_cases():
+    """Vérifie le comportement du garde-fou sur un éventail étendu de requêtes de définition,
+    couvrant les termes techniques bancaires soutenus (zéro faux positif) et les termes non soutenus (vrais positifs)."""
+    t_salam = "Règlement n° 20-02 : Le contrat Salam est un contrat de vente à terme avec paiement comptant."
+    t_psp = "Loi n° 23-09 : Un prestataire de services de paiement fournit des services de paiement."
+    t_solv = "Instruction n° 03-2020 : Le ratio de solvabilité rapporte les fonds propres prudentiels."
+
+    # 1. Termes bancaires soutenus par leurs textes respectifs -> Aucun retrait (retourne None)
+    assert G.unsupported_term("C'est quoi le Salam ?", [t_salam]) is None
+    assert G.unsupported_term("Qu'est-ce que le Salam ?", [t_salam]) is None
+    assert G.unsupported_term("Définition du Salam", [t_salam]) is None
+    assert G.unsupported_term("le salam c'est quoi ?", [t_salam]) is None
+    assert G.unsupported_term("Qu'est-ce qu'un prestataire de services de paiement ?", [t_psp]) is None
+    assert G.unsupported_term("C'est quoi le ratio de solvabilité ?", [t_solv]) is None
+
+    # 2. Termes non soutenus / absents -> Déclenchement requis (retourne le terme)
+    assert G.unsupported_term("C'est quoi le square Port-Saïd ?", [t_solv, t_salam]) is not None
+    assert G.unsupported_term("Qu'est-ce que la crypto-monnaie bancaire ?", [t_psp]) is not None
+    assert G.unsupported_term("Explique-moi le crédit revolving informel", [t_salam]) is not None
+    assert G.unsupported_term("Définition du compte secret particulier", [t_psp]) is not None
+
+    # 3. Question hors de portée du garde-fou -> None
+    assert G.unsupported_term("Quel est le montant du Salam ?", [t_salam]) is None
+    assert G.unsupported_term("Qui doit respecter le ratio de solvabilité ?", [t_solv]) is None
+
+
 TESTS = [(n, f) for n, f in sorted(globals().items(), key=lambda kv: kv[1].__code__.co_firstlineno if callable(kv[1]) and hasattr(kv[1], "__code__") else 0) if n.startswith("test_")]
 
 if __name__ == "__main__":

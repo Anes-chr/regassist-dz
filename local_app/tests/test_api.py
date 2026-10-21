@@ -647,7 +647,9 @@ def test_tampered_model_and_vector_overrides_rejected():
     est détectée immédiatement au démarrage par comparaison SHA-256 avec PHASE_4_FROZEN.manifest.json."""
     # 1. Vecteur corrompu
     with tempfile.TemporaryDirectory(prefix="corrupt_vec_") as tmp_dir:
-        fake_vec = Path(tmp_dir) / "corrupt_vec.npy"
+        from agent_fr.build_vectors import vectors_key
+        r_key = vectors_key(["fr", "ar"])
+        fake_vec = Path(tmp_dir) / f"vec_{r_key}.npy"
         fake_vec.write_bytes(b"corrupt vector bytes")
         try:
             S.check_environment({"AGENT_VECTOR_DIR": str(tmp_dir)})
@@ -661,7 +663,7 @@ def test_tampered_model_and_vector_overrides_rejected():
         try:
             S.check_environment({"AGENT_VECTOR_DIR": str(tmp_dir)})
         except SystemExit as e:
-            assert "Aucun fichier de vecteurs" in str(e)
+            assert "manquant" in str(e) or "introuvable" in str(e)
         else:
             raise AssertionError("AGENT_VECTOR_DIR vide doit lever SystemExit")
 
@@ -696,6 +698,55 @@ def test_tampered_model_and_vector_overrides_rejected():
         assert "AGENT_CUSTOM_DIR" in str(e) and "non autoris" in str(e)
     else:
         raise AssertionError("Variable de chemin inconnue doit lever SystemExit")
+
+
+def test_vector_dir_coexisting_unrelated_npy_files_accepted():
+    """Test A: Un dossier AGENT_VECTOR_DIR contenant le vecteur runtime valide
+    ET un fichier unrelated_experiment.npy étranger avec d'autres octets doit être accepté
+    (le moteur ne vérifie que le fichier qu'il va charger)."""
+    from deploy.ensure_vectors import ensure_runtime_vectors
+    with tempfile.TemporaryDirectory(prefix="coexist_vec_") as tmp_dir:
+        ensure_runtime_vectors(vector_dir=Path(tmp_dir), verbose=False)
+        extra_npy = Path(tmp_dir) / "other_experiment_vec.npy"
+        extra_npy.write_bytes(b"unrelated experiment bytes")
+        rep = S.check_environment({"AGENT_VECTOR_DIR": str(tmp_dir)})
+        assert rep["engine_overrides"] == ["AGENT_VECTOR_DIR"]
+
+
+def test_vector_dir_tampered_active_vector_rejected():
+    """Test B: Un dossier AGENT_VECTOR_DIR contenant un fichier .npy étranger valide
+    mais où le fichier actif attendu (vec_<runtime_key>.npy) est corrompu (1 octet modifié)
+    doit impérativement être refusé avec SystemExit."""
+    from deploy.ensure_vectors import ensure_runtime_vectors
+    from agent_fr.build_vectors import vectors_key
+    with tempfile.TemporaryDirectory(prefix="tamper_active_") as tmp_dir:
+        ensure_runtime_vectors(vector_dir=Path(tmp_dir), verbose=False)
+        (Path(tmp_dir) / "other.npy").write_bytes(b"some other content")
+        r_key = vectors_key(["fr", "ar"])
+        active_npy = Path(tmp_dir) / f"vec_{r_key}.npy"
+        if active_npy.is_symlink():
+            active_npy.unlink()
+        active_npy.write_bytes(b"tampered active vector")
+        try:
+            S.check_environment({"AGENT_VECTOR_DIR": str(tmp_dir)})
+        except SystemExit as e:
+            assert "non conforme" in str(e)
+        else:
+            raise AssertionError("Vecteur actif altéré doit lever SystemExit")
+
+
+def test_fresh_empty_vector_dir_seeded_and_verified():
+    """Test C: Ordre de démarrage wsgi.py sur serveur propre :
+    Sur un dossier AGENT_VECTOR_DIR initialement vide, ensure_runtime_vectors()
+    doit peupler les fichiers depuis replication/index, puis check_environment() doit passer."""
+    from deploy.ensure_vectors import ensure_runtime_vectors
+    with tempfile.TemporaryDirectory(prefix="fresh_vps_") as tmp_dir:
+        assert len(list(Path(tmp_dir).iterdir())) == 0
+        r_key = ensure_runtime_vectors(vector_dir=Path(tmp_dir), verbose=False)
+        assert (Path(tmp_dir) / f"vec_{r_key}.npy").exists()
+        assert (Path(tmp_dir) / f"vec_{r_key}.meta.json").exists()
+        rep = S.check_environment({"AGENT_VECTOR_DIR": str(tmp_dir)})
+        assert rep["engine_overrides"] == ["AGENT_VECTOR_DIR"]
 
 
 TESTS = [(n, f) for n, f in sorted(globals().items(), key=lambda kv: kv[1].__code__.co_firstlineno if callable(kv[1]) and hasattr(kv[1], "__code__") else 0) if n.startswith("test_")]

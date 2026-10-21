@@ -54,7 +54,9 @@ def load_manifest_chunk_hashes() -> dict:
 def ensure_runtime_vectors(vector_dir: Path = None, verbose: bool = True) -> str:
     """Vérifie et résout les fichiers de vecteurs pour l'environnement actif."""
     if vector_dir is None:
-        vector_dir = Path(os.environ.get("AGENT_VECTOR_DIR", r"D:\llm\index"))
+        raw = os.environ.get("AGENT_VECTOR_DIR") or os.environ.get("AGENT_INDEX_DIR") or r"D:\llm\index"
+        vector_dir = Path(raw)
+    vector_dir = Path(vector_dir)
     vector_dir.mkdir(parents=True, exist_ok=True)
 
     langs = os.environ.get("AGENT_LANGS", "fr,ar").split(",")
@@ -127,18 +129,38 @@ def ensure_runtime_vectors(vector_dir: Path = None, verbose: bool = True) -> str
         raise ValueError(f"Nombre de chunk_ids incompatible dans {src_meta} ({len(meta_obj.get('chunk_ids', []))})")
 
     # 5. Établissement idempotent
+    # Si vector_dir est un dossier distinct (ex. serveur propre /opt/regassist-data/llm/index),
+    # on y implémente également le fichier canonique source s'il n'y est pas encore
+    canonical_npy = vector_dir / f"{src_prefix}.npy"
+    canonical_meta = vector_dir / f"{src_prefix}.meta.json"
+    if src_npy.resolve() != canonical_npy.resolve():
+        if not canonical_npy.exists():
+            try:
+                os.symlink(src_npy.resolve(), canonical_npy)
+            except (OSError, NotImplementedError, ValueError):
+                import shutil
+                shutil.copy2(src_npy, canonical_npy)
+        if not canonical_meta.exists():
+            try:
+                os.symlink(src_meta.resolve(), canonical_meta)
+            except (OSError, NotImplementedError, ValueError):
+                import shutil
+                shutil.copy2(src_meta, canonical_meta)
+        src_npy = canonical_npy
+        src_meta = canonical_meta
+
     if target_npy.is_symlink() and not target_npy.exists():
         target_npy.unlink()
     if not target_npy.exists():
         try:
-            if src_npy.resolve().parent == target_npy.resolve().parent:
+            if src_npy.parent == target_npy.parent:
                 symlink_target = src_npy.name
             else:
                 symlink_target = os.path.relpath(src_npy.resolve(), target_npy.resolve().parent)
             os.symlink(symlink_target, target_npy)
             if verbose:
                 print(f"[ensure_vectors] Symlink créé : {target_npy.name} -> {symlink_target}")
-        except (OSError, NotImplementedError):
+        except (OSError, NotImplementedError, ValueError):
             import shutil
             shutil.copy2(src_npy, target_npy)
             if verbose:

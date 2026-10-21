@@ -242,15 +242,49 @@ def verify_path_overrides_hashes(env=None):
         vec_dir = Path(env[vec_key])
         if not vec_dir.is_dir():
             raise SystemExit(f"{vec_key} ({vec_dir}) n'est pas un dossier existant.")
-        npys = list(vec_dir.glob("*.npy"))
-        if not npys:
-            raise SystemExit(f"Aucun fichier de vecteurs (.npy) trouvé dans {vec_dir}.")
-        for npy in npys:
-            if not npy.is_file():
-                raise SystemExit(f"Fichier de vecteur inaccessible ou lien brisé : {npy.name}")
-            n_sha = sha256_file(npy)
-            if n_sha != expected_vec_sha:
-                raise SystemExit(f"Empreinte SHA-256 non conforme pour le vecteur {npy.name} ({n_sha} != {expected_vec_sha}).")
+
+        # Déterminer le préfixe canonique correspondant au corpus actif
+        snap_env = env.get("AGENT_CORPUS_DIR")
+        canonical_prefix = "vec_df4dd33e8c3b" if snap_env else "vec_4da0cd6ae37e"
+
+        # Calculer la clé runtime exacte que le moteur chargera
+        runtime_key = None
+        try:
+            from agent_fr.build_vectors import vectors_key
+            langs = env.get("AGENT_LANGS", "fr,ar").split(",")
+            runtime_key = vectors_key(langs)
+        except Exception:
+            pass
+
+        # Identifier le fichier de vecteurs actif que le moteur va charger.
+        # Seul ce fichier est requis et vérifié (les autres .npy éventuels du dossier sont ignorés).
+        target_file = None
+        if runtime_key:
+            candidate = vec_dir / f"vec_{runtime_key}.npy"
+            if candidate.is_symlink() and not candidate.exists():
+                raise SystemExit(f"Fichier de vecteur inaccessible ou lien brisé : {candidate.name}")
+            if candidate.is_file():
+                target_file = candidate
+
+        if target_file is None:
+            canonical_candidate = vec_dir / f"{canonical_prefix}.npy"
+            if canonical_candidate.is_symlink() and not canonical_candidate.exists():
+                raise SystemExit(f"Fichier de vecteur inaccessible ou lien brisé : {canonical_candidate.name}")
+            if canonical_candidate.is_file():
+                target_file = canonical_candidate
+
+        if target_file is None:
+            expected_name = f"vec_{runtime_key}.npy" if runtime_key else f"{canonical_prefix}.npy"
+            raise SystemExit(
+                f"Fichier de vecteurs requis manquant dans {vec_dir} (attendu : {expected_name}). "
+                "Exécutez 'python -m deploy.ensure_vectors' pour initialiser les vecteurs."
+            )
+
+        n_sha = sha256_file(target_file)
+        if n_sha != expected_vec_sha:
+            raise SystemExit(
+                f"Empreinte SHA-256 non conforme pour le vecteur actif {target_file.name} ({n_sha} != {expected_vec_sha})."
+            )
 
     # --- Vérification AGENT_CORPUS_DIR ---
     if "AGENT_CORPUS_DIR" in env and env["AGENT_CORPUS_DIR"]:
