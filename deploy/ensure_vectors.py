@@ -127,11 +127,17 @@ def ensure_runtime_vectors(vector_dir: Path = None, verbose: bool = True) -> str
         raise ValueError(f"Nombre de chunk_ids incompatible dans {src_meta} ({len(meta_obj.get('chunk_ids', []))})")
 
     # 5. Établissement idempotent
+    if target_npy.is_symlink() and not target_npy.exists():
+        target_npy.unlink()
     if not target_npy.exists():
         try:
-            os.symlink(src_npy, target_npy)
+            if src_npy.resolve().parent == target_npy.resolve().parent:
+                symlink_target = src_npy.name
+            else:
+                symlink_target = os.path.relpath(src_npy.resolve(), target_npy.resolve().parent)
+            os.symlink(symlink_target, target_npy)
             if verbose:
-                print(f"[ensure_vectors] Symlink créé : {target_npy.name} -> {src_npy.name}")
+                print(f"[ensure_vectors] Symlink créé : {target_npy.name} -> {symlink_target}")
         except (OSError, NotImplementedError):
             import shutil
             shutil.copy2(src_npy, target_npy)

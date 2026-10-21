@@ -246,6 +246,8 @@ def verify_path_overrides_hashes(env=None):
         if not npys:
             raise SystemExit(f"Aucun fichier de vecteurs (.npy) trouvé dans {vec_dir}.")
         for npy in npys:
+            if not npy.is_file():
+                raise SystemExit(f"Fichier de vecteur inaccessible ou lien brisé : {npy.name}")
             n_sha = sha256_file(npy)
             if n_sha != expected_vec_sha:
                 raise SystemExit(f"Empreinte SHA-256 non conforme pour le vecteur {npy.name} ({n_sha} != {expected_vec_sha}).")
