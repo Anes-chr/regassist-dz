@@ -46,7 +46,7 @@ This directory contains the production-hardened deployment configuration for Reg
 
 ### 1. System Preparation
 ```bash
-sudo apt update && sudo apt install -y python3 python3-venv python3-pip nginx curl
+sudo apt update && sudo apt install -y python3 python3-venv python3-pip nginx curl libgomp1
 sudo useradd -r -s /bin/false regassist
 ```
 
@@ -63,7 +63,6 @@ On a fresh VPS, model files, vectors, and corpus snapshots must be initialized i
 #### Option A: Automated (Recommended)
 ```bash
 sudo bash deploy/populate_data_linux.sh /opt/regassist-data/llm
-sudo chown -R regassist:regassist /opt/regassist-data
 ```
 
 #### Option B: Manual Step-by-Step
@@ -102,18 +101,23 @@ echo "6c2513767fb63d008a4377bef7a7a3555433d9436342bb53e35a3a72ffc52d4b  /opt/reg
 echo "62c24cdc13d4c9952d63718d6c9fa4c287974249e16b7ade6d5a85e7bbb75626  /opt/regassist-data/llm/models/rerankers/mmarco-mMiniLMv2-L12-H384/tokenizer.json" | sha256sum -c
 ```
 
-4. **Install llama.cpp b11411 (Ubuntu Linux x64):**
+4. **Install llama.cpp b11411 (Ubuntu Linux x64) & verify SHA-256:**
 ```bash
-curl -L -C - --retry 10 -o /tmp/llama-b11411-bin-ubuntu-x64.zip \
-  https://github.com/ggml-org/llama.cpp/releases/download/b11411/llama-b11411-bin-ubuntu-x64.zip
-unzip -j -o /tmp/llama-b11411-bin-ubuntu-x64.zip "build/bin/llama-server" -d /opt/regassist-data/llm/llama.cpp/b11411/ || \
-unzip -j -o /tmp/llama-b11411-bin-ubuntu-x64.zip "*llama-server*" -d /opt/regassist-data/llm/llama.cpp/b11411/
+# Download official release tar.gz archive
+curl -L -C - --retry 10 -o /tmp/llama-b11411-bin-ubuntu-x64.tar.gz \
+  https://github.com/ggml-org/llama.cpp/releases/download/b11411/llama-b11411-bin-ubuntu-x64.tar.gz
+
+# Cryptographic SHA-256 integrity verification
+echo "4f0ff85bc63a1df9a3465fa99c78339ac5a2ac0e8dfa864a12d28f3521ff6111  /tmp/llama-b11411-bin-ubuntu-x64.tar.gz" | sha256sum -c
+
+# Extract entire archive including all required shared libraries (.so)
+tar -xzf /tmp/llama-b11411-bin-ubuntu-x64.tar.gz --strip-components=1 -C /opt/regassist-data/llm/llama.cpp/b11411/
 chmod +x /opt/regassist-data/llm/llama.cpp/b11411/llama-server
 echo "b11411" > /opt/regassist-data/llm/llama.cpp/CURRENT_TAG.txt
-rm -f /tmp/llama-b11411-bin-ubuntu-x64.zip
+rm -f /tmp/llama-b11411-bin-ubuntu-x64.tar.gz
 ```
 
-5. **Copy Corpus Snapshot & Seed Vectors:**
+5. **Copy Corpus Snapshot, Seed Vectors & Set Permissions:**
 ```bash
 # Copy snapshot files
 cp -n /opt/regassist-dz/replication/snapshots/corpus_phase4/* /opt/regassist-data/llm/snapshots/corpus_phase4/
@@ -122,7 +126,7 @@ cp -n /opt/regassist-dz/replication/snapshots/corpus_phase4/* /opt/regassist-dat
 cd /opt/regassist-dz
 python3 -m deploy.ensure_vectors /opt/regassist-data/llm/index
 
-# Set ownership
+# Set ownership of data root to regassist service user
 sudo chown -R regassist:regassist /opt/regassist-data
 ```
 

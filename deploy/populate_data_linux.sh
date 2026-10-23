@@ -6,8 +6,9 @@
 # Linux VPS (Ubuntu 24.04 LTS) for RegAssist DZ.
 #
 # Downloads models, verifies cryptographic SHA-256 hashes against
-# PHASE_4_FROZEN.manifest.json, sets up the frozen corpus snapshot, and runs
-# deploy.ensure_vectors to seed the runtime vector index.
+# PHASE_4_FROZEN.manifest.json, extracts llama.cpp with shared libraries,
+# sets up the frozen corpus snapshot, runs deploy.ensure_vectors to seed the
+# runtime vector index, and assigns ownership to the regassist service user.
 #
 # Usage:
 #   sudo bash deploy/populate_data_linux.sh [/opt/regassist-data/llm]
@@ -18,15 +19,20 @@ set -euo pipefail
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 REPO_ROOT="$(cd "${SCRIPT_DIR}/.." && pwd)"
 LLM_ROOT="${1:-${LLM_ROOT:-/opt/regassist-data/llm}}"
+DATA_ROOT="$(dirname "${LLM_ROOT}")"
+
+REGASSIST_USER="${REGASSIST_USER:-regassist}"
+REGASSIST_GROUP="${REGASSIST_GROUP:-regassist}"
 
 echo "========================================================================"
 echo "RegAssist DZ — Initialisation des données Linux VPS"
 echo "Racine des données : ${LLM_ROOT}"
 echo "Dépôt Git          : ${REPO_ROOT}"
+echo "Utilisateur cible  : ${REGASSIST_USER}:${REGASSIST_GROUP}"
 echo "========================================================================"
 
 # 1. Vérification des outils requis
-for cmd in curl unzip python3 sha256sum; do
+for cmd in curl tar python3 sha256sum; do
     if ! command -v "${cmd}" >/dev/null 2>&1; then
         echo "ERREUR: Commande requise introuvable : ${cmd}. Installez-la avec apt." >&2
         exit 1
@@ -34,7 +40,7 @@ for cmd in curl unzip python3 sha256sum; do
 done
 
 # 2. Arborescence
-echo "[1/5] Création de l'arborescence..."
+echo "[1/6] Création de l'arborescence..."
 mkdir -p "${LLM_ROOT}/models/embeddings/multilingual-e5-small/onnx"
 mkdir -p "${LLM_ROOT}/models/rerankers/mmarco-mMiniLMv2-L12-H384/onnx"
 mkdir -p "${LLM_ROOT}/llama.cpp/b11411"
@@ -79,7 +85,7 @@ download_and_verify() {
 }
 
 # 3. Modèles (GGUF, Embedding ONNX, Reranker ONNX)
-echo "[2/5] Téléchargement et validation des modèles IA..."
+echo "[2/6] Téléchargement et validation des modèles IA..."
 
 # 3a. Qwen3-4B-Instruct GGUF
 download_and_verify \
@@ -114,28 +120,32 @@ download_and_verify \
     "62c24cdc13d4c9952d63718d6c9fa4c287974249e16b7ade6d5a85e7bbb75626" \
     "mmarco-mMiniLMv2 tokenizer.json"
 
-# 4. llama.cpp b11411 binaire Linux Ubuntu
-echo "[3/5] Installation du binaire llama-server b11411..."
-LLAMA_BIN="${LLM_ROOT}/llama.cpp/b11411/llama-server"
-if [[ ! -x "${LLAMA_BIN}" ]]; then
-    ZIP_TMP="/tmp/llama-b11411-bin-ubuntu-x64.zip"
-    echo "  Téléchargement de llama.cpp b11411 Ubuntu x64..."
-    curl -L -C - --retry 10 -sS -o "${ZIP_TMP}" \
-        "https://github.com/ggml-org/llama.cpp/releases/download/b11411/llama-b11411-bin-ubuntu-x64.zip"
-    
-    unzip -q -j -o "${ZIP_TMP}" "build/bin/llama-server" -d "${LLM_ROOT}/llama.cpp/b11411/" || \
-    unzip -q -j -o "${ZIP_TMP}" "*llama-server*" -d "${LLM_ROOT}/llama.cpp/b11411/"
-    
+# 4. llama.cpp b11411 archive Linux Ubuntu (.tar.gz complète avec bibliothèques partagées)
+echo "[3/6] Téléchargement et extraction complète de llama.cpp b11411..."
+LLAMA_DIR="${LLM_ROOT}/llama.cpp/b11411"
+LLAMA_BIN="${LLAMA_DIR}/llama-server"
+TAR_FILE="/tmp/llama-b11411-bin-ubuntu-x64.tar.gz"
+EXPECTED_LLAMA_SHA="4f0ff85bc63a1df9a3465fa99c78339ac5a2ac0e8dfa864a12d28f3521ff6111"
+
+if [[ ! -x "${LLAMA_BIN}" || ! -f "${LLAMA_DIR}/libllama.so" ]]; then
+    download_and_verify \
+        "https://github.com/ggml-org/llama.cpp/releases/download/b11411/llama-b11411-bin-ubuntu-x64.tar.gz" \
+        "${TAR_FILE}" \
+        "${EXPECTED_LLAMA_SHA}" \
+        "llama.cpp b11411 Ubuntu x64 archive (.tar.gz 17.7 Mo)"
+
+    echo "  Extraction complète de l'archive (binaires et bibliothèques partagées .so)..."
+    tar -xzf "${TAR_FILE}" --strip-components=1 -C "${LLAMA_DIR}"
     chmod +x "${LLAMA_BIN}"
     echo "b11411" > "${LLM_ROOT}/llama.cpp/CURRENT_TAG.txt"
-    rm -f "${ZIP_TMP}"
-    echo "  [SUCCÈS] llama-server b11411 installé sous ${LLAMA_BIN}"
+    rm -f "${TAR_FILE}"
+    echo "  [SUCCÈS] llama.cpp b11411 extrait dans ${LLAMA_DIR}"
 else
-    echo "  [OK] llama-server b11411 déjà exécutable."
+    echo "  [OK] llama-server et bibliothèques partagées déjà en place."
 fi
 
 # 5. Instantané du corpus officiel
-echo "[4/5] Copie de l'instantané du corpus Phase 4..."
+echo "[4/6] Copie de l'instantané du corpus Phase 4..."
 SRC_SNAP="${REPO_ROOT}/replication/snapshots/corpus_phase4"
 DST_SNAP="${LLM_ROOT}/snapshots/corpus_phase4"
 if [[ -d "${SRC_SNAP}" ]]; then
@@ -150,9 +160,36 @@ else
 fi
 
 # 6. Peuplement des vecteurs via deploy.ensure_vectors
-echo "[5/5] Initialisation cryptographique des vecteurs..."
+echo "[5/6] Initialisation cryptographique des vecteurs..."
 export PYTHONPATH="${REPO_ROOT}:${PYTHONPATH:-}"
-python3 -m deploy.ensure_vectors "${LLM_ROOT}/index"
+PYTHON_BIN="python3"
+if [[ -x "${REPO_ROOT}/.venv/bin/python3" ]]; then
+    PYTHON_BIN="${REPO_ROOT}/.venv/bin/python3"
+elif [[ -x "${REPO_ROOT}/.venv/bin/python" ]]; then
+    PYTHON_BIN="${REPO_ROOT}/.venv/bin/python"
+elif [[ -n "${SUDO_USER:-}" && -d "/home/${SUDO_USER}/.local/lib" ]]; then
+    export PYTHONUSERBASE="/home/${SUDO_USER}/.local"
+fi
+"${PYTHON_BIN}" -m deploy.ensure_vectors "${LLM_ROOT}/index"
+
+# 7. Attribution des droits à l'utilisateur de service regassist
+echo "[6/6] Configuration des permissions et de la propriété..."
+if [[ "$(id -u)" -eq 0 ]]; then
+    if ! getent group "${REGASSIST_GROUP}" >/dev/null 2>&1; then
+        echo "  Création du groupe système ${REGASSIST_GROUP}..."
+        groupadd --system "${REGASSIST_GROUP}" || true
+    fi
+    if ! id -u "${REGASSIST_USER}" >/dev/null 2>&1; then
+        echo "  Création de l'utilisateur système ${REGASSIST_USER}..."
+        useradd -r -s /bin/false -g "${REGASSIST_GROUP}" "${REGASSIST_USER}" 2>/dev/null || \
+        useradd -r -s /bin/false "${REGASSIST_USER}"
+    fi
+    chown -R "${REGASSIST_USER}:${REGASSIST_GROUP}" "${DATA_ROOT}"
+    echo "  [OK] Propriété récursive de ${DATA_ROOT} attribuée à ${REGASSIST_USER}:${REGASSIST_GROUP}"
+else
+    echo "  [NOTE] Script exécuté hors-root : veillez à exécuter :"
+    echo "         sudo chown -R ${REGASSIST_USER}:${REGASSIST_GROUP} ${DATA_ROOT}"
+fi
 
 echo "========================================================================"
 echo "SUCCÈS : Données initialisées avec succès sous ${LLM_ROOT}."

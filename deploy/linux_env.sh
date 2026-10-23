@@ -26,8 +26,9 @@ export AGENT_RERANK_DIR="${LLM_ROOT}/models/rerankers/mmarco-mMiniLMv2-L12-H384"
 export AGENT_VECTOR_DIR="${LLM_ROOT}/index"
 export AGENT_CORPUS_DIR="${LLM_ROOT}/snapshots/corpus_phase4"
 
-# Local LLM endpoint
+# Local LLM endpoint and shared libraries
 export AGENT_LOCAL_URL="http://127.0.0.1:8187"
+export LD_LIBRARY_PATH="${LLM_ROOT}/llama.cpp/b11411:${LD_LIBRARY_PATH:-}"
 
 # Idempotently ensure vector index compatibility for this Linux deployment path
 if command -v python3 >/dev/null 2>&1; then
