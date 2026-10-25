@@ -16,7 +16,7 @@
 ### 1.1 Contexte du Projet et Gel du Moteur
 Le moteur de recherche réglementaire de RegAssist DZ opère sur un corpus de 1 085 documents officiels de la Banque d'Algérie (découpés en 7 789 passages français et arabes). L'architecture d'interrogation (`agent_fr/retrieve2.py`) repose sur une recherche hybride dense/lexicale (BM25 + embeddings `multilingual-e5-small` avec fusion RRF) suivie d'un reclassement neuronal par cross-encoder (`mmarco-mMiniLMv2-L12-H384-v1` via ONNX Runtime).
 
-Afin de permettre une évaluation juridique indépendante, le moteur et ses constantes de filtrage ont été **rigoureusement gelés** (`PHASE_4_FROZEN`). Sur le banc de test aveugle initial de 130 questions humaines, le système a obtenu 52 % de réponses conformes et 14 % d'hallucinations, maintenant la décision collégiale à l'état de **NO-GO provisoire** dans l'attente d'une validation par un juriste bancaire (T1 / T2).
+Afin de permettre une évaluation juridique indépendante, le moteur et ses constantes de filtrage ont été **rigoureusement gelés** (`PHASE_4_FROZEN`). Sur le test aveugle de 52 questions (extrait du banc de 130 questions, rédigé avec l'aide d'une IA, notation automatique, non validé par un juriste), le système a obtenu 52 % de réponses correctes et 14 % d'hallucinations, ce qui maintient la décision à l'état de **NO-GO provisoire** dans l'attente d'une validation par un juriste bancaire (T1 / T2).
 
 ### 1.2 Problématique de la Task 10
 Comme défini dans `docs/TASKS.md` :
@@ -220,7 +220,7 @@ Dans sa revue des travaux d'Ayoub, Salim Mabed a énoncé **deux règles méthod
 **Application dans nos travaux** :
 - **Zéro ligne modifiée dans le moteur gelé** : Les répertoires `agent_fr/`, `boa_pipeline/`, `llm_local/` et les suites de tests racines restent rigoureusement intacts (`git diff upstream/main..HEAD` affiche 0 modification sur ces composants).
 - **Propositions d'évolution post-gel uniquement** : Les ajustements de seuil (porte à deux niveaux), l'élargissement de `is_vague` et l'élimination des formules de politesse sont consignés comme des spécifications techniques prêtes pour la Phase 5.
-- **Protocole `TEST v2`** : Comme le banc de test Phase 4 ($N=130$) a déjà servi au calibrage initial, il est méthodologiquement interdit de réajuster les hyperparamètres sur ce même banc sans risquer de surapprentissage (overfitting). Toute modification du moteur devra faire l'objet d'un nouveau banc de test indépendant (`TEST v2`), rédigé et labellisé par un professionnel du droit bancaire (Task 2).
+- **Protocole `TEST v2`** : Comme le banc Phase 4 ($N=130$) est déjà consulté (78 questions de développement) ou consommé (52 questions du test aveugle v1, exécuté une seule fois), il est méthodologiquement interdit de réajuster les seuils sur ce même banc sans risquer de surapprentissage (overfitting). Toute modification du moteur devra faire l'objet d'un nouveau banc de test indépendant (`TEST v2`), rédigé et labellisé par un professionnel du droit bancaire (Task 2).
 
 ---
 
