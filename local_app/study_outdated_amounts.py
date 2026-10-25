@@ -144,36 +144,41 @@ REPRESENTATIVE_AMOUNT_QUERIES = [
         "id": "CASE-01-CAPITAL-BANQUE",
         "topic": "Capital minimum des banques",
         "question": "Quel est le montant minimum du capital d'une banque en Algérie ?",
-        "current_norm": "Règlement n° 18-03 (20 milliards de DA)",
-        "current_amount": "20 milliards",
+        "current_norm": "Règlement n° 2024-02 du 6 février 2024 (REG-24-02)",
+        "current_amount": "20 milliards de DA (banques ordinaires et d'affaires), 10 milliards de DA (banques digitales)",
+        "current_chunk": "REG-24-02.fr::article-2 (art. 2, p. 2)",
         "historical_norms": [
-            {"ref": "Règlement n° 08-04", "amount": "10 milliards", "status": "REPLACED/MODIFIED"},
-            {"ref": "Règlement n° 04-01", "amount": "2,5 milliards", "status": "ABROGATED/REPLACED"}
+            {"ref": "Règlement n° 18-03", "amount": "20 milliards de DA", "status": "ABROGATED (par REG-24-02)", "chunk": "REG-18-03.fr~2::article-2 (art. 2, p. 1)"},
+            {"ref": "Règlement n° 08-04", "amount": "10 milliards de DA", "status": "ABROGATED (par REG-18-03)", "chunk": "REG-08-04.fr~2::article-2 (art. 2, p. 1)"},
+            {"ref": "Règlement n° 04-01", "amount": "2,5 milliards de DA", "status": "ABROGATED (par REG-08-04)", "chunk": "REG-04-01.fr~2::article-2 (art. 2, p. 1)"}
         ],
-        "expected_active_work_id": "REG-18-03"
+        "expected_active_work_id": "REG-24-02"
     },
     {
         "id": "CASE-02-CAPITAL-ETAB-FIN",
         "topic": "Capital minimum des établissements financiers",
         "question": "Quel est le capital minimum exigé pour un établissement financier ?",
-        "current_norm": "Règlement n° 18-03 (6,5 milliards de DA)",
-        "current_amount": "6,5 milliards",
+        "current_norm": "Règlement n° 2024-02 du 6 février 2024 (REG-24-02)",
+        "current_amount": "6,5 milliards de DA",
+        "current_chunk": "REG-24-02.fr::article-2 (art. 2, p. 2)",
         "historical_norms": [
-            {"ref": "Règlement n° 08-04", "amount": "3,5 milliards", "status": "REPLACED/MODIFIED"},
-            {"ref": "Règlement n° 04-01", "amount": "500 millions", "status": "ABROGATED/REPLACED"}
+            {"ref": "Règlement n° 18-03", "amount": "6,5 milliards de DA", "status": "ABROGATED (par REG-24-02)", "chunk": "REG-18-03.fr~2::article-2 (art. 2, p. 1)"},
+            {"ref": "Règlement n° 08-04", "amount": "3,5 milliards de DA", "status": "ABROGATED (par REG-18-03)", "chunk": "REG-08-04.fr~2::article-2 (art. 2, p. 1)"},
+            {"ref": "Règlement n° 04-01", "amount": "500 millions de DA", "status": "ABROGATED (par REG-08-04)", "chunk": "REG-04-01.fr~2::article-2 (art. 2, p. 1)"}
         ],
-        "expected_active_work_id": "REG-18-03"
+        "expected_active_work_id": "REG-24-02"
     },
     {
         "id": "CASE-03-PLAFOND-GARANTIE",
         "topic": "Plafond d'indemnisation du fonds de garantie des dépôts (FGDB)",
         "question": "Quel est le plafond d'indemnisation par déposant garanti par la Banque d'Algérie ?",
-        "current_norm": "Règlement n° 20-04 (2 millions de dinars / 2 000 000 DA)",
-        "current_amount": "2 000 000 DA (deux millions)",
+        "current_norm": "Règlement n° 2020-03 du 15 mars 2020 (REG-20-03)",
+        "current_amount": "2 000 000 DA (deux millions de dinars)",
+        "current_chunk": "REG-20-03.fr::article-10 (art. 10, p. 3)",
         "historical_norms": [
-            {"ref": "Règlement n° 97-04", "amount": "600 000 DA", "status": "REPLACED"}
+            {"ref": "Règlement n° 97-04", "amount": "600 000 DA (six cents mille dinars)", "status": "REPLACED (par REG-04-03 puis REG-20-03)", "chunk": "REG-97-04.fr::article-9 (art. 9, p. 3)"}
         ],
-        "expected_active_work_id": "REG-20-04"
+        "expected_active_work_id": "REG-20-03"
     },
     {
         "id": "CASE-04-RESERVES-OBLIG-H129",
@@ -181,13 +186,10 @@ REPRESENTATIVE_AMOUNT_QUERIES = [
         "question": "Quel est le taux actuel des réserves obligatoires ?",
         "current_norm": "Instruction n° 01-2026 (1 %)",
         "current_amount": "1 %",
+        "current_chunk": "INS-01-26.fr::article-2 (art. 2, p. 1)",
         "historical_norms": [
-            {"ref": "Instruction n° 09-2025", "amount": "2 %", "status": "REPLACED"},
-            {"ref": "Instruction n° 02-2023", "amount": "3 %", "status": "REPLACED"},
-            {"ref": "Instruction n° 02-2021", "amount": "2 %", "status": "REPLACED"},
-            {"ref": "Instruction n° 02-2020", "amount": "8 %", "status": "REPLACED"},
-            {"ref": "Instruction n° 01-2019", "amount": "12 %", "status": "REPLACED"},
-            {"ref": "Instruction n° 02-2004", "amount": "taux initial", "status": "REPLACED"}
+            {"ref": "Instruction n° 02-2023", "amount": "3 %", "status": "REPLACED (par INS-09-25 puis INS-01-26)", "chunk": "INS-02-23.fr::article-2 (art. 2, p. 1)"},
+            {"ref": "Instruction n° 02-2004", "amount": "6,5 %", "status": "REPLACED", "chunk": "INS-02-04.fr::article-3 (art. 3, p. 1)"}
         ],
         "expected_active_work_id": "INS-01-26"
     },
@@ -197,9 +199,10 @@ REPRESENTATIVE_AMOUNT_QUERIES = [
         "question": "Quel est le montant annuel du droit de change pour voyage à l'étranger ?",
         "current_norm": "Instruction n° 07-2026 (750 euros par an, 300 euros pour les mineurs)",
         "current_amount": "750 euros",
+        "current_chunk": "INS-07-26.fr::article-2 (art. 2, p. 1)",
         "historical_norms": [
-            {"ref": "Instruction n° 08-97", "amount": "15 000 DA", "status": "ABROGATED"},
-            {"ref": "Instruction n° 05-2025", "amount": "750 euros", "status": "ABROGATED"}
+            {"ref": "Instruction n° 08-97", "amount": "15 000 DA", "status": "ABROGATED (par INS-05-2025 puis INS-07-2026)", "chunk": "INS-08-97.fr::article-2 (art. 2, p. 1)"},
+            {"ref": "Instruction n° 05-2025", "amount": "750 euros", "status": "ABROGATED (par INS-07-2026)", "chunk": "INS-05-25.fr::article-2 (art. 2, p. 1)"}
         ],
         "expected_active_work_id": "INS-07-26"
     },
@@ -209,8 +212,9 @@ REPRESENTATIVE_AMOUNT_QUERIES = [
         "question": "Quel est le ratio de solvabilité minimum exigé des banques ?",
         "current_norm": "Règlement n° 14-01 / Instruction n° 03-2020 (9,5 % et 7 % Tier 1)",
         "current_amount": "9,5 % (globaux) / 7 % (base)",
+        "current_chunk": "REG-14-01.fr::article-2 (art. 2, p. 1)",
         "historical_norms": [
-            {"ref": "Règlement n° 91-09", "amount": "8 % (ratio Cooke)", "status": "ABROGATED"}
+            {"ref": "Règlement n° 91-09", "amount": "8 % (ratio Cooke)", "status": "ABROGATED (par REG-14-01)", "chunk": "REG-91-09.fr::article-2 (art. 2, p. 1)"}
         ],
         "expected_active_work_id": "REG-14-01"
     },
@@ -220,8 +224,9 @@ REPRESENTATIVE_AMOUNT_QUERIES = [
         "question": "Quel est le pourcentage minimum du coefficient de liquidité d'une banque ?",
         "current_norm": "Règlement n° 11-04 (100 %)",
         "current_amount": "100 %",
+        "current_chunk": "REG-11-04.fr::article-3 (art. 3, p. 2)",
         "historical_norms": [
-            {"ref": "Règlement n° 91-11", "amount": "60 %", "status": "ABROGATED"}
+            {"ref": "Règlement n° 91-11", "amount": "60 %", "status": "ABROGATED (par REG-11-04)", "chunk": "REG-91-11.fr::article-2 (art. 2, p. 1)"}
         ],
         "expected_active_work_id": "REG-11-04"
     },
@@ -231,8 +236,9 @@ REPRESENTATIVE_AMOUNT_QUERIES = [
         "question": "Quel est le plafond maximum des engagements sur un même bénéficiaire par rapport aux fonds propres ?",
         "current_norm": "Règlement n° 14-02 (25 %)",
         "current_amount": "25 %",
+        "current_chunk": "REG-14-02.fr::article-4 (art. 4, p. 2)",
         "historical_norms": [
-            {"ref": "Règlement n° 91-08", "amount": "25 % (base calcul modifiée)", "status": "ABROGATED"}
+            {"ref": "Règlement n° 91-08", "amount": "25 % (base calcul modifiée)", "status": "ABROGATED (par REG-14-02)", "chunk": "REG-91-08.fr::article-2 (art. 2, p. 1)"}
         ],
         "expected_active_work_id": "REG-14-02"
     }
