@@ -2,7 +2,7 @@
 
 > **Projet** : RegAssist DZ — Moteur RAG réglementaire Banque d'Algérie
 > **Auteur** : Chouari Mohammed Anes (Équipe RegAssist DZ)
-> **Date** : 25 octobre 2026 (Mise à jour suite à la revue de Salim Mabed)
+> **Date** : 26 octobre 2026 (Mise à jour suite aux revues de Salim Mabed & Ayoub)
 > **Statut du moteur** : Gelé (`PHASE_4_FROZEN`) — **Étude et propositions d'architecture uniquement**
 > **Commande de reproduction** : `python -m local_app.study_outdated_amounts`
 > **Issue associée** : [Issue #9 (Task 9)](https://github.com/SalimMabed/regassist-dz/issues/9)
@@ -64,22 +64,24 @@ Dans cette mise à jour, les normes en vigueur vérifiées dans `corpus/metadata
 | Métrique de recherche ($N=8$ cas types) | Résultat mesuré | Taux constaté |
 |---|---|---|
 | **Co-occurrence Périmé + Actif (dans le Top-6)** | **8 / 8** | **100.0 %** |
-| **Inversion Temporelle (Passage périmé classé devant le texte actif)** | **2 / 8** | **25.0 %** |
+| **Inversion Temporelle (Passage périmé classé devant le texte actif)** | **1 à 2 / 8** | **12,5 % à 25,0 %** |
 | **Passage Périmé classé N°1 absolu (Top-1)** | **1 / 8** | **12.5 %** |
 
 ---
 
 ### 3.2 Tableau Détaillé par Cas d'Usage
 
+> **Note sur l'index et la sensibilité des rangs** : Les rangs détaillés ci-dessous proviennent de l'exécution sur `corpus/chunks/chunks_fr.jsonl` (`replication/index/vec_4da0cd6ae37e.npy`). Selon l'index chargé (`corpus/chunks` ou l'instantané figé `replication/snapshots/corpus_phase4` avec `vec_df4dd33e8c3b.npy`), les passages aux scores proches peuvent bouger d'une ou deux places (par exemple, le texte actif se situe au rang 3 ou 2 sur `CASE-02` et au rang 1 ou 2 sur `CASE-04`), ce qui donne **1 à 2 inversions temporelles sur 8 (12,5 % à 25,0 %)** (le coefficient de liquidité `CASE-07` restant inversé dans tous les cas, tandis que la co-occurrence dans le Top-6 reste de **8 sur 8 (100,0 %)** sur les deux index).
+
 | Identifiant | Thème réglementaire | Montant Actuel (Vigueur) | Montants Périmés dans le corpus | Rang Actif | Rangs Périmés | Inversion Temporelle |
 |---|---|---|---|---|---|---|
 | `CASE-01` | **Capital minimum des banques** | 20 Mrds DA (`REG-24-02`) | 2,5 Mrds (`REG-04-01`), 10 Mrds (`REG-08-04`), 20 Mrds (`REG-18-03`) | **Rang 1** | Rangs 2, 3, 6, 8, 9 | NON (Mais 2,5 Mrds et 10 Mrds aux rangs 2 et 3 !) |
-| `CASE-02` | **Capital minimum étal. financiers** | 6,5 Mrds DA (`REG-24-02`) | 500 M (`REG-04-01`), 3,5 Mrds (`REG-08-04`), 6,5 Mrds (`REG-18-03`) | Rang 3 | **Rang 2** | **OUI (REG-04-01 à 500 M devance REG-24-02)** |
+| `CASE-02` | **Capital minimum étal. financiers** | 6,5 Mrds DA (`REG-24-02`) | 500 M (`REG-04-01`), 3,5 Mrds (`REG-08-04`), 6,5 Mrds (`REG-18-03`) | **Rang 2–3** | **Rang 2** | **1 à 2 / 8 (Inversé au rang 3 sur corpus/chunks ; non inversé sur snapshot)** |
 | `CASE-03` | **Plafond Fonds Garantie Dépôts** | 2 000 000 DA (`REG-20-03`) | 600 000 DA (`REG-97-04`) | **Rang 1** | Rangs 5, 6 | NON (Périmé présent à Rang 5) |
-| `CASE-04` | **Taux des réserves obligatoires (H129)** | 1 % (`INS-01-26`) | 2 %, 3 %, 6,5 %, 8 %, 10 %, 12 % | **Rang 1** | Rangs 5, 6, 7, 8... | NON (Actif en tête, mais 3% et 6,5% en embuscade) |
+| `CASE-04` | **Taux des réserves obligatoires (H129)** | 1 % (`INS-01-26`) | 2 %, 3 %, 6,5 %, 8 %, 10 %, 12 % | **Rang 1–2** | Rangs 5, 6, 7, 8... | NON (Actif en tête ou rang 2, périmés en embuscade) |
 | `CASE-05` | **Droit de change voyage (Allocation)** | 750 € (`INS-07-26`) | 15 000 DA (`INS-08-97`), 750 € (`INS-05-25`) | **Rang 1** | Rang 3 | NON (15 000 DA présent au Rang 3) |
 | `CASE-06` | **Ratio de solvabilité prudentiel** | 9,5 % / 7 % (`REG-14-01`) | 8 % (`REG-91-09`, ratio Cooke) | **Rang 1** | Rang 6 | NON |
-| `CASE-07` | **Coefficient de liquidité minimum** | 100 % (`REG-11-04`) | 60 % (`REG-91-11`), texte modif | Rang 2 | **Rang 1** | **OUI (Passage modificateur devance l'actif)** |
+| `CASE-07` | **Coefficient de liquidité minimum** | 100 % (`REG-11-04`) | 60 % (`REG-91-11`), texte modif | Rang 2 | **Rang 1** | **OUI (Passage modificateur devance l'actif sur les deux index)** |
 | `CASE-08` | **Plafond division des grands risques** | 25 % (`REG-14-02`) | 25 % base modifiée (`REG-91-08`) | **Rang 1** | Rangs 4, 5 | NON |
 
 ---
@@ -167,6 +169,6 @@ Afin de garantir la vérifiabilité intégrale de l'étude demandée par Salim M
 
 ## 7. Conclusion et Feuille de Route
 
-L'étude empirique de la Task 9 démontre qu'en matière de montants financiers, le problème majeur réside dans la **co-occurrence systématique (100 %) de montants obsolètes aux côtés des textes en vigueur**, et dans l'**inversion temporelle (25 % des cas)** où un texte abrogé surclasse le texte applicable.
+L'étude empirique de la Task 9 démontre qu'en matière de montants financiers, le problème majeur réside dans la **co-occurrence systématique (100 %) de montants obsolètes aux côtés des textes en vigueur**, et dans l'**inversion temporelle (12,5 % à 25,0 % des cas, soit 1 à 2 cas sur 8 selon l'index)** où un texte abrogé surclasse le texte applicable.
 
 Les trois propositions formulées ci-dessus (notamment l'injection automatique de paires via le graphe de dépendance et le garde-fou applicatif de détection de montants conflictuels) apportent une réponse modulaire et rigoureuse sans compromettre le gel actuel du moteur.
