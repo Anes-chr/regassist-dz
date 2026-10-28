@@ -71,17 +71,19 @@ Dans cette mise à jour, les normes en vigueur vérifiées dans `corpus/metadata
 
 ### 3.2 Tableau Détaillé par Cas d'Usage
 
-> **Note sur l'index et la sensibilité des rangs** : Les rangs détaillés ci-dessous proviennent de l'exécution sur `corpus/chunks/chunks_fr.jsonl` (`replication/index/vec_4da0cd6ae37e.npy`). Selon l'index chargé (`corpus/chunks` ou l'instantané figé `replication/snapshots/corpus_phase4` avec `vec_df4dd33e8c3b.npy`), les passages aux scores proches peuvent bouger d'une ou deux places (par exemple, le texte actif se situe au rang 3 ou 2 sur `CASE-02` et au rang 1 ou 2 sur `CASE-04`), ce qui donne **1 à 2 inversions temporelles sur 8 (12,5 % à 25,0 %)** (le coefficient de liquidité `CASE-07` restant inversé dans tous les cas, tandis que la co-occurrence dans le Top-6 reste de **8 sur 8 (100,0 %)** sur les deux index).
+> **Note sur la reproductibilité des rangs** : Les rangs ci-dessous sont ceux obtenus par Anes sur sa machine. Salim a relancé `python -m local_app.study_outdated_amounts` sur la sienne (Windows 10, i7-13700, onnxruntime 1.30.0, numpy 2.5.2) : **1 inversion sur 8** (seul `CASE-07`), le texte actif au rang **2** pour `CASE-02` et pour `CASE-04`, et une co-occurrence de **8 sur 8**. Les deux machines donnent donc **1 à 2 inversions sur 8 (12,5 % à 25,0 %)**, `CASE-07` étant inversé dans les deux cas et la co-occurrence restant de **8 sur 8 (100,0 %)**.
+>
+> **Ce n'est pas un effet de l'index.** Sur la machine de Salim, `corpus/chunks` et l'instantané figé `replication/snapshots/corpus_phase4` donnent exactement la même sortie : leurs `chunks_fr.jsonl` sont identiques octet pour octet (SHA-256 `1be96c57…`), de même que `vec_df4dd33e8c3b.npy` et `vec_4da0cd6ae37e.npy` (SHA-256 `31f4edbf…`), qui ne diffèrent que par leur clé de cache (voir `docs/REPLICATION.md`). La cause de l'écart entre les deux machines n'est pas établie ; elle reste à élucider (par exemple en comparant l'environnement d'exécution d'Anes).
 
 | Identifiant | Thème réglementaire | Montant Actuel (Vigueur) | Montants Périmés dans le corpus | Rang Actif | Rangs Périmés | Inversion Temporelle |
 |---|---|---|---|---|---|---|
 | `CASE-01` | **Capital minimum des banques** | 20 Mrds DA (`REG-24-02`) | 2,5 Mrds (`REG-04-01`), 10 Mrds (`REG-08-04`), 20 Mrds (`REG-18-03`) | **Rang 1** | Rangs 2, 3, 6, 8, 9 | NON (Mais 2,5 Mrds et 10 Mrds aux rangs 2 et 3 !) |
-| `CASE-02` | **Capital minimum étal. financiers** | 6,5 Mrds DA (`REG-24-02`) | 500 M (`REG-04-01`), 3,5 Mrds (`REG-08-04`), 6,5 Mrds (`REG-18-03`) | **Rang 2–3** | **Rang 2** | **1 à 2 / 8 (Inversé au rang 3 sur corpus/chunks ; non inversé sur snapshot)** |
+| `CASE-02` | **Capital minimum étal. financiers** | 6,5 Mrds DA (`REG-24-02`) | 500 M (`REG-04-01`), 3,5 Mrds (`REG-08-04`), 6,5 Mrds (`REG-18-03`) | Rang 3 (Anes) ou 2 (Salim) | Rang 2 (Anes) ou 3 (Salim) | **OUI sur la machine d'Anes (REG-04-01 à 500 M devance REG-24-02) ; NON sur celle de Salim** |
 | `CASE-03` | **Plafond Fonds Garantie Dépôts** | 2 000 000 DA (`REG-20-03`) | 600 000 DA (`REG-97-04`) | **Rang 1** | Rangs 5, 6 | NON (Périmé présent à Rang 5) |
-| `CASE-04` | **Taux des réserves obligatoires (H129)** | 1 % (`INS-01-26`) | 2 %, 3 %, 6,5 %, 8 %, 10 %, 12 % | **Rang 1–2** | Rangs 5, 6, 7, 8... | NON (Actif en tête ou rang 2, périmés en embuscade) |
+| `CASE-04` | **Taux des réserves obligatoires (H129)** | 1 % (`INS-01-26`) | 2 %, 3 %, 6,5 %, 8 %, 10 %, 12 % | Rang 1 (Anes) ou 2 (Salim) | Rangs 5, 6, 7, 8... | NON (Actif en tête ou rang 2, périmés en embuscade) |
 | `CASE-05` | **Droit de change voyage (Allocation)** | 750 € (`INS-07-26`) | 15 000 DA (`INS-08-97`), 750 € (`INS-05-25`) | **Rang 1** | Rang 3 | NON (15 000 DA présent au Rang 3) |
 | `CASE-06` | **Ratio de solvabilité prudentiel** | 9,5 % / 7 % (`REG-14-01`) | 8 % (`REG-91-09`, ratio Cooke) | **Rang 1** | Rang 6 | NON |
-| `CASE-07` | **Coefficient de liquidité minimum** | 100 % (`REG-11-04`) | 60 % (`REG-91-11`), texte modif | Rang 2 | **Rang 1** | **OUI (Passage modificateur devance l'actif sur les deux index)** |
+| `CASE-07` | **Coefficient de liquidité minimum** | 100 % (`REG-11-04`) | 60 % (`REG-91-11`), texte modif | Rang 2 | **Rang 1** | **OUI (Passage modificateur devance l'actif sur les deux machines)** |
 | `CASE-08` | **Plafond division des grands risques** | 25 % (`REG-14-02`) | 25 % base modifiée (`REG-91-08`) | **Rang 1** | Rangs 4, 5 | NON |
 
 ---
@@ -169,6 +171,6 @@ Afin de garantir la vérifiabilité intégrale de l'étude demandée par Salim M
 
 ## 7. Conclusion et Feuille de Route
 
-L'étude empirique de la Task 9 démontre qu'en matière de montants financiers, le problème majeur réside dans la **co-occurrence systématique (100 %) de montants obsolètes aux côtés des textes en vigueur**, et dans l'**inversion temporelle (12,5 % à 25,0 % des cas, soit 1 à 2 cas sur 8 selon l'index)** où un texte abrogé surclasse le texte applicable.
+L'étude empirique de la Task 9 démontre qu'en matière de montants financiers, le problème majeur réside dans la **co-occurrence systématique (100 %) de montants obsolètes aux côtés des textes en vigueur**, et dans l'**inversion temporelle (12,5 % à 25,0 % des cas, soit 1 à 2 cas sur 8 selon la machine d'exécution)** où un texte abrogé surclasse le texte applicable.
 
 Les trois propositions formulées ci-dessus (notamment l'injection automatique de paires via le graphe de dépendance et le garde-fou applicatif de détection de montants conflictuels) apportent une réponse modulaire et rigoureuse sans compromettre le gel actuel du moteur.
