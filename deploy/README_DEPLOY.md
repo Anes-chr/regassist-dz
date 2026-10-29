@@ -27,6 +27,12 @@ This directory contains the production-hardened deployment configuration for Reg
 
 ---
 
+## Access Control
+
+Gunicorn has **no access gate** in this deployment: the access code of the Windows LAN mode lives in `local_app/lan.py` and is not wired into `deploy/wsgi.py`. The nginx configuration therefore requires **HTTP Basic authentication on the whole site** (step 6). Share the password only with the intended evaluators: the service exposes an unvalidated legal assistant (status NO-GO PROVISOIRE) and must not be open to the general public.
+
+---
+
 ## Directory Contents
 
 - `requirements-deploy.txt`: Production requirements extending root `requirements.txt` with `gunicorn==23.0.0`.
@@ -46,15 +52,19 @@ This directory contains the production-hardened deployment configuration for Reg
 
 ### 1. System Preparation
 ```bash
-sudo apt update && sudo apt install -y python3 python3-venv python3-pip nginx curl libgomp1
+sudo apt update && sudo apt install -y python3 python3-venv python3-pip nginx curl libgomp1 git certbot apache2-utils ufw
 sudo useradd -r -s /bin/false regassist
+# The reranker (model_quint8_avx2.onnx) needs AVX2: this must print "avx2". If it prints nothing, stop here.
+lscpu | grep -o -m1 avx2
 ```
 
 ### 2. Directory Layout
 ```bash
-sudo mkdir -p /opt/regassist-dz /opt/regassist-data/llm /var/log/regassist
+sudo git clone https://github.com/SalimMabed/regassist-dz.git /opt/regassist-dz
+sudo mkdir -p /opt/regassist-data/llm /var/log/regassist
 sudo chown -R regassist:regassist /opt/regassist-dz /opt/regassist-data /var/log/regassist
 ```
+The repository (about 1.1 GB with the corpus) keeps its bytes as committed (`.gitattributes` sets `* -text`): do not convert line endings, the frozen-system hashes depend on them.
 
 ### 3. Populate Data Folders (`/opt/regassist-data/llm`)
 
@@ -148,12 +158,35 @@ sudo systemctl enable --now regassist-llm.service
 sudo systemctl enable --now regassist-web.service
 ```
 
-### 6. Nginx Configuration
+### 6. Domain, TLS Certificate, Private Access and Nginx
+The domain must already resolve to this server (DNS `A` record) before the certificate is requested.
 ```bash
+cd /opt/regassist-dz
+DOMAIN=regassist.example.org     # replace with your own name
+
+# Domain in the nginx site and in the allowed Host / Origin lists of the application
+sed -i "s/YOUR_DOMAIN.COM/${DOMAIN}/g" deploy/nginx-regassist.conf
+sed -i "s/regassist.example.com/${DOMAIN}/g" deploy/regassist.env
+sudo systemctl restart regassist-web.service
+
+# Let's Encrypt certificate (valid 90 days; renewal is not configured here). The stock nginx site also
+# claims port 80 as default_server and would make "nginx -t" fail: remove it.
+sudo rm -f /etc/nginx/sites-enabled/default
+sudo systemctl stop nginx
+sudo certbot certonly --standalone -d "${DOMAIN}"
+
+# Private access: one user, a long random password (write it down, it is shown only here)
+openssl rand -base64 18
+sudo htpasswd -c /etc/nginx/regassist.htpasswd judge      # prompts twice for that password
+sudo chown root:www-data /etc/nginx/regassist.htpasswd && sudo chmod 640 /etc/nginx/regassist.htpasswd
+
+# Site activation
 sudo cp deploy/nginx-regassist.conf /etc/nginx/sites-available/regassist
-sudo ln -s /etc/nginx/sites-available/regassist /etc/nginx/sites-enabled/
-sudo nginx -t
-sudo systemctl reload nginx
+sudo ln -sf /etc/nginx/sites-available/regassist /etc/nginx/sites-enabled/regassist
+sudo nginx -t && sudo systemctl start nginx
+
+# Firewall: SSH, HTTP (redirect to HTTPS) and HTTPS only
+sudo ufw allow OpenSSH && sudo ufw allow 80,443/tcp && sudo ufw --force enable
 ```
 
 ### 7. Verification & Security Tests
@@ -163,9 +196,14 @@ curl -s http://127.0.0.1:8790/api/health
 # Verify readiness & provider status
 curl -s http://127.0.0.1:8790/api/status
 
+# Through nginx: 401 without the password, then {"status":"ok"} with it (prompts for the password)
+curl -s -o /dev/null -w "%{http_code}\n" "https://${DOMAIN}/api/health"
+curl -s -u judge "https://${DOMAIN}/api/health"
+
 # Run automated proxy security & spoofing defenses test
 bash deploy/test_proxy_security.sh
 
 # Run concurrency and contention test
 bash deploy/test_concurrency_and_load.sh
 ```
+Both test scripts target `http://127.0.0.1:8790` (Gunicorn directly, without nginx) unless a URL is given; run them without argument. Through nginx they would need the Basic-auth password.
