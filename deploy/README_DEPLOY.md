@@ -48,6 +48,21 @@ Gunicorn has **no access gate** in this deployment: the access code of the Windo
 
 ---
 
+## Quick path: `setup_vps.sh`
+
+On a fresh Ubuntu 24.04 server whose DNS name already points to it, as root:
+```bash
+apt-get update && apt-get install -y git certbot
+certbot register --agree-tos --register-unsafely-without-email --no-eff-email   # or give an e-mail address instead
+git clone https://github.com/SalimMabed/regassist-dz.git /opt/regassist-dz
+bash /opt/regassist-dz/deploy/setup_vps.sh regassist.example.org
+```
+The script runs steps 1 to 7 below (it refuses to start when memory, disk or DNS are insufficient), prints a result block without secrets and writes the Basic-auth login to `/root/regassist-access.txt` (mode 600). It can be re-run after a failure. Without the `certbot register` line above, certbot asks for an e-mail address and the Let's Encrypt terms interactively.
+
+**First real run (2026-10-29).** Octenium VPS Ultimate: 4 vCPU, 8 GB RAM, 500 GB HDD (RAID 10), Intel Xeon E5-2690 v2 (Ivy Bridge: **AVX but no AVX2**), Ubuntu 24.04. Models and corpus were downloaded and verified in about one minute, the whole setup took about 15 minutes. Checks: HTTP 301, HTTPS 401 without password and 200 with it, valid Let's Encrypt certificate. One real question ("Quel est le plafond d'indemnisation par déposant ?") returned `answered` with 3 sources and 1 citation in **148 s** (generation 144.7 s). On a CPU without AVX2 the reranker and llama.cpp run, but slower, and ranks may differ slightly from an AVX2 machine (see `docs/OUTDATED_AMOUNTS_STUDY.md`).
+
+Two defects found by that run are fixed: the shell scripts were committed without the executable bit (systemd could not start `start_llm_linux.sh`), and the virtualenv was created after the data step that needs numpy.
+
 ## Deployment Steps (Ubuntu 24.04 LTS)
 
 ### 1. System Preparation
