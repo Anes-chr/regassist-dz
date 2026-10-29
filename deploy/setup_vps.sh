@@ -74,8 +74,16 @@ mkdir -p "${LLM}" /var/log/regassist
 # Git keeps these scripts as 100644 when they were committed from Windows; systemd needs them executable.
 find "${REPO}/deploy" -name '*.sh' -exec chmod +x {} +
 
-# ---- 2. Models, index and corpus snapshot -----------------------------------
-step 2 "Donnees et modeles (environ 3 Go, verifies par SHA-256)"
+# ---- 2. Python environment (before the data step: ensure_vectors needs numpy) ---------------------------------------------------
+step 2 "Environnement Python"
+if [[ ! -x "${REPO}/.venv/bin/gunicorn" ]]; then
+    python3 -m venv "${REPO}/.venv"
+    "${REPO}/.venv/bin/pip" install --upgrade pip
+    "${REPO}/.venv/bin/pip" install -r "${REPO}/deploy/requirements-deploy.txt"
+fi
+
+# ---- 3. Models, index and corpus snapshot -----------------------------------
+step 3 "Donnees et modeles (environ 3 Go, verifies par SHA-256)"
 bash "${REPO}/deploy/populate_data_linux.sh" "${LLM}"
 for f in "${LLM}/models/qwen3-4b-instruct-2507-q4_k_m.gguf" \
          "${LLM}/llama.cpp/b11411/llama-server" \
@@ -83,14 +91,6 @@ for f in "${LLM}/models/qwen3-4b-instruct-2507-q4_k_m.gguf" \
          "${LLM}/models/rerankers/mmarco-mMiniLMv2-L12-H384/onnx/model_quint8_avx2.onnx"; do
     [[ -s "${f}" ]] || die "fichier manquant apres l'initialisation des donnees : ${f}"
 done
-
-# ---- 3. Python environment ---------------------------------------------------
-step 3 "Environnement Python"
-if [[ ! -x "${REPO}/.venv/bin/gunicorn" ]]; then
-    python3 -m venv "${REPO}/.venv"
-    "${REPO}/.venv/bin/pip" install --upgrade pip
-    "${REPO}/.venv/bin/pip" install -r "${REPO}/deploy/requirements-deploy.txt"
-fi
 chown -R "${SVC_USER}:${SVC_USER}" "${REPO}" "${DATA}" /var/log/regassist
 
 # ---- 4. Domain in the application's allowed hosts, then services -------------
