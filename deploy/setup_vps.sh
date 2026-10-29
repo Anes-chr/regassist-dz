@@ -47,7 +47,12 @@ step 0 "Controles prealables"
 . /etc/os-release
 [[ "${ID:-}-${VERSION_ID:-}" == "ubuntu-24.04" ]] || warn "systeme ${PRETTY_NAME:-inconnu} : le guide cible Ubuntu 24.04 LTS."
 
-grep -qw avx2 /proc/cpuinfo || die "processeur sans AVX2 : le reranker (model_quint8_avx2.onnx) ne peut pas fonctionner ici."
+if grep -qw avx2 /proc/cpuinfo; then
+    has_avx2="oui"
+else
+    has_avx2="NON"
+    warn "processeur sans AVX2 ($(awk -F': ' '/model name/ {print $2; exit}' /proc/cpuinfo)) : le reranker ONNX et llama.cpp fonctionnent en general sans AVX2 mais plus lentement, et les rangs peuvent differer legerement. Le temps de reponse est mesure en fin d'installation."
+fi
 mem_kb="$(awk '/^MemTotal/ {print $2}' /proc/meminfo)"
 (( mem_kb >= 6000000 )) || die "memoire insuffisante ($((mem_kb / 1024)) Mo) : 8 Go recommandes."
 (( mem_kb >= 7000000 )) || warn "memoire juste ($((mem_kb / 1024)) Mo) : 8 Go recommandes."
@@ -57,7 +62,7 @@ avail_gb="$(df -BG --output=avail /opt | tail -n 1 | tr -dc '0-9')"
 resolved="$(getent ahostsv4 "${DOMAIN}" | awk 'NR==1 {print $1}')"
 [[ -n "${resolved}" ]] || die "${DOMAIN} ne se resout pas : creez l'enregistrement DNS A vers l'adresse IP de ce serveur, attendez sa propagation, relancez."
 hostname -I | tr ' ' '\n' | grep -qx "${resolved}" || warn "${DOMAIN} -> ${resolved}, qui n'est pas une adresse de ce serveur (NAT ?) : le certificat echouera si ce n'est pas son adresse publique."
-echo "OK : AVX2 present, $((mem_kb / 1024)) Mo de memoire, ${avail_gb} Go libres, ${DOMAIN} -> ${resolved}"
+echo "OK : AVX2 ${has_avx2}, $((mem_kb / 1024)) Mo de memoire, ${avail_gb} Go libres, ${DOMAIN} -> ${resolved}"
 
 # ---- 1. Packages and service user -------------------------------------------
 step 1 "Paquets, utilisateur de service, droits d'execution"
@@ -170,7 +175,7 @@ cat <<EOF
 
 ================ RESULTAT (sans secret : vous pouvez le coller dans le chat) ================
 systeme              : ${PRETTY_NAME:-?}
-processeur           : ${cpu_model} ($(nproc) coeurs, AVX2 oui)
+processeur           : ${cpu_model} ($(nproc) coeurs, AVX2 ${has_avx2})
 memoire              : $((mem_kb / 1024)) Mo
 disque racine        : ${avail_gb} Go libres au depart, rotatif=${root_rota} (0 = SSD)
 domaine              : ${DOMAIN} -> ${resolved}
