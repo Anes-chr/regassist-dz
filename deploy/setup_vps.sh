@@ -63,7 +63,7 @@ echo "OK : AVX2 present, $((mem_kb / 1024)) Mo de memoire, ${avail_gb} Go libres
 step 1 "Paquets, utilisateur de service, droits d'execution"
 export DEBIAN_FRONTEND=noninteractive
 apt-get update -y
-apt-get install -y python3 python3-venv python3-pip nginx curl libgomp1 git certbot apache2-utils ufw openssl ca-certificates
+apt-get install -y python3 python3-venv python3-pip nginx curl libgomp1 git certbot apache2-utils ufw openssl ca-certificates fail2ban
 id "${SVC_USER}" >/dev/null 2>&1 || useradd -r -s /bin/false "${SVC_USER}"
 mkdir -p "${LLM}" /var/log/regassist
 # Git keeps these scripts as 100644 when they were committed from Windows; systemd needs them executable.
@@ -119,6 +119,8 @@ ufw allow 80/tcp >/dev/null
 ufw allow 443/tcp >/dev/null
 ufw --force enable >/dev/null
 echo "OK : pare-feu actif (SSH ${SSH_PORT}, 80, 443)."
+systemctl enable --now fail2ban >/dev/null     # default jail: bans addresses that repeatedly fail SSH logins
+echo "OK : fail2ban actif (blocage des adresses qui multiplient les essais SSH)."
 
 rm -f /etc/nginx/sites-enabled/default      # the stock site also claims port 80 as default_server
 systemctl stop nginx
